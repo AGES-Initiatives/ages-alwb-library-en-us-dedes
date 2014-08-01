@@ -1,0 +1,985 @@
+A_Resource_Whose_Name = me.m12.d24_en_US_dedes
+
+meDate.text = "December 24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = "Christmas Eve"
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
+meNote.text = ""
+
+meVE.Stichera01.mode = misc_en_US_dedes.Mode4
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera01.text = ""
+
+meVE.Stichera02.mode = misc_en_US_dedes.Mode4
+meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera02.text = ""
+
+meVE.Stichera03.mode = misc_en_US_dedes.Mode4
+meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera03.text = ""
+
+meVE.Stichera04.mode = misc_en_US_dedes.Mode2
+meVE.Stichera04.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.Stichera04.text = ""
+
+meVE.Stichera05.mode = misc_en_US_dedes.Mode2
+meVE.Stichera05.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.Stichera05.text = ""
+
+meVE.Stichera06.mode = misc_en_US_dedes.Mode2
+meVE.Stichera06.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.Stichera06.text = ""
+
+meVE.SticGlory.mode = misc_en_US_dedes.Mode2
+meVE.SticGlory.melody  = ""
+meVE.SticGlory.text = ""
+
+meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
+meVE.Aposticha1.melody  = ""
+meVE.Aposticha1.text = ""
+
+meVE.ApostichaVerse2.source  = ""
+meVE.ApostichaVerse2.text = ""
+
+meVE.Aposticha2.mode = misc_en_US_dedes.Mode1
+meVE.Aposticha2.melody  = ""
+meVE.Aposticha2.text = ""
+
+meVE.ApostichaVerse3.source  = ""
+meVE.ApostichaVerse3.text = ""
+
+meVE.Aposticha3.mode = misc_en_US_dedes.Mode1
+meVE.Aposticha3.melody  = ""
+meVE.Aposticha3.text = ""
+
+meVE.AposGlory.mode = misc_en_US_dedes.Mode6
+meVE.AposGlory.melody  = ""
+meVE.AposGlory.text = ""
+
+meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
+meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meVE.Apolytikion1.text = "As she carried in her womb * what she conceived without seed, * Mary went to Bethlehem * with elder Joseph to enroll, * for they were of the house and lineage of David. * The time arrived for her * to give birth to her Child; * but then there was no place * in the inn for them. * Therefore the grotto served as a luxurious * royal palace for the Queen. * And Christ the Lord is born, to raise the image * which was formerly fallen."
+
+meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
+meVE.Apolytikion2.mode = misc_en_US_dedes.Mode3
+meVE.Apolytikion2.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
+meVE.Apolytikion2.text = ""
+
+meCO.C1Acrostic.text = ""
+
+meCO.Ode1C1H.ode = misc_en_US_dedes.Ode1
+meCO.Ode1C1H.mode = misc_en_US_dedes.Mode6
+meCO.Ode1C1H.melody = he.h.m6_en_US_dedes.KymatiThalassis.name
+meCO.Ode1C1H.text = ""
+
+meCO.Ode1C11.ode = misc_en_US_dedes.Ode1
+meCO.Ode1C11.mode = misc_en_US_dedes.Mode6
+meCO.Ode1C11.melody = he.h.m6_en_US_dedes.KymatiThalassis.name
+meCO.Ode1C11.text = ""
+
+meCO.Ode1C12.ode = misc_en_US_dedes.Ode1
+meCO.Ode1C12.mode = misc_en_US_dedes.Mode6
+meCO.Ode1C12.melody = he.h.m6_en_US_dedes.KymatiThalassis.name
+meCO.Ode1C12.text = ""
+
+meCO.Ode1C13.ode = misc_en_US_dedes.Ode1
+meCO.Ode1C13.mode = misc_en_US_dedes.Mode6
+meCO.Ode1C13.melody = he.h.m6_en_US_dedes.KymatiThalassis.name
+meCO.Ode1C13.text = ""
+
+meCO.Ode3C1H.ode = misc_en_US_dedes.Ode3
+meCO.Ode3C1H.mode = misc_en_US_dedes.Mode6
+meCO.Ode3C1H.melody = he.h.m6_en_US_dedes.SeTonEpiYdaton.name
+meCO.Ode3C1H.text = ""
+
+meCO.Ode3C11.ode = misc_en_US_dedes.Ode3
+meCO.Ode3C11.mode = misc_en_US_dedes.Mode6
+meCO.Ode3C11.melody = he.h.m6_en_US_dedes.SeTonEpiYdaton.name
+meCO.Ode3C11.text = ""
+
+meCO.Ode3C12.ode = misc_en_US_dedes.Ode3
+meCO.Ode3C12.mode = misc_en_US_dedes.Mode6
+meCO.Ode3C12.melody = he.h.m6_en_US_dedes.SeTonEpiYdaton.name
+meCO.Ode3C12.text = ""
+
+meCO.Ode3C13.ode = misc_en_US_dedes.Ode3
+meCO.Ode3C13.mode = misc_en_US_dedes.Mode6
+meCO.Ode3C13.melody = he.h.m6_en_US_dedes.SeTonEpiYdaton.name
+meCO.Ode3C13.text = ""
+
+meCO.Ode4C1H.ode = misc_en_US_dedes.Ode4
+meCO.Ode4C1H.mode = misc_en_US_dedes.Mode6
+meCO.Ode4C1H.melody = he.h.m2_en_US_dedes.TinEkParthenou.name
+meCO.Ode4C1H.text = ""
+
+meCO.Ode4C11.ode = misc_en_US_dedes.Ode4
+meCO.Ode4C11.mode = misc_en_US_dedes.Mode6
+meCO.Ode4C11.melody = he.h.m2_en_US_dedes.TinEkParthenou.name
+meCO.Ode4C11.text = ""
+
+meCO.Ode4C12.ode = misc_en_US_dedes.Ode4
+meCO.Ode4C12.mode = misc_en_US_dedes.Mode6
+meCO.Ode4C12.melody = he.h.m2_en_US_dedes.TinEkParthenou.name
+meCO.Ode4C12.text = ""
+
+meCO.Ode4C13.ode = misc_en_US_dedes.Ode4
+meCO.Ode4C13.mode = misc_en_US_dedes.Mode6
+meCO.Ode4C13.melody = he.h.m2_en_US_dedes.TinEkParthenou.name
+meCO.Ode4C13.text = ""
+
+meCO.Ode5C1H.ode = misc_en_US_dedes.Ode5
+meCO.Ode5C1H.mode = misc_en_US_dedes.Mode6
+meCO.Ode5C1H.melody = he.h.m6_en_US_dedes.ProsSeOrthrizo.name
+meCO.Ode5C1H.text = ""
+
+meCO.Ode5C11.ode = misc_en_US_dedes.Ode5
+meCO.Ode5C11.mode = misc_en_US_dedes.Mode6
+meCO.Ode5C11.melody = he.h.m6_en_US_dedes.ProsSeOrthrizo.name
+meCO.Ode5C11.text = ""
+
+meCO.Ode5C12.ode = misc_en_US_dedes.Ode5
+meCO.Ode5C12.mode = misc_en_US_dedes.Mode6
+meCO.Ode5C12.melody = he.h.m6_en_US_dedes.ProsSeOrthrizo.name
+meCO.Ode5C12.text = ""
+
+meCO.Ode5C13.ode = misc_en_US_dedes.Ode5
+meCO.Ode5C13.mode = misc_en_US_dedes.Mode6
+meCO.Ode5C13.melody = he.h.m6_en_US_dedes.ProsSeOrthrizo.name
+meCO.Ode5C13.text = ""
+
+meCO.Ode6C1H.ode = misc_en_US_dedes.Ode6
+meCO.Ode6C1H.mode = misc_en_US_dedes.Mode6
+meCO.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+meCO.Ode6C1H.text = he.h.m6_en_US_dedes.AvyssosEschati.text
+
+meCO.Ode6C11.ode = misc_en_US_dedes.Ode6
+meCO.Ode6C11.mode = misc_en_US_dedes.Mode6
+meCO.Ode6C11.melody = he.h.m6_en_US_dedes.AvyssosEschati.name
+meCO.Ode6C11.text = ""
+
+meCO.Ode6C12.ode = misc_en_US_dedes.Ode6
+meCO.Ode6C12.mode = misc_en_US_dedes.Mode6
+meCO.Ode6C12.melody = he.h.m6_en_US_dedes.AvyssosEschati.name
+meCO.Ode6C12.text = ""
+
+meCO.Ode6C13.ode = misc_en_US_dedes.Ode6
+meCO.Ode6C13.mode = misc_en_US_dedes.Mode6
+meCO.Ode6C13.melody = he.h.m6_en_US_dedes.AvyssosEschati.name
+meCO.Ode6C13.text = ""
+
+meCO.Ode7C1H.ode = misc_en_US_dedes.Ode7
+meCO.Ode7C1H.mode = misc_en_US_dedes.Mode6
+meCO.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+meCO.Ode7C1H.text = he.h.m6_en_US_dedes.OiPaidesEnVavyloni.text
+
+meCO.Ode7C11.ode = misc_en_US_dedes.Ode7
+meCO.Ode7C11.mode = misc_en_US_dedes.Mode6
+meCO.Ode7C11.melody = he.h.m6_en_US_dedes.OiPaidesEnVavyloni.name
+meCO.Ode7C11.text = ""
+
+meCO.Ode7C12.ode = misc_en_US_dedes.Ode7
+meCO.Ode7C12.mode = misc_en_US_dedes.Mode6
+meCO.Ode7C12.melody = he.h.m6_en_US_dedes.OiPaidesEnVavyloni.name
+meCO.Ode7C12.text = ""
+
+meCO.Ode7C13.ode = misc_en_US_dedes.Ode7
+meCO.Ode7C13.mode = misc_en_US_dedes.Mode6
+meCO.Ode7C13.melody = he.h.m6_en_US_dedes.OiPaidesEnVavyloni.name
+meCO.Ode7C13.text = ""
+
+meCO.Ode8C1H.ode = misc_en_US_dedes.Ode8
+meCO.Ode8C1H.mode = misc_en_US_dedes.Mode6
+meCO.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+meCO.Ode8C1H.text = he.h.m6_en_US_dedes.NomonPatroon.text
+
+meCO.Ode8C11.ode = misc_en_US_dedes.Ode8
+meCO.Ode8C11.mode = misc_en_US_dedes.Mode6
+meCO.Ode8C11.melody = he.h.m6_en_US_dedes.NomonPatroon.name
+meCO.Ode8C11.text = ""
+
+meCO.Ode8C12.ode = misc_en_US_dedes.Ode8
+meCO.Ode8C12.mode = misc_en_US_dedes.Mode6
+meCO.Ode8C12.melody = he.h.m6_en_US_dedes.NomonPatroon.name
+meCO.Ode8C12.text = ""
+
+meCO.Ode8C13.ode = misc_en_US_dedes.Ode8
+meCO.Ode8C13.mode = misc_en_US_dedes.Mode6
+meCO.Ode8C13.melody = he.h.m6_en_US_dedes.NomonPatroon.name
+meCO.Ode8C13.text = ""
+
+meCO.Ode9C1H.ode = misc_en_US_dedes.Ode9
+meCO.Ode9C1H.mode = misc_en_US_dedes.Mode6
+meCO.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+meCO.Ode9C1H.text = he.h.m2_en_US_dedes.AporeiPasaGlossa.text
+
+meCO.Ode9C11.ode = misc_en_US_dedes.Ode9
+meCO.Ode9C11.mode = misc_en_US_dedes.Mode6
+meCO.Ode9C11.melody = he.h.m2_en_US_dedes.AporeiPasaGlossa.name
+meCO.Ode9C11.text = ""
+
+meCO.Ode9C12.ode = misc_en_US_dedes.Ode9
+meCO.Ode9C12.mode = misc_en_US_dedes.Mode6
+meCO.Ode9C12.melody = he.h.m2_en_US_dedes.AporeiPasaGlossa.name
+meCO.Ode9C12.text = ""
+
+meCO.Ode9C13.ode = misc_en_US_dedes.Ode9
+meCO.Ode9C13.mode = misc_en_US_dedes.Mode6
+meCO.Ode9C13.melody = he.h.m2_en_US_dedes.AporeiPasaGlossa.name
+meCO.Ode9C13.text = ""
+
+meMA.Kathisma11.mode = misc_en_US_dedes.Mode6
+meMA.Kathisma11.melody = he.a.m6_en_US_dedes.AngelikaiDynameis.name
+meMA.Kathisma11.text = "The sayings of the Prophets are being now fulfilled, * for our God shall be born in the days to come * ineffably from Mary the Virgin, and He remains * what He was before childbirth. * The Magi have been gathered, bearing their precious gifts. * In the fields are the shepherds. And we sing a hymn to Him * who from a Virgin was born, \"Glory to You, O Lord.\""
+
+meMA.Kathisma21.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma21.melody = misc_en_US_dedes.Automelon
+meMA.Kathisma21.text = he.a.m8_en_US_dedes.AvlonPoimenikon.text
+
+meMA.C1Acrostic.text = ""
+
+meMA.C2Poet = poets_en_US_dedes.Iosif
+meMA.C2Acrostic.text = ""
+
+meMA.C3Poet = poets_en_US_dedes.Theofanous
+meMA.C3Acrostic.text = ""
+
+meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C1H.mode = misc_en_US_dedes.Mode6
+meMA.Ode1C1H.melody = he.h.m6_en_US_dedes.KymatiThalassis.name
+meMA.Ode1C1H.text = ""
+
+meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C11.mode = misc_en_US_dedes.Mode6
+meMA.Ode1C11.melody = he.h.m6_en_US_dedes.KymatiThalassis.name
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C12.mode = misc_en_US_dedes.Mode6
+meMA.Ode1C12.melody = he.h.m6_en_US_dedes.KymatiThalassis.name
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C13.mode = misc_en_US_dedes.Mode6
+meMA.Ode1C13.melody = he.h.m6_en_US_dedes.KymatiThalassis.name
+meMA.Ode1C13.text = ""
+
+meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C21.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.name
+meMA.Ode1C21.text = ""
+
+meMA.Ode1C22.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C22.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.name
+meMA.Ode1C22.text = ""
+
+meMA.Ode1C23.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C23.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C23.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.name
+meMA.Ode1C23.text = ""
+
+meMA.Ode1C31.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C31.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C31.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.name
+meMA.Ode1C31.text = ""
+
+meMA.Ode1C32.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C32.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C32.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.name
+meMA.Ode1C32.text = ""
+
+meMA.Ode1C33.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C33.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C33.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.name
+meMA.Ode1C33.text = ""
+
+meMA.Ode1C34.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C34.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C34.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.name
+meMA.Ode1C34.text = ""
+
+meMA.Ode1C3T.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C3T.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C3T.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.name
+meMA.Ode1C3T.text = ""
+
+meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C1H.mode = misc_en_US_dedes.Mode6
+meMA.Ode3C1H.melody = he.h.m6_en_US_dedes.SeTonEpiYdaton.name
+meMA.Ode3C1H.text = ""
+
+meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C11.mode = misc_en_US_dedes.Mode6
+meMA.Ode3C11.melody = he.h.m6_en_US_dedes.SeTonEpiYdaton.name
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C12.mode = misc_en_US_dedes.Mode6
+meMA.Ode3C12.melody = he.h.m6_en_US_dedes.SeTonEpiYdaton.name
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C13.mode = misc_en_US_dedes.Mode6
+meMA.Ode3C13.melody = he.h.m6_en_US_dedes.SeTonEpiYdaton.name
+meMA.Ode3C13.text = ""
+
+meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C21.melody = he.h.m2_en_US_dedes.ExinthisenIErimos.name
+meMA.Ode3C21.text = ""
+
+meMA.Ode3C22.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C22.melody = he.h.m2_en_US_dedes.ExinthisenIErimos.name
+meMA.Ode3C22.text = ""
+
+meMA.Ode3C23.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C23.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C23.melody = he.h.m2_en_US_dedes.ExinthisenIErimos.name
+meMA.Ode3C23.text = ""
+
+meMA.Ode3C31.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C31.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C31.melody = he.h.m2_en_US_dedes.EnPetraMeTisPisteos.name
+meMA.Ode3C31.text = ""
+
+meMA.Ode3C32.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C32.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C32.melody = he.h.m2_en_US_dedes.EnPetraMeTisPisteos.name
+meMA.Ode3C32.text = ""
+
+meMA.Ode3C33.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C33.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C33.melody = he.h.m2_en_US_dedes.EnPetraMeTisPisteos.name
+meMA.Ode3C33.text = ""
+
+meMA.Ode3C3T.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C3T.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C3T.melody = he.h.m2_en_US_dedes.EnPetraMeTisPisteos.name
+meMA.Ode3C3T.text = ""
+
+meMA.Ode3H.ode = misc_en_US_dedes.Ode3
+meMA.Ode3H.mode = misc_en_US_dedes.Mode2
+meMA.Ode3H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3H.text = he.h.m2_en_US_dedes.EnPetraMeTisPisteos.text
+
+meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode1
+meMA.Ode3Kathisma1.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode3Kathisma2.mode = misc_en_US_dedes.Mode8
+meMA.Ode3Kathisma2.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Ode3Kathisma2.text = ""
+
+meMA.Ode3Kathisma3.mode = misc_en_US_dedes.Mode8
+meMA.Ode3Kathisma3.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+meMA.Ode3Kathisma3.text = ""
+
+meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C1H.mode = misc_en_US_dedes.Mode6
+meMA.Ode4C1H.melody = he.h.m2_en_US_dedes.TinEkParthenou.name
+meMA.Ode4C1H.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C11.mode = misc_en_US_dedes.Mode6
+meMA.Ode4C11.melody = he.h.m2_en_US_dedes.TinEkParthenou.name
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C12.mode = misc_en_US_dedes.Mode6
+meMA.Ode4C12.melody = he.h.m2_en_US_dedes.TinEkParthenou.name
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C13.mode = misc_en_US_dedes.Mode6
+meMA.Ode4C13.melody = he.h.m2_en_US_dedes.TinEkParthenou.name
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C21.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C21.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+meMA.Ode4C21.text = ""
+
+meMA.Ode4C22.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C22.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+meMA.Ode4C22.text = ""
+
+meMA.Ode4C23.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C23.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C23.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+meMA.Ode4C23.text = ""
+
+meMA.Ode4C24.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C24.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C24.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+meMA.Ode4C24.text = ""
+
+meMA.Ode4C31.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C31.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C31.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+meMA.Ode4C31.text = ""
+
+meMA.Ode4C32.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C32.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C32.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+meMA.Ode4C32.text = ""
+
+meMA.Ode4C33.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C33.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C33.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+meMA.Ode4C33.text = ""
+
+meMA.Ode4C34.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C34.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C34.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+meMA.Ode4C34.text = ""
+
+meMA.Ode4C3T.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C3T.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C3T.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+meMA.Ode4C3T.text = ""
+
+meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C1H.mode = misc_en_US_dedes.Mode6
+meMA.Ode5C1H.melody = he.h.m6_en_US_dedes.TheofaneiasSouChriste.name
+meMA.Ode5C1H.text = ""
+
+meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C11.mode = misc_en_US_dedes.Mode6
+meMA.Ode5C11.melody = he.h.m6_en_US_dedes.TheofaneiasSouChriste.name
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C12.mode = misc_en_US_dedes.Mode6
+meMA.Ode5C12.melody = he.h.m6_en_US_dedes.TheofaneiasSouChriste.name
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C13.mode = misc_en_US_dedes.Mode6
+meMA.Ode5C13.melody = he.h.m6_en_US_dedes.TheofaneiasSouChriste.name
+meMA.Ode5C13.text = ""
+
+meMA.Ode5C21.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C21.melody = he.h.m2_en_US_dedes.MesitisTheou.name
+meMA.Ode5C21.text = ""
+
+meMA.Ode5C22.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C22.melody = he.h.m2_en_US_dedes.MesitisTheou.name
+meMA.Ode5C22.text = ""
+
+meMA.Ode5C23.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C23.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C23.melody = he.h.m2_en_US_dedes.MesitisTheou.name
+meMA.Ode5C23.text = ""
+
+meMA.Ode5C31.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C31.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C31.melody = he.h.m2_en_US_dedes.OFotismos.name
+meMA.Ode5C31.text = ""
+
+meMA.Ode5C32.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C32.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C32.melody = he.h.m2_en_US_dedes.OFotismos.name
+meMA.Ode5C32.text = ""
+
+meMA.Ode5C33.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C33.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C33.melody = he.h.m2_en_US_dedes.OFotismos.name
+meMA.Ode5C33.text = ""
+
+meMA.Ode5C3T.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C3T.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C3T.melody = he.h.m2_en_US_dedes.OFotismos.name
+meMA.Ode5C3T.text = ""
+
+meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C1H.mode = misc_en_US_dedes.Mode6
+meMA.Ode6C1H.melody = he.h.m6_en_US_dedes.SyneschethiAllOuKateschethi.name
+meMA.Ode6C1H.text = ""
+
+meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C11.mode = misc_en_US_dedes.Mode6
+meMA.Ode6C11.melody = he.h.m6_en_US_dedes.SyneschethiAllOuKateschethi.name
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C12.mode = misc_en_US_dedes.Mode6
+meMA.Ode6C12.melody = he.h.m6_en_US_dedes.SyneschethiAllOuKateschethi.name
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C13.mode = misc_en_US_dedes.Mode6
+meMA.Ode6C13.melody = he.h.m6_en_US_dedes.SyneschethiAllOuKateschethi.name
+meMA.Ode6C13.text = ""
+
+meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C21.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+meMA.Ode6C21.text = ""
+
+meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C22.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+meMA.Ode6C22.text = ""
+
+meMA.Ode6C23.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C23.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C23.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+meMA.Ode6C23.text = ""
+
+meMA.Ode6C31.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C31.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C31.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+meMA.Ode6C31.text = ""
+
+meMA.Ode6C32.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C32.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C32.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+meMA.Ode6C32.text = ""
+
+meMA.Ode6C33.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C33.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C33.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+meMA.Ode6C33.text = ""
+
+meMA.Ode6C3T.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C3T.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C3T.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+meMA.Ode6C3T.text = ""
+
+meMA.Ode6H.ode = misc_en_US_dedes.Ode6
+meMA.Ode6H.mode = misc_en_US_dedes.Mode2
+meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6H.text = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.text
+
+meMA.Kontakion1.mode = misc_en_US_dedes.Mode3
+meMA.Kontakion1.melody = misc_en_US_dedes.Automelon
+meMA.Kontakion1.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
+
+meMA.Kontakion2.mode = misc_en_US_dedes.Mode4
+meMA.Kontakion2.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+meMA.Kontakion2.text = ""
+
+meMA.Oikos2.text = ""
+
+meMA.Synaxarion.text  = ""
+
+meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C1H.mode = misc_en_US_dedes.Mode6
+meMA.Ode7C1H.melody = he.h.m6_en_US_dedes.AfrastonThavma.name
+meMA.Ode7C1H.text = ""
+
+meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C11.mode = misc_en_US_dedes.Mode6
+meMA.Ode7C11.melody = he.h.m6_en_US_dedes.AfrastonThavma.name
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C12.mode = misc_en_US_dedes.Mode6
+meMA.Ode7C12.melody = he.h.m6_en_US_dedes.AfrastonThavma.name
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C13.mode = misc_en_US_dedes.Mode6
+meMA.Ode7C13.melody = he.h.m6_en_US_dedes.AfrastonThavma.name
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C14.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C14.mode = misc_en_US_dedes.Mode6
+meMA.Ode7C14.melody = he.h.m6_en_US_dedes.AfrastonThavma.name
+meMA.Ode7C14.text = ""
+
+meMA.Ode7C21.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C21.melody = he.h.m2_en_US_dedes.AntitheonProstagma.name
+meMA.Ode7C21.text = ""
+
+meMA.Ode7C22.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C22.melody = he.h.m2_en_US_dedes.AntitheonProstagma.name
+meMA.Ode7C22.text = ""
+
+meMA.Ode7C23.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C23.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C23.melody = he.h.m2_en_US_dedes.AntitheonProstagma.name
+meMA.Ode7C23.text = ""
+
+meMA.Ode7C31.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C31.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C31.melody = he.h.m2_en_US_dedes.AntitheonProstagma.name
+meMA.Ode7C31.text = ""
+
+meMA.Ode7C32.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C32.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C32.melody = he.h.m2_en_US_dedes.AntitheonProstagma.name
+meMA.Ode7C32.text = ""
+
+meMA.Ode7C33.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C33.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C33.melody = he.h.m2_en_US_dedes.AntitheonProstagma.name
+meMA.Ode7C33.text = ""
+
+meMA.Ode7C3T.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C3T.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C3T.melody = he.h.m2_en_US_dedes.AntitheonProstagma.name
+meMA.Ode7C3T.text = ""
+
+meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1H.mode = misc_en_US_dedes.Mode6
+meMA.Ode8C1H.melody = he.h.m6_en_US_dedes.EkstithiFrittonOurane.name
+meMA.Ode8C1H.text = ""
+
+meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C11.mode = misc_en_US_dedes.Mode6
+meMA.Ode8C11.melody = he.h.m6_en_US_dedes.EkstithiFrittonOurane.name
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C12.mode = misc_en_US_dedes.Mode6
+meMA.Ode8C12.melody = he.h.m6_en_US_dedes.EkstithiFrittonOurane.name
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C13.mode = misc_en_US_dedes.Mode6
+meMA.Ode8C13.melody = he.h.m6_en_US_dedes.EkstithiFrittonOurane.name
+meMA.Ode8C13.text = ""
+
+meMA.Ode8C21.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C21.melody = he.h.m2_en_US_dedes.KaminosPote.name
+meMA.Ode8C21.text = ""
+
+meMA.Ode8C22.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C22.melody = he.h.m2_en_US_dedes.KaminosPote.name
+meMA.Ode8C22.text = ""
+
+meMA.Ode8C23.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C23.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C23.melody = he.h.m2_en_US_dedes.KaminosPote.name
+meMA.Ode8C23.text = ""
+
+meMA.Ode8C31.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C31.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C31.melody = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.name
+meMA.Ode8C31.text = ""
+
+meMA.Ode8C32.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C32.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C32.melody = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.name
+meMA.Ode8C32.text = ""
+
+meMA.Ode8C33.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C33.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C33.melody = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.name
+meMA.Ode8C33.text = ""
+
+meMA.Ode8C34.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C34.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C34.melody = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.name
+meMA.Ode8C34.text = ""
+
+meMA.Ode8C3T.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C3T.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C3T.melody = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.name
+meMA.Ode8C3T.text = ""
+
+meMA.Ode8H.ode = misc_en_US_dedes.Ode8
+meMA.Ode8H.mode = misc_en_US_dedes.Mode2
+meMA.Ode8H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8H.text = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.text
+
+meMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C1H.mode = misc_en_US_dedes.Mode6
+meMA.Ode9C1H.melody = he.h.m6_en_US_dedes.MiEpodyrouMouMiter.name
+meMA.Ode9C1H.text = ""
+
+meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C11.mode = misc_en_US_dedes.Mode6
+meMA.Ode9C11.melody = he.h.m6_en_US_dedes.MiEpodyrouMouMiter.name
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C12.mode = misc_en_US_dedes.Mode6
+meMA.Ode9C12.melody = he.h.m6_en_US_dedes.MiEpodyrouMouMiter.name
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C13.mode = misc_en_US_dedes.Mode6
+meMA.Ode9C13.melody = he.h.m6_en_US_dedes.MiEpodyrouMouMiter.name
+meMA.Ode9C13.text = ""
+
+meMA.Ode9C21.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C21.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+meMA.Ode9C21.text = ""
+
+meMA.Ode9C22.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C22.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+meMA.Ode9C22.text = ""
+
+meMA.Ode9C23.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C23.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C23.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+meMA.Ode9C23.text = ""
+
+meMA.Ode9C24.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C24.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C24.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+meMA.Ode9C24.text = ""
+
+meMA.Ode9C31.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C31.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C31.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+meMA.Ode9C31.text = ""
+
+meMA.Ode9C32.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C32.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C32.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+meMA.Ode9C32.text = ""
+
+meMA.Ode9C33.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C33.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C33.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+meMA.Ode9C33.text = ""
+
+meMA.Ode9C34.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C34.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C34.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+meMA.Ode9C34.text = ""
+
+meMA.Ode9C3T.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C3T.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C3T.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+meMA.Ode9C3T.text = ""
+
+meMA.Ode9H.ode = misc_en_US_dedes.Ode9
+meMA.Ode9H.mode = misc_en_US_dedes.Mode2
+meMA.Ode9H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9H.text = he.h.m2_en_US_dedes.AnarchouGennitoros.text
+
+meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.text = ""
+
+meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion2.text = ""
+
+meMA.Exaposteilarion3.mode = misc_en_US_dedes.Mode2
+meMA.Exaposteilarion3.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion3.text = ""
+
+meMA.Lauds1.mode = misc_en_US_dedes.Mode6
+meMA.Lauds1.melody = he.a.m6_en_US_dedes.AiAngelikai.name
+meMA.Lauds1.text = ""
+
+meMA.Lauds2.mode = misc_en_US_dedes.Mode6
+meMA.Lauds2.melody = he.a.m6_en_US_dedes.AiAngelikai.name
+meMA.Lauds2.text = ""
+
+meMA.Lauds3.mode = misc_en_US_dedes.Mode6
+meMA.Lauds3.melody = he.a.m6_en_US_dedes.AiAngelikai.name
+meMA.Lauds3.text = ""
+
+meMA.Lauds4.mode = misc_en_US_dedes.Mode6
+meMA.Lauds4.melody = he.a.m6_en_US_dedes.AiAngelikai.name
+meMA.Lauds4.text = ""
+
+meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
+meMA.LaudsGlory.melody = he.a.m6_en_US_dedes.AiAngelikai.name
+meMA.LaudsGlory.text = ""
+
+meMA.LaudsBoth.mode = misc_en_US_dedes.Mode6
+meMA.LaudsBoth.melody = he.a.m6_en_US_dedes.AiAngelikai.name
+meMA.LaudsBoth.text = ""
+
+meMA.LaudsSundayVerse1.source  = ""
+meMA.LaudsSundayVerse1.text = ""
+
+meMA.LaudsSundayVerse2.source  = ""
+meMA.LaudsSundayVerse2.text = ""
+
+meMA.Aposticha1.mode = misc_en_US_dedes.Mode2
+meMA.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meMA.Aposticha1.text = ""
+
+meMA.ApostichaVerse2.source  = ""
+meMA.ApostichaVerse2.text = ""
+
+meMA.Aposticha2.mode = misc_en_US_dedes.Mode2
+meMA.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meMA.Aposticha2.text = ""
+
+meMA.ApostichaVerse3.source  = ""
+meMA.ApostichaVerse3.text = ""
+
+meMA.Aposticha3.mode = misc_en_US_dedes.Mode2
+meMA.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meMA.Aposticha3.text = ""
+
+meMA.AposGlory.mode = misc_en_US_dedes.Mode8
+meMA.AposGlory.melody  = ""
+meMA.AposGlory.text = ""
+
+meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
+meLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
+meLI.SeasonalKontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
+
+meMegalynarion.text = ""
+
+meGH.title = "SERVICE OF THE GREAT HOURS"
+meGH.translation = "Psalms and Idiomela translated by Archimandrite Ephrem Lash, unless otherwise noted."
+meGH.Hour1.title = "FIRST HOUR"
+meGH.Hour1Ps1.source = "5"
+meGH.Hour1Ps1.title = "Psalm 5"
+//meGH.Hour1Ps1.text = "Give ear to my words, O Lord, understand my cry. Attend to the voice of my supplication, my King and my God, for to you I shall pray, O Lord. In the morning you will hear my voice. In the morning I shall stand before you, and you will watch over me, because you are not a God who wants iniquity. The evildoer will not dwell with you, nor will the lawless remain before your eyes. You have hated all those who work iniquity; you will destroy all those who speak lies. The Lord abhors a man of bloodshed and deceit. But I in the abundance of your mercy shall enter your house, I shall worship towards your holy temple in fear of you. Guide me, O Lord, in your justice because of my enemies, direct my way before you. Because there is no truth in their mouths; their heart is vain. Their throat is an open tomb, they deceive with their tongues. Judge them, O God. Let them fall through their counsels; according to the multitude of their impieties cast them out, for they have embittered you, O Lord. And may all those who hope in you be glad; they will rejoice for ever, and you will dwell among them, and all those who love your name will boast in you. Because you will bless the righteous; you have crowned him, O Lord, with your good pleasure."
+meGH.Hour1Ps2.source = "44"
+meGH.Hour1Ps2.title = "Psalm 44"
+//meGH.Hour1Ps2.text = "My heart has uttered a good Word. I tell my works to the King. My tongue is the pen of ready writer. You are lovely with a beauty beyond the children of men. Grace has poured from your lips, therefore God has blessed you for ever. Gird your sword on your thigh, O mighty warrior. In your splendour and beauty, draw your bow and prosper and reign in the cause of truth and meekness and justice, and your right hand will guide you wonderfully. Your throne, O God, is forever and ever; the sceptre of your Kingdom is a rod of justice. You have loved right and hated wrong, therefore God your God has anointed you with the oil of gladness beyond your fellows. Your garments are fragrant with myrrh, aloes and cassia, from the ivory palaces which gladden you. Kings' daughters are in your train. The Queen stood at your right hand arrayed in gold wrought with many colours. Listen my daughter and see, and incline your ear. And forget your people and your father's house. Then the King will desire your beauty, for he is your God and your shall worship him. And the daughter of Tyre will worship you with gifts. The richest of the people will entreat your favour. All the glory of the King's daughter is within, though she is arrayed in tasselled gold, wrought with many colours. The virgins in her train will be brought to the King, those near her will be brought to you. They will be brought with joy and gladness, they will be led into the King's temple. Instead of your fathers, sons are born to you. You shall make them rulers over all the earth. I will remember your name throughout all generations, therefore people will praise and thank you for ever and ever."
+meGH.Hour1Ps3.source = "45"
+meGH.Hour1Ps3.title = "Psalm 45"
+//meGH.Hour1Ps3.text = "God is our refuge and our power, a help in the afflictions that beset us greatly. Therefore we shall not be afraid when the earth is troubled, and mountains are removed into the heart of the sea. Their waters roared and were troubled, the mountains were troubled by his might. The surgings of the river delight the City of God; the Most High has sanctified his tabernacle. God is in the midst of her, and she will not be shaken; God will help her towards the morning. Nations were troubled, kingdoms tottered, he uttered his voice, the earth was shaken. The Lord of powers is with us, our helper is the God of Jacob. Come and see the works of God, the wonders he has done upon the earth, putting an end to wars as far as the ends of the earth. He will smash the bow and shatter the weapon, and burn the shields with fire. Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth. The God of powers is with us, our helper is the God of Jacob."
+meGH.Hour1Troparion.text = meVE.Apolytikion1.text
+meGH.Hour1Idiomelon1.mode = misc_en_US_dedes.Mode8
+meGH.Hour1Idiomelon1.text = "Prepare, O Bethlehem. Let the manger make ready and the grotto anticipate. The truth has come and the shadow has passed away. Born of a Virgin, God has appeared to men, taking our form and deifying that which He assumed. Therefore Adam and Eve are renewed, and they cry out, \"The good-pleasure of God has appeared on earth for the salvation of the human race.\" (eMatins)"
+meGH.Hour1Verse1.source = ""
+meGH.Hour1Verse1.text = "God will come from Theman, and the Holy One from a mountain overshadowed by forest."
+meGH.Hour1Idiomelon2.mode = misc_en_US_dedes.Mode3
+meGH.Hour1Idiomelon2.text = "Now the prophesy draws near to its fulfillment which mystically foretold, \"And you, O Bethlehem in the land of Judah, are not the least among the princes, preparing as you do the cave; for out of you shall come forth unto me a Governor of the Nations in the flesh born of a virgin Maiden, Christ our God who as a shepherd shall tend His people, the new Israel.\" Let us all give Him glory. (eMatins)"
+meGH.Hour1Verse2.source = ""
+meGH.Hour1Verse2.text = "Lord, I heard your report and was afraid."
+meGH.Hour1Idiomelon3.mode = misc_en_US_dedes.Mode8
+meGH.Hour1Idiomelon3.text = "Thus did Joseph speak to the Virgin, \"Mary, what is this I see in you? I cannot understand it, and I am amazed and my mind is struck with dismay. Therefore get out of my sight quickly. Mary, what is this I see in you? Instead of honor, you have brought me shame; instead of joy, you have caused me sorrow; and instead of being praised, you have brought me reproof. I can no longer endure the reproach of men. When I received you from the temple by the hands of the priests, you were an innocent girl consecrated to the Lord. So what is this that I see now?\" (eMatins)"
+meGH.Hour1Prokeimenon.mode = misc_en_US_dedes.Mode4
+meGH.Hour1Prokeimenon.source = "2"
+meGH.Hour1Prokeimenon.text = "The Lord said to me, 'You are my Son, * today I have begotten you'."
+meGH.Hour1ProkVerse.source  = ""
+meGH.Hour1ProkVerse.text = "Ask of me, and I shall give you the Nations as your inheritance."
+meGH.Hour1Prophecy.book = "the Prophecy of Micheas."
+meGH.Hour1Prophecy.chapverse = "[5:1-3]"
+meGH.Hour1Prophecy.text = "Thus says the Lord: And you Bethlehem, house of Ephratha, are not least among the thousands of Juda; for from you there will come forth for me the one who is to be ruler in Israel, and his goings out are from the beginning, from eternity. Because of this he will give them until the moment that she who bears child shall bring to birth; and the remainder of his brethren will return to the children of Israel. And he will stand and will see, and shepherd his flock in the strength of the Lord, and they will abide in the glory of the name of the Lord his God; for now they will be magnified even to the extremities of the earth."
+//meGH.Hour1Epistle.book = bible_en_US_saas.Hebrews
+meGH.Hour1Epistle.chapverse = "[1:1-12]"
+meGH.Hour1Epistle.text = "In many and varied ways God spoke of old to our fathers by the prophets; but in these last days he has spoken to us by a Son, whom he appointed the heir of all things, through whom also he created the ages. He is the radiance of his glory and the very imprint of his substance, upholding the universe by the word of his power. When he had made purification for our sins, he sat down at the right hand of the Majesty on high, having become as much superior to angels as the name he has obtained is more excellent than theirs. For to which of the angels did God ever say, 'You are my Son, today I have begotten you'? Or again, 'I will be to him a father, and he shall be to me a son'? And again, when he brings the first-born into the world, he says, 'Let all God's angels worship him.' Of the angels he says, 'Who makes his angels spirits and his ministers flames of fire.' But to the Son he says, 'Your throne, O God, is to age on age, the sceptre of justice is the sceptre of your kingdom. You have loved justice and hated iniquity; therefore God, your God, has anointed you with the oil of gladness beyond your comrades.' And, 'You, Lord, founded the earth in the beginning, and the heavens are the work of your hands; they will perish, but you remain; they will all grow old like a garment, like a mantle you will roll them up, and they will be changed. But you are the same, and your years will never end.'"
+//meGH.Hour1Gospel.book = bible_en_US_saas.Matthew
+meGH.Hour1Gospel.chapverse = "[1:18-25]"
+meGH.Hour1Gospel.text = "Now the birth of Jesus Christ took place in this way. When his mother Mary had been betrothed to Joseph, but before they had come together, she was found to be with child from the Holy Spirit. Her husband Joseph, being a just man and unwilling to expose her to public disgrace, planned to dismiss her quietly. But just when he had resolved to do this, an angel of the Lord appeared to him in a dream and said, 'Joseph, son of David, do not be afraid to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. She will bear a son, and you are to name him Jesus, for he will save his people from their sins.' All this took place to fulfil what had been spoken by the Lord through the prophet: 'See, the virgin shall conceive and bear a son, and they shall call his name Emmanuel,' which means, 'God is with us.' When Joseph awoke from sleep, he did as the angel of the Lord commanded him; he took her as his wife, but he did not know her until she had borne a son; and he named him Jesus."
+meGH.Hour1Kontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
+
+meGH.Hour3.title = "THIRD HOUR"
+meGH.Hour3Ps1.source = "66"
+meGH.Hour3Ps1.title = "Psalm 66"
+meGH.Hour3Ps1.text = "May God be merciful to us and bless us; make his face shine upon us and have mercy on us. To make your way known on the earth, your salvation among all nations. Let peoples confess you, O God, let all peoples confess you. Let nations rejoice and be glad, because you judge peoples with equity and guide nations on the earth. Let peoples confess you, O God, let all peoples confess you; earth has given its fruit. May God, our God, bless us, and let all the ends of the earth fear him."
+meGH.Hour3Ps2.source = "86"
+meGH.Hour3Ps2.title = "Psalm 86"
+meGH.Hour3Ps2.text = "His foundations are in the holy mountains; the Lord loves the gates of Sion more than all the tabernacles of Jacob. Glorious things have been said of you, City of God. I shall remember Rahab and Babylon to those who know me. See, foreigners and Tyre and people of the Ethiopians, these were born in her. My mother is Sion, a man will say; and a man was born in her, and he the Most high founded her. The Lord will recount in writing of peoples, and of these rulers that have been born in her. Dwelling in you is as that of all who rejoice."
+meGH.Hour3Ps3.source = "50"
+meGH.Hour3Ps3.title = "Psalm 50"
+meGH.Hour3Ps3.text = "Have mercy on me O God, in your great mercy: according to the fullness of your pity blot out my offence. Wash me thoroughly from my wickedness: and cleanse me from my sin. For I acknowledge my wickedness: and my sin is ever before me. Against you only have I sinned and done what is evil in your sight: that you may be justified in your words, and win when you are judged. For see, in wickedness I was conceived: and in sin my mother bore me. For see, you have loved truth: you have shown me wisdom's hidden and secret things. You will sprinkle me with hyssop and I shall be cleansed: You will wash me, and I shall be whiter than snow. You will make me hear of joy and gladness: the bones which have been humbled will rejoice. Turn away your face from my sins: and blot out all my iniquities. Create a clean heart in me, O God: and renew a right Spirit within me. Do not cast me out of your presence: do not take your Holy Spirit from me. O give me back the joy of your salvation: and establish me with a sovereign Spirit. Then I shall teach transgressors your ways: and sinners will turn to you again. O God, the God of my salvation, deliver me from bloodshed: and my tongue will rejoice at your righteousness. O Lord, you will open my lips: and my mouth will declare your praise. For if you had wanted sacrifice, I would have given it: burnt offerings do not please you. A sacrifice for God is a broken spirit: a broken and a humbled heart, O God, you will not despise. In your good pleasure do good to Sion: and let the walls of Jerusalem be rebuilt. Then you will take pleasure in a sacrifice of righteousness, oblation and burnt offerings: then they will offer calves upon your altar."
+meGH.Hour3Troparion.text = meVE.Apolytikion1.text
+meGH.Hour3Idiomelon1.mode = misc_en_US_dedes.Mode6
+meGH.Hour3Idiomelon1.text = "This is our God, another will not be reckoned in comparison with him, born of a Virgin and passing his life among men. The only-begotten Son appears as a mortal, lying in a poor manger, and the Lord of glory is wrapped in swaddling clothes; and a star guides Magi to worship him; and we sing, Holy Trinity, save our souls."
+meGH.Hour3Verse1.source = ""
+meGH.Hour3Verse1.text = "God will come from Theman, and the Holy One from a mountain overshadowed by forest."
+meGH.Hour3Idiomelon2.mode = misc_en_US_dedes.Mode8
+meGH.Hour3Idiomelon2.text = "Before your Nativity, Lord, the heavenly hosts looked with trembling on the mystery and were struck with wonder; for you were well pleased to be born as a babe, you who adorned the vault of heaven with stars; and you have been laid in a manger of dumb beasts, you who hold all the ends of the earth in the hollow of your hand; for by such a dispensation your compassion and great mercy have been made known. O Christ, glory to you!"
+meGH.Hour3Verse2.source = ""
+meGH.Hour3Verse2.text = "Lord, I heard your report and was afraid."
+meGH.Hour3Idiomelon3.mode = misc_en_US_dedes.Mode3
+meGH.Hour3Idiomelon3.text = "Tell us, O Joseph, how is it that you bring to Bethlehem great with child the Maiden whom from the sanctuary you received? I, says he, have searched the Prophets and received a revelation from an Angel; and convinced am I that Mary shall give birth to God in ways surpassing all interpretation. And to worship Him shall Magi from the east come with precious gifts to pay homage unto Him. O Lord who for our sake have taken flesh, glory to You. (eMatins)"
+meGH.Hour3Prokeimenon.mode = misc_en_US_dedes.Mode4
+meGH.Hour3Prokeimenon.source  = ""
+meGH.Hour3Prokeimenon.text = "For a Child has been born for us, * and a Son has been given to us."
+meGH.Hour3ProkVerse.source  = ""
+meGH.Hour3ProkVerse.text = "Whose government is upon his shoulder."
+meGH.Hour3Prophecy.book = "the Prophecy of Jeremias."
+meGH.Hour3Prophecy.chapverse = "[Baruch 3:36-38. 4:1-4]"
+meGH.Hour3Prophecy.text = "This is our God, and there shall be none other reckoned in comparison with him. He has found out all the way of knowledge, and given it to Jacob his servant and Israel his beloved. After this he appeared on earth and lived among men. This is the book of the commandments of God, and the law which exists for ever; all those who keep it fast will have life; but those who abandon it will die. Turn back Jacob, and lay hold of it, walk in the presence of its light to be illumined. Do not give your glory to another, and what is profitable to you to a foreign nation."
+//meGH.Hour3Epistle.book = bible_en_US_saas.Galatians
+meGH.Hour3Epistle.chapverse = "[3:23-29]"
+meGH.Hour3Epistle.text = "Brethren, before faith came, we were confined under the law, kept under restraint until faith should be revealed. So that the law was our custodian until Christ came, that we might be justified by faith. But now that faith has come, we are no longer under a custodian; for in Christ Jesus you are all children of God, through faith. For as many of you as have been baptized into Christ have put on Christ. There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female; for you are all one in Christ Jesus. And if you are Christ's, then you are Abraham's offspring, heirs according to promise."
+//meGH.Hour3Gospel.book = bible_en_US_saas.Luke
+meGH.Hour3Gospel.chapverse = "[2:1-20]"
+meGH.Hour3Gospel.text = "In those days a decree went out from Caesar Augustus that all the world should be enrolled. This was the first enrolment and was taken while Quirinius was governor of Syria. All went to their own towns to be registered. Joseph also went from the town of Nazareth in Galilee to Judea, to the city of David called Bethlehem, because he was from the house and family of David. He went to be enrolled with Mary, his espoused wife who was with child. While they were there, the time came for her to be delivered. And she gave birth to her firstborn son and wrapped him in swaddling clothes, and laid him in a manger, because there was no place for them in the inn. In that region there were shepherds abiding in the fields, keeping watch over their flock by night. Then an angel of the Lord stood before them, and the glory of the Lord shone around them, and they were sore afraid. But the angel said to them, 'Fear not; for see — I am bringing you good tidings of great joy for all the people: to you is born this day in the city of David a Saviour, who is Christ, the Lord. This will be a sign for you: you will find a child wrapped in swaddling clothes and lying in a manger.' And suddenly there was with the angel a multitude of the heavenly host, praising God and saying, 'Glory to God in the highest, and on earth peace, among men good will!' When the angels had left them and gone into heaven, the shepherds said to one another, 'Let us go now to Bethlehem and see this thing that has come to pass, which the Lord has made known to us.' So they went with haste and found Mary and Joseph, and the child lying in the manger. When they saw this, they made known what had been told them about this child; and all who heard it were amazed at what the shepherds told them. But Mary treasured all these words and pondered them in her heart. The shepherds returned, glorifying and praising God for all they had heard and seen, as it had been told them."
+meGH.Hour3Kontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
+
+meGH.Hour6.title = "SIXTH HOUR"
+meGH.Hour6Ps1.source = "71"
+meGH.Hour6Ps1.title = "Psalm 71"
+meGH.Hour6Ps1.text = "O God give your judgement to the King, and your justice to the son of the King. To judge your people with justice, and your poor with judgement. Let the mountains bring peace to the people, and the hills justice. He will judge the poor of the people and save the sons of the paupers, and humble the slanderer. He will continue as long as the sun, and before the moon for generations of generations. He will come like rain upon a fleece, and like a drop falling upon the earth. In his days justice will dawn, and abundance of peace until the moon be taken away. Ethiopians shall fall down before him, and his enemies lick the dust. Kings of Tharsis and islands shall offer gifts, Kings of Arabs and of Saba shall bring gifts. And all the kings of the earth shall fall down before him, all the Nations shall serve him. For he has delivered the pauper from the man of power and the poor who had no helper. He will rescue their souls from interest and injustice, and their name shall be precious before him. And he shall live, and there shall be given him of the gold of Arabia; and they shall pray for him continually; the whole day they shall praise him. There will be an establishment on the earth, on the peaks of the mountains; its fruit shall be exalted above Libanus, and from the city they will flourish as the grass of the field."
+meGH.Hour6Ps2.source = "131"
+meGH.Hour6Ps2.title = "Psalm 131"
+meGH.Hour6Ps2.text = "O Lord remember David and all his meekness; how he swore to the Lord, made a vow to the God of Jacob: If I enter the shelter of my house, if I climb into my bed, If I give sleep to my eyes, slumber to my eyelids and rest to my temples, Until I find a place for the Lord, a dwelling for the God of Jacob. See, we heard of it in Ephrata, we found it in the woodland fields. We shall enter his dwellings, we shall worship towards the place where his feet have stood. Arise, Lord, into your rest, you and the ark of your holiness. Your priests will be clothed with justice, and your holy ones will rejoice. For David, your servant's sake, do not turn away the face of your Christ. The Lord has sworn truth to David and he will not annul it: Of the fruit of your womb I shall place on your throne; If your sons keep my covenant and these testimonies of mine which I shall teach them, Their sons too will sit on your throne for ever. For the Lord has elected Sion, has chosen her as a dwelling for himself: This is my dwelling-place for ever and ever, here I shall dwell, for I have chosen her. Her door I shall bless abundantly, her poor I shall fill with bread. Her priests I shall clothe with salvation, and her holy ones will rejoice with great joy. There I shall make the horn of David flourish; I have prepared a lamp for my Christ. I shall clothe his enemies in shame, my holiness will flower upon him."
+meGH.Hour6Ps3.source = "90"
+meGH.Hour6Ps3.title = "Psalm 90"
+meGH.Hour6Ps3.text = "One who dwells in the help of the Most High will live under the protection of the of the God of heaven; will say to the Lord: You are my protector and my refuge, my God, and I shall hope in him. For he will deliver you from the hunters' snare, and from the word which troubles. He will overshadow you with his wings, and under his feathers you will have hope, his truth will encircle you as a shield. You will not be afraid of terror by night, of the arrow that ies by day. Of the thing that prowls in the darkness, of mishap or of the noonday devil. A thousand may fall at your side, and ten thousand at your right, but it will not come near you. But with your eyes you will behold, and see the reward of sinners. For you, Lord, are my hope: you have made the Most High your refuge. Evils will not approach you, nor a scourge draw near your dwelling. Because he has given orders to his Angels about you, to guard you in all your ways. They will bear you on their hands, lest you dash your foot against a stone. You will walk on asp and basilisk, and trample down lion and dragon. Because he hoped in me, I shall deliver him; I shall shelter him, because he knew my name. He will cry to me, and I shall hear him, I am with him in trouble; I shall rescue him and glorify him. I shall fill him with length of days, and show him my salvation."
+meGH.Hour6Troparion.text = meVE.Apolytikion1.text
+meGH.Hour6Idiomelon1.mode = misc_en_US_dedes.Mode1
+meGH.Hour6Idiomelon1.text = "Come, you faithful, let us arise and behold the divine condescension from above, made manifest for us in Bethlehem; and having cleansed our minds, let us by our lives offer virtues instead of myrrh, as we faithfully prepare the entry of the Nativity with treasures of the soul, crying, 'In the highest, glory to God in Trinity, through whom his good pleasure has appeared among men to rescue Adam from the ancestral curse, for he loves mankind.'"
+meGH.Hour6Verse1.source = ""
+meGH.Hour6Verse1.text = "God will come from Theman, the Holy One from a mountain overshadowed by forest."
+meGH.Hour6Idiomelon2.mode = misc_en_US_dedes.Mode4
+meGH.Hour6Idiomelon2.text = "Listen, O heaven and give ear, O earth. Let the foundations be shaken, let trembling seize the regions beneath the earth; because God and the Creator has put on the matter of flesh, and he who created creation with his mighty hand appears in the womb of a creature he fashioned. O the depth of the riches and wisdom and knowledge of God! How inscrutable his judgements, and unsearchable his ways."
+meGH.Hour6Verse2.source = ""
+meGH.Hour6Verse2.text = "Lord, I heard your report and was afraid."
+meGH.Hour6Idiomelon3.mode = misc_en_US_dedes.Mode5
+meGH.Hour6Idiomelon3.text = "Come, O Christ-bearing people, let us see a miracle that amazes and perplexes every mind, and in pious adoration let us with faith sing praises. Today a pregnant Maiden is coming to Bethlehem to give birth to the Lord. And choirs of Angels go before her. And seeing all this, Joseph her betrothed cried out, \"What is this strange mystery I see in you, O Virgin? And how will you the heifer, having never been yoked, give birth?\" (eMatins)"
+meGH.Hour6Prokeimenon.mode = misc_en_US_dedes.Mode8
+meGH.Hour6Prokeimenon.source  = ""
+meGH.Hour6Prokeimenon.text = "From the womb before the Morning Star I have begotten you."
+meGH.Hour6ProkVerse.source  = ""
+meGH.Hour6ProkVerse.text = "The Lord said to my Lord: Sit at my right hand, until I make your enemies a footstool for your feet."
+meGH.Hour6Prophecy.book = "the Prophecy of Isaias."
+meGH.Hour6Prophecy.chapverse = "[7:10-16 and 8:1-4, 8-10]"
+meGH.Hour6Prophecy.text = "Again the Lord spoke to Ahaz, 'Ask a sign of the Lord your God; in the depth or in the height.' But Ahaz said, 'I will not ask, and I will not put the Lord to the test.' And he [Isaias] said, 'Hear then, O house of David! Is it a little thing for you to contend with men, and how do you contend with the Lord? Therefore the Lord himself will give you a sign. Behold, the virgin shall conceive and bear a son, and they shall call his name Emmanuel. He shall eat butter and honey before he knows how to prefer evil or choose good. For before the child knows good or evil, he refuses the evil to choose the good. Then the Lord said to me, 'Take for yourself a large new volume and write upon it in with a man's pen, Of making a rapid plunder of spoils; for it is at hand. And get me witnesses, reliable men, Urias the priest and Zachary the son of Barachias. And I went to the prophetess, and she conceived and bore a son. Then the Lord said to me, 'Call his name Despoil-quickly-plunder-rapidly; for before the child knows how to cry 'Father' or 'Mother,' he will take the power of Damascus and the spoil of Samaria before the king of the Assyrians.' Know you nations and be worsted; give ear, as far as the extremity of the earth; for if again you have become strong, again you will be worsted. And whatever counsel you take, the Lord will scatter it; and whatever word you speak, it will not remain in you, for God is with us.'"
+//meGH.Hour6Epistle.book = bible_en_US_saas.Hebrews
+meGH.Hour6Epistle.chapverse = "[1:10-14 and 2:1-3]"
+meGH.Hour6Epistle.text = "'You, Lord, founded the earth in the beginning, and the heavens are the work of your hands; they will perish, but you remain; they will all grow old like a garment, like a mantle you will roll them up, and they will be changed. But you are the same, and your years will never end.' But to what angel has he ever said, 'Sit at my right hand, till I make your enemies a footstool for your feet'? Are they not all ministering spirits sent forth to serve, for the sake of those who are to inherit salvation? Therefore we must pay the closer attention to what we have heard, lest we drift away from it. For if the word spoken by angels was sure and every transgression or disobedience received a just retribution, how shall we escape if we neglect such a great salvation? It was declared at first by the Lord, and it was attested to us by those who heard him."
+//meGH.Hour6Gospel.book = bible_en_US_saas.Matthew
+meGH.Hour6Gospel.chapverse = "[2:1-12]"
+meGH.Hour6Gospel.text = "When Jesus was born in Bethlehem of Judea, in the days of Herod the King, Magi from the East came to Jerusalem, asking, 'Where is he who has been born king of the Jews? For we seen his star at its rising, and have come to worship him.' When King Herod heard this, he was troubled, and all Jerusalem with him; and calling together all the chief priests and scribes of the people, he inquired of them where the Christ was to be born. They told him, 'In Bethlehem of Judea; for so it has been written by the prophet: 'And you, Bethlehem, in the land of Juda, are by no means least among the rulers of Juda; for from you shall come a ruler who is to shepherd my people Israel.'' Then Herod secretly called for the Magi and learned from them the exact time when the star had appeared. Then he sent them to Bethlehem, saying, 'Go and search diligently for the child; and when you have found him, bring me word so that I may also go and worship him.' When they had heard the king, they set out; and there, ahead of them, went the star that they had seen at its rising, until it stopped over the place where the child was. When they saw that the star had stopped, they were overwhelmed with joy. On entering the house, they saw the child with Mary his mother; and they knelt down and worshipped him. Then, opening their treasure chests, they offered him gifts of gold, frankincense, and myrrh. And having been warned in a dream not to return to Herod, they left for their own country by another road."
+meGH.Hour6Kontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
+
+meGH.Hour9.title = "NINTH HOUR"
+meGH.Hour9Ps1.source = "109"
+meGH.Hour9Ps1.title = "Psalm 109"
+meGH.Hour9Ps1.text = "The Lord said to my Lord, 'Sit at my right hand, until I make your enemies a footstool for your feet. The Lord will send out for you a rod of power from Sion; rule in the midst of your enemies. With you is the rule in the day of your power, in the splendours of your saints. From the womb before the morning star I have begotten you. The Lord has sworn and he will not repent; you are a priest for ever according to the order of Melchisedek. The Lord at your right hand shattered kings in the day of his wrath. He will judge among the nations, he will heap up corpses, he will shatter the heads of many upon the land. He will drink from the torrent in the way, therefore he will lift up his head."
+meGH.Hour9Ps2.source = "110"
+meGH.Hour9Ps2.title = "Psalm 110"
+meGH.Hour9Ps2.text = "I will give thanks to you, O Lord, with my whole heart, in the council of the upright and in the congregation. Great are your works, O Lord, sought out according to all his wishes. Thanksgiving and majesty his work, and his justice abides to age on age. He made remembrance of his wonders; the Lord is merciful and compassionate. He gave food to those who fear him, he will remember his covenant for ever. He proclaimed the strength of his works to his people, to give them the inheritance of the nations. The works of his hands are truth and judgement, all his commandments are faithful, established to age on age, made in truth and integrity. He sent redemption to his people; he ordained his covenant for ever; holy an fearful his name. Fear of the Lord is the beginning of wisdom, while a good understanding is for all who do it. His praise abides to age on age."
+meGH.Hour9Ps3.source = "85"
+meGH.Hour9Ps3.title = "Psalm 85"
+meGH.Hour9Ps3.text = "Incline your ear, O Lord, and hear me, for I am poor and needy. Guard my soul, for I am holy; O my God, save your servant who hopes in you. Have mercy on me, O Lord, for I shall cry to you all the day; give joy to the soul of your servant, for I have lifted up my soul to you. For you, O Lord, are good and gentle, and full of mercy to all who call on you. Give ear, O Lord, to my prayer; and attend to the voice of my supplication. In the day of my trouble I called to you, for you have heard me. There is none like you among the gods, O Lord; none whose works are as yours. All the nations whom you made will come and worship before you, O Lord, and call upon your name. For you are great and do wondrous things; you alone are God. Guide me, O Lord, in your way, and I shall walk in your truth; make my heart glad to fear your name. I shall give you thanks, O Lord, my God, with my whole heart; and I shall glorify your name for ever. For your mercy is great towards me, and you have delivered my soul from the lowest hell. O God, the lawless rose up against me, and an assembly of mighty ones sought my soul, and did not set you before them. And you, Lord, are pitying and merciful, long-suffering and full of mercy and true. Look on me and have mercy on me; give your might to your servant and save the son of your maidservant. Make with me a sign for good, and let those who hate me see it and be shamed; for you, Lord, have helped me and comforted me. And again: Make with me a sign for good, and let those who hate me see it and be shamed; for you, Lord, have helped me and comforted me."
+meGH.Hour9Troparion.text = meVE.Apolytikion1.text
+meGH.Hour9Idiomelon1.mode = misc_en_US_dedes.Mode7
+meGH.Hour9Idiomelon1.text = "Herod was amazed when he saw the piety of the Magi. And overcome by anger, he determined the exact time. Then mothers became childless; and the boys, like unripe fruit, were bitterly harvested. Breasts went dry, and ceased producing milk. Great was the calamity. Therefore, O believers, since we have piously come together, let us adore the Nativity of Christ. (eMatins)"
+meGH.Hour9Verse1.source = ""
+meGH.Hour9Verse1.text = "God will come from Theman and the Holy One from a mountain overshadowed by forest."
+meGH.Hour9Idiomelon2.mode = misc_en_US_dedes.Mode2
+meGH.Hour9Idiomelon2.text = "When Joseph had been wounded by sorrow, O Virgin, as he went to Bethlehem you cried out to him, 'Why are you downcast and troubled seeing me great with child? Why wholly ignorant of the dread mystery that is in me. Now cast away every fear as you understand the strange marvel: for in my womb now God descends to earth through mercy, and has taken flesh. You will see when he is born, as he has been well pleased; and filled with joy will worship him as your Creator. Him the Angels praise unceasingly with the Father and the Holy Spirit.'"
+meGH.Hour9Verse2.source = ""
+meGH.Hour9Verse2.text = "Lord, I heard your report and was afraid."
+meGH.Hour9Idiomelon3.mode = misc_en_US_dedes.Mode6
+meGH.Hour9Idiomelon3.text = "Today He who holds the whole world in His hand is born from a Virgin. (3) He who in essence is impalpable is swaddled in rags as a mortal. God who established the heavens of old in the beginning is lying in a manger. He who rained down manna for the people in the wilderness is breastfed with milk. He who is the Bridegroom of the Church is summoning Magi. And He, that Son of the Virgin, is accepting their gifts. We adore Your Nativity, O Christ. We adore Your Nativity, O Christ. We adore Your Nativity, O Christ. Show us also Your divine Epiphany. (eMatins)"
+meGH.Hour9Prokeimenon.mode = misc_en_US_dedes.Mode4
+meGH.Hour9Prokeimenon.source  = ""
+meGH.Hour9Prokeimenon.text = "Sion is our mother, a man will say; and a man has been born in her."
+meGH.Hour9ProkVerse.source  = ""
+meGH.Hour9ProkVerse.text = "Her foundations are in the holy mountains."
+meGH.Hour9Prophecy.book = "the Prophecy of Isaias."
+meGH.Hour9Prophecy.chapverse = "[9:16-7]"
+meGH.Hour9Prophecy.text = "A child has been born for us, a son has been given to us; whose government is upon his shoulder, and his name will be called 'Angel of Great Counsel, Wonderful Counsellor, Mighty God, Potentate, Prince of Peace, Father of the age to come.' For I will bring peace upon princes, peace and health to him. Great his government, and of his peace there is no bound, upon the throne of David, and upon his kingdom, to establish it, and to uphold it with judgement and with justice from henceforth and for evermore. The zeal of the Lord of hosts will do this."
+//meGH.Hour9Epistle.book = bible_en_US_saas.Hebrews
+meGH.Hour9Epistle.chapverse = "[2:11-18]"
+meGH.Hour9Epistle.text = "Brethren, the One who sanctifies and those who are sanctified are all from One. For this reason he is not ashamed to call them brethren, saying: I will proclaim your name to my brethren, in the midst of the church I will praise you. And again: I will put my trust in him. And again: Here am I, and children whom God has given me. Since, therefore, the children share flesh and blood, he himself likewise shared the same things, so that through death he might destroy the one who has the power of death, that is the devil, and free those who all their lives were held in slavery by the fear of death. For it is clear he did not take on himself the nature of Angels, but he took on that of the descendants of Abraham. Therefore he had to become like his brethren in every respect, so that he might be a merciful and faithful high priest in the service of God, to make atonement for the sins of the people. For because he himself was tested by what he suffered, he is able to help those who are being tested."
+//meGH.Hour9Gospel.book = bible_en_US_saas.Matthew
+meGH.Hour9Gospel.chapverse = "[2:13-23]"
+meGH.Hour9Gospel.text = "Now when the Magi had departed, behold, an angel of the Lord appeared to Joseph in a dream and said, 'Rise, take the child and his mother, and flee to Egypt, and remain there till I tell you; for Herod is about to search for the child, to destroy him.' And he rose and took the child and his mother by night, and departed to Egypt, and remained there until the death of Herod. This was to fulfil what the Lord had spoken by the prophet, 'Out of Egypt have I called my son.' Then Herod, when he saw that he had been tricked by the Magi, was in a furious rage, and he sent and killed all the male children in Bethlehem and in all that region who were two years old or under, according to the time which he had ascertained from the Magi. Then was fulfilled what was spoken by the prophet Jeremias, 'A voice was heard in Rama, wailing and loud lamentation, Rachel weeping for her children; she refused to be consoled, because they were no more.' But when Herod died, behold, an angel of the Lord appeared in a dream to Joseph in Egypt, saying, 'Rise, take the child and his mother, and go to the land of Israel, for those who sought the child's life are dead.' And he rose and took the child and his mother, and went to the land of Israel. But when he heard that Archelaus reigned over Judea in place of his father Herod, he was afraid to go there, and being warned in a dream he withdrew to the district of Galilee. And he went and dwelt in a city called Nazareth, that what was spoken by the prophets might be fulfilled, 'He shall be called a Nazarene.'"
+meGH.Hour9Kontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
+
