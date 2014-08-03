@@ -7,7 +7,6 @@ meInsert1 = "of the holy and glorious Great Martyr Demetrios, the Myrrh-streamer
 meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
 meNote.text = ""
 
-
 meVE.Stichera01.mode = misc_en_US_dedes.Mode8
 meVE.Stichera01.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meVE.Stichera01.text = "What a paradoxical miracle! * For both in heaven and earth * is rejoicing perceived today * clearly for the memory * of the Martyr Demetrios. * He is by angels enwreathed with hymns of praise, * while from the faithful receiving sacred songs. * Such was his martyrdom! * Oh, how well did he compete! Through him the foe * now has fallen utterly, for Christ defeated him."
@@ -127,7 +126,6 @@ meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMaleMartyr.text
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelBoth.melody  = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
-
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelIdiomelon.melody  = ""
@@ -788,5 +786,4 @@ meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""
-
 

@@ -7,7 +7,6 @@ meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
 
-
 meVE.Stichera01.mode = misc_en_US_dedes.Mode1
 meVE.Stichera01.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meVE.Stichera01.text = ""
@@ -249,7 +248,6 @@ meMA.Ode9H.mode = misc_en_US_dedes.Mode4
 meMA.Ode9H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode9H.text = he.h.m4_en_US_dedes.ApasGigenis.text
 
-
 meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = ""
 
@@ -267,7 +265,6 @@ meLI.AlleluiaVerse1.text = ""
 
 meLI.AlleluiaVerse2.source = ""
 meLI.AlleluiaVerse2.text = ""
-
 
 meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = ""

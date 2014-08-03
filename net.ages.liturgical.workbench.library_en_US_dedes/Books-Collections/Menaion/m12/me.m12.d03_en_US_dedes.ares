@@ -7,7 +7,6 @@ meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
 
-
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
 meVE.Stichera01.text = ""
@@ -27,7 +26,6 @@ meVE.SticTheotokion.text = ""
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
 meVE.SticStavrotheotokion.text = ""
-
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
 meVE.Apolytikion1.melody = he.ga_en_US_dedes.TouProfitouSou.name
@@ -204,7 +202,6 @@ meMA.ExapTheotokion.text = ""
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
 meLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
 meLI.SeasonalKontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
-
 
 meMegalynarion.text = ""
 

@@ -131,7 +131,6 @@ meMA.Kathisma3T.text = "Spread your undefiled hands, O Virgin Mother, * and with
 
 meMA.Prokeimenon.text = "" //for media
 
-
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody  = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMaleMartyr.text
@@ -140,12 +139,9 @@ meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelBoth.melody  = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
-
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelIdiomelon.melody  = ""
 meMA.PostGospelIdiomelon.text = "Panteleimon, healer divine, beseech the merciful Christ to deliver me from passion and have mercy on me."
-
-
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
 meMA.C1Acrostic.text = ""

@@ -8,7 +8,6 @@ meInsert2 = "whose Birth we celebrate; " //for use in petitions and dismissal
 meNote.text = ""
 meDismissal = ""
 
-
 meSV.Stichera1.mode = misc_en_US_dedes.Mode4
 meSV.Stichera1.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
 meSV.Stichera1.text = ""
@@ -187,7 +186,6 @@ meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelForerunner.text
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelBoth.melody  = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
-
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelIdiomelon.melody = misc_en_US_dedes.Idiomelon

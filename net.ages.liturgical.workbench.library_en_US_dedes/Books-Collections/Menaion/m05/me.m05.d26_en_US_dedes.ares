@@ -7,7 +7,6 @@ meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
 
-
 meVE.Stichera01.mode = misc_en_US_dedes.Mode1
 meVE.Stichera01.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meVE.Stichera01.text = ""
@@ -250,7 +249,6 @@ meMA.LaudsSundayVerse1.text = ""
 meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = ""
 
-
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
@@ -262,7 +260,6 @@ meLI.AlleluiaVerse1.text = ""
 
 meLI.AlleluiaVerse2.source = ""
 meLI.AlleluiaVerse2.text = ""
-
 
 meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = ""

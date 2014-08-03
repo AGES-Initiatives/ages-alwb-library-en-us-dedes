@@ -7,7 +7,6 @@ meInsert1 = "and the holy Fathers of the Seventh Ecumenical Council," //for use 
 meInsert2 = "whose memory we celebrate today;" //for use in petitions and dismissal
 meNote.text = ""
 
-
 meVE.Stichera01.mode = misc_en_US_dedes.Mode6
 meVE.Stichera01.melody = he.a.m6_en_US_dedes.IApegnosmeni.name
 meVE.Stichera01.text = ""
@@ -35,7 +34,6 @@ meVE.Stichera06.text = ""
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody  = ""
 meVE.SticGlory.text = me.m07.dHF_en_US_dedes.meVE.SticGlory.text
-
 
 meVE.Reading1.book = ""
 meVE.Reading1.chapverse = ""
@@ -278,5 +276,4 @@ meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""
-
 
