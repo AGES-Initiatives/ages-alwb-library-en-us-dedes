@@ -7,7 +7,6 @@ meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
 
-
 meVE.Stichera01.mode = misc_en_US_dedes.Mode2
 meVE.Stichera01.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meVE.Stichera01.text = ""
@@ -135,7 +134,6 @@ meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelHierarch.text
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelBoth.melody  = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
-
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 meMA.PostGospelIdiomelon.melody  = ""

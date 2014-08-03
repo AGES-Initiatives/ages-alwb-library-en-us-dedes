@@ -7,7 +7,6 @@ meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
 
-
 meVE.Stichera01.mode = misc_en_US_dedes.Mode1
 meVE.Stichera01.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meVE.Stichera01.text = "We know you to be a man of God * in both name and deed, O Saint; you were distinguished in virtue, for on earth you did obtain * poverty and hardship, * which you practiced to extreme. * The faithful were convinced by your miracles. And now, entreat the Lord, * interceding that surpassing peace * and great mercy be upon our souls bestowed."
@@ -63,7 +62,6 @@ meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1H.mode = misc_en_US_dedes.Mode2
 meMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode3C1H.text = he.h.m2_en_US_dedes.ExinthisenIErimos.text
-
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode2
@@ -263,7 +261,6 @@ meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1T.mode = misc_en_US_dedes.Mode2
 meMA.Ode9C1T.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
 meMA.Ode9C1T.text = ""
-
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name

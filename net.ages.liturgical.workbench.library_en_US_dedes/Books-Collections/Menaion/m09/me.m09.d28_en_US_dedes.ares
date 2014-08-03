@@ -8,7 +8,6 @@ meInsert1 = "our devout and God-bearing father Chariton the Confessor, " //for u
 meInsert2 = "whose memory we observe," //for use in petitions and dismissal
 meNote.text = ""
 
-
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.Stichera01.text = ""
@@ -65,7 +64,6 @@ meMA.Kathisma1T.text = ""
 meMA.Kathisma1St.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma1St.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma1St.text = ""
-
 
 meMA.C1Poet = poets_en_US_dedes.TheofanousOiDeIoannouMonachou
 
@@ -303,7 +301,6 @@ meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode6
 meMA.LaudsTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meMA.LaudsTheotokion.text = ""
 
-
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
@@ -320,5 +317,4 @@ meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""
-
 

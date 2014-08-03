@@ -8,7 +8,6 @@ meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
 
-
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera01.text = "God foreknew you, Sophronius: * you were named for sobriety. * And when you were called to His service, you became * sober and righteous in all your deeds, * courageous and sensible. * You were generally crowned * with the crown of sobriety and the virtues all. * And you prudently gave to both your body and your soul that which was needed, * as a precise judge and arbiter."
@@ -30,7 +29,6 @@ meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.SticStavrotheotokion.text = ""
 
 meVE.GeneralApolytikion1.name = "holy and devout father Sophronius," // name of saint for General Apolytikia when not in Menaion
-
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode5
@@ -288,7 +286,6 @@ meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C1T.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.name
 meMA.Ode9C1T.text = ""
-
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody  = ""

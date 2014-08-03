@@ -7,7 +7,6 @@ meInsert1 = "the holy hieromartyr Clement of Ancyra," //for use in petitions and
 meInsert2 = "whose memory we observe;" //for use in petitions and dismissal
 meNote.text = ""
 
-
 meVE.Stichera01.mode = misc_en_US_dedes.Mode2
 meVE.Stichera01.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meVE.Stichera01.text = ""
@@ -45,7 +44,6 @@ meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.OiMartyresSouKyrie.name
 meVE.SticStavrotheotokion.text = ""
 
-
 meVE.AposGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode1
 meVE.AposGlory.melody  = ""
@@ -62,7 +60,6 @@ meVE.AposStavrotheotokion.text = ""
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody  = ""
 meVE.Apolytikion1.text = "O Clement, according to your all-sacred name, you grew as a branch of holiness, a stem of martyrdom, a most sacred flower, and a luscious fruit given by God to the faithful. We pray you, who ran with Martyrs and shared the throne with hierarchs: intercede with Christ our God, entreating Him to save our souls."
-
 
 meMA.C1Acrostic.text = ""
 
@@ -426,7 +423,6 @@ meMA.LaudsSundayVerse1.text = ""
 meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = ""
 
-
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
@@ -438,7 +434,6 @@ meLI.AlleluiaVerse1.text = ""
 
 meLI.AlleluiaVerse2.source = ""
 meLI.AlleluiaVerse2.text = ""
-
 
 meMegalynarion.text = ""
 
