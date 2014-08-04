@@ -129,15 +129,13 @@ meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
 meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha1.text = "Rejoice, O sacred head of the Church, * the pure abode of every virtue, O Nicholas, * divine standard of the most divine * holy priesthood, and great * Shepherd of the people, and the beacon-light * that shines very brightly. You are the namesake of victory. * And on the needy you take pity with sympathy. * And unto the prayers of the sick You incline an ear. * Ready deliverer of all, * and guardian saving them * who now religiously honor your ever-ven'rable memory. * To Christ pray intently, * O all-blessed one, to send down great mercy to our souls."
 
-meVE.ApostichaVerse2.source  = ""
-meVE.ApostichaVerse2.text = "Precious in the sight of the Lord is the death of His holy one."
+meVE.ApostichaVerse2.text = ""
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode5
 meVE.Aposticha2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha2.text = "Rejoice, pure habitation wherein * the Holy Trinity made its dwelling, most sacred mind, * the Church's unshaken pillar, and the believers' support, * for you are the help of all who are oppressed. * O Star that at all times dispels the gloom of adversities * and of temptations by the radiance of your prayers * that are well received, holy Hierarch Nicholas, * calm haven wherein those who meet the turbulent storms of life * and are surrounded by tempests escape for refuge and hence are saved. * To Christ pray with fervor, * holy father, that great mercy be given to our souls."
 
-meVE.ApostichaVerse3.source  = ""
-meVE.ApostichaVerse3.text = "Your priests shall clothe themselves in righteousness; Your saints shall greatly rejoice."
+meVE.ApostichaVerse3.text = ""
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode5
 meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
@@ -154,6 +152,7 @@ meVE.AposBoth.text = "O unwedded Virgin, where are you from? Who is your father,
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = he.ga_en_US_dedes.KanonaPisteos.name
 meVE.Apolytikion1.name = "Father holy hierarch Nicholas,"
+meVE.Apolytikion1.text = "" //for media
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
 meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
@@ -180,7 +179,7 @@ meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 meMA.Kathisma3T.text = "Be swift to accept our fervent prayers, O Lady and Queen, * and take them, all-blameless Maiden, and present them for us * before your own Son and God. * Obliterate the scandals of the slanderous babblers, * frustrate the machinations and humble the boldness * of the godless, O Pure one, who against your servants have taken arms."
 
 meMA.Prokeimenon.text = "" //for media
-// This is from Pat. Hem. which differs from Menaion
+
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody  = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelHierarch.text
