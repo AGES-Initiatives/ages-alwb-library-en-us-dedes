@@ -4,7 +4,7 @@ hoCA.title = "Supplicatory Canon"
 hoCA.title2 = "to St. Demetrios the Myrrh-Streamer"
 hoCA.poet = ""
 
-hoCA.media.text = "" //for complete music
+hoCA.media.text = "" // for complete music
 
 hoCA.Apolytikion1.mode = misc_en_US_dedes.Mode4
 hoCA.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
@@ -65,16 +65,16 @@ hoCA.Ode34.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
 hoCA.Ode34.text = "From benevolent kindness * O Virgin Mary, you gave * birth to the Creator of all things; He is the giver of * compassion and the sea * of tender love. So take pity * on us now extolling your ineffable childbirth."
 
 hoCA.Troparion31.mode = misc_en_US_dedes.Mode8
-hoCA.Troparion31.melody  = ""
+hoCA.Troparion31.melody = ""
 hoCA.Troparion31.text = "Deliver us, holy Great Martyr Demetrios, from disasters * and from injury and distress by your ardent prayers; * we count on you to entreat the Lord to save us."
 
 hoCA.Troparion32.mode = misc_en_US_dedes.Mode8
-hoCA.Troparion32.melody  = ""
+hoCA.Troparion32.melody = ""
 hoCA.Troparion32.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
 
 hoCA.Kathisma11.mode = misc_en_US_dedes.Mode2
 hoCA.Kathisma11.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
-hoCA.Kathisma11.text = "Of old you became protector of Thessalonica, * preserving from all chastisement and calamity * the people who would run to you * and with fervor and faith cry aloud to you, * \"O St. Demetrios, preserve us from the threat * of imminent disaster, we pray to you.\""
+hoCA.Kathisma11.text = "Of old you became protector of Thessalonica, * preserving from all chastisement and calamity * the people who would run to you * and with fervor and faith cry aloud to you, * "O St. Demetrios, preserve us from the threat * of imminent disaster, we pray to you.""
 
 hoCA.Ode4H.ode = misc_en_US_dedes.Ode4
 hoCA.Ode4H.mode = misc_en_US_dedes.Mode8
@@ -152,23 +152,23 @@ hoCA.Ode64.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
 hoCA.Ode64.text = "O Maiden, * the Lord who brought into being * all creation and who freed from corruption * all who revere the great mystery, namely * the awe-inspiring event of your childbirth, * was born of you from your pure blood, * O all-laudable Virgin Mother of God."
 
 hoCA.Troparion61.mode = misc_en_US_dedes.Mode8
-hoCA.Troparion61.melody  = ""
+hoCA.Troparion61.melody = ""
 hoCA.Troparion61.text = hoCA.Troparion31.text
 
 hoCA.Troparion62.mode = misc_en_US_dedes.Mode8
-hoCA.Troparion62.melody  = ""
+hoCA.Troparion62.melody = ""
 hoCA.Troparion62.text = ho.s23_en_US_dedes.hoCA.Troparion62.text
 
 hoCA.Kontakion.mode = misc_en_US_dedes.Mode2
-hoCA.Kontakion.melody  = he.a.m2_en_US_dedes.ToisTonAimatonSou.name
+hoCA.Kontakion.melody = he.a.m2_en_US_dedes.ToisTonAimatonSou.name
 hoCA.Kontakion.text = ""
 
 hoCA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-hoCA.PostGospelGlory.melody  = ""
+hoCA.PostGospelGlory.melody = ""
 hoCA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMaleMartyr.text
 
 hoCA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-hoCA.PostGospelBoth.melody  = ""
+hoCA.PostGospelBoth.melody = ""
 hoCA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 hoCA.PostGospelHymn1.mode = misc_en_US_dedes.Mode6
@@ -183,7 +183,7 @@ hoCA.Ode7H.text = he.h.m8_en_US_dedes.OiEkTisIoudaias.text
 hoCA.Ode71.ode = misc_en_US_dedes.Ode7
 hoCA.Ode71.mode = misc_en_US_dedes.Mode8
 hoCA.Ode71.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
-hoCA.Ode71.text = "Since you care for your people, * O thrice-blessed Demetrios, keep up free of harm * from unexpected trials * and devastating earthquakes, * as we cry to the Lord in faith * and say, \"O blessed are You, the God of our Fathers.\""
+hoCA.Ode71.text = "Since you care for your people, * O thrice-blessed Demetrios, keep up free of harm * from unexpected trials * and devastating earthquakes, * as we cry to the Lord in faith * and say, "O blessed are You, the God of our Fathers.""
 
 hoCA.Ode72.ode = misc_en_US_dedes.Ode7
 hoCA.Ode72.mode = misc_en_US_dedes.Mode8
@@ -208,22 +208,22 @@ hoCA.Ode8H.text = he.h.m8_en_US_dedes.TonVasileaTonOuranon.text
 hoCA.Ode81.ode = misc_en_US_dedes.Ode8
 hoCA.Ode81.mode = misc_en_US_dedes.Mode8
 hoCA.Ode81.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
-hoCA.Ode81.text = ""
+hoCA.Ode81.text = "Thessaloniki * has you, O Saint, as its patron, * O Demetrios, and thus with admiration * declares the good you do and the wealth of grace God gave you."
 
 hoCA.Ode82.ode = misc_en_US_dedes.Ode8
 hoCA.Ode82.mode = misc_en_US_dedes.Mode8
 hoCA.Ode82.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
-hoCA.Ode82.text = ""
+hoCA.Ode82.text = "Ever deliver * from all attacks and from perils * those who seek your intercession, holy Martyr * Demetrios, and run to your church that has your relics."
 
 hoCA.Ode83.ode = misc_en_US_dedes.Ode8
 hoCA.Ode83.mode = misc_en_US_dedes.Mode8
 hoCA.Ode83.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
-hoCA.Ode83.text = ""
+hoCA.Ode83.text = "Dispel the odor * of sinful passions, O blessed * Saint Demetrios, with mystical sweet frangrance * of spiritual myrrh, so that we may sing your praises."
 
 hoCA.Ode84.ode = misc_en_US_dedes.Ode8
 hoCA.Ode84.mode = misc_en_US_dedes.Mode8
 hoCA.Ode84.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
-hoCA.Ode84.text = ""
+hoCA.Ode84.text = "You are our shelter * and our relief in disasters, * as the Mother of our God, all-holy Virgin. * We exalt supremely your ineffable childbirth."
 
 hoCA.Ode9H.ode = misc_en_US_dedes.Ode9
 hoCA.Ode9H.mode = misc_en_US_dedes.Mode8
@@ -278,9 +278,9 @@ hoCA.Troparion4.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 hoCA.Troparion4.text = ""
 
 hoCA.Troparion6.mode = ho.s23_en_US_dedes.hoCA.Troparion6.mode
-hoCA.Troparion6.melody  = ""
+hoCA.Troparion6.melody = ""
 hoCA.Troparion6.text = ho.s23_en_US_dedes.hoCA.Troparion6.text
 
 hoCA.Troparion7.mode = ho.s23_en_US_dedes.hoCA.Troparion7.mode
-hoCA.Troparion7.melody  = ""
+hoCA.Troparion7.melody = ""
 hoCA.Troparion7.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
