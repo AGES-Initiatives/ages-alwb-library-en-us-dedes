@@ -20,6 +20,8 @@ meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera03.text = "Shining brightly with miracles, * signs, and wonders and teachings true, * you eclipsed the council that failed to keep the Law. And as they all executed you, and stoned you to death, O Saint, * you entreated on behalf * of your murderers, that the sin * not be charged to them. * Thus, O Stephen, you imitated Jesus and gave up your noble spirit * into the hands of the Savior Christ."
 
+meVE.Stichera8910.text = "" //for media
+
 meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera04.text = "To the wounds of your banishment, * wounds of exile were added on, * by the ruthless tyranny of the emperor, * who as a heretic occupied the lawful throne lawlessly; * for he terribly confused * the traditions of our true Faith, * and he had removed * the immaculate icon of the Savior; but by grace divine you shamed him, * O faithful servant of Christ our God."
@@ -73,6 +75,7 @@ meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 meVE.Apolytikion1.text = "O Stephen, a crown of royalty was laid on your head * for contests you courageously endured for Christ our God, * as first among Martyr saints. * You stood in accusation of the raging Judeans; * and you saw your Savior at the right hand of the Father. * We pray that you will ever entreat Him to save our souls."
 
 meVE.GeneralApolytikion2.name = "Theodore," 
+meVE.GeneralApolytikion2.text = "" //for media 
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode3
