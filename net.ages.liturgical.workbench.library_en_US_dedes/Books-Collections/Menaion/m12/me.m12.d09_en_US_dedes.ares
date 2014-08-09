@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m12.d09_en_US_dedes
 
 meDate.text = "December 9" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "The Conception of St. Anne, the Mother of the Theotokos, and Commemoration of the Dedication" // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "whose conception we celebrate," //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "whose conception we celebrate," // for use in petitions and dismissal
 meNote.text = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
@@ -32,12 +32,12 @@ meVE.Stichera06.melody = he.a.m6_en_US_dedes.AiAngelikai.name
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticBoth.poet = poets_en_US_dedes.Germanou
 meVE.SticBoth.mode = misc_en_US_dedes.Mode1
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
@@ -57,19 +57,19 @@ meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode2
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody  = ""
-meVE.Apolytikion1.text = "Today the bonds of childlessness are broken. For hearing the prayers of Joachim and Anne, God promised that against all hope they would give birth to the Maiden of God. He, the Uncircumscribed, would be born of her, when He would become man, and by the Angel's example, He commands us to call to her: \"Rejoice, Maiden full of the grace, the Lord is with you.\""
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = "Today the bonds of childlessness are broken. For hearing the prayers of Joachim and Anne, God promised that against all hope they would give birth to the Maiden of God. He, the Uncircumscribed, would be born of her, when He would become man, and by the Angel's example, He commands us to call to her: "Rejoice, Maiden full of the grace, the Lord is with you.""
 
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion2.melody  = ""
+meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.text = "You have made the earthly beauty of the holy tabernacle of Your glory to be like the majesty of the firmament on high, O Lord. Make it strong forever and ever, and accept our supplications that we unceasingly bring to You there, at the intercession of the Theotokos. For You are the life and resurrection of all."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
@@ -86,7 +86,7 @@ meMA.Kathisma21.text = "O Adam, be rejuvenated; also Eve, leap for joy. * The ar
 
 meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
-meMA.Kathisma31.text = "Shout, O David, and declare, what oath did God swear to you? * And he answers, \"What He swore, behold, He also has fulfilled, * for He has given the Virgin as the fruit of my loins. * From her has Christ the new Adam and Fashioner * been born, as it is written, to be King on my throne. * And He whose reign is unshakable is reigning today and forevermore. * The barren woman bears the Theotokos, * yes, the nourisher of our Life.\""
+meMA.Kathisma31.text = "Shout, O David, and declare, what oath did God swear to you? * And he answers, "What He swore, behold, He also has fulfilled, * for He has given the Virgin as the fruit of my loins. * From her has Christ the new Adam and Fashioner * been born, as it is written, to be King on my throne. * And He whose reign is unshakable is reigning today and forevermore. * The barren woman bears the Theotokos, * yes, the nourisher of our Life.""
 
 meMA.C1Poet = poets_en_US_dedes.IoannouMonachou
 
@@ -411,9 +411,9 @@ meMA.Kontakion2.mode = misc_en_US_dedes.Mode4
 meMA.Kontakion2.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
 meMA.Kontakion2.text = "On this day the whole wide world is celebrating that Saint Anne conceived a child, which was a miracle of God. And she gave birth to the one who bore the divine Logos, in ways passing speech and thought."
 
-meMA.Oikos2.text = "\"You who kept Your promise and by Your authority gave Sarah a son, the great Isaac, though she was very old; You, Almighty God, who opened the barren womb of Hannah, the mother of Your Prophet Samuel; look now on me and accept my prayers and answer my petitions.\" Thus did the temperate and barren Anna say as she wept, and she was heard by the Benefactor. Therefore with joy she conceived the Virgin who bore the divine Logos, in ways passing speech and thought."
+meMA.Oikos2.text = ""You who kept Your promise and by Your authority gave Sarah a son, the great Isaac, though she was very old; You, Almighty God, who opened the barren womb of Hannah, the mother of Your Prophet Samuel; look now on me and accept my prayers and answer my petitions." Thus did the temperate and barren Anna say as she wept, and she was heard by the Benefactor. Therefore with joy she conceived the Virgin who bore the divine Logos, in ways passing speech and thought."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -637,11 +637,11 @@ meMA.Lauds6.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meMA.Lauds6.text = "Ends of the earth, be glad. * Behold, today the Mother * of the Creator of all * comes forth from her own mother's previously unfruitful womb."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "O Word of God, who rests in the bosom of the Father, send down Your Holy Spirit in this Sanctuary, which was erected in Your name."
 
 meMA.LaudsBoth.mode = misc_en_US_dedes.Mode2
-meMA.LaudsBoth.melody  = ""
+meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = "Today, from the root of David, has the royal Purple Robe sprouted from Joachim, and it begins to grow the mystical flower, into which Christ our God will blossom and save our souls."
 
 meMA.LaudsSundayVerse1.text = ""
