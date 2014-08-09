@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m12.d29_en_US_dedes
 
 meDate.text = "December 29" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of the 14,000 Holy Innocents, who were Slaughtered by Herod; and our Devout Father Markellos, Abbot of the Monastery of the Unsleeping" // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
 meDismissal = dismissals_en_US_dedes.dis00.christmas
 
@@ -34,26 +34,26 @@ meVE.Stichera06.text = "By acquiring the virtues all, * you gave wings to your f
 
 meVE.SticGlory.poet = poets_en_US_dedes.AndreouKritis
 meVE.SticGlory.mode = misc_en_US_dedes.Mode8
-meVE.SticGlory.melody  = ""
-meVE.SticGlory.text = "Herod, the unlawful King, saw the star that was brighter than anything created, and he was troubled. And he snatched the nursing infants from their mothers' arms. But Elizabeth escaped with John; and she begged a rock, \"Take me in, a mother with her child.\" And the mountain received the Forerunner. A manger guarded the Treasure, which the star had revealed. And Magi worshipped Him. Glory to You, O Lord."
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "Herod, the unlawful King, saw the star that was brighter than anything created, and he was troubled. And he snatched the nursing infants from their mothers' arms. But Elizabeth escaped with John; and she begged a rock, "Take me in, a mother with her child." And the mountain received the Forerunner. A manger guarded the Treasure, which the star had revealed. And Magi worshipped Him. Glory to You, O Lord."
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode8
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = me.m12.d26_en_US_dedes.meVE.Aposticha1.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode6
 meVE.Aposticha1.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meVE.Aposticha1.text = "I see an awesome mystery here; * for God, who ever holds in His hand * all creation, * is encompassed now in flesh * and lying in a manger; * and He who wraps the oceans * in fog is wrapped now in swaddling clothes."
 
-meVE.ApostichaVerse2.source  = ""
-meVE.ApostichaVerse2.text = "The Lord said to my Lord, \"Sit at My right hand, until I make Your enemies the footstool of Your feet.\""
+meVE.ApostichaVerse2.source = ""
+meVE.ApostichaVerse2.text = "The Lord said to my Lord, "Sit at My right hand, until I make Your enemies the footstool of Your feet.""
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode6
 meVE.Aposticha2.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meVE.Aposticha2.text = "Our fleshless God has taken flesh; * and He with no beginning begins; * and the full One * now is emptying himself * inside a tiny grotto. * And nursing from a Virgin * is He who nourishes all living things."
 
-meVE.ApostichaVerse3.source  = ""
-meVE.ApostichaVerse3.text = "\"I have begotten You from the womb before the morning star.\" The Lord swore and will not repent. \"You are a priest forever according to the order of Melchizedek.\""
+meVE.ApostichaVerse3.source = ""
+meVE.ApostichaVerse3.text = ""I have begotten You from the womb before the morning star." The Lord swore and will not repent. "You are a priest forever according to the order of Melchizedek.""
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode6
 meVE.Aposticha3.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
@@ -61,15 +61,15 @@ meVE.Aposticha3.text = "At Christ the Lord's Nativity, * the Shepherds sing and 
 
 meVE.AposGlory.poet = poets_en_US_dedes.AndreouKritis
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "When Jesus was born in Bethlehem of Judea, the dominion of the Judeans came to an end. Let the innocent Infants leap for joy, even as they are slaughtered for Christ. But let Judea lament; for a voice was heard in Ramah, Rachael weeping for her children. When Herod, the lawless king, had the infants killed, he fulfilled the Scripture, by filling Judea with innocent blood. The ground turned red with the blood of the babes, but the Church of the Gentiles was mystically purified and adorned. The truth has come, God has appeared, to those sitting in darkness. He was born of a Virgin, in order to save us."
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode8
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = me.m12.d26_en_US_dedes.meVE.Aposticha2.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = he.ga_en_US_dedes.TasAlgidonas.text
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
@@ -77,7 +77,7 @@ meVE.Apolytikion2.mode = misc_en_US_dedes.Mode1
 meVE.Apolytikion2.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
 meVE.Apolytikion2.text = ""
 
-meVE.GeneralApolytikion3.name = "Marcellus," 
+meVE.GeneralApolytikion3.name = "Marcellus,"
 
 meVE.Apolytikion3.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion3.mode = misc_en_US_dedes.Mode3
@@ -237,7 +237,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode6
@@ -349,39 +349,39 @@ meMA.Lauds3.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsBoth.mode = misc_en_US_dedes.Mode8
-meMA.LaudsBoth.melody  = ""
+meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = me.m12.d26_en_US_dedes.meVE.AposGlory.text
 
 meMA.Aposticha1.poet = poets_en_US_dedes.Kyprianou
 meMA.Aposticha1.mode = misc_en_US_dedes.Mode1
-meMA.Aposticha1.melody  = ""
+meMA.Aposticha1.melody = ""
 meMA.Aposticha1.text = ""
 
-meMA.ApostichaVerse2.source  = ""
+meMA.ApostichaVerse2.source = ""
 meMA.ApostichaVerse2.text = ""
 
 meMA.Aposticha2.poet = poets_en_US_dedes.Kyprianou
 meMA.Aposticha2.mode = misc_en_US_dedes.Mode2
-meMA.Aposticha2.melody  = ""
+meMA.Aposticha2.melody = ""
 meMA.Aposticha2.text = ""
 
-meMA.ApostichaVerse3.source  = ""
+meMA.ApostichaVerse3.source = ""
 meMA.ApostichaVerse3.text = ""
 
 meMA.Aposticha3.mode = misc_en_US_dedes.Mode3
-meMA.Aposticha3.melody  = ""
+meMA.Aposticha3.melody = ""
 meMA.Aposticha3.text = ""
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode6
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposBoth.mode = misc_en_US_dedes.Mode6
-meMA.AposBoth.melody  = ""
+meMA.AposBoth.melody = ""
 meMA.AposBoth.text = me.m12.d25_en_US_dedes.meVE.LityBoth.text
 
 meLI.Antiphon2.text = me.m12.d25_en_US_dedes.meLI.Antiphon2.text

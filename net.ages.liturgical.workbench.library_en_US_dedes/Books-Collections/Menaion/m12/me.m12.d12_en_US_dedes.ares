@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m12.d12_en_US_dedes
 
 meDate.text = "December 12" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of our Devout Father Spyridon the Wonder-worker" // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode5
@@ -21,12 +21,12 @@ meVE.Stichera03.text = "Father, when you had mortified all * the carnal passions
 
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode1
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "O devout Father, wise and blessed Spyridon, you inquired of your dead daughter as though she were alive, for the love of God; you who practiced poverty turned a snake into gold; and out of sympathy for the people, you held back the river's flow. You stood by the Emperor as his physician by the providence of God, and as His disciple you raised people who had died. You openly proclaimed the Faith in the midst of many Fathers. Since you can do all things in Christ who strengthens you, entreat Him now to save our souls."
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode6
-meVE.SticBoth.melody  = ""
-meVE.SticBoth.text = "Prepare yourself, O Grotto, for the Ewe is coming, carrying Christ in her womb. O Manger, receive Him who released us earthlings from irrational activity by His word. You shepherds watching by night, witness to the awesome wonder. And you Magi from Persia, offer gold and frankincense and myrrh to the King. For the Lord has appeared from a virgin Mother. And bending over Him, the Mother, as a servant, worshipped Him, and she addressed the Infant in her arms, \"How were You sown in me, and how were You implanted in me, O my Redeemer and my God?\""
+meVE.SticBoth.melody = ""
+meVE.SticBoth.text = "Prepare yourself, O Grotto, for the Ewe is coming, carrying Christ in her womb. O Manger, receive Him who released us earthlings from irrational activity by His word. You shepherds watching by night, witness to the awesome wonder. And you Magi from Persia, offer gold and frankincense and myrrh to the King. For the Lord has appeared from a virgin Mother. And bending over Him, the Mother, as a servant, worshipped Him, and she addressed the Infant in her arms, "How were You sown in me, and how were You implanted in me, O my Redeemer and my God?""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha1.melody = misc_en_US_dedes.NotMetered
@@ -46,11 +46,11 @@ meVE.Aposticha3.text = "Oh awsome miracle! the dead girl spoke in a live voice t
 
 meVE.AposGlory.poet = poets_en_US_dedes.Germanou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "O devout and wise Father Spyridon, by your virtues you proved to be a divine gem of hierarchs. Therefore, when you became a guardian of the Church, you expelled the leaders of heresy, and in the Synod you threw down the blasphemy of Arius. Therefore, as a wonderworker in both deed and word, entreat the Savior to save our souls."
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode2
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = "Behold, the time of our salvation is at hand. Prepare yourself, O Grotto; the Virgin is close to giving birth. Bethlehem, land of Judah, rejoice and be glad, for our Lord has risen from you. Listen, O mountains and hills, and the region around Judea, for Christ is coming to save man whom He created, in His love for humanity."
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
@@ -81,17 +81,17 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = "As the fiery Throne of our God, rejoice! * Holy Maid, as the Chair of the King, rejoice! * Bed with purple covering, Chamber decked in gold and purple, * the most exquisite Temple and porphyry-colored Cloak, * brightly shining Lamp-stand and lightning-bearing Chariot! * City with its twelve walls, rejoice, O Theotokos; * and Gate that is wrought in gold, Bridal Chamber most beautiful, * holy Table of shiny gold; * Dwelling Place adorned by God, * O rejoice, glorious Bride on whom the sun has dripped! * O rejoice, as my soul's only majesty!"
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelHierarch.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "O Spyridon the wise, you are the joy and the cream of the Fathers; you illumine the four corners of the world with the splendor of your miracles. You brought down the madness of Arius. Entreat the Savior to save our souls."
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
@@ -210,7 +210,7 @@ meMA.Kontakion1.text = "Enraptured by love for Christ, O most sacred man, * upli
 
 meMA.Oikos1.text = "Let us now extol Spyridon, the Hierarch of the Lord, who was sanctified from the womb, who received the tablets of grace and divine glory, who was famous to all by his miracles. He was fervent and an eyewitness of divine illumination, a defender of the poor, and spiritual guide for sinners. He proved to be a faithful Hierarch, offering sacrifices at the altar of Christ, and he earnestly prays that God illumine all."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode2
@@ -297,18 +297,18 @@ meMA.Lauds3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Lauds3.text = "Through faith, O God-bearing Father, * you were a laborer * of the noetic vineyard * of the Savior's commandments. * Spyridon, you mystically have received * from the Lord the denarius * of the celestial Kingdom; so ever pray * on behalf of us who honor you."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "O devout Father and celebrated Hierarch, you were imbued with the apostolic teaching; and it showed, by your virtuous way of life, that you were a dwelling of the Holy Spirit. As such, you drove out the wolves from the Church with your doctrines; and you clearly elucidated the Orthodox Faith, and thus proved to be a pillar and champion of the true religion. You also worked miracles throughout the world: you turned a snake into gold; and you resurrected your daughter who had died, in order to question her. O holy Spyridon, as one who is worthy of admiration among the Fathers, and who keeps company with the Teachers, intercede with the Savior to save our souls."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m4.d2_en_US_dedes.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.source  = ""
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text 
+meMA.LaudsSundayVerse1.source = ""
+meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text 
+meMA.LaudsSundayVerse2.source = ""
+meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
 meLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
