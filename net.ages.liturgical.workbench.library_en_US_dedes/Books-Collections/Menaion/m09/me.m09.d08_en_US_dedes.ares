@@ -52,7 +52,7 @@ meSV.AposGlory.text = ""
 meVE.Stichera01.poet = poets_en_US_dedes.Sergiou
 meVE.Stichera01.mode = misc_en_US_dedes.Mode6
 meVE.Stichera01.melody  = misc_en_US_dedes.Idiomelon
-meVE.Stichera01.text = ""
+meVE.Stichera01.text = misc_en_US_dedes.NA
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode6
 meVE.Stichera02.melody  = misc_en_US_dedes.Idiomelon
@@ -60,7 +60,7 @@ meVE.Stichera02.text = "This is the day of the Lord. Rejoice, therefore, O natio
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode6
 meVE.Stichera03.melody  = misc_en_US_dedes.Idiomelon
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = misc_en_US_dedes.NA
 
 meVE.Stichera04.poet = poets_en_US_dedes.StefanouAgiopolitou
 meVE.Stichera04.mode = misc_en_US_dedes.Mode6
@@ -69,7 +69,7 @@ meVE.Stichera04.text = "Today, the barren gates are opened and the Virgin, the G
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode6
 meVE.Stichera05.melody  = misc_en_US_dedes.Idiomelon
-meVE.Stichera05.text = ""
+meVE.Stichera05.text = misc_en_US_dedes.NA
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode6
 meVE.Stichera06.melody  = misc_en_US_dedes.Idiomelon
@@ -108,19 +108,17 @@ meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha1.melody  = misc_en_US_dedes.Idiomelon
 meVE.Aposticha1.text = "Joy for all the world has dawned on us of righteous parentage; of Joachim and Anna comes the all-lauded Virgin. Through a super-excellent kindness, a soul-endowed temple of God she comes to be, and she alone in truthfulness as Theotokos is known to be. At her supplication, O Christ our God, to the world send down Your peace and tranquility, and to our souls Your great mercy."
 
-meVE.ApostichaVerse2.source  = ""
-meVE.ApostichaVerse2.text = "Listen, O daughter, behold and incline your ear, and forget your people and your father's house; for the King desired your beauty."
+meVE.ApostichaVerse2.text = ""
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha2.melody  = misc_en_US_dedes.Idiomelon
 meVE.Aposticha2.text = "O Virgin, today you were born a most noble child, from the two just ones, Joachim and Anne, as the angel had promised in his announcement. To God you are a heaven, a throne, and a vessel of holiness. The the whole world, a herald of joy, the cause of our life, the blessing that wiped out the curse. You are the reason for all the blessings of God. O Maiden, whom God has chosen, on this day of your nativity obtain peace and great mercy for our souls."
 
-meVE.ApostichaVerse3.source  = ""
-meVE.ApostichaVerse3.text = "The rich among the people shall entreat your favor."
+meVE.ApostichaVerse3.text = ""
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha3.melody  = misc_en_US_dedes.Idiomelon
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.text = misc_en_US_dedes.NA
 
 meVE.AposGlory.poet = poets_en_US_dedes.SergiouAgiopolitou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
@@ -144,10 +142,6 @@ meMA.Kathisma31.melody = he.a.m8_en_US_dedes.ToProstachthen.name
 meMA.Kathisma31.text = "Exult, O Heaven, and you also, Earth, be joyful. * Because the very Bride of God and God's own heaven * has been born on the earth fulfilling thus the promise. * The barren woman is nursing Mary the babe, * and joyous is righteous Joachim at the birth, * and he says, From the root of David unto me is born a Rod, * from which has bloomed the flower Christ. * Truly wondrous the miracle!"
 
 meMA.Prokeimenon.text = "" //for media
-//meMA.Gospel.name = "Luke."
-//meMA.Gospel.chapverse = "Luke 1:39-49, 56"
-//meMA.Gospel.text = "In those days, Mary arose and went with haste into the hill country, to a city of Judah, and she entered the house of Zacharias and greeted Elizabeth. And when Elizabeth heard the greeting of Mary, the babe leaped in her womb; and Elizabeth was filled with the Holy Spirit and she exclaimed with a loud cry, \"Blessed are you among women, and blessed is the fruit of your womb! And why is this granted me, that the mother of my Lord should come to me? For behold, when the voice of your greeting came to my ears, the babe in my womb leaped for joy. And blessed is she who believed that there would be a fulfillment of what was spoken to her from the Lord.\" And Mary said, \"My soul magnifies the Lord, and my spirit has rejoiced in God my Savior, for He has regarded the humility of His handmaiden. For behold, henceforth all generations will call me blessed; for He who is mighty has done great things for me, and holy is His name.\" And Mary remained with her about three months, and returned to her home."
-//From goarch: http://goarch.org/chapel/lectionary_view?type=MGandcode=370andlanguage=elanddate=9/8/2012
 
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody  = ""
