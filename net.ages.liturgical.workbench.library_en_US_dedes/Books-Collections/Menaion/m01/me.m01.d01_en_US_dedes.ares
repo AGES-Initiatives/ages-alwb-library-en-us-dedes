@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m01.d01_en_US_dedes
 
-meHO.month.text = ""
-meHO.dayshours.text = ""
+meHO.Month.text = "JANUARY"
+meHO.DaysHours.text = "(The month has 31 days. The day has 10 hours and the night 14 hours.)"
 
 meDate.text = "January 1" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "The Circumcision of our Lord, God and Savior Jesus Christ, and Memory of our Father among the saints Basil the Great, Archbishop of Caesarea in Cappadocia" //full title of day
@@ -9,9 +9,9 @@ meShortCommemoration1.text = "St. Basil"
 meInsert1 = "our Father among the saints Basil the Great, Archbishop of Caesarea in Cappadocia," //for use in petitions and dismissal
 meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
 meNote.text = ""
-meHO.number = ""
-meHO.rank  = ""
-meHO.note1 = ""
+meHO.number = "1."
+meHO.rank  = "3"
+meHO.note1 = rubrical_en_US_dedes.HolidayAll
 meHO.note2 = ""
 meDismissal = dismissals_en_US_dedes.dis00.circumcision
 
