@@ -9,6 +9,7 @@ meInsert2 = "whose memory we are observing;" //for use in petitions and dismissa
 meNote.text = ""
 meHO.number = ""
 meHO.rank  = ""
+meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
@@ -50,7 +51,7 @@ meVE.AposStavrotheotokion.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
 meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.TisErimouPolitis.name
-meVE.Apolytikion1.name = "Kyriacos,"
+meVE.GeneralApolytikion1.name = "Kyriacos,"
 meVE.Apolytikion1.text = "" //for media
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou

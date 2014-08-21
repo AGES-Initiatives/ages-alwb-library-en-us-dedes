@@ -8,6 +8,7 @@ meInsert2 = "whose memory we observe;" //for use in petitions and dismissal
 meNote.text = ""
 meHO.number = ""
 meHO.rank  = ""
+meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
@@ -42,18 +43,6 @@ meVE.SticGlory.text = ""
 meVE.SticBoth.mode = misc_en_US_dedes.Mode6
 meVE.SticBoth.melody  = ""
 meVE.SticBoth.text = ""
-
-meVE.Reading1.book = ""
-meVE.Reading1.chapverse = ""
-meVE.Reading1.text = ""
-
-meVE.Reading2.book = ""
-meVE.Reading2.chapverse = ""
-meVE.Reading2.text = ""
-
-meVE.Reading3.book = ""
-meVE.Reading3.chapverse = ""
-meVE.Reading3.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode1
 meVE.LityGlory.melody  = ""

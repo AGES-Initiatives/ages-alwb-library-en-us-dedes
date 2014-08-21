@@ -8,6 +8,7 @@ meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
 meNote.text = ""
 meHO.number = ""
 meHO.rank  = ""
+meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
@@ -102,7 +103,7 @@ meVE.AposTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
 meVE.Apolytikion1.melody = he.ga_en_US_dedes.ApostoleAgie.name
-meVE.Apolytikion1.name = "Luke,"
+meVE.GeneralApolytikion1.name = "Luke,"
 meVE.Apolytikion1.text = "" //for media
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
