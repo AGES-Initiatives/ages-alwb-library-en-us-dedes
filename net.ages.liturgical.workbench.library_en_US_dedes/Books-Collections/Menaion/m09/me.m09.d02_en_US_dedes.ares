@@ -8,6 +8,7 @@ meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
 meHO.number = ""
 meHO.rank  = ""
+meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
@@ -66,7 +67,7 @@ meVE.Apolytikion1.text = he.ga_en_US_dedes.OMartysSouKyrie.text
 
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion2.melody = he.ga_en_US_dedes.KanonaPisteos.name
-meVE.Apolytikion2.name = "Holy and devout Father John, " 
+meVE.GeneralApolytikion2.name = "Holy and devout Father John, " 
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
 

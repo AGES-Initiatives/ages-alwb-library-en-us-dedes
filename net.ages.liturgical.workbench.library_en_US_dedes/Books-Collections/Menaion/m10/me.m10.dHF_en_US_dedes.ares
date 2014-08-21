@@ -8,6 +8,7 @@ meInsert2 = "whose memory we celebrate today;" //for use in petitions and dismis
 meNote.text = ""
 meHO.number = ""
 meHO.rank  = ""
+meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
@@ -38,18 +39,6 @@ meVE.Stichera06.text = ""
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody  = ""
 meVE.SticGlory.text = me.m07.dHF_en_US_dedes.meVE.SticGlory.text
-
-meVE.Reading1.book = ""
-meVE.Reading1.chapverse = ""
-meVE.Reading1.text = ""
-
-meVE.Reading2.book = ""
-meVE.Reading2.chapverse = ""
-meVE.Reading2.text = ""
-
-meVE.Reading3.book = ""
-meVE.Reading3.chapverse = ""
-meVE.Reading3.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode3
 meVE.LityGlory.melody  = ""

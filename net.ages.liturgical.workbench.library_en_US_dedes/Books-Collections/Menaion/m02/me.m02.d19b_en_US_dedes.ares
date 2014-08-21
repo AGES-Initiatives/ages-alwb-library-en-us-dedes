@@ -8,6 +8,7 @@ meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
 meNote.text = ""
 meHO.number = ""
 meHO.rank  = ""
+meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
@@ -42,18 +43,6 @@ meVE.SticGlory.text = "All that was yours and your very self you consecrated to 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode5
 meVE.SticTheotokion.melody  = ""
 meVE.SticTheotokion.text = oc.m5.d1_en_US_dedes.ocVE.SticTheotokion.text
-
-meVE.Reading1.book = "the Book of Proverbs."
-meVE.Reading1.chapverse = "(31:10-25)"
-meVE.Reading1.text = "Who will find a courageous wife? For such a one is more valuable than precious stones. [...] She weaves wool and linen cloth and is productive with her hands. She is like a ship trading afar off, so she procures her livelihood. She also rises before dawn and gives food to her household, and appoints tasks for her maidservants. Seeing a farm, she buys it, and from the fruits of her hands she plants her plot of land. Strongly girding her loins, she strengthens her arms for work. She experiences work as a good thing, and her lamp is not quenched all night. She extends her arms to do profitable things, and she applies her hands to the spindle. She open her hands to the poor and reaches out with her fruit to the needy. [...]She clothes herself with strength and dignity and rejoices in the last days."
-
-meVE.Reading2.book = "the Wisdom of Solomon."
-meVE.Reading2.chapverse = "(3:1-9; 4:15)"
-meVE.Reading2.text = "The souls of the righteous are in the hand of God, and no torture will ever touch them. In the eyes of the undiscerning they seemed to have died, and their departure was considered to be misfortune, and the passage from us to be their destruction; but they are at peace. For though in man's view they were punished, their hope is full of immortality. Though chastened in a few things, great kindness will be shown them, for God tested them and found them worthy of Himself. He tested them like gold in a furnace and accepted them as a whole burnt offering. In the time of their visitation they will shine forth, and they will run about like sparks through straw. they will judge nations and rule over peoples, and the Lord shall reign over them unto the ages. Those who trust in Him will understand truth, and the faithful shall continue with Him in love, because the Lord's grace and mercy are with His elect, and He watches over His holy ones."
-
-meVE.Reading3.book = "the Wisdom of Solomon."
-meVE.Reading3.chapverse = "(5:15-23; 6:1- 3)"
-meVE.Reading3.text = "The righteous live forever, and their reward is with the Lord; and their care is by the Most High. Therefore they shall receive a kingly dwelling of dignity and a crown of beauty from the hand of the Lord, because He will shelter them with His right hand and protect them with His arm. He will take His zeal a s His full armor and will turn His creation into weapons against His enemies. He will wear righteousness as a breastplate and put on impartial judgment as a helmet. He will take holiness as an unconquerable shield and sharpen His relentless wrath for a sword; and creation will fight with Him against the senseless. Well-aimed flashes of lightning will strike and leap to their object as from a well-drawn bow of clouds; and hailstones full of anger will be hurled as from an engine of war. The water of the sea will be vexed with them, and the rivers will wash over them severely. A powerful wind will oppose them, and like a storm it will winnow them away. Lawlessness will lay waste all the earth, and wrongdoing will overturn the thrones of rulers. Listen therefore, O kings, and understand; learn, O judges of the ends of the earth. Give ear, you that rule over multitudes, and take pride in yourself over a multitude of nations. For power was given to you from the Lord, and your lordship from the Most High."
 
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
 meVE.Lity1.melody  = ""

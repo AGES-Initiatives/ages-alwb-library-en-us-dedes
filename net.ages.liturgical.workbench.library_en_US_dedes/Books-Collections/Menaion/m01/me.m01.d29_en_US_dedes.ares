@@ -8,6 +8,7 @@ meInsert2 = "the memory of the transfer of whose holy relic we observe;" //for u
 meNote.text = ""
 meHO.number = ""
 meHO.rank  = ""
+meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
@@ -54,7 +55,7 @@ meVE.AposStavrotheotokion.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = he.ga_en_US_dedes.KaiTroponMetochos.name
-meVE.Apolytikion1.name = "Ignatius." // name of saint for General Apolytikia
+meVE.GeneralApolytikion1.name = "Ignatius." // name of saint for General Apolytikia
 
 meMA.C1Acrostic.text = ""
 

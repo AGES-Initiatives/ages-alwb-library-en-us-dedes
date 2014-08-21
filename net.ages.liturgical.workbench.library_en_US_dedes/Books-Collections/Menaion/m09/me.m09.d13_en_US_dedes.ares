@@ -8,6 +8,7 @@ meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
 meHO.number = ""
 meHO.rank  = ""
+meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
@@ -44,18 +45,6 @@ meVE.SticGlory.text = "As we perform the Consecration, we glorify You, the Giver
 meVE.SticBoth.mode = misc_en_US_dedes.Mode6
 meVE.SticBoth.melody  = ""
 meVE.SticBoth.text = ""
-
-meVE.Reading1.book = "the Third Book of the Kingdoms."
-meVE.Reading1.chapverse = "(III Kingdoms 10:22-23, 27-31)"
-meVE.Reading1.text = "Solomon stood before the face of the Lord, in front of the whole Assembly of Israel, and stretched out his hands to heaven and said: Lord God of Israel, there is no god like you in heaven above or on earth below. If the highest heaven is not adequate for you, how then this house which I have built in your name? Unless you, Lord, the God of Israel, look upon my supplication, to hear the supplication and the prayer which your servant makes before you this day, that your eyes be open towards this house, of which you have said that your name will be there; to hearken to the prayer which your servant prays at this place day and night. And may you hearken to the supplication of your servant and of your people Israel, whatever they may pray in this place, and may you hearken in the place of your habitation in heaven, and be gracious to them."
-
-meVE.Reading2.book = "Proverbs."
-meVE.Reading2.chapverse = "(Pr. 3:19-34)"
-meVE.Reading2.text = "With wisdom God founded the earth; He prepared the heavens with understanding. With his knowledge the deeps were broken open and the clouds poured down dew. My son, keep my counsel and my thought, do not pour them away, that your soul may live and grace be around your neck; and there shall be health for your flesh and safety for your bones; that with confidence you may walk all your ways in peace, and your foot may not stumble. For if you sit down, you shall be unafraid; if you slumber, you shall have sweet sleep; you shall not fear alarm coming upon you, nor the assaults of the impious; for the Lord shall be over all your ways and shall support your feet, so that you are not snared. Do not hold back from doing good to the needy, whenever your hand is able to help. Do not say: Come back again sometime, and Tomorrow I shall give: when you are able, do good, for you do not know what the coming day will bring forth. Do not devise evils for your friend who lives near you and trusts you. Do not quarrel with someone needlessly, lest they devise some evil against you. Do not gain the reproaches of wicked men, nor covet their ways; for every transgressor is unclean before the Lord, he does not take his seat among the just. The Lord's curse is on the houses of the ungodly, but the dwellings of the just are blessed. The Lord opposes the proud, but gives grace to the humble."
-
-meVE.Reading3.book = ""
-meVE.Reading3.chapverse = ""
-meVE.Reading3.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
 meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name

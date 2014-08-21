@@ -11,6 +11,7 @@ meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
 meHO.number = ""
 meHO.rank  = ""
+meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
@@ -48,7 +49,7 @@ meVE.SticStavrotheotokion2.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
 meVE.Apolytikion1.melody = he.ga_en_US_dedes.EnSoiMiterAkrivos.name
-meVE.Apolytikion1.name = ""
+meVE.GeneralApolytikion1.name = ""
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode5

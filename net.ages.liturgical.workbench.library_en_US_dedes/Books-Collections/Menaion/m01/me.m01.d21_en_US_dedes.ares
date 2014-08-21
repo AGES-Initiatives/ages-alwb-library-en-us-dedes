@@ -8,8 +8,9 @@ meShortCommemoration1.text = ""
 meInsert1 = "our devout and God-bearing father Maximus the Confessor," //for use in petitions and dismissal
 meInsert2 = "whose memory we observe;" //for use in petitions and dismissal
 meNote.text = ""
-meHO.number = ""
-meHO.rank  = ""
+meHO.number = "21."
+meHO.rank  = "5"
+meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
@@ -64,7 +65,7 @@ meVE.AposStavrotheotokion.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
 meVE.Apolytikion1.melody = he.ga_en_US_dedes.OrthodoxiasOdigeM.name
-meVE.Apolytikion1.name = "Maximus," // name of saint for General Apolytikia
+meVE.GeneralApolytikion1.name = "Maximus," // name of saint for General Apolytikia
 
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion2.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
