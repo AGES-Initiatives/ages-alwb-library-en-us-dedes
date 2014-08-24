@@ -34,14 +34,12 @@ meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meSV.Aposticha1.text = ""
 
-meSV.ApostichaVerse2.source  = ""
 meSV.ApostichaVerse2.text = ""
 
 meSV.Aposticha2.mode = misc_en_US_dedes.Mode2
 meSV.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meSV.Aposticha2.text = ""
 
-meSV.ApostichaVerse3.source  = ""
 meSV.ApostichaVerse3.text = ""
 
 meSV.Aposticha3.mode = misc_en_US_dedes.Mode2
@@ -125,14 +123,12 @@ meVE.Aposticha1.mode = misc_en_US_dedes.Mode7
 meVE.Aposticha1.melody  = ""
 meVE.Aposticha1.text = "Decorate your bridal hall, O Zion, and welcome Christ the King. Greet Mary, the heavenly gate; for she became a cherubic throne. She holds the King of glory. The Virgin is the cloud of light, carrying her Son in the flesh, who is before the Morning. When Symeon took Him in his arms, he proclaimed to the people, that He is the Master of life and death, and the Savior of the world."
 
-meVE.ApostichaVerse2.source = "NRS"
 meVE.ApostichaVerse2.text = "Master, now you are dismissing your servant in peace, according to your word; for my eyes have seen your salvation. "
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode7
 meVE.Aposticha2.melody  = ""
 meVE.Aposticha2.text = "Before the ages, Christ the Lord shone forth from the Father, and lately He came from a Virgin's womb. Of old He gave the Law on Mt. Sinai, and now He was obeying what the Law commanded. His Mother, who was a virgin, brought Him into the Temple and presented Him to Symeon the Priest, who was elderly and righteous, to whom it had been revealed that he would see the Messiah. When he took Him in his arms, Symeon greatly rejoiced and said, \"This child is God, He is coeternal with the Father, and He is the Redeemer of our souls.\""
 
-meVE.ApostichaVerse3.source = "NRS"
 meVE.ApostichaVerse3.text = "A light for revelation to the Gentiles and for glory to your people Israel. "
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode7
@@ -392,48 +388,34 @@ meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
 meMA.LaudsGlory.melody  = ""
 meMA.LaudsGlory.text = "O Christ God, who on this day was well pleased to recline in the elder's hands, as on a chariot of cherubim, call us back who extol You, and deliver us from the tyranny of the passions, and save our souls."
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
-meLI.Antiphon1Verse1.source = "44"
 meLI.Antiphon1Verse1.text = "My heart overflowed with a good word; I tell my works to the King."
 
-meLI.Antiphon1Verse2.source = "44"
 meLI.Antiphon1Verse2.text = "My tongue is a pen of a swift-writing scribe."
 
-meLI.Antiphon1Verse3.source = "44"
 meLI.Antiphon1Verse3.text = "Grace was poured out on Your lips."
 
-meLI.Antiphon1Verse4.source = "44"
 meLI.Antiphon1Verse4.text = "Therefore God blessed You forever."
 
-meLI.Antiphon2Verse1.source = "44"
 meLI.Antiphon2Verse1.text = "Gird Your sword upon Your thigh, O Mighty One, in Your splendor and Your beauty."
 
-meLI.Antiphon2Verse2.source = "44"
 meLI.Antiphon2Verse2.text = "And stretch Your bow, and grant prosperity, and reign because of truth, gentleness, and righteousness."
 
-meLI.Antiphon2Verse3.source = "44"
 meLI.Antiphon2Verse3.text = "Your arrows are sharp, O Mighty One; the peoples shall fall under You."
 
-meLI.Antiphon2Verse4.source = "44"
 meLI.Antiphon2Verse4.text = "Your royal scepter is a scepter of uprightness."
 
 meLI.Antiphon2.text = "who in the arms of righteous Symeon were held."
 
-meLI.Antiphon3Verse1.source = "44"
 meLI.Antiphon3Verse1.text = "Listen, O daughter; behold and incline your ear, and forget your people and your father's; house; for the King desired your beauty."
 
-meLI.Antiphon3Verse2.source = "44"
 meLI.Antiphon3Verse2.text = "The rich among the people shall entreat your favor."
 
-meLI.Antiphon3Verse3.source = "44"
 meLI.Antiphon3Verse3.text = "I will remember you name from generation to generation."
 
-meLI.EntranceHymn.source = ""
 meLI.EntranceHymn.text = "The Lord made know His salvation; He revealed His righteousness in the sight of the Gentiles."
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
@@ -444,7 +426,6 @@ meLI.TheotokosHymn.mode = misc_en_US_dedes.Mode3
 meLI.TheotokosHymnVerse.text = meMA.Ode9C1MTh.text
 meLI.TheotokosHymn.text = he.h.m3_en_US_dedes.EnNomoSkia.text
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d4_en_US_dedes.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""

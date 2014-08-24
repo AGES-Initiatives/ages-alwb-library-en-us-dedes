@@ -38,14 +38,12 @@ meVE.Aposticha1.mode = misc_en_US_dedes.Mode6
 meVE.Aposticha1.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
 meVE.Aposticha1.text = ""
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "And you, child, will be called the prophet of the Most High; for you will go before the Lord to prepare his ways."
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode6
 meVE.Aposticha2.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
 meVE.Aposticha2.text = ""
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "That we might serve Him without fear, in holiness and righteousness before him all the days of our life."
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode6
@@ -282,17 +280,14 @@ meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
 meMA.LaudsGlory.melody  = ""
 meMA.LaudsGlory.text = ""
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""

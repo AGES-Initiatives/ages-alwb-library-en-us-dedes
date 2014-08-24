@@ -52,14 +52,12 @@ meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meVE.Aposticha1.text = "The Logos rose from the Father before the ages began, * and as the Son is ever * in the bosom of the Father. * Now, though, as an infant, He sits in the arms * of His Mother as on a throne; * and by the Angels and Shepherds and Magi Kings, * He is worshiped. Let us sing His praise."
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "The Lord said to my Lord, \"Sit at My right hand, until I make Your enemies the footstool of Your feet.\""
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meVE.Aposticha2.text = "Let us the faithful assemble and go to Bethlehem. * We see the world's Creator as a babe in the manger. * And we see the men of Chaldea present * to the Lord threefold precious gifts * fit for a King, fit for God, and fit for the man, * who for three days will be dead for us."
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "\"I have begotten You from the womb before the morning star.\" The Lord swore and will not repent. \"You are a priest forever according to the order of Melchizedek.\""
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode1
@@ -513,10 +511,8 @@ meMA.LaudsBoth.mode = misc_en_US_dedes.Mode5
 meMA.LaudsBoth.melody = misc_en_US_dedes.Idiomelon
 meMA.LaudsBoth.text = "Incomprehensible is the mystery that is accomplished today in Bethlehem! The invisible One becomes visible; the fleshless One assumes flesh; the Logos takes substance; and the One who is becomes what He was not. A Virgin gives birth in a cave to a new baby who is the Fashioner of nature. A manger portrays a heavenly throne, and animals represent an array of Cherubim. Shepherds marvel; Magi bring gifts. Angels sing praises, saying, \"Glory to God in the highest, and peace on earth. For Emmanuel, without changing, is well pleased to be with mankind.\""
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = "Their proclamation went forth into all the earth, and their words to the ends of the world."
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = "The heavens declare the glory of God; 
 the firmament shows the creation of His hands.
 "
@@ -525,14 +521,12 @@ meMA.Aposticha1.mode = misc_en_US_dedes.Mode1
 meMA.Aposticha1.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meMA.Aposticha1.text = ""
 
-meMA.ApostichaVerse2.source  = ""
 meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text 
 
 meMA.Aposticha2.mode = misc_en_US_dedes.Mode1
 meMA.Aposticha2.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meMA.Aposticha2.text = ""
 
-meMA.ApostichaVerse3.source  = ""
 meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text 
 
 meMA.Aposticha3.mode = misc_en_US_dedes.Mode1
@@ -556,13 +550,10 @@ meLI.SeasonalKontakion.text = me.m12.d25_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode1
 
-meLI.AlleluiaVerse1.source = "88"
 meLI.AlleluiaVerse1.text = "The heavens shall confess You wonder, O Lord."
 
-meLI.AlleluiaVerse2.source = "88"
 meLI.AlleluiaVerse2.text = "God is glorified in the counsel of saints."
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d5_en_US_dedes.daLI.CommunionHymnAlt.text
 
 meMegalynarion.text = ""

@@ -23,16 +23,12 @@ pePA.ChristIsRisen2a.text = "Christ is risen from the dead, by death trampling d
 pePA.ChristIsRisen2b.text = "...and to those in the tombs He has granted life."
 pePA.ChristIsRisenShort.text = "Christ is risen from the dead, by death trampling down upon death, and to those in the tombs He has granted life." //for media
 
-pePA.PaschaVerse1.source = ""
 pePA.PaschaVerse1.text = "Let God arise, and let His enemies be scattered, and let those who hate Him flee from before His face."
 
-pePA.PaschaVerse2.source = ""
 pePA.PaschaVerse2.text = "As smoke vanishes, so let them vanish, as wax melts before the fire."
 
-pePA.PaschaVerse3.source = ""
 pePA.PaschaVerse3.text = "So shall the sinners perish from the face of God. And let the righteous be glad."
 
-pePA.PaschaVerse4.source = ""
 pePA.PaschaVerse4.text = "This is the day the Lord made; let us greatly rejoice and be glad therein."
 
 pePA.Canon.Poet = poets_en_US_dedes.IoannouTouDamaskinou
@@ -323,45 +319,32 @@ pePA.Hours5.text = oc.m4.d1_en_US_dedes.ocMA.OdeS1C12.text
 pePA.Hours6.text = oc.m4.d1_en_US_dedes.ocMA.OdeS7C12.text
 pePA.Hours7.text = oc.m4.d1_en_US_dedes.ocMA.OdeS7C1T.text
 
-pePA.Antiphon1Verse1.source = ""
 pePA.Antiphon1Verse1.text = "Shout to God, all the earth."
 
-pePA.Antiphon1Verse2.source = ""
 pePA.Antiphon1Verse2.text = "Sing now to His name; give glory to His praise."
 
-pePA.Antiphon1Verse3.source = ""
 pePA.Antiphon1Verse3.text = "Say to God, \"How fearful are Your works; in the greatness of Your power Your enemies will lie to You.\""
 
-pePA.Antiphon1Verse4.source = ""
 pePA.Antiphon1Verse4.text = "Let all the earth worship You and sing to You; let them sing to Your name, O Most High."
 
-pePA.Antiphon2Verse1.source = ""
 pePA.Antiphon2Verse1.text = "May God be gracious to us, and bless us; may He cause His face to shine upon us, and have mercy on us."
 
-pePA.Antiphon2Verse2.source = ""
 pePA.Antiphon2Verse2.text = "That we may know His way on the earth, Your salvation among all the Gentiles."
 
-pePA.Antiphon2Verse3.source = ""
 pePA.Antiphon2Verse3.text = "Let the peoples give thanks to You, O God; let all the peoples praise You."
 
-pePA.Antiphon2Verse4.source = ""
 pePA.Antiphon2Verse4.text = "May God bless us, and let all the ends of the earth be in fear of Him."
 
 pePA.Antiphon2.text = ho.s07_en_US_dedes.hoLI.Antiphon2s.text
 
-pePA.Antiphon3Verse1.source = ""
 pePA.Antiphon3Verse1.text = pePA.PaschaVerse1.text
 
-pePA.Antiphon3Verse2.source = ""
 pePA.Antiphon3Verse2.text = pePA.PaschaVerse2.text
 
-pePA.Antiphon3Verse3.source = ""
 pePA.Antiphon3Verse3.text = pePA.PaschaVerse3.text
 
-pePA.Antiphon3Verse4.source = ""
 pePA.Antiphon3Verse4.text = pePA.PaschaVerse4.text
 
-pePA.EntranceHymn.source = ""
 pePA.EntranceHymn.text = "In the congregations bless God, the Lord from the springs of Israel."
 
 pePA.SeasonalKontakion.mode = misc_en_US_dedes.Mode8
@@ -372,7 +355,6 @@ pePA.TheotokosHymn.mode = misc_en_US_dedes.Mode1
 pePA.TheotokosHymnVerse.text = pePA.Ode9MKa.text
 pePA.TheotokosHymn.text = pePA.Ode9H.text
 
-pePA.CommunionHymn.source  = ""
 pePA.CommunionHymn.text = "Receive the Body of Christ; taste from the immortal fount."
 
 pePA.AfterCommunion.mode = misc_en_US_dedes.Mode5
