@@ -37,7 +37,6 @@ trLI.CherubicHymnPart2.text = "But like the Robber I confess to You. Remember me
 trLI.TheotokosHymn.mode = misc_en_US_dedes.Mode8
 trLI.TheotokosHymn.text = oc.m8.d1_en_US_dedes.ocMA.Kathisma23.text
 
-trLI.CommunionHymn.source  = ""
 trLI.CommunionHymn.text = "Receive me, today, O Son of God, as a partaker of Your mystical Supper. I will not reveal Your mystery to Your enemies, nor will I give You a kiss, as did Judas. But like the Robber I confess to You. Remember me, O Lord, when You come in Your kingdom."
 
 trLI.AfterCommunion.mode  = ""
@@ -322,11 +321,9 @@ trHW.BeatitudesT.mode = misc_en_US_dedes.Mode4
 trHW.BeatutidesT.melody = he.a.m4_en_US_dedes.DiaXylouOAdam.name
 trHW.BeatitudesT.text = "O Christ our God, we present, as an intercessor to pray for us, * Your Virgin Mother who conceived without seed and physically gave birth to You, * and after the childbirth remained incorrupt, O most merciful Lord. * She prays that You always grant forgiveness of offences to those who cry aloud, * \"Remember us as well in Your kingdom, O Savior.\""
 
-trHW.Prokeimenon.source = ""
 trHW.Prokeimenon.mode = misc_en_US_dedes.Mode4
 trHW.Prokeimenon.text = "They divided my garments among themselves, and for my clothing they cast lots."
 
-trHW.ProkeimenonVerse1.source = ""
 trHW.ProkeimenonVerse1.text = "O God, my God, hear me; why have You forsaken me?"
 
 trMA.C1Poet = poets_en_US_dedes.KosmaMonachou
@@ -461,21 +458,18 @@ trMA.Aposticha1.mode = misc_en_US_dedes.Mode1
 trMA.Aposticha1.melody = misc_en_US_dedes.Idiomelon
 trMA.Aposticha1.text = "All creation was altered in awe, as it saw You hanging on a cross, O Christ. The sun went dark, and the foundations of the earth shook. All things suffered with You who created all things. O Lord, who willingly endured it for us, glory to You!"
 
-trMA.ApostichaVerse2.source = ""
 trMA.ApostichaVerse2.text = "They divided my garments among themselves, and for my clothing they cast lots."
 
 trMA.Aposticha2.mode = misc_en_US_dedes.Mode2
 trMA.Aposticha2.melody = misc_en_US_dedes.Idiomelon
 trMA.Aposticha2.text = "Why do the impious and unlawful people meditate on vain things? Why did they condemn to death the One who is the life of all? Great is the marvel! The Creator of the world is delivered into the hands of lawless men, and the Friend of humanity is lifted up on a cross, in order to free the prisoners in Hades, who cry to Him, \"Long-suffering Lord, glory to You!\""
 
-trMA.ApostichaVerse3.source = ""
 trMA.ApostichaVerse3.text = "They gave me gall for my food, and they gave me vinegar for my drink."
 
 trMA.Aposticha3.mode = misc_en_US_dedes.Mode2
 trMA.Aposticha3.melody = misc_en_US_dedes.Idiomelon
 trMA.Aposticha3.text = "The blameless Virgin was watching as You were suspended on the Cross today, O Word of God. She lamented with motherly emotions, and it cruelly broke her heart. She sighed with pain from the depths of her soul, tearing at her face and her hair, and it wore her out. Then, beating her breasts, she mournfully cried aloud, \"Woe is me, my divine Child! Alas, the Light of the world! Why did you sink from before my eyes, O Lamb of God?\" Then the hosts of bodiless Angels were overcome by trembling and they said, \"Incomprehensible Lord, glory to You!\""
 
-trMA.ApostichaVerse4.source = ""
 trMA.ApostichaVerse4.text = "But God is our King before the ages; He worked salvation in the midst of the earth."
 
 trMA.Aposticha4.mode = misc_en_US_dedes.Mode2
@@ -508,14 +502,12 @@ trH1.Idiomelon1.mode = misc_en_US_dedes.Mode8
 trH1.Idiomelon1.melody  = ""
 trH1.Idiomelon1.text = trHW.Antiphon122.text
 
-trH1.Verse2.source = ""
 trH1.Verse2.text = "Why do the nations rage, and the people meditate on vain things?"
 
 trH1.Idiomelon2.mode = misc_en_US_dedes.Mode8
 trH1.Idiomelon2.melody  = ""
 trH1.Idiomelon2.text = "You were led as a sheep to slaughter, O Christ the King, and as an innocent lamb, You were nailed to a cross by lawless men, for our sins, O Lord who love humanity."
 
-trH1.Verse3.source = ""
 trH1.Verse3.text = "The kings of the earth set themselves, and the rulers gather together against the Lord and against His anointed."
 
 trH1.Idiomelon3.mode = misc_en_US_dedes.Mode8
@@ -537,14 +529,12 @@ trH3.Idiomelon1.mode = misc_en_US_dedes.Mode8
 trH3.Idiomelon1.melody = misc_en_US_dedes.Idiomelon
 trH3.Idiomelon1.text = "For fear of the Jews, Your friend and neighbor Peter denied You, O Lord. Then he lamented and said, \"Do not be silent at my tears. I know I said I would keep the faith, but I did not keep it, O merciful One.\" Accept our repentance as well, and have mercy on us."
 
-trH3.Verse2.source = ""
 trH3.Verse2.text = "Give ear to my words, O Lord, hear my cry."
 
 trH3.Idiomelon2.mode = misc_en_US_dedes.Mode8
 trH3.Idiomelon2.melody = misc_en_US_dedes.Idiomelon
 trH3.Idiomelon2.text = "Before Your venerable crucifixion, soldiers were mocking You, O Lord; and the angelic ranks were astounded. You who adorned the earth with flowers put on a crown of insult. You who cover the world with clouds put on the robe and were ridiculed. Such was Your plan, and by it Your compassion was known, O Christ, the great mercy. Glory to You!"
 
-trH3.Verse3.source = ""
 trH3.Verse3.text = "Give heed to the voice of my supplication, my King and my God."
 
 trH3.Idiomelon3.mode = misc_en_US_dedes.Mode5
@@ -566,14 +556,12 @@ trH6.Idiomelon1.mode = misc_en_US_dedes.Mode8
 trH6.Idiomelon1.melody = misc_en_US_dedes.Idiomelon
 trH6.Idiomelon1.text = trHW.Antiphon121.text
 
-trH6.Verse2.source = ""
 trH6.Verse2.text = "They gave me gall for my food, and they gave me vinegar for my drink."
 
 trH6.Idiomelon2.mode = misc_en_US_dedes.Mode8
 trH6.Idiomelon2.melody = misc_en_US_dedes.Idiomelon
 trH6.Idiomelon2.text = trHW.Antiphon123.text
 
-trH6.Verse3.source = ""
 trH6.Verse3.text = "Save me, O God, for the waters flood my soul."
 
 trH6.Idiomelon3.mode = misc_en_US_dedes.Mode5
@@ -595,14 +583,12 @@ trH9.Idiomelon1.mode = misc_en_US_dedes.Mode7
 trH9.Idiomelon1.melody = misc_en_US_dedes.Idiomelon
 trH9.Idiomelon1.text = "It was shocking to see the Creator of heaven and earth hanging on the Cross, the sun darkened, and day turned into night; and earth sending up from the graves the bodies of the dead. With them we also worship You. Save us."
 
-trH9.Verse2.source = ""
 trH9.Verse2.text = "They divided my garments among themselves, and for my clothing they cast lots."
 
 trH9.Idiomelon2.mode = misc_en_US_dedes.Mode2
 trH9.Idiomelon2.melody = misc_en_US_dedes.Idiomelon
 trH9.Idiomelon2.text = "When the transgressors of the Law had You nailed to the Cross -- You who are the King of glory, You said to them, \"How have I vexed you, or with what did I provoke you to anger? Before Me, who delivered you from affliction? And now, how do you repay Me? Evil instead of good. In return for the pillar of fire, you nailed Me to a cross; in return for the cloud, you dug a grave for Me. In return for the manna, you fed Me gall, and in return for the water, you gave Me vinegar to drink. So, I will call the Gentiles, and they will glorify Me, with the Father and the Holy Spirit.\""
 
-trH9.Verse3.source = ""
 trH9.Verse3.text = "They gave me gall for my food, and they gave me vinegar for my drink."
 
 trH9.Idiomelon3.rubric = "The Reader (or one of the chanters) stands in the center of the solea in front of the Crucifix and facing east, and reverently intones the following hymn in the same style as the Epistle Readings. When he is finished, the choirs sing the hymn antiphonally, verse by verse."

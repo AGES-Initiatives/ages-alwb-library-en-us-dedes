@@ -40,14 +40,12 @@ meSV.Aposticha1.mode = misc_en_US_dedes.Mode6
 meSV.Aposticha1.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meSV.Aposticha1.text = ""
 
-meSV.ApostichaVerse2.source  = ""
 meSV.ApostichaVerse2.text = ""
 
 meSV.Aposticha2.mode = misc_en_US_dedes.Mode6
 meSV.Aposticha2.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meSV.Aposticha2.text = ""
 
-meSV.ApostichaVerse3.source  = ""
 meSV.ApostichaVerse3.text = ""
 
 meSV.Aposticha3.mode = misc_en_US_dedes.Mode6
@@ -121,14 +119,12 @@ meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
 meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha1.text = ""
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "The holy ones shall boast in glory, and they shall greatly rejoice on their beds."
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode5
 meVE.Aposticha2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha2.text = ""
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "Your priests shall clothe themselves in righteousness; Your saints shall greatly rejoice."
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode5
@@ -782,10 +778,8 @@ meMA.LaudsBoth.mode = misc_en_US_dedes.Mode2
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = "Today in the Temple, Christ is brought as an infant. Today, He who gave the Law to Moses comes under the Law himself. The armies of Angels are struck with awe, seeing that He who holds the universe together is being held in the arms of an old man. Symeon, filled with reverence and joy cries out: \"Now You release me, O Savior, from this mortal life to one that never ends; for I have seen You and I am glad.\""
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text 
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text 
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
@@ -794,13 +788,10 @@ meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode1
 
-meLI.AlleluiaVerse1.source = "88"
 meLI.AlleluiaVerse1.text = "The heavens shall confess Your wonders, O Lord, and Your truth in the church of the saints."
 
-meLI.AlleluiaVerse2.source = "88"
 meLI.AlleluiaVerse2.text = "God is glorified in the counsel of saints; He is great and fearful toward all round about Him"
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d5_en_US_dedes.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""

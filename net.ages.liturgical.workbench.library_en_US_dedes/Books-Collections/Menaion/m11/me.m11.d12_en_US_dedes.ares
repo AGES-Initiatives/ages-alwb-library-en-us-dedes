@@ -53,14 +53,12 @@ meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
 meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha1.text = "Rejoice, the shining lamp of the Church, * the pride and joy of all the world and admired by all, * foundation of Orthodoxy, and Alexandria's pride, * rule of self-control and ascetical discipline, * the port for the storm-tossed, rescue of people in jeopardy, * a mighty fortress and a guardian most secure,* law put into practice, and sea of beneficence; * you are the cheerful giver who abundantly gives to all * what is appropriate when they * in faith to you run, all blessed one. * To Christ pray intently, * and beseech Him that great mercy be given to our souls."
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "Precious in the sight of the Lord is the death of His holy one"
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode5
 meVE.Aposticha2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha2.text = "Rejoice, feeder of those who are starved, * the very generous provider of those in need, * the spring of divine compassion, the well of mercy and alms, * and the ready help of those who are oppressed, * defender of widows, the visitation of the infirm, * and for the naked a blanket of security, * rehabilitation of those who have fallen down: * Father, look down from heaven's heights * with mercy and tend to us * and importune Christ the Savior * that He send to us a share of His * divine love for mankind, * and entreat that He bestow His great mercy on our souls."
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "What shall we give back to the Lord for all He rendered to us?"
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode5
@@ -499,10 +497,8 @@ meMA.AposStavrotheotokion.mode = misc_en_US_dedes.Mode6
 meMA.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meMA.AposStavrotheotokion.text = ""
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
@@ -511,10 +507,8 @@ meLI.SeasonalKontakion.text = me.m11.d21_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Alleluia.mode  = ""
 
-meLI.AlleluiaVerse1.source = ""
 meLI.AlleluiaVerse1.text = ""
 
-meLI.AlleluiaVerse2.source = ""
 meLI.AlleluiaVerse2.text = ""
 
 meMegalynarion.text = ""

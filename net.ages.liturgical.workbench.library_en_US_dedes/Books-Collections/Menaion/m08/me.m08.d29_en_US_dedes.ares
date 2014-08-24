@@ -63,14 +63,12 @@ meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
 meVE.Aposticha1.melody  = ""
 meVE.Aposticha1.text = "O Baptist John, preacher of repentance, when your head was cut off you sanctified the earth, for you spread the Law of God to the faithful, and made lawlessness disappear. As one present at the throne of Christ, the heavenly King, plead with Him to have mercy on our souls."
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "The righteous shall flourish like a palm tree; he shall be multiplied like the cedar in Lebanon."
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode2
 meVE.Aposticha2.melody  = ""
 meVE.Aposticha2.text = ""
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "The righteous man shall be glad in the Lord, and shall hope in Him."
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode2
@@ -545,10 +543,8 @@ meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode6
 meMA.LaudsTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
 meMA.LaudsTheotokion.text = he.o_en_US_dedes.TheotokeSyEiProdromou.text
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meMA.AdditionalIdiomelon1.mode = misc_en_US_dedes.Mode4
@@ -573,13 +569,10 @@ meLI.SeasonalKontakion.text = me.m09.d08_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode4
 
-meLI.AlleluiaVerse1.source = "(Ps. 91)"
 meLI.AlleluiaVerse1.text = meVE.ApostichaVerse2.text
 
-meLI.AlleluiaVerse2.source = "(Ps. 91)"
 meLI.AlleluiaVerse2.text = "Those planted in the house of the Lord shall blossom forth in the courts of our God."
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""

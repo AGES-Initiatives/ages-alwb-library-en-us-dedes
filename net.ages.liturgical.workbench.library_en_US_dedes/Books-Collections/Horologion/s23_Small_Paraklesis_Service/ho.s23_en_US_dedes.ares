@@ -188,10 +188,8 @@ hoCA.Kontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 //First Antiphon Mode 4
 
 //R11
-hoCA.Prokeimenon.source  = ""
 hoCA.Prokeimenon.text = ""
 
-hoCA.ProkVerse.source  = ""
 hoCA.ProkVerse.text = ""
 
 //Gospel
@@ -209,7 +207,6 @@ hoCA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
 hoCA.PostGospelBoth.melody  = ""
 hoCA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
-hoCA.PostGospelVerse.source  = ""
 hoCA.PostGospelVerse.text = ""
 
 hoCA.PostGospelHymn1.mode = misc_en_US_dedes.Mode6

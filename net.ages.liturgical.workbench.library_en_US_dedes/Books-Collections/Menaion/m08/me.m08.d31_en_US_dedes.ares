@@ -32,14 +32,12 @@ meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha1.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.Aposticha1.text = ""
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "The Most High sanctified His tabernacle."
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha2.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.Aposticha2.text = ""
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "The torrents of the river gladden the city of God."
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode4
@@ -516,10 +514,8 @@ meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
 meMA.LaudsGlory.melody  = ""
 meMA.LaudsGlory.text = meVE.SticGlory.text
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode6
@@ -528,13 +524,10 @@ meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode3 //Holy Cross has mode 6
 
-meLI.AlleluiaVerse1.source = ""
 meLI.AlleluiaVerse1.text = "Arise, O Lord, into Your rest, You and the ark of Your holiness."
 
-meLI.AlleluiaVerse2.source = ""
 meLI.AlleluiaVerse2.text = "Listen, O daughter, behold and incline your ear, and forget your people and your father's house; for the King desired your beauty."
 
-meLI.CommunionHymn.source = da.d3_en_US_dedes.daLI.CommunionHymn.text
 meLI.CommunionHymn.text = ""
 
 meMegalynarion.text = ""

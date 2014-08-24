@@ -63,14 +63,12 @@ meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meVE.Aposticha1.text = ""
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "God is wondrous in His saints, the God of Israel."
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meVE.Aposticha2.text = ""
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "The Lord has done marvelous things for His saints who are on the earth."
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode1
@@ -360,10 +358,8 @@ meMA.LaudsStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meMA.LaudsStavrotheotokion.melody  = ""
 meMA.LaudsStavrotheotokion.text = ""
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
@@ -372,13 +368,10 @@ meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode4
 
-meLI.AlleluiaVerse1.source = "33"
 meLI.AlleluiaVerse1.text = "The righteous cried, and the Lord heard them."
 
-meLI.AlleluiaVerse2.source = "33"
 meLI.AlleluiaVerse2.text = "Many are the afflictions of the righteous."
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""

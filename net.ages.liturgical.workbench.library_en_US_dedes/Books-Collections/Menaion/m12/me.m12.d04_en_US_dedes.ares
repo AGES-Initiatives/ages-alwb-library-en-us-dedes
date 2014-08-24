@@ -464,10 +464,8 @@ meMA.LaudsTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
 meMA.LaudsTheotokion.text = he.o_en_US_dedes.TheotokeSyEiAthliforou.text
 
 //The Pat. Hemer. has Sunday Lauds for St. John
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
@@ -476,13 +474,10 @@ meLI.SeasonalKontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode4
 
-meLI.AlleluiaVerse1.source = "Ps. 39"
 meLI.AlleluiaVerse1.text = "I waited patiently for the Lord, and He heeded me."
 
-meLI.AlleluiaVerse2.source = "Ps. 39"
 meLI.AlleluiaVerse2.text = "And He established my feet on a rock."
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
 
 meMegalynarion.text = ""

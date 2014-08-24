@@ -65,14 +65,12 @@ meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
 meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha1.text = ""
 
-meVE.ApostichaVerse2.source  = ""
 meVE.ApostichaVerse2.text = "Their proclamation went forth into all the earth, and their words to the ends of the world."
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode5
 meVE.Aposticha2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha2.text = ""
 
-meVE.ApostichaVerse3.source  = ""
 meVE.ApostichaVerse3.text = "The heavens declare the glory of God; the firmament shows the creation of His hands."
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode5
@@ -838,10 +836,8 @@ meMA.LaudsBoth.mode = misc_en_US_dedes.Mode8
 meMA.LaudsBoth.melody  = ""
 meMA.LaudsBoth.text = "O Bethlehem, welcome the Mother-city of God. For she is coming to give birth to the never-setting light. Angels in heaven, marvel; people on earth, give glory. Magi from Persia, bring your triply precious gift. Shepherds in the field, sing the Thrice-holy hymn. Let everything that breathes praise the Lord who does all things."
 
-meMA.LaudsSundayVerse1.source  = ""
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.source  = ""
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
@@ -850,13 +846,10 @@ meLI.SeasonalKontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode1
 
-meLI.AlleluiaVerse1.source = ""
 meLI.AlleluiaVerse1.text = "The heavens shall confess Your wonders, O Lord."
 
-meLI.AlleluiaVerse2.source = ""
 meLI.AlleluiaVerse2.text = "God is glorified in the counsel of saints."
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = da.d5_en_US_dedes.daLI.CommunionHymnAlt.text
 
 meMegalynarion.text = ""
