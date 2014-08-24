@@ -1,14 +1,14 @@
 A_Resource_Whose_Name = me.m01.d15_en_US_dedes
 
 meDate.text = "January 15" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our devout father Paul of Thebes and Saint John the Hut-Dweller
+meCommemoration.text = "Memory of our devout father Paul of Thebes and Saint John the Hut-Dweller"
 " //full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "our devout and God-bearing father John the Hut-Dweller," //for use in petitions and dismissal
-meInsert2 = "whose memory we observe;" //for use in petitions and dismissal
+meInsert1 = "our devout and God-bearing father John the Hut-Dweller," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe;" // for use in petitions and dismissal
 meNote.text = ""
-meHO.number = ""
-meHO.rank  = ""
+meHO.number = "15."
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.text = "Father, in your hands you held the book * of the holy Go
 
 meVE.SticGlory.poet = poets_en_US_dedes.TheodorouTouStouditou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
@@ -51,7 +51,7 @@ meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
@@ -302,7 +302,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -460,19 +460,19 @@ meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "O Maiden, you are praised by all, * for you have given birth to Christ, * the Angel of the Father's * great Counsel, and King of glory. * Devout ascetics, holy men * and women, having taken up * His Cross, have hastened after Him. * With them entreat without ceasing * on our behalf, Theotokos."
 
-meMA.LaudsSundayVerse1.source  = ""
+meMA.LaudsSundayVerse1.source = ""
 meMA.LaudsSundayVerse1.text = ""
 
-meMA.LaudsSundayVerse2.source  = ""
+meMA.LaudsSundayVerse2.source = ""
 meMA.LaudsSundayVerse2.text = ""
 
 meMA.AposGlory.poet = poets_en_US_dedes.Sykeotou
 meMA.AposGlory.mode = misc_en_US_dedes.Mode8
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode8
-meMA.AposTheotokion.melody  = ""
+meMA.AposTheotokion.melody = ""
 meMA.AposTheotokion.text = ""
 
 meMA.AposStavrotheotokion.mode = misc_en_US_dedes.Mode8
@@ -480,10 +480,10 @@ meMA.AposStavrotheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meMA.AposStavrotheotokion.text = ""
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.source = ""
 meLI.AlleluiaVerse1.text = ""

@@ -1,13 +1,13 @@
 A_Resource_Whose_Name = me.m01.d13_en_US_dedes
 
 meDate.text = "January 13" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "" // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meHO.number = ""
-meHO.rank  = ""
+meHO.number = "13."
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,26 +39,26 @@ meVE.Stichera06.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.TheodorouTouStouditou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode8
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticBoth.poet = poets_en_US_dedes.Anatoliou
 meVE.SticBoth.mode = misc_en_US_dedes.Mode8
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = me.m01.d06_en_US_dedes.meVE.LityBoth.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
 meVE.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meVE.Aposticha1.text = ""
 
-meVE.ApostichaVerse2.source  = ""
+meVE.ApostichaVerse2.source = ""
 meVE.ApostichaVerse2.text = ""
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode2
 meVE.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meVE.Aposticha2.text = ""
 
-meVE.ApostichaVerse3.source  = ""
+meVE.ApostichaVerse3.source = ""
 meVE.ApostichaVerse3.text = ""
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode2
@@ -66,16 +66,16 @@ meVE.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meVE.Aposticha3.text = me.m01.d08_en_US_dedes.meMA.AposGlory.text
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposBoth.poet = poets_en_US_dedes.TheodorouTouStouditou
 meVE.AposBoth.mode = misc_en_US_dedes.Mode8
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = he.ga_en_US_dedes.OTheosTonPateronImon.text
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode3
@@ -332,7 +332,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -482,24 +482,24 @@ meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode3
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
 meMA.Exaposteilarion2.text = ""
 
-meMA.LaudsSundayVerse1.source  = ""
+meMA.LaudsSundayVerse1.source = ""
 meMA.LaudsSundayVerse1.text = ""
 
-meMA.LaudsSundayVerse2.source  = ""
+meMA.LaudsSundayVerse2.source = ""
 meMA.LaudsSundayVerse2.text = ""
 
 meMA.Aposticha1.mode = misc_en_US_dedes.Mode6
 meMA.Aposticha1.melody = he.a.m6_en_US_dedes.AiAngelikai.name
 meMA.Aposticha1.text = ""
 
-meMA.ApostichaVerse2.source  = ""
+meMA.ApostichaVerse2.source = ""
 meMA.ApostichaVerse2.text = ""
 
 meMA.Aposticha2.mode = misc_en_US_dedes.Mode6
 meMA.Aposticha2.melody = he.a.m6_en_US_dedes.AiAngelikai.name
 meMA.Aposticha2.text = ""
 
-meMA.ApostichaVerse3.source  = ""
+meMA.ApostichaVerse3.source = ""
 meMA.ApostichaVerse3.text = ""
 
 meMA.Aposticha3.mode = misc_en_US_dedes.Mode6
@@ -508,12 +508,12 @@ meMA.Aposticha3.text = ""
 
 meMA.AposGlory.poet = poets_en_US_dedes.TheodorouTouStouditou
 meMA.AposGlory.mode = misc_en_US_dedes.Mode8
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposBoth.poet = poets_en_US_dedes.Anatoliou
 meMA.AposBoth.mode = misc_en_US_dedes.Mode8
-meMA.AposBoth.melody  = ""
+meMA.AposBoth.melody = ""
 meMA.AposBoth.text = me.m01.d06_en_US_dedes.meVE.LityBoth.text
 
 meLI.Antiphon2.text = me.m01.d06_en_US_dedes.meLI.Antiphon2.text
