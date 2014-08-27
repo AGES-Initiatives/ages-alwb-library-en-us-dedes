@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m01.d29_en_US_dedes
 
 meDate.text = "January 29" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "The Transfer of the Relics of the Holy Hieromartyr Ignatius the God-bearer." //full title of day
+meCommemoration.text = "The Transfer of the Relics of the Holy Hieromartyr Ignatius the God-bearer." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "the holy and glorious hieromartyr Ignatius the God-bearer," //for use in petitions and dismissal
-meInsert2 = "the memory of the transfer of whose holy relic we observe;" //for use in petitions and dismissal
+meInsert1 = "the holy and glorious hieromartyr Ignatius the God-bearer," // for use in petitions and dismissal
+meInsert2 = "the memory of the transfer of whose holy relic we observe;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "The Transfer of the Relics of the Holy Hieromartyr Ignatius the God-bearer."
+meLE.commemoration1 = "The Translation of the Relics of the Holy Hieromartyr Ignatios the God-bearer."
 meLE.commemoration2 = ""
 meHO.number = "29."
-meHO.rank  = "5"
+meHO.rank = "5"
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -31,7 +31,7 @@ meVE.Stichera04.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera04.text = "O Ignatius the Morning Star, from the East you had risen once, * also in the West you did shine most brilliantly. * But in the final return of your divine relics you have spread * the bright shining rays of joy * from the West over all the earth. * Therefore intercede * so that we be delivered from corruption and from perils for observing * this your time-honored memorial."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode8
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode8
@@ -44,11 +44,11 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Stouditou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode1
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode1
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m1.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode1
@@ -199,7 +199,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -294,7 +294,7 @@ meMA.LaudsSundayVerse1.text = "The righteous shall flourish like a palm tree; he
 meMA.LaudsSundayVerse2.text = "To the saints on His earth, in them the Lord magnified all His will."
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode1
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode1
@@ -306,10 +306,10 @@ meMA.AposStavrotheotokion.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meMA.AposStavrotheotokion.text = ""
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 

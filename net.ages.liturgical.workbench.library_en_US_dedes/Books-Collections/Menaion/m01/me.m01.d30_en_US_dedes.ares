@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m01.d30_en_US_dedes
 
 meDate.text = "January 30" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Fathers among the Saints, great Ecumenical Teachers and Hierarchs, Basil the Great, Gregory the Theologian and John Chrysostom." //full title of day
+meCommemoration.text = "Memory of our Fathers among the Saints, great Ecumenical Teachers and Hierarchs, Basil the Great, Gregory the Theologian and John Chrysostom." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "our fathers among the saints, great Ecumenical Teachers and Hierarchs, Basil the Great, Gregory the Theologian and John Chrysostom," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "our fathers among the saints, great Ecumenical Teachers and Hierarchs, Basil the Great, Gregory the Theologian and John Chrysostom," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of our Fathers among the Saints, great Ecumenical Teachers and Hierarchs, Basil the Great, Gregory the Theologian and John Chrysostom."
+meLE.commemoration1 = "Our Fathers among the Saints the Ecumenical Teachers Basil the Great, Gregory the Theologian and John Chrysostomos."
 meLE.commemoration2 = ""
 meHO.number = "30."
-meHO.rank  = "3"
+meHO.rank = "3"
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_dedes.HolidayWineOil
 meHO.note2 = "The service for the Hieromartyr is sung at Compline."
@@ -31,7 +31,7 @@ meSV.Stichera4.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meSV.Stichera4.text = ""
 
 meSV.SticGlory.mode = misc_en_US_dedes.Mode6
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = ""
 
 meSV.SticBoth.mode = misc_en_US_dedes.Mode6
@@ -55,11 +55,11 @@ meSV.Aposticha3.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = misc_en_US_dedes.Mode6
-meSV.AposGlory.melody  = ""
+meSV.AposGlory.melody = ""
 meSV.AposGlory.text = ""
 
 meSV.AposBoth.mode = misc_en_US_dedes.Mode6
-meSV.AposBoth.melody  = ""
+meSV.AposBoth.melody = ""
 meSV.AposBoth.text = oc.m6.d3_en_US_dedes.ocMA.AposTheotokion.text
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
@@ -80,40 +80,40 @@ meVE.Stichera04.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.GeorgiouNikomideias
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Lity1.poet = poets_en_US_dedes.NeilouTouXanthopoulou
 meVE.Lity1.mode = misc_en_US_dedes.Mode2
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode2
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode6
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.Lity4.mode = misc_en_US_dedes.Mode8
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = ""
 
 meVE.Lity5.mode = misc_en_US_dedes.Mode6
-meVE.Lity5.melody  = ""
+meVE.Lity5.melody = ""
 meVE.Lity5.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode6
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode6
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = ""
 
 meVE.Aposticha1.poet = poets_en_US_dedes.NeilouTouXanthopoulou
@@ -134,25 +134,25 @@ meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode5
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode5
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 //Ἕτερον, ψαλλόμενον εἰ βούλη.
 meVE.AposBoth.poet = poets_en_US_dedes.GermanouPatriarchou
 meVE.AposBoth.mode = misc_en_US_dedes.Mode5
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Those three magnificent luminaries of the tri-solar Godhead, who lit up the whole world with rays of divine doctrines; those mellifluent rivers of wisdom, who irrigated all creation with the waters of the knowledge of God; Basil the Great, and Gregory the Theologian, and the illustrious John, whose tongue produced golden words! Let all of us who are enamored of their words come together and sing hymns to honor them. For they are ever interceding with the Trinity on our behalf."
 
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion2.melody  = ""
+meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.text = "As like-mannered to the Apostles and Teachers of the Christian world, intercede with the Master of all, to grant peace to the whole world, and great mercy to our souls."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
@@ -183,17 +183,17 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
 meMA.Kathisma3T.text = "Unassailable Guardian * of those in trouble, * ardent Helper of the ones * who place their every hope on you, * from every danger deliver me. * You are the help and assistance of all in need."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelTeachers.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "Grace was poured upon your lips, O devout Fathers, and you became the shepherds of the Church of Christ, teaching the reasonable sheep to believe in the Trinity, coessential, in one Divinity."
 
 meMA.C1Poet = poets_en_US_dedes.IoannouEfchaiton
@@ -542,7 +542,7 @@ meMA.Kontakion1.text = "You have taken to yourself, O Lord, the pinnacles among 
 
 meMA.Oikos1.text = "Who is fit to open his lips and move his tongue to speak about these men who breathed fire in the power of Word and Spirit? Yet I will dare to say this much, that these three men excelled beyond all human nature in their many and great spiritual gifts, and in the active life as well as in contemplation they surpassed even those who have proved illustrious in both. Therefore You counted them worthy of the greatest gifts, since they were Your faithful servants; for only You glorify Your Saints."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode2
@@ -780,12 +780,12 @@ meMA.LaudsBoth.mode = misc_en_US_dedes.Mode2
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = "Today in the Temple, Christ is brought as an infant. Today, He who gave the Law to Moses comes under the Law himself. The armies of Angels are struck with awe, seeing that He who holds the universe together is being held in the arms of an old man. Symeon, filled with reverence and joy cries out: \"Now You release me, O Savior, from this mortal life to one that never ends; for I have seen You and I am glad.\""
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text 
+meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text 
+meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode1

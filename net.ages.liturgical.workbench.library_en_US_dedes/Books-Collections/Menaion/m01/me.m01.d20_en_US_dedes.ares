@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m01.d20_en_US_dedes
 
 meDate.text = "January 20" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our devout and God-bearing father Efthymius the Great" //full title of day
+meCommemoration.text = "Memory of our devout and God-bearing father Efthymius the Great" // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "our devout and God-bearing father Efthymius the Great, " //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "our devout and God-bearing father Efthymius the Great, " // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of our devout and God-bearing father Efthymius the Great"
+meLE.commemoration1 = "Our Venerable Father Euthymios the Great."
 meLE.commemoration2 = ""
 meHO.number = "20."
-meHO.rank  = "3"
+meHO.rank = "3"
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_dedes.HolidayWineOil
 meHO.note2 = ""
@@ -27,11 +27,11 @@ meSV.Stichera3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = misc_en_US_dedes.Mode2
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = ""
 
 meSV.SticBoth.mode = misc_en_US_dedes.Mode2
-meSV.SticBoth.melody  = ""
+meSV.SticBoth.melody = ""
 meSV.SticBoth.text = ""
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -80,33 +80,33 @@ meVE.Stichera06.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.TheodorouTouStouditou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode3
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode3
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m3.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Lity1.poet = poets_en_US_dedes.Germanou
 meVE.Lity1.mode = misc_en_US_dedes.Mode2
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.poet = poets_en_US_dedes.TheodorouTouStouditou
 meVE.Lity2.mode = misc_en_US_dedes.Mode2
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode2
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode4
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode4
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = oc.m4.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
@@ -126,15 +126,15 @@ meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode5
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode5
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Sing, O desolate land that did not bear; be encouraged, you who have not been in labor. For a man, greatly beloved of the Spirit, has multiplied your children. He planted them in godliness, he reared them in self-control, and he raised them to perfection in virtue. At his intercession, O Christ our God, grant peace to our lives."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
@@ -165,17 +165,17 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = "Now we, all generations of humankind, * call you blest among women, for you alone * gave birth in the flesh to God * without seed as a virgin. * For the fire of Divinity * truly dwelt inside of you; * and you nursed as a babe the Creator and Lord of all. * Therefore all the Angels and we humans are joining * to glorify worthily * the all-holy Son you bore, * and together we call to you. * Intercede with Christ our God * that He grant forgiveness of offences * to those who faithfully honor your immaculate childbirth."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMonastic.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "Devout Father, the proclamation of your achievements went forth into all the earth. For your labors you found the reward in heaven. You destroyed the arrays of demons, and you attained to the orders of the Angels, whose lifestyle you emulated blamelessly. Since you have confidence before the Lord, ask Him to grant peace to our souls."
 
 meMA.C1Poet = poets_en_US_dedes.IoannouTouDamaskinou
@@ -398,7 +398,7 @@ meMA.Kontakion1.text = "Creation found exceeding joy on the august day you were 
 
 meMA.Oikos1.text = "How shall I, wretch that I am, bring praise from a lazy heart to extol Euthymius the Great? I am beside myself. Yet, taking courage in his prayers, I will attempt the song in good cheer and great earnest. And I will tell everyone about his life, and his birth, and how his parents sang: Alleluia."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
@@ -546,19 +546,19 @@ meMA.Lauds3.text = "O devout Father Efthymius, * you truly lifted your soul * up
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Sykeotou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "We the multitudes of monastics honor you, Efthymius, as our teacher and guide. For through you we have learned to walk the truly straight and narrow path. Blessed are you, who served Christ and triumphed over the power of the enemy. As you consort now with the Angels and dwell with the Devout and Righteous, pray with them to the Lord, that He have mercy on our souls."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text 
+meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text 
+meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode2

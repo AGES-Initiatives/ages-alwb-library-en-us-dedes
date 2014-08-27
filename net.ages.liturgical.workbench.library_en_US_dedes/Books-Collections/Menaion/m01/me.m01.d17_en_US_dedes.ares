@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m01.d17_en_US_dedes
 
 meDate.text = "January 17" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Devout Father Anthony the Great; and the Holy Neo-Martyr George of Ioannina." //full title of day
+meCommemoration.text = "Memory of our Devout Father Anthony the Great; and the Holy Neo-Martyr George of Ioannina." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "and our devout and God-bearing father Anthony the Great," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "and our devout and God-bearing father Anthony the Great," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of our Devout Father Anthony the Great; and the Holy Neo-Martyr George of Ioannina."
+meLE.commemoration1 = "Our Venerable Father Anthony the Great."
 meLE.commemoration2 = ""
 meHO.number = "17."
-meHO.rank  = "3"
+meHO.rank = "3"
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_dedes.HolidayWineOil
 meHO.note2 = ""
@@ -27,11 +27,11 @@ meSV.Stichera3.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = misc_en_US_dedes.Mode2
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = ""
 
 meSV.SticBoth.mode = misc_en_US_dedes.Mode2
-meSV.SticBoth.melody  = ""
+meSV.SticBoth.melody = ""
 meSV.SticBoth.text = ""
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -72,38 +72,38 @@ meVE.Stichera04.text = "You are one pure in your soul and heart, O father; * and
 
 meVE.SticGlory.poet = poets_en_US_dedes.Sykeotou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Lity1.poet = poets_en_US_dedes.Stouditou
 meVE.Lity1.mode = misc_en_US_dedes.Mode2
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode2
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode2
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.Lity4.poet = poets_en_US_dedes.Anatoliou
 meVE.Lity4.mode = misc_en_US_dedes.Mode3
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = ""
 
 meVE.LityGlory.poet = poets_en_US_dedes.Stouditou
 meVE.LityGlory.mode = misc_en_US_dedes.Mode5
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode5
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = oc.m5.d2_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
@@ -124,15 +124,15 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Sykeotou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m8.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Imitating the manners of Elijah the Zealot, and following the straight paths of John the Baptist, O Father Anthony, you colonized the desert, and you supported the Empire by your prayers. Therefore intercede with Christ our God to save our souls."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode8
@@ -140,7 +140,7 @@ meMA.Kathisma11.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma11.text = "When you fettered your soul with the love for Christ * and you clearly detested all things mundane, * you lived in the wilderness and the mountains. And tasting then * of the tree of knowledge, you shone forth angelically * as a mystic of secrets, * righteous Father most glorious. * Therefore, you transcended the dark cloud of the carnal * within you and drove away the demons' darkness, O blessed one, * first and chief of monastics. * Intercede with Christ our God, * that He grant forgiveness of offences * to those who keep your all-holy memory with faith and love."
 
 meMA.Kathisma1T.mode = misc_en_US_dedes.Mode8
-meMA.Kathisma1T.melody  = ""
+meMA.Kathisma1T.melody = ""
 meMA.Kathisma1T.text = he.a.m8_en_US_dedes.TinSofianKaiLogon.text
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode5
@@ -148,7 +148,7 @@ meMA.Kathisma21.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
 meMA.Kathisma21.text = "Let us honor with hymns the Ascetic of the Lord, * for he mortified every assault of passions all * by resolute endurance truly and self-control; * he also greatly put to shame the adversarial foe with all his arrogant boasting. * And now the Saint is interceding * that the Lord have mercy on our souls. "
 
 meMA.Kathisma2T.mode = misc_en_US_dedes.Mode5
-meMA.Kathisma2T.melody  = ""
+meMA.Kathisma2T.melody = ""
 meMA.Kathisma2T.text = "O impassable gateway of God the Lord, rejoice. * You are she whom the righteous of old clearly foretold. * Prophet Daniel called you mountain that was quarried not; * Bush and Jar and Rod and Cloud, Gate and Throne and also great * Mountain were you truly called by * the Psalmist David and Moses, * and all the rest. You were revealed thus to us."
 
 meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
@@ -163,16 +163,16 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
 meMA.Kathisma3T.text = "The all-holy Spirit came on you, O Virgin, * at the Angel's voice, and you * conceived the coessential Son * of God the Father, who shares the throne, * O restoration of Adam, and Mother of God."
 
-meMA.Prokeimenon.text = "" //for mediameMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.Prokeimenon.text = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMonastic.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "Devout Father, the proclamation of your achievements went forth into all the earth. For your labors you found the reward in heaven. You destroyed the arrays of demons, and you attained to the orders of the Angels, whose lifestyle you emulated blamelessly. Since you have confidence before the Lord, ask Him to grant peace to our souls."
 
 meMA.C1Acrostic.text = ""
@@ -306,7 +306,7 @@ meMA.Kontakion1.text = "You retreated from the tumult of daily life and led your
 
 meMA.Oikos1.text = "Heeding the voice of the Lord, you followed after His commandments. You stripped off the worldly life, and rid yourself of all concern for money, property, and servants, and even the love of your sister, O God-bearer Anthony. Then you most clearly conversed with God alone, and you received the grace of spiritual knowledge. Send me this knowledge, as I am about to sing your praise, most holy Father of Fathers, Saint Anthony."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -413,11 +413,11 @@ meMA.Lauds4.text = "Father of Fathers, Saint Anthony, * your soul was moved by d
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Anatoliou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "You boarded a chariot that rode the heavens, and by ascetic endeavor you reached the pinnacle of the virtues, O God-inspired Saint. And coming from the desert, you reached the transcendent destination of the Jerusalem on high. You worthily received the honors for your laborious efforts, and you rejoice together with the celestial hierarchies, O all-blessed one, as an heir to eternal blessings and a resident of the Kingdom. We pray you, O God-bearing Father Anthony, to intercede with the Savior of all, that He grant peace to the world and that He save our souls. "
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -425,7 +425,7 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode6

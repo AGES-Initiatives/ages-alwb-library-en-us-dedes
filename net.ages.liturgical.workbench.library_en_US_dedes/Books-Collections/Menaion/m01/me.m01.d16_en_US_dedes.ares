@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m01.d16_en_US_dedes
 
 meDate.text = "January 16" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "The veneration of the precious Chains of the Holy and All-lauded Apostle Peter" //full title of day
+meCommemoration.text = "The Veneration of the Precious Chains of the Holy and All-lauded Apostle Peter." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "The veneration of the precious Chains of the Holy and All-lauded Apostle Peter"
+meLE.commemoration1 = "The Veneration of the Precious Chains of the Holy Apostle Peter."
 meLE.commemoration2 = ""
 meHO.number = "16."
-meHO.rank  = "5"
+meHO.rank = "5"
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_dedes.WineOil
 meHO.note2 = ""
@@ -28,7 +28,7 @@ meVE.Stichera03.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Vyzantos
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
@@ -56,7 +56,7 @@ meVE.Aposticha3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
@@ -68,7 +68,7 @@ meVE.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meVE.AposStavrotheotokion.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Without leaving Rome, you came to us, through the precious Chains that you wore, O President of the Apostles. As we venerate them in faith, we pray to you: By your intercessions with God, grant to us the great mercy."
 
 meMA.C1Acrostic.text = ""
@@ -337,7 +337,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -525,7 +525,7 @@ meMA.Lauds3.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meMA.Lauds3.text = "O Peter, you are praised by all. * since you have access, with your prayers * as divine keys, * open up the pearly gates * for us who glorify you * the paramount Apostle, * that we may enter heaven readily."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
@@ -542,7 +542,7 @@ meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meMA.AposGlory.poet = poets_en_US_dedes.Anatoliou
 meMA.AposGlory.mode = misc_en_US_dedes.Mode4
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode4
@@ -554,10 +554,10 @@ meMA.AposStavrotheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meMA.AposStavrotheotokion.text = ""
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 
