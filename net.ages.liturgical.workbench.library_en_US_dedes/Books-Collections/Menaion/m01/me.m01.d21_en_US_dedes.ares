@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = me.m01.d21_en_US_dedes
 
 meDate.text = "January 21" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Devout Father Maximus the Confessor, 
+meCommemoration.text = "Memory of our Devout Father Maximus the Confessor, the holy Martyr Neophytos."
 and the Holy Martyr Neophytos.
 " //full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "our devout and God-bearing father Maximus the Confessor," //for use in petitions and dismissal
-meInsert2 = "whose memory we observe;" //for use in petitions and dismissal
+meInsert1 = "our devout and God-bearing father Maximus the Confessor," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "Our Venerable Father Maximos the Confessor."
 meLE.commemoration2 = ""
 meHO.number = "21."
-meHO.rank  = "5"
+meHO.rank = "5"
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -41,7 +41,7 @@ meVE.Stichera06.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
@@ -54,7 +54,7 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Sykeotou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
@@ -327,7 +327,7 @@ meMA.Oikos16.text = "Rejoice, the joy of those who faithfully honor you; rejoice
 meMA.Oikos17.text = "Rejoice, for you delivered many from Belial; rejoice, for you brought many to God."
 meMA.Oikos18.text = "Rejoice, announcer of the Faith."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -496,11 +496,11 @@ meMA.LaudsSundayVerse1.text = "Precious in the sight of the Lord is the death of
 meMA.LaudsSundayVerse2.text = "Blessed is the man who fears the Lord."
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode6
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode6
-meMA.AposTheotokion.melody  = ""
+meMA.AposTheotokion.melody = ""
 meMA.AposTheotokion.text = oc.m6.d3_en_US_dedes.ocMA.AposTheotokion.text
 
 meMA.AposStavrotheotokion.mode = misc_en_US_dedes.Mode6
@@ -508,10 +508,10 @@ meMA.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meMA.AposStavrotheotokion.text = ""
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 

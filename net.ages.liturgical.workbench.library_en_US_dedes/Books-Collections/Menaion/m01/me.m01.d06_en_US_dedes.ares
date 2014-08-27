@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m01.d06_en_US_dedes
 
 meDate.text = "January 6" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "The Holy Epiphany of our Lord God and Savior Jesus Christ" //full title of day
+meCommemoration.text = "The Holy Epiphany of our Lord God and Savior Jesus Christ." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "The Holy Epiphany of our Lord God and Savior Jesus Christ"
+meLE.commemoration1 = "The Holy Theophany of our Lord and God and Savior Jesus Christ."
 meLE.commemoration2 = ""
 meHO.number = "6."
-meHO.rank  = "1"
+meHO.rank = "1"
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_dedes.HolidayAll
 meHO.note2 = ""
@@ -17,24 +17,24 @@ meDismissal = dismissals_en_US_dedes.dis00.epiphany
 
 meVE.Stichera01.poet = poets_en_US_dedes.IoannouMonachou
 meVE.Stichera01.mode = misc_en_US_dedes.Mode2
-meVE.Stichera01.melody  = ""
+meVE.Stichera01.melody = ""
 meVE.Stichera01.text = "O Lord, our illumination, who enlightens everyone, when the Forerunner saw You coming to be baptized, his soul rejoiced, while his hand trembled. He pointed at You and said to the people, \"Behold, the One who delivers Israel, the One who frees us from corruption.\" O sinless One, O Christ our God, glory to You!"
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode2
-meVE.Stichera02.melody  = ""
+meVE.Stichera02.melody = ""
 meVE.Stichera02.text = "When our Redeemer was baptized by His servant, and the Holy Spirit was present and bore witness to Him, the armies of Angels watched and trembled, and from heaven a voice came from the Father, \"He, on whom the Forerunner lays his hand, is My beloved Son, in whom I am well pleased.\" O Christ our God, glory to You!"
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode2
-meVE.Stichera03.melody  = ""
+meVE.Stichera03.melody = ""
 meVE.Stichera03.text = "The waters of the Jordan received You, who are the source; and the Holy Spirit came down in the form of a dove. You who bowed the heavens now bow Your head. The clay cries out to You, the Fashioner, and says, \"Why do You command me to do what is beyond me? I need for You to baptize me.\" O sinless One, O Christ our God, glory to You!"
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode2
-meVE.Stichera04.melody  = ""
+meVE.Stichera04.melody = ""
 meVE.Stichera04.text = "Wishing to save mankind which had gone astray, You did not deem it unworthy to put on the form of a servant; it was fitting for You, the Master, to assume what is ours for our sake. When You were baptized in the flesh, O Redeemer, You granted us forgiveness. Therefore we shout to You, \"O Benefactor, Christ our God, glory to You!\""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Vyzantos
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "You bowed Your head before the Forerunner; You crushed the heads of the dragons; You came to the river; and you enlightened the universe, to glorify You, O Savior, the illumination of our souls."
 
 meVE.ProphecyTroparion1.mode = misc_en_US_dedes.Mode5
@@ -45,7 +45,7 @@ meVE.ProphecyTroparion2.mode = misc_en_US_dedes.Mode6
 meVE.ProphecyTroparion2.text = "By the greatness of Your mercy, You, O Savior, showed yourself to sinners and publicans. Where else was Your light to shine, if not among those who sit in darkness. Glory to You."
 meVE.ProphecyTroparion2Refrain.text = "Where else was Your light to shine, if not among those who sit in darkness. Glory to You."
 
-meVE.TheotokosHymn.mode  = ""
+meVE.TheotokosHymn.mode = ""
 meVE.TheotokosHymn.text = eu.lichrysbasil_en_US_dedes.euLI.Key1328.basil.text
 
 meVE.CommunionHymn.text = da.d1_en_US_dedes.daLI.CommunionHymn.text
@@ -118,33 +118,33 @@ meGW.R09 = "Then the dismissal and the distribution of the Antidoron."
 
 meVE.Lity1.poet = poets_en_US_dedes.KosmaMonachou
 meVE.Lity1.mode = misc_en_US_dedes.Mode4
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode4
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode4
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.Lity4.mode = misc_en_US_dedes.Mode4
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = ""
 
 meVE.Lity5.mode = misc_en_US_dedes.Mode4
-meVE.Lity5.melody  = ""
+meVE.Lity5.melody = ""
 meVE.Lity5.text = ""
 
-meVE.LityGlory.poet =poets_en_US_dedes.IoannouMonachou
+meVE.LityGlory.poet = poets_en_US_dedes.IoannouMonachou
 meVE.LityGlory.mode = misc_en_US_dedes.Mode8
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.poet = poets_en_US_dedes.Anatoliou
 meVE.LityBoth.mode = misc_en_US_dedes.Mode8
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = ""
 
 meVE.Aposticha1.poet = poets_en_US_dedes.Anatoliou
@@ -170,7 +170,7 @@ meVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
 meVE.AposGlory.text = "When the shining lamp, who was born of a barren woman, saw the Sun, who was born of a Virgin, asking to be baptized, he said to Him with fear and joy, \"You, sanctify me, O Master, by Your divine Epiphany.\""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "As You were baptized in the Jordan, O Lord, then the worship of the Trinity became manifest, for the voice of the Father bore witness to You, naming You the Beloved Son; and the Spirit, in the form of a dove, confirmed the certainty of the word. O Christ God, who appeared and illumined the world, glory to You."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode3
@@ -185,17 +185,17 @@ meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 meMA.Kathisma31.text = "You hallowed the waters of the Jordan River, O Lord; * and by Your own might You shattered sin's dominion, O Christ our God. * You bowed yourself, O Savior, beneath the hand of the Baptist, * and saved the human race from deception and error. * Therefore we intently entreat You to save Your world."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = "Leap for joy today, O universe; for Christ has appeared in the Jordan"
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
-meMA.PostGospelBoth.text = meMA.PostGospelGlory.text 
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.text = meMA.PostGospelGlory.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "God the Logos has appeared in the flesh to the human race. As He stood in the Jordan waiting to be baptized, the Forerunner said to Him, \"How can I reach out with my hand and touch the head that controls the universe? Though as an infant You came from Mary, yet I know You to be the pre-eternal God. You walk on earth, You who are extolled by the Seraphim. And I do not know how a servant ought to baptize his Master. Incomprehensible Lord, glory to You.\""
 
 meMA.C1Poet = poets_en_US_dedes.Kosma
@@ -305,7 +305,7 @@ meMA.Ode3C224.text = ""
 meMA.Ode3C225.text = ""
 
 meMA.Hypakoe.mode = misc_en_US_dedes.Mode5
-meMA.Hypakoe.melody  = ""
+meMA.Hypakoe.melody = ""
 meMA.Hypakoe.text = ""
 
 meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
@@ -440,7 +440,7 @@ meMA.Ode6C2H5.text = he.h.m2_en_US_dedes.ImertonExefine5.text
 
 meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C21.mode = misc_en_US_dedes.Mode2
-meMA.Ode6C21.melody  = ""
+meMA.Ode6C21.melody = ""
 meMA.Ode6C21.text = ""
 meMA.Ode6C211.text = ""
 meMA.Ode6C212.text = ""
@@ -450,7 +450,7 @@ meMA.Ode6C215.text = ""
 
 meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C22.mode = misc_en_US_dedes.Mode2
-meMA.Ode6C22.melody  = ""
+meMA.Ode6C22.melody = ""
 meMA.Ode6C22.text = ""
 meMA.Ode6C221.text = ""
 meMA.Ode6C222.text = ""
@@ -465,7 +465,7 @@ meMA.Kontakion1.text = he.a.m4_en_US_dedes.EpefanisSimeron.text
 
 meMA.Oikos1.text = "On Galilee of the Gentiles, on the region of Zebulon and the land of Nephthalim, as the Prophet declared, a great light has shone, which is the Christ. Dark-dwellers have seen a radiant dawn shining out of Bethlehem, rather out of Mary, as the Lord -- the Sun of Justice -- breaks His rays o'er the whole of civilization. Come then, all unclothed offspring of Adam: let us put on Christ and thus keep warm. For, as a mantle for the denuded and a beacon to the be-darkened, You came and shone forth, O Light unapproachable."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode2
@@ -644,7 +644,7 @@ meMA.Ode9C223.text = "when You anoint it with the Spirit's communion."
 meMA.Ode9C224.text = "And triumphing over the elated power,"
 meMA.Ode9C225.text = "to unending life transfer us now, we pray You."
 
-meMA.Exaposteilarion1.poet  = ""
+meMA.Exaposteilarion1.poet = ""
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
 meMA.Exaposteilarion1.melody = misc_en_US_dedes.Automelon
 meMA.Exaposteilarion1.text = he.a.m3_en_US_dedes.EpefaniOSotir.text
@@ -681,9 +681,9 @@ meMA.LaudsBoth.mode = misc_en_US_dedes.Mode2
 meMA.LaudsBoth.melody = misc_en_US_dedes.Idiomelon
 meMA.LaudsBoth.text = "Today Christ came to be baptized in the Jordan. Today John touches the head of the Master. The hosts of heaven were astounded seeing the paradoxal mystery. The sea beheld it and fled; when the Jordan saw, it retreated. And we who are now illumined cry aloud, \"Glory be to God who appeared, and who was seen on earth, and who illumined the world.\""
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text 
+meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text 
+meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.Antiphon1Verse1.text = "In the exodus of Israel from Egypt, the house of Jacob from a foreign people."
 

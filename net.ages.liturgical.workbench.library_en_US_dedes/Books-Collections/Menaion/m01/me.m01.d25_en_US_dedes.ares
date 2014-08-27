@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m01.d25_en_US_dedes
 
 meDate.text = "January 25" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Father among the Saints Gregory the Theologian, Archbishop of Constantinople. " //full title of day
+meCommemoration.text = "Memory of our Father among the Saints Gregory the Theologian, Archbishop of Constantinople. " // full title of day
 meShortCommemoration1.text = "St. Gregory the Theologian"
-meInsert1 = "our father among the saints Gregory the Theologian, Archbishop of Constantinople," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "our father among the saints Gregory the Theologian, Archbishop of Constantinople," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of our Father among the Saints Gregory the Theologian, Archbishop of Constantinople. "
+meLE.commemoration1 = "Our Father among the Saints Gregory the Theologian, Archbishop of Constantinople. "
 meLE.commemoration2 = ""
 meHO.number = "25."
-meHO.rank  = "3"
+meHO.rank = "3"
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_dedes.HolidayWineOil
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meSV.Stichera6.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meSV.Stichera6.text = ""
 
 meSV.SticGlory.mode = misc_en_US_dedes.Mode6
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = ""
 
 meSV.SticBoth.mode = misc_en_US_dedes.Mode6
@@ -63,11 +63,11 @@ meSV.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = misc_en_US_dedes.Mode2
-meSV.AposGlory.melody  = ""
+meSV.AposGlory.melody = ""
 meSV.AposGlory.text = ""
 
 meSV.AposBoth.mode = misc_en_US_dedes.Mode2
-meSV.AposBoth.melody  = ""
+meSV.AposBoth.melody = ""
 meSV.AposBoth.text = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode1
@@ -95,32 +95,32 @@ meVE.Stichera06.melody = he.a.m2_en_US_dedes.PoioisEffimionStemmasin.name
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode8
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode8
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = oc.m8.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Lity1.poet = poets_en_US_dedes.Anatoliou
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode1
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode1
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode1
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode1
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = oc.m1.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
@@ -140,7 +140,7 @@ meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode8
@@ -148,7 +148,7 @@ meVE.AposBoth.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
 meVE.AposBoth.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "The shepherd's pipe of your theology overpowered the trumpets of the orators; for as you delved into the depths of the Spirit, so you were endowed with the power of eloquence. Father Gregory, intercede with Christ God, to save our souls."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode3
@@ -175,23 +175,23 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = "Come, all Nations, and uttering godly words * to the Mother of Him who created all, * let us offer hymns of praise. O rejoice, as the fiery throne * of the one who is Lord of all, yes, of Jesus the King of all. * O rejoice, only Lady of the world, All-immaculate. * Ever-virgin Mary and all-praised Theotokos, * rejoice, for you are the bright, wholly undefiled vessel * of the Holy Trinity, * Father, Son, and Spirit, our God. * O rejoice, decorous Bride adorned with the sun. * O rejoice, as the joy of all who sing your praise."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelHierarch.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "O devout, thrice-blessed, all-holy Father, good Shepherd, and Disciple of Christ the Chief Shepherd, you laid down your life for the sheep. O all-lauded Gregory the Theologian, pray for us, that by your intercessions the Lord grant us His great mercy."
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
 meMA.C1Acrostic.text = ""
 
-meMA.C2Poet  = ""
+meMA.C2Poet = ""
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode1
@@ -417,7 +417,7 @@ meMA.Kontakion1.text = "With your theologic tongue having unraveled the weavings
 
 meMA.Oikos1.text = "Fill my mind, poor and sorry, with your theological and lofty wisdom, so that I may extol your life, O Father; for I will not be able to offer you a word, unless you grant me eloquence and knowledge, ability and understanding, so that I may offer you \"thine own of thine own\"; and from the wealth of your virtues I may have the wherewithal to crown your divine and holy head, and with the faithful cry out, O rejoice! glorious Father, you are the utmost theological mind."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
@@ -579,11 +579,11 @@ meMA.Lauds4.text = "To the proverbial mixing bowl of wisdom * you put your most 
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Anatoliou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode1
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "With theological hymns, let us extol the harp of the Spirit, the destroyer of heresies, the delight of the Orthodox, the second bosom-theologian, who became an eyewitness of the Logos by his dogmas, the wise Arch-pastor of the Church's flock; and to him let us say, \"You are the good Shepherd, O Gregory, who gave yourself for us, as did Christ the Teacher; and you stand in chorus now with Paul, and you intercede on behalf of our souls.\""
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode1
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m1.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -591,7 +591,7 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode2

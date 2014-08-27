@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m01.d27_en_US_dedes
 
 meDate.text = "January 27" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "The Transfer of the Relic of our Father among the Saints John Chrysostom." //full title of day
+meCommemoration.text = "The Transfer of the Relic of our Father among the Saints John Chrysostom." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "our Father among the Saints John Chrysostom, Archbishop of Constantinople," //for use in petitions and dismissal
-meInsert2 = "the memory of the transfer of whose holy relic we celebrate;" //for use in petitions and dismissal
+meInsert1 = "our Father among the Saints John Chrysostom, Archbishop of Constantinople," // for use in petitions and dismissal
+meInsert2 = "the memory of the transfer of whose holy relic we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "The Transfer of the Relic of our Father among the Saints John Chrysostom."
+meLE.commemoration1 = "The Translation of the Relics of our Father among the Saints John Chrysostomos."
 meLE.commemoration2 = ""
 meHO.number = "27."
-meHO.rank  = "3"
+meHO.rank = "3"
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_dedes.HolidayWineOil
 meHO.note2 = ""
@@ -40,11 +40,11 @@ meVE.Stichera06.text = ""
 
 meVE.SticGlory.poet = ""
 meVE.SticGlory.mode = misc_en_US_dedes.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m4.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
@@ -64,7 +64,7 @@ meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
@@ -72,7 +72,7 @@ meVE.AposTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
 meVE.AposTheotokion.text = he.o_en_US_dedes.TheotokeSyEiIerarchou.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m11.d13_en_US_dedes.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
@@ -99,17 +99,17 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma3T.melody = misc_en_US_dedes.Automelon
 meMA.Kathisma3T.text = he.a.m4_en_US_dedes.KateplagiIosif.text
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = "Today the chorus of Hierarchs joins us in keeping your memory, O devout Hierarch Chrysostom, luminary of the Church."
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "O Chrysostom, you were shown to be a gold-sounding trumpet, a speaker of golden words, making golden the hearts of believers, by your golden teachings. As the Prophet said, the proclamation of your dogmas went forth, O righteous Father, and illumined the ends of the whole world."
 
 meMA.C1Acrostic.text = ""
@@ -457,7 +457,7 @@ meMA.Kontakion1.text = "The holy Church of Christ celebrated in spirit, * O Sain
 
 meMA.Oikos1.text = "The lamp of my works has gone dim, O John the Golden Mouth. I am afraid to go and meet your sacred relics. Please guide me, and make my ways straight; give me time to repent, all-holy preacher of repentance. Calm the storm of my various sinful passions. Snatch me out of the devil's traps, and ever save me, so that I may worthily celebrate your sacred return, as once before I dared to glorify your repose, O Father John Chrysostom."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode8
@@ -680,11 +680,11 @@ meMA.Lauds4.text = "The Queen of all cities is distinguished, having at last rec
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Germanou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Father Chrysostom, you watered every believer with solid gold teaching, like a river of words with God as its source, flowing out of Eden mystically, and running in four streams to the ends of the earth. Now, with the return of your holy relics, you are clearly a fellow citizen of ours. Therefore, John, you pray for the salvation of the souls of us who extol you."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m4.d2_en_US_dedes.ocMA.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -692,7 +692,7 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode2
