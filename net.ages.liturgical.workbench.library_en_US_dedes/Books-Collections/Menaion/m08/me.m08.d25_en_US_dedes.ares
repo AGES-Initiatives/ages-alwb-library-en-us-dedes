@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m08.d25_en_US_dedes
 
 meDate.text = "August 25"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Commemoration of the Return of the Relics of the Holy Apostle Bartholomew; and Memory of the Holy Apostle Titus." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Commemoration of the Return of the Relics of the Holy Apostles Bartholomew and Titus."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
@@ -47,7 +47,7 @@ meVE.SticTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
 meVE.SticTheotokion.text = he.o_en_US_dedes.TheotokeSyEiApostolon.text
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
@@ -295,7 +295,7 @@ meMA.Kontakion2.text = ""
 
 meMA.Oikos2.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -456,11 +456,11 @@ meMA.Lauds4.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meMA.Lauds4.text = "Once you were illumined in your mind with shinings of light divine, as a ray you accompanied * the sun, namely Paul who shined light on those in darkness, * O all-holy Titus; you both delivered all the earth * from deepest night and the darkness that ensues. * We therefore call you blessed, as a truly God-chosen hierarch, * an Apostle inspired by God, * and a fervant intercessor."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = "Their proclamation went forth into all the earth, and their words to the ends of the world."
@@ -470,7 +470,7 @@ meMA.LaudsSundayVerse2.text = "The heavens declare the glory of God; the firmame
 meLI.CommunionHymn.text = da.d5_en_US_dedes.daLI.CommunionHymn.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m09.d08_en_US_dedes.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m08.d31_en_US_dedes
 
 meDate.text = "August 31"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Commemoration of the Placement of the Holy Belt of the Most Holy Theotokos." // full title of day
 meShortCommemoration1.text = "Garment of Theotokos"
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "the Placing of whose venerable Garment we commemorate," //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "the Placing of whose venerable Garment we commemorate," // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Placing of the Venerable Belt of the All-Holy Theotokos."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,7 +27,7 @@ meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera03.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "All-immaculate Theotokos, the Church of God dons your holy garment as though a most splendid crown. Today she is exultant and beams with joy, as she dances mystically, crying out to you, O Lady. \"Rejoice, O precious diadem and crown of divine glory. Rejoice, the only glory and eternal joy of my complement. Rejoice, O haven and protection and salvation for us who run to you.\""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
@@ -47,11 +47,11 @@ meVE.Aposticha3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m07.d02_en_US_dedes.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
@@ -330,7 +330,7 @@ meMA.Kontakion1.text = "The precious garment that you wore about your body * tha
 
 meMA.Oikos1.text = "No human speech, no mortal tongue can relate your greatness; for neither can celestial intelligence. Nevertheless, O Mother of the infinite sea of sympathy, I pray you accept these songs from my unfruitful lips, and give me the divine grace to celebrate your garment, because of which the world today exults and joins the Angels in extolling your miracles, O only Ever-virgin who bore a child."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
@@ -513,7 +513,7 @@ meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meMA.Lauds3.text = "O pure Virgin, your holy shrine has been clearly shown forth to be * like an inexhaustible well of miracles. * Today the rivers of grace divine * pour out most abundantly * from your splendid Holy Case, * and they fill the believers' minds with a godly joy. * We the faithful with loyalty and longing cry aloud to you, O Lady; * You are our joy, life, and happiness."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = meVE.SticGlory.text
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -524,7 +524,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode6
 meLI.SeasonalKontakion.melody = he.a.m6_en_US_dedes.TinEnPresveiais.name
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 
-meLI.Alleluia.mode = misc_en_US_dedes.Mode3 //Holy Cross has mode 6
+meLI.Alleluia.mode = "misc_en_US_dedes.Mode3" // Holy Cross has mode 6
 
 meLI.AlleluiaVerse1.text = "Arise, O Lord, into Your rest, You and the ark of Your holiness."
 

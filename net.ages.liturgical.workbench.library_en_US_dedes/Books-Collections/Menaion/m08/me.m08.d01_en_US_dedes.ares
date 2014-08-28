@@ -4,15 +4,15 @@ meHO.Month.text = ""
 meHO.DaysHours.text = ""
 
 meDate.text = "August 1"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "The Procession of the Holy Cross; and Memory of the Seven Holy Martyrs, the Maccabees, their Teacher Eleazar, and their Mother Solomone." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Holy Seven Children of the Maccabees, their Teacher Eleazor, and their Mother Solomone."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -43,11 +43,11 @@ meVE.Stichera06.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.IoannouMonachou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode8
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode8
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
@@ -68,11 +68,11 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
 meVE.AposGlory.Poet = poets_en_US_dedes.KosmaMonachou
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode8
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
@@ -81,7 +81,7 @@ meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 meVE.Apolytikion1.text = ""
 
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion2.melody  = ""
+meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.text = me.m09.d14_en_US_dedes.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
@@ -435,7 +435,7 @@ meMA.Kontakion2.text = ""
 
 meMA.Oikos2.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode8
@@ -668,23 +668,23 @@ meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meMA.Lauds3.text = "The support of the Church are you, * and the strength of the emperors; * boast of the monastics and their deliverance * are you, all-ven'rable Cross of Christ. * And now as we venerate * you today, our hearts and souls * are illumined ineffably by the grace divine * of the Lord who was nailed to you and brought down * the dominion of the sly one, * and who abolished the ancient curse."
 
 meMA.Lauds4.mode = misc_en_US_dedes.Mode1
-meMA.Lauds4.melody  = ""
+meMA.Lauds4.melody = ""
 meMA.Lauds4.text = ""
 
 meMA.Lauds5.mode = misc_en_US_dedes.Mode4
-meMA.Lauds5.melody  = ""
+meMA.Lauds5.melody = ""
 meMA.Lauds5.text = ""
 
 meMA.Lauds6.mode = misc_en_US_dedes.Mode5
-meMA.Lauds6.melody  = ""
+meMA.Lauds6.melody = ""
 meMA.Lauds6.text = ""
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsBoth.mode = misc_en_US_dedes.Mode4
-meMA.LaudsBoth.melody  = ""
+meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = ""
 
 meMA.LaudsSundayVerse1.text = ""
@@ -692,7 +692,7 @@ meMA.LaudsSundayVerse1.text = ""
 meMA.LaudsSundayVerse2.text = ""
 
 meMA.AdditionalIdiomelon1.mode = misc_en_US_dedes.Mode2
-meMA.AdditionalIdiomelon1.melody  = ""
+meMA.AdditionalIdiomelon1.melody = ""
 meMA.AdditionalIdiomelon1.text = ""
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4

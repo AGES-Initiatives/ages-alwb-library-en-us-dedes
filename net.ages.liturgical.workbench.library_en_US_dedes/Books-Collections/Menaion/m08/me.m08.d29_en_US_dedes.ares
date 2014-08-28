@@ -1,92 +1,92 @@
 A_Resource_Whose_Name = me.m08.d29_en_US_dedes
 
 meDate.text = "August 29"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Commemoration of the Beheading of the Holy and Glorious Prophet, Forerunner and Baptist John." // full title of day
 meShortCommemoration1.text = "St. John the Baptist"
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate; " //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate; " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Beheading of the Honorable Head of the Holy and Glorious Forerunner John the Baptist."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.poet = poets_en_US_dedes.IoannouMonachou
 meVE.Stichera01.mode = misc_en_US_dedes.Mode6
-meVE.Stichera01.melody  = ""
+meVE.Stichera01.melody = ""
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode6
-meVE.Stichera02.melody  = ""
+meVE.Stichera02.melody = ""
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode6
-meVE.Stichera03.melody  = ""
+meVE.Stichera03.melody = ""
 meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode6
-meVE.Stichera04.melody  = ""
+meVE.Stichera04.melody = ""
 meVE.Stichera04.text = "Once again Herodias is in a rage; once again she is troubled. Oh, dance full of treachery; oh, drinking party of deceit! The Baptist was decapitated, and Herod was agitated. At the intercession of Your Forerunner, O Lord, grant peace to our souls."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Lity1.poet = poets_en_US_dedes.GermanouPatriarchou
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode1
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode1
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.LityGlory.poet = poets_en_US_dedes.IoannouMonachou
 meVE.LityGlory.mode = misc_en_US_dedes.Mode5
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode5
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha1.melody  = ""
+meVE.Aposticha1.melody = ""
 meVE.Aposticha1.text = "O Baptist John, preacher of repentance, when your head was cut off you sanctified the earth, for you spread the Law of God to the faithful, and made lawlessness disappear. As one present at the throne of Christ, the heavenly King, plead with Him to have mercy on our souls."
 
 meVE.ApostichaVerse2.text = "The righteous shall flourish like a palm tree; he shall be multiplied like the cedar in Lebanon."
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha2.melody  = ""
+meVE.Aposticha2.melody = ""
 meVE.Aposticha2.text = ""
 
 meVE.ApostichaVerse3.text = "The righteous man shall be glad in the Lord, and shall hope in Him."
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha3.melody  = ""
+meVE.Aposticha3.melody = ""
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m8.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "The memory of the just is observed with hymns of praise; for you suffices the testimony of the Lord, O Forerunner. You have proved to be truly more ven'rable than the Prophets, since you were granted to baptize in the river the One whom they proclaimed. Therefore, when for the truth you had contested, rejoicing, to those in Hades you preached the Gospel, that God was manifested in the flesh, and takes away the sin of the world, and grants to us the great mercy."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode5
@@ -113,17 +113,17 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = "Holy Virgin and Mother of Christ our God, * I entreat you most earnestly now to cure * the passions that grieve my soul, * and to grant me forgiveness* for the sins and offences * that I committed mindlessly, * thus polluting my body, * wretched one that I am. * O! And how I shudder* at the thought of that hour * when Angels will separate * my soul from my body. * Then, alas! What shall become of me? * O Lady, hence I pray you will come * to my aid as an ardent patron then. * For I your unworthy servant * have you as my only hope."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelForerunner.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.Aposticha1.text
 
 meMA.C1Poet = poets_en_US_dedes.IoannouMonachou
@@ -366,12 +366,12 @@ meMA.Ode6K.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6K.text = he.h.m8_en_US_dedes.NotiouThiros.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode5
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = "The Forerunner's glorious decapitation occurred out of divine dispensation, so that even to those in Hades he should declare the coming of the Savior. Therefore, mourn, O Herodias, who asked for unlawful murder: The law of God, nor the living age did she love, but one contrived and fleeting."
 
 meMA.Oikos1.text = "Herod's birthday festivities seemed to all unhallowed, for in the midst of the debauchers, the head of the Faster was like a meaty dish presented. Sadness joined to joy, and with laughter, wailing bitter blended; for as the girl entered in before all, bearing on a platter the brow of the Baptist through mad desire, as it says, lamentation fell likewise on the king and all the banqueters. For it did not delight them, nor Herod himself, it says; and they were dampened with a sadness that wasn't real, but one contrived and fleeting."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -440,7 +440,7 @@ meMA.Ode8C1T.text = ""
 
 meMA.Ode8C21.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C21.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name 
+meMA.Ode8C21.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
 meMA.Ode8C21.text = ""
 
 meMA.Ode8C22.ode = misc_en_US_dedes.Ode8
@@ -538,7 +538,7 @@ meMA.Lauds3.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meMA.Lauds3.text = "What an appalling atrocity! * The very Angel on earth * and the seal of the Prophets all * has been shown to be the prize * for the dance of a prostitute. * The tongue that utters the words of God is sent * to those in Hades, foretelling them of Christ. * Oh, the ineffable * providence that You, O Master, have for all! * Therefore save our souls, O Christ * alone compassionate."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = meVE.Stichera04.text
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode6
@@ -550,23 +550,23 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meMA.AdditionalIdiomelon1.mode = misc_en_US_dedes.Mode4
-meMA.AdditionalIdiomelon1.melody  = ""
+meMA.AdditionalIdiomelon1.melody = ""
 meMA.AdditionalIdiomelon1.text = ""
 
 meMA.AdditionalIdiomelon2.mode = misc_en_US_dedes.Mode4
-meMA.AdditionalIdiomelon2.melody  = ""
+meMA.AdditionalIdiomelon2.melody = ""
 meMA.AdditionalIdiomelon2.text = ""
 
 meMA.AdditionalIdiomelonGlory.mode = misc_en_US_dedes.Mode4
-meMA.AdditionalIdiomelonGlory.melody  = ""
+meMA.AdditionalIdiomelonGlory.melody = ""
 meMA.AdditionalIdiomelonGlory.text = ""
 
 meMA.AdditionalIdiomelonBoth.mode = misc_en_US_dedes.Mode4
-meMA.AdditionalIdiomelonBoth.melody  = ""
+meMA.AdditionalIdiomelonBoth.melody = ""
 meMA.AdditionalIdiomelonBoth.text = oc.m4.d2_en_US_dedes.ocMA.AposTheotokion.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m09.d08_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode4
