@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m08.d15_en_US_dedes
 
 meDate.text = "August 15"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Commemoration of the Dormition of our Most Holy Lady Theotokos and Ever-Virgin Mary." // full title of day
 meShortCommemoration1.text = "Dormition"
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "whose Dormition we celebrate," //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "whose Dormition we celebrate," // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Assumption of our All-Holy Lady the Theotokos and Ever-Virgin Mary."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,7 +27,7 @@ meSV.Stichera3.melody = he.a.m2_en_US_dedes.PoioisEffimionStemmasin.name
 meSV.Stichera3.text = "What spiritual songs have we now * to present to you, all-holy Virgin? * For by your Dormition devoid of death * the entire cosmos was sanctified. * You passed on to extramundane regions * to behold * the perfect beauty of the Ruler of all; * and, such as * you are His Mother, to exult with Him, * as all the orders of Angels * and the souls of the righteous, * O pure Lady, escorted you. * Together with them entreat * that peace and great mercy be upon us."
 
 meSV.SticGlory.mode = misc_en_US_dedes.Mode2
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = "She who is higher than the heavens and more glorious than the Cherubim, and is held in greater honor than all creation; she who for surpassing purity became the vessel of the eternal Essence, today commits her all-holy soul into the hands of her Son. And together with her all things are filled with joy, and on us is bestowed the great mercy."
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -62,70 +62,70 @@ meVE.Stichera03.mode = misc_en_US_dedes.Mode1
 meVE.Stichera03.melody = he.a.m1_en_US_dedes.OTouParadoxouThavmatos.name
 meVE.Stichera03.text = "Dominions and Principalities * extol your Dormition * with Authorities and Thrones * and Powers and Cherubim and awesome Seraphim; * while those born on earth exult * in your divine glory, being therewith adorned. * And kings bow prostrate to you * with the Archangels and Angels, and sing to you: * Lady full of grace, rejoice, * for the Lord is with you, * and through your intercessions * He bestows great mercy on the world.."
 
-meVE.Stichera04.text = "" //for media, Sat. evening Stichera 78910
+meVE.Stichera04.text = "" // for media, Sat. evening Stichera 78910
 
 meVE.SticGlory1.mode = misc_en_US_dedes.Mode1
-meVE.SticGlory1.melody  = ""
+meVE.SticGlory1.melody = ""
 meVE.SticGlory1.text = "By the command of God, the God-bearing Apostles everywhere were transported through the skies on clouds."
 
 meVE.SticGlory2.mode = misc_en_US_dedes.Mode5
-meVE.SticGlory2.melody  = ""
+meVE.SticGlory2.melody = ""
 meVE.SticGlory2.text = "And reaching your all-immaculate body, that origin of Life, they kissed it in grand veneration."
 
 meVE.SticGlory3.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory3.melody  = ""
+meVE.SticGlory3.melody = ""
 meVE.SticGlory3.text = "The supreme Hosts of heaven arrived with their Master."
 
 meVE.SticGlory4.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory4.melody  = ""
+meVE.SticGlory4.melody = ""
 meVE.SticGlory4.text = "Seized with awe, they ushered your inviolate body, which had hosted God. High above the earth, they went before you, and invisibly they shouted to the angelic orders above them, \"Behold, the Queen of all, the Maid of God, has arrived."
 
 meVE.SticGlory5.mode = misc_en_US_dedes.Mode3
-meVE.SticGlory5.melody  = ""
+meVE.SticGlory5.melody = ""
 meVE.SticGlory5.text = "\"Lift up the gates, and give a formal heavenly reception to the Mother of the everlasting Light."
 
 meVE.SticGlory6.mode = misc_en_US_dedes.Mode7
-meVE.SticGlory6.melody  = ""
+meVE.SticGlory6.melody = ""
 meVE.SticGlory6.text = "\"For the salvation of all humanity came through her. We are unable to gaze on her, and it is impossible to bestow worthy honor on her."
 
 meVE.SticGlory7.mode = misc_en_US_dedes.Mode4
-meVE.SticGlory7.melody  = ""
+meVE.SticGlory7.melody = ""
 meVE.SticGlory7.text = "\"For her excellence surpasses all understanding.\""
 
 meVE.SticGlory8.mode = misc_en_US_dedes.Mode8
-meVE.SticGlory8.melody  = ""
+meVE.SticGlory8.melody = ""
 meVE.SticGlory8.text = "Therefore, O immaculate Theotokos, as you now live forever with the life-bearing King who is your Son, intercede unceasingly, that He guard us, your children, and that He save us from every hostile assault, since we are under your protection."
 
 meVE.SticGlory9.mode = misc_en_US_dedes.Mode1
-meVE.SticGlory9.melody  = ""
+meVE.SticGlory9.melody = ""
 meVE.SticGlory9.text = "And to the ages with splendor we call you blessed."
 
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = "It was fitting that the eyewitnesses and ministers of the Word should also see the Dormition of His Mother according to the flesh, this being the final mystery concerning her; so that they might behold not only the Savior's ascent from earth, but also be witnesses of the translation of her who bore Him. Therefore, carried back from every part of the world by divine power, they reached Zion. And they escorted her who is higher than the Cherubim as she hastened toward heaven. Together with them, we also venerate her who intercedes on behalf of our souls."
 
 meVE.Lity2.poet = poets_en_US_dedes.Anatoliou
 meVE.Lity2.mode = misc_en_US_dedes.Mode2
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = "She who is higher than the heavens, and more glorious than the Cherubim, and is held in greater honor than all creation; she who for surpassing purity became the vessel of the eternal Essence, today commits her all-holy soul into the hands of her Son. And together with her all things are filled with joy, and on us is bestowed the great mercy."
 
 meVE.Lity3.poet = poets_en_US_dedes.Ioannou
 meVE.Lity3.mode = misc_en_US_dedes.Mode2
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = "The all-blameless Bride and Mother of the good pleasure of the Father, she who was preordained by God for the dwelling of His own unconfused union, today commits her immaculate soul unto her Maker and God. The hosts of incorporeals meet her with a reception worthy of God. And she is translated unto life, as the very Mother of Life, the lamp of the unapproachable light, the salvation of the faithful, and the hope of our souls."
 
 meVE.Lity4.poet = poets_en_US_dedes.Germanou
 meVE.Lity4.mode = misc_en_US_dedes.Mode3
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = "Come from all the ends of the earth, and let us acclaim the august Assumption of the Mother of God. For she has committed her blameless soul into the hands of her Son. By her holy Dormition, the world was restored to life, and hence it brightly celebrates with the bodiless powers and the Apostles, in psalms and hymns and spiritual songs."
 
 meVE.LityGlory.poet = poets_en_US_dedes.Theofanous
 meVE.LityGlory.mode = misc_en_US_dedes.Mode5
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = "Come, O congregation of feast-lovers; come and let us form a choir. Come, let us invest the Church with songs, as the Ark of God goes to her place of rest. For today the heavens expand their vaults receiving her who gave birth to Him who is not contained by anything. And the earth, yielding up the fountain of life, is bedecked with the blessing and the majesty. Angels stand in concert with Apostles, gazing with great fear, as the Birthgiver of the Author of life is translated from life to life. Let us all bow down to her in reverence, and entreat: Forget not your kindred ties, O Lady, with those who loyally celebrate the feast of your all-holy Dormition."
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode5
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = "Sing, O peoples, to the Mother of our God, sing! For today she commits her soul, full of light, into the immaculate hands of Him who from her became incarnate without insemination; with Whom she intercedes without cessation, that He grant unto the universe peace and great mercy."
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
@@ -145,11 +145,11 @@ meVE.Aposticha3.melody = misc_en_US_dedes.Idiomelon
 meVE.Aposticha3.text = "O you peoples, let us sing today to Christ God an ode of David, who said: \"The virgins who follow after her shall be brought before the King; they shall be brought with gladness and rejoicing.\" For she who descended from David's line, and through whom we were deified, ineffably is borne to heaven in the hands of her Son and her Lord in glory. Extolling her as the Mother of God, we cry aloud saying: Save us who confess you to be Theotokos from every adversity, and from perils redeem our souls."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "When you, O Virgin Theotokos, passed away to Him who indescribably was born of you, present was Iakovos the brother of the Lord and first hierarch, with Peter the most honorable and preeminent paramount of the Theologians, and the entire holy choir of Apostles, who, with utterances unveiling secrets of theology, extolled the divine and sublime mystery of the dispensation of Christ our God. And when they had buried your body that had generated life and had hosted God, they were filled with joy, O all-lauded Lady. While on high, the all-holy and most venerable angelic powers marveled at the wonder. Bowed in reverence, they called out to one another: \"Lift up your gates and receive her who gave birth to the Creator of the heavens and the earth. With hymns of glory let us extol her august and holy body that held the Lord who to us is invisible.\" And therefore, we also celebrate your memory and cry aloud to you, O all-lauded Lady: Exalt the Christians' horn of strength and save our souls."
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "In giving birth you retained your virginity, and in dormition you did not forsake the world, O Theotokos. You were translated unto life, being the Mother of Life. And thus by virtue of your intercessions you deliver our souls from death."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
@@ -164,19 +164,19 @@ meMA.Kathisma31.mode = misc_en_US_dedes.Mode3
 meMA.Kathisma31.melody = he.a.m3_en_US_dedes.TinOraiotita.name
 meMA.Kathisma31.text = "In parturition you conceived un-gamically, * and in dormition too, you died without decay. * A double wonder followed on the wonder, O Theotokos. * How did one who knew no man * nurse a babe while remaining chaste? * Or how was the Mother of God * buried emitting a fragrant scent? * And therefore with the Angel we cry to you: * Rejoice, O Maiden who are full of grace."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 //from goarch: http://goarch.org/chapel/lectionary_view?type=MGandcode=370andlanguage=elanddate=8/15/2013
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.poet = poets_en_US_dedes.Vyzantos
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "When the translation of your immaculate body was being prepared, the Apostles, surrounding your bed, looked upon you fearfully. As they gazed at your body, they were overcome by awe; and Peter cried aloud to you tearfully: \"O Virgin, I see you clearly lying here supine, the life of all, and I am struck with wonder. For in you did the delight of the life to come make His dwelling.\" Now we pray, O immaculate Lady: Fervently entreat your Son and God, to preserve your City invulnerable."
 
 meMA.C1Poet = poets_en_US_dedes.Kosma
@@ -246,7 +246,7 @@ meMA.Ode3C22.melody = he.h.m4_en_US_dedes.TousSousYmnologous_Koimisis.name
 meMA.Ode3C22.text = "By virtue of the almighty summons, * the choir of Divines from all the earth, * O Lady, and the multitude * of Angels from the heavens hied * to Zion, there to minister * at your interment, by duty bound."
 
 meMA.Hypakoe.mode = misc_en_US_dedes.Mode5
-meMA.Hypakoe.melody  = ""
+meMA.Hypakoe.melody = ""
 meMA.Hypakoe.text = "Now all generations call you blessed, O Virgin Theotokos. For Christ our uncontainable God was pleased to be contained in you. Blessed also are we who have you for patronage. For day and night, you intercede on our behalf, and the scepters of the empire are strengthened by your prayers. Therefore, we extol you and cry aloud: Rejoice, O Lady full of grace, the Lord is with you."
 
 meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
@@ -355,7 +355,7 @@ meMA.Kontakion1.text = he.a.m6_en_US_dedes.TinEnPresveiais.text
 
 meMA.Oikos1.text = "Fortify my mind, O my Savior; for I am daring to extol Your immaculate Mother, the fortress of the world. Rein-force me with a tower of words, and shelter me in a castle of concepts; for You have promised to fulfill the requests of those who request with faith. Do, therefore, endow me with elocution, expression, and dauntless meditation; for every dose of illumination is sent down from You, O guiding Light, who dwelt in the ever-virgin womb."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode1
@@ -488,7 +488,7 @@ meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meMA.Lauds3.text = "You who gave birth to Life himself * have passed on to immortal life * by your most exalted Dormition on this day, * at which the Angels escorted you, * Powers, Principalities, * Prophets and Apostles too, * the entire created world; * while your Son and God * with His own undefiled hands accepted the all-blameless soul, O Virgin, * of you His Mother, the Bride of God."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "At your deathless Dormition, O Theotokos and Mother of Life, clouds caught the Apostles up into the air; and, from being dispersed throughout the world, they were reunited before your immaculate body. And when they had buried you with dignity, they lifted up their voices and sang the words of Gabriel: \"Rejoice, O unwedded and virgin Mother who are full of grace; the Lord is with you.\" Along with them, entreat your Son and our God, for the salvation of our souls."
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -497,16 +497,16 @@ meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.Antiphon2.text = ho.s07_en_US_dedes.hoLI.Antiphon2w.text
 
-meLI.EntranceHymn.text = ho.s07_en_US_dedes.hoLI.EntranceHymn.text 
+meLI.EntranceHymn.text = ho.s07_en_US_dedes.hoLI.EntranceHymn.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode6
 meLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 
 meLI.TheotokosHymn.mode = misc_en_US_dedes.Mode1
-meLI.TheotokosHymn.text = meMA.Ode9C1H.text //need to prefix meMA.Ode9C1M01.text
+meLI.TheotokosHymn.text = "meMA.Ode9C1H.text" // need to prefix meMA.Ode9C1M01.text
 
-meLI.CommunionHymn.text = "" //for media
+meLI.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
 

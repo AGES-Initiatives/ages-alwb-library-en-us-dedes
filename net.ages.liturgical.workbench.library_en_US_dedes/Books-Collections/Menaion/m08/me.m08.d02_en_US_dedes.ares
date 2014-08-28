@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m08.d02_en_US_dedes
 
 meDate.text = "August 2"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of  the Transfer of the Relic of Saint Stephen, the Protomartyr and Archdeacon." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Translation of the Relics of the Holy Protomartyr Stephen the Archdeacon."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,27 +27,27 @@ meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode2
-meVE.Stichera04.melody  = ""
+meVE.Stichera04.melody = ""
 meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode2
-meVE.Stichera05.melody  = ""
+meVE.Stichera05.melody = ""
 meVE.Stichera05.text = ""
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode2
-meVE.Stichera06.melody  = ""
+meVE.Stichera06.melody = ""
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
@@ -68,7 +68,7 @@ meMA.Ode1C11.text = ""
 
 meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C12.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name 
+meMA.Ode1C12.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
 meMA.Ode1C12.text = ""
 
 meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
@@ -93,7 +93,7 @@ meMA.Ode3C11.text = ""
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C12.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name 
+meMA.Ode3C12.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
 meMA.Ode3C12.text = ""
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
@@ -176,7 +176,7 @@ meMA.Ode6C11.text = ""
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C12.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name 
+meMA.Ode6C12.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
 meMA.Ode6C12.text = ""
 
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
@@ -195,12 +195,12 @@ meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m8_en_US_dedes.IlasthitiMoiSotir.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode8
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -283,7 +283,7 @@ meMA.Ode9H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode9H.text = he.h.m8_en_US_dedes.ExestiEpiTouto.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.TonMathitonOrontonSe.name 
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.TonMathitonOrontonSe.name
 meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
@@ -303,11 +303,11 @@ meMA.Lauds3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m4.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = ""
@@ -315,15 +315,15 @@ meMA.LaudsSundayVerse1.text = ""
 meMA.LaudsSundayVerse2.text = ""
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode5
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode5
-meMA.AposTheotokion.melody  = ""
+meMA.AposTheotokion.melody = ""
 meMA.AposTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode7
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m08.d06_en_US_dedes.meMA.Kontakion1.text
 
 meMegalynarion.text = ""
