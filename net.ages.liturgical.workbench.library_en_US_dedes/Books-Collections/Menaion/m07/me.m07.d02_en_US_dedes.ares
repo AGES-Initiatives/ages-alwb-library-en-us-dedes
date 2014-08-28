@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m07.d02_en_US_dedes
 
 meDate.text = "July 2"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Commemoration of the Placement in Blachernai of the Precious Garment of the Most Holy Theotokos." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Placing of the Venerable Robe of the Theotokos at Blachernai."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,7 +27,7 @@ meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.Stichera03.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
@@ -47,11 +47,11 @@ meVE.Aposticha3.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Ever-virgin Theotokos, the shelter of mankind, you have given to your City as a protective wall the clothing and garment that you wore on your immaculate body. By your seedless childbirth, they have remained incorrupt. For in you both nature and time are made novel. Therefore we implore you, grant peace to your commonwealth, and great mercy to our souls."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
@@ -284,7 +284,7 @@ meMA.Kontakion1.text = "You have bestowed your sacred Garment, O Lady, * to be a
 
 meMA.Oikos1.text = "The pure and true tabernacle of God the Logos, the animate cloud, and the jar of Manna, Mary the Theotokos: let us all who were saved by her child in faith call her blessed; and let us carress her august Garment in which she wrapped the Master and held Him as an infant, when He had put on flesh. Through her, our human nature was lifted to supernal life and kingdom. Therefore in a loud voice we cry out to her with joy: Rejoice, O Virgin, the boast of Christians everywhere."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
@@ -448,16 +448,16 @@ meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meMA.Lauds3.text = "With great joy we commemorate * the bestowal of your august * Garment in your city, O Lady, with a feast. * For you have counted it worthy of * receiving it on this day * as a wall for our defense, * as protection inviolate, as a precious gift, * as immovable wealth of cures and healings, and a river that is teaming * with all the gifts of the Spirit of God."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = meVE.SticGlory.text
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.LaudsSundayVerse1.text = "" // for media
 
 meLI.SeasonalKontakion.mode = meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" //for media
+meLI.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
 

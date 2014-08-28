@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m07.d29_en_US_dedes
 
 meDate.text = "July 29"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of  the holy Martyr Callinicus; and the Holy Martyr Theodota." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Holy Martyr Kallinikos."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -286,7 +286,7 @@ meMA.Ode6H.mode = misc_en_US_dedes.Mode4
 meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -432,6 +432,6 @@ meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.EpeskepsatoImas.name
 meMA.ExapTheotokion.text = ""
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode7
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m08.d06_en_US_dedes.meMA.Kontakion1.text
 

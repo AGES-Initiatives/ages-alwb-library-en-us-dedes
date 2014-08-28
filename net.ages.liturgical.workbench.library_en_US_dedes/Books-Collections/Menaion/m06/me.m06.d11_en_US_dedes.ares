@@ -1,12 +1,12 @@
 A_Resource_Whose_Name = me.m06.d11_en_US_dedes
 
 meDate.text = "June 11" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" // full title of day
+meCommemoration.text = "Memory of the Holy Apostles Bartholomew and Barnabas." // full title of day
 meShortCommemoration1.text = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Holy Apostles Bartholomew and Barnabas."
 meLE.commemoration2 = ""
 meHO.number = ""
 meHO.rank = ""

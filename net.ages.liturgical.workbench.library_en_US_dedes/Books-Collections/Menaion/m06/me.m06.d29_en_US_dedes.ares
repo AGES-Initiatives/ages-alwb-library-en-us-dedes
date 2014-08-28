@@ -1,15 +1,15 @@
-A_Resource_Whose_Name = me.m06.d29_en_US_dedes 
+A_Resource_Whose_Name = me.m06.d29_en_US_dedes
 
 meDate.text = "June 29" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of the Holy, Glorious, All-Lauded Preeminent Apostles Peter and Paul." // full title of day
 meShortCommemoration1.text = "Sts. Peter and Paul"
-meInsert1 = "the holy, glorious, and all-laudable, paramount Apostles Peter and Paul, " //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "the holy, glorious, and all-laudable, paramount Apostles Peter and Paul, " // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Holy, Glorious, and Renowned Apostles Peter and Paul."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -33,7 +33,7 @@ meSV.SticGlory.melody = misc_en_US_dedes.Idiomelon
 meSV.SticGlory.text = ""
 
 meSV.SticBoth.mode = misc_en_US_dedes.Mode2
-meSV.SticBoth.melody  = ""
+meSV.SticBoth.melody = ""
 meSV.SticBoth.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode6
@@ -75,7 +75,7 @@ meVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m4.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Lity1.poet = poets_en_US_dedes.AndreouIerosolymitou
@@ -108,7 +108,7 @@ meVE.LityGlory.melody = misc_en_US_dedes.Idiomelon
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode5
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.poet = poets_en_US_dedes.AndreouKritis
@@ -138,7 +138,7 @@ meVE.AposTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
 meVE.AposTheotokion.text = he.o_en_US_dedes.TheotokeSyEiApostolon.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Preeminent Apostles and teachers of the universe, intercede with the Master of all, to grant peace to the whole world, and great mercy to our souls."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode8
@@ -165,13 +165,13 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = misc_en_US_dedes.Automelon
 meMA.Kathisma3T.text = he.a.m8_en_US_dedes.TinSofianKaiLogon.text
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelApostles.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
@@ -273,7 +273,7 @@ meMA.Ode3C2T.melody = he.h.m8_en_US_dedes.SyEiToStereoma.name
 meMA.Ode3C2T.text = ""
 
 meMA.Hypakoe.mode = misc_en_US_dedes.Mode8
-meMA.Hypakoe.melody  = ""
+meMA.Hypakoe.melody = ""
 meMA.Hypakoe.text = ""
 
 meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
@@ -417,7 +417,7 @@ meMA.Kontakion1.text = he.a.m2_en_US_dedes.TousAsfaleis.text
 
 meMA.Oikos1.text = "Expand my tongue, O Savior; widen my mouth, and filling it, prick my heart; so that I may follow what I say, and what I impart, accomplish first; for great is he, it says, who puts to practice what he preach. Yet, if I say, but do not do, I am rendered but a cymbal peal. Hence, grant me say the necessary, and practice what is excellent, for only You know what is in the heart."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
@@ -588,7 +588,7 @@ meMA.Lauds4.mode = misc_en_US_dedes.Mode4
 meMA.Lauds4.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
 meMA.Lauds4.text = "Preacher of Christ, as you bore the Cross's glory, * O Paul, you sincerely did prefer to everything * the love divine and greatly beloved, that binds the lovers * unto the object of their longing and love. * Therefore you had called yourself a prisoner of Christ, * and you considered the suffering of every trial * as being sweeter than all mundane delights. * And you were granted the most honorable * dissolution to be with your Master Christ. * Therefore earnestly pray Him to illumine us and save our souls."
 
-meMA.Lauds456.text = "" //for media
+meMA.Lauds456.text = "" // for media
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.KosmaMonachou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
@@ -604,7 +604,7 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode1
