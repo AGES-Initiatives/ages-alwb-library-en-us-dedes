@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m03.d09_en_US_dedes
 
 meDate.text = "March 9" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Holy Great Forty Martyrs who witnessed in the Lake of Sebastia" //full title of day
+meCommemoration.text = "Memory of the Holy Great Forty Martyrs who Witnessed in the Lake of Sebastia" // full title of day
 meShortCommemoration1.text = "Forty Martyrs"
-meInsert1 = "the holy and glorious Great Forty Martyrs of Sebastia," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "the holy and glorious Great Forty Martyrs of Sebastia," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the Holy Great Forty Martyrs who witnessed in the Lake of Sebastia"
+meLE.commemoration1 = "The Holy Forty Martyrs of Sebastia."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -42,7 +42,7 @@ meVE.AposTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
 meVE.AposTheotokion.text = he.o_en_US_dedes.TheotokeSyEiAthloforon.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = he.ga_en_US_dedes.TasAlgidonas.text
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
@@ -74,13 +74,13 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode5
 meMA.Kathisma3T.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
 meMA.Kathisma3T.text = "I implore you to show forth your promptness to provide * your protection and help and your mercy unto me, * O pure Maid, and calm the waves of unruly thoughts, * and resurrect the fallen soul of me your servant, I entreat, * O all-holy Theotokos. * I know, O Virgin; I know it, * that you can do whatever you intend."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMartyrs.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
@@ -234,7 +234,7 @@ meMA.Kontakion1.text = "When you had forsaken every worldly battalion, then you 
 
 meMA.Oikos1.text = "O Christ the Ruler over all, our Creator and God, the One who is carried on an insufferable throne, who stretched out the heavens like a curtain, established the earth, and gathered the water into its places, who brought all things from nothingness into being, and who gives breath and life to all, who receives priase from the Archangels, and is glorified by Angels and worshipped by all: I the unworthy come before You and bring my prayer, asking for the grace of speech, so that I may piously extol the holy Martyrs, whom You showed to be victorious, and to whom You have given * heavenly glory from on high, and manifold crowns."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode2
@@ -369,7 +369,7 @@ meMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 meMA.LaudsGlory.text = "O victorious Martyrs of Christ, you have made the all-holy Fast even more cheerful by the memory of your glorious contest. Being forty in number, you sanctify the forty-day fast of Lent, for you imitated the saving Passion of Christ by contesting for His sake. Therefore, since you have confidence before Him, intercede for us that we may peacefully reach the three-day Resurrection of our God and the Savior of our souls."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = "God is wondrous in His saints."
@@ -381,7 +381,7 @@ meMA.AposGlory.melody = misc_en_US_dedes.Idiomelon
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode2
-meMA.AposTheotokion.melody  = ""
+meMA.AposTheotokion.melody = ""
 meMA.AposTheotokion.text = ""
 
 //For Presanctified Liturgy on the day of the commemoration
@@ -391,15 +391,15 @@ mePL.Glory.melody = misc_en_US_dedes.Idiomelon
 mePL.Glory.text = "In his Psalms David said prophetically, \"We went through fire and water, and You led us into a refreshing place.\" And you, O Martyrs of Christ, fulfilled these words by your actions, for you indeed went through fire and water, and you entered the kingdom of heaven. Therefore, O Athletes forty in number, intercede for us, that we may obtain the great mercy."
 
 mePL.Theotokion.mode = misc_en_US_dedes.Mode2
-mePL.Theotokion.melody  = ""
+mePL.Theotokion.melody = ""
 mePL.Theotokion.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.TheotokosHymn.mode  = ""
-meLI.TheotokosHymn.text  = ""
+meLI.TheotokosHymn.mode = ""
+meLI.TheotokosHymn.text = ""
 
 meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
 

@@ -1,15 +1,15 @@
-A_Resource_Whose_Name = me.m02.d24_en_US_dedes 
+A_Resource_Whose_Name = me.m02.d24_en_US_dedes
 
 meDate.text = "February 24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Finding of the Venerable Head of the Holy Prophet, Forerunner, and Baptist John." //full title of day
+meCommemoration.text = "Memory of the Finding of the Venerable Head of the Holy Prophet, Forerunner, and Baptist John." // full title of day
 meShortCommemoration1.text = "Finding of Forerunner's Head"
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "the finding of whose venerable head we celebrate;" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "the finding of whose venerable head we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the Finding of the Venerable Head of the Holy Prophet, Forerunner, and Baptist John."
+meLE.commemoration1 = "The First and Second Finding of the Sacred Head of the Forerunner John the Baptist."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,7 +28,7 @@ meVE.Stichera03.text = "Here is the holy Forerunner's head * that had announced 
 
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
@@ -41,11 +41,11 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Your Head, that all-venerable repository of divine concepts, which clearly foresaw the mystery of the ineffable Essence, has arisen today out of the storehouses of the earth, as it were out of a mother's womb, O John, who are worthy of all praise. It poured forth the fragrant oil of sanctification and perfumed everything under the sun. It spiritually preaches the way of repentance, and it intercedes with the Savior of all, on behalf of our souls."
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode2
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode2
@@ -80,18 +80,18 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
 meMA.Kathisma3T.text = "Moses saw the burning bush, * therein perceiving * you, the one who held the fire * that leads our souls into the light, * and you were not burnt, all-blameless one, * Lady, but rather * were filled with the dew of grace."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 //from saved eMatins file
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelForerunner.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
@@ -237,7 +237,7 @@ meMA.Kontakion1.text = "O Prophet of God and Forerunner of grace divine, since w
 
 meMA.Oikos1.text = "O John, you became greater than all other mortals, having received the Lord's own testimony about this. Therefore I am afraid to present you with words of praise; but compelled by my longing, I have dared to try my hand at this poem. Please do not refuse to collaborate with me, O all-lauded one, so that I may be able to crown your holy Head, O thrice-blessed one. And once again, you are preaching repentance throughout the world."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode6
@@ -335,7 +335,7 @@ meMA.Lauds3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meMA.Lauds3.text = "Forerunner, your sacred Skull cut off the heads of the lawless foes * of the Lord, like a sharpened sword, * but poured out the gifts of grace, * like a holy shower, * over all the lawful. * Therefore we loyally extol * and sing the praises of you, O Baptist John, * the friend of the Creator of the world, to whom we say earnestly: \"You, O Jesus almighty God, * are the Lord who has saved our souls.\""
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "The all-venerable Head of Your Baptist was revealed today, O Lord, and we have faithfully brought it up from the earth, and accompanied it with the voice of praise. Now we, Your sinful servants, offer it to You as an intercession, O Lover of humanity. We pray that through it we may obtain forgiveness and great mercy from You on Judgment Day. "
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode6
@@ -347,7 +347,7 @@ meMA.LaudsSundayVerse1.text = "There I shall cause to spring up a horn for David
 meMA.LaudsSundayVerse2.text = "The righteous man shall be glad in the Lord, and shall hope in Him."
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode6
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode6
@@ -355,7 +355,7 @@ meMA.AposTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
 meMA.AposTheotokion.text = he.o_en_US_dedes.TheotokeSyEiProdromou.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode4
