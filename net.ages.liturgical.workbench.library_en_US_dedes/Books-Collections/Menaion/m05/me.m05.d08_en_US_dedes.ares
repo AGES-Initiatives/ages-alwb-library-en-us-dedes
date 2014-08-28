@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m05.d08_en_US_dedes
 
 meDate.text = "May 8" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of the Holy and Glorious Apostle and Evangelist John the Theologian; and our Devout Father Arsenios the Great." // full title of day
 meShortCommemoration1.text = "St. John the Evangelist"
-meInsert1 = "and the holy and glorious Apostle and Evangelist John the Theologian, " //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate; " //for use in petitions and dismissal
+meInsert1 = "and the holy and glorious Apostle and Evangelist John the Theologian, " // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate; " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Holy and Glorious Apostle and Evangelist John the Theologian."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,34 +40,34 @@ meVE.Stichera06.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Germanou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "To that Son of Thunder, the foundation of the divine sayings, the principal of theology, that preeminent herald of the true wisdom of dogmas of God, yes, to John the beloved and virgin, let us the articulate human race dutifully sing praises and extol him. He had the Divine unceasingly within him, and thus he said concerning the Word, that He was in the beginning, and then that He was inseparable from the Father, and finally that He is of one essence with the Father, showing to us the correct and Orthodox belief in the Holy Trinity; and he showed us that the Word is Creator with the Father, and is the One who brings life, and who is the true light. What a mystical wonder and thing of wisdom! He was full of love, and he became filled with theology, in glory, honor and faith, the foundation of our unadulterated Faith. By this Faith may we obtain the eternal blessings on Judgment Day."
 
 meVE.Lity1.poet = poets_en_US_dedes.Germanou
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.poet = poets_en_US_dedes.Germanou
 meVE.Lity2.mode = misc_en_US_dedes.Mode1
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.poet = poets_en_US_dedes.Germanou
 meVE.Lity3.mode = misc_en_US_dedes.Mode1
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.Lity4.mode = misc_en_US_dedes.Mode2
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = "He is the paramount of the Apostles, the trumpet of theology, the spiritual general, who made the civilized world subject to God: that celebrated Evangelist John. Come believers, let us call him blessed. He was translated from earth, yet not withdrawn from earth; he is alive and waiting for the fearful second coming of the Master. \"May meet it uncondemned, O mystical bosom friend of Christ, as you pray for us who lovingly observe your memory.\""
 
 meVE.Lity5.mode = misc_en_US_dedes.Mode6
-meVE.Lity5.melody  = ""
+meVE.Lity5.melody = ""
 meVE.Lity5.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode4
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -88,11 +88,11 @@ meVE.Aposticha3.text = "Holy Theologian, now rejoice! * You who are the son of t
 
 meVE.AposGlory.poet = poets_en_US_dedes.LeontosMaistoros
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Apostle of Christ, John the Evangelist and Theologian, you became a mystic of the secrets of God, and thundered to us the secret dogmas of wisdom. You proclaimed to the faithful that \"In the beginning was\"; and you struck down the words of the heretics and ruled out that \"He was not,\" showing thus that you were a beloved bosom friend of Christ, like Isaiah with his resounding voice, and Moses who saw God. Since you speak freely in the presence of God, entreat Him earnestly on behalf of our souls."
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "O Apostle, the beloved of Christ God, hasten to deliver us, a people that has no excuse. He accepts you supplicating Him, for He condescended at the Supper to let you lean on Him. Entreat Him, O Theologian, that He scatter the persistent cloud of hostile nations, and pray for us, for peace and great mercy."
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode8
@@ -103,18 +103,18 @@ meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 meMA.Kathisma31.text = "Today is the memory of the Apostle Saint John * throughout the entire world, and it illumines us all. * So let us now honor it. * It is clearly apparent in the Gospel he authored * that he was the Lord's friend and a true theologian. * Therefore he pours out healings to all those who honor him."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelApostle.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelIdiomelon.melody  = ""
-meMA.PostGospelIdiomelon.text = meVE.Lity4.text 
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = meVE.Lity4.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
@@ -275,7 +275,7 @@ meMA.Ode6C2T.melody = he.h.m8_en_US_dedes.AvyssosAmartion.name
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = "Who can recount all your mighty deeds, O Virgin? You pour out miracles and you overflow with cures, and you intercede on behalf of our souls, as a Theologian and Friend of Christ."
 
 meMA.Oikos1.text = "Daring and incomprehensible it is to search out celestial heights, and the depths of the sea as well. So just as it is wholly impossible to number the stars and the sand on the shores, so no one is able to tell about the Theologian, so many are the crowns with which Christ has crowned His beloved. He leaned on His chest and ate with Him at the Mystical Supper, as a Theologian and Friend of Christ."
@@ -408,8 +408,8 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
-meLI.SeasonalKontakion.text  = ""
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ""
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode1
 

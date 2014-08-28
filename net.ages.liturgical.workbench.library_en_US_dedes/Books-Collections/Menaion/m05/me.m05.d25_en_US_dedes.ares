@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m05.d25_en_US_dedes
 
 meDate.text = "May 25"
-meCommemoration.text = "Third Finding of the Head of the Prophet, Forerunner and Baptist John" //full title of day
+meCommemoration.text = "Third Finding of the Head of the Prophet, Forerunner and Baptist John" // full title of day
 meShortCommemoration1.text = "Forerunner's Head"
 meInsert1 = "the honorable and glorious Prophet, and Forerunner John the Baptist, "
-meInsert2 = "the Finding of whose precious Head we celebrate, " 
+meInsert2 = "the Finding of whose precious Head we celebrate, "
 meNote.text = ""
-meLE.commemoration1 = "Third Finding of the Head of the Prophet, Forerunner and Baptist John"
+meLE.commemoration1 = "The Commemoration of the Third Finding of the Venerable Head of the Forerunner John the Baptist."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,11 +27,11 @@ meVE.Stichera03.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meVE.Stichera03.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m02.d24_en_US_dedes.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -51,11 +51,11 @@ meVE.Aposticha3.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m02.d24_en_US_dedes.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode2
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m2.d2_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
@@ -75,8 +75,8 @@ meMA.Kathisma21.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 meMA.Kathisma21.text = me.m02.d24_en_US_dedes.meMA.Kathisma21.text
 
 meMA.Kathisma2T.mode = misc_en_US_dedes.Mode4
-meMA.Kathisma2T.melody  = ""
-meMA.Kathisma2T.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text 
+meMA.Kathisma2T.melody = ""
+meMA.Kathisma2T.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
 
 meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
@@ -86,18 +86,18 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
 meMA.Kathisma3T.text = ""
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 // http://goarch.org/chapel/lectionary_view?type=MGandcode=179andevent=66andlanguage=elanddate=5/25/2013
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelForerunner.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
 
 meMA.C1Poet = poets_en_US_dedes.Tarasiou
@@ -148,7 +148,7 @@ meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
-meMA.Ode3KathismaT.text = meMA.Kathisma3T.text 
+meMA.Ode3KathismaT.text = meMA.Kathisma3T.text
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_dedes.Mode8
@@ -296,10 +296,10 @@ meMA.Lauds3.mode = misc_en_US_dedes.Mode5
 meMA.Lauds3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meMA.Lauds3.text = "Here is the holy Forerunner's head * that had announced the Lamb of God in the flesh appeared. * By means of divine instructions that it proclaimed, it affirmed * the salvific ways of repentance to all. * Because it had formerly censured Herod's iniquity, * this head was cut off from the body of Prophet John, * and it then endured being hidden for many years. * Later it rose up like a sun and shone forth its light on us, * and once again it is crying, Repent, and come and submit yourselves, * with heartfelt compunction, * to the Lord who is bestowing great mercy on the world."
 
-meMA.Lauds456.text = "" //for media
+meMA.Lauds456.text = "" // for media
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = me.m02.d24_en_US_dedes.meMA.LaudsGlory.text
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode6
@@ -311,8 +311,8 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
-meLI.SeasonalKontakion.text  = ""
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ""
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode4
 

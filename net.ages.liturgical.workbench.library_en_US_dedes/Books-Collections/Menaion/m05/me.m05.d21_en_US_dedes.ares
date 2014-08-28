@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m05.d21_en_US_dedes
 
 meDate.text = "May 21" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of the Holy and Glorious Great God-Crowned Emperors Constantine and Helen, the Equals to the Apostles." // full title of day
 meShortCommemoration1.text = "Sts. Constantine and Helen"
-meInsert1 = "the holy, glorious, great, God-crowned Sovereigns Constantine and Helen, the Equals to the Apostles, " //for use in petitions and dismissal
-meInsert2 = "whose memory we are celebrating; " //for use in petitions and dismissal
+meInsert1 = "the holy, glorious, great, God-crowned Sovereigns Constantine and Helen, the Equals to the Apostles, " // for use in petitions and dismissal
+meInsert2 = "whose memory we are celebrating; " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Holy and Great Rulers Constantine and Helen, the Equal to the Apostles."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,40 +28,40 @@ meVE.Stichera03.text = "You were first, O ever-memorable Emperor, to submit * th
 
 meVE.SticGlory.poet = poets_en_US_dedes.Vyzantiou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "You received the advantages of abundant gifts from God, O mightiest King Constantine the Great, and you distinguished yourself in them. Through baptism, you were illumined by the rays of the all-holy Spirit. You became invincible among emperors; and to your Creator you conferred, as a donation, the Empire and the God-fearing Ruling City. Therefore never cease entreating Christ our God, to whom you speak with confidence, that He grant forgiveness of sins and great mercy, to all who observe your memory."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m2.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode1
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.poet = poets_en_US_dedes.Vyzantos
 meVE.Lity3.mode = misc_en_US_dedes.Mode2
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = "The memorial of Constantine the pious, like perfume that is poured out, has arisen today. He longed for Christ and therefore held the idols in contempt. On earth he erected a temple to the One who was crucified for us; while in heaven he received the crown of hope."
 
 meVE.Lity4.mode = misc_en_US_dedes.Mode3
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = ""
 
 meVE.Lity5.mode = misc_en_US_dedes.Mode4
-meVE.Lity5.melody  = ""
+meVE.Lity5.melody = ""
 meVE.Lity5.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode5
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode5
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -81,15 +81,15 @@ meVE.Aposticha3.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meVE.Aposticha3.text = "Urged on by her longing and her love * for the Master Christ went the Mother of that most sweet royal son. * Hastening she came to Holy Zion and she arrived * at the sacred and holy place * upon which our Savior * willingly was crucified for the salvation of all. * There she found the Cross and she took it; * joyfully she cried aloud, Glory * to Him who gave me what I was hoping for."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "As a flash of lightning, as a comet from the Far West, your course was diverted from unbelief to faith in the true God, and you were led to sanctify your people and your City. And you saw the sign of the Cross in the sky, and from there you heard, \"Hereby conquer your enemies.\" Thus when you received the knowledge of the Spirit, and with oil were anointed as Priest and King, you reinforced the Church of Christ our God, O father of Orthodox Emperors. Your coffin pours out healings. Constantine, the peer of the Apostles, earnestly intercede on behalf of our souls."
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m8.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Your Apostle among the Rulers, St. Constantine, who once beheld in the sky the image of Your Cross, and who like Paul received his calling not from man, once entrusted the Ruling City into Your hand. We entreat You to restore it in peace forever, at the intercession of the Theotokos, O Lord who loves humanity."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode3
@@ -125,17 +125,17 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma3T.melody = misc_en_US_dedes.Automelon
 meMA.Kathisma3T.text = he.a.m4_en_US_dedes.TachyProkatalave.text
 
-meMA.Prokeimenon.text = "" //for mediameMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.Prokeimenon.text = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = "At the intercession of the God-crowned rulers, O Lord of mercy, blot out my many offences."
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelIdiomelon.melody  = ""
-meMA.PostGospelIdiomelon.text = meVE.Lity3.text 
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = meVE.Lity3.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
@@ -182,7 +182,7 @@ meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode8
-meMA.Ode3KathismaT.melody  = ""
+meMA.Ode3KathismaT.melody = ""
 meMA.Ode3KathismaT.text = me.m05.d19_en_US_dedes.meMA.Ode3KathismaT.text
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
@@ -340,7 +340,7 @@ meMA.Lauds4.mode = misc_en_US_dedes.Mode8
 meMA.Lauds4.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meMA.Lauds4.text = "You anointed paradoxically * with oil of gladness, O Christ, * holy Constantine and devout * Helen who advanced Your work, * for they hated idolatry, * and rather longingly loved Your handsomeness, * O Word, and therefore You made them worthy of * heavenly rule with You; * for they previously ruled upon the earth * with the utmost piety, at Your divine behest."
 
-meMA.Lauds456.text = ""//for media
+meMA.Lauds456.text = "" // for media
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.MethodiouPatriarchou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
@@ -352,7 +352,7 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meLI.CommunionHymn.text = da.d5_en_US_dedes.daLI.CommunionHymn.text

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m02.d10_en_US_dedes
 
 meDate.text = "February 10" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Holy Hieromartyr Haralambos the Wonder-worker." //full title of day
+meCommemoration.text = "Memory of the Holy Hieromartyr Haralambos the Wonder-worker." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "the holy and glorious hieromartyr Haralambos the Wonder-worker," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "the holy and glorious hieromartyr Haralambos the Wonder-worker," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the Holy Hieromartyr Haralambos the Wonder-worker."
+meLE.commemoration1 = "The Holy Hieromartyr Charalambos."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,11 +27,11 @@ meSV.Stichera3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = misc_en_US_dedes.Mode2
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = ""
 
 meSV.SticBoth.mode = misc_en_US_dedes.Mode2
-meSV.SticBoth.melody  = ""
+meSV.SticBoth.melody = ""
 meSV.SticBoth.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -79,43 +79,43 @@ meVE.Stichera06.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m4.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode1
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode1
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.Lity4.mode = misc_en_US_dedes.Mode1
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = ""
 
 meVE.Lity5.mode = misc_en_US_dedes.Mode1
-meVE.Lity5.melody  = ""
+meVE.Lity5.melody = ""
 meVE.Lity5.text = ""
 
 meVE.Lity6.mode = misc_en_US_dedes.Mode1
-meVE.Lity6.melody  = ""
+meVE.Lity6.melody = ""
 meVE.Lity6.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode5
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode5
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
@@ -135,11 +135,11 @@ meVE.Aposticha3.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode4
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m4.d2_en_US_dedes.ocMA.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
@@ -174,17 +174,17 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode3
 meMA.Kathisma3T.melody = he.a.m3_en_US_dedes.TinOraiotita.name
 meMA.Kathisma3T.text = "Let us sing hymns in praise * of her who knew no man * and yet gave birth to God, * and held within her womb * the One whom nothing can contain, * the all-holy Theotokos. * Only she was capable * of redeeming the human race * from the curse by giving birth * to the Savior and God of all. * And let us say to her all together: * \"Rejoice, O Lady full of grace.\""
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMaleMartyr.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "Come, you fans of the Martyrs, let us honor the God-crowned phalanx led by the radiant Martyr, that select and holy company of Hieromartyr Haralambos, which was eagerly sacrificed for Christ. Let us spiritually observe his all-sacred memory, and call out to him: \"Free your people, who correctly believe in God; free us from the threat of plague, and deliver us from every adversity.\""
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -405,7 +405,7 @@ meMA.Kontakion1.text = "Since the holy Church of Christ is in possession of your
 
 meMA.Oikos1.text = "Let us come together and extol Haralambos, the all-glorious great Martyr, the steadfast warrior and soldier of Christ. He contended splendidly for Christ and the truth. He openly preached the Orthodox faith, and put an end to the error of idolatry. He rebuked the most unlawful king, and with joy and exultation he was beheaded. Therefore he received the crown from the right hand of the Most High, and he became a fellow citizen of the Angels. This is why the Orthodox Church venerates his all-honored skull, and crowns it with praises. By it she is freed from many hardships and diseases, and she praises the Maker of all with joy."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode6
@@ -548,19 +548,19 @@ meMA.Lauds3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Lauds3.text = "In all of Greece has the festive * and bright memorial * of holy Hieromartyr Saint Haralambos risen * most glorious and splendid; for she is blest * to possess his most honored skull, * which had proclaimed Christ the Savior, both God and man. * Hence she celebrates it festively."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Your precious skull, O divine Saint, is like an alabaster box that is full and pouring out cures, like very costly fragrant oil. It wondrously perfumes the faithful, and it delivers from every evil those who approach it with faith. It exterminates foul-smelling delusion, diseases of every kind, and the pandemic plague, and it grants good health to all, as well as peace and great mercy."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text 
+meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text 
+meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode1

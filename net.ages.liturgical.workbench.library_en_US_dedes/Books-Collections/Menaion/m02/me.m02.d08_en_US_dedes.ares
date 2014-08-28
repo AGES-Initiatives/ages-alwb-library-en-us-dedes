@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m02.d08_en_US_dedes
 
 meDate.text = "February 8" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of the Holy Great Martyr Theodore the General; and the Holy Prophet Zacharias." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Holy Great Martyr Theodore Stratelatos."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,12 +40,12 @@ meVE.Stichera06.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode5
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticBoth.poet = poets_en_US_dedes.GermanouOiDeAnatoliou
 meVE.SticBoth.mode = misc_en_US_dedes.Mode5
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = me.m02.d02_en_US_dedes.meVE.LityBoth.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
@@ -65,12 +65,12 @@ meVE.Aposticha3.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposBoth.poet = poets_en_US_dedes.AndreouKritis
 meVE.AposBoth.mode = misc_en_US_dedes.Mode8
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = me.m02.d02_en_US_dedes.meVE.AposGlory.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
@@ -382,7 +382,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode8
@@ -550,12 +550,12 @@ meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsBoth.poet = poets_en_US_dedes.Germanou
 meMA.LaudsBoth.mode = misc_en_US_dedes.Mode2
-meMA.LaudsBoth.melody  = ""
+meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = me.m02.d02_en_US_dedes.meVE.Lity6.text
 
 meMA.LaudsSundayVerse1.text = ""
@@ -579,17 +579,17 @@ meMA.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meMA.Aposticha3.text = ""
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode8
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposBoth.mode = misc_en_US_dedes.Mode7
-meMA.AposBoth.melody  = ""
+meMA.AposBoth.melody = ""
 meMA.AposBoth.text = ""
 
 meLI.Antiphon2.text = me.m02.d02_en_US_dedes.meLI.Antiphon2.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
 meMegalynarion.text = ""
@@ -597,11 +597,11 @@ meMegalynarion.text = ""
 //These extra hymns are found in the back of the Feb. Menaion
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode5
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode5
-meVE.SticStavrotheotokion.melody  = ""
+meVE.SticStavrotheotokion.melody = ""
 meVE.SticStavrotheotokion.text = ""
 
 meVE.SticTheotokion2.mode = misc_en_US_dedes.Mode8

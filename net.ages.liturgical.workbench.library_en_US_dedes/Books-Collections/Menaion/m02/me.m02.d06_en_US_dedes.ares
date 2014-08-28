@@ -1,15 +1,15 @@
-A_Resource_Whose_Name = me.m02.d06_en_US_dedes 
+A_Resource_Whose_Name = me.m02.d06_en_US_dedes
 
 meDate.text = "February 6" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "St. Photios the Great" //full title of day
+meCommemoration.text = "Memory of our Father among the Saints Photios, Patriarch of Constantinople, the Equal to the Apostles and Confessor." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "St. Photios the Great"
+meLE.commemoration1 = "Our Father among the Saints and Equal to the Apostles, Photios the Great, Patriarch of Constnatinople, the Confessor."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -32,11 +32,11 @@ meSV.Stichera4.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meSV.Stichera4.text = ""
 
 meSV.SticGlory.mode = misc_en_US_dedes.Mode8
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = ""
 
 meSV.SticBoth.mode = misc_en_US_dedes.Mode8
-meSV.SticBoth.melody  = ""
+meSV.SticBoth.melody = ""
 meSV.SticBoth.text = ""
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -56,11 +56,11 @@ meSV.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = misc_en_US_dedes.Mode2
-meSV.AposGlory.melody  = ""
+meSV.AposGlory.melody = ""
 meSV.AposGlory.text = ""
 
 meSV.AposBoth.mode = misc_en_US_dedes.Mode2
-meSV.AposBoth.melody  = ""
+meSV.AposBoth.melody = ""
 meSV.AposBoth.text = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode2
@@ -88,33 +88,33 @@ meVE.Stichera06.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticBoth.poet = poets_en_US_dedes.IoannouMonachou
 meVE.SticBoth.mode = misc_en_US_dedes.Mode6
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = me.m02.d02_en_US_dedes.meVE.SticGlory.text
 
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode2
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode6
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode6
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.poet = poets_en_US_dedes.GermanouOiDeAnatoliou
 meVE.LityBoth.mode = misc_en_US_dedes.Mode2
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = me.m02.d02_en_US_dedes.meVE.LityBoth.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
@@ -134,7 +134,7 @@ meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 //http://ec-patr.org/gr/typikon/2013/2013-02-06.htm
@@ -142,15 +142,15 @@ meVE.AposGlory.text = ""
 //Added poet
 meVE.AposBoth.poet = poets_en_US_dedes.AndreouKritis
 meVE.AposBoth.mode = misc_en_US_dedes.Mode4
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = me.m02.d02_en_US_dedes.meVE.Lity8.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Resembling the Apostles in way of life, O Photios, the teacher of the universe, intercede with the Master of all, to grant peace to the whole world, and great mercy to our souls."
 
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion2.melody  = ""
+meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.text = me.m02.d02_en_US_dedes.meVE.Apolytikion1.text
 
 //http://ec-patr.org/gr/typikon/2013/2013-02-06.htm
@@ -180,18 +180,18 @@ meMA.Kathisma32.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma32.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
 meMA.Kathisma32.text = me.m02.d02_en_US_dedes.meMA.Kathisma31.text
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 // From Nov13.pdf saved from 2009
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelHierarch.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "Grace was poured upon your lips, O devout father, and you became a shepherd of the Church of Christ, teaching the reasonable sheep to believe in the Trinity, coessential, in one Divinity."
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -315,7 +315,7 @@ meMA.Oikos16.text = "Rejoice, for you dwell with God's holy Martyrs. Rejoice, fo
 meMA.Oikos17.text = "Rejoice, through you deposed are the impious. Rejoice, through you the faithful are established."
 meMA.Oikos18.text = "Rejoice, all-honored Photios."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -407,12 +407,12 @@ meMA.Lauds4.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Lauds4.text = "The Luciferian pontiff became severely puffed up * and set his throne unjustly * above the stars in heaven. * You, O holy Photios, were the first * who, like Michael, cried out with zeal: * \"Let us stand well! Let us all stand in the divine * traditions of the holy Fathers!\""
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Wherever your name is invoked, O namesake of light, the power of the devil is driven away. For he cannot bear to stand in your light, the fallen Lucifer that he is. We therefore beg you to extinguish the fiery arrows that he shoots against us, and by your mediation to deliver us from the scandals he sets, O praiseworthy Hierarch Photios."
 
 meMA.LaudsBoth.poet = poets_en_US_dedes.Germanou
 meMA.LaudsBoth.mode = misc_en_US_dedes.Mode6
-meMA.LaudsBoth.melody  = ""
+meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = me.m02.d02_en_US_dedes.meMA.LaudsGlory.text
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -424,7 +424,7 @@ meLI.Antiphon2.text = me.m02.d02_en_US_dedes.meLI.Antiphon2.text
 meLI.EntranceHymn.text = me.m02.d02_en_US_dedes.meLI.Antiphon2.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
 meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text

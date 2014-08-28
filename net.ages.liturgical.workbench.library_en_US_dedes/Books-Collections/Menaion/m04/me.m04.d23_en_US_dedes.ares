@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m04.d23_en_US_dedes
 
 meDate.text = "April 23" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Holy and Glorious Great Martyr George the Trophy-bearer" //full title of day
+meCommemoration.text = "Memory of the Holy and Glorious Great Martyr George the Trophy-bearer" // full title of day
 meShortCommemoration1.text = "St. George"
-meInsert1 = "the holy and glorious Great Martyr George the Trophy-bearer," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate," //for use in petitions and dismissal
+meInsert1 = "the holy and glorious Great Martyr George the Trophy-bearer," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the Holy and Glorious Great Martyr George the Trophy-bearer"
+meLE.commemoration1 = "The Holy and Great Martyr George the Victorious."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,7 +27,7 @@ meSV.Stichera3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meSV.Stichera3.text = "You offer cures in abundance to those who turn to you * for aid, O George thrice-blessed. You are the healer and helper * of the souls and bodies of those who run to your shelter with ardent faith. * Stupendous Martyr of Jesus, you are indeed * the adornment of the prize-winning saints."
 
 meSV.SticGlory.mode = misc_en_US_dedes.Mode1
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = meVE.Lity3.text
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -48,7 +48,7 @@ meSV.Aposticha3.text = "Martyr of Christ, I pray, * from all the grievous troubl
 
 meSV.AposGlory.poet = poets_en_US_dedes.Anatoliou
 meSV.AposGlory.mode = misc_en_US_dedes.Mode4
-meSV.AposGlory.melody  = ""
+meSV.AposGlory.melody = ""
 meSV.AposGlory.text = meVE.Lity5.text
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
@@ -75,45 +75,45 @@ meVE.Stichera06.mode = misc_en_US_dedes.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera06.text = "Do protect me on every side, * whether sailing upon the sea * or just walking down the street * or sleeping at night. * All-blessed George, when I stay awake * sustain me in vigilance. * And vouchsafe me through your prayers * to do only the will of God, * so that I who run * to your shelter might gain the absolution * of the sins I have committed * throughout my lifetime, on Judgment Day."
 
-meVE.Stichera5678.text = "" //for media bright week
+meVE.Stichera5678.text = "" // for media bright week
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "True to your name was the manner of your life, O George the Victorious. For taking up the cross of Christ on your shoulders, you tilled the earth parched by diabolical delusion. As you uprooted the thorny religion of the idols, you planted the vine of the Orthodox faith everywhere. Therefore you pour out healings for the faithful throughout the civilized world; and you have shown yourself to be a righteous husbandman of the Trinity. We beseech you: intercede for the peace of the world and the salvation of our souls."
 
 meVE.Lity1.poet = poets_en_US_dedes.Anatoliou
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = "The illustrious and valorous George, in his glorious contest, gladdens the angelic hosts on high. And exulting now with them, he is throwing a festive celebration on earth for the faithful; and as a servant of Christ, he has come to celebrate with us who have gathered here for him. Therefore let us worthily honor him, as he unceasingly intercedes with the God of all, that great mercy be granted unto us."
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode1
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = "You cultivated the higher things through valor in the contests; and you offered the fruits of your labors to Christ, O all-blessed Martyr George. Through faith you started longing, through hope you drove out fear, through love you obtained the heavens, O all-lauded one. Since you have intimate access to Him, with acceptable entreaties pray for peace and pardon of sins and great mercy for our souls."
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode1
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = "Soldier of the great King, rejoice, O George, and be glad. For you were pleasing to God. You disdained all things and found eternal life in heaven. Your body drives away every illness from people. For Christ himself, whom you so desired, glorifies you, O blessed one."
 
 meVE.Lity4.mode = misc_en_US_dedes.Mode4
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = "O fans of the martyrs, come let us present songful praise to Christ who is risen from the tomb. For today has the spiritual springtime opened to us, colored by the rational blossoms, namely the universal memory of George the wise Great Martyr. Reproducing his marks, we derive wellsprings of cures. Let us now entreat him t intercede unceasingly with Christ the Savior to grant peace to the world and great mercy to our souls."
 
 meVE.Lity5.poet = poets_en_US_dedes.Anatoliou
 meVE.Lity5.mode = misc_en_US_dedes.Mode4
-meVE.Lity5.melody  = ""
+meVE.Lity5.melody = ""
 meVE.Lity5.text = "All you nations, clap your hands; let us shout with joy to God our Savior. For He was lifted on a cross, and went down into a grave, and then plundered Hades and raised the dead with himself. And they cried out to Him: Alleluia, Alleluia, Alleluia to the resurrected Christ."
 
 meVE.Lity6.mode = misc_en_US_dedes.Mode4
-meVE.Lity6.melody  = ""
+meVE.Lity6.melody = ""
 meVE.Lity6.text = ""
 
 meVE.Lity7.mode = misc_en_US_dedes.Mode4
-meVE.Lity7.melody  = ""
+meVE.Lity7.melody = ""
 meVE.Lity7.text = ""
 
 meVE.LityGlory.poet = poets_en_US_dedes.IoannouMonachou
 meVE.LityGlory.mode = misc_en_US_dedes.Mode2
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = "Let your eyelids ascent to righteous things, said Solomon to mortals; and he foretold that he whose looks are gentle shall receive mercy from Christ God. Having readily heard these sayings, O great endurer George, you followed the teachings of the Master. When you were delivered over to the lawless you endured, disdaining the orgies of error as abominations. Your body, which you relinquished for the love of the Fashioner, was dismembered entirely. But it was Belial rather who was wholly put to shame and wounded, seeing you crowned and in full strength. Wherefore dwelling as you do in the courts of your Lord, together with the hosts on high, intercede with Christ, O prize-winning Saint, that our souls be saved."
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
@@ -134,11 +134,11 @@ meVE.Aposticha3.text = "You met the various instruments of torture * and the dre
 
 meVE.AposGlory.poet = poets_en_US_dedes.Stouditou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "O brethren, let us spiritually extol that veritable diamond of endurance, George the illustrious Martyr. He was set on fire for the sake of Christ and forged by perils. Tortures trained him. Multiple martyrdoms devastated his body, which by nature was subject to decay. For love's longing overcame nature, persuading the lover to cross over, by means of death, to the loved One, Christ our God and the Savior of our souls."
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "As the one renowned for setting captives free and for defending those in poverty, the physician of the sick and the champion of emperors, great and victorious Martyr George, intercede with Christ our God, beseeching Him to save our souls."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
@@ -153,13 +153,13 @@ meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
 meMA.Kathisma31.text = "You took care to till the seed of God's commandments and laws, * and you piously dispersed all of your wealth to the poor; * and in return you obtained the divine glory of Christ. * Therefore, you advanced to holy contests with faith, * O glorious Saint George, and you endured much pain, * and you shared the sufferings of the Savior * who is dispassionate, and also His resurrection, * and you partake of His uncreated rule, * and now you entreat Him on our behalf."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMaleMartyr.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
@@ -390,7 +390,7 @@ meMA.Kontakion1.text = "When you were tilled by God, you proved yourself clearly
 
 meMA.Oikos1.text = "Longing to be with Christ the King who had laid down His life for the life of the world, George the soldier, the Great, hastens to die for Him. With divine zeal in his heart, he presents himself voluntarily. Let us with faith therefore extol him, as our fervent protector, as a glorious servant of Christ, as one who clearly imitates his Master and entreats Him to provide forgiveness of trespasses unto all."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
@@ -542,11 +542,11 @@ meMA.Lauds4.mode = misc_en_US_dedes.Mode2
 meMA.Lauds4.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meMA.Lauds4.text = "Martyr who received the prize from Christ, * by your intercessions preserve us who are diversely distressed; * rescue us from every dire and painful circumstance; * drive away terrible and soul–destroying depression. * Earnestly beseech that grace and mercy come to us, * so that being saved by your prayers * we might all rejoicingly honor * the contests you won by faith, O Martyr George."
 
-meMA.Lauds5678.text = "" //for media in bright week
+meMA.Lauds5678.text = "" // for media in bright week
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Theofanous
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Spring is here: come, let us be merry. And Christ's resurrection has shone brightly: come, let us be joyous. The memory of the prize-winning Martyr has come upon us, gladdening the faithful. Therefore, come all who are fond of feasts, let us celebrate it mystically. For as a good soldier, he stood up manfully against the tyrants and put them utterly to shame, and thus emulated the Passion of Christ the Savior. He had no mercy on the clay vessel of his own body, but rather taking it naked he reforged and exchanged it by means of tortures. Unto him let us cry aloud: O victorious Martyr, earnestly entreat for the salvation of our souls."
 
 meMA.LaudsSundayVerse1.text = "The righteous shall flourish like a palm tree; he shall be multiplied like the cedar in Lebanon."
@@ -554,7 +554,7 @@ meMA.LaudsSundayVerse1.text = "The righteous shall flourish like a palm tree; he
 meMA.LaudsSundayVerse2.text = "Those planted in the house of the Lord shall blossom forth in the courts of our God."
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text

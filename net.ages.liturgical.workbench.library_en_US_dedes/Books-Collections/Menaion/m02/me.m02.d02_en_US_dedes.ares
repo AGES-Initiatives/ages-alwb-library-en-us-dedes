@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m02.d02_en_US_dedes
 
 meDate.text = "February 2" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "The Meeting of our Lord, God and Savior Jesus Christ." //full title of day
+meCommemoration.text = "The Meeting of our Lord, God and Savior Jesus Christ." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "The Meeting of our Lord, God and Savior Jesus Christ."
+meLE.commemoration1 = "The Meeting of our Lord Jesus Christ."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -29,7 +29,7 @@ meSV.Stichera3.text = ""
 
 meSV.SticGlory.poet = poets_en_US_dedes.AndreouKritis
 meSV.SticGlory.mode = misc_en_US_dedes.Mode4
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = meVE.Lity8.text
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -54,96 +54,96 @@ meSV.AposGlory.text = ""
 
 meVE.Stichera01.poet = poets_en_US_dedes.GermanouPatriarchou
 meVE.Stichera01.mode = misc_en_US_dedes.Mode1
-meVE.Stichera01.melody  = ""
+meVE.Stichera01.melody = ""
 meVE.Stichera01.text = "Tell us, Symeon. Who are you holding in your arms, in the temple rejoicing? Who are you speaking to and saying, \"Now I am set free, for I have seen my Savior. He is the One born of a Virgin; He is God, the Word of God, who became incarnate for us and saved humanity. Let us worship Him.\""
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode1
-meVE.Stichera02.melody  = ""
+meVE.Stichera02.melody = ""
 meVE.Stichera02.text = "Symeon, receive the One whom Moses saw in the dark cloud giving the Law on Sinai, and who now became an infant and is submitting to the Law. He is the One who spoke through the Law and who was spoken of by the Prophets; He became incarnate for us and saved humanity. Let us worship Him."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode1
-meVE.Stichera03.melody  = ""
+meVE.Stichera03.melody = ""
 meVE.Stichera03.text = "Let us also come; let us meet Christ with inspired song, and let us receive Him whose salvation was seen by Symeon. He is the One whom David proclaimed. He is the One who spoke in the Prophets; He became incarnate for us and spoke through the Law. Let us worship Him."
 
 meVE.SticGlory.poet = poets_en_US_dedes.IoannouMonachou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Let the gate of heaven open today. For the Father's beginningless Logos, having taken a beginning in time and not separated from His divinity, is willingly offered as a forty-day old infant, in the Temple of the Law, by His virgin Mother. And the Elder receives Him in his arms. \"Let me depart,\" cries the servant to the Master. \"For my eyes have seen Your salvation.\" O Lord, who came to the world to save the human race, glory to You!"
 
 meVE.Lity1.poet = poets_en_US_dedes.Anatoliou
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.poet = poets_en_US_dedes.IoannouMonachou
 meVE.Lity2.mode = misc_en_US_dedes.Mode1
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.poet = poets_en_US_dedes.AndreouPyrou
 meVE.Lity3.mode = misc_en_US_dedes.Mode2
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.Lity4.poet = poets_en_US_dedes.Germanou
 meVE.Lity4.mode = misc_en_US_dedes.Mode2
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = ""
 
 meVE.Lity5.poet = poets_en_US_dedes.GermanouOiDeIoannouMonachou
 meVE.Lity5.mode = misc_en_US_dedes.Mode2
-meVE.Lity5.melody  = ""
+meVE.Lity5.melody = ""
 meVE.Lity5.text = "The sacred Virgin presented her sacred Son in the sacred Temple to the sacred Priest. And Symeon opened his arms and received Him with great joy, and he cried aloud, \"Now You let me Your servant depart in peace, O Master, according to Your word, O Lord.\""
 
 meVE.Lity6.poet = poets_en_US_dedes.GermanouOiDeIoannouMonachou
 meVE.Lity6.mode = misc_en_US_dedes.Mode2
-meVE.Lity6.melody  = ""
+meVE.Lity6.melody = ""
 meVE.Lity6.text = ""
 
 meVE.Lity7.poet = poets_en_US_dedes.AnatoliouOiDeAndreouIerosolymitou
 meVE.Lity7.mode = misc_en_US_dedes.Mode2
-meVE.Lity7.melody  = ""
+meVE.Lity7.melody = ""
 meVE.Lity7.text = ""
 
 meVE.Lity8.poet = poets_en_US_dedes.AndreouKritis
 meVE.Lity8.mode = misc_en_US_dedes.Mode4
-meVE.Lity8.melody  = ""
+meVE.Lity8.melody = ""
 meVE.Lity8.text = ""
 
 meVE.LityGlory.poet = poets_en_US_dedes.AndreouKritis
 meVE.LityGlory.mode = misc_en_US_dedes.Mode5
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.poet = poets_en_US_dedes.GermanouOiDeAnatoliou
 meVE.LityBoth.mode = misc_en_US_dedes.Mode2
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = ""
 
 meVE.Aposticha1.poet = poets_en_US_dedes.KosmaMonachou
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode7
-meVE.Aposticha1.melody  = ""
+meVE.Aposticha1.melody = ""
 meVE.Aposticha1.text = "Decorate your bridal hall, O Zion, and welcome Christ the King. Greet Mary, the heavenly gate; for she became a cherubic throne. She holds the King of glory. The Virgin is the cloud of light, carrying her Son in the flesh, who is before the Morning. When Symeon took Him in his arms, he proclaimed to the people, that He is the Master of life and death, and the Savior of the world."
 
 meVE.ApostichaVerse2.text = "Master, now you are dismissing your servant in peace, according to your word; for my eyes have seen your salvation. "
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode7
-meVE.Aposticha2.melody  = ""
+meVE.Aposticha2.melody = ""
 meVE.Aposticha2.text = "Before the ages, Christ the Lord shone forth from the Father, and lately He came from a Virgin's womb. Of old He gave the Law on Mt. Sinai, and now He was obeying what the Law commanded. His Mother, who was a virgin, brought Him into the Temple and presented Him to Symeon the Priest, who was elderly and righteous, to whom it had been revealed that he would see the Messiah. When he took Him in his arms, Symeon greatly rejoiced and said, \"This child is God, He is coeternal with the Father, and He is the Redeemer of our souls.\""
 
 meVE.ApostichaVerse3.text = "A light for revelation to the Gentiles and for glory to your people Israel. "
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode7
-meVE.Aposticha3.melody  = ""
+meVE.Aposticha3.melody = ""
 meVE.Aposticha3.text = "The Lord who rides the chariot of cherubim and is praised in song by the seraphim became incarnate of Mary the Theotokos without conjugal union. He is the giver of the Law, and He fulfilled the order of the Law. His Mother carried Him in her arms and handed Him to the Priest. And he, as he was holding life, asked to be released from life, saying, \"Master, let me go now, to tell Adam that I have seen as an infant the immutable, pre-eternal God and Savior of the world.\""
 
 meVE.AposGlory.poet = poets_en_US_dedes.AndreouKritis
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "He who rides upon the Cherubim, and who is extolled by the Seraphim, and who now according to the law is brought to the holy Temple, He is enthroned in the embraces of the Elder; and He as God receives the gifts offered by Joseph, a pair of turtledoves, as a figure of the spotless Church and the new-chosen people of the Gentiles; and two young pigeons, since He is the author of both Old and New Covenants. Symeon received the fulfillment of what had been prophesied to him; and in blessing Mary the Virgin Theotokos, he revealed to her the symbols of the Passion of the Son she had borne; and from Him he requests to be released, saying: Master, now You are dismissing me, even as You promised me; for I have seen You, the pre-eternal Light and the Savior Lord, O Christ, of the people named after You."
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Lady full of grace, rejoice, O Virgin Theotokos, for Christ our God, the Sun of righteousness has risen from you and He illumined those in darkness. And you, righteous Elder, be glad in heart, receiving in your embraces the One who liberates our souls and bestows on us the Resurrection."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
@@ -158,23 +158,23 @@ meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
 meMA.Kathisma31.text = "Now the Ancient of Days becomes an infant for me. * And the most pure God now shares purification with me, * to show that truly He assumed my flesh from the Virgin. * And Symeon was led to know the mystery * and recognized as God the one he saw in the flesh. * And he embraced and kissed Him as life itself, * and he rejoiced as an elder and cried aloud, * Let me depart now, for I have seen You, * O Lord, the life of all things."
 
-meMA.Prokeimenon.text = "" //for media
-meMA.Gospel.name = "Luke." //""
-meMA.Gospel.chapverse = "2:25-32" //""
+meMA.Prokeimenon.text = "" // for media
+meMA.Gospel.name = "Luke." // ""
+meMA.Gospel.chapverse = "2:25-32" // ""
 // From saved eMatins file 2013
 meMA.Gospel.text = "At that time, there was a man in Jerusalem whose name was Simeon, and this man was righteous and devout, looking for the consolation of Israel, and the Holy Spirit was upon him. And it had been revealed to him by the Holy Spirit that he should not see death before he had seen the Lord's Christ. And inspired by the Spirit, he came into the temple. And when the parents brought in the child Jesus to do unto Him according to the custom of the law, he took Him up in his arms and blessed God and said, \"Now You dismiss Your servant in peace, O Master, according to your word; for my eyes have seen Your salvation, which You have prepared before the face of all peoples, a light unto revelation of the Gentiles, and glory of Your people Israel.\""
 
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.poet = poets_en_US_dedes.IoannouMonachou
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.SticGlory.text
 
 meMA.C1Poet = poets_en_US_dedes.KosmaMonachou
@@ -285,12 +285,12 @@ meMA.Ode6C13.melody = he.h.m3_en_US_dedes.EvoiseSoi.name
 meMA.Ode6C13.text = ""
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode1
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = "You sanctified the virginal womb by Your birth, O Lord, and blessed the hands of Symeon fittingly, O Christ God; and even now You came and saved us. Now, give peace to our Nation in time of war, and empower our Leaders, so loved by You, the only one who loves humanity."
 
 meMA.Oikos1.text = "To the Theotokos let us run, who desire to look upon her Son, being led to Symeon, and whom the angels in heaven above, scrutinizing in amazement aver, \"Wondrous paradoxes we now ponder, inconceivable! inexpressible! He, who fashioned Adam, is held as a babe. He, the uncontainable, is by the Elder embraced. He, the uncircumscript in the bosom of His Father, is willingly delimited by flesh, not divinity, the only one who loves humanity.\""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode3
@@ -387,7 +387,7 @@ meMA.Lauds3.text = "Never separated from the Father's bosom in divinity,* and in
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Germanou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "O Christ God, who on this day was well pleased to recline in the elder's hands, as on a chariot of cherubim, call us back who extol You, and deliver us from the tyranny of the passions, and save our souls."
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -421,7 +421,7 @@ meLI.Antiphon3Verse3.text = "I will remember you name from generation to generat
 meLI.EntranceHymn.text = "The Lord made know His salvation; He revealed His righteousness in the sight of the Gentiles."
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 
 meLI.TheotokosHymn.mode = misc_en_US_dedes.Mode3

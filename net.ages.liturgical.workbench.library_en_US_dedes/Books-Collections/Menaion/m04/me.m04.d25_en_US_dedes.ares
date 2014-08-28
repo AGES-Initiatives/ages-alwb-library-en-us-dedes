@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m04.d25_en_US_dedes
 
 meDate.text = "April 25" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of the Holy Apostle and Evangelist Mark." // full title of day
 meShortCommemoration1.text = "St. Mark"
-meInsert1 = "the holy and glorious Apostle and Evangelist Mark," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate, " //for use in petitions and dismissal
+meInsert1 = "the holy and glorious Apostle and Evangelist Mark," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate, " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Holy Apostle and Evangelist Mark."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -183,7 +183,7 @@ meMA.Kontakion1.text = "Receiving the grace of the Holy Spirit from on high, O A
 
 meMA.Oikos1.text = "You became the disciple of Peter, the Paramount Apostle, and along with him you preached Christ the Son of God, and you established on the rock of the truth those who were shaken by error. Establish me also on that rock, and guide the steps of my soul, so that delivered from the snares of the enemy and with nothing to impede me, I may glorify you. For you illumined everyone, O wise Evangelist Mark, as you preached the divine Gospel."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
@@ -261,7 +261,7 @@ meMA.Lauds3.mode = misc_en_US_dedes.Mode1
 meMA.Lauds3.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meMA.Lauds3.text = "O Mark, the Apostle of the Lord, * you were a devoted follower of Peter the most divine; * and when you had believed * his inspired teachings, * you illumined peoples by the Holy Spirit's grace, being wise in all, enlightening the minds * of Egyptians to believe in Christ, * and adorning * their city with piety."
 
-meMA.Lauds456.text = "" //for media when needed
+meMA.Lauds456.text = "" // for media when needed
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
 meMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
@@ -272,10 +272,10 @@ meMA.LaudsSundayVerse1.text = "Their proclamation went forth into all the earth,
 meMA.LaudsSundayVerse2.text = "The heavens declare the glory of God; the firmament shows the creation of His hands."
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.Alleluia.mode = misc_en_US_dedes.Mode1 //or 2
+meLI.Alleluia.mode = "misc_en_US_dedes.Mode1" // or 2
 
 meLI.AlleluiaVerse1.text = "The heavens shall confess Your wonders, O Lord."
 
