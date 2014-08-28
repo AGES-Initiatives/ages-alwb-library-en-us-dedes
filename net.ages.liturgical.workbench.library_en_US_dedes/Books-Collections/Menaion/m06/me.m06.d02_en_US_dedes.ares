@@ -1,12 +1,12 @@
 A_Resource_Whose_Name = me.m06.d02_en_US_dedes
 
 meDate.text = "June 2" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" // full title of day
+meCommemoration.text = "Memory of our Father among the Saints Nikephoros the Confessor, Archbishop of Constantinople." // full title of day
 meShortCommemoration1.text = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "Our Father among the Saints Nikephoros the Confessor, Archbishop of Constantinople."
 meLE.commemoration2 = ""
 meHO.number = ""
 meHO.rank = ""

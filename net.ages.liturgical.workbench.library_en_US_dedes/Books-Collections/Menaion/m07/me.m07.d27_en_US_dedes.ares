@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m07.d27_en_US_dedes
 
 meDate.text = "July 27"
-meCommemoration.text = "Memory of the Holy and Glorious Great Martyr and Healer Panteleimon" //full title of day
+meCommemoration.text = "Memory of the Holy and Glorious Great Martyr and Healer Panteleimon" // full title of day
 meShortCommemoration1.text = "St. Panteleimon"
-meInsert1 = "the holy and glorious Great Martyr and Healer Panteleimon," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "the holy and glorious Great Martyr and Healer Panteleimon," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the Holy and Glorious Great Martyr and Healer Panteleimon"
+meLE.commemoration1 = "The Holy Great Martyr Panteleimon."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,45 +28,45 @@ meVE.Stichera03.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Vyzantiou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Lity1.poet = poets_en_US_dedes.Vyzantiou
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.poet = poets_en_US_dedes.Anatoliou
 meVE.Lity2.mode = misc_en_US_dedes.Mode2
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.poet = poets_en_US_dedes.Anatoliou
 meVE.Lity3.mode = misc_en_US_dedes.Mode2
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.Lity4.poet = poets_en_US_dedes.Anatoliou
 meVE.Lity4.mode = misc_en_US_dedes.Mode2
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = ""
 
 meVE.Lity5.poet = poets_en_US_dedes.Germanou
 meVE.Lity5.mode = misc_en_US_dedes.Mode5
-meVE.Lity5.melody  = ""
+meVE.Lity5.melody = ""
 meVE.Lity5.text = ""
 
 meVE.LityGlory.poet = poets_en_US_dedes.Vyzantiou
 meVE.LityGlory.mode = misc_en_US_dedes.Mode5
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode5
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
@@ -87,15 +87,15 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Vyzantiou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m8.d2_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Holy Laurel-bearer and Physician Panteleimon, make intercession to our merciful God, that He grant our souls remission of offenses."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
@@ -122,18 +122,18 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
 meMA.Kathisma3T.text = "Spread your undefiled hands, O Virgin Mother, * and with them do shelter us who put our every hope in you * and cry aloud to your Son and Lord, * Bestow Your mercies upon all, O Christ our God."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMaleMartyr.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "Panteleimon, healer divine, beseech the merciful Christ to deliver me from passion and have mercy on me."
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
@@ -396,12 +396,12 @@ meMA.Ode6K.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6K.text = he.h.m4_en_US_dedes.EnToThlivesthaiMe.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode5
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = "Imitator you were of the merciful God. You received as a grace from Him the art of medicine. O Medallist and Martyr of Christ our God, by your prayers you can cure the diseases of our souls. Drive the scandals of age-old enemy away from those who cry unceasingly, \"Save us, O Lord.\""
 
 meMA.Oikos1.text = "O Christ-loving people, let us piously extol the memory of the Unmercenary, the contest of the Valiant one, the cures of the Faithful one, so that we may receive mercy, and especially those of us who, like me, have defiled our temples, for he provides remedies for body and soul. Therefore, brethren, let us earnestly endeavor to hold him fast in our hearts, for he delivers from error those who cry unceasingly, \"Save us, O Lord.\""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode2
@@ -559,19 +559,19 @@ meMA.Lauds3.mode = misc_en_US_dedes.Mode8
 meMA.Lauds3.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meMA.Lauds3.text = "Godly-minded Martyr, evenly you matched the beauty of soul * to your bodily comeliness, * and nobility of mind to your physical handsomeness. * And you astounded the people who observed * how you exhibited signs and miracles, * and how you had mature * understanding even in the bloom of youth, * and how you were radiant with faith and grace divine."
 
-meMA.LaudsSundayVerse1.text = ""//for media
+meMA.LaudsSundayVerse1.text = "" // for media
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Vyzantiou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
-meMA.LaudsGlory.melody  = misc_en_US_dedes.Idiomelon
+meMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 meMA.LaudsGlory.text = "Today, the memorial of the Trophy-bearer has dawned! Come, faithful, let us celebrate it spiritually, and let us crown him with songs. By the power of the Cross, he manfully defeated the invisible enemy. Being unafraid of the boundless torments of the tyrants, he rightly received the prize of his calling from above. Now and forever he rejoices with the angels. O Martyr of Christ, Panteleimon, healer of the sick and harbor in the storm, do not cease to intercede to our merciful God, that He grant salvation to our souls."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m4.d2_en_US_dedes.ocMA.AposTheotokion.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode7
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m08.d06_en_US_dedes.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

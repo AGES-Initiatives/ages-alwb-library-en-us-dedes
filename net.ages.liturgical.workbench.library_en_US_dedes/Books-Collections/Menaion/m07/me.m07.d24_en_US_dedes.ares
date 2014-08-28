@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m07.d24_en_US_dedes
 
 meDate.text = "July 24"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of the Holy Great Martyr Christina." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Holy Great Martyr Christina."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,11 +28,11 @@ meVE.Stichera03.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = ho.s23_en_US_dedes.hoCA.Troparion31.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode2
@@ -41,7 +41,7 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Georgiou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode2
@@ -185,7 +185,7 @@ meMA.Kontakion1.mode = misc_en_US_dedes.Mode4
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 meMA.Kontakion1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -272,23 +272,23 @@ meMA.ExapTheotokion.text = "The orders of the Bodiless * gaily honor your childb
 
 meMA.Lauds1.poet = poets_en_US_dedes.Vyzantiou
 meMA.Lauds1.mode = misc_en_US_dedes.Mode4
-meMA.Lauds1.melody  = ""
+meMA.Lauds1.melody = ""
 meMA.Lauds1.text = "O Christ, we glorify Your great compassion and goodness, which You have bestowed on us; for even women destroyed the error and madness of idolatry by the power of Your Cross, O Lover of humanity. They were not frightened by a tyrant; they trampled on the crafty one. They had the strength to follow You; they ran after You for the smell of Your ointments, and they intercede for our souls."
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode4
-meMA.Lauds2.melody  = ""
+meMA.Lauds2.melody = ""
 meMA.Lauds2.text = "Leaving her father's wealth, and desiring Christ sincerely, the Martyr found heavenly glory and riches; and protected by the full armor of grace, she trampled the tyrant by the power of the Cross. Angels admired her struggles, saying \"The enemy has fallen, defeated by a woman; the Martyr is proven a crowned victor, and Christ reigns to the ages as God, who grants His great mercy to the world.\""
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode4
-meMA.Lauds3.melody  = ""
+meMA.Lauds3.melody = ""
 meMA.Lauds3.text = "The power of Your Cross has worked wonders, O Christ; for Christina, the Martyr, has undergone her athletic contest. She threw aside the weakness of her nature and bravely confronted the tyrants. Therefore, she received the trophies of victory, and she intercedes for our souls."
 
 meMA.Lauds4.mode = misc_en_US_dedes.Mode4
-meMA.Lauds4.melody  = ""
+meMA.Lauds4.melody = ""
 meMA.Lauds4.text = "Clutching a Cross as a powerful weapon, O Martyr Christina, and with faith as a breastplate, hope as a shield, and love as a bow, you manfully overcame the tortures of the tyrants. Inspired by God, you destroyed the demons' trickery; and your head being severed, you now celebrate in Christ, and you unceasingly intercede for our souls."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsSundayVerse1.text = "I waited patiently for the Lord, and He heeded me."
@@ -296,7 +296,7 @@ meMA.LaudsSundayVerse1.text = "I waited patiently for the Lord, and He heeded me
 meMA.LaudsSundayVerse2.text = "And He established my feet on a rock and kept straight my steps."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meMA.LaudsStavrotheotokion.mode = misc_en_US_dedes.Mode5
@@ -305,11 +305,11 @@ meMA.LaudsStavrotheotokion.text = ""
 
 meMA.AposGlory.poet = poets_en_US_dedes.Kyprianou
 meMA.AposGlory.mode = misc_en_US_dedes.Mode1
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode1
-meMA.AposTheotokion.melody  = ""
+meMA.AposTheotokion.melody = ""
 meMA.AposTheotokion.text = ""
 
 meMA.AposStavrotheotokion.mode = misc_en_US_dedes.Mode1
@@ -317,7 +317,7 @@ meMA.AposStavrotheotokion.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meMA.AposStavrotheotokion.text = ""
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meMegalynarion.text = ""

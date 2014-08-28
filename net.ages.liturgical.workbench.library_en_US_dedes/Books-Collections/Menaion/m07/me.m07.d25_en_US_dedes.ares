@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m07.d25_en_US_dedes
 
 meDate.text = "July 25"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of the Repose of Saint Anne, the Mother of the Most Holy Theotokos." // full title of day
 meShortCommemoration1.text = "St. Anne"
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate, " //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate, " // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Repose of Saint Anna, Mother of the Theotokos."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,27 +40,27 @@ meVE.Stichera06.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode8
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode2
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode2
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.Lity4.mode = misc_en_US_dedes.Mode4
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode5
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
@@ -80,7 +80,7 @@ meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
@@ -207,7 +207,7 @@ meMA.Kontakion1.text = "Today we observe the memory of Christ's forebears, * and
 
 meMA.Oikos1.text = "Let us all prophetically come together to worthily extol the all-holy passing of Christ's grandmother. For today she passed from this temporal life and joyfully made her way into heaven, where she greatly rejoices. As the true mother of the true Theotokos, she cries out with faith: \"My soul magnifies the Lord, for I gave birth to His Mother on earth.\" May He be with us, He who glorified them as He was pleased to do."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -291,10 +291,10 @@ meMA.Lauds3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Lauds3.text = "To immaterial choirs, to where the Just reside, * wherein angelic orders and the saints all assemble, * are taken the spirits of Joachim * and of Anna the righteous pair, * where there is joy of those keeping a sacred feast. * Let us sing their praise and call them blest."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Come, all you fans of virginity and lovers of chastity. Come, let us celebrate the venerable Dormition of Saint Anna. She is the one who marvelously gave birth to the fountain of life, to Mary, the child of God, from whom the Redeemer was born, He who illumines and sanctifies our souls."
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.LaudsSundayVerse1.text = "" // for media
 
 meLI.SeasonalKontakion.mode = meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = meMA.Kontakion1.melody

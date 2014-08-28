@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m07.d17_en_US_dedes
 
 meDate.text = "July 17"
-meCommemoration.text = "Memory of the Holy Great Martyr Marina" //full title of day
+meCommemoration.text = "Memory of the Holy Great Martyr Marina." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "holy Great Martyr Marina," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "holy Great Martyr Marina," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the Holy Great Martyr Marina"
+meLE.commemoration1 = "The Holy Great Martyr Marina."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,35 +27,35 @@ meVE.Stichera03.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meVE.Stichera03.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m2.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode1
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode2
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.Lity4.mode = misc_en_US_dedes.Mode4
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode5
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode5
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -75,7 +75,7 @@ meVE.Aposticha3.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
@@ -105,24 +105,24 @@ meMA.Kathisma2T.text = oc.m1.d1_en_US_dedes.ocMA.Kathisma13.text
 
 meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
-meMA.Kathisma31.text = "" //see Σύστημα Τυπικοῦ
+meMA.Kathisma31.text = "" // see Σύστημα Τυπικοῦ
 
 meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 meMA.Kathisma3T.text = ""
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ""
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ""
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = me.m07.d17_en_US_dedes.meVE.Lity3.text
 
 meMA.C1Acrostic.text = ""
@@ -162,22 +162,22 @@ meMA.Ode1C21.text = ""
 
 meMA.Ode1C22.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C22.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C22.melody  = ""
+meMA.Ode1C22.melody = ""
 meMA.Ode1C22.text = ""
 
 meMA.Ode1C23.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C23.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C23.melody  = ""
+meMA.Ode1C23.melody = ""
 meMA.Ode1C23.text = ""
 
 meMA.Ode1C24.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C24.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C24.melody  = ""
+meMA.Ode1C24.melody = ""
 meMA.Ode1C24.text = ""
 
 meMA.Ode1C2T.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C2T.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C2T.melody  = ""
+meMA.Ode1C2T.melody = ""
 meMA.Ode1C2T.text = ""
 
 meMA.Ode1K.ode = misc_en_US_dedes.Ode1
@@ -424,7 +424,7 @@ meMA.Kontakion1.text = "Virgin maid, the beautiful signs of virginity adorned yo
 
 meMA.Oikos1.text = "From infancy you were consumed with wholehearted love for Christ the Bridegroom, O virtuous maiden. So you ran to Him, like a thirsty gazelle to ever-flowing springs, and you preserved your-self in the contest, and as a glorious bride you reached the truly eternal chamber of your Creator, decorated, adorned, crowned, glowing as a torch-bearing victor; and you were given the award, as if a gold medal, as a winner in the martyric games."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -612,18 +612,18 @@ meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meMA.Lauds3.text = "To the Bridegroom you brought a gift * that was precious, O glorious * virgin Martyr, namely a people sanctified, * which had believed through your miracles; * by faith you performed them all, * and you proved to be above * every torture and punishment, even scorching fire. * You succeeded in doing this in Christ who being God from heaven gave you, * O Saint Marina, the victory."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "You escaped the plan of your parents, and You traveled the way of martyrdom, O Marina, all-venerable maiden. As a wise virgin, your lamp was burning bright and you entered the courts of your Lord. As a brave martyr, you received the grace to drive away every illness from people. We now pray that you will free us, who extol you, from pain and sickness of soul, by your entreaties to God."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode6
 meMA.LaudsTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
 meMA.LaudsTheotokion.text = he.o_en_US_dedes.TheotokeSyEiAthliforou.text
 
-meMA.LaudsSundayVerse1.text = "" 
-meMA.LaudsSundayVerse2.text = "" //for media on Sunday of HF
+meMA.LaudsSundayVerse1.text = ""
+meMA.LaudsSundayVerse2.text = "" // for media on Sunday of HF
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text

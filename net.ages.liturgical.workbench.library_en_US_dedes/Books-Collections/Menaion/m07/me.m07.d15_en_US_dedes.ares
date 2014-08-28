@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m07.d15_en_US_dedes
 
 meDate.text = "July 15"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of the Holy Martyrs Kerykos and his Mother Julitta." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Holy Martyrs Kyrikos and Julitta."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,7 +27,7 @@ meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera03.text = "Saint Julitta most admirable, * you experienced manifold * tortures and you manfully endured all the pain. * And then by witnessing as your son was murdered before your eyes, * your own martyrdom became * doubly painful, all-blessed one. * Therefore Christ our God, * as the judge of the contests, who all-mightily gives vict'ry to the athletes, * gave you a double reward and crown."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Everyone, come and see a strange and extraordinary sight. Who has ever seen a three-year-old boy put a tyrant to shame? How marvelous! He was nursing from his mother, and as he suckled he said to her, \"Don't be frightened, my mother; don't be frightened by the threats of the ruler of this world. For Christ is the hope of those who believe in Him.\""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
@@ -39,26 +39,26 @@ meVE.SticStavrotheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meVE.SticStavrotheotokion.text = ""
 
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.poet = poets_en_US_dedes.Vyzantiou
 meVE.Lity2.mode = misc_en_US_dedes.Mode2
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.poet = poets_en_US_dedes.Mavroleontos
 meVE.Lity3.mode = misc_en_US_dedes.Mode2
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.LityGlory.poet = poets_en_US_dedes.Mavroleontos
 meVE.LityGlory.mode = misc_en_US_dedes.Mode2
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode2
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
@@ -78,11 +78,11 @@ meVE.Aposticha3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode8
@@ -250,7 +250,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -349,15 +349,15 @@ meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Anatoliou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m4.d2_en_US_dedes.ocMA.AposTheotokion.text
 
 meMA.LaudsStavrotheotokion.mode = misc_en_US_dedes.Mode4
-meMA.LaudsStavrotheotokion.melody  = ""
+meMA.LaudsStavrotheotokion.melody = ""
 meMA.LaudsStavrotheotokion.text = ""
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -365,7 +365,7 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode4

@@ -1,14 +1,14 @@
 A_Resource_Whose_Name = me.m06.d14_en_US_dedes
 
 meDate.text = "June 14" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" // full title of day
-meCommemoration2.text = "" // full title of day
+meCommemoration.text = "Memory of the Holy Prophet Elisha; and our Father among the Saints Methodios the Confessor, Archbishop of Constantinople." // full title of day
+meCommemoration2.text = "Memory of our Father among the Saints Methodios the Confessor, Archbishop of Constantinople." // full title of day
 meShortCommemoration1.text = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
+meLE.commemoration1 = "The Holy Prophet Elissaios (Elisha)."
+meLE.commemoration2 = "Saint Methodios, Archbishop of Constantinople."
 meHO.number = ""
 meHO.rank = ""
 meHO.commemorations = ""
