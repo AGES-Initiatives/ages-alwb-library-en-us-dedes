@@ -1,15 +1,15 @@
-A_Resource_Whose_Name = me.m10.d23_en_US_dedes 
+A_Resource_Whose_Name = me.m10.d23_en_US_dedes
 
-meDate.text = "October 23" 
-meCommemoration.text = "Memory of the holy Hieromartyr and Apostle James, the Brother of God" //full title of day
+meDate.text = "October 23"
+meCommemoration.text = "Memory of the Holy Hieromartyr and Apostle James (Iakovos), the Brother of God." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "of the holy and glorious hieromartyr and Apostle James, the Brother of God," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "of the holy and glorious hieromartyr and Apostle James, the Brother of God," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the holy Hieromartyr and Apostle James, the Brother of God"
+meLE.commemoration1 = "The Holy Apostle Iakovos (James), the Brother of the Lord."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -26,10 +26,10 @@ meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.Stichera03.text = ""
 
-meVE.Stichera78910.text = "" //for media
+meVE.Stichera78910.text = "" // for media
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
@@ -53,7 +53,7 @@ meVE.Aposticha3.melody = he.a.m8_en_US_dedes.KyrieEiKaiKritirio.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
@@ -61,7 +61,7 @@ meVE.AposTheotokion.melody = he.a.m8_en_US_dedes.KyrieEiKaiKritirio.name
 meVE.AposTheotokion.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "As a disciple of the Lord, you accepted the Gospel, O James the Just. As a Martyr you have unchangeability; as the Brother of the Lord you have confidence; and you can intercede as a hierarch. Intercede with Christ our God, entreating Him to save our souls."
 
 // The Kathismata and Post Gospel Idiomelon, not found in the Menaion, are from Systema Typikou (in Greek) by Protopresbyter Ioannis Papayianis, published in 2006 by the Apostolike Diakonia of the Church of Greece.
@@ -90,17 +90,17 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode3
 meMA.Kathisma3T.melody = he.a.m3_en_US_dedes.TinOraiotita.name
 meMA.Kathisma3T.text = "At your Dormition, O Virgin immaculate, * Saint James the Brother of the Lord was also there, * together with the Savior Christ's other holy Disciples, * so that he might see again your pure body, the source of life, * and might also praise in song the ineffable mystery * of your divine and awe-inspiring childbirth. * As we honor it, we pray you save us."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelApostle.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "As you stand near the throne of Christ the Master, and having confidence towards Him because of your familial closeness, never cease entreating His goodness on our behalf, O James the Brother of God and preeminent kinsman of the Lord."
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
@@ -233,7 +233,7 @@ meMA.Kontakion1.text = "When God the Logos, as the only-begotten * of God the Fa
 
 meMA.Oikos1.text = "With hymns of praise we piously extol you, the son of Joseph and the first hierarch of Jerusalem, and we cry to you, O James the seer of God and Brother of the Lord: Give to us a perfect gift from the Father of lights, and drive away the coming and present tribulation brought on by our many sins; for the enemies have raised their heal against us, and Ishmaelites have surrounded us. Smash their arrows quickly, O Hierophant and Apostle, that we may honor your memory."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -327,11 +327,11 @@ meMA.Lauds3.text = "The sacred band of Apostles selected you to be * the first t
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Vyzantiou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode1
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Illumined by the fiery brightness of the divine Spirit, you were a godly zealot of true belief, O James the Brother of God. Therefore the Lord, who tenderly accepted you as a brother, vested you like Aaron of old, but with vestments more honorable than those belonging to the priesthood of the Law. O glorious Apostle, pray to Him, to save our souls."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode1
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m1.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -339,7 +339,7 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode1

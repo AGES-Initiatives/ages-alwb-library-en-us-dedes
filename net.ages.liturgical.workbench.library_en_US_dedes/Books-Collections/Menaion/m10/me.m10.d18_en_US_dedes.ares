@@ -1,15 +1,15 @@
-A_Resource_Whose_Name = me.m10.d18_en_US_dedes 
+A_Resource_Whose_Name = me.m10.d18_en_US_dedes
 
-meDate.text = "October 18" 
-meCommemoration.text = "Memory of the Holy Apostle and Evangelist Luke" //full title of day
+meDate.text = "October 18"
+meCommemoration.text = "Memory of the Holy Apostle and Evangelist Luke." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "of the holy and glorious Apostle and Evangelist Luke," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "of the holy and glorious Apostle and Evangelist Luke," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the Holy Apostle and Evangelist Luke"
+meLE.commemoration1 = "The Holy Apostle and Evangelist Luke."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -30,7 +30,7 @@ meVE.Stichera04.mode = misc_en_US_dedes.Mode8
 meVE.Stichera04.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
 meVE.Stichera04.text = "What shall we call you, O glorious one? * The securest store and treasure of celestial gifts of grace. * The experienced physician of our bodies and our souls, * who worked with and accompanied Apostle Paul, * and wrote down the Apostles' Acts for all to read. * Virtue procured many names for you, * O Luke, by which we now honor you. * So intercede, we entreat you, that our souls be saved."
 
-meVE.Stichera78910.text = "" //for media
+meVE.Stichera78910.text = "" // for media
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode8
 meVE.Stichera05.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
@@ -42,31 +42,31 @@ meVE.Stichera06.text = "How shall I address you, O wondrous Luke? * The unerring
 
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "O Apostle of Christ, you are the writer of divine doctrines, and a firm support of the Church. When you became a follower of Paul, that chosen vessel, you also imitated him. You saved the hearts, darkened by ignorance, that had fallen into the depths of perdition; for you pulled them up by your godly words, as if out of the stormy sea. Therefore we pray to you, O praiseworthy Luke, the pride and joy of the people of Antioch. Intercede with our Savior and God, for us who faithfully observe your ever-venerable memory."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.SticTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meVE.SticTheotokion.text = ""
 
-meVE.Lity1.mode  = misc_en_US_dedes.Mode2
-meVE.Lity1.melody  = misc_en_US_dedes.Idiomelon
+meVE.Lity1.mode = misc_en_US_dedes.Mode2
+meVE.Lity1.melody = misc_en_US_dedes.Idiomelon
 meVE.Lity1.text = "O Apostle Luke, you dismissed the world and followed Christ. You hid His teachings in the room of your heart and became an Apostle. Therefore you went among the nations, whose souls were darkened by error and the sinful passions; and with the Savior's commandments you enlightened them to believe in the consubstantial Trinity."
 
-meVE.Lity2.mode  = misc_en_US_dedes.Mode4
-meVE.Lity2.melody  = misc_en_US_dedes.Idiomelon
+meVE.Lity2.mode = misc_en_US_dedes.Mode4
+meVE.Lity2.melody = misc_en_US_dedes.Idiomelon
 meVE.Lity2.text = "You searched the depths of the noetic sea, and using the fishing rod of wisdom, you caught the souls of the believers out of that deathly deep, O all-blessed Luke. You became a disciple of Paul, and you purified your heart completely, by the Spirit's illumination. You enlightened the nations with your teachings, and by your miracles you cured the sick passions. And you continually pray for us to Christ our God, to save our souls."
 
-meVE.Lity3.mode  = misc_en_US_dedes.Mode8
-meVE.Lity3.melody  = misc_en_US_dedes.Idiomelon
+meVE.Lity3.mode = misc_en_US_dedes.Mode8
+meVE.Lity3.melody = misc_en_US_dedes.Idiomelon
 meVE.Lity3.text = "Come, all creation, and with songs let us extol the famous Saint Luke, who was truly a spiritual physician, and a disciple of the Savior. For he cured the sickness of godlessness with the salve of Christian baptism. He irrigated souls, like fields, with the Gospel that flowed from his mouth like divine rivers. And, as the Prophet said, his proclamation went forth into all the earth. And he intercedes for our salvation."
 
-meVE.LityGlory.mode  = misc_en_US_dedes.Mode8
-meVE.LityGlory.melody  = misc_en_US_dedes.Idiomelon
+meVE.LityGlory.mode = misc_en_US_dedes.Mode8
+meVE.LityGlory.melody = misc_en_US_dedes.Idiomelon
 meVE.LityGlory.text = "When you were filled with the Holy Spirit, and on fire with the brightness of the uncreated Trinity, like a brilliant star you illumined the entire earth, O Luke, as one who speaks the words of God. Armed with the Cross, you cured all diseases by word alone, healing the passions of the soul and every sickness of body. By his intercessions, O Christ our God, send down to us Your mercies, in Your love for humanity."
 
-meVE.LityBoth.mode  = misc_en_US_dedes.Mode8
-meVE.LityBoth.melody  = he.a.m8_en_US_dedes.OTouParadoxou.name
+meVE.LityBoth.mode = misc_en_US_dedes.Mode8
+meVE.LityBoth.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meVE.LityBoth.text = "Lady and Mother of God, rejoice! * Rejoice, the singular hope * and the help of humanity. * Shelter of the world, rejoice! * Golden lampstand of light, rejoice! * The decorated palace of God, rejoice! * Rejoice, the torch that is shining brilliantly! * O all-immaculate * jewel of virginity! Rejoice, the spring * gushing forth with cures to all who come to you with faith."
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
@@ -89,21 +89,21 @@ meVE.ApostichaVerse4.text = "Grace was poured out on Your lips."
 
 meVE.Aposticha4.poet = poets_en_US_dedes.Vasileiou
 meVE.Aposticha4.mode = misc_en_US_dedes.Mode4
-meVE.Aposticha4.melody  = ""
+meVE.Aposticha4.melody = ""
 meVE.Aposticha4.text = "Using the fishing rod of Wisdom, you plumbed the depth of the spiritual sea, and out of those deadly waters you caught the souls of those who believed, O all-blessed Luke. As a disciple of Paul, you purified your heart by the radiance of the Spirit, and you illumined the Gentiles by your teachings, and you cured diseases and passions by your miracles. You ever entreat Christ our God for us, that He save our souls."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "All-wise Fisherman, holy Disciple and laborer of the Savior, you publicized His sufferings, you traveled the world over for the Faith, and you gathered the Gentiles, who had been in error, and offered them to God as fine incense. And now you have made your way to heaven. As you stand near the Judge, intercede for us, that He free us from our iniquities, and that He deliver us from hell on Judgment Day."
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
 meVE.Apolytikion1.melody = he.ga_en_US_dedes.ApostoleAgie.name
 meVE.GeneralApolytikion1.name = "Luke,"
-meVE.Apolytikion1.text = "" //for media
+meVE.Apolytikion1.text = "" // for media
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode4
@@ -111,40 +111,40 @@ meVE.Apolytikion2.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 meVE.Apolytikion2.text = ""
 
 meVE.Apolytikion3.poet = ""
-meVE.Apolytikion3.mode  = ""
-meVE.Apolytikion3.melody  = ""
+meVE.Apolytikion3.mode = ""
+meVE.Apolytikion3.melody = ""
 meVE.Apolytikion3.text = ""
 
-meMA.Kathisma11.mode  = misc_en_US_dedes.Mode8
-meMA.Kathisma11.melody  = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Kathisma11.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma11.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma11.text = "You shine forth to the worthy the words of life * and the teachings that save, by your fiery tongue, * enriching believer's hearts, O Apostle inspired by God. * But from the unbelievers, the same words, like fireballs, * cut down the thorns of darkness, completely uprooting them. * Therefore by the whole world you are highly regarded, * for you, O Evangelist, wrote the Gospel of Jesus Christ, O all-holy and blessed Luke. * Intercede with Christ our God * that He grant forgiveness of offences * to those who with longing observe your holy memory."
 
-meMA.Kathisma12.mode  = misc_en_US_dedes.Mode8
-meMA.Kathisma12.melody  = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Kathisma12.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma12.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma12.text = "When the grace of the Spirit was richly poured * on your head, it made you a herald of peace. * O blessed one, being thus illumined by the light of grace, * you were counted worthy to write down in your own hand * the Gospel for the lovers of God, like Theophilus. * Wisely you recorded the divine holy secrets. * Your tongue thus became the pen of a swift-writing scribe, O Luke, * even as the Psalmist said. * Intercede with Christ our God * that He grant forgiveness of offences * to those who with longing observe your holy memory."
 
-meMA.Kathisma1T.mode  = me.m06.d29_en_US_dedes.meMA.Kathisma2T.mode
-meMA.Kathisma1T.melody  = me.m06.d29_en_US_dedes.meMA.Kathisma2T.melody
+meMA.Kathisma1T.mode = me.m06.d29_en_US_dedes.meMA.Kathisma2T.mode
+meMA.Kathisma1T.melody = me.m06.d29_en_US_dedes.meMA.Kathisma2T.melody
 meMA.Kathisma1T.text = me.m06.d29_en_US_dedes.meMA.Kathisma2T.text
 
-meMA.Kathisma21.mode  = misc_en_US_dedes.Mode4
-meMA.Kathisma21.melody  = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma21.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
 meMA.Kathisma21.text = "Is there any human tongue that can extol you as is right? * Surly not, except for that of the most wise Apostle Paul. * For he made mention of you in his Epistles, * calling you, O Luke, his fellow laborer * and beloved Physician, O Evangelist. * You were together with him in his struggles, * and you share the crowns with him as well. * And now with one voice, to you we cry out: * Pray to the Lord to save our souls."
 
-meMA.Kathisma2T.mode  = misc_en_US_dedes.Mode4
-meMA.Kathisma2T.melody  = misc_en_US_dedes.Automelon
+meMA.Kathisma2T.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma2T.melody = misc_en_US_dedes.Automelon
 meMA.Kathisma2T.text = he.a.m4_en_US_dedes.KateplagiIosif.text
 
-meMA.Kathisma31.mode  = misc_en_US_dedes.Mode8
-meMA.Kathisma31.melody  = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma31.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma31.text = "With the net of your sacred and godly words * O Apostle, you caught the rational fish. * You offered them to our God as the first-fruits, O blessed one. * And you taught and wrote down the Gospel of Jesus Christ, * and you authored the Acts of the Apostles for us to read. * Therefore bound by duty we assemble to honor * the feast of your memory, O Saint Luke the Evangelist, * and together we cry to you: * Intercede with Christ our God * that He grant forgiveness of offences * to those who with longing observe your holy memory."
 
-meMA.Kathisma32.mode  = misc_en_US_dedes.Mode8
-meMA.Kathisma32.melody  = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Kathisma32.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma32.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma32.text = "O Apostle, the Savior opened your mind * on the road, and directly you understood * the words that were God-inspired. * And when Christ had instructed you * in all heavenly wisdom, He made you an initiate * of grace divine, for He found your mind to be excellent. * Therefore He appointed you as principal herald, * to shine with His beautiful * rays of light, O Evangelist * all-admired Apostle Luke. * Intercede with Christ our God * that He grant forgiveness of offences * to those who with longing observe your holy memory."
 
-meMA.Kathisma3T.mode  = me.m12.d12_en_US_dedes.meMA.Kathisma3T.mode
-meMA.Kathisma3T.melody  = me.m12.d12_en_US_dedes.meMA.Kathisma3T.melody
+meMA.Kathisma3T.mode = me.m12.d12_en_US_dedes.meMA.Kathisma3T.mode
+meMA.Kathisma3T.melody = me.m12.d12_en_US_dedes.meMA.Kathisma3T.melody
 meMA.Kathisma3T.text = me.m12.d12_en_US_dedes.meMA.Kathisma3T.text
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
@@ -278,7 +278,7 @@ meMA.Kontakion1.text = "A disciple you became of the divine Word. And with Paul,
 
 meMA.Oikos1.text = "As a beloved physician and disciple, O Luke, with mystical surgery heal the passions of my soul and body alike, and grant me to enjoy complete health. May I joyously honor your solemn feast, and shower your holy and all-honored body with tears instead of perfume. For it is an engraved monument of life in the marvelous church of the Apostles, and it proclaims to all, as you did before when you wrote it, the Gospel of Christ our God."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -383,27 +383,27 @@ meMA.Lauds3.text = "O all-blessed Luke, using your words * like a hook, you drew
 
 meMA.Lauds4.poet = poets_en_US_dedes.LeontosMaistoros
 meMA.Lauds4.mode = misc_en_US_dedes.Mode8
-meMA.Lauds4.melody  = ""
+meMA.Lauds4.melody = ""
 meMA.Lauds4.text = ""
 
-meMA.Lauds5.mode  = misc_en_US_dedes.Mode1
-meMA.Lauds5.melody  = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds5.mode = misc_en_US_dedes.Mode1
+meMA.Lauds5.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Lauds5.text = "O congregations of Christians, come let us celebrate * this sacred feast, and cry out * psalms and hymns as we honor * Luke, the God-inspired disciple of Christ, * and extol him with godly songs. * For he is always entreating on our behalf, * and he prays the Lord to save our souls."
 
-meMA.Lauds6.mode  = misc_en_US_dedes.Mode1
-meMA.Lauds6.melody  = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds6.mode = misc_en_US_dedes.Mode1
+meMA.Lauds6.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Lauds6.text = "Glorious Luke, you were truly in the Apostles' choir, * as a physician, disciple, * and trustworthy eyewitness, * mystic of the myst'ries of God; and you led * all the earth to the light of God. * You were the travel companion of holy Paul. * Ever pray with him that we be saved."
 
-meMA.Lauds7.mode  = misc_en_US_dedes.Mode1
-meMA.Lauds7.melody  = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds7.mode = misc_en_US_dedes.Mode1
+meMA.Lauds7.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Lauds7.text = "Blessed Apostle, you stand now * within the Trinity's light. * Therefore as we observe now * your divine and all-holy * splendid feast, illumine our hearts with that light, * O inspired Evangelist. * And with your earnest entreaties on our behalf, * pray to God that He be merciful."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Let us the Faithful come together, and with songs let us cry out to Luke, that mystical preacher of the Word, using the words of David: \"Your tongue became the pen of Christ, the swift-writing scribe. It made the faces of the Gentiles beautiful, when they received divine knowledge. With your tongue you preached the Gospel. You wrote the Acts of your fellow Apostles. Now, as you stand in the presence of God the Trinity, intercede for our souls.\""
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -411,7 +411,7 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meLI.CommunionHymn.text = ""

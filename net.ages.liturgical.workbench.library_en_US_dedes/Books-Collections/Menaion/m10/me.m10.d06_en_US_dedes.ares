@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m10.d06_en_US_dedes
 
 meDate.text = "October 6"
-meCommemoration.text = "Memory of the Holy and Glorious Apostle Thomas" //full title of day
+meCommemoration.text = "Memory of the Holy and Glorious Apostle Thomas." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the Holy and Glorious Apostle Thomas"
+meLE.commemoration1 = "The Holy and Glorious Apostle Thomas."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,7 +27,7 @@ meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera03.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
@@ -52,7 +52,7 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
@@ -203,7 +203,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -288,20 +288,20 @@ meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "All-blameless Mother of our God, * you are the great resounding boast * of the Apostles and Martyrs, * of the Devout and the Prophets. * Propitiate your Son and Lord * that He be gracious unto us * your servants, O Theotokos, * when He will sit to pass judgment * on each of us as we merit."
 
 meMA.Lauds1.poet = poets_en_US_dedes.Anatoliou
-meMA.Lauds1.mode = misc_en_US_dedes.Mode1 //Menaion has Mode 2, but scores are in Mode 1
-meMA.Lauds1.melody  = ""
+meMA.Lauds1.mode = "misc_en_US_dedes.Mode1" // Menaion has Mode 2, but scores are in Mode 1
+meMA.Lauds1.melody = ""
 meMA.Lauds1.text = "You followed Christ, O Apostle Thomas, and you disregarded the world; you hid His teachings in your inner room, and you became an Apostle. Then you went among the Gentiles, whose souls were darkened by error and the sinful passions, and with the Savior's commandments you enlightened them, to believe in the consubstantial Trinity."
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode4
-meMA.Lauds2.melody  = ""
+meMA.Lauds2.melody = ""
 meMA.Lauds2.text = "Fully illumined by the divine fire of the knowledge of God, you imitated the Master in all things, as a lawful disciple, O Apostle Thomas. Using the fishing rod of the Cross, you pulled the souls of the pious out of the deep sea of ignorance. And with the fishing net of the Holy Spirit, you caught the minds of those in India that were in darkness. We pray you ever implore Christ God, also to deliver us from the bedarkened face of the enemy, and to save our souls."
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode4
-meMA.Lauds3.melody  = ""
+meMA.Lauds3.melody = ""
 meMA.Lauds3.text = "You abandoned fishing in the sea, and instead by faith you took up the fishing rod of the Cross, and you used it to catch everyone, O Apostle Thomas. Therefore you were counted worthy to touch the immaculate side of the Logos with your hand, and to examine with your finger the wounds of the nails that had pierced Him. We pray you ever earnestly intercede with Christ God to save our souls."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode6
@@ -313,7 +313,7 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meMegalynarion.text = ""

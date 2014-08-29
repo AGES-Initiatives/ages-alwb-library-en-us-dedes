@@ -1,15 +1,15 @@
-A_Resource_Whose_Name = me.m10.d25_en_US_dedes 
+A_Resource_Whose_Name = me.m10.d25_en_US_dedes
 
-meDate.text = "October 25" 
-meCommemoration.text = "Memory of the Holy Martyrs and Notaries Marcian, and Martyrius" //full title of day
+meDate.text = "October 25"
+meCommemoration.text = "Memory of the Holy Martyrs and Notaries Marcian and Martyrius." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the Holy Martyrs and Notaries Marcian, and Martyrius"
+meLE.commemoration1 = "The Holy Martyrs and Notaries Markianos and Martyrios."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,7 +28,7 @@ meVE.Stichera03.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Germanou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode1
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode1
@@ -40,11 +40,11 @@ meVE.SticStavrotheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode3
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode3
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m3.d2_en_US_dedes.ocMA.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode3
@@ -196,7 +196,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -292,7 +292,7 @@ meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.text = "All-holy Virgin, we extol * you the true Theotokos, * who as such were pre-typified * by the Ark of the Covenant, holy table, and lamp-stand * and by the jar of manna * the mountain, palace, bed, and throne * of Christ the King of glory, and by the gate. * For us Christians you are holy protection * champion defender, guardian, * shelter and sure salvation."
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meMegalynarion.text = ""

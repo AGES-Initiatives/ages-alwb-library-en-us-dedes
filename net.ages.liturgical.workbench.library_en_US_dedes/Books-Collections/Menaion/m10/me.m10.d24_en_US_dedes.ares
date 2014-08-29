@@ -1,15 +1,15 @@
-A_Resource_Whose_Name = me.m10.d24_en_US_dedes 
+A_Resource_Whose_Name = me.m10.d24_en_US_dedes
 
-meDate.text = "October 24" 
-meCommemoration.text = "Memory of the holy Great Martyr Arethas and his Companions" //full title of day
+meDate.text = "October 24"
+meCommemoration.text = "Memory of the Holy Great Martyr Arethas and his Companions." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "of the holy Great Martyr Arethas and his companions," //for use in petitions and dismissal
-meInsert2 = "whose memory we observe;" //for use in petitions and dismissal
+meInsert1 = "of the holy Great Martyr Arethas and his companions," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the holy Great Martyr Arethas and his Companions"
+meLE.commemoration1 = "The Holy and Great Martyr Arethas and his Companions."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,7 +40,7 @@ meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
@@ -212,7 +212,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -308,7 +308,7 @@ meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "Conceiving supernaturally * without a husband, giving birth * to all creation's Creator, * you made our Forefather's nature, * which was corrupted, new again. * And hosts of Martyrs, strengthened by * your Son, contended, as they sang, * praising you, O Theotokos, * the first-fruit of our salvation."
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meMegalynarion.text = ""

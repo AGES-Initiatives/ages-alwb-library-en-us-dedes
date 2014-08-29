@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m10.d09_en_US_dedes
 
 meDate.text = "October 9"
-meCommemoration.text = "Memory of the holy Apostle James the son of Alphaeus" //full title of day
+meCommemoration.text = "Memory of the Holy Apostle James (Iakovos) the Son of Alphaeus." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the holy Apostle James the son of Alphaeus"
+meLE.commemoration1 = "The Holy Apostle Iakovos (James), the son of Alphaios."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,7 +40,7 @@ meVE.Stichera06.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Theofanous
 meVE.SticGlory.mode = misc_en_US_dedes.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
@@ -52,7 +52,7 @@ meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode5
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode5
@@ -312,7 +312,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode6
@@ -469,15 +469,15 @@ meMA.LaudsSundayVerse1.text = "Their proclamation went forth into all the earth,
 meMA.LaudsSundayVerse2.text = "The heavens declare the glory of God; the firmament shows the creation of His hands."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d5_en_US_dedes.ocVE.AposTheotokion.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meMegalynarion.text = ""
