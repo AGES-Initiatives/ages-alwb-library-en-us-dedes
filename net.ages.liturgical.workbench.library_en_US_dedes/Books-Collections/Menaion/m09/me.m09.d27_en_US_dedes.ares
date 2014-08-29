@@ -2,15 +2,15 @@
 A_Resource_Whose_Name = me.m09.d27_en_US_dedes
 
 meDate.text = "September 27"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of the Holy Martyr Kallistratos and those with him." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Holy Martyr Kallistratos."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -29,7 +29,7 @@ meVE.Stichera03.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Vyzantiou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
@@ -279,7 +279,7 @@ meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.text = "Master, no words are adequate * to make a fair description * of the abundance of the gifts * and the God-given graces, which You gave us in Your mercy. * When we had slipped and fallen, * You brought us back to better life, * assuming all my human nature, O Christ, * from the holy Virgin and Theotokos; * thus as our God most merciful * and Friend of man, You saved me."
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meMegalynarion.text = ""

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m09.d07_en_US_dedes
 
 meDate.text = "September 7"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Forefeast of the Nativity of the Most Holy Theotokos; and Memory of the Holy Martyr Sozon." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Holy Martyr Sozon."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -26,7 +26,7 @@ meVE.Stichera03.mode = misc_en_US_dedes.Mode1
 meVE.Stichera03.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meVE.Stichera03.text = misc_en_US_dedes.NA
 
-meVE.Stichera123Sunday.text = "" //for media
+meVE.Stichera123Sunday.text = "" // for media
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
@@ -41,7 +41,7 @@ meVE.Stichera06.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = misc_en_US_dedes.NA
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode8
@@ -62,7 +62,7 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Germanou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = misc_en_US_dedes.NA
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
@@ -305,7 +305,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -455,7 +455,7 @@ meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.text = "O all creation, leap for joy * and exult with rejoicing. * For from the Godly-minded Anne, * whose name means Grace, and from Joachim her most Godly husband * born is the all-pure Mary, * thereby exceeding all their hopes. * She is the Theotokos, whose blessed Fruit * has become salvation for all of mankind, * Christ our God, who ineffably * from her became incarnate."
 
-meMA.LaudsSundayVerse1.text = "" //for media
+meMA.LaudsSundayVerse1.text = "" // for media
 
 meMA.Aposticha1.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
@@ -470,7 +470,7 @@ meMA.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meMA.Aposticha3.text = "She who will be the Joy * of all the world, the Mother * of Christ my Lord and Savior, * is from a barren mother miraculously born today."
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode2
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meLI.SeasonalKontakion.mode = meMA.Kontakion1.mode

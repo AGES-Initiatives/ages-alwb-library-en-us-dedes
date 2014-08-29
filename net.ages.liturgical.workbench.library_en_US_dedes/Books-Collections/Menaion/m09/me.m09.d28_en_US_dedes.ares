@@ -2,15 +2,15 @@
 A_Resource_Whose_Name = me.m09.d28_en_US_dedes
 
 meDate.text = "September 28"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of our Devout Father Chariton the Confessor." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "our devout and God-bearing father Chariton the Confessor, " //for use in petitions and dismissal
-meInsert2 = "whose memory we observe," //for use in petitions and dismissal
+meInsert1 = "our devout and God-bearing father Chariton the Confessor, " // for use in petitions and dismissal
+meInsert2 = "whose memory we observe," // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "Our Venerable Father Chariton the Confessor."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -29,7 +29,7 @@ meVE.Stichera03.text = misc_en_US_dedes.NA
 
 meVE.SticGlory.poet = poets_en_US_dedes.IoannouMonachou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = misc_en_US_dedes.NA
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
@@ -41,7 +41,7 @@ meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "We the multitudes of monastics honor you, devout Chariton, as our teacher and guide. For through you we have learned to walk the truly straight and narrow path. Blessed are you, who served Christ and triumphed over the power of the enemy. As you consort now with the Angels and dwell with the Devout and Righteous, pray with them to the Lord, that He have mercy on our souls."
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
@@ -52,8 +52,8 @@ meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meVE.AposStavrotheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meVE.AposStavrotheotokion.text = ""
 
-meVE.GeneralApolytikion1.name = "Chariton our devout father." 
-meVE.GeneralApolytikion1.text = "" //for media
+meVE.GeneralApolytikion1.name = "Chariton our devout father."
+meVE.GeneralApolytikion1.text = "" // for media
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
@@ -202,7 +202,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -299,7 +299,7 @@ meMA.LaudsSundayVerse1.text = "Precious in the sight of the Lord is the death of
 meMA.LaudsSundayVerse2.text = "Blessed is the man who fears the Lord; he will delight exceedingly in His commandments."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Devout Father, the proclamation of your achievements went forth into all the earth. For your labors you found the reward in heaven. You destroyed the arrays of demons, and you attained to the orders of the Angels, whose lifestyle you emulated blamelessly. Since you have confidence before the Lord, ask Him to grant peace to our souls."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode6
@@ -307,7 +307,7 @@ meMA.LaudsTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meMA.LaudsTheotokion.text = ""
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode6
