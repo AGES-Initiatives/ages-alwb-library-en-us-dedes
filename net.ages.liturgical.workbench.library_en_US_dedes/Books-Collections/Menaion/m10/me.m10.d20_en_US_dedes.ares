@@ -1,13 +1,13 @@
 A_Resource_Whose_Name = me.m10.d20_en_US_dedes 
 
 meDate.text = "October 20" 
-meCommemoration.text = "Memory of the Holy Great Martyr Artemios" //full title of day
+meCommemoration.text = "Memory of the Holy Great Martyr Artemios, Devout Matrona of Chios, and our Devout and God-bearing Father Gerasimos of Kefallinia." //full title of day
 meShortCommemoration1.text = ""
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the Holy Great Martyr Artemios"
-meLE.commemoration2 = ""
+meLE.commemoration1 = "The Holy Great Martyr Artemios. The Venerable Matrona of Chios."
+meLE.commemoration2 = "Our Venerable God-bearing Father Gerasimos of Kephallenia."
 meHO.number = ""
 meHO.rank  = ""
 meHO.commemorations = ""
