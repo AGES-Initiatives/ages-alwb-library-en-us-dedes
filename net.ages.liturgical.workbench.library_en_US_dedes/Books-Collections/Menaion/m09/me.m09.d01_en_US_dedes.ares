@@ -4,15 +4,15 @@ meHO.Month.text = ""
 meHO.DaysHours.text = ""
 
 meDate.text = "September 1"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Beginning of the Indiction, i.e. the New Year; and Memory of our Devout Father Symeon the Stylite and Archimandrite; and Synaxis of the Recovery of the Icon of the Most Holy Theotokos of Miasenae; and the Holy Martyr Aeithalas, and the Holy 40 Women and their Teacher Ammoun the Deacon; and the Holy Martyrs Kalliste her Brothers Evodos and Hermogenes; and Memory of Joshua Son of Nun; and Commemoration of the Big Fire." // full title of day
 meShortCommemoration1.text = "Indiction"
-meInsert1 = "our devout and God-bearing father Symeon the Stylite," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "our devout and God-bearing father Symeon the Stylite," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Beginning of the Indiction, that is, of the New Year."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -42,78 +42,78 @@ meVE.Stichera06.melody = he.a.m5_en_US_dedes.OsiePater.name
 meVE.Stichera06.text = ""
 
 meVE.Stichera07.mode = misc_en_US_dedes.Mode2
-meVE.Stichera07.melody  = misc_en_US_dedes.Idiomelon
+meVE.Stichera07.melody = misc_en_US_dedes.Idiomelon
 meVE.Stichera07.text = ""
 
 meVE.Stichera08.mode = misc_en_US_dedes.Mode2
-meVE.Stichera08.melody  = misc_en_US_dedes.Idiomelon
+meVE.Stichera08.melody = misc_en_US_dedes.Idiomelon
 meVE.Stichera08.text = ""
 
 meVE.Stichera09.poet = poets_en_US_dedes.Kyprianou
 meVE.Stichera09.mode = misc_en_US_dedes.Mode2
-meVE.Stichera09.melody  = misc_en_US_dedes.Idiomelon
+meVE.Stichera09.melody = misc_en_US_dedes.Idiomelon
 meVE.Stichera09.text = ""
 
 meVE.Stichera10.poet = poets_en_US_dedes.Germanou
 meVE.Stichera10.mode = misc_en_US_dedes.Mode2
-meVE.Stichera10.melody  = misc_en_US_dedes.Idiomelon
+meVE.Stichera10.melody = misc_en_US_dedes.Idiomelon
 meVE.Stichera10.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Germanou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = misc_en_US_dedes.Idiomelon
+meVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
 meVE.SticGlory.text = ""
 
 meVE.SticBoth.poet = poets_en_US_dedes.Vyzantiou
 meVE.SticBoth.mode = misc_en_US_dedes.Mode6
-meVE.SticBoth.melody  = misc_en_US_dedes.Idiomelon
+meVE.SticBoth.melody = misc_en_US_dedes.Idiomelon
 meVE.SticBoth.text = ""
 
 meVE.Aposticha1.poet = poets_en_US_dedes.IoannouMonachou
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
-meVE.Aposticha1.melody  = misc_en_US_dedes.Idiomelon
+meVE.Aposticha1.melody = misc_en_US_dedes.Idiomelon
 meVE.Aposticha1.text = ""
 
 meVE.ApostichaVerse2.text = "It is fitting to sing a hymn to You in Zion, O God, and a vow shall be rendered to You in Jerusalem."
 
 meVE.Aposticha2.poet = poets_en_US_dedes.IoannouMonachou
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode1
-meVE.Aposticha2.melody  = misc_en_US_dedes.Idiomelon
+meVE.Aposticha2.melody = misc_en_US_dedes.Idiomelon
 meVE.Aposticha2.text = ""
 
 meVE.ApostichaVerse3.text = ""
 
 meVE.Aposticha3.poet = poets_en_US_dedes.Kyprianou
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha3.melody  = misc_en_US_dedes.Idiomelon
+meVE.Aposticha3.melody = misc_en_US_dedes.Idiomelon
 meVE.Aposticha3.text = ""
 
 meVE.ApostichaVerse4.text = "Bless the crown of the year, O Lord, with Your goodness."
 
 meVE.Aposticha4.poet = poets_en_US_dedes.IoannouMonachou
 meVE.Aposticha4.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha4.melody  = misc_en_US_dedes.Idiomelon
+meVE.Aposticha4.melody = misc_en_US_dedes.Idiomelon
 meVE.Aposticha4.text = "You created all things with wisdom, O pre-eternal Logos of the Father, and You established the entire creation by Your all-powerful word. Bless the crown of the year with Your goodness, and suppress heresies, through the Theotokos, as You are good and love humanity."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode5
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposBoth.poet = poets_en_US_dedes.IoannouMonachou
 meVE.AposBoth.mode = misc_en_US_dedes.Mode5
-meVE.AposBoth.melody  = misc_en_US_dedes.Idiomelon
+meVE.AposBoth.melody = misc_en_US_dedes.Idiomelon
 meVE.AposBoth.text = "You, O King, the one who is and who remains for never-ending ages, accept the entreaties of sinners who pray for salvation; and give us mild weather, and grant the earth to produce good crops, since You love humanity. Be an ally of our faithful leaders, as You once were of David, against ungodly enemies; for they have invaded Your dwellings and defiled the Holy Land, O Savior. We pray You grant the victory, O Christ our God, at the intercession of the Theotokos; for You are the victory of the Orthodox, and our pride and joy."
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "O Fashioner of all creation, who made seasons and years by Your own authority, bless the crown of the year with Your goodness, O Lord, and preserve our rulers and Your city in peace, at the intercession of the Theotokos, and save us."
 
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion2.melody  = ""
+meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.text = "You became a pillar of patience, O devout one, emulating the forefathers, Job in his sufferings and Joseph in his temptations, and the manner of the bodiless, though you were still in body. O devout father Symeon, intercede with Christ God, to save our souls."
 
 meVE.Apolytikion3.mode = misc_en_US_dedes.Mode7
-meVE.Apolytikion3.melody  = ""
+meVE.Apolytikion3.melody = ""
 meVE.Apolytikion3.text = oc.m7.d1_en_US_dedes.ocMA.Kathisma23.text
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode8
@@ -140,17 +140,17 @@ meMA.Kathisma32.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma32.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
 meMA.Kathisma32.text = "We approach You now with faith, * for You are Master of all * and the Giver of good things, and we sincerely cry to You: * \"Since You are good, grant to us who faithfully honor * and glorify You, Lord, in Your two essences, * that we may offer You an acceptable * ecclesiastical year, O Savior. * For this be entreated * by Your compassion, and intercessions * of Your Mother and of all Your Saints.\""
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMonastic.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.Aposticha4.text
 
 meMA.C1Poet = poets_en_US_dedes.IoannouMonachou
@@ -538,7 +538,7 @@ meMA.Kontakion2.text = he.a.m2_en_US_dedes.TaAnoZiton.text
 
 meMA.Oikos2.text = "No human language is sufficient to tell of Symeon's blameless life or to praise it. Nevertheless, by God's wisdom I will extol this hero's contests and feats. He appeared on earth like a beacon for all people, and by his perseverance he shone mightily for the choir of Angels. With them, he unceasingly sings to the Lord, and he ceaselessly intercedes with Christ our God."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode1
@@ -774,35 +774,35 @@ meMA.ExapTheotokion.text = "Creator of creation all * and its Savior and Master,
 
 meMA.Lauds1.poet = poets_en_US_dedes.IoannouMonachou
 meMA.Lauds1.mode = misc_en_US_dedes.Mode3
-meMA.Lauds1.melody  = misc_en_US_dedes.Idiomelon
+meMA.Lauds1.melody = misc_en_US_dedes.Idiomelon
 meMA.Lauds1.text = "Pre-eternal Logos of the Father, who are in the form of God, and who brought creation from nonexistence into being, and who fixed seasons and times by Your own authority: we pray You bless the crown of this year with Your goodness, grant peace to Your Churches, victory to our faithful leaders, fruitfulness to the earth, and to us Your great mercy."
 
 meMA.Lauds2.poet = poets_en_US_dedes.IoannouMonachou
 meMA.Lauds2.mode = misc_en_US_dedes.Mode4
-meMA.Lauds2.melody  = misc_en_US_dedes.Idiomelon
+meMA.Lauds2.melody = misc_en_US_dedes.Idiomelon
 meMA.Lauds2.text = "Your kingdom, O Christ God, is a kingdom of all the ages, and Your dominion is from generation to generation. You made all things in wisdom, fixing both times and seasons. Therefore we thank You for all and in all, and we shout to You: Bless the crown of the year with Your goodness, and grant that without condemnation we may call out to You, \"Glory to You, O Lord!\""
 
 meMA.Lauds3.poet = poets_en_US_dedes.AndreouPyrou
 meMA.Lauds3.mode = misc_en_US_dedes.Mode4
-meMA.Lauds3.melody  = misc_en_US_dedes.Idiomelon
+meMA.Lauds3.melody = misc_en_US_dedes.Idiomelon
 meMA.Lauds3.text = "Your processionals, O God, Your processionals are great and wonderful. Therefore we magnify the power of Your dispensation; for You came, light from light, to Your weary world, and You took away the original curse on old Adam, as You, O Logos, were well pleased to do. Also, in wisdom You fixed times and seasons for us, that we might glorify Your omnificent goodness. Glory to You, O Lord!"
 
 meMA.Lauds4.poet = poets_en_US_dedes.Germanou
 meMA.Lauds4.mode = misc_en_US_dedes.Mode2
-meMA.Lauds4.melody  = misc_en_US_dedes.Idiomelon
+meMA.Lauds4.melody = misc_en_US_dedes.Idiomelon
 meMA.Lauds4.text = "When You had established the world by Your Passion, O Lord, then those who were weak were girded with strength, and Women fought like men against that malevolent tyrant. They reversed the defeat of mother Eve and again attained the Garden of Eden, to Your glory, O Christ, who were born of a woman and have saved the human race."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
-meMA.LaudsGlory.melody  = misc_en_US_dedes.Idiomelon
+meMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 meMA.LaudsGlory.text = "A good root produced a good fruit, namely Symeon, who was sacred from birth, nursed with grace more than with milk. He lifted his body on a boulder, and his mind to God even higher. With virtues he built a house in the sky, and floating along with the heavenly Hosts, he became a dwelling place of Christ, our God and the Savior of our souls."
 
 meMA.LaudsBoth.poet = poets_en_US_dedes.Germanou
 meMA.LaudsBoth.mode = misc_en_US_dedes.Mode4
-meMA.LaudsBoth.melody  = misc_en_US_dedes.Idiomelon
+meMA.LaudsBoth.melody = misc_en_US_dedes.Idiomelon
 meMA.LaudsBoth.text = "O Logos, Christ our God, who constituted the universe with wisdom ineffable, who appointed seasons and years, bless the works of Your hands; and make our faithful leader glad in You power, giving him might against foreign enemies, for You alone are good and love humanity."
 
-meMA.LaudsSundayVerse1.text = "" //for media
-meMA.LaudsSundayVerse2.text = "" //for media of Vespers Stichera used as Lauds
+meMA.LaudsSundayVerse1.text = "" // for media
+meMA.LaudsSundayVerse2.text = "" // for media of Vespers Stichera used as Lauds
 
 meLI.Antiphon2.text = ho.s07_en_US_dedes.hoLI.Antiphon2w.text
 
@@ -812,7 +812,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 meLI.SeasonalKontakion.text = "You, the Creator and the Lord of the ages, O God of all, truly transcending all essence, we earnestly entreat, that You will bless the year, and, O tender-loving Lord, in Your infinite mercy, only Master, save us all who worship and serve You, O our Redeemer, and who cry with fear, \"For all Your servants, make fruitful the coming year.\""
 
-meLI.CommunionHymn.text = "" //for media
+meLI.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
 
