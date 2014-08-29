@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m09.d26_en_US_dedes
 
 meDate.text = "September 26"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "The Translation of the Holy, Glorious and All-lauded Apostle and Theologian John the Evangelist." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "the holy, glorious and all-lauded Apostle and Theologian, John the Evangelist," //for use in petitions and dismissal
-meInsert2 = "whose translation we are celebrating," //for use in petitions and dismissal
+meInsert1 = "the holy, glorious and all-lauded Apostle and Theologian, John the Evangelist," // for use in petitions and dismissal
+meInsert2 = "whose translation we are celebrating," // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Repose of John the Theologian, the Glorious and Renowned Apostle and Evangelist."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,11 +27,11 @@ meSV.Stichera3.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = misc_en_US_dedes.Mode2
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = "O Theologian, Virgin, and beloved Disciple of the Savior, we pray that you will keep us safe from any harm, by your intercessions; for we are your flock."
 
 meSV.SticBoth.mode = misc_en_US_dedes.Mode2
-meSV.SticBoth.melody  = ""
+meSV.SticBoth.melody = ""
 meSV.SticBoth.text = ""
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode6
@@ -68,43 +68,43 @@ meVE.Stichera03.text = me.m05.d08_en_US_dedes.meVE.Stichera03.text
 
 meVE.SticGlory.poet = poets_en_US_dedes.GermanouOiDeVyzantiou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m05.d08_en_US_dedes.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m2.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Lity1.poet = poets_en_US_dedes.Germanou
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.poet = poets_en_US_dedes.AndreouPyrou
 meVE.Lity2.mode = misc_en_US_dedes.Mode1
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode1
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.Lity4.mode = misc_en_US_dedes.Mode1
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = ""
 
 meVE.Lity5.poet = poets_en_US_dedes.Theofanous
 meVE.Lity5.mode = misc_en_US_dedes.Mode2
-meVE.Lity5.melody  = ""
+meVE.Lity5.melody = ""
 meVE.Lity5.text = ""
 
 meVE.LityGlory.poet = poets_en_US_dedes.Vyzantiou
 meVE.LityGlory.mode = misc_en_US_dedes.Mode4
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode4
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
@@ -125,15 +125,15 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.IoannouMonachou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m05.d08_en_US_dedes.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m05.d08_en_US_dedes.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode8
@@ -160,17 +160,17 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = "O all-holy and virgin Mother of God, * cure the terrible passions afflicting my soul, * I earnestly pray to you, and to me grant forgiveness * for the many offences I have mindlessly committed, * thus defiling my body and soul, wretched that I am. * Oh! and how I shudder at the thought of that hour, * when Angels will separate my soul from my body. * Alas! What shall become of me? * Lady, hence I pray you will come * to my aid as an ardent patroness. * I your unworthy servant have you as my only hope."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelApostle.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meSV.SticGlory.text
 
 meMA.C1Acrostic.text = ""
@@ -513,12 +513,12 @@ meMA.Ode6K.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6K.text = he.h.m4_en_US_dedes.TinTheianTaftin.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = "Who can recount all your mighty deeds, O Virgin? You pour out miracles and you overflow with cures, and you intercede on behalf of our souls, as a Theologian and Friend of Christ."
 
 meMA.Oikos1.text = "Daring and incomprehensible it is to search out celestial heights, and the depths of the sea as well. So just as it is wholly impossible to number the stars and the sand on the shores, so no one is able to tell about the Theologian, so many are the crowns with which Christ has crowned His beloved. He leaned on His chest and ate with Him at the Mystical Supper, as a Theologian and Friend of Christ."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode2
@@ -740,11 +740,11 @@ meMA.Lauds4.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meMA.Lauds4.text = "You, O God-inspired Evangelist and son of thunder, rang forth * as you preached to the whole wide world * the good tidings of the Lord, * who is truly the source of good, * life everlasting, kingdom immovable, * and the ineffable joy and blessedness, * and the enjoyment of divine contemplation, and the gifts that Christ * richly gives and which surpass * all understanding and thought."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "O Evangelist John, peer of the Angles and Virgin, Theologian taught by God, you correctly proclaimed to the world the immaculate side, which spouted the blood and the water, whereby we obtain life eternal for our souls."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -758,7 +758,7 @@ meLI.AlleluiaVerse1.text = "The heavens shall confess Your wonders, O Lord, and 
 meLI.AlleluiaVerse2.text = "God is glorified in the counsel of saints; He is great and fearful toward all round about Him."
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meLI.CommunionHymn.text = da.d5_en_US_dedes.daLI.CommunionHymnAlt.text
