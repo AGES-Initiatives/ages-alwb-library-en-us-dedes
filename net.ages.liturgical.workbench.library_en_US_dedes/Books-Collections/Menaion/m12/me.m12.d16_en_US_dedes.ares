@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m12.d16_en_US_dedes
 
 meDate.text = "December 16" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Holy Prophet Haggai" // full title of day
+meCommemoration.text = "Memory of the Holy Prophet Haggai." // full title of day
 meShortCommemoration1.text = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the Holy Prophet Haggai"
+meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
