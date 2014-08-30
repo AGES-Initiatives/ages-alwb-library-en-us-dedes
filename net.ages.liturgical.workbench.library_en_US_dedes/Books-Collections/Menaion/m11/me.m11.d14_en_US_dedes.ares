@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d14_en_US_dedes
 
 meDate.text = "November 14"
-meCommemoration.text = "Memory of the holy, glorious and all-lauded Apostle Philip, our holy Father Gregory Palamas, and the holy Neomartyr Constantine of Hydra" //full title of day
+meCommemoration.text = "Memory of the Holy, Glorious and All-lauded Apostle Philip; our Holy Father Gregory Palamas; and the Holy Neomartyr Constantine of Hydra." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "the holy, glorious and all-lauded Apostle Philip," //for use in petitions and dismissal
-meInsert2 = "whose memory we observe;" //for use in petitions and dismissal
+meInsert1 = "the holy, glorious and all-lauded Apostle Philip," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the holy, glorious and all-lauded Apostle Philip, our holy Father Gregory Palamas, and the holy Neomartyr Constantine of Hydra"
+meLE.commemoration1 = "The Holy Apostle Philip."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,11 +28,11 @@ meVE.Stichera03.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Vyzantos
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode8
@@ -53,11 +53,11 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Vyzantiou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode2
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
@@ -206,7 +206,7 @@ meMA.Kontakion1.text = "Saint Philip, Your disciple and Your friend and imitator
 
 meMA.Oikos1.text = "Give me a river of speech, O Lord, who made the nature of water. Steady my heart, O Master, who established the earth by Your word. And illumine my mind, You who cover Yourself with light as with a garment, so that I may say chant what is fitting, and worthily extol your Disciple, O Lord abundantly merciful."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode6
@@ -303,11 +303,11 @@ meMA.Lauds3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Lauds3.text = "Having completed the contest of holy martyrdom * through your own crucifixion, * you have worthily woven * the victory garlands; and wearing them * you have entered the palace on high, * Apostle Philip; and now you sit next to Christ * interceding that He save us all."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Your cheeks were like bowls of sweet beverage in the world, O wise Apostle Philip. To the faithful they offered the life-giving drink. You had the active life as an entry to contemplation, and you became a follower of Christ. By your teachings, you adorned the barren and childless Church of the Gentiles, which in Christ has produced many offspring. Pray now for that Church to be delivered from distress and need. For you are able to do much, since you are near to God."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode2
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -318,14 +318,14 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 meLI.SeasonalKontakion.text = me.m11.d21_en_US_dedes.meMA.Kontakion1.text
 
-meLI.Alleluia.mode = misc_en_US_dedes.Mode1 //or 2
+meLI.Alleluia.mode = "misc_en_US_dedes.Mode1" // or 2
 
 meLI.AlleluiaVerse1.text = "The heavens shall confess Your wonders, O Lord."
 
 meLI.AlleluiaVerse2.text = "God is glorified in the counsel of saints."
 
-meLI.TheotokosHymn.mode  = ""
-meLI.TheotokosHymn.text  = ""
+meLI.TheotokosHymn.mode = ""
+meLI.TheotokosHymn.text = ""
 
 meLI.CommunionHymn.text = da.d5_en_US_dedes.daLI.CommunionHymnAlt.text
 

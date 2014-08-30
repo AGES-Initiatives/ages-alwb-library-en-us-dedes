@@ -1,16 +1,16 @@
 A_Resource_Whose_Name = me.m11.d07_en_US_dedes
 
 meDate.text = "November 7"
-meCommemoration.text = "Memory of the thirty-three holy Martyrs in Melitene, and
+meCommemoration.text = "Memory of the Thirty-Three holy Martyrs in Melitene; and Memory of our Devout Father Lazarus the Wonder-worker, who lived as an Ascetic on Mt. Galesion."
 Memory of our devout Father Lazarus the Wonderworker, who practiced asceticism on Mt. Galesion." //full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Thirty-Three Holy Martyrs of Melitene. Our Venerable Father Lazaros of Mount Galesion, the Wonder-worker."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,7 +40,7 @@ meVE.Stichera06.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode5
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode5
@@ -52,7 +52,7 @@ meVE.SticStavrotheotokion.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
@@ -69,7 +69,7 @@ meVE.Apolytikion1.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
 meVE.Apolytikion1.text = ""
 
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode8
-meVE.Apolytikion2.melody  = ""
+meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.text = "As you vigilantly prayed you drenched your pillar with rivers of your tears; and with your sighs from deep within, painstaking labors produced their fruits a hundredfold; and you became a pastor, giving forgiveness to all those who came to you, our devout father Lazarus. Intercede with Christ our God, entreating Him to save our souls."
 
 meMA.C1Poet = poets_en_US_dedes.IoannouMonachou
@@ -315,7 +315,7 @@ meMA.Oikos26.text = ""
 meMA.Oikos27.text = ""
 meMA.Oikos28.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode2
@@ -477,11 +477,11 @@ meMA.Lauds3.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
 meMA.Lauds3.text = "Sanctified even within his mother's belly, * devout father Lazarus became for Christ a pure * victim and priest. In the Spirit now he has invited * all the believers to come and celebrate * his memory. Clearly he emits a fragrant scent. * So all together let us run to him and get the blessing * that flows abundantly from his worshipful * and holy relics, as we glorify * and adore Christ our God who is marvelous * in His saints, as the Most High * who is resting in His holy ones."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode6
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = ""
 
 meMA.LaudsStavrotheotokion.mode = misc_en_US_dedes.Mode6
@@ -493,7 +493,7 @@ meMA.LaudsSundayVerse1.text = "Precious in the sight of the Lord is the death of
 meMA.LaudsSundayVerse2.text = "Blessed is the man who fears the Lord; he will delight exceedingly in His commandments."
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meMegalynarion.text = ""

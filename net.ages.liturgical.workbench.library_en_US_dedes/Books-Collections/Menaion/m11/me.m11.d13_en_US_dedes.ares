@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d13_en_US_dedes
 
 meDate.text = "November 13"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of our Father among the Saints John Chrysostom, Archbishop of Constantinople." // full title of day
 meShortCommemoration1.text = "St. John Chrysostom"
-meInsert1 = "our father among the saints John Chrysostom, Archbishop of Constantinople," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "our father among the saints John Chrysostom, Archbishop of Constantinople," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "Our Father among the Saints John Chrysostomos, Archbishop of Constantinople."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,11 +27,11 @@ meSV.Stichera3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = misc_en_US_dedes.Mode4
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = ""
 
 meSV.SticBoth.mode = misc_en_US_dedes.Mode4
-meSV.SticBoth.melody  = ""
+meSV.SticBoth.melody = ""
 meSV.SticBoth.text = oc.m4.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -71,47 +71,47 @@ meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera03.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Lity1.poet = poets_en_US_dedes.Anatoliou
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode1
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.poet = poets_en_US_dedes.Stouditou
 meVE.Lity3.mode = misc_en_US_dedes.Mode2
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.Lity4.poet = poets_en_US_dedes.GeorgiouNikomideias
 meVE.Lity4.mode = misc_en_US_dedes.Mode2
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = ""
 
 meVE.Lity5.mode = misc_en_US_dedes.Mode2
-meVE.Lity5.melody  = ""
+meVE.Lity5.melody = ""
 meVE.Lity5.text = ""
 
 meVE.Lity6.mode = misc_en_US_dedes.Mode4
-meVE.Lity6.melody  = ""
+meVE.Lity6.melody = ""
 meVE.Lity6.text = ""
 
 meVE.LityGlory.poet = poets_en_US_dedes.Germanou
 meVE.LityGlory.mode = misc_en_US_dedes.Mode4
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode4
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
@@ -131,15 +131,15 @@ meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "The grace that from your mouth shone forth like a torch illumined the universe. It deposited in the world the treasures of the absence of avarice. It showed us the height that is attained by humility. Now you instruct us by your words, Father John Chrysostom. Intercede with Christ God, the Word himself, entreating Him to save our souls."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode8
@@ -174,18 +174,18 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode5
 meMA.Kathisma3T.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
 meMA.Kathisma3T.text = "I implore you to show forth your promptness to provide * your protection and help and your mercy unto me, * O pure Maid, and calm the waves of unruly thoughts, * and resurrect the fallen soul of me your servant, I entreat, * O all-holy Theotokos. * I know, I know, O Virgin, * that you can do whatever you wish."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = "Today, Hierarchs everywhere exult in sprit, and all together we honor your memory, O righteous Hierarch Chrysostom, the Church's luminary."
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "Grace was poured upon your lips, O devout father, and you became a shepherd of the Church of Christ, teaching the reasonable sheep to believe in the Trinity, coessential, in one Divinity."
 
 meMA.C2Poet = poets_en_US_dedes.Theofanous
@@ -470,7 +470,7 @@ meMA.Kontakion1.text = "You received the grace of God coming down from heaven; n
 
 meMA.Oikos1.text = "To the Maker of all I bend the knee, to the Word pre-eternal I extend my hands, seeking the gift of speech, so that I may extol that devout man whom He magnified. He who lives forever once said to the Prophet: \"I glorify those who in faith glorify Me.\" And so, He who of old exalted Samuel has now glorified the Hierarch. For he invested well the talent he was entrusted, and he offers it now to the King; and for this the Transcendent One exalted him transcendently. That is why I, the unworthy, request that speech be given me, so that I may be able to extol him piously. For, elucidating things divine, he is the world's teacher and guide."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode8
@@ -657,11 +657,11 @@ meMA.Lauds4.text = "Father, you were driven from your flock unjustly and met wit
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Anatoliou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "You adorned God's Church with golden words and teachings inspired by God, and you amassed in her a spiritual treasure, namely your divine oracles. Therefore on the occasion of your sacred memory, she presents you a wreath, woven with songs like undying flowers, O divinely wise Saint John, solid gold both in soul and tongue. Since you pray with confidence, O Righteous Father, intercede on behalf of our souls."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text

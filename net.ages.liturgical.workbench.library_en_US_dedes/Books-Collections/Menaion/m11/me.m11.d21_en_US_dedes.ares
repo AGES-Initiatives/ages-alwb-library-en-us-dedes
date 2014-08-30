@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d21_en_US_dedes
 
 meDate.text = "November 21"
-meCommemoration.text = "The Entry of the Most Holy Theotokos into the Temple" //full title of day
+meCommemoration.text = "The Entry of the Most Holy Theotokos into the Temple" // full title of day
 meShortCommemoration1.text = "Entry of Theotokos"
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "whose Entry into the Temple we celebrate," //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "whose Entry into the Temple we celebrate," // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "The Entry of the Most Holy Theotokos into the Temple"
+meLE.commemoration1 = "The Entrance into the Temple of our All-holy Lady the Theotokos and Ever-Virgin Mary."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,7 +27,7 @@ meSV.Stichera3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = misc_en_US_dedes.Mode8
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = ""
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -62,7 +62,7 @@ meVE.Stichera03.mode = misc_en_US_dedes.Mode1
 meVE.Stichera03.melody = he.a.m1_en_US_dedes.OTouParadoxouThavmatos.name
 meVE.Stichera03.text = "You are she of whom the Prophets preached, * the Apostles' glory, and the martyrs' pride and joy. * Renewal are you of all us who were born on earth, * O Virgin Mother of God, for we have been reconciled to God through you. * And therefore we honor your procession into the Temple of God the Lord. * And together with the Angel, we cry out in psalms, Rejoice, * to you, all-holy Lady, * at whose intercession we are saved."
 
-meVE.Stichera78910.text = "" //for media
+meVE.Stichera78910.text = "" // for media
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
@@ -77,26 +77,26 @@ meVE.Stichera06.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera06.text = misc_en_US_dedes.NA
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode8
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "After you were born, O Lady Bride of God, you went to the Temple of the Lord to be raised in the Holy of Holies, as one who was sanctified. Then Gabriel was sent to you, the all-blameless one, and he brought you food. All beings in heaven were astounded, seeing the Holy Spirit dwelling in you. Therefore, O spotless and unstained Mother of God, glorified in heaven and on earth, ever keep us safe."
 
 meVE.Lity1.poet = poets_en_US_dedes.GeorgiouNikomideias
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.poet = poets_en_US_dedes.GeorgiouNikomideias
 meVE.Lity2.mode = misc_en_US_dedes.Mode4
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = "Today the Theotokos, the temple that contains God, is led into the Temple of God; and Zacharias welcomes her. Today the Holy of Holies is exultant, and the chorus of Angels mystically celebrates. Together with them let us also keep the feast today, and with Gabriel let us cry aloud: Rejoice, O Maiden full of grace, the Lord is with you; and He has the great mercy."
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode4
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.LityGlory.poet = poets_en_US_dedes.LeontosMaistoros
 meVE.LityGlory.mode = misc_en_US_dedes.Mode5
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = misc_en_US_dedes.NA
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
@@ -117,11 +117,11 @@ meVE.Aposticha3.text = misc_en_US_dedes.NA
 
 meVE.AposGlory.poet = poets_en_US_dedes.SergiouAgiopolitou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = misc_en_US_dedes.NA
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Today is the prelude of God's good pleasure, and the proclamation of humanity's salvation. In the temple of God, the Virgin is presented openly, and in herself she announces Christ to all. Let us, then, with a great voice cry aloud to her: \"Rejoice, you are the fulfillment of the Creator's dispensation.\""
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
@@ -136,18 +136,18 @@ meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma31.melody = he.a.m8_en_US_dedes.ToProstachthen.name
 meMA.Kathisma31.text = "Exult, O David, the composer of divine hymns; * and dance for joy, O Joachim along with Anna; * for from you has come forth a most holy offspring, * yes, Mary the divine lantern bearing the light. * And as she enters the Temple she does rejoice. * As he saw her, the priestly son of Barachiah blest her, * and full of joy he cried aloud, Rejoice, wonder of all the world."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = "Today the animate temple of the great King comes into the Temple, to prepare herself to become His divine dwelling. O peoples, be exultant."
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = meMA.PostGospelGlory.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode4
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.Lity2.text
 
 meMA.C1Poet = poets_en_US_dedes.KyriouGeorgiou
@@ -525,7 +525,7 @@ meMA.Kontakion1.text = "The Savior's most pure and immaculate temple, the very p
 
 meMA.Oikos1.text = "Seeing the grace of God's ineffable and divine mysteries evident and manifestly fulfilled in the Virgin, I rejoice; and I am at a loss to understand the ineffable and strange manner in which the immaculate Maid alone proved to be chosen above all creation visible and invisible. Therefore, wishing to extol her, I am greatly perplexed in mind and speech. Nevertheless I dare to do it, and I proclaim and magnify: A heavenly tabernacle is she."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
@@ -791,12 +791,12 @@ meMA.Lauds4.text = "Open the gate of the Temple that has received our God. * For
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.LeontosMaistoros
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Today the all-blameless Virgin is led to the Temple, to become the abode of God the King of all and Nourisher of our whole life. Today the most pure sanctuary is introduced into the Holy of Holies as a heifer three years old. Let us cry out to her as once did the Angel: Rejoice, only blessed among women."
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text 
+meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text 
+meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.Antiphon1Verse1.text = "Great is the Lord, and greatly to be praised in the city of our God, in His holy mountain."
 
