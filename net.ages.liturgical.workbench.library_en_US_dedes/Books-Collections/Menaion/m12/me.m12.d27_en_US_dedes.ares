@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m12.d27_en_US_dedes
 
 meDate.text = "December 27" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Holy Proto-martyr and Archdeacon Stephen, and of our Devout Father and Confessor Theodore the Inscribed, brother of Theophanes the Poet" //full title of day
+meCommemoration.text = "Memory of the Holy Proto-martyr and Archdeacon Stephen, and of our Devout Father and Confessor Theodore the Inscribed, brother of Theophanes the Hymnographer." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "and the holy Proto-martyr and Archdeacon Stephen," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate," //for use in petitions and dismissal
+meInsert1 = "and the holy Proto-martyr and Archdeacon Stephen," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the Holy Proto-martyr and Archdeacon Stephen, and of our Devout Father and Confessor Theodore the Inscribed, brother of Theophanes the Poet"
+meLE.commemoration1 = "The Holy Protomartyr Stephen the Archdeacon."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,7 +27,7 @@ meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera03.text = "Shining brightly with miracles, * signs, and wonders and teachings true, * you eclipsed the council that failed to keep the Law. And as they all executed you, and stoned you to death, O Saint, * you entreated on behalf * of your murderers, that the sin * not be charged to them. * Thus, O Stephen, you imitated Jesus and gave up your noble spirit * into the hands of the Savior Christ."
 
-meVE.Stichera8910.text = "" //for media
+meVE.Stichera8910.text = "" // for media
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
@@ -43,11 +43,11 @@ meVE.Stichera06.text = "Now in place of affliction, praise, * and enjoyment inst
 
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "To the King and Master of all, who was born on earth, Stephen is presented as a splendid crown that is decorated not with jewels but with his own blood. Come, you fans of the Martyrs, let us take up songs like pennants, and let us wave them above our heads; and as we sing our hymns, let us say to him: \"Your soul was adorned with wisdom and grace, O Proto-Martyr of Christ God. Pray for us, that we may receive peace and great mercy.\""
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode2
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = me.m12.d25_en_US_dedes.meVE.Aposticha1.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
@@ -68,19 +68,19 @@ meVE.Aposticha3.text = "Lord, You were born of the Virgin inside a humble cave. 
 
 meVE.AposGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "You are distinguished among Martyrs and Deacons as being the first, O blessed Stephen. You are the jewel of Athletes, the pride and joy of the faithful, and the glory of the Righteous. Pray for us who celebrate your solemn memorial, since you stand near the throne of Christ the King of all; and ask that we may receive forgiveness of sins, and be counted worthy of the Kingdom of Heaven."
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode6
-meVE.AposBoth.melody  = ""
-meVE.AposBoth.text = me.m12.d25_en_US_dedes.meVE.LityBoth.text 
+meVE.AposBoth.melody = ""
+meVE.AposBoth.text = me.m12.d25_en_US_dedes.meVE.LityBoth.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 meVE.Apolytikion1.text = "O Stephen, a crown of royalty was laid on your head * for contests you courageously endured for Christ our God, * as first among Martyr saints. * You stood in accusation of the raging Judeans; * and you saw your Savior at the right hand of the Father. * We pray that you will ever entreat Him to save our souls."
 
-meVE.GeneralApolytikion2.name = "Theodore," 
-meVE.GeneralApolytikion2.text = "" //for media 
+meVE.GeneralApolytikion2.name = "Theodore,"
+meVE.GeneralApolytikion2.text = "" // for media
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode3
@@ -332,7 +332,7 @@ meMA.Kontakion1.text = "Yesterday, the Master arrived through the flesh, and tod
 
 meMA.Oikos1.text = "Today, together with the Nativity of Christ, the Protomartyr Stephen has shone forth like a bright shining start, flashing and illuminating all the ends of the earth, except that he cast a shadow on the impiety of the Jews, when he reproved them with his words of wisdom. For he debated with them using the Scriptures, and tried to persuade them that Jesus who was born of the Virgin was indeed the Son of God. He exposed their impious crime. And we know him as the holy Protomartyr Stephen."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode5
@@ -515,7 +515,7 @@ meMA.LaudsBoth.text = "Incomprehensible is the mystery that is accomplished toda
 
 meMA.LaudsSundayVerse1.text = "Their proclamation went forth into all the earth, and their words to the ends of the world."
 
-meMA.LaudsSundayVerse2.text = "The heavens declare the glory of God; 
+meMA.LaudsSundayVerse2.text = "The heavens declare the glory of God;"
 the firmament shows the creation of His hands.
 "
 
@@ -523,13 +523,13 @@ meMA.Aposticha1.mode = misc_en_US_dedes.Mode1
 meMA.Aposticha1.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meMA.Aposticha1.text = ""
 
-meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text 
+meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text
 
 meMA.Aposticha2.mode = misc_en_US_dedes.Mode1
 meMA.Aposticha2.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meMA.Aposticha2.text = ""
 
-meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text 
+meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meMA.Aposticha3.mode = misc_en_US_dedes.Mode1
 meMA.Aposticha3.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
@@ -537,11 +537,11 @@ meMA.Aposticha3.text = ""
 
 meMA.AposGlory.poet = poets_en_US_dedes.Kyprianou
 meMA.AposGlory.mode = misc_en_US_dedes.Mode8
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposBoth.mode = misc_en_US_dedes.Mode8
-meMA.AposBoth.melody  = ""
+meMA.AposBoth.melody = ""
 meMA.AposBoth.text = me.m12.d26_en_US_dedes.meVE.Aposticha1.text
 
 meLI.Antiphon2.text = me.m12.d25_en_US_dedes.meLI.Antiphon2.text

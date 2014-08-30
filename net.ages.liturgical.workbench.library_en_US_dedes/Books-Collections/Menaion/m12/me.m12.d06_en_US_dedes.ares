@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m12.d06_en_US_dedes
 
 meDate.text = "December 6" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Father among the Saints Nicholas the Wonder-worker, Archbishop of Myra in Lycia" //full title of day
+meCommemoration.text = "Memory of our Father among the Saints Nicholas the Wonder-worker, Archbishop of Myra in Lycia" // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "our Father among the Saints Nicholas the Wonder-worker, Archbishop of Myra in Lycia, the Wonderworker," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "our Father among the Saints Nicholas the Wonder-worker, Archbishop of Myra in Lycia, the Wonderworker," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of our Father among the Saints Nicholas the Wonder-worker, Archbishop of Myra in Lycia"
+meLE.commemoration1 = "Our Father among the Saints Nicholas the Wonder-worker, Archbishop of Myra in Lykia"
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,7 +27,7 @@ meSV.Stichera3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = misc_en_US_dedes.Mode6
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = ""
 
 meSV.SticBoth.mode = misc_en_US_dedes.Mode6
@@ -38,13 +38,13 @@ meSV.Aposticha1.mode = misc_en_US_dedes.Mode6
 meSV.Aposticha1.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meSV.Aposticha1.text = ""
 
-meSV.ApostichaVerse2.text = meVE.ApostichaVerse2.text 
+meSV.ApostichaVerse2.text = meVE.ApostichaVerse2.text
 
 meSV.Aposticha2.mode = misc_en_US_dedes.Mode6
 meSV.Aposticha2.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meSV.Aposticha2.text = ""
 
-meSV.ApostichaVerse3.text = meVE.ApostichaVerse3.text 
+meSV.ApostichaVerse3.text = meVE.ApostichaVerse3.text
 
 meSV.Aposticha3.mode = misc_en_US_dedes.Mode6
 meSV.Aposticha3.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
@@ -83,51 +83,51 @@ meVE.Stichera07.melody = he.a.m2_en_US_dedes.PoioisEffimionStemmasin.name
 meVE.Stichera07.text = "What songs are there extolling prophesy * wherewith we might praise the holy Hierarch? * For he could foresee what lay far ahead * and would speak beforehand announcing it * clearly as if it were in the present. * Moreover he circulates the world continually * and rescues everyone suffering injustices. * Once from unjust execution * he delivered prisoners * by appearing during a dream * to the godly-minded king. * He has richly received the great mercy."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "The refinement of hierarchs and the glory of the Fathers, the fountain of miracles and the greatest helper of the faithful, let us feast-lovers come together and extol with songful praises, and say to him: Rejoice, O guard and divine bishop and immovable pillar of the people of Myra. Rejoice, all-resplendent luminary, that lights up the end of the world with miracles. Rejoice, for those in trouble you are divine joy, and most fervent protector of the injured. And now, O all-blessed Nicholas, cease not interceding with Christ our God, on behalf of those who with faith and longing ever honor your joyous and all-festive memory."
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode6
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = "Prepare yourself, O Grotto, for the Ewe is coming, carrying Christ in her womb. O Manger, receive Him who released us earthlings from irrational activity by His word. You shepherds watching by night, witness to the awesome wonder. And you Magi from Persia, offer gold and frankincense and myrrh to the King. For the Lord has appeared from a virgin Mother. And bending over Him, the Mother, as a servant, worshiped Him, and she addressed the Infant in her arms, \"How were You sown in me, and how were You implanted in me, O my Redeemer and my God?\""
 
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode1
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode2
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.Lity4.mode = misc_en_US_dedes.Mode2
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = ""
 
 meVE.Lity5.mode = misc_en_US_dedes.Mode2
-meVE.Lity5.melody  = ""
+meVE.Lity5.melody = ""
 meVE.Lity5.text = ""
 
 meVE.Lity6.mode = misc_en_US_dedes.Mode4
-meVE.Lity6.melody  = ""
+meVE.Lity6.melody = ""
 meVE.Lity6.text = ""
 
 meVE.Lity7.mode = misc_en_US_dedes.Mode6
-meVE.Lity7.melody  = ""
+meVE.Lity7.melody = ""
 meVE.Lity7.text = "Well done, good and faithful servant; well done, O laborer of the vineyard of Christ! You bore the burden of the day, and increased the talent that was given you, and did not envy those who came after you. Therefore the portal of heaven was opened to you. Enter into the joy of you Lord, and intercede on our behalf, O Saint Nicholas."
 
 meVE.Lity8.mode = misc_en_US_dedes.Mode8
-meVE.Lity8.melody  = ""
+meVE.Lity8.melody = ""
 meVE.Lity8.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode8
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode8
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
@@ -147,17 +147,17 @@ meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha3.text = "Rejoice, with divine zeal being filled * you extricated from abduction by treachery, * through your awesome intervention * and your appearing in dreams, * those who had unjustly been condemned to die. * A well are you, Nicholas, * that abundantly gushes forth * myrrh oils in Myra, * and that thoroughly waters souls, * and that drives away all the stench that the passions bring. * Saber eradicating tares * of error and heresy; * Winnowing shovel that threshes the chaffy doctrines of Arius. * To Christ pray intently, * holy Father, that He send down great mercy to our souls."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "O man of God and loyal servant and minister of the Lord, man of holy desires, chosen vessel, pillar and foundation of the Church of Christ, and inheritor of the Kingdom, be not silent in calling out to the Lord on our behalf."
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode6
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = "O unwedded Virgin, where are you from? Who is your father, and who is your mother? How is it that you carry the Creator in your arms? How was your womb not impaired? Great and extraordinary and awesome mysteries we see taking place in you on earth, O All-holy Maiden, and we prepare a worthy task for you; from the earth, the Grotto; and heaven we request to grant the Star. Magi are coming westward from the land of the East, to see the Salvation of mortals, nursing as an infant."
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = he.ga_en_US_dedes.KanonaPisteos.name
 meVE.GeneralApolytikion1.name = "Father holy hierarch Nicholas,"
-meVE.Apolytikion1.text = "" //for media
+meVE.Apolytikion1.text = "" // for media
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
 meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
@@ -183,18 +183,18 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 meMA.Kathisma3T.text = "Be swift to accept our fervent prayers, O Lady and Queen, * and take them, all-blameless Maiden, and present them for us * before your own Son and God. * Obliterate the scandals of the slanderous babblers, * frustrate the machinations and humble the boldness * of the godless, O Pure one, who against your servants have taken arms."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelHierarch.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.Lity7.text
 
 meMA.C1Acrostic.text = ""
@@ -522,7 +522,7 @@ meMA.Kontakion1.text = "You became the minister of sacred mysteries in Myra, * h
 
 meMA.Oikos1.text = "Let us now with songs extol the Hierarch, O people, that shepherd and teacher in Myra, so that by his intercession we may be illumined. Behold, he appeared completely pure, incorrupt in spirit, offering to Christ a blameless sacrifice, sincere, acceptable to God, as a priest purified in soul and body. Therefore he is truly the Church's protector and her champion, as a great mystic of the divine grace of God."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode1
@@ -733,32 +733,32 @@ meMA.Lauds4.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Lauds4.text = "As you appeared in a dream to the pious Emperor * and thus from death then rescued * those unjustly imprisoned, * intercede unceasingly so that now * we who worthily sing your praise * be from temptations and perils and every pain * likewise rescued, Father Nicholas."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Let us sound the trumpet with the clarion of song, and festively let us leap for joy, and exultantly let us join chorus for the annual celebration of the God-bearing Father. Let the kings and princes run to gather together, and with hymns extol him who by his fearsome appearance in a dream convinced the Emperor to release the three imprisoned officers, for they were innocent. O Shepherds and Teachers, let us come together and praise the Shepherd and zealous imitator of the Good Shepherd. Those of us who are sick let us praise the physician; our rescuer, we in perils; and sinners, our defender; you paupers, him who makes you rich; you in tribulation, your consolation; your fellow traveler, you who travel; your pilot, you who sail the seas. And everyone extol him who anticipates everywhere, as the grandest Hierarch. And in lauding him, let us say to him, \"All-holy father Nicholas, quickly come and deliver us from the present necessity, and save your flock, by your supplications.\""
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = "Let us sound the trumpet with the clarion of song. For inclining from on high, the Queen of all and Virgin Mother crowns with her blessings those who extol her. Let the kings and princes run to gather together, and with hymns applaud her, the Queen who bore the King who, in His love for humanity, was well pleased to release those who were formerly prisoners of death. O Shepherds and Teachers, let us come together and praise the surpassingly pure Mother of the Good Shepherd. Let us praise her, for she is the golden lamp-stand, the light-bearing cloud, the one who is wider than the heavens, the animate Ark, the fiery throne of the Master, the golden urn holding the Manna, the gate of the Logos, which is closed shut. With songs inspired by God, let us extol her, as the shelter for all Christians. And in lauding her, let us say to her, \"O Palace of the Logos, account us worthy, lowly that we be, of the Kingdom of heaven; for nothing is impossible, by your mediation.\""
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text 
+meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text 
+meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meMA.AdditionalIdiomelon1.poet = poets_en_US_dedes.Sergiou
 meMA.AdditionalIdiomelon1.mode = misc_en_US_dedes.Mode6
-meMA.AdditionalIdiomelon1.melody  = ""
+meMA.AdditionalIdiomelon1.melody = ""
 meMA.AdditionalIdiomelon1.text = meVE.Lity7.text
 
 meMA.AdditionalIdiomelon2.mode = misc_en_US_dedes.Mode8
-meMA.AdditionalIdiomelon2.melody  = ""
+meMA.AdditionalIdiomelon2.melody = ""
 meMA.AdditionalIdiomelon2.text = meVE.Lity8.text
 
 meMA.AdditionalIdiomelonGlory.mode = misc_en_US_dedes.Mode8
-meMA.AdditionalIdiomelonGlory.melody  = ""
+meMA.AdditionalIdiomelonGlory.melody = ""
 meMA.AdditionalIdiomelonGlory.text = meVE.LityGlory.text
 
 meMA.AdditionalIdiomelonBoth.mode = misc_en_US_dedes.Mode8
-meMA.AdditionalIdiomelonBoth.melody  = ""
+meMA.AdditionalIdiomelonBoth.melody = ""
 meMA.AdditionalIdiomelonBoth.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
