@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m12.dAC_en_US_dedes
 
 meDate.text = "Sunday After Christmas" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "We commemorate the holy and righteous Joseph the Betrothed, David the King, and James (Iakovos) the Brother of the Lord" //full title of day
+meCommemoration.text = "We commemorate the holy and righteous Joseph the Betrothed, David the King, and James (Iakovos) the Brother of the Lord." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "and the holy and righteous Joseph the Betrothed, David the King, and James (Iakovos) the Brother of the Lord," //for use in petitions and dismissal
-meInsert2 = "whose memory we observe;" //for use in petitions and dismissal
+meInsert1 = "and the holy and righteous Joseph the Betrothed, David the King, and James (Iakovos) the Brother of the Lord," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "We commemorate the holy and righteous Joseph the Betrothed, David the King, and James (Iakovos) the Brother of the Lord"
+meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,23 +27,23 @@ meVE.Stichera03.mode = misc_en_US_dedes.Mode1
 meVE.Stichera03.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meVE.Stichera03.text = misc_en_US_dedes.NA
 
-meVE.Stichera567.text = "" //for media
-meVE.Stichera8910.text = "" //for media
+meVE.Stichera567.text = "" // for media
+meVE.Stichera8910.text = "" // for media
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = misc_en_US_dedes.NA
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = misc_en_US_dedes.NA
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode6
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = me.m12.d25_en_US_dedes.meVE.LityBoth.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Annunciate the miracles to David the ancestor of God, O Joseph. You saw the Virgin pregnant. You glorified with the shepherds. You worshipped with the Magi. And you were warned by an Angel. Entreat Christ God to save our souls."
 
 meMA.C1Acrostic.text = ""
@@ -299,7 +299,7 @@ meMA.Kontakion1.text = "Filled with joy of heart today is the divine Prophet Dav
 
 meMA.Oikos1.text = "By the ineffable will, born in the flesh is the fleshless One. In body now circumscribed is the Uncircumscribed, immutably preserving both essences. An origin receives He who in nature is unoriginate and alone transcends time. As an infant is perceived He who transcends perfection. Borne in arms is He who bears the universe. Therefore as God, by His birth He crowns those who have the honor of being His kin; whom we glorify with faith, as we cry without ceasing, * O Lord of mercy, save us who honor You."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
@@ -461,28 +461,28 @@ meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.text = "Let us extol the memory * of God's ancestor David, * and the renowned Iakovos* Brother-of-God, and Joseph * the Theotokos' divine Betrothed. * For they rendered their service * worthy of God in Bethlehem * at the divine Nativity of the Christ, * together with Angels, Magi and shepherds * singing a hymn of praise to Him* as to their God and Master."
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode4
-meMA.Lauds1.melody  = ""
+meMA.Lauds1.melody = ""
 meMA.Lauds1.text = me.m12.d25_en_US_dedes.meMA.Lauds1.text
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode4
-meMA.Lauds2.melody  = ""
+meMA.Lauds2.melody = ""
 meMA.Lauds2.text = me.m12.d25_en_US_dedes.meMA.Lauds3.text
 
 meMA.LaudsSundayVerse1.text = "The Lord said to my Lord: \"Sit at My right hand, until I make your enemies the footstool of Your feet.\""
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode4
-meMA.Lauds3.melody  = ""
+meMA.Lauds3.melody = ""
 meMA.Lauds3.text = me.m12.d25_en_US_dedes.meMA.Lauds4.text
 
 meMA.LaudsSundayVerse2.text = "\"I have begotten You from the womb before the morning star.\" The Lord swore and will not repent."
 
 meMA.Lauds4.mode = misc_en_US_dedes.Mode4
-meMA.Lauds4.melody  = ""
+meMA.Lauds4.melody = ""
 meMA.Lauds4.text = me.m12.d25_en_US_dedes.meMA.Lauds2.text
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Anatoliou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Blood and fire and a cloud of smoke, portents on earth that Joel foresaw: blood, the incarnation; fire, the divinity; and the cloud of smoke, the Holy Spirit that came upon the Virgin and filled the world with fragrance. Great is the mystery of Your becoming human! Glory to You, O Lord."
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3

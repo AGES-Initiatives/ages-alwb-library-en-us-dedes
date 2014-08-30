@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m12.d04_en_US_dedes
 
 meDate.text = "December 4" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Holy Great Martyr Barbara, and our Devout Father John of Damascus" //full title of day
+meCommemoration.text = "Memory of the Holy Great Martyr Barbara, and our Devout Father John of Damascus." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "the holy and glorious Great Martyr Barbara, and our devout and God-bearing father John of Damascus," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "the holy and glorious Great Martyr Barbara, and our devout and God-bearing father John of Damascus," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the Holy Great Martyr Barbara, and our Devout Father John of Damascus"
+meLE.commemoration1 = "The Holy Great Martyr Barbara. Saint John of Damascus."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,19 +39,19 @@ meVE.Stichera06.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Forsaking country and family and possessions, O Barbara, and hating your impious father, you loved God instead. He called you, and you made a great trade, and you became His bride. Pray to Him to save our souls."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode2
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode2
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode8
@@ -71,7 +71,7 @@ meVE.Aposticha3.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meVE.Aposticha3.text = "All we born on earth, come let us sing a holy song and observe * the divine, sacred festival * of devout and holy John * and extol him with hymns today. * For he was granted reception of the light * of the divine lumination in himself. * Oh, this ineffable * tender love of Yours, O Lord, by which we know * to give glory unto You * who are surpassingly good."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = misc_en_US_dedes.Idiomelon
+meVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
 meVE.AposGlory.text = "Devout Father, the proclamation of your achievements went forth into all the earth. For your labors you found the reward in heaven. You destroyed the arrays of demons, and you attained to the orders of the Angels, whose lifestyle you emulated blamelessly. Since you have confidence before the Lord, ask Him to grant peace to our souls."
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
@@ -79,12 +79,12 @@ meVE.AposTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
 meVE.AposTheotokion.text = he.o_en_US_dedes.TheotokeSyEiOsiou.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Let us honor the all-virtuous Saint Barbara; for she broke the snares of the enemy, and she escaped from them like a bird, with the Cross as her help and shield."
 
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode8
 meVE.Apolytikion2.melody = he.ga_en_US_dedes.OrthodoxiasOdigeM.name
-meVE.GeneralApolytikion2.name = "John," 
+meVE.GeneralApolytikion2.name = "John,"
 meVE.Apolytikion2.text = "" // for media
 
 meVE.Apolytikion3.poet = poets_en_US_dedes.Gerasimou
@@ -124,19 +124,19 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode1
 meMA.Kathisma3T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
 meMA.Kathisma3T.text = oc.m1.d1_en_US_dedes.ocMA.Kathisma23.text
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelWomanMartyr.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.poet = poets_en_US_dedes.IoannouMonachou
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 meMA.PostGospelIdiomelon.melody = misc_en_US_dedes.Idiomelon
-meMA.PostGospelIdiomelon.text = meMA.LaudsGlory.text 
+meMA.PostGospelIdiomelon.text = meMA.LaudsGlory.text
 
 meMA.C1Poet = poets_en_US_dedes.StefanouTouSavaitou
 
@@ -322,7 +322,7 @@ meMA.Kontakion1.text = "O maiden Martyr, you renounced the religion * of pagan i
 
 meMA.Oikos1.text = "Let us come together and worthily honor Barbara, who was wed to Christ through martyrdom, so that by her prayers we may be delivered from deadly plague, famine, earthquake and calamity, and may live our lives in peace, and so that we may be counted worthy to walk in the light along with all the Saints who have pleased God from the beginning of time, and so that we may worthily sing: \"O Savior, You have magnified Your mercies to those who faithfully confess: I worship only the one God in Trinity.\""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode2
@@ -471,7 +471,7 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Alleluia.mode = misc_en_US_dedes.Mode4

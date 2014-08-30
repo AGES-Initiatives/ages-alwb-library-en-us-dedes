@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m12.dBC_en_US_dedes
 
 meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Sunday Before Christmas" //full title of day
+meCommemoration.text = "Sunday Before Christmas." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "all those who from the beginning of time were well-pleasing to God, from Adam to Joseph the Betrothed of the Most Holy Theotokos," //for use in petitions and dismissal
-meInsert2 = "whose memory we observe;" //for use in petitions and dismissal
+meInsert1 = "all those who from the beginning of time were well-pleasing to God, from Adam to Joseph the Betrothed of the Most Holy Theotokos," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Sunday Before Christmas"
+meLE.commemoration1 = "Sunday Before the Nativity of Christ."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,32 +39,32 @@ meVE.Stichera06.melody = he.a.m8_en_US_dedes.OEnEdemParadeisos.name
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode6
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode1
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode1
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Kyprianou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode2
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Magnificent are Faith's accomplishments! The three holy Youths exultingly stood in the fountain of fire as if beside the still waters of rest. And Daniel the Prophet was shown to be a shepherd of lions. At their entreaty, O Christ God, save our souls."
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
@@ -173,7 +173,7 @@ meMA.Ode3K.melody = misc_en_US_dedes.Heirmos
 meMA.Ode3K.text = he.h.m1_en_US_dedes.ToProTonAionon.text
 
 meMA.Hypakoe.mode = misc_en_US_dedes.Mode8
-meMA.Hypakoe.melody  = ""
+meMA.Hypakoe.melody = ""
 meMA.Hypakoe.text = ""
 
 meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
@@ -327,7 +327,7 @@ meMA.Ode6K.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6K.text = he.h.m1_en_US_dedes.SplanchnonIonan.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode6
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = "Not reverencing the hand-depicted image, but shielded by the undepicted essence, you were glorified in the ordeal of fire, O thrice-blessed ones. For you called upon God as you stood in the midst of the insufferable fire: \"Merciful Master, hasten, and hurry to our assistance, O tender-loving Lord. You can do so if You so will.\""
 
 meMA.Oikos1.text = "Stretch out Your hand, which Egyptians of old besieging and Hebrews then beleaguered came to know. Abandon us not to be swallowed by death. Athirst for us is Satan who hates us. But come near us and spare our souls, as once You spared Your three Servants, who in Babylon unceasingly extolled You. When for Your sake they were thrown into the furnace, from there they cried out to You: \"Merciful Master, hasten, and hurry to our assistance, O tender-loving Lord. You can do so if You so will.\""
@@ -338,7 +338,7 @@ meMA.Kontakion2.text = "O Bethlehem, be glad, Ephrata, now be ready. * Behold, t
 
 meMA.Oikos2.text = "Perceiving the splendor of your childbirth shine forth, O Virgin, God-loving Abraham and the renowned Isaac and Jacob and the entire choir of saints assembled by God all rejoice. They have brought creation to greet you with joyful words. For you are the cause of joy for all, having conceived in your womb the very One who was seen in Babylon of old, and in a manner passing all understanding preserved unscathed the Servants who were thrown unjustly into the furnace. Therefore they sing praises to the One who was seen in the arms of the Maiden, extolling the Virgin who nurses Him."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode6
@@ -515,7 +515,7 @@ meMA.Lauds3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meMA.Lauds3.text = "She who from all the ages on earth * in the predictions of the Prophets is heralded, * the Virgin and Theotokos, * has now appeared, whom the wise * Patriarchs and Righteous openly declare. * With them joining chorus is the adornment of womanhood, * Sarah, Rebecca, also Rachel and Hannah too, * as well as Moses' sister the glorious Miriam. * With them together now exult * the far reaches of the world, * and all creation rejoices. * For His nativity in the flesh * is God himself coming, * and in order to bestow His great mercy on the world."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "The collection of the teachings of the Law makes Christ's divine Nativity in the flesh apparent to those who preached the gospel of Grace before the Law was given and were above the Law by virtue of their faith. Therefore to the souls held in Hades, they announced the Nativity beforehand, that it would be the cause of the deliverance from corruption, through the resurrection. Glory to You, O Lord."
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
