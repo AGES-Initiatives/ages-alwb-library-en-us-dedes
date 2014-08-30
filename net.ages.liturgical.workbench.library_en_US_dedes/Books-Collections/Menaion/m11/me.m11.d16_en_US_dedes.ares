@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d16_en_US_dedes
 
 meDate.text = "November 16"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of the Holy Apostle and Evangelist Matthew." // full title of day
 meShortCommemoration1.text = "St. Matthew"
-meInsert1 = "the holy and glorious Apostle and Evangelist Matthew," //for use in petitions and dismissal
-meInsert2 = "whose memory we observe," //for use in petitions and dismissal
+meInsert1 = "the holy and glorious Apostle and Evangelist Matthew," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe," // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Holy Glorious Apostle and Evangelist Matthew."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -26,10 +26,10 @@ meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
 meVE.Stichera03.text = misc_en_US_dedes.NA
 
-meVE.Stichera78910.text = "" //for media
+meVE.Stichera78910.text = "" // for media
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = misc_en_US_dedes.NA
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
@@ -53,7 +53,7 @@ meVE.Aposticha3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = misc_en_US_dedes.NA
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
@@ -63,30 +63,30 @@ meVE.AposTheotokion.text = he.o_en_US_dedes.TheotokeSyEiApostolou.text
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
 meVE.Apolytikion1.melody = he.ga_en_US_dedes.ApostoleAgie.name
 meVE.GeneralApolytikion1.name = "Matthew,"
-meVE.Apolytikion1.text = "" //for media
+meVE.Apolytikion1.text = "" // for media
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode3
 meVE.Apolytikion2.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
 meVE.Apolytikion2.text = ""
 
-meMA.Kathisma11.poet  = poets_en_US_dedes.SymeonThessalonikis
-meMA.Kathisma11.mode  = misc_en_US_dedes.Mode4
-meMA.Kathisma11.melody  = he.a.m4_en_US_dedes.TachyProkatalave.name
+meMA.Kathisma11.poet = poets_en_US_dedes.SymeonThessalonikis
+meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma11.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 meMA.Kathisma11.text = ""
 
-meMA.Kathisma1T.mode  = me.m09.d01_en_US_dedes.meMA.Kathisma2T.mode
-meMA.Kathisma1T.melody  = me.m09.d01_en_US_dedes.meMA.Kathisma2T.melody
+meMA.Kathisma1T.mode = me.m09.d01_en_US_dedes.meMA.Kathisma2T.mode
+meMA.Kathisma1T.melody = me.m09.d01_en_US_dedes.meMA.Kathisma2T.melody
 meMA.Kathisma1T.text = me.m09.d01_en_US_dedes.meMA.Kathisma2T.text
 
-meMA.Kathisma21.poet  = poets_en_US_dedes.SymeonThessalonikis
-meMA.Kathisma21.mode  = misc_en_US_dedes.Mode8
-meMA.Kathisma21.melody  = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Kathisma21.poet = poets_en_US_dedes.SymeonThessalonikis
+meMA.Kathisma21.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma21.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma21.text = ""
 
-meMA.Kathisma2T.poet  = poets_en_US_dedes.SymeonThessalonikis
-meMA.Kathisma2T.mode  = misc_en_US_dedes.Mode8
-meMA.Kathisma2T.melody  = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Kathisma2T.poet = poets_en_US_dedes.SymeonThessalonikis
+meMA.Kathisma2T.mode = misc_en_US_dedes.Mode8
+meMA.Kathisma2T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma2T.text = ""
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
@@ -219,7 +219,7 @@ meMA.Kontakion1.text = "When you had shed the yoke of being a publican and took 
 
 meMA.Oikos1.text = "The enemy's tyranny rapaciously overpowers me, and he snatches away every seed from my soul, O Matthew friend of Christ. I pray you, plant for me the seed of your prayers, and bring forth fruit for your service, and allow me to sing of you, though I be very small. Make me a narrator of your many and great accomplishments, and of your relationship with Christ. You immediately left everything behind, and ardently followed Him who called you, becoming the first Evangelist in the world, clearly describing the hour of Judgment Day."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -312,11 +312,11 @@ meMA.Lauds3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meMA.Lauds3.text = "You thundered the sacred teachings on salvation throughout the world, O St. Matthew Evangelist. * You purged all creation of the madness of idols. * You, all-wise Apostle, illumined every race on earth * with the enlightenment of the Gospel of Christ. * And once you had destroyed the temples of the idols, by grace divine, * you built Churches in place of them, * for the glory and praise of God."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "With songs let us applaud today, O believers, on the occasion of the memorial of the divine Apostle and Evangelist Matthew. For he threw off the yoke and the wealth of being a tax collector, and he followed Christ; and he became a divine preacher of the Gospel. Thus, as the Psalm foretold, his proclamation went forth into all the earth. And he intercedes that our souls be saved."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
@@ -327,7 +327,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 meLI.SeasonalKontakion.text = me.m11.d21_en_US_dedes.meMA.Kontakion1.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 

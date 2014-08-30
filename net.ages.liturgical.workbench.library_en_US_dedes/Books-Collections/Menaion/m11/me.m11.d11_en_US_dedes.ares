@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d11_en_US_dedes
 
 meDate.text = "November 11"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of the Holy Martyrs Menas, Victor and Vincent; and the Holy Martyr Stephanie; and our Devout Father and Confessor Theodore the Studite." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Holy Martyrs Menas, Victor, and Vikentios. Our Venerable Father Theodore the Studites the Confessor."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,7 +40,7 @@ meVE.Stichera06.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Vyzantiou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
@@ -68,7 +68,7 @@ meVE.Aposticha3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Aposticha3.text = "O much suffering Stephanie, * you were crowned by the Lord of all * with the crown of grace for surrendering yourself * of your own will so courageously * to tortures of every kind. * When they fastened you to two * trees and when they dismembered you, * then you flew to God * like a sparrow and left your holy body in the hunters' hands, O Martyr * worthy of honor and dignity."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
@@ -336,7 +336,7 @@ meMA.Kontakion2.text = ""
 
 meMA.Oikos2.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -493,12 +493,12 @@ meMA.ExapTheotokion.text = "O all-immaculate Maiden, * as David said, in you wer
 meMA.ApostichaVerse4.text = ""
 
 meMA.Aposticha4.mode = misc_en_US_dedes.Mode2
-meMA.Aposticha4.melody  = ""
+meMA.Aposticha4.melody = ""
 meMA.Aposticha4.text = ""
 
 meMA.AposGlory.poet = poets_en_US_dedes.Anatoliou
 meMA.AposGlory.mode = misc_en_US_dedes.Mode1
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode1
@@ -517,7 +517,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 meLI.SeasonalKontakion.text = me.m11.d21_en_US_dedes.meMA.Kontakion1.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d03_en_US_dedes
 
 meDate.text = "November 3"
-meCommemoration.text = "Memory of the holy Martyrs Akepsimas, Joseph, and Aeithalas; and of the dedication of the Temple of the Holy Great-Martyr George in Lydda" //full title of day
+meCommemoration.text = "Memory of the holy Martyrs Akepsimas, Joseph, and Aeithalas; and of the Consecration of the Church of the Holy Great-Martyr George in Lydda, when his Holy Body was Placed in it." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "the holy Martyrs Akepsimas, Joseph, and Aeithalas, and the holy and glorious Great-Martyr George the Trophy-bearer, " //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "the holy Martyrs Akepsimas, Joseph, and Aeithalas, and the holy and glorious Great-Martyr George the Trophy-bearer, " // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the holy Martyrs Akepsimas, Joseph, and Aeithalas; and of the dedication of the Temple of the Holy Great-Martyr George in Lydda"
+meLE.commemoration1 = "The Holy Martyrs Akepsimas, Ioseph, and Aeithalas. The Consecration of the Church of Saint George the Great Martyr at Lydda."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,7 +40,7 @@ meVE.Stichera06.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Stichera06.text = "Wondrous and very great in all truth * is the report of thine unspeakable martyrdom, * for like unto an illustrious prince, thou passes throughout * all creation, O amazing Martyr George; * and being adorned in truth with the grace to work miracles, * thou grantest healing to those stricken with sicknesses, * and the suffering thou dost treat with thy holy prayers. * Hence, we know thee to be a fervent helper in all distress, * and a most kind benefactor deliv'ring those in captivity. * O all- blessed Martyr, * intercede with Christ to grant His great mercy to our souls. (HTM)"
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m04.d23_en_US_dedes.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
@@ -70,11 +70,11 @@ meVE.Aposticha3.text = ""
 // Glory from HTM
 meVE.AposGlory.poet = poets_en_US_dedes.EfraimKarias
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "The Three Children in Persia who were preserved unburnt were a symbolic prelude to your thrice-radiant concord, O athletes, and your witness in Christ ot the unmingled Trinity and Unity transcendent in essence. For even as they braved the fire because they would not insult God, so ye also sought not to escape death, because ye had not given up your love for Christ; and as Christ, that Fourth One Who appeared, bedewed them in the fire, thus did He, Who is One of the Trinity, receive you in a place of refreshment. O divinely inspired Acepsimas, Joseph, and Aethalas, intercede in behalf of our souls. (HTM)"
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode6
@@ -340,7 +340,7 @@ meMA.Oikos26.text = ""
 meMA.Oikos27.text = ""
 meMA.Oikos28.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
@@ -502,7 +502,7 @@ meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meMA.Lauds3.text = "Do protect me on every side, * whether sailing upon the sea * or just walking down the street * or sleeping at night. * All-blessed George, when I stay awake * sustain me in vigilance. * And vouchsafe me through your prayers * to do only the will of God, * so that I who run * to your shelter might gain the absolution * of the sins I have committed * throughout my lifetime, on Judgment Day."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
@@ -514,7 +514,7 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meMegalynarion.text = ""

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d08_en_US_dedes
 
 meDate.text = "November 8"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "The Synaxis in Honor of the Chief Commanders Michael and Gabriel, and All the Bodiless Powers." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "the holy and glorious Supreme Commanders Michael and Gabriel, and the other bodiless hosts," //for use in petitions and dismissal
-meInsert2 = "whose Synaxis we celebrate;" //for use in petitions and dismissal
+meInsert1 = "the holy and glorious Supreme Commanders Michael and Gabriel, and the other bodiless hosts," // for use in petitions and dismissal
+meInsert2 = "whose Synaxis we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Sunaxis of Archangels Michael and Gabriel and of All the Heavenly Powers."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,53 +40,53 @@ meVE.Stichera06.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Vyzantiou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Rejoice with us, all you commanders of the Angels, for your leader and our champion, the great Chief Commander, wondrously appearing in his august temple, sanctifies this day. Therefore let us dutifully extol him and cry aloud: Shelter us in the shelter of your wings, O Michael the greatest Archangel."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = "Rejoice with us, all you choirs of virgins. For our protection and mediatrix and shelter, and the great refuge, marvelously appearing in her august temple, sanctifies this day. Therefore let us dutifully extol her and cry aloud: Shelter us in the shelter of your wings, O immaculate Lady Theotokos."
 
 meVE.Lity1.poet = poets_en_US_dedes.Kyprianou
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.poet = poets_en_US_dedes.Arseniou
 meVE.Lity2.mode = misc_en_US_dedes.Mode1
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.poet = poets_en_US_dedes.Stouditou
 meVE.Lity3.mode = misc_en_US_dedes.Mode2
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.Lity4.poet = poets_en_US_dedes.Arseniou
 meVE.Lity4.mode = misc_en_US_dedes.Mode2
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = "As you surround the immaterial throne, O noetic beings and divine Bodiless Powers, you sing the Thrice-holy hymn to God the Ruler, with your flaming lips: \"Holy God, the unoriginate Father; Holy Mighty, the Son who is also unoriginate; Holy Immortal, the coessential Spirit, glorified together with the Father and the Son.\""
 
 meVE.Lity5.poet = poets_en_US_dedes.Anatoliou
 meVE.Lity5.mode = misc_en_US_dedes.Mode2
-meVE.Lity5.melody  = ""
+meVE.Lity5.melody = ""
 meVE.Lity5.text = ""
 
 meVE.Lity6.poet = poets_en_US_dedes.EfraimKarias
 meVE.Lity6.mode = misc_en_US_dedes.Mode4
-meVE.Lity6.melody  = ""
+meVE.Lity6.melody = ""
 meVE.Lity6.text = ""
 
 meVE.Lity7.mode = misc_en_US_dedes.Mode6
-meVE.Lity7.melody  = ""
+meVE.Lity7.melody = ""
 meVE.Lity7.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode4
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode4
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
@@ -107,7 +107,7 @@ meVE.Aposticha3.text = "Among the bodiless Angels you are expressly the first. *
 
 meVE.AposGlory.poet = poets_en_US_dedes.IoannouMonachou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "As captain and champion and leader of the Angels, deliver from all necessity and tribulation, illness and grievous sins, those who sincerely extol and entreat you, O glorious Chief Commander, as one immaterial who manifestly beholds the Immaterial One, and who is splendidly illumined by the unapproachable light of the Master's glory. * He it is who out of love for mankind assumed flesh from the Virgin for our sake, wishing as He did to save the human race."
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
@@ -138,18 +138,18 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.ToProstachthen.name
 meMA.Kathisma3T.text = "With all the bodiless hosts and the Archangels * O pure and blessed Lady full of the divine grace, * with the Powers on high, together without ceasing * implore Him who out of pity came forth from you. * Entreat Him on our behalf that before the end * He might grant us forgiveness and the expiation of sins * as well as the amendment of life, * so that we might find the mercy of God."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelAngels.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.Lity4.text
 
 meMA.C1Poet = poets_en_US_dedes.IoannouMonachou
@@ -390,12 +390,12 @@ meMA.Ode6K.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6K.text = he.h.m4_en_US_dedes.TinTheianTaftin.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = "As God's Chief Commanders and ministers of His divine glory, guides of humanity and leaders of the Angels, pray for what will benefit us and for great mercy, as Chief Commanders of the Bodiless Hosts."
 
 meMA.Oikos1.text = "You said in the Scriptures, immortal Lover of humanity, that in heaven multitudes of Angels rejoice over one human being who repents. Therefore, O Sinless One, who alone know the heart, we in our lawlessness dare each day to implore You, the compassionate, to take pity on us, Master, and send us compunction, though we are unworthy, and pardon our sins, at the intercession for us all, of the Chief Captains of the Bodiless Hosts."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -561,11 +561,11 @@ meMA.Lauds3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Lauds3.text = "Beneath the shield of your holy and immaterial wings * guard and protect us always, * holy Archangel Michael. * Be with us throughout our entire life, * and indeed in the hour of death * be a most kindly assistance, and help us then, * as a spiritual servant of God."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Wherever your grace overshadows, O Archangel, the power of the devil is driven away. For he cannot bear to stand in your light, the fallen Lucifer that he is. We therefore beg you to extinguish the fiery arrows that he shoots against us, and by your mediation to deliver us from the scandals he sets, O praiseworthy Archangel Michael."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meMA.LaudsSundayVerse1.text = ""

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d17_en_US_dedes
 
 meDate.text = "November 17"
-meCommemoration.text = "Memory of our Father among the Saints Gregory the Wonderworker, Bishop of Neocaesarea" //full title of day
+meCommemoration.text = "Memory of our Father among the Saints Gregory the Wonder-worker, Bishop of Neocaesarea." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "and our Father among the Saints Gregory the Wonderworker, Bishop of Neocaesarea," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "and our Father among the Saints Gregory the Wonderworker, Bishop of Neocaesarea," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of our Father among the Saints Gregory the Wonderworker, Bishop of Neocaesarea"
+meLE.commemoration1 = "Our Father among the Saints Gregory the Wonder-worker, Bishop of Neokaisaria."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,7 +27,7 @@ meVE.Stichera03.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
 meVE.Stichera03.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
@@ -39,11 +39,11 @@ meVE.SticStavrotheotokion.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
 meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode6
@@ -51,7 +51,7 @@ meVE.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meVE.AposStavrotheotokion.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "By your accomplishments, you earned the name that you bore, for you were vigilant in prayer and diligent in working miracles. Therefore, holy father Gregory, intercede with Christ our God, that He illumine our souls, lest we fall asleep in sin unto death."
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
@@ -205,7 +205,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -298,23 +298,23 @@ meMA.Lauds3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meMA.Lauds3.text = "Torrents of your divine prayers, O Saint, * dried up the lakelet that had formerly caused a row. * O wise one, you stopped the wayward stream * from overflowing its banks * with your staff that sprouted and became a tree. * You leveled the altar stones of the demons, O Gregory. * By your most ardent supplications to God on high, * you have brought an end to the winter of unbelief. * You gave assurance unto souls * by miracles, leading them * unto the great Benefactor, * who has rewarded you worthily. * To Him pray intently * and petition Him to send down great mercy on our souls."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = ""
 
 meMA.LaudsStavrotheotokion.mode = misc_en_US_dedes.Mode8
-meMA.LaudsStavrotheotokion.melody  = ""
+meMA.LaudsStavrotheotokion.melody = ""
 meMA.LaudsStavrotheotokion.text = ""
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode4
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode4
-meMA.AposTheotokion.melody  = ""
+meMA.AposTheotokion.melody = ""
 meMA.AposTheotokion.text = oc.m4.d2_en_US_dedes.ocMA.AposTheotokion.text
 
 meMA.AposStavrotheotokion.mode = misc_en_US_dedes.Mode4

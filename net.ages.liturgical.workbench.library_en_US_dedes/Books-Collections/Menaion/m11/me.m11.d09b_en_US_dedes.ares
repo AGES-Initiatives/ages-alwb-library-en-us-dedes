@@ -1,15 +1,15 @@
-A_Resource_Whose_Name = me.m11.d09b_en_US_dedes 
+A_Resource_Whose_Name = me.m11.d09b_en_US_dedes
 
 meDate.text = "November 9"
-meCommemoration.text = "Memory of our father among the saints Nektarios, Metropolitan of Pentapolis, the Wonderworker" //full title of day
+meCommemoration.text = "Memory of our Father among the Saints Nektarios, Metropolitan of Pentapolis, the Wonder-worker" // full title of day
 meShortCommemoration1.text = "St. Nektarios"
-meInsert1 = "our father among the saints Nektarios, Metropolitan of Pentapolis, the Wonderworker, " //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "our father among the saints Nektarios, Metropolitan of Pentapolis, the Wonderworker, " // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of our father among the saints Nektarios, Metropolitan of Pentapolis, the Wonderworker"
+meLE.commemoration1 = "Our Father among the Saints Nektarios of Aigina, Metropolitan of Pentapolis."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -31,11 +31,11 @@ meSV.Stichera4.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meSV.Stichera4.text = ""
 
 meSV.SticGlory.mode = misc_en_US_dedes.Mode1
-meSV.SticGlory.melody  = ""
+meSV.SticGlory.melody = ""
 meSV.SticGlory.text = ""
 
 meSV.SticBoth.mode = misc_en_US_dedes.Mode1
-meSV.SticBoth.melody  = ""
+meSV.SticBoth.melody = ""
 meSV.SticBoth.text = oc.m1.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -87,39 +87,39 @@ meVE.Stichera06.melody = he.a.m2_en_US_dedes.PoioisEffimionStemmasin.name
 meVE.Stichera06.text = "Are there any worthy words of praise, * so that we might say them to you, Hierarch? * Living as you did in the secular world, * still you had a truly divine lifestyle, * for your deeds were holy, just, and blameless. * You founded * a holy Convent with the help of God, * located * on the Hellenic Isle of Aegina. * It is for souls a calm harbor. * Ever guard and keep it. * And in Charlotte, watch over us, * the parish that bears your name, * holy Father Saint Nektarios."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Today the sacred feast of the hierarch Nektarios has shone forth brightly, like a new star, and it illuminates the Church of Christ. So come, all you congregations of Orthodox Christians, let us shout to him with voices of great rejoicing. \"Rejoice, for you emulated the life of the devout fathers of old, even in days that were evil, when the love of many had grown cold, as the Savior foretold. Rejoice, for you combined virtue and learning, and you gladdened the souls of the faithful with your words of wisdom. Rejoice, the jewel of hierarchs, the protector of Aegina, and the ardent helper of your Monastery and of the Parish that bears your name. Therefore, all-blessed Saint Nektarios, as you stand near the throne of God's magnificence, unceasingly entreat for us who loyally observe your ever-honored memory.\""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
-meVE.Lity1.melody  = ""
+meVE.Lity1.melody = ""
 meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode2
-meVE.Lity2.melody  = ""
+meVE.Lity2.melody = ""
 meVE.Lity2.text = ""
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode3
-meVE.Lity3.melody  = ""
+meVE.Lity3.melody = ""
 meVE.Lity3.text = ""
 
 meVE.Lity4.mode = misc_en_US_dedes.Mode4
-meVE.Lity4.melody  = ""
+meVE.Lity4.melody = ""
 meVE.Lity4.text = ""
 
 meVE.Lity5.mode = misc_en_US_dedes.Mode4
-meVE.Lity5.melody  = ""
+meVE.Lity5.melody = ""
 meVE.Lity5.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode5
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = "Come now, all you families of believers; come, let us run to Charlotte. Come and see the strange wonders that the right hand of the Most High has done recently. For, as He promised, He glorifies Saint Nektarios with immortal gifts of grace, because he lived according to the Gospel. Therefore He caused his revered bones to exhale a sweet fragrance and to be a wellspring of cures and healing to those who approach them reverently. From them we take our fill of the fragrant aroma of life, and with the Prophet David we cry aloud, \"Great are You, O Lord; and Your greatness has no limit! O Lord, in Your love for humanity, save our souls.\""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode5
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
@@ -139,11 +139,11 @@ meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.Aposticha3.text = "The Church of Christ rejoices today, * O Saint Nektarios, beholding you glorified * with glory that comes from heaven; * and now she magnifies Christ, * for the Lord has made you a worker of miracles. * The Island of Aegina now especially beams with joy, * for she possesses the container with your remains, * as a never-emptying treasure of holiness. * Churches throughout the world that bear * your name, more than all are glad, * for they have recourse at all times * to you and tearfully cry aloud, * \"O Father, my glory, * my assistance and my shelter, you are my Patron Saint.\""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "The heavenly Jerusalem has your holy soul, together with the spirits of the Saints, O glorious Nektarios. And the Island of Aegina has your grace-filled relics, as a God-given treasure, a free clinic for every kind of illness and any kind of trouble. Those who are suffering come to it from everywhere, and they are healed and cured, and they are granted their requests, unto salvation. With a grateful voice they glorify you who glorified the Lord. We pray you to intercede with Him to save our souls."
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m8.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
@@ -186,18 +186,18 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = "St. Nektarios knew that you were portrayed * by the jar where the manna was kept of old, * O Pure one, and by the lamp * that was bright with the light of God. * And he, as a true worker of virtue, was worthily * illumined in his soul and his mind by your radiance. * Therefore he proclaimed it in Orthodox manner, * that you, Theotokos, are * at the same time a virgin pure * and the Mother of Christ our God. * He now enjoys Your Son's holy light * incomprehensible, Lady all-immaculate, * and with the Angels he glorifies * your glory ineffable."
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 //text from Nov09.pdf saved from 2009
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelHierarch.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "Today, Nektarios the God-bearer, the Church's new ornament, having completed the race of virtue, has made his way to heaven. Dwelling now in the splendor of the Saints, he enjoys with face unveiled the tree of life, as he receives the illuminations of the magnificent glory. And he prays for us, asking that we be free of danger, and that we may have lasting peace and great mercy."
 
 meMA.C1Acrostic.text = ""
@@ -577,7 +577,7 @@ meMA.Oikos16.text = "Rejoice, the radiant trophy of the Faith; rejoice, the dign
 meMA.Oikos17.text = "Rejoice, through whom is the Church celebrating; rejoice through whom the Isle of Aegina is rejoicing."
 meMA.Oikos18.text = "Rejoice, Father Nektarios."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode1
@@ -833,14 +833,14 @@ meMA.Lauds4.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Lauds4.text = "The fragrant scent of your relics, O Saint Nektarios, * truly exceeds the fragrance of the field, as is it written. * The senses of the pious it now delights. Hence the island of Aigina * beatifies you, O thrice-blessed Hierarch, * for she sees the grace of God in you."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "O devout Father, you devoted your life to the study of the Law of God, and in so doing you emulated the life of the saints of old. When you made the mind that is set on the flesh subject to the spirit, you did what was good, and you clothed yourself in holiness, as a hierarch wise in things divine and a genuine worker of virtue. Therefore, you were vividly glorified by God, and the casket of your relics became a wellspring of cures and healings, by the overshadowing of the Holy Spirit. Now we pray you, O blessed Nektarios, sprinkle into our souls the nectar of your grace, and intercede with the Lord to grant us the great mercy."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
-meMA.LaudsTheotokion.melody  = ""
+meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = "" 
+meMA.LaudsSundayVerse1.text = ""
 
 meMA.LaudsSundayVerse2.text = ""
 

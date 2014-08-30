@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d20_en_US_dedes
 
 meDate.text = "November 20"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "The Forefeast of the Entry of the Most Holy Thetokos into the Temple; and Memory of our Devout Father Gregory of Decapolis; and our Father among the Saints Proclus, Archbishop of Constantinople." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "Our Father among the Saints Proklos, Archbishop of Constantinople. Our Venerable Father Gregory the Dekapolites."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
@@ -59,11 +59,11 @@ meVE.Aposticha3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = he.ga_en_US_dedes.OTheosTonPateronImon.text
 
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode4
@@ -438,7 +438,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
@@ -699,7 +699,7 @@ meMA.Aposticha3.text = ""
 
 meMA.AposGlory.poet = poets_en_US_dedes.GeorgiouNikomideias
 meMA.AposGlory.mode = misc_en_US_dedes.Mode1
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4

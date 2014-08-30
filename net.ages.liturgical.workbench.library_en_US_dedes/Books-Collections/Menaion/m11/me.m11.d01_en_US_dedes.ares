@@ -4,15 +4,15 @@ meHO.Month.text = ""
 meHO.DaysHours.text = ""
 
 meDate.text = "November 1"
-meCommemoration.text = "Memory of the holy Unmercenaries, Cosmas and Damian." //full title of day
+meCommemoration.text = "Memory of the Holy Unmercenaries Cosmas and Damian." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "of the holy Unmercenaries, Cosmas and Damian," //for use in petitions and dismissal
-meInsert2 = "whose memory we observe;" //for use in petitions and dismissal
+meInsert1 = "of the holy Unmercenaries, Cosmas and Damian," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of the holy Unmercenaries, Cosmas and Damian."
+meLE.commemoration1 = "The Holy Unmercenary Wonder-workers Kosmas and Damianos."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -33,7 +33,7 @@ meVE.Stichera78910.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
@@ -45,29 +45,29 @@ meVE.SticStavrotheotokion.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
 meVE.SticStavrotheotokion.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha1.melody  = ""
+meVE.Aposticha1.melody = ""
 meVE.Aposticha1.text = ""
 
 meVE.ApostichaVerse2.text = ""
 
 meVE.Aposticha2.poet = poets_en_US_dedes.Theofanous
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha2.melody  = ""
+meVE.Aposticha2.melody = ""
 meVE.Aposticha2.text = ""
 
 meVE.ApostichaVerse3.text = ""
 
 meVE.Aposticha3.poet = poets_en_US_dedes.Germanou
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha3.melody  = ""
+meVE.Aposticha3.melody = ""
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m6.d5_en_US_dedes.ocMA.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode6
@@ -75,7 +75,7 @@ meVE.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meVE.AposStavrotheotokion.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Holy Unmercenaries and Wonder-workers, visit our infirmities. Freely you received; freely give to us."
 
 meMA.C1Poet = poets_en_US_dedes.IoannouTouDamaskinou
@@ -310,12 +310,12 @@ meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = "You received the grace of healing, and thus extend health to those in need, O glorious wonder-working Physicians. We pray that by your visitation you will also bring down the insolence of our enemies, and that you will cure the world by your miracles."
 
 meMA.Oikos1.text = "Surpassing all understanding and wisdom is the speech of the wise physicians, who impart knowledge to all; for they received the grace of the Most High, and to all invisibly grant health. Therefore to me they have granted the gift of narration, in order to extol them as God-bearers and servants of Christ, pleasing and acceptable, who provide many cures. They relieve everyone from pain, and they cure the world by their miracles."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
@@ -506,11 +506,11 @@ meMA.LaudsSundayVerse1.text = "The Lord has done marvelous things for His saints
 meMA.LaudsSundayVerse2.text = "Behold how good and pleasant it is when brothers dwell in unity."
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode8
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode8
-meMA.AposTheotokion.melody  = ""
+meMA.AposTheotokion.melody = ""
 meMA.AposTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
 
 meMA.AposStavrotheotokion.mode = misc_en_US_dedes.Mode8
@@ -518,7 +518,7 @@ meMA.AposStavrotheotokion.melody = he.a.m8_en_US_dedes.OiMartyresSouKyrie.name
 meMA.AposStavrotheotokion.text = ""
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text

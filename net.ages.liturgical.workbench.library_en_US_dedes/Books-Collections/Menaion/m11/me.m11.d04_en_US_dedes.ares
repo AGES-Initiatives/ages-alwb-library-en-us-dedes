@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d04_en_US_dedes
 
 meDate.text = "November 4"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of our Devout Father Ioannikios the Great; and the Holy Hieromartyrs Nikandros, Bishop of Myra, and Hermaios the Priest." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "Our Venerble Father Ioannikios the Great. Hieromartyrs Nikandros, Bishop of Myra, and Hermaios the Presbyter."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
@@ -51,7 +51,7 @@ meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
@@ -322,7 +322,7 @@ meMA.Oikos16.text = ""
 meMA.Oikos17.text = ""
 meMA.Oikos18.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -482,7 +482,7 @@ meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "With longing and with faith and fear * I kiss and honor your divine * and all-immaculate image * with relative veneration, * all-blameless Lady; for we know * that cures of soul and body flow * from your icons abundantly * to us who are now extolling * you as the true Theotokos."
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meMegalynarion.text = ""

@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d25_en_US_dedes
 
 meDate.text = "November 25"
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "Memory of the Holy Great Martyr of Christ and All-Wise Catherine; and the Holy Great Martyr Mercury." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "the holy Great Martyr and all-wise Catherine," //for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+meInsert1 = "the holy Great Martyr and all-wise Catherine," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = ""
+meLE.commemoration1 = "The Holy Great Martyr Catherine. The Holy Martyr Merkourios."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,20 +39,20 @@ meVE.Stichera06.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meVE.Stichera06.text = "All-wise and glorious Martyr all-holy Catherine, rejoice! * Our Savior Christ transported * your most God-pleasing body * to Sinai, that Mountain where Moses of old * saw the bush that was burning not; * and He preserves and protects it there till the time * that He comes again to judge the world."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "O martyr fans, let us joyfully run to the festival of the Martyr Catherine, who was wise in God, and let us crown her with praise as if with flowers. Let us shout salutations to her, \"Rejoice, for you refuted the insolent speech of the babbling Orators, since it was brimming with stupidity, and you led them to the true Faith in God! Rejoice, for you gave your body over to elaborate tortures, for the love of your Creator, and like an indestructible anvil you did not break. Rejoice, for you were given entrance to the mansions on high, a worthy compensation for your labors, and you bask in everlasting glory! We also long for this, and as we extol you, we hope that we will not be disappointed.\""
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode8
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = me.m11.d21_en_US_dedes.meVE.SticGlory.text
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode2
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = "You offered your blood, like the ointment in the alabaster jar, to Christ your Bridegroom, O undefeated Martyr Catherine. And in return you received from Him an imperishable crown, as being worthy of the honor. You muted the insolence of the orators, and you drew them to the knowledge of God. And they along with the wise Queen received the crown of martyrdom. Therefore, intercede with Christ our God, entreating Him to save our souls."
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode4
-meVE.LityBoth.melody  = ""
-meVE.LityBoth.text = me.m11.d21_en_US_dedes.meVE.Lity2.text 
+meVE.LityBoth.melody = ""
+meVE.LityBoth.text = me.m11.d21_en_US_dedes.meVE.Lity2.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
@@ -72,11 +72,11 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Vavyla
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "You led a spiritual life, and thus you captivated the godless tribunal, and you stood victorious, O Catherine, with dignity, decked in divine brilliance as if with flowers. And having put on the power of God, you ridiculed the tyrant's decree, and you stifled the nonsensical chatter of the orators, O holy Martyr who suffered much."
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode6
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = me.m11.d21_en_US_dedes.meVE.AposGlory.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode5
@@ -112,18 +112,18 @@ meMA.Kathisma32.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma32.melody = he.a.m8_en_US_dedes.ToProstachthen.name
 meMA.Kathisma32.text = me.m11.d21_en_US_dedes.meMA.Kathisma31.text
 
-meMA.Prokeimenon.text = "" //for media
+meMA.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody  = ""
+meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelWomanMartyr.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody  = ""
+meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelIdiomelon.melody  = ""
+meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
@@ -359,7 +359,7 @@ meMA.Kontakion1.text = "O friends of the saints and martyrs, now inspired by God
 
 meMA.Oikos1.text = "From childhood the Martyr grasped the wisdom that comes from God, and she was versed in all secular knowledge. Knowing from this the movement and intelligent design of the elements as well as the One who made them in the beginning by His Word, she offered Him gratitude day and night. She threw down the idols along with those who worshipped them, and spat on the knowledge of the orators."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -473,7 +473,7 @@ meMA.Ode9C13.text = "Now you have arrived at the calm port, having nimbly crosse
 
 meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C14.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C14.melody  = ""
+meMA.Ode9C14.melody = ""
 meMA.Ode9C14.text = ""
 
 meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
@@ -543,11 +543,11 @@ meMA.Lauds6.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meMA.Lauds6.text = "Catherine, the all-glorious, once you were willingly purified * through a life-style of piety, * you opened your mouth to speak * and received divine grace * of the Holy Spirit; and with your steadfastness of mind, * you broke the tyrant's impious insolence. * You matched the beauty of your body with the comeliness of your soul, * being mindful of God the Lord, * O adornment of Martyr Saints."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
-meMA.LaudsGlory.melody  = ""
-meMA.LaudsGlory.text = meVE.AposGlory.text 
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = meVE.AposGlory.text
 
 meMA.LaudsBoth.mode = misc_en_US_dedes.Mode2
-meMA.LaudsBoth.melody  = ""
+meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = me.m11.d21_en_US_dedes.meMA.LaudsGlory.text
 
 meMA.LaudsSundayVerse1.text = ""
@@ -557,9 +557,9 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 meLI.SeasonalKontakion.text = me.m11.d21_en_US_dedes.meMA.Kontakion1.text
 
-meLI.TheotokosHymn.mode  = ""
-meLI.TheotokosHymnVerse.text  = ""
-meLI.TheotokosHymn.text  = ""
+meLI.TheotokosHymn.mode = ""
+meLI.TheotokosHymnVerse.text = ""
+meLI.TheotokosHymn.text = ""
 
 meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
 

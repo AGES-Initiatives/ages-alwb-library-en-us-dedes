@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m11.d06_en_US_dedes
 
 meDate.text = "November 6"
-meCommemoration.text = "Memory of our father among the saints Paul the Confessor, Archbishop of Constantinople" //full title of day
+meCommemoration.text = "Memory of our Father among the Saints Paul the Confessor, Archbishop of Constantinople." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "of our father among the saints Paul the Confessor, Archbishop of Constantinople," //for use in petitions and dismissal
-meInsert2 = "whose memory we observe;" //for use in petitions and dismissal
+meInsert1 = "of our father among the saints Paul the Confessor, Archbishop of Constantinople," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe;" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Memory of our father among the saints Paul the Confessor, Archbishop of Constantinople"
+meLE.commemoration1 = "Our Father among the Saints Paul the Confessor, Archbishop of Constantinople."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -32,7 +32,7 @@ meVE.Stichera04.text = "You bear your confession as an appellation, O blessed Pa
 
 meVE.SticGlory.poet = poets_en_US_dedes.Germanou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode1
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode1
@@ -45,7 +45,7 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Vyzantiou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode2
@@ -195,7 +195,7 @@ meMA.Kontakion1.text = "You shone forth on earth like a star with celestial ligh
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -281,7 +281,7 @@ meMA.LaudsSundayVerse2.text = "My mouth shall speak wisdom, and the meditation o
 
 meMA.AposGlory.poet = poets_en_US_dedes.Anatoliou
 meMA.AposGlory.mode = misc_en_US_dedes.Mode7
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "As you lived on earth as though without flesh, you delved into the depths of the Spirit. From there you drew out the wealth of divine knowledge, and you poured out Orthodoxy to the people, by your teachings, O devout Father."
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode7
@@ -293,7 +293,7 @@ meMA.AposStavrotheotokion.melody = he.a.m7_en_US_dedes.OukEtiKolyometha.name
 meMA.AposStavrotheotokion.text = ""
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meMegalynarion.text = ""
