@@ -34,11 +34,11 @@ co.greatcompline.pdf.cover = "Great Compline"
 co.greatcompline.pdf.header = "GREAT COMPLINE"
 
 //sacraments
-con.consecration = "Consecration"
+con.pdf.header = "Consecration"
 
-un.html.tab  = "UNCTION"
-un.pdf.header = "The Service of Holy Unction"
-un.pdf.cover = "The Service of Holy Unction"
+unc.html.tab  = "UNCTION"
+unc.pdf.header = "The Service of Holy Unction"
+unc.pdf.cover = "The Service of Holy Unction"
 
 em.html.tab  = "MATINS"  //this is for Matins in the evening during Holy Week
 em.pdf.header = "Matins"
