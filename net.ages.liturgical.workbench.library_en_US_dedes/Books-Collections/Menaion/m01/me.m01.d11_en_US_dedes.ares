@@ -3,15 +3,15 @@ A_Resource_Whose_Name = me.m01.d11_en_US_dedes
 meDate.text = "January 11" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Memory of our Devout Father Theodosios the Cenobiarch." // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
+meInsert1 = "our devout father Theodosios the Cenobiarch," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Our Venerable Father Theodosios the Head of the Monasteries."
 meLE.commemoration2 = ""
 meHO.number = "11."
 meHO.rank = "3"
 meHO.commemorations = ""
-meHO.note1 = rubrical_en_US_dedes.HolidayWineOil
+meHO.note1 = rubrical_en_US_dedes.WineOil
 meHO.note2 = ""
 meDismissal = dismissals_en_US_dedes.dis00.epiphany
 
@@ -27,6 +27,8 @@ meVE.Stichera02.text = ""
 meVE.Stichera03.mode = misc_en_US_dedes.Mode5
 meVE.Stichera03.melody = he.a.m5_en_US_dedes.OsiePater.name
 meVE.Stichera03.text = ""
+
+meVE.Stichera8910.text = "" //for media
 
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
@@ -66,6 +68,7 @@ meVE.AposBoth.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
 meVE.Apolytikion1.melody = he.ga_en_US_dedes.TaisTonDakryonSou.name
+meVE.Apolytikion1.text = "" //for media
 meVE.GeneralApolytikion1.name = "O Theodosios our devout father." // name of saint for General Apolytikia
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
