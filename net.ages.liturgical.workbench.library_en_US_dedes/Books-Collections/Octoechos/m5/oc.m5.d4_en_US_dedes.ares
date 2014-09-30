@@ -516,3 +516,35 @@ ocLI.BeatitudesGlory.text = ""
 ocLI.BeatitudesBoth.mode = misc_en_US_dedes.Mode5
 ocLI.BeatitudesBoth.melody  = ""
 ocLI.BeatitudesBoth.text = ""
+
+//Octoechos in Triodion
+
+octrMA.Triadic1.mode = misc_en_US_dedes.Mode5
+octrMA.Triadic1.text = oc.m5.d2_en_US_dedes.octrMA.Triadic1.text
+
+octrMA.Triadic2.mode = misc_en_US_dedes.Mode5
+octrMA.Triadic2.text = oc.m5.d2_en_US_dedes.octrMA.Triadic2.text
+
+octrMA.Triadic3.mode = misc_en_US_dedes.Mode5
+octrMA.Triadic3.text = oc.m5.d2_en_US_dedes.octrMA.Triadic3.text
+
+octrMA.Kathisma11.mode = misc_en_US_dedes.Mode5
+octrMA.Kathisma11.melody  = ocMA.Kathisma21.melody
+octrMA.Kathisma11.text = ocMA.Kathisma21.text
+
+octrMA.Kathisma12Verse.text = ""
+
+octrMA.Kathisma12.mode = misc_en_US_dedes.Mode5
+octrMA.Kathisma12.melody  = ocMA.Kathisma21.melody
+octrMA.Kathisma12.text = ocMA.Kathisma22.text
+
+octrMA.Kathisma1T.mode = misc_en_US_dedes.Mode5
+octrMA.Kathisma1T.melody  = oc.m5.d6_en_US_dedes.ocMA.Kathisma13.melody
+octrMA.Kathisma1T.text = oc.m5.d6_en_US_dedes.ocMA.Kathisma13.text
+
+octrMA.Ode7Martyricon.mode = misc_en_US_dedes.Mode5
+octrMA.Ode7Martyricon.melody  = ""
+octrMA.Ode7Martyricon.text = ""
+
+octrMA.Photogogic.mode = misc_en_US_dedes.Mode5
+octrMA.Photogogic.text = oc.m5.d2_en_US_dedes.octrMA.Photagogic.text

@@ -483,3 +483,51 @@ ocLI.BeatitudesGlory.text = ""
 ocLI.BeatitudesBoth.mode = misc_en_US_dedes.Mode5
 ocLI.BeatitudesBoth.melody  = ""
 ocLI.BeatitudesBoth.text = ""
+
+//Octoechos in Triodion
+
+octrVE.Stichera1.mode = misc_en_US_dedes.Mode5
+octrVE.Stichera1.melody  = ""
+octrVE.Stichera1.text = ocVE.Aposticha1.text
+
+octrVE.Stichera2.mode = misc_en_US_dedes.Mode5
+octrVE.Stichera2.melody  = ""
+octrVE.Stichera2.text = ocVE.Aposticha2.text
+
+octrVE.Stichera3.mode = misc_en_US_dedes.Mode5
+octrVE.Stichera3.melody  = ""
+octrVE.Stichera3.text = ocMA.Aposticha1.text
+
+octrVE.Stichera4.mode = misc_en_US_dedes.Mode5
+octrVE.Stichera4.melody  = ""
+octrVE.Stichera4.text = ocMA.Aposticha2.text
+
+octrMA.Triadic1.mode = misc_en_US_dedes.Mode5
+octrMA.Triadic1.text = ""
+
+octrMA.Triadic2.mode = misc_en_US_dedes.Mode5
+octrMA.Triadic2.text = ""
+
+octrMA.Triadic3.mode = misc_en_US_dedes.Mode5
+octrMA.Triadic3.text = ""
+
+octrMA.Kathisma11.mode = misc_en_US_dedes.Mode5
+octrMA.Kathisma11.melody  = ""
+octrMA.Kathisma11.text = ocMA.Kathisma11.text
+
+octrMA.Kathisma12Verse.text = ""
+
+octrMA.Kathisma12.mode = misc_en_US_dedes.Mode5
+octrMA.Kathisma12.melody  = ""
+octrMA.Kathisma12.text = oc.m5.d3_en_US_dedes.ocMA.Kathisma11.text
+
+octrMA.Kathisma13.mode = misc_en_US_dedes.Mode5
+octrMA.Kathisma13.melody  = ""
+octrMA.Kathisma13.text = ocVE.ApolTheotokionVM.text
+
+octrMA.Ode7Martyricon.mode = misc_en_US_dedes.Mode5
+octrMA.Ode7Martyricon.melody  = misc_en_US_dedes.Automelon
+octrMA.Ode7Martyricon.text = oc.m5.d5_en_US_dedes.ocMA.Kathisma32.text
+
+octrMA.Photagogic.mode = misc_en_US_dedes.Mode5
+octrMA.Photagogic.text = ""
