@@ -15,15 +15,15 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode8
-meVE.Stichera01.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meVE.Stichera01.melody = misc_en_US_dedes.NotMetered
 meVE.Stichera01.text = "Imitating the Passion of the dispassionate Lord, you handed yourself over as a sheep for voluntary slaughter, O all-lauded Martyr Menas. You did not cower before the anger of the rulers. You did not faint from bodily torture. Such were your feats! Such was your prolonged resistance! Through these you cast the proud one to the ground."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode8
-meVE.Stichera02.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meVE.Stichera02.melody = misc_en_US_dedes.NotMetered
 meVE.Stichera02.text = "You were flayed by whips, and you were crucified like the Lord before you, and you were beaten with metal clubs all over your body, and yet you did not renounce the name of Christ, for the eyes of your soul were turned towards Him. Intensely focussing on Him as you did, O Saint, you were able to endure the physical pain, O blessed Menas."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode8
-meVE.Stichera03.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meVE.Stichera03.melody = misc_en_US_dedes.NotMetered
 meVE.Stichera03.text = "Most renowned Martyr Menas, you forsook the gloom of the world, the ephemeral military, the darkness of idolatry and the company of godless men, all for the love of Christ, and you numbered yourself in the army of His elect. Therefore, O Martyr, you were truly invincible as you contested for His sake."
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode8
@@ -45,7 +45,7 @@ meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.SticTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
-meVE.SticTheotokion.text = "Pure Virgin only Mother of God, * from Him you have been granted great * gifts of grace divine, * for you physically gave birth * unto Christ the life-giver, * who is one of the persons * of the Trinity, to save our souls."
+meVE.SticTheotokion.text = oc.m6.d5_en_US_dedes.ocMA.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode6
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
@@ -73,11 +73,11 @@ meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.AposTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.text = me.m07.d08_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode6
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
-meVE.AposStavrotheotokion.text = ""
+meVE.AposStavrotheotokion.text = oc.m6.d4_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
