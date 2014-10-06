@@ -2,11 +2,11 @@ A_Resource_Whose_Name = oc.m1.d5_en_US_dedes
 
 ocVE.Stichera1.mode = misc_en_US_dedes.Mode1
 ocVE.Stichera1.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
-ocVE.Stichera1.text = ""
+ocVE.Stichera1.text = "O glorious Apostles of Christ * and Disciples called by God, inspired teachers of all the world, when you had found the Lord * as the mediator between God and man, you cleaved * to Him in such a manner appropriate to His divinity. * And you preached Him to the universe * to be God and * manifestly perfect man."
 
 ocVE.Stichera2.mode = misc_en_US_dedes.Mode1
 ocVE.Stichera2.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
-ocVE.Stichera2.text = ""
+ocVE.Stichera2.text = "O wisest Apostles of the Lord, * intercede on my behalf, * that I might shake off the mindlessness of my bedarkened soul. * You indeed are wisdom’s * mystics and interpreters; * for you have lit the light of the Paraclete. . And once you burn away * the corruption that is in my mind, * count me worthy * to praise you and call you blest."
 
 ocVE.Stichera3.mode = misc_en_US_dedes.Mode1
 ocVE.Stichera3.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
@@ -14,7 +14,7 @@ ocVE.Stichera3.text = ""
 
 ocVE.Stichera4.mode = misc_en_US_dedes.Mode1
 ocVE.Stichera4.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-ocVE.Stichera4.text = ""
+ocVE.Stichera4.text = "As you are hovering over the flowers of the Church, * being yourself a fledgling * of the nest of the Angels, * O Nicholas thrice blessed, you ever cry * unto God on behalf of all * who in temptations and perils invoke your aid; * and you rescue them by fervent prayers."
 
 ocVE.Stichera5.mode = misc_en_US_dedes.Mode1
 ocVE.Stichera5.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
@@ -29,12 +29,12 @@ ocVE.SticTheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 ocVE.SticTheotokion.text = ""
 
 ocVE.Aposticha1.mode = misc_en_US_dedes.Mode1
-ocVE.Aposticha1.melody  = ""
-ocVE.Aposticha1.text = ""
+ocVE.Aposticha1.melody = ""
+ocVE.Aposticha1.text = "The most melodious harp of the Apostles, set in motion by the Holy Spirit, abolished the rites of the odious demons; and by preaching faith in the only Lord, it redeemed the nations from the delusion of the idols, and taught them to worship the consubstantial Trinity."
 
 ocVE.Aposticha2.mode = misc_en_US_dedes.Mode1
 ocVE.Aposticha2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-ocVE.Aposticha2.text = ""
+ocVE.Aposticha2.text = "Let us with one voice together extol Saints Peter and Paul * with Luke and Mark and Matthew, * John and Andrew and Thomas, * Iakovos and Philip, Bartholomew, * also Simon and Thaddaeus; * and let us worthily praise the entire choir * of divinely called Disciples of Christ."
 
 ocVE.Aposticha3.mode = misc_en_US_dedes.Mode1
 ocVE.Aposticha3.melody = misc_en_US_dedes.Automelon
@@ -42,14 +42,14 @@ ocVE.Aposticha3.text = he.a.m1_en_US_dedes.PaneffimoiMartyres.text
 
 ocVE.AposTheotokion.mode = misc_en_US_dedes.Mode1
 ocVE.AposTheotokion.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
-ocVE.AposTheotokion.text = ""
+ocVE.AposTheotokion.text = "O Virgin extolled in all the world, * Moses with prophetic eyes perceived the mystery wrought in you when he beheld the bush * unconsumed though burning. * For your undefiled womb, * O Maiden pure, was not by the fire of Divinity consumed. * Hence to you as Mother of our God * do we cry out: * Grant peace to the world, we pray."
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_dedes.Mode1
-ocVE.ApolTheotokionVM.melody  = ""
+ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = oc.m1.d5_en_US_dedes.ocMA.Kathisma13.text
 
 ocMA.Kathisma11.mode = misc_en_US_dedes.Mode1
-ocMA.Kathisma11.melody  = ""
+ocMA.Kathisma11.melody = ""
 ocMA.Kathisma11.text = ""
 
 ocMA.Kathisma12.mode = misc_en_US_dedes.Mode1
@@ -57,7 +57,7 @@ ocMA.Kathisma12.melody = he.a.m1_en_US_dedes.TouLithouSfragisthentos.name
 ocMA.Kathisma12.text = ""
 
 ocMA.Kathisma13.mode = misc_en_US_dedes.Mode1
-ocMA.Kathisma13.melody  = ""
+ocMA.Kathisma13.melody = ""
 ocMA.Kathisma13.text = ""
 
 ocMA.Kathisma21.mode = misc_en_US_dedes.Mode1
@@ -447,7 +447,7 @@ ocMA.OdeW9C2T.melody = he.h.m1_en_US_dedes.TinFotoforonNefelin.name
 ocMA.OdeW9C2T.text = ""
 
 ocMA.Aposticha1.mode = misc_en_US_dedes.Mode1
-ocMA.Aposticha1.melody  = ""
+ocMA.Aposticha1.melody = ""
 ocMA.Aposticha1.text = oc.m1.d5_en_US_dedes.ocVE.Aposticha1.text
 
 ocMA.Aposticha2.mode = misc_en_US_dedes.Mode1
@@ -455,7 +455,7 @@ ocMA.Aposticha2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 ocMA.Aposticha2.text = oc.m1.d5_en_US_dedes.ocVE.Aposticha2.text
 
 ocMA.Aposticha3.mode = misc_en_US_dedes.Mode1
-ocMA.Aposticha3.melody  = ""
+ocMA.Aposticha3.melody = ""
 ocMA.Aposticha3.text = ""
 
 ocMA.AposTheotokion.mode = misc_en_US_dedes.Mode1
@@ -463,31 +463,31 @@ ocMA.AposTheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 ocMA.AposTheotokion.text = ""
 
 ocMA.ApolTheotokion.mode = misc_en_US_dedes.Mode1
-ocMA.ApolTheotokion.melody  = ""
+ocMA.ApolTheotokion.melody = ""
 ocMA.ApolTheotokion.text = oc.m1.d3_en_US_dedes.ocMA.ApolTheotokion.text
 
 ocLI.Beatitudes1.mode = misc_en_US_dedes.Mode1
-ocLI.Beatitudes1.melody  = ""
+ocLI.Beatitudes1.melody = ""
 ocLI.Beatitudes1.text = oc.m1.d1_en_US_dedes.ocLI.Beatitudes1.text
 
 ocLI.Beatitudes2.mode = misc_en_US_dedes.Mode1
-ocLI.Beatitudes2.melody  = ""
+ocLI.Beatitudes2.melody = ""
 ocLI.Beatitudes2.text = ""
 
 ocLI.Beatitudes3.mode = misc_en_US_dedes.Mode1
-ocLI.Beatitudes3.melody  = ""
+ocLI.Beatitudes3.melody = ""
 ocLI.Beatitudes3.text = ""
 
 ocLI.Beatitudes4.mode = misc_en_US_dedes.Mode1
-ocLI.Beatitudes4.melody  = ""
+ocLI.Beatitudes4.melody = ""
 ocLI.Beatitudes4.text = ""
 
 ocLI.BeatitudesGlory.mode = misc_en_US_dedes.Mode1
-ocLI.BeatitudesGlory.melody  = ""
+ocLI.BeatitudesGlory.melody = ""
 ocLI.BeatitudesGlory.text = ""
 
 ocLI.BeatitudesBoth.mode = misc_en_US_dedes.Mode1
-ocLI.BeatitudesBoth.melody  = ""
+ocLI.BeatitudesBoth.melody = ""
 ocLI.BeatitudesBoth.text = ""
 
 //Octoechos in Triodion
@@ -506,11 +506,11 @@ octrMA.Kathisma11.melody = he.a.m1_en_US_dedes.TouLithouSfragisthentos.name
 octrMA.Kathisma11.text = ocMA.Kathisma12.text
 
 octrMA.Kathisma12.mode = misc_en_US_dedes.Mode1
-octrMA.Kathisma12.melody  = ""
+octrMA.Kathisma12.melody = ""
 octrMA.Kathisma12.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma1T.mode = misc_en_US_dedes.Mode1
-octrMA.Kathisma1T.melody  = ""
+octrMA.Kathisma1T.melody = ""
 octrMA.Kathisma1T.text = oc.m1.d4_en_US_dedes.ocMA.Kathisma13.text
 
 octrMA.Ode7Martyricon.mode = misc_en_US_dedes.Mode1
