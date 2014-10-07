@@ -2,11 +2,11 @@ A_Resource_Whose_Name = oc.m7.d4_en_US_dedes
 
 ocVE.Stichera1.mode = misc_en_US_dedes.Mode7
 ocVE.Stichera1.melody = he.a.m7_en_US_dedes.OukEtiKolyometha.name
-ocVE.Stichera1.text = ""
+ocVE.Stichera1.text = "Judeans had You nailed to a tree, O Master. * You were able thus by a tree to stay death. * Glory to You, O Lord."
 
 ocVE.Stichera2.mode = misc_en_US_dedes.Mode7
 ocVE.Stichera2.melody = he.a.m7_en_US_dedes.OukEtiKolyometha.name
-ocVE.Stichera2.text = ""
+ocVE.Stichera2.text = "You willingly endured being struck, O Master, * that You might deliver mankind from bondage. * Glory to You, O Lord."
 
 ocVE.Stichera3.mode = misc_en_US_dedes.Mode7
 ocVE.Stichera3.melody = he.a.m7_en_US_dedes.OukEtiKolyometha.name
@@ -22,7 +22,7 @@ ocVE.Stichera5.text = ""
 
 ocVE.Stichera6.mode = misc_en_US_dedes.Mode7
 ocVE.Stichera6.melody = he.a.m7_en_US_dedes.OukEtiKolyometha.name
-ocVE.Stichera6.text = ""
+ocVE.Stichera6.text = "O pure one, you extinguished the sorrow of Eve, * for unto the joy of the world you gave birth. * Rejoice, O unwedded Bride."
 
 ocVE.SticTheotokion.mode = misc_en_US_dedes.Mode7
 ocVE.SticTheotokion.melody = he.a.m7_en_US_dedes.OukEtiKolyometha.name
@@ -34,7 +34,7 @@ ocVE.Aposticha1.text = he.a.m7_en_US_dedes.OukEtiKolyometha.text
 
 ocVE.Aposticha2.mode = misc_en_US_dedes.Mode7
 ocVE.Aposticha2.melody = he.a.m7_en_US_dedes.OukEtiKolyometha.name
-ocVE.Aposticha2.text = ""
+ocVE.Aposticha2.text = "Suspended on the Cross, O immortal Master, * You triumphed over the snares of the devil. * Glory to You, O Lord."
 
 ocVE.Aposticha3.mode = misc_en_US_dedes.Mode7
 ocVE.Aposticha3.melody = misc_en_US_dedes.Automelon
@@ -42,46 +42,46 @@ ocVE.Aposticha3.text = he.a.m7_en_US_dedes.KatafronisantesPanton.text
 
 ocVE.AposTheotokion.mode = misc_en_US_dedes.Mode7
 ocVE.AposTheotokion.melody = he.a.m7_en_US_dedes.SimeronGrigoreiOIoudas.name
-ocVE.AposTheotokion.text = ""
+ocVE.AposTheotokion.text = "Truly have you endured death, O Logos, * for indeed You are crucified. * Thus the Virgin Mother cried out and lamented, * with the most beloved and renowned Theologian. * O Christ, who for us endured the Passion and who mortified * death by death, now mortify my passions, and make of me * a participant in Your divine life, * and save me through Your Mother’s prayers."
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_dedes.Mode7
-ocVE.ApolTheotokionVM.melody  = ""
+ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = oc.m7.d4_en_US_dedes.ocMA.Kathisma33.text
 
 ocMA.Kathisma11.mode = misc_en_US_dedes.Mode7
-ocMA.Kathisma11.melody  = ""
+ocMA.Kathisma11.melody = ""
 ocMA.Kathisma11.text = ""
 
 ocMA.Kathisma12.mode = misc_en_US_dedes.Mode7
-ocMA.Kathisma12.melody  = ""
+ocMA.Kathisma12.melody = ""
 ocMA.Kathisma12.text = ""
 
 ocMA.Kathisma13.mode = misc_en_US_dedes.Mode7
-ocMA.Kathisma13.melody  = ""
+ocMA.Kathisma13.melody = ""
 ocMA.Kathisma13.text = ""
 
 ocMA.Kathisma21.mode = misc_en_US_dedes.Mode7
-ocMA.Kathisma21.melody  = ""
+ocMA.Kathisma21.melody = ""
 ocMA.Kathisma21.text = ""
 
 ocMA.Kathisma22.mode = misc_en_US_dedes.Mode7
-ocMA.Kathisma22.melody  = ""
+ocMA.Kathisma22.melody = ""
 ocMA.Kathisma22.text = ""
 
 ocMA.Kathisma23.mode = misc_en_US_dedes.Mode7
-ocMA.Kathisma23.melody  = ""
+ocMA.Kathisma23.melody = ""
 ocMA.Kathisma23.text = ""
 
 ocMA.Kathisma31.mode = misc_en_US_dedes.Mode7
-ocMA.Kathisma31.melody  = ""
+ocMA.Kathisma31.melody = ""
 ocMA.Kathisma31.text = ""
 
 ocMA.Kathisma32.mode = misc_en_US_dedes.Mode7
-ocMA.Kathisma32.melody  = ""
+ocMA.Kathisma32.melody = ""
 ocMA.Kathisma32.text = ""
 
 ocMA.Kathisma33.mode = misc_en_US_dedes.Mode7
-ocMA.Kathisma33.melody  = ""
+ocMA.Kathisma33.melody = ""
 ocMA.Kathisma33.text = ""
 
 ocMA.C1Acrostic.text = ""
@@ -140,7 +140,7 @@ ocMA.OdeW1C24.text = ""
 
 ocMA.OdeW3C1H.mode = misc_en_US_dedes.Mode7
 ocMA.OdeW3C1H.ode = misc_en_US_dedes.Ode3
-ocMA.OdeW3C1H.melody =misc_en_US_dedes.Heirmos
+ocMA.OdeW3C1H.melody = misc_en_US_dedes.Heirmos
 ocMA.OdeW3C1H.text = he.h.m7_en_US_dedes.OKatArchasTousOuranous.text
 
 ocMA.OdeW3C11.mode = misc_en_US_dedes.Mode7
@@ -485,31 +485,31 @@ ocMA.AposTheotokion.melody = he.a.m7_en_US_dedes.OukEtiKolyometha.name
 ocMA.AposTheotokion.text = ""
 
 ocMA.ApolTheotokion.mode = misc_en_US_dedes.Mode7
-ocMA.ApolTheotokion.melody  = ""
+ocMA.ApolTheotokion.melody = ""
 ocMA.ApolTheotokion.text = oc.m7.d5_en_US_dedes.ocVE.AposTheotokion.text
 
 ocLI.Beatitudes1.mode = misc_en_US_dedes.Mode7
-ocLI.Beatitudes1.melody  = ""
+ocLI.Beatitudes1.melody = ""
 ocLI.Beatitudes1.text = oc.m7.d1_en_US_dedes.ocLI.Beatitudes1.text
 
 ocLI.Beatitudes2.mode = misc_en_US_dedes.Mode7
-ocLI.Beatitudes2.melody  = ""
+ocLI.Beatitudes2.melody = ""
 ocLI.Beatitudes2.text = ""
 
 ocLI.Beatitudes3.mode = misc_en_US_dedes.Mode7
-ocLI.Beatitudes3.melody  = ""
+ocLI.Beatitudes3.melody = ""
 ocLI.Beatitudes3.text = ""
 
 ocLI.Beatitudes4.mode = misc_en_US_dedes.Mode7
-ocLI.Beatitudes4.melody  = ""
+ocLI.Beatitudes4.melody = ""
 ocLI.Beatitudes4.text = ""
 
 ocLI.BeatitudesGlory.mode = misc_en_US_dedes.Mode7
-ocLI.BeatitudesGlory.melody  = ""
+ocLI.BeatitudesGlory.melody = ""
 ocLI.BeatitudesGlory.text = ""
 
 ocLI.BeatitudesBoth.mode = misc_en_US_dedes.Mode7
-ocLI.BeatitudesBoth.melody  = ""
+ocLI.BeatitudesBoth.melody = ""
 ocLI.BeatitudesBoth.text = ""
 
 //Octoechos in Triodion
@@ -524,19 +524,19 @@ octrMA.Triadic3.mode = misc_en_US_dedes.Mode7
 octrMA.Triadic3.text = oc.m7.d2_en_US_dedes.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = misc_en_US_dedes.Mode7
-octrMA.Kathisma11.melody  = ""
+octrMA.Kathisma11.melody = ""
 octrMA.Kathisma11.text = ocMA.Kathisma22.text
 
 octrMA.Kathisma12.mode = misc_en_US_dedes.Mode7
-octrMA.Kathisma12.melody  = ""
+octrMA.Kathisma12.melody = ""
 octrMA.Kathisma12.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma1T.mode = misc_en_US_dedes.Mode7
-octrMA.Kathisma1T.melody  = ""
+octrMA.Kathisma1T.melody = ""
 octrMA.Kathisma1T.text = ocMA.Kathisma33.text
 
 octrMA.Ode7Martyricon.mode = misc_en_US_dedes.Mode7
-octrMA.Ode7Martyricon.melody  = ""
+octrMA.Ode7Martyricon.melody = ""
 octrMA.Ode7Martyricon.text = ""
 
 octrMA.Photogogic.mode = misc_en_US_dedes.Mode7
