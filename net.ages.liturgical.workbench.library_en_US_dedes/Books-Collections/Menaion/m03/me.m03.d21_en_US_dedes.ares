@@ -1,22 +1,22 @@
 A_Resource_Whose_Name = me.m03.d21_en_US_dedes
 
 meDate.text = "March 21" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "" // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode2
 meVE.Stichera01.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.text = "Fleeing from the tumult of the world, * you, all-blessed James, were preserving unagitated your mind, * which you kept from roving and paying attention to * the distractions and turbulence * of life in the world; * you instead uplifted it to gaze with longing on high * to the Lord and Master in heaven, * who is the divine Benefactor * of all men, O ever-blessed Saint of God."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode2
 meVE.Stichera02.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
@@ -96,11 +96,11 @@ meMA.Ode3Kathisma1.melody = he.a.m3_en_US_dedes.TinOraiotita.name
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode3
-meMA.Ode3KathismaT.melody  = ""
+meMA.Ode3KathismaT.melody = ""
 meMA.Ode3KathismaT.text = ""
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode3
-meMA.Ode3KathismaSt.melody  = ""
+meMA.Ode3KathismaSt.melody = ""
 meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
@@ -178,7 +178,7 @@ meMA.Ode6C1T.mode = misc_en_US_dedes.Mode2
 meMA.Ode6C1T.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
 meMA.Ode6C1T.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode2
@@ -256,10 +256,10 @@ meMA.Ode9C1T.melody = he.h.m2_en_US_dedes.TonEkTheouTheonLogon.name
 meMA.Ode9C1T.text = ""
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 
