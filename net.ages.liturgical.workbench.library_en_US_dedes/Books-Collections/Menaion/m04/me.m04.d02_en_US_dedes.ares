@@ -1,34 +1,34 @@
 A_Resource_Whose_Name = me.m04.d02_en_US_dedes
 
 meDate.text = "April 2" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
+meCommemoration.text = "" // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode8
 meVE.Stichera01.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.text = "Titus, you took up your cross and followed after Christ with zeal, * and you brought under the control * of your soul the passions all, * O our father of godly mind; * then from on high you were given grace divine * to heal the ailments of those who came to you, * to cure diseases all, * and to drive out evil spirits. Therefore now * we observe and celebrate your sacred memory."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode8
 meVE.Stichera02.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.text = "Titus, through ascetic discipline sacredly purified * and illumined in mind and heart * by participation in * things divine, O all-blessed one, * the Holy Spirit approved, and you indeed * received the holy anointing of divine * priesthood within yourself, * and you excellently ministered on earth * like an Angel in the Church of your Creator and God."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode8
 meVE.Stichera03.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = "Holy father Titus, God-inspired, being illumined in soul * by the light of Orthodox faith, * you dispelled the murky mist * and the darkness of heresy; * and rising up like a most resplendant star, * you now and ever enlighten all the world * with your illustrious * and amazing miracles. * And therefore we * faithfully now honor you and we all call you blest."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = "What eyes can I gaze upon you with, upon your beautiful face, * I whose eyes are polluted by * carnal passions and by sin? * And again, how am I to kiss * your holy Icon, which is the work of God, * for I the prodigal have unholy lips? * I, the most wretched one, * how can I extend my hands to pray for grace, * when I have defiled them? O Lady, save me, I pray."
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
@@ -211,7 +211,7 @@ meMA.Kontakion1.mode = misc_en_US_dedes.Mode4
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
 meMA.Kontakion1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode8
@@ -304,10 +304,10 @@ meMA.Ode9C1T.melody = he.h.m8_en_US_dedes.TinAgninEndoxos.name
 meMA.Ode9C1T.text = ""
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.Alleluia.mode  = ""
+meLI.Alleluia.mode = ""
 
 meLI.AlleluiaVerse1.text = ""
 
