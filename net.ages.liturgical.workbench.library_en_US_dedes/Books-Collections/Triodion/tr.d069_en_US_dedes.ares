@@ -321,10 +321,7 @@ trHW.BeatitudesT.mode = misc_en_US_dedes.Mode4
 trHW.BeatutidesT.melody = he.a.m4_en_US_dedes.DiaXylouOAdam.name
 trHW.BeatitudesT.text = "O Christ our God, we present, as an intercessor to pray for us, * Your Virgin Mother who conceived without seed and physically gave birth to You, * and after the childbirth remained incorrupt, O most merciful Lord. * She prays that You always grant forgiveness of offences to those who cry aloud, * \"Remember us as well in Your kingdom, O Savior.\""
 
-trHW.Prokeimenon.mode = misc_en_US_dedes.Mode4
-trHW.Prokeimenon.text = "They divided my garments among themselves, and for my clothing they cast lots."
-
-trHW.ProkeimenonVerse1.text = "O God, my God, hear me; why have You forsaken me?"
+trHW.Prokeimenon.text = "" //for media
 
 trMA.C1Poet = poets_en_US_dedes.KosmaMonachou
 trMA.C1Acrostic.text = ""
@@ -502,13 +499,9 @@ trH1.Idiomelon1.mode = misc_en_US_dedes.Mode8
 trH1.Idiomelon1.melody  = ""
 trH1.Idiomelon1.text = trHW.Antiphon122.text
 
-trH1.Verse2.text = "Why do the nations rage, and the people meditate on vain things?"
-
 trH1.Idiomelon2.mode = misc_en_US_dedes.Mode8
 trH1.Idiomelon2.melody  = ""
 trH1.Idiomelon2.text = "You were led as a sheep to slaughter, O Christ the King, and as an innocent lamb, You were nailed to a cross by lawless men, for our sins, O Lord who love humanity."
-
-trH1.Verse3.text = "The kings of the earth set themselves, and the rulers gather together against the Lord and against His anointed."
 
 trH1.Idiomelon3.mode = misc_en_US_dedes.Mode8
 trH1.Idiomelon3.melody  = ""
@@ -529,13 +522,9 @@ trH3.Idiomelon1.mode = misc_en_US_dedes.Mode8
 trH3.Idiomelon1.melody = misc_en_US_dedes.Idiomelon
 trH3.Idiomelon1.text = "For fear of the Jews, Your friend and neighbor Peter denied You, O Lord. Then he lamented and said, \"Do not be silent at my tears. I know I said I would keep the faith, but I did not keep it, O merciful One.\" Accept our repentance as well, and have mercy on us."
 
-trH3.Verse2.text = "Give ear to my words, O Lord, hear my cry."
-
 trH3.Idiomelon2.mode = misc_en_US_dedes.Mode8
 trH3.Idiomelon2.melody = misc_en_US_dedes.Idiomelon
 trH3.Idiomelon2.text = "Before Your venerable crucifixion, soldiers were mocking You, O Lord; and the angelic ranks were astounded. You who adorned the earth with flowers put on a crown of insult. You who cover the world with clouds put on the robe and were ridiculed. Such was Your plan, and by it Your compassion was known, O Christ, the great mercy. Glory to You!"
-
-trH3.Verse3.text = "Give heed to the voice of my supplication, my King and my God."
 
 trH3.Idiomelon3.mode = misc_en_US_dedes.Mode5
 trH3.Idiomelon3.melody = misc_en_US_dedes.Idiomelon
@@ -556,13 +545,9 @@ trH6.Idiomelon1.mode = misc_en_US_dedes.Mode8
 trH6.Idiomelon1.melody = misc_en_US_dedes.Idiomelon
 trH6.Idiomelon1.text = trHW.Antiphon121.text
 
-trH6.Verse2.text = "They gave me gall for my food, and they gave me vinegar for my drink."
-
 trH6.Idiomelon2.mode = misc_en_US_dedes.Mode8
 trH6.Idiomelon2.melody = misc_en_US_dedes.Idiomelon
 trH6.Idiomelon2.text = trHW.Antiphon123.text
-
-trH6.Verse3.text = "Save me, O God, for the waters flood my soul."
 
 trH6.Idiomelon3.mode = misc_en_US_dedes.Mode5
 trH6.Idiomelon3.melody = misc_en_US_dedes.Idiomelon
@@ -583,13 +568,9 @@ trH9.Idiomelon1.mode = misc_en_US_dedes.Mode7
 trH9.Idiomelon1.melody = misc_en_US_dedes.Idiomelon
 trH9.Idiomelon1.text = "It was shocking to see the Creator of heaven and earth hanging on the Cross, the sun darkened, and day turned into night; and earth sending up from the graves the bodies of the dead. With them we also worship You. Save us."
 
-trH9.Verse2.text = "They divided my garments among themselves, and for my clothing they cast lots."
-
 trH9.Idiomelon2.mode = misc_en_US_dedes.Mode2
 trH9.Idiomelon2.melody = misc_en_US_dedes.Idiomelon
 trH9.Idiomelon2.text = "When the transgressors of the Law had You nailed to the Cross -- You who are the King of glory, You said to them, \"How have I vexed you, or with what did I provoke you to anger? Before Me, who delivered you from affliction? And now, how do you repay Me? Evil instead of good. In return for the pillar of fire, you nailed Me to a cross; in return for the cloud, you dug a grave for Me. In return for the manna, you fed Me gall, and in return for the water, you gave Me vinegar to drink. So, I will call the Gentiles, and they will glorify Me, with the Father and the Holy Spirit.\""
-
-trH9.Verse3.text = "They gave me gall for my food, and they gave me vinegar for my drink."
 
 trH9.Idiomelon3.rubric = "The Reader (or one of the chanters) stands in the center of the solea in front of the Crucifix and facing east, and reverently intones the following hymn in the same style as the Epistle Readings. When he is finished, the choirs sing the hymn antiphonally, verse by verse."
 trH9.Idiomelon3.mode = misc_en_US_dedes.Mode6
