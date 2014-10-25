@@ -2,8 +2,8 @@ A_Resource_Whose_Name = pe.d085_en_US_dedes
 
 peCommemoration.text = "" //full title of day
 peShortCommemoration1.text = "Myrrh-bearers Sunday"
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
+peInsert1 = "the holy Myrrh-bearers, and Joseph of Arimathea, and Nikodemos the disciple by night," //for use in petitions and dismissal
+peInsert2 = "whose memory we observe," //for use in petitions and dismissal
 peNote.text = ""
 peDismissal = dismissals_en_US_dedes.dis00.resurrection
 
@@ -568,9 +568,9 @@ peMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
 peMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 peMA.LaudsGlory.text = eo.e02_en_US_dedes.eo.Doxasticon.text
 
-peLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
+peLI.SeasonalKontakion.mode = pe.d00P_en_US_dedes.pePA.Kontakion.mode
 peLI.SeasonalKontakion.melody  = ""
-peLI.SeasonalKontakion.text = peMA.Kontakion1.text
+peLI.SeasonalKontakion.text = pe.d00P_en_US_dedes.pePA.Kontakion.text
 
 peLI.TheotokosHymn.mode = misc_en_US_dedes.Mode1
 peLI.TheotokosHymnVerse.text = pe.d00P_en_US_dedes.pePA.Ode9MKa.text
