@@ -645,41 +645,13 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
-meLI.Antiphon1Verse1.text = "Shout aloud to the Lord, all the earth."
-
-meLI.Antiphon1Verse2.text = "Sing now to His name; give glory to His praise."
-
-meLI.Antiphon1Verse3.text = "Describe all His wonderful works."
-
-meLI.Antiphon1Verse4.text = "Say to God, \"How fearful are Your works.\""
-
-meLI.Antiphon2Verse1.text = "Let the heavens be glad, and let the earth greatly rejoice."
-
-meLI.Antiphon2Verse2.text = "Sing to the Lord; sing to His name."
-
-meLI.Antiphon2Verse3.text = "From Zion in beauty's splendor, God will come openly."
-
-meLI.Antiphon2Verse4.text = "Our God is in heaven above; and both in heaven and on earth, all things whatsoever He will, He does."
-
 meLI.Antiphon2.text = "who were circumcised in the flesh."
-
-meLI.Antiphon3Verse1.text = "O Lord, I will sing of Your mercies forever."
-
-meLI.Antiphon3Verse2.text = "I will proclaim Your truth with my mouth from generation to generation."
-
-meLI.Antiphon3Verse3.text = "You loved righteousness and hated lawlessness."
 
 meLI.EntranceHymn.text = ho.s07_en_US_dedes.hoLI.EntranceHymn.text
 
-meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
-meLI.SeasonalKontakion.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
+meLI.SeasonalKontakion.mode = meMA.Ode3Kathisma3.mode
+meLI.SeasonalKontakion.melody = meMA.Ode3Kathisma3.melody
 meLI.SeasonalKontakion.text = meMA.Ode3Kathisma3.text
-
-meLI.Alleluia.mode = misc_en_US_dedes.Mode8
-
-meLI.AlleluiaVerse1.text = "Give heed, O You who shepherd Israel."
-
-meLI.AlleluiaVerse2.text = "The mouth of the righteous shall meditate on wisdom."
 
 meLI.TheotokosHymn.mode = ""
 meLI.TheotokosHymn.text = eu.lichrysbasil_en_US_dedes.euLI.Key1328.basil.text
