@@ -600,38 +600,20 @@ peMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
 peMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 peMA.LaudsGlory.text = peVE.Aposticha1.text
 
-peLI.Antiphon1Verse1.text = "Oh, clap your hands all you nations; shout to God with the voice of rejoicing."
-
-peLI.Antiphon1Verse2.text = "For the Lord Most High is fearsome; a great King over all the earth."
-
-peLI.Antiphon1Verse3.text = "He subdued the peoples under us and the nations under our feet."
-
-peLI.Antiphon2Verse1.text = "Great is the Lord, and greatly is he to be praised in the city of our God, in His holy mountain."
-
-peLI.Antiphon2Verse2.text = "God is known in her palaces, when He helps her."
-
-peLI.Antiphon2Verse3.text = "For behold, the kings of the earth assembled; they came together."
-
 peLI.Antiphon2.text = "who were taken up in glory to heaven from us."
 
-peLI.Antiphon3Verse1.text = "Hear this all you nations; give ear, all you inhabitants of the world."
+peLI.EntranceHymn.text = "" //for media
 
-peLI.Antiphon3Verse2.text = "My mouth shall speak wisdom, and the meditation of my heart, understanding."
-
-peLI.Antiphon3Verse3.text = "I will incline my ear to a parable; I will open my riddle on the harp."
-
-peLI.EntranceHymn.text = "God ascended with a shout, the Lord with the sound of the trumpet."
-
-peLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode6
-peLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
+peLI.SeasonalKontakion.mode = peMA.Kontakion1.mode
+peLI.SeasonalKontakion.melody = peMA.Kontakion1.melody
 peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 
-peLI.TheotokosHymn.mode = misc_en_US_dedes.Mode5
+peLI.TheotokosHymn.mode = peMA.Ode9C1H.mode
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text
 
-peLI.CommunionHymn.text = "God ascended with a shout, the Lord with the sound of the trumpet. Alleluia."
+peLI.CommunionHymn.text = "" //for media
 
-peLI.AfterCommunion.mode = misc_en_US_dedes.Mode4
+peLI.AfterCommunion.mode = peVE.Apolytikion1.mode
 peLI.AfterCommunion.text = peVE.Apolytikion1.text
 
 peMegalynarion.text = ""

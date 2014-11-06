@@ -677,7 +677,7 @@ meMA.Ode8K.mode = misc_en_US_dedes.Mode1
 meMA.Ode8K.melody = misc_en_US_dedes.Heirmos
 meMA.Ode8K.text = he.h.m1_en_US_dedes.ThavmatosYperfyous.text
 
-meMA.Ode9C1M01.text = "When they saw the Entry of the all-pure one the Angels were astonished at how the Virgin entered into the Holy of Holies."
+meMA.Ode9C1M01.text = "When they saw the Entry of the Virgin Maiden, the Angels were astonished, at how she entered with glory into the Holy of Holies."
 meMA.Ode9C1M02.text = "When they saw the Entry of the all-pure one the Angels were astonished at how she entered with glory into the Holy of Holies."
 meMA.Ode9C1M03.text = "When they saw the Entry of the all-pure one the Angels were astonished how paradoxically she entered into the Holy of Holies."
 meMA.Ode9C1M04.text = "Angels and people, let us all honor the Entry of the virgin Maid, how she entered in glory into the Holy of Holies."
@@ -794,50 +794,23 @@ meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Today the all-blameless Virgin is led to the Temple, to become the abode of God the King of all and Nourisher of our whole life. Today the most pure sanctuary is introduced into the Holy of Holies as a heifer three years old. Let us cry out to her as once did the Angel: Rejoice, only blessed among women."
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
+meMA.LaudsSundayVerse1.text = "" //for media
 
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
-
-meLI.Antiphon1Verse1.text = "Great is the Lord, and greatly to be praised in the city of our God, in His holy mountain."
-
-meLI.Antiphon1Verse2.text = "Glorious things are spoken of you, O city of God."
-
-meLI.Antiphon1Verse3.text = "God is known in her palaces when He helps her."
-
-meLI.Antiphon1Verse4.text = "As we heard, so we saw in the city of the Lord of host, in the city of our God."
-
-meLI.Antiphon2Verse1.text = "The Most High sanctified His tabernacle."
-
-meLI.Antiphon2Verse2.text = "Holiness and majesty are in His holy place."
-
-meLI.Antiphon2Verse3.text = "This is the gate of the Lord; the righteous shall go in through it."
-
-meLI.Antiphon2Verse4.text = "Holy is Your temple, wondrous in righteousness."
+meMA.LaudsSundayVerse2.text =  "" //for media
 
 meLI.Antiphon2.text = ho.s07_en_US_dedes.hoLI.Antiphon2w.text
 
-meLI.Antiphon3Verse1.text = "The rich among the people shall entreat your favor."
-
-meLI.Antiphon3Verse2.text = "All her glory as the King's daughter is within, adorned and embroidered with golden tassels."
-
-meLI.Antiphon3Verse3.text = "The virgins behind her shall be brought to the King; her neighbors shall be brought to You."
-
-meLI.EntranceHymn.text = ho.s07_en_US_dedes.hoLI.EntranceHymn.text
+meLI.EntranceHymn.text = "" //for media
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 
-meLI.Alleluia.mode = misc_en_US_dedes.Mode6
+meLI.TheotokosHymn.mode = meMA.Ode9C1H.mode
+meLI.TheotokosHymnVerse.text = meMA.Ode9C1M01.text
+meLI.TheotokosHymn.text = meMA.Ode9C1H.text
 
-meLI.AlleluiaVerse1.text = "Listen, O daughter; behold and incline your year; and forget your people and your fathers house; for the King desired your beauty."
-
-meLI.AlleluiaVerse2.text = "The rich among the people shall entreat your favor."
-
-meLI.TheotokosHymn.mode = misc_en_US_dedes.Mode4
-meLI.TheotokosHymn.text = he.h.m4_en_US_dedes.OsEmpsychoTheouKivoto.text
-
-meLI.CommunionHymn.text = da.d4_en_US_dedes.daLI.CommunionHymn.text
+meLI.CommunionHymn.text = "" //for media
 
 meMegalynarion.text = ""
 
