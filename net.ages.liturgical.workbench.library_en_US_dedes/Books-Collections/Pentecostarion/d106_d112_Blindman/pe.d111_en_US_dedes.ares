@@ -1,0 +1,64 @@
+A_Resource_Whose_Name = pe.d111_en_US_dedes
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peDismissal = dismissals_en_US_dedes.dis00.ascension
+
+peVE.Stichera01.mode = pe.d110_en_US_dedes.peVE.Lity1.mode
+peVE.Stichera01.melody = pe.d110_en_US_dedes.peVE.Lity1.melody
+peVE.Stichera01.text = pe.d110_en_US_dedes.peVE.Lity1.text
+
+peVE.Stichera02.mode = pe.d110_en_US_dedes.peVE.Lity2.mode
+peVE.Stichera02.melody = pe.d110_en_US_dedes.peVE.Lity2.melody
+peVE.Stichera02.text = pe.d110_en_US_dedes.peVE.Lity2.text
+
+peVE.Stichera03.mode = pe.d110_en_US_dedes.peVE.Lity3.mode
+peVE.Stichera03.melody = pe.d110_en_US_dedes.peVE.Lity3.melody
+peVE.Stichera03.text = pe.d110_en_US_dedes.peVE.Lity3.text
+
+peVE.SticGlory.mode = pe.d110_en_US_dedes.peVE.Aposticha1.mode
+peVE.SticGlory.melody = pe.d110_en_US_dedes.peVE.Aposticha1.melody
+peVE.SticGlory.text = pe.d110_en_US_dedes.peVE.Aposticha1.text
+
+peVE.Aposticha1.mode = misc_en_US_dedes.Mode2
+peVE.Aposticha1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+peVE.Aposticha1.text = ""
+
+peVE.Aposticha2.mode = misc_en_US_dedes.Mode2
+peVE.Aposticha2.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+peVE.Aposticha2.text = ""
+
+peVE.Aposticha3.mode = misc_en_US_dedes.Mode2
+peVE.Aposticha3.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+peVE.Aposticha3.text = ""
+
+peVE.AposGlory.mode = pe.d110_en_US_dedes.peVE.Stichera03.mode
+peVE.AposGlory.melody = pe.d110_en_US_dedes.peVE.Stichera03.melody
+peVE.AposGlory.text = pe.d110_en_US_dedes.peVE.Stichera03.text
+
+peMA.Kathisma11.mode = misc_en_US_dedes.Mode8
+peMA.Kathisma11.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+peMA.Kathisma11.text = ""
+
+peMA.Kathisma21.mode = pe.d110_en_US_dedes.peMA.Ode3Kathisma1.mode
+peMA.Kathisma21.melody = pe.d110_en_US_dedes.peMA.Ode3Kathisma1.melody
+peMA.Kathisma21.text = pe.d110_en_US_dedes.peMA.Ode3Kathisma1.text
+
+peMA.Aposticha1.mode = misc_en_US_dedes.Mode2
+peMA.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+peMA.Aposticha1.text = ""
+
+peMA.Aposticha2.mode = misc_en_US_dedes.Mode2
+peMA.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+peMA.Aposticha2.text = ""
+
+peMA.Aposticha3.mode = misc_en_US_dedes.Mode2
+peMA.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+peMA.Aposticha3.text = ""
+
+peMA.AposGlory.mode = misc_en_US_dedes.Mode5
+peMA.AposGlory.melody = misc_en_US_dedes.Idiomelon
+peMA.AposGlory.text = ""
