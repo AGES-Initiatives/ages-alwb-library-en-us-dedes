@@ -568,9 +568,9 @@ peMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
 peMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 peMA.LaudsGlory.text = eo.e02_en_US_dedes.eo.Doxasticon.text
 
-peLI.SeasonalKontakion.mode = pe.d00P_en_US_dedes.pePA.Kontakion.mode
+peLI.SeasonalKontakion.mode = peMA.Kontakion1.mode
 peLI.SeasonalKontakion.melody  = ""
-peLI.SeasonalKontakion.text = pe.d00P_en_US_dedes.pePA.Kontakion.text
+peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = misc_en_US_dedes.Mode1
 peLI.TheotokosHymnVerse.text = pe.d00P_en_US_dedes.pePA.Ode9MKa.text
