@@ -41,7 +41,7 @@ ocVE.Aposticha3.melody = ""
 ocVE.Aposticha3.text = "Your Martyrs did not renounce You, O Lord, nor did they deviate from Your commandments. Through their intercessions, have mercy on us."
 
 ocVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
-ocVE.AposTheotokion.melody = ""
+ocVE.AposTheotokion.melody = misc_en_US_dedes.NotMetered
 ocVE.AposTheotokion.text = "O believers, let us extol archangelically the heavenly bridal chamber and the gate that was truly sealed: Rejoice, O Maiden, through whom to us sprouted forth the Savior of one and all, Christ the Giver of life and God. Strike down our enemies, the godless tyrants, with your hand, O immaculate Lady, the Christians’ hope."
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_dedes.Mode6
@@ -456,11 +456,11 @@ ocMA.OdeW9C2T.text = ""
 
 ocMA.Aposticha1.mode = misc_en_US_dedes.Mode6
 ocMA.Aposticha1.melody = ""
-ocMA.Aposticha1.text = ""
+ocMA.Aposticha1.text = "O Savior, heal the wounds of my heart, which have grown in me because of many sins, O physician of souls and bodies. As You ever grant forgiveness of offenses to those who ask, grant me tears of repentance, and give me the remission of my debts, O Lord, and have mercy on me."
 
 ocMA.Aposticha2.mode = misc_en_US_dedes.Mode6
 ocMA.Aposticha2.melody = ""
-ocMA.Aposticha2.text = ""
+ocMA.Aposticha2.text = "The enemy found me naked of any virtues, so he shot me with the arrow of sin. But I pray You, the physician of souls and bodies, heal the wounds of my soul, and have mercy on me, O God."
 
 ocMA.Aposticha3.mode = misc_en_US_dedes.Mode6
 ocMA.Aposticha3.melody = ""
@@ -501,7 +501,7 @@ ocLI.BeatitudesBoth.text = ""
 //Octoechos in Triodion
 
 octrVE.Stichera1.mode = misc_en_US_dedes.Mode6
-octrVE.Stichera1.melody = ""
+octrVE.Stichera1.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 octrVE.Stichera1.text = ocVE.Aposticha1.text
 
 octrVE.Stichera2.mode = misc_en_US_dedes.Mode6
