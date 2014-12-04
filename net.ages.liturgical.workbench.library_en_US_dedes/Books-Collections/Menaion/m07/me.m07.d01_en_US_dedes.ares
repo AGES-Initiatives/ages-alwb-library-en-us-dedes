@@ -7,8 +7,8 @@ meDate.text = "July 1"
 meCommemoration.text = "Memory of the Holy Unmercenaries Kosmas and Damian the Wonder-workers, who Witnessed in Rome."
  //full title of day
 meShortCommemoration1.text = "Sts. Kosmas and Damian"
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
+meInsert1 = "the holy and glorious Unmercenaries Kosmas and Damian," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Holy Unmercenaries Kosmas and Damianos (Damian)."
 meLE.commemoration2 = ""
@@ -53,11 +53,11 @@ meVE.Lity3.text = ""
 
 meVE.Lity4.mode = misc_en_US_dedes.Mode2
 meVE.Lity4.melody = ""
-meVE.Lity4.text = ""
+meVE.Lity4.text = "The choir of the Saints rejoices greatly forever; for they have inherited the kingdom of heaven. The earth received their relics and exhales their sweet fragrance. They became servants of Christ, and they dwell in life everlasting."
 
 meVE.Lity5.mode = misc_en_US_dedes.Mode2
 meVE.Lity5.melody = ""
-meVE.Lity5.text = ""
+meVE.Lity5.text = "Physicians of the sick, treasure houses of cures, and saviors of the faithful, O famous Unmercenaries: heal those who are in pain who cry out in need. Together with your mother, Theodota, pray to God who is good, to deliver us from the snares of the enemy."
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode6
 meVE.LityGlory.melody = ""
@@ -311,11 +311,11 @@ meMA.Ode9C1T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
-meMA.Exaposteilarion1.text = me.m11.d01_en_US_dedes.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion1.text = "Since you received from God the grace * to effect cures and healings, * you cure all manner of disease, * O blessed Unmercenaries, * and you grant healing to all those * who are ill and run with faith * to your holy shrine and temple. * Therefore as it is worthy * we observe your most solemn * memorial together."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
-meMA.ExapTheotokion.text = me.m11.d01_en_US_dedes.meMA.ExapTheotokion.text
+meMA.ExapTheotokion.text = "O Lady, all-immaculate, * you bore the Word of God and God, * who wisely wrought the excellent * plan for the world's salvation. * All of us for this reason * as it is worthy extol you, * as the one who entreats Him * to deliver us from illness * and every kind of danger."
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode4
 meMA.Lauds1.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
@@ -331,7 +331,7 @@ meMA.Lauds3.text = "Your most sacred temple has been shown to be like the sky it
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = me.m11.d01_en_US_dedes.meMA.LaudsGlory.text
+meMA.LaudsGlory.text = "Since you have a fountain of healings, O holy Unmercenaries, you dispense cures to all in need, for you have been granted very great gifts from the ever-flowing wellspring of Christ our Savior. The Lord says to you who emulate the zeal of the Apostles, \"Behold, I have given you authority over unclean spirits, so that you might drive them out and cure every disease and illness.\" Having truly lived according to His commandments, freely you received and therefore freely you give, healing the ailments of our souls and our bodies."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
 meMA.LaudsTheotokion.melody = ""
