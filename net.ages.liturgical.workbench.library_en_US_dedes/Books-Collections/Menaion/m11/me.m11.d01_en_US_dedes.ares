@@ -23,18 +23,18 @@ meVE.Stichera01.text = he.a.m6_en_US_dedes.OlinApothemenoi.text
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode6
 meVE.Stichera02.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.text = me.m07.d01_en_US_dedes.meVE.Stichera02.text
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode6
 meVE.Stichera03.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = me.m07.d01_en_US_dedes.meVE.Stichera03.text
 
 meVE.Stichera78910.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.melody  = ""
+meVE.SticGlory.text = me.m07.d01_en_US_dedes.meVE.SticGlory.text
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.SticTheotokion.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
@@ -45,26 +45,26 @@ meVE.SticStavrotheotokion.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
 meVE.SticStavrotheotokion.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha1.melody = ""
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.melody  = misc_en_US_dedes.Idiomelon
+meVE.Aposticha1.text = me.m07.d01_en_US_dedes.meVE.Lity1.text
 
 meVE.ApostichaVerse2.text = ""
 
 meVE.Aposticha2.poet = poets_en_US_dedes.Theofanous
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha2.melody = ""
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.melody  = misc_en_US_dedes.Idiomelon
+meVE.Aposticha2.text = me.m07.d01_en_US_dedes.meVE.Lity2.text
 
 meVE.ApostichaVerse3.text = ""
 
 meVE.Aposticha3.poet = poets_en_US_dedes.Germanou
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha3.melody = ""
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.melody  = misc_en_US_dedes.Idiomelon
+meVE.Aposticha3.text = me.m07.d01_en_US_dedes.meVE.Lity3.text
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.melody  = ""
+meVE.AposGlory.text = me.m07.d01_en_US_dedes.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.AposTheotokion.melody = ""
@@ -464,11 +464,11 @@ meMA.Ode9H.text = he.h.m4_en_US_dedes.EvaMenToTisParakois.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
-meMA.Exaposteilarion1.text = "Since you received from God the grace * to effect cures and healings, * you cure all manner of disease, * O blessed Unmercenaries, * and you grant healing to all those * who are ill and run with faith * to your holy shrine and temple. * Therefore as it is worthy * we observe your most solemn * memorial together."
+meMA.Exaposteilarion1.text = me.m07.d01_en_US_dedes.meMA.Exaposteilarion1.text
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
-meMA.ExapTheotokion.text = "O Lady, all-immaculate, * you bore the Word of God and God, * who wisely wrought the excellent * plan for the world's salvation. * All of us for this reason * as it is worthy extol you, * as the one who entreats Him * to deliver us from illness * and every kind of danger."
+meMA.ExapTheotokion.text = me.m07.d01_en_US_dedes.meMA.ExapTheotokion.text
 
 meMA.Lauds1.poet = poets_en_US_dedes.Anatoliou
 meMA.Lauds1.mode = misc_en_US_dedes.Mode1
@@ -482,16 +482,16 @@ meMA.Lauds2.text = "You draw the unending supply of healings from on high, and p
 meMA.Lauds3.poet = poets_en_US_dedes.Germanou
 meMA.Lauds3.mode = misc_en_US_dedes.Mode2
 meMA.Lauds3.melody = misc_en_US_dedes.Idiomelon
-meMA.Lauds3.text = "The choir of the Saints rejoices greatly forever; for they have inherited the kingdom of heaven. The earth received their relics and exhales their sweet fragrance. They became servants of Christ, and they dwell in life everlasting."
+meMA.Lauds3.text = me.m07.d01_en_US_dedes.meVE.Lity4.text
 
 meMA.Lauds4.mode = misc_en_US_dedes.Mode2
 meMA.Lauds4.melody = misc_en_US_dedes.Idiomelon
-meMA.Lauds4.text = "Physicians of the sick, treasure houses of cures, and saviors of the faithful, O famous Unmercenaries: heal those who are in pain who cry out in need. Together with your mother, Theodota, pray to God who is good, to deliver us from the snares of the enemy."
+meMA.Lauds4.text = me.m07.d01_en_US_dedes.meVE.Lity5.text
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Theofanous
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
 meMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
-meMA.LaudsGlory.text = "Since you have a fountain of healings, O holy Unmercenaries, you dispense cures to all in need, for you have been granted very great gifts from the ever-flowing wellspring of Christ our Savior. The Lord says to you who emulate the zeal of the Apostles, \"Behold, I have given you authority over unclean spirits, so that you might drive them out and cure every disease and illness.\" Having truly lived according to His commandments, freely you received and therefore freely you give, healing the ailments of our souls and our bodies."
+meMA.LaudsGlory.text = me.m07.d01_en_US_dedes.meMA.LaudsGlory.text
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
 meMA.LaudsTheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
@@ -501,9 +501,9 @@ meMA.LaudsStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meMA.LaudsStavrotheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meMA.LaudsStavrotheotokion.text = ""
 
-meMA.LaudsSundayVerse1.text = "The Lord has done marvelous things for His saints who are on the earth."
+meMA.LaudsSundayVerse1.text = ""
 
-meMA.LaudsSundayVerse2.text = "Behold how good and pleasant it is when brothers dwell in unity."
+meMA.LaudsSundayVerse2.text = ""
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode8
 meMA.AposGlory.melody = ""
@@ -521,7 +521,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
+meLI.CommunionHymn.text = ""
 
 meMegalynarion.text = ""
 
