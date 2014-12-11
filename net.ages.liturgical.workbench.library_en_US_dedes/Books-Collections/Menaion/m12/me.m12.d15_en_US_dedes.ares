@@ -66,8 +66,31 @@ meVE.Apolytikion1.mode = misc_en_US_dedes.Mode5
 meVE.Apolytikion1.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
 meVE.Apolytikion1.text = "You were fully adorned with the sacred priestly robes. * You were dripping with streams of your own martyric blood. * In this state, you ran to Christ your Master, O blessed Saint * Eleftherius, destroyer of Satan; you are wise. * Therefore cease not interceding * for us who loyally honor * your blessed contest of martyrdom."
 
-meMA.C1Acrostic.text = ""
+meMA.Kathisma11.mode  = misc_en_US_dedes.Mode4
+meMA.Kathisma11.melody  = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Kathisma11.text = ""
 
+meMA.Kathisma12.mode  = misc_en_US_dedes.Mode4
+meMA.Kathisma12.melody  = he.a.m4_en_US_dedes.TachyProkatalave.name
+meMA.Kathisma12.text = me.m12.d21_en_US_dedes.meMA.Ode3Kathisma3.text
+
+meMA.Kathisma21.mode  = misc_en_US_dedes.Mode1
+meMA.Kathisma21.melody  = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+meMA.Kathisma21.text = ""
+
+meMA.Kathisma22.mode  = misc_en_US_dedes.Mode1
+meMA.Kathisma22.melody  = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+meMA.Kathisma22.text = me.m12.d20_en_US_dedes.meMA.Kathisma11.text
+
+meMA.Kathisma31.mode  = misc_en_US_dedes.Mode3
+meMA.Kathisma31.melody  = he.a.m3_en_US_dedes.TheiasPisteos.name
+meMA.Kathisma31.text = ""
+
+meMA.Kathisma32.mode  = misc_en_US_dedes.Mode3
+meMA.Kathisma32.melody  = he.a.m3_en_US_dedes.TinOraiotita.name
+meMA.Kathisma32.text = me.m12.d20_en_US_dedes.meMA.Ode3Kathisma3.text
+
+meMA.C1Acrostic.text = ""
 meMA.C2Acrostic.text = ""
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -290,9 +313,9 @@ meMA.Ode6H.text = he.h.m6_en_US_dedes.TouViouTinThalassan.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TousAsfaleis.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "You the adornment of the  priesthood, O righteous one, * and the encouragement of prize-winning martyr saints * are extolled by all. To you we pray, * O hieromartyr Eleftherios, * to free us who with love observe you memory * from every kind of dangerous predicament, * and unceasingly intercede on behalf of us all."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "O compassionate Giver of Life, as the only One who loves mankind and tender-loving God, look upon the darkness of my soul, and by Your almighty right hand, O Word, free me from the shameful passions, so that I may extol Your hierarch Eleftherios. Truly he was known by You from the womb, and like Samuel he was sanctified and dedicated to You, the Creator, by a holy mother. And he unceasingly intercedes on behalf of us all."
 
 meMA.Synaxarion.text = ""
 
@@ -453,7 +476,7 @@ meMA.Lauds3.text = "O Hierarch, noetically * with showers of your all-holy blood
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.text = "As the namesake of liberty, O Father, you were counted worthy of sacerdotal vestments; and you boldly taught the true religion, and likewise you instructed us in the reasons for what we should do. When you demonstrated a martyr's resistance, even as a young man, you became illustrious in both martyrdom and priesthood, and you received a double crown from Christ our God. O Hieromartyr Eleftherios, earnestly entreat Him to save our souls."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.LaudsTheotokion.melody = ""
