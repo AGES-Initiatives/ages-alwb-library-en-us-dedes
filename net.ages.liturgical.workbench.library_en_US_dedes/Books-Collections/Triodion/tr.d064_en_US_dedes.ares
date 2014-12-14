@@ -273,11 +273,11 @@ trMA.Ode6K.mode = misc_en_US_dedes.Mode4
 trMA.Ode6K.melody = misc_en_US_dedes.Heirmos
 trMA.Ode6K.text = he.h.m4_en_US_dedes.EvoisanEnEffrosyni.text
 
-trMA.Kontakion.mode = misc_en_US_dedes.Mode6
-trMA.Kontakion.melody = misc_en_US_dedes.Automelon
-trMA.Kontakion.text = "In heaven upon the throne, on earth upon the colt, * You were carried, O Christ our God; * and the praise of the Angels, and the hymns of the children, You received as they cried to You, * \"Blessed are You, the One, who is coming to call Adam back again.\""
+trMA.Kontakion1.mode = misc_en_US_dedes.Mode6
+trMA.Kontakion1.melody = misc_en_US_dedes.Automelon
+trMA.Kontakion1.text = "In heaven upon the throne, on earth upon the colt, * You were carried, O Christ our God; * and the praise of the Angels, and the hymns of the children, You received as they cried to You, * \"Blessed are You, the One, who is coming to call Adam back again.\""
 
-trMA.Oikos.text = "Because You bound Hades, Immortal One, because You caused death to die and raised up the world, with palm-leaves did babes acclaim You, O Christ, as Victor, crying loud to You today, \"Hosanna to David's Son!\" They are saying, \"Never again shall infants be slaughtered because of the infant of Mary; for, for all, young and old, You alone are hung on a Cross. Never again shall the sword split us asunder, because Your own side was pierced with a lance. Therefore rejoicing, we say, 'Blessed are You, the One, who is coming to call Adam back again.'\""
+trMA.Oikos1.text = "Because You bound Hades, Immortal One, because You caused death to die and raised up the world, with palm-leaves did babes acclaim You, O Christ, as Victor, crying loud to You today, \"Hosanna to David's Son!\" They are saying, \"Never again shall infants be slaughtered because of the infant of Mary; for, for all, young and old, You alone are hung on a Cross. Never again shall the sword split us asunder, because Your own side was pierced with a lance. Therefore rejoicing, we say, 'Blessed are You, the One, who is coming to call Adam back again.'\""
 
 trMA.Synaxarion1.Com = "On this day, Palm Sunday, we celebrate the resplendent and glorious feast of the entry of our Lord, God and Savior Jesus Christ into Jerusalem."
 trMA.Synaxarion1.Ver1 = ""
@@ -416,7 +416,7 @@ trLI.EntranceHymn.text = "Blessed is He who comes in the name of the Lord. God i
 
 trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode6
 trLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
-trLI.SeasonalKontakion.text = trMA.Kontakion.text
+trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = misc_en_US_dedes.Mode4
 trLI.TheotokosHymn.text = trMA.Ode9C1H.text

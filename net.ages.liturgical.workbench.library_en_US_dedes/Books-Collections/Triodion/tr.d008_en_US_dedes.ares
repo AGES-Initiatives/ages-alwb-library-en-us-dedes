@@ -176,11 +176,11 @@ trMA.Ode6K.mode = misc_en_US_dedes.Mode2
 trMA.Ode6K.melody = misc_en_US_dedes.Heirmos
 trMA.Ode6K.text = he.h.m2_en_US_dedes.VythoAmartimaton.text
 
-trMA.Kontakion.mode = misc_en_US_dedes.Mode3
-trMA.Kontakion.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
-trMA.Kontakion.text = "I revolted senselessly * out of Your fatherly glory; * I have squandered sinfully * all of the riches You gave me.* Hence to You, using the Prodigal's words, I cry out,* I have sinned before You, merciful loving Father.* O receive me in repentance, * I pray, and treat me * as one of Your hired hands."
+trMA.Kontakion1.mode = misc_en_US_dedes.Mode3
+trMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
+trMA.Kontakion1.text = "I revolted senselessly * out of Your fatherly glory; * I have squandered sinfully * all of the riches You gave me.* Hence to You, using the Prodigal's words, I cry out,* I have sinned before You, merciful loving Father.* O receive me in repentance, * I pray, and treat me * as one of Your hired hands."
 
-trMA.Oikos.text = "Since our Savior teaches us each day by His familiar voice, let us listen to the Scriptures about the son who became prodigal and then returned to his senses, and in faith let us emulate his good repentance. With a humble heart let us cry out to God who observes all that is hidden, \"We have sinned against You, tender-loving Father, and we are no longer worthy to be called Your children as before. But inasmuch as You love humanity, receive me, I pray, and treat me as one of Your hired hands.\""
+trMA.Oikos1.text = "Since our Savior teaches us each day by His familiar voice, let us listen to the Scriptures about the son who became prodigal and then returned to his senses, and in faith let us emulate his good repentance. With a humble heart let us cry out to God who observes all that is hidden, \"We have sinned against You, tender-loving Father, and we are no longer worthy to be called Your children as before. But inasmuch as You love humanity, receive me, I pray, and treat me as one of Your hired hands.\""
 
 trMA.Synaxarion1.Com = "On this day we remember the parable of the Prodigal Son from the holy Gospel, which the most divine Fathers placed second in the Triodion."
 trMA.Synaxarion1.Ver1 = ""
@@ -304,7 +304,7 @@ trMA.LaudsTheotokion.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
 trLI.SeasonalKontakion.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
-trLI.SeasonalKontakion.text = trMA.Kontakion.text
+trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 
 trLI.Alleluia.mode  = ""
 

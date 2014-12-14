@@ -346,11 +346,11 @@ trMA.Ode5K.mode = misc_en_US_dedes.Mode6
 trMA.Ode5K.melody = misc_en_US_dedes.Heirmos
 trMA.Ode5K.text = he.h.m6_en_US_dedes.ProsSeOrthrizo.text
 
-trMA.Kontakion.mode = misc_en_US_dedes.Mode8
-trMA.Kontakion.melody  = ""
-trMA.Kontakion.text = "Come, let us all extol Him who was crucified for us. Mary beheld Him on the Cross and she said, \"Though You endure the Cross, You are my Son and my God.\""
+trMA.Kontakion1.mode = misc_en_US_dedes.Mode8
+trMA.Kontakion1.melody  = ""
+trMA.Kontakion1.text = "Come, let us all extol Him who was crucified for us. Mary beheld Him on the Cross and she said, \"Though You endure the Cross, You are my Son and my God.\""
 
-trMA.Oikos.text = "Seeing her own Lamb being led to the slaughter, Mary, the Ewe, was worn out, and she followed Him with the other women, and cried, \"Where are You going, Child? Why are You going so fast? Maybe there is another wedding in Cana, and You are hurrying now to make wine out of water for them? Shall I come with You, Child, and stay with You? Say something to me, O Word, who preserved my chastity. Please do not pass by me in silence. You are my Son and my God.\""
+trMA.Oikos1.text = "Seeing her own Lamb being led to the slaughter, Mary, the Ewe, was worn out, and she followed Him with the other women, and cried, \"Where are You going, Child? Why are You going so fast? Maybe there is another wedding in Cana, and You are hurrying now to make wine out of water for them? Shall I come with You, Child, and stay with You? Say something to me, O Word, who preserved my chastity. Please do not pass by me in silence. You are my Son and my God.\""
 
 trMA.Synaxarion.rubric  = ""
 trMA.Synaxarion1.Com = "On this day, Holy and Great Friday, we celebrate the awesome, holy, and saving Passion of our Lord and God and Savior Jesus Christ: the spitting, the blows, the buffeting, the mockery, the reviling, the purple robe, the reed, the sponge, the vinegar, the nails, the spear, and above all, the Cross and Death which He condescended to endure willingly for our sakes. Also the saving confession on the cross of the grateful Robber who was crucified with Him." 
@@ -508,7 +508,7 @@ trH1.Idiomelon3.melody  = ""
 trH1.Idiomelon3.text = trHW.Antiphon071.text
 
 trH1.Kontakion.mode = misc_en_US_dedes.Mode8
-trH1.Kontakion.text = trMA.Kontakion.text
+trH1.Kontakion.text = trMA.Kontakion1.text
 
 trH3.title = ho.s05_en_US_dedes.hoH3.title
 
@@ -531,7 +531,7 @@ trH3.Idiomelon3.melody = misc_en_US_dedes.Idiomelon
 trH3.Idiomelon3.text = "As You were led to the cross, O Lord, You said something like this, \"For which deed do you wish to crucify Me, O Jews? Is it for bracing your paralytics, or for raising your dead as if from sleep? I cured the woman with the flow of blood, I had mercy on the Canaanite woman. For which of My deeds do you wish to murder Me, O Jews? But you will look on Me, the Christ, whom you now pierce, O transgressors of the Law.\""
 
 trH3.Kontakion.mode = misc_en_US_dedes.Mode8
-trH3.Kontakion.text = trMA.Kontakion.text
+trH3.Kontakion.text = trMA.Kontakion1.text
 
 trH6.title = ho.s06_en_US_dedes.hoH6.title
 
@@ -554,7 +554,7 @@ trH6.Idiomelon3.melody = misc_en_US_dedes.Idiomelon
 trH6.Idiomelon3.text = "Come, O Christ-bearing people, let us contemplate how Judas the Betrayer and the unlawful priests conspired against our Savior. Today, they declared the immortal Logos as deserving death. They delivered Him to Pilate and had Him crucified on The Place of the Skull. And yet, as the Savior was suffering these things, He cried aloud and said, \"Father, forgive them this sin, so that the Gentiles may come to know my resurrection from the dead.\""
 
 trH6.Kontakion.mode = misc_en_US_dedes.Mode8
-trH6.Kontakion.text = trMA.Kontakion.text
+trH6.Kontakion.text = trMA.Kontakion1.text
 
 trH9.title = ho.s09_en_US_dedes.hoH9.title
 
@@ -578,5 +578,5 @@ trH9.Idiomelon3.melody = misc_en_US_dedes.Idiomelon
 trH9.Idiomelon3.text = "" //use Antiphon151
 
 trH9.Kontakion.mode = misc_en_US_dedes.Mode8
-trH9.Kontakion.text = trMA.Kontakion.text
+trH9.Kontakion.text = trMA.Kontakion1.text
 
