@@ -730,11 +730,11 @@ trMA.Ode6K.mode = misc_en_US_dedes.Mode8
 trMA.Ode6K.melody = misc_en_US_dedes.Heirmos
 trMA.Ode6K.text = he.h.m8_en_US_dedes.IlasthitiMoiSotir.text
 
-trMA.Kontakion.mode = misc_en_US_dedes.Mode2
-trMA.Kontakion.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
-trMA.Kontakion.text = "The joy of all men, the Truth who is Christ our God, the light and the life, the resurrection of the world has appeared unto those on earth, in that He is benevolent, becoming the type of the Resurrection, and granting divine remission unto all."
+trMA.Kontakion1.mode = misc_en_US_dedes.Mode2
+trMA.Kontakion1.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
+trMA.Kontakion1.text = "The joy of all men, the Truth who is Christ our God, the light and the life, the resurrection of the world has appeared unto those on earth, in that He is benevolent, becoming the type of the Resurrection, and granting divine remission unto all."
 
-trMA.Oikos.text = "To Your disciples, O Creator of all Your declared, saying: \"Brothers and comrades, our friend has fallen asleep.\" Thus You foretold them and taught that You know all things as the Creator of all things. \"So, onward; let us go and see a strange burial, and behold Mary's lament and the tomb of Lazarus. For I shall work a miracle there, preluding the Cross, and granting divine remission unto all.\""
+trMA.Oikos1.text = "To Your disciples, O Creator of all Your declared, saying: \"Brothers and comrades, our friend has fallen asleep.\" Thus You foretold them and taught that You know all things as the Creator of all things. \"So, onward; let us go and see a strange burial, and behold Mary's lament and the tomb of Lazarus. For I shall work a miracle there, preluding the Cross, and granting divine remission unto all.\""
 
 trMA.Synaxarion1.Com = "On this day, the Saturday before Palm Sunday, we celebrate the raising of the holy and righteous friend of Christ, Lazarus, who had been four days in the grave."
 trMA.Synaxarion1.Ver1 = "O Jesus, You grieve: a token of mortal essence."
@@ -904,7 +904,7 @@ trMA.LaudsTheotokion.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 trLI.SeasonalKontakion.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
-trLI.SeasonalKontakion.text = trMA.Kontakion.text
+trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = misc_en_US_dedes.Mode8
 trLI.TheotokosHymn.text = trMA.Ode9C1H.text

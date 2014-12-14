@@ -309,11 +309,11 @@ trMA.Ode6K.mode = misc_en_US_dedes.Mode6
 trMA.Ode6K.melody = misc_en_US_dedes.Heirmos
 trMA.Ode6K.text = he.h.m6_en_US_dedes.EvoisaEnOliKardiaMou.text
 
-trMA.Kontakion.mode = misc_en_US_dedes.Mode1
-trMA.Kontakion.melody  = ""
-trMA.Kontakion.text = "When You come down to the earth, O God, in Your glory, all things will cower tremulous, and a river of fire will draw before Your Judgment Seat; the books shall be opened up, and public knowledge will things hidden be. Rescue me, then, I pray, from unquenchable fire, and count me worthy to stand at Your right hand, O You, the most righteous Judge."
+trMA.Kontakion1.mode = misc_en_US_dedes.Mode1
+trMA.Kontakion1.melody  = ""
+trMA.Kontakion1.text = "When You come down to the earth, O God, in Your glory, all things will cower tremulous, and a river of fire will draw before Your Judgment Seat; the books shall be opened up, and public knowledge will things hidden be. Rescue me, then, I pray, from unquenchable fire, and count me worthy to stand at Your right hand, O You, the most righteous Judge."
 
-trMA.Oikos.text = "Considering well Your fearsome judgment, exceedingly good Lord, and the Judgment Day, I shudder and am frightened at the accusations of my conscience. When You are seated on Your throne and conduct the examination, no one can deny their sins, accused by the truth and possessed by terror. Great will be the sound of the Gehenna fire, then, and the gnashing of sinners. Therefore, have mercy on me before the end, and pity me, O You, the most righteous Judge."
+trMA.Oikos1.text = "Considering well Your fearsome judgment, exceedingly good Lord, and the Judgment Day, I shudder and am frightened at the accusations of my conscience. When You are seated on Your throne and conduct the examination, no one can deny their sins, accused by the truth and possessed by terror. Great will be the sound of the Gehenna fire, then, and the gnashing of sinners. Therefore, have mercy on me before the end, and pity me, O You, the most righteous Judge."
 
 trMA.Synaxarion1.Com = "On this day, we also remember the second and impartial coming of our Lord Jesus Christ."
 trMA.Synaxarion1.Ver1 = ""
@@ -491,7 +491,7 @@ trMA.LaudsTheotokion.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
 trLI.SeasonalKontakion.melody  = ""
-trLI.SeasonalKontakion.text = trMA.Kontakion.text
+trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 
 trLI.Alleluia.mode = misc_en_US_dedes.Mode8
 
