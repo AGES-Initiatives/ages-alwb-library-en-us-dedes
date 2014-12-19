@@ -11,7 +11,7 @@ meLE.commemoration2 = ""
 meHO.number = ""
 meHO.rank = ""
 meHO.commemorations = ""
-meHO.note1 = ""
+meHO.note1 = rubrical_en_US_dedes.HolidayChristmas
 meHO.note2 = ""
 meDismissal = dismissals_en_US_dedes.dis00.christmas
 
@@ -616,6 +616,8 @@ meMA.Lauds3.text = "O Virgin Theotokos who gave birth to the Savior, you reverse
 meMA.Lauds4.mode = misc_en_US_dedes.Mode4
 meMA.Lauds4.melody = ""
 meMA.Lauds4.text = "Come, let us extol and praise the Savior's Mother, who remained a virgin even after childbirth. Animate City of our King and God, rejoice, for Christ having dwelt in you has wrought our salvation. Together with Gabriel we sing your praise, together with the shepherds we glorify you, crying out, \"Theotokos, intercede with the Lord, who is incarnate from you, to save us.\""
+
+meMA.LaudsSundayVerse1.text = "" //for media
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Germanou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
