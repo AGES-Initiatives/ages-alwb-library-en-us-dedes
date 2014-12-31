@@ -1,14 +1,8 @@
 
 A_Resource_Whose_Name = sy.m11.d08_en_US_dedes 
 
-S01.Com = "On November 8, we hold the Synaxis in honor of Chief Commanders Michael and Gabriel, and the other holy bodiless and celestial Orders."
-S01.Nar = ""
-S01.Ver1 = ""
-S01.Ver2 = ""
-S01.Ver3 = ""
+S01.commemoration.text = "On November 8, we hold the Synaxis in honor of Chief Commanders Michael and Gabriel, and the other holy bodiless and celestial Orders."
 
-S02.Com = "Included in the Synaxis are the Nine Orders: Seraphim, Cherubim, Thrones, Dominions, Powers, Authorities, Principalities, Archangels, and Angels."
-S02.Nar = ""
-S02.Ver = ""
+S02.commemoration.text = "Included in the Synaxis are the Nine Orders: Seraphim, Cherubim, Thrones, Dominions, Powers, Authorities, Principalities, Archangels, and Angels."
 
-S99.LastLine = "By their holy intercessions, O God, have mercy on us. Amen."
+S99.lastline = "By their holy intercessions, O God, have mercy on us. Amen."
