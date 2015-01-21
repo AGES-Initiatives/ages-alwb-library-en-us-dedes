@@ -481,6 +481,10 @@ meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "With longing and with faith and fear * I kiss and honor your divine * and all-immaculate image * with relative veneration, * all-blameless Lady; for we know * that cures of soul and body flow * from your icons abundantly * to us who are now extolling * you as the true Theotokos."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text

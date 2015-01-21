@@ -255,6 +255,10 @@ meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "When the choir of Holy Fathers convened from every corner of the civilized world, they decreed into dogma the single essence and nature of the Father and the Son and the Holy Spirit. And the mystery of theology they clearly handed down to the Church. Let us the faithful call them blessed, and extolling them let us say: O divine battalion, heavy artillery of theologians of the Lord's army; luminaries that shine brightly in the noetic firmament; the mystical Zion's unassailable towers; the sweet scented flowers of Paradise; the solid gold mouthpieces of the Logos; the glory of Nicaea and the splendor of the universe. Intercede insistently on behalf of our souls."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text

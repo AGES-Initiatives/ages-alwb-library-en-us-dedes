@@ -251,6 +251,10 @@ meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = ""
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text

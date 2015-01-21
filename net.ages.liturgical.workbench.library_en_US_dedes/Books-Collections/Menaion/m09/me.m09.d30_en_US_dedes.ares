@@ -274,6 +274,10 @@ meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "O Pure One, He who rides upon * the shoulders of the Cherubim * willingly became incarnate, * and thus reclined as an infant * in your embraces; for He willed * to make us sons of God by grace, * who honestly believe in Him * and who evermore extol you * the agent of our salvation."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text

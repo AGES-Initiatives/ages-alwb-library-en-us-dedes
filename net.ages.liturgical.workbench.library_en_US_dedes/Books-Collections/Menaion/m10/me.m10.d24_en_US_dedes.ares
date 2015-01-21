@@ -307,6 +307,10 @@ meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "Conceiving supernaturally * without a husband, giving birth * to all creation's Creator, * you made our Forefather's nature, * which was corrupted, new again. * And hosts of Martyrs, strengthened by * your Son, contended, as they sang, * praising you, O Theotokos, * the first-fruit of our salvation."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
