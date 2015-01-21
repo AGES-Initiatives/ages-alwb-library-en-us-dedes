@@ -471,6 +471,10 @@ meMA.LaudsGlory.mode = misc_en_US_dedes.Mode7
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Come now, one and all, in faith let us celebrate the annual memorial of the Fathers before the Law, Abraham and those with him. Let us honor as is right the tribe of Judah, and let us extol the Servants in Babylon, the Trinity's image, who extinguished the furnace fire, and also Daniel. As we unerringly cling to the predictions of the Prophets, together with Isaiah we cry out in a loud voice, Behold the Virgin will conceive in the womb, and she will bear a Son, Emmanuel, which means God is with us."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
 meLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
 meLI.SeasonalKontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text

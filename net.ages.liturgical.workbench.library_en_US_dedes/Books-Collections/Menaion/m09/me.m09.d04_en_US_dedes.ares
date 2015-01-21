@@ -474,6 +474,10 @@ meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
 meMA.ExapTheotokion.text = "O Virgin, strike down all those * who fail to salute your icon * and that of your Son and God as well * sincerely and with correct faith; * and also, since they are godless, * deliver them to Gehenna."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m09.d08_en_US_dedes.meMA.Kontakion1.text

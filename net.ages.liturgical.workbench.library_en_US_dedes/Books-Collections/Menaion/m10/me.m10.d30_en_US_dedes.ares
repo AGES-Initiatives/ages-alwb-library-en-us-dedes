@@ -259,6 +259,10 @@ meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "Of old the Prophets spoke of you * as holy Table and as Ark, * as Jar and Rod and as Mountain, * as Palace and as a Ladder, * the Scroll that had been written in, * and as a bridge that to the height * of divine knoweldge carries us; * while we, as is truly worthy, * extol you as Theotokos."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text

@@ -422,6 +422,10 @@ meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
 meMA.ExapTheotokion.text = "Thrones and Principalities * Dominions and the Powers * Archangels and the Angels all, * O Maiden Virgin Mother, * adore your Son and worship Him, * since He is God and Master; * and ceaselessly they extol you. * O Pure one, ever entreat Him, * so that I may be redeemed * from the dreaded condemnation."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text

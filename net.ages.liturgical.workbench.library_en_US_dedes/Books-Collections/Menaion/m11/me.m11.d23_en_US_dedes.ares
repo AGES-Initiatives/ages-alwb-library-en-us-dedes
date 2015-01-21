@@ -475,6 +475,10 @@ meMA.AposGlory.mode = misc_en_US_dedes.Mode6
 meMA.AposGlory.melody = ""
 meMA.AposGlory.text = me.m11.d21_en_US_dedes.meVE.AposGlory.text
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 meLI.SeasonalKontakion.text = me.m11.d21_en_US_dedes.meMA.Kontakion1.text

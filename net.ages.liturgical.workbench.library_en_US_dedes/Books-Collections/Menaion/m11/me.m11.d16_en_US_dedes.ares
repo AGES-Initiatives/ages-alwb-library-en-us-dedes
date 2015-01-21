@@ -323,6 +323,10 @@ meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
 
 meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 meLI.SeasonalKontakion.text = me.m11.d21_en_US_dedes.meMA.Kontakion1.text

@@ -571,6 +571,10 @@ meMA.AposGlory.mode = misc_en_US_dedes.Mode5
 meMA.AposGlory.melody  = ""
 meMA.AposGlory.text = "Moses, the seer of God, and Elias, the fiery charioteer who races unburnt across the heavens, saw You in the cloud at Your Transfiguration, O Christ, and they bore witness that You are the Author and Fulfiller of the Law and the Prophets. With them, O Master, count us worthy of Your enlightenment, that we may hymn You unto the ages."
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode7
 meLI.SeasonalKontakion.melody  = ""
 meLI.SeasonalKontakion.text = me.m08.d06_en_US_dedes.meMA.Kontakion1.text
