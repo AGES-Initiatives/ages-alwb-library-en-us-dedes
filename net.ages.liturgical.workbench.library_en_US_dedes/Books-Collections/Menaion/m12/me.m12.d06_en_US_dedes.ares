@@ -154,10 +154,10 @@ meVE.AposBoth.mode = misc_en_US_dedes.Mode6
 meVE.AposBoth.melody = ""
 meVE.AposBoth.text = "O unwedded Virgin, where are you from? Who is your father, and who is your mother? How is it that you carry the Creator in your arms? How was your womb not impaired? Great and extraordinary and awesome mysteries we see taking place in you on earth, O All-holy Maiden, and we prepare a worthy task for you; from the earth, the Grotto; and heaven we request to grant the Star. Magi are coming westward from the land of the East, to see the Salvation of mortals, nursing as an infant."
 
-meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody = he.ga_en_US_dedes.KanonaPisteos.name
+meVE.GeneralApolytikion1.mode = misc_en_US_dedes.Mode4
+meVE.GeneralApolytikion1.melody = he.ga_en_US_dedes.KanonaPisteos.name
 meVE.GeneralApolytikion1.name = "Father holy hierarch Nicholas,"
-meVE.Apolytikion1.text = "" // for media
+meVE.GeneralApolytikion1.text = "" // for media
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
 meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
