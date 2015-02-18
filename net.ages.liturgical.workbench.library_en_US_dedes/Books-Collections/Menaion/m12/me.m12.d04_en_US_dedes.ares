@@ -82,10 +82,10 @@ meVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Let us honor the all-virtuous Saint Barbara; for she broke the snares of the enemy, and she escaped from them like a bird, with the Cross as her help and shield."
 
-meVE.Apolytikion2.mode = misc_en_US_dedes.Mode8
-meVE.Apolytikion2.melody = he.ga_en_US_dedes.OrthodoxiasOdigeM.name
+meVE.GeneralApolytikion2.mode = misc_en_US_dedes.Mode8
+meVE.GeneralApolytikion2.melody = he.ga_en_US_dedes.OrthodoxiasOdigeM.name
 meVE.GeneralApolytikion2.name = "John,"
-meVE.Apolytikion2.text = "" // for media
+meVE.GeneralApolytikion2.text = "" // for media
 
 meVE.Apolytikion3.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion3.mode = misc_en_US_dedes.Mode1
