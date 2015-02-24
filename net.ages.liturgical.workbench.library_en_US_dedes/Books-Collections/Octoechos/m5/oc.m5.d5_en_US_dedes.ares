@@ -6,11 +6,11 @@ ocVE.Stichera1.text = ""
 
 ocVE.Stichera2.mode = misc_en_US_dedes.Mode5
 ocVE.Stichera2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-ocVE.Stichera2.text = "You were disciples of the divine * and hypostatic Word of God Who from utmost love * for mankind sojourned with mortals, * and Who in truth did assume * their entire nature deifying it. * Most glorious wise men, therefore you followed in His godly steps * and imitated His example of poverty, * counting everything to be rubbish most prudently. * Thus for your journey you did not * provide yourselves with a staff * or with a bag; and with courage * the second tunic you put away. * And hence you were truly * counted worthy to inherit heavenly treasures now."
+ocVE.Stichera2.text = ""
 
 ocVE.Stichera3.mode = misc_en_US_dedes.Mode5
 ocVE.Stichera3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-ocVE.Stichera3.text = "By your fervent entreaties redeem * us from the surging of temptations, O holy men, * and from the eloquent prattle * of undevout heresies, * and from all the demons’ great malevolence, * all-blessed Apostles, and from the tumult of the masses, * and from the fire that is lightless, and from the worm * that will never cease, and from gnashing of teeth as well. * Also implore the Lord that we, * through labors and self-control, * might thus receive the rewards for * attaining virtues with piety, * and find an allotment * and great mercy in the Kingdom of heaven evermore."
+ocVE.Stichera3.text = ""
 
 ocVE.Stichera4.mode = misc_en_US_dedes.Mode5
 ocVE.Stichera4.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
@@ -18,7 +18,7 @@ ocVE.Stichera4.text = ""
 
 ocVE.Stichera5.mode = misc_en_US_dedes.Mode5
 ocVE.Stichera5.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-ocVE.Stichera5.text = "Rejoice, pure habitation wherein * the Holy Trinity made its dwelling, most sacred mind, * the Church’s unshaken pillar, and the believers’ support, * for you are the help of all who are oppressed. * O Star that at all times dispels the gloom of adversities * and of temptations by the radiance of your prayers * that are well received, holy Hierarch Nicholas, * calm haven wherein those who meet the turbulent storms of life * and are surrounded by tempests escape for refuge and hence are saved. * To Christ pray with fervor, * holy father, that great mercy be given to our souls."
+ocVE.Stichera5.text = ""
 
 ocVE.Stichera6.mode = misc_en_US_dedes.Mode5
 ocVE.Stichera6.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
@@ -29,24 +29,24 @@ ocVE.SticTheotokion.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 ocVE.SticTheotokion.text = ""
 
 ocVE.Aposticha1.mode = misc_en_US_dedes.Mode5
-ocVE.Aposticha1.melody = ""
-ocVE.Aposticha1.text = "O Disciples of the Savior, since you became eyewitnesses of mysteries, you preached of Him who is unseen and who has no beginning, and you said: In the beginning was the Logos. You were not created before the Angels, nor did you learn this from men, but from the wisdom from heaven. Therefore since you have confidence, intercede on behalf of our souls."
+ocVE.Aposticha1.melody  = ""
+ocVE.Aposticha1.text = ""
 
 ocVE.Aposticha2.mode = misc_en_US_dedes.Mode5
-ocVE.Aposticha2.melody = ""
-ocVE.Aposticha2.text = "With songs let us tunefully extol the Apostles of the Lord. For having donned the panoply of the Cross, they abolished the delusion of idols and emerged crowned victors. By their intercessions, O God, have mercy upon us."
+ocVE.Aposticha2.melody  = ""
+ocVE.Aposticha2.text = ""
 
 ocVE.Aposticha3.mode = misc_en_US_dedes.Mode5
-ocVE.Aposticha3.melody = ""
-ocVE.Aposticha3.text = "Refusing to deny Christ, O holy Martyrs, you endured the various painful tortures with an insatiable willingness of soul. You humbled the impudence of the tyrants, having kept your faith steadfast and invulnerable, and you were translated to heaven. Since you therefore have obtained confidence before the Lord, entreat Him that great mercy be granted to us."
+ocVE.Aposticha3.melody  = ""
+ocVE.Aposticha3.text = ""
 
 ocVE.AposTheotokion.mode = misc_en_US_dedes.Mode5
-ocVE.AposTheotokion.melody = ""
-ocVE.AposTheotokion.text = "Rejoice, Maiden full of grace, O Mother of Christ God, for the King of glory appeared unto you, and the all-holy Spirit overshadowed you. Since you speak with freedom, intercede that our souls be saved."
+ocVE.AposTheotokion.melody  = ""
+ocVE.AposTheotokion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_dedes.Mode5
-ocVE.ApolTheotokionVM.melody = ""
-ocVE.ApolTheotokionVM.text = "The marvelous mystery involving the Virgin proved to be the means of universal salvation. You were born of her without being sown, and You suffered no decay in the flesh. You are the Joy of all. Glory to You, O Lord."
+ocVE.ApolTheotokionVM.melody  = ""
+ocVE.ApolTheotokionVM.text = ""
 
 ocMA.Kathisma11.mode = misc_en_US_dedes.Mode5
 ocMA.Kathisma11.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
@@ -77,7 +77,7 @@ ocMA.Kathisma31.melody = ""
 ocMA.Kathisma31.text = ""
 
 ocMA.Kathisma32.mode = misc_en_US_dedes.Mode5
-ocMA.Kathisma32.melody = ""
+ocMA.Kathisma32.melody = misc_en_US_dedes.Automelon
 ocMA.Kathisma32.text = ""
 
 ocMA.Kathisma33.mode = misc_en_US_dedes.Mode5
@@ -457,47 +457,47 @@ ocMA.OdeW9C2T.melody = he.h.m5_en_US_dedes.IsaiaChoreve.name
 ocMA.OdeW9C2T.text = ""
 
 ocMA.Aposticha1.mode = misc_en_US_dedes.Mode5
-ocMA.Aposticha1.melody = ""
+ocMA.Aposticha1.melody  = ""
 ocMA.Aposticha1.text = ""
 
 ocMA.Aposticha2.mode = misc_en_US_dedes.Mode5
-ocMA.Aposticha2.melody = ""
+ocMA.Aposticha2.melody  = ""
 ocMA.Aposticha2.text = ""
 
 ocMA.Aposticha3.mode = misc_en_US_dedes.Mode5
-ocMA.Aposticha3.melody = ""
+ocMA.Aposticha3.melody  = ""
 ocMA.Aposticha3.text = ""
 
 ocMA.AposTheotokion.mode = misc_en_US_dedes.Mode5
-ocMA.AposTheotokion.melody = ""
+ocMA.AposTheotokion.melody  = ""
 ocMA.AposTheotokion.text = ""
 
 ocMA.ApolTheotokion.mode = misc_en_US_dedes.Mode5
-ocMA.ApolTheotokion.melody = ""
+ocMA.ApolTheotokion.melody  = ""
 ocMA.ApolTheotokion.text = oc.m5.d3_en_US_dedes.ocMA.Kathisma33.text
 
 ocLI.Beatitudes1.mode = misc_en_US_dedes.Mode5
-ocLI.Beatitudes1.melody = ""
+ocLI.Beatitudes1.melody  = ""
 ocLI.Beatitudes1.text = oc.m5.d1_en_US_dedes.ocLI.Beatitudes1.text
 
 ocLI.Beatitudes2.mode = misc_en_US_dedes.Mode5
-ocLI.Beatitudes2.melody = ""
+ocLI.Beatitudes2.melody  = ""
 ocLI.Beatitudes2.text = ""
 
 ocLI.Beatitudes3.mode = misc_en_US_dedes.Mode5
-ocLI.Beatitudes3.melody = ""
+ocLI.Beatitudes3.melody  = ""
 ocLI.Beatitudes3.text = ""
 
 ocLI.Beatitudes4.mode = misc_en_US_dedes.Mode5
-ocLI.Beatitudes4.melody = ""
+ocLI.Beatitudes4.melody  = ""
 ocLI.Beatitudes4.text = ""
 
 ocLI.BeatitudesGlory.mode = misc_en_US_dedes.Mode5
-ocLI.BeatitudesGlory.melody = ""
+ocLI.BeatitudesGlory.melody  = ""
 ocLI.BeatitudesGlory.text = ""
 
 ocLI.BeatitudesBoth.mode = misc_en_US_dedes.Mode5
-ocLI.BeatitudesBoth.melody = ""
+ocLI.BeatitudesBoth.melody  = ""
 ocLI.BeatitudesBoth.text = ""
 
 //Octoechos in Triodion
@@ -512,19 +512,19 @@ octrMA.Triadic3.mode = misc_en_US_dedes.Mode5
 octrMA.Triadic3.text = oc.m5.d2_en_US_dedes.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = misc_en_US_dedes.Mode5
-octrMA.Kathisma11.melody = ocMA.Kathisma11.melody
+octrMA.Kathisma11.melody  = ocMA.Kathisma11.melody
 octrMA.Kathisma11.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma12.mode = misc_en_US_dedes.Mode5
-octrMA.Kathisma12.melody = ocMA.Kathisma12.melody
+octrMA.Kathisma12.melody  = ocMA.Kathisma12.melody
 octrMA.Kathisma12.text = ocMA.Kathisma12.text
 
 octrMA.Kathisma1T.mode = misc_en_US_dedes.Mode5
-octrMA.Kathisma1T.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
+octrMA.Kathisma1T.melody  = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
 octrMA.Kathisma1T.text = ""
 
 octrMA.Ode7Martyricon.mode = misc_en_US_dedes.Mode5
-octrMA.Ode7Martyricon.melody = oc.m5.d3_en_US_dedes.ocMA.Kathisma32.melody
+octrMA.Ode7Martyricon.melody  = oc.m5.d3_en_US_dedes.ocMA.Kathisma32.melody
 octrMA.Ode7Martyricon.text = oc.m5.d3_en_US_dedes.ocMA.Kathisma32.text
 
 octrMA.Photogogic.mode = misc_en_US_dedes.Mode5

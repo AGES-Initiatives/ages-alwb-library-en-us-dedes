@@ -2,7 +2,7 @@ A_Resource_Whose_Name = oc.m6.d4_en_US_dedes
 
 ocVE.Stichera1.mode = misc_en_US_dedes.Mode6
 ocVE.Stichera1.melody = he.a.m6_en_US_dedes.IApegnosmeni.name
-ocVE.Stichera1.text = "God, who wish all men to be saved, I pray You, * look down and behold now my supplication, * and do not reject my tears as being ineffective. * Who ever came to You beseeching * and was not saved directly? * Who ever cried to You with fervor * and was not heard directly? * For indeed by all who truly seek You, * O Sovereign Master, You are found to be One quick to save, * because of Your great mercy, O Lord."
+ocVE.Stichera1.text = ""
 
 ocVE.Stichera2.mode = misc_en_US_dedes.Mode6
 ocVE.Stichera2.melody = he.a.m6_en_US_dedes.IApegnosmeni.name
@@ -10,11 +10,11 @@ ocVE.Stichera2.text = ""
 
 ocVE.Stichera3.mode = misc_en_US_dedes.Mode6
 ocVE.Stichera3.melody = he.a.m6_en_US_dedes.IApegnosmeni.name
-ocVE.Stichera3.text = "O my soul, lament now before your exit. * Fall down in repentance before your Maker, * and offer up tears to Him wholeheartedly, and cry out * to the Messiah with compunction: * O Word, I sinned against You. * Though I have greatly sinned, accept me. * Abhor me not intensely. * Righteous Judge, I pray do not despise me, * nor send me off to the inferno, O forbearing One, * because of Your great mercy, O Lord."
+ocVE.Stichera3.text = ""
 
 ocVE.Stichera4.mode = misc_en_US_dedes.Mode6
 ocVE.Stichera4.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
-ocVE.Stichera4.text = "The wedding has been prepared * of the celestial Bridegroom. * The heralds are calling out. * Why delay you willfully, O bedarkened soul? * All your garments indeed * are filthy and soiled * by a lifestyle of debauchery. * And so, O wretched one, * how will you get in? Come, before the end, * wholeheartedly fall down before * Ever-virgin Mary and cry to her: * Purge me with the hyssop, * O pure one, of your prayers, and make me clean. * And deem me fit for the bridal hall, * so that I may magnify you."
+ocVE.Stichera4.text = ""
 
 ocVE.Stichera5.mode = misc_en_US_dedes.Mode6
 ocVE.Stichera5.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
@@ -29,32 +29,32 @@ ocVE.SticTheotokion.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
 ocVE.SticTheotokion.text = ""
 
 ocVE.Aposticha1.mode = misc_en_US_dedes.Mode6
-ocVE.Aposticha1.melody = ""
-ocVE.Aposticha1.text = "Your Cross, O Lord, is life and assistance to Your people. And trusting in it, we extol You our God who in the flesh was crucified. Have mercy on us."
+ocVE.Aposticha1.melody  = ""
+ocVE.Aposticha1.text = ""
 
 ocVE.Aposticha2.mode = misc_en_US_dedes.Mode6
-ocVE.Aposticha2.melody = ""
-ocVE.Aposticha2.text = "Your Cross, O Lord, has opened Paradise unto the human race. And redeemed from corruption, we extol You our God who in the flesh was crucified. Have mercy on us."
+ocVE.Aposticha2.melody  = ""
+ocVE.Aposticha2.text = ""
 ocVE.Aposticha2.similarto = oc.m6.d1_en_US_dedes.ocMA.Lauds2.text
 
 ocVE.Aposticha3.mode = misc_en_US_dedes.Mode6
-ocVE.Aposticha3.melody = ""
-ocVE.Aposticha3.text = "The prize-winning Martyrs and citizens of heaven contended on earth and endured many tortures. By their intercessions and prayers, O Lord, preserve us all."
+ocVE.Aposticha3.melody  = ""
+ocVE.Aposticha3.text = ""
 
 ocVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
 ocVE.AposTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
-ocVE.AposTheotokion.text = "O Christ, when she who gave You birth * beheld You hanging on the Cross, * she cried loudly: * O my Son, what is this * strange mystery I witness? * How is it that You die now, * crucified in the flesh, O Giver of life?"
+ocVE.AposTheotokion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_dedes.Mode6
-ocVE.ApolTheotokionVM.melody = ""
+ocVE.ApolTheotokionVM.melody  = ""
 ocVE.ApolTheotokionVM.text = oc.m6.d4_en_US_dedes.ocMA.Kathisma33.text
 
 ocMA.Kathisma11.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma11.melody = ""
+ocMA.Kathisma11.melody  = ""
 ocMA.Kathisma11.text = ""
 
 ocMA.Kathisma12.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma12.melody = ""
+ocMA.Kathisma12.melody  = ""
 ocMA.Kathisma12.text = ""
 
 ocMA.Kathisma13.mode = misc_en_US_dedes.Mode6
@@ -62,11 +62,11 @@ ocMA.Kathisma13.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.name
 ocMA.Kathisma13.text = ""
 
 ocMA.Kathisma21.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma21.melody = ""
+ocMA.Kathisma21.melody  = ""
 ocMA.Kathisma21.text = ""
 
 ocMA.Kathisma22.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma22.melody = ""
+ocMA.Kathisma22.melody  = ""
 ocMA.Kathisma22.text = ""
 
 ocMA.Kathisma23.mode = misc_en_US_dedes.Mode6
@@ -78,12 +78,12 @@ ocMA.Kathisma31.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.name
 ocMA.Kathisma31.text = ""
 
 ocMA.Kathisma32.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma32.melody = ""
-ocMA.Kathisma32.text = "The holy athletes endured the contest, and they received from You the medals of victory. They destroyed the machinations of the lawless, and they received the crowns of incorruption. Through them, O God, save our souls."
+ocMA.Kathisma32.melody  = ""
+ocMA.Kathisma32.text = ""
 
 ocMA.Kathisma33.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma33.melody = ""
-ocMA.Kathisma33.text = "O Virgin Theotokos, entreat your Son, Christ our God, who voluntarily was nailed to the Cross, and freed the world deception; and pray Him to have mercy on our souls."
+ocMA.Kathisma33.melody  = ""
+ocMA.Kathisma33.text = ""
 
 ocMA.C1Acrostic.text = ""
 
@@ -460,24 +460,24 @@ ocMA.OdeW9C24.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
 ocMA.OdeW9C24.text = ""
 
 ocMA.Aposticha1.mode = misc_en_US_dedes.Mode6
-ocMA.Aposticha1.melody = ""
+ocMA.Aposticha1.melody  = ""
 ocMA.Aposticha1.text = ""
 
 ocMA.Aposticha2.mode = misc_en_US_dedes.Mode6
-ocMA.Aposticha2.melody = ""
+ocMA.Aposticha2.melody  = ""
 ocMA.Aposticha2.text = ""
 
 ocMA.Aposticha3.mode = misc_en_US_dedes.Mode6
-ocMA.Aposticha3.melody = ""
+ocMA.Aposticha3.melody  = ""
 ocMA.Aposticha3.text = ""
 
 ocMA.AposTheotokion.mode = misc_en_US_dedes.Mode6
 ocMA.AposTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
-ocMA.AposTheotokion.text = "The all-pure Theotokos, O Lord, * was watching You be crucified. * As a mother * she was grieving and she cried, saying, \"O my sweetest Child, * how is it that You suffer * this painful Passion, O my Son and my God?\""
+ocMA.AposTheotokion.text = ""
 
 ocMA.ApolTheotokion.mode = misc_en_US_dedes.Mode6
-ocMA.ApolTheotokion.melody = ""
-ocMA.ApolTheotokion.text = "The Son and Logos of God was begotten of the Father without a Mother before the ages. In the latter times you bore Him, incarnate from your pure blood, without a man, O Mother of God. Entreat Him to grant us forgiveness of sins before the end."
+ocMA.ApolTheotokion.melody  = ""
+ocMA.ApolTheotokion.text = ""
 
 ocLI.Beatitudes1.mode = misc_en_US_dedes.Mode6
 ocLI.Beatitudes1.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
@@ -515,19 +515,19 @@ octrMA.Triadic3.mode = misc_en_US_dedes.Mode6
 octrMA.Triadic3.text = oc.m6.d2_en_US_dedes.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = misc_en_US_dedes.Mode6
-octrMA.Kathisma11.melody = ""
+octrMA.Kathisma11.melody  = ""
 octrMA.Kathisma11.text = ocMA.Kathisma21.text
 
 octrMA.Kathisma12.mode = misc_en_US_dedes.Mode6
-octrMA.Kathisma12.melody = ""
+octrMA.Kathisma12.melody  = ""
 octrMA.Kathisma12.text = ocMA.Kathisma22.text
 
 octrMA.Kathisma1T.mode = misc_en_US_dedes.Mode6
-octrMA.Kathisma1T.melody = ""
-octrMA.Kathisma1T.text = ocMA.Kathisma13.text
+octrMA.Kathisma1T.melody  = ""
+octrMA.Kathisma1T.text  = ocMA.Kathisma13.text
 
 octrMA.Ode7Martyricon.mode = misc_en_US_dedes.Mode6
-octrMA.Ode7Martyricon.melody = oc.m6.d3_en_US_dedes.ocMA.Kathisma32.melody
+octrMA.Ode7Martyricon.melody  = oc.m6.d3_en_US_dedes.ocMA.Kathisma32.melody
 octrMA.Ode7Martyricon.text = oc.m6.d3_en_US_dedes.ocMA.Kathisma32.text
 
 octrMA.Photogogic.mode = misc_en_US_dedes.Mode6
