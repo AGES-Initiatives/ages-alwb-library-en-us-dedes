@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = da.d3_en_US_dedes 
 
-daDay.text = "Tuesday."
-daCommemoration.text = "The Forerunner."
+daDay.text = ""
+daCommemoration.text = ""
 
 daVE.OnTheEveningBefore = template.titles_en_US_dedes.d.onMondayEvening
 
@@ -13,15 +13,15 @@ daVE.ApolTheotokion.mode = misc_en_US_dedes.Mode2
 daVE.ApolTheotokion.melody  = ""
 daVE.ApolTheotokion.text = oc.m2.d3_en_US_dedes.ocVE.ApolTheotokionVM.text
 
-daMA.Triadic1Ending.text = "By the intercessions of the Forerunner save us."
+daMA.Triadic1Ending.text = ""
 daMA.Triadic2Ending.text = prayers_en_US_dedes.trPresveiaisTonAgion
 daMA.Triadic3Ending.text = prayers_en_US_dedes.trDiaTisTheotokou
 
-daMA.Photagogic1Ending.text = "by the intercessions of the Forerunner, and save me."
+daMA.Photagogic1Ending.text = ""
 daMA.Photagogic2Ending.text = prayers_en_US_dedes.fePresveiaisTonAgionKaiSosonMe
 daMA.Photagogic3Ending.text = prayers_en_US_dedes.fePresveiaisTisTheotokou
 
-daMA.Photagogic1Beginning.text = "By the intercessions of the Forerunner, O Lord,"
+daMA.Photagogic1Beginning.text = ""
 daMA.Photagogic2Beginning.text = prayers_en_US_dedes.fbPresveiaisKyrieTonAgion
 daMA.Photagogic3Beginning.text = prayers_en_US_dedes.fbPresveiaisKyrieTisTheotokou
 
@@ -31,6 +31,6 @@ daMA.Exaposteilarion1.text = ""
 
 daMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
 daMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
-daMA.ExapTheotokion.text = "I have you as mediatrix * before the God who loves mankind. * May He not censure my actions * in the sight of the Angels. * I entreat you, O Virgin, * come quickly to my assistance."
+daMA.ExapTheotokion.text = ""
 
 daLI.CommunionHymn.text = "" //for media

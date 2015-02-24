@@ -1,12 +1,12 @@
 A_Resource_Whose_Name = me.m09.d07_en_US_dedes
 
-meDate.text = "September 7"
-meCommemoration.text = "Forefeast of the Nativity of the Most Holy Theotokos; and Memory of the Holy Martyr Sozon." // full title of day
+meDate.text = ""
+meCommemoration.text = "" // full title of day
 meShortCommemoration1.text = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "The Holy Martyr Sozon."
+meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
 meHO.rank = ""
@@ -48,13 +48,13 @@ meVE.Aposticha1.mode = misc_en_US_dedes.Mode8
 meVE.Aposticha1.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meVE.Aposticha1.text = ""
 
-meVE.ApostichaVerse2.text = "Listen, O daughter, behold and incline your ear, and forget your people and your father's house; for the King desired your beauty."
+meVE.ApostichaVerse2.text = ""
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode8
 meVE.Aposticha2.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meVE.Aposticha2.text = ""
 
-meVE.ApostichaVerse3.text = "The rich among the people shall entreat your favor."
+meVE.ApostichaVerse3.text = ""
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode8
 meVE.Aposticha3.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
@@ -67,15 +67,15 @@ meVE.AposGlory.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
-meVE.Apolytikion1.text = "Unto us is born today Mary the child of God, * as the branch from Jesse's root, and as the fruit of David's loins, * and all creation is re-created and deified. * O heaven and the earth, rejoice in unison. * Sing praises unto her, O all you Gentile clans. * Joachim is exultant, and Anna is keeping festival, crying out: * \"The barren woman bears the Theotokos, * the nourisher of our Life.\""
+meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
 meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TouLithouSfragisthentos.name
-meMA.Kathisma11.text = "Being born paradoxically from a barren mother, * you gave birth supernaturally from your virginal body. * You appeared as a beautiful branch, you produced life for the world. * And therefore the powers of heaven cried to You, O Theotokos. * Glory to your birth today, O Chaste One; * glory to your virginity; * glory to your childbirth, only Immaculate One."
+meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode5
 meMA.Kathisma21.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
-meMA.Kathisma21.text = "All the Angels in heaven are exultant today; * and humanity joins them on earth and celebrates. * And the Prophets from of old rejoice mystically; * because the one whom they foresaw in ancient times symbolically * as a bush, jar and rod, * and as a cloud, gate and throne * and great mountain is born today."
+meMA.Kathisma21.text = ""
 
 meMA.C1Acrostic.text = ""
 
@@ -453,21 +453,21 @@ meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
-meMA.ExapTheotokion.text = "O all creation, leap for joy * and exult with rejoicing. * For from the Godly-minded Anne, * whose name means Grace, and from Joachim her most Godly husband * born is the all-pure Mary, * thereby exceeding all their hopes. * She is the Theotokos, whose blessed Fruit * has become salvation for all of mankind, * Christ our God, who ineffably * from her became incarnate."
+meMA.ExapTheotokion.text = ""
 
 meMA.LaudsSundayVerse1.text = "" // for media
 
 meMA.Aposticha1.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha1.text = "Children of Adam, come, * with hymns let us extol now * the all-pure Virgin Mary, * the descendant of David and Mother of the Savior Christ."
+meMA.Aposticha1.text = ""
 
 meMA.Aposticha2.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha2.text = "Let us present our praise * unto our Lord Redeemer, * who from a barren woman * gave us the Theotokos, the only ever-virgin Maid."
+meMA.Aposticha2.text = ""
 
 meMA.Aposticha3.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha3.text = "She who will be the Joy * of all the world, the Mother * of Christ my Lord and Savior, * is from a barren mother miraculously born today."
+meMA.Aposticha3.text = ""
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode2
 meMA.AposGlory.melody = ""
@@ -481,7 +481,7 @@ meLI.SeasonalKontakion.mode = meMA.Kontakion1.mode
 meLI.SeasonalKontakion.melody = meMA.Kontakion1.melody
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = ""
+meLI.CommunionHymn.text = "" // for media
 
 meMegalynarion.text = ""
 

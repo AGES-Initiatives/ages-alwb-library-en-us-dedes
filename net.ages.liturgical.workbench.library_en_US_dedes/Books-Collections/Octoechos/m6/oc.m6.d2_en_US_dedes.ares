@@ -2,11 +2,11 @@ A_Resource_Whose_Name = oc.m6.d2_en_US_dedes
 
 ocVE.Stichera1.mode = misc_en_US_dedes.Mode6
 ocVE.Stichera1.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
-ocVE.Stichera1.text = "You, O Word of God, do not * desire the death but repentance * of all men who, like myself, * have committed sins against * You, O Christ and Lord. * Being most compassionate, * You extend Your mercy * unto me Your servant constantly. * Hence show me sympathy * as I now repent and presume to seek * forgiveness for my wicked deeds * by which I have often embittered You. * For if You should save me, * unworthy though I be, You shall disclose * in me the vastness of Your divine * mercies and Your love for man."
+ocVE.Stichera1.text = ""
 
 ocVE.Stichera2.mode = misc_en_US_dedes.Mode6
 ocVE.Stichera2.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
-ocVE.Stichera2.text = "You want all men to be saved, * O only Lover of mankind. * And being compassionate * You call to repentance those * who offended You. * Hence I pray You, O Lord, * by no means remember * the disgrace of the indecent deeds * which I the wretched one * woefully committed before Your eyes, * not shuddering with horror that * nobody escapes Your almighty hands. * Wherefore on my knees now * I fall down and I sigh and I lament, * mentally clasping Your holy feet * to receive forgiveness from You."
+ocVE.Stichera2.text = ""
 
 ocVE.Stichera3.mode = misc_en_US_dedes.Mode6
 ocVE.Stichera3.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
@@ -22,7 +22,7 @@ ocVE.Stichera5.text = ""
 
 ocVE.Stichera6.mode = misc_en_US_dedes.Mode6
 ocVE.Stichera6.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
-ocVE.Stichera6.text = "Dominions, Authorities, * the Seraphim and Archangels, * Angels and immaculate * Cherubim as well as Thrones * overcome with awe * all attend Your sublime * and most venerated * throne and holy glory with respect. * And all the Powers too, * with the Principalities, glorify * Your wonderful magnificence * and Your inexpressible providence, * and they are amazed by * Your wisdom in the things that are, O Christ. * And on behalf of our souls do they * intercede with confidence."
+ocVE.Stichera6.text = ""
 
 ocVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
 ocVE.SticTheotokion.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
@@ -30,30 +30,30 @@ ocVE.SticTheotokion.text = ""
 
 ocVE.Aposticha1.mode = misc_en_US_dedes.Mode6
 ocVE.Aposticha1.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
-ocVE.Aposticha1.text = "Repentance I have not attained; * moreover I do not have tears. * Hence, O Savior, * You I fervently beseech: * Before the end convert me, * and grant repentance unto me, * that I be freed from the future punishment."
+ocVE.Aposticha1.text = ""
 
 ocVE.Aposticha2.mode = misc_en_US_dedes.Mode6
-ocVE.Aposticha2.melody = ""
-ocVE.Aposticha2.text = "At Your frightful second coming, O Christ, may we not hear You say: I know you not. For on You we set our hope, even if because of our negligence we do not perform Your commandments. O spare our souls, we fervently appeal to You."
+ocVE.Aposticha2.melody  = ""
+ocVE.Aposticha2.text = ""
 
 ocVE.Aposticha3.mode = misc_en_US_dedes.Mode6
-ocVE.Aposticha3.melody = ""
-ocVE.Aposticha3.text = "Your Martyrs did not renounce You, O Lord, nor did they deviate from Your commandments. Through their intercessions, have mercy on us."
+ocVE.Aposticha3.melody  = ""
+ocVE.Aposticha3.text = ""
 
 ocVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
-ocVE.AposTheotokion.melody = misc_en_US_dedes.NotMetered
-ocVE.AposTheotokion.text = "O believers, let us extol archangelically the heavenly bridal chamber and the gate that was truly sealed: Rejoice, O Maiden, through whom to us sprouted forth the Savior of one and all, Christ the Giver of life and God. Strike down our enemies, the godless tyrants, with your hand, O immaculate Lady, the Christians’ hope."
+ocVE.AposTheotokion.melody  = misc_en_US_dedes.Automelon
+ocVE.AposTheotokion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_dedes.Mode6
-ocVE.ApolTheotokionVM.melody = ""
+ocVE.ApolTheotokionVM.melody  = ""
 ocVE.ApolTheotokionVM.text = oc.m6.d2_en_US_dedes.ocMA.Kathisma23.text
 
 ocMA.Kathisma11.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma11.melody = ""
+ocMA.Kathisma11.melody  = ""
 ocMA.Kathisma11.text = ""
 
 ocMA.Kathisma12.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma12.melody = ""
+ocMA.Kathisma12.melody  = ""
 ocMA.Kathisma12.text = ""
 
 ocMA.Kathisma13.mode = misc_en_US_dedes.Mode6
@@ -61,27 +61,27 @@ ocMA.Kathisma13.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.name
 ocMA.Kathisma13.text = ""
 
 ocMA.Kathisma21.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma21.melody = ""
-ocMA.Kathisma21.text = "Have mercy on us, Lord have mercy on us. For with nothing to say in our own defense, we sinners offer this supplication to you our Master. Have mercy on us."
+ocMA.Kathisma21.melody  = ""
+ocMA.Kathisma21.text = ""
 
 ocMA.Kathisma22.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma22.melody = ""
-ocMA.Kathisma22.text = "Lord have mercy on us, for in You we trust. Be not enraged with us greatly, nor remember our iniquities. But look upon us now, being compassionate, and deliver us from our enemies. For You are our God, and we Your people, all of us the work of Your hands, and now we have invoked Your name."
+ocMA.Kathisma22.melody  = ""
+ocMA.Kathisma22.text = ""
 
 ocMA.Kathisma23.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma23.melody = ""
-ocMA.Kathisma23.text = "Gabriel's salutation of the Virgin was the beginning of our salvation. For she heard him say, Rejoice, and did not reject the greeting. * She did not hesitate, like Sarah in the tent, but rather this is what she said, * \"Behold the servant of the Lord; let it be to me according to your word.\""
+ocMA.Kathisma23.melody  = ""
+ocMA.Kathisma23.text = ""
 
 ocMA.Kathisma31.mode = misc_en_US_dedes.Mode6
 ocMA.Kathisma31.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.name
 ocMA.Kathisma31.text = ""
 
 ocMA.Kathisma32.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma32.melody = ""
+ocMA.Kathisma32.melody  = ""
 ocMA.Kathisma32.text = ""
 
 ocMA.Kathisma33.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma33.melody = ""
+ocMA.Kathisma33.melody  = ""
 ocMA.Kathisma33.text = ""
 
 ocMA.C1Acrostic.text = ""
@@ -172,7 +172,7 @@ ocMA.OdeW3C21.text = ""
 ocMA.OdeW3C22.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW3C22.ode = misc_en_US_dedes.Ode3
 ocMA.OdeW3C22.melody = he.h.m6_en_US_dedes.OukEstinAgios.name
-ocMA.OdeW3C22.text = ""
+ocMA.OdeW3C22.text =""
 
 ocMA.OdeW3C2T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW3C2T.ode = misc_en_US_dedes.Ode3
@@ -455,23 +455,23 @@ ocMA.OdeW9C2T.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
 ocMA.OdeW9C2T.text = ""
 
 ocMA.Aposticha1.mode = misc_en_US_dedes.Mode6
-ocMA.Aposticha1.melody = ""
-ocMA.Aposticha1.text = "O Savior, heal the wounds of my heart, which have grown in me because of many sins, O physician of souls and bodies. As You ever grant forgiveness of offenses to those who ask, grant me tears of repentance, and give me the remission of my debts, O Lord, and have mercy on me."
+ocMA.Aposticha1.melody  = ""
+ocMA.Aposticha1.text = ""
 
 ocMA.Aposticha2.mode = misc_en_US_dedes.Mode6
-ocMA.Aposticha2.melody = ""
-ocMA.Aposticha2.text = "The enemy found me naked of any virtues, so he shot me with the arrow of sin. But I pray You, the physician of souls and bodies, heal the wounds of my soul, and have mercy on me, O God."
+ocMA.Aposticha2.melody  = ""
+ocMA.Aposticha2.text = ""
 
 ocMA.Aposticha3.mode = misc_en_US_dedes.Mode6
-ocMA.Aposticha3.melody = ""
+ocMA.Aposticha3.melody  = ""
 ocMA.Aposticha3.text = ""
 
 ocMA.AposTheotokion.mode = misc_en_US_dedes.Mode6
-ocMA.AposTheotokion.melody = ""
-ocMA.AposTheotokion.text = "You accepted the word of the Archangel, and you became a cherubic throne. O Theotokos, you held in your arms the hope of our souls."
+ocMA.AposTheotokion.melody  = ""
+ocMA.AposTheotokion.text = ""
 
 ocMA.ApolTheotokion.mode = misc_en_US_dedes.Mode6
-ocMA.ApolTheotokion.melody = ""
+ocMA.ApolTheotokion.melody  = ""
 ocMA.ApolTheotokion.text = oc.m6.d2_en_US_dedes.ocMA.AposTheotokion.text
 
 ocLI.Beatitudes1.mode = misc_en_US_dedes.Mode6
@@ -501,19 +501,19 @@ ocLI.BeatitudesBoth.text = ""
 //Octoechos in Triodion
 
 octrVE.Stichera1.mode = misc_en_US_dedes.Mode6
-octrVE.Stichera1.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
+octrVE.Stichera1.melody  = he.a.m6_en_US_dedes.TriimerosAnestis.name
 octrVE.Stichera1.text = ocVE.Aposticha1.text
 
 octrVE.Stichera2.mode = misc_en_US_dedes.Mode6
-octrVE.Stichera2.melody = ""
+octrVE.Stichera2.melody  = ""
 octrVE.Stichera2.text = ocVE.Aposticha2.text
 
 octrVE.Stichera3.mode = misc_en_US_dedes.Mode6
-octrVE.Stichera3.melody = ""
+octrVE.Stichera3.melody  = ""
 octrVE.Stichera3.text = ocMA.Aposticha1.text
 
 octrVE.Stichera4.mode = misc_en_US_dedes.Mode6
-octrVE.Stichera4.melody = ""
+octrVE.Stichera4.melody  = ""
 octrVE.Stichera4.text = ocMA.Aposticha2.text
 
 octrMA.Triadic1.mode = misc_en_US_dedes.Mode6
@@ -526,19 +526,19 @@ octrMA.Triadic3.mode = misc_en_US_dedes.Mode6
 octrMA.Triadic3.text = ""
 
 octrMA.Kathisma11.mode = misc_en_US_dedes.Mode6
-octrMA.Kathisma11.melody = ""
+octrMA.Kathisma11.melody  = ""
 octrMA.Kathisma11.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma12.mode = misc_en_US_dedes.Mode6
-octrMA.Kathisma12.melody = ""
+octrMA.Kathisma12.melody  = ""
 octrMA.Kathisma12.text = ocMA.Kathisma12.text
 
 octrMA.Kathisma13.mode = misc_en_US_dedes.Mode6
-octrMA.Kathisma13.melody = ""
+octrMA.Kathisma13.melody  = ""
 octrMA.Kathisma13.text = ocMA.Kathisma33.text
 
 octrMA.Ode7Martyricon.mode = misc_en_US_dedes.Mode6
-octrMA.Ode7Martyricon.melody = ""
+octrMA.Ode7Martyricon.melody  = ""
 octrMA.Ode7Martyricon.text = ocMA.Kathisma32.text
 
 octrMA.Photagogic.mode = misc_en_US_dedes.Mode6
