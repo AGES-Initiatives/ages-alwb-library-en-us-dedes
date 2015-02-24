@@ -329,9 +329,7 @@ ocMA.Antiphon33.mode = misc_en_US_dedes.Mode4
 ocMA.Antiphon33.melody = ""
 ocMA.Antiphon33.text = "In the Holy Spirit is the wealth of knowledge of God, contemplation and wisdom. For in Him the Logos discloses all the dogmas of the Father."
 
-ocMA.Prokeimenon.text = "Arise, O Lord; help us, and redeem us, because of the glory of Your name."
-
-ocMA.ProkeimenonVerse.text = "O God, we heard with our ears."
+ocMA.Prokeimenon.text = "" //for media
 
 ocMA.C1Poet = poets_en_US_dedes.IoannouTouDamaskinou
 
@@ -773,7 +771,6 @@ ocMA.Lauds01.text = "" // for media
 ocMA.Lauds02.text = "" // for media
 
 ocMA.LaudsHeirmologic01.text = "" // for media
-
 ocMA.LaudsHeirmologic02.text = "" // for media
 
 ocMA.Lauds1.mode = misc_en_US_dedes.Mode4
