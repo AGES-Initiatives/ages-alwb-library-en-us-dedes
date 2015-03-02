@@ -86,7 +86,7 @@ meVE.Stichera06.text = "Ascetic Paisios, you cared * for the younger generation.
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = "You followed the way of the ascetics, and you took the express lane to the work of virtue, O God-bearing Paisios. You wholeheartedly renounced the earthy man of dust, and your mind and heart engaged in unceasing prayer, and contemplation of the uncreated light. We who have tasted your spiritual gifts extol you, O devout Saint, and with gladness we say to you: Rejoice, O son of Farasa, the glory of Athos, the pillar of Konitsa, the teacher of monastics, and the resident of Sinai! Rejoice, for you put on the robe of dispassion, and thus you were able to guide the youth, restore those who had fallen, and return those who were lost. Rejoice, for you were a model for monks and nuns, an example for laypeople, and refreshment and rest for Orthodox believers. And now, O Elder adorned by God, unceasingly entreat Christ our God, for us who with compunction observe the annual celebration of your memory."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.SticTheotokion.melody = ""
@@ -132,7 +132,7 @@ meVE.Aposticha3.text = "Elder, in modern times you possessed * spiritual vision 
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = "You led your life as an ascetic. When you had overcome all worldly pleasures, carnal appetites, and every luxury, O Elder Paisios, you received many visitations of divine grace. Once when you were in your cabin, you had a waking vision of the Great Martyr Euphemia; and the two of you discussed the events of her martyrdom, modestly speaking as friend to friend. Along with her, O devout Saint, never cease interceding continually on behalf of our souls."
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.AposTheotokion.melody = ""
@@ -182,15 +182,15 @@ meMA.Prokeimenon.text = "" // for media
 
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.text = ""
+meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelMonastic.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.text = ""
+meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = ""
+meMA.PostGospelIdiomelon.text = "The proclamation of your achievements went forth into all the earth, O devout Paisios. In the twentieth century from the birth of our Savior, you rose as a day star, and you enlightened multitudes of Orthodox Christians to know the will of the Lord. Now that you are up in the heavens, and can speak with confidence, never cease interceding on behalf of our souls."
 
 meMA.C1Poet = poets_en_US_dedes.IoilEdessis
 meMA.C1Acrostic.text = ""
@@ -771,11 +771,11 @@ meMA.Lauds3.text = "What may I now call you, Paisios? * The deliverer of men who
 
 meMA.Lauds4.mode = misc_en_US_dedes.Mode8
 meMA.Lauds4.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
-meMA.Lauds4.text = "O God-bearing father Paisios, * never cease entreating Christ our Savior earnestly for us * the believers who extol you singing hymns with ardent faith. * For you have access to the Lord to speak to Him. * Devout one, you received abundant gifts from Him: * the gifts foresight and prophecy, * the gift of healing the suffering * of body and soul, O all-honored ever-blessed Saint."
+meMA.Lauds4.text = "O God-bearing father Paisios, * never cease entreating Christ our Savior earnestly for us * the believers who extol you singing hymns with ardent faith. * For you have access to the Lord to speak to Him. * Devout one, you received abundant gifts from Him: * the gifts of foresight and prophecy, * the gift of healing the suffering * of body and soul, O all-honored ever-blessed Saint."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.text = "O devout father Paisios, the proclamation of your achievements has gone out into all the land of Greece and the whole wide world. As if an angel incarnate, you proclaimed the life-giving teachings of the Gospel, from Athos to all the earth. Also by the way you lived and by what you did, you were a model for monastics, a teacher of laypeople, a guide for the youth, a supporter of convents, and a friend to all. We now humbly pray to you, O Saint: Never cease interceding with the Lord, on behalf of our souls."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
 meMA.LaudsTheotokion.melody = ""
@@ -789,7 +789,7 @@ meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meMegalynarion.text = ""
+meMegalynarion.text = "Rejoice, O companion of the Devout, * glory of Mt. Athos, and the new teacher of the  Church! * Adornment of monastics, our pride and joy, O father, * rejoice, O godly-minded Elder Paisios."
 
 
 
