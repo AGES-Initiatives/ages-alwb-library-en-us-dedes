@@ -90,7 +90,7 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode3
 meMA.Kathisma3T.melody = he.a.m3_en_US_dedes.TinOraiotita.name
 meMA.Kathisma3T.text = "At your Dormition, O Virgin immaculate, * Saint James the Brother of the Lord was also there, * together with the Savior Christ's other holy Disciples, * so that he might see again your pure body, the source of life, * and might also praise in song the ineffable mystery * of your divine and awe-inspiring childbirth. * As we honor it, we pray you save us."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelApostle.text
@@ -334,9 +334,7 @@ meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode1
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m1.d3_en_US_dedes.ocVE.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -346,6 +344,6 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d5_en_US_dedes.daLI.CommunionHymnAlt.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""

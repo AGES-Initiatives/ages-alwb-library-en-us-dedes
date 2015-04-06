@@ -165,7 +165,7 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = misc_en_US_dedes.Automelon
 meMA.Kathisma3T.text = he.a.m8_en_US_dedes.TinSofianKaiLogon.text
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelApostles.text
@@ -588,7 +588,7 @@ meMA.Lauds4.mode = misc_en_US_dedes.Mode4
 meMA.Lauds4.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
 meMA.Lauds4.text = "Preacher of Christ, as you bore the Cross's glory, * O Paul, you sincerely did prefer to everything * the love divine and greatly beloved, that binds the lovers * unto the object of their longing and love. * Therefore you had called yourself a prisoner of Christ, * and you considered the suffering of every trial * as being sweeter than all mundane delights. * And you were granted the most honorable * dissolution to be with your Master Christ. * Therefore earnestly pray Him to illumine us and save our souls."
 
-meMA.Lauds456.text = "" // for media
+meMA.MM.Lauds123as456.text = properties_en_US_dedes.media.key
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.KosmaMonachou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
@@ -599,9 +599,7 @@ meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode6
 meMA.LaudsTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
 meMA.LaudsTheotokion.text = he.o_en_US_dedes.TheotokeSyEiApostolon.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -611,7 +609,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d5_en_US_dedes.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

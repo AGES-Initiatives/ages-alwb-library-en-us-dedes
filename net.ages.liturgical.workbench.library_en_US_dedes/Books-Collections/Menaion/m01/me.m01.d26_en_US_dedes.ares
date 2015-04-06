@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Memory of our Devout Father Xenophon and his Household"
 meLE.commemoration2 = ""
 meHO.number = "26."
-meHO.rank  = "5"
+meHO.rank = "5"
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -35,7 +35,7 @@ meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meVE.SticStavrotheotokion.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = he.ga_en_US_dedes.OTheosTonPateronImon.text
 
 meMA.C1Acrostic.text = ""
@@ -168,7 +168,7 @@ meMA.Kontakion1.text = "Since the righteous Xenophon * and his august wife * hav
 
 meMA.Oikos1.text = "O Xenophon, with your wife you traversed a strange way in a manner worthy of God, and you eluded nature, and thus manifest on earth as though bodiless. Hence the gates of heaven were opened to you, and you join chorus with the Angels, since you had become laborers of the Lord's vineyard along with your sons. Therefore entreat Christ who awards the crowns, that the splendor of illumination be given to our darkened hearts, as we observe your luminous memorial. For Christ you have magnified."
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode2
@@ -243,19 +243,17 @@ meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
 meMA.ExapTheotokion.text = "O pure and most holy Virgin, * truly your majesty transcends * all the battalions of Angels * and all the choruses of saints. * Therefore make fervent entreaty * to Christ for a sinful people."
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

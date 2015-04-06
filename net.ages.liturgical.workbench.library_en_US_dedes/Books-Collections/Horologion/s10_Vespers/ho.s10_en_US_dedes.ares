@@ -4,7 +4,7 @@ hoVE.title = "The Service of Vespers"
 
 R01 = ""
 R02 = ""
-hoVE.Ps103.text = "" //for media (text)
+hoVE.Ps103.text = properties_en_US_dedes.media.key
 R03 = ""
 R04 = ""
 R05 = ""
@@ -15,37 +15,37 @@ R09 = ""
 hoVE.FosIlaron.title = ""
 R10 = ""
 hoVE.FosIlaron.text = "Gladsome light of holy glory of the holy, blessed, heavenly, immortal Father, O Jesus Christ: arriving at the hour of sunset and having seen the evening light, we praise the Father, Son, and Holy Spirit, God. It is worthy for You to be praised at all times with happy voices, O Son of God and Giver of life; and therefore the world glorifies You."
-R11  = ""
+R11 = ""
 
 hoVE.SundayEvening.title = "On Sunday Evening"
-hoVE.SundayProkeimenon.text = "" //for media
+hoVE.SundayProkeimenon.text = properties_en_US_dedes.media.key
 
 hoVE.MondayEvening.title = "On Monday Evening"
-hoVE.MondayProkeimenon.text = "" //for media
+hoVE.MondayProkeimenon.text = properties_en_US_dedes.media.key
 
 hoVE.TuesdayEvening.title = "On Tuesday Evening"
-hoVE.TuesdayProkeimenon.text = "" //for media
+hoVE.TuesdayProkeimenon.text = properties_en_US_dedes.media.key
 
 hoVE.WednesdayEvening.title = "On Wednesday Evening"
-hoVE.WednesdayProkeimenon.text = "" //for media
+hoVE.WednesdayProkeimenon.text = properties_en_US_dedes.media.key
 
 hoVE.ThursdayEvening.title = "On Thursday Evening"
-hoVE.ThursdayProkeimenon.text = "" //for media
+hoVE.ThursdayProkeimenon.text = properties_en_US_dedes.media.key
 
 hoVE.FridayEvening.title = "On Friday Evening"
-hoVE.FridayProkeimenon.text = "" //for media
+hoVE.FridayProkeimenon.text = properties_en_US_dedes.media.key
 
 hoVE.SaturdayEvening.title = "On Saturday Evening"
-hoVE.SaturdayProkeimenon.text = "" //for media
+hoVE.SaturdayProkeimenon.text = properties_en_US_dedes.media.key
 
-hoVE.GreatProkeimenonTisTheosMegas.text = "" //for media
-hoVE.GreatProkeimenonOTheosImon.text = "" //for media
-hoVE.GreatProkeimenonLent1.text = "" //for media
-hoVE.GreatProkeimenonLent2.text = "" //for media
+hoVE.GreatProkeimenonTisTheosMegas.text = properties_en_US_dedes.media.key
+hoVE.GreatProkeimenonOTheosImon.text = properties_en_US_dedes.media.key
+hoVE.GreatProkeimenonLent1.text = properties_en_US_dedes.media.key
+hoVE.GreatProkeimenonLent2.text = properties_en_US_dedes.media.key
 
-R12  = ""
-R13  = ""
-R14  = ""
+R12 = ""
+R13 = ""
+R14 = ""
 hoVE.MondayAlleluia.title = ""
 hoVE.MondayAlleluia.text = "" //for possible media
 
@@ -58,20 +58,20 @@ hoVE.WednesdayAlleluia.text = "" //for possible media
 hoVE.FridayAlleluia.title = ""
 hoVE.FridayAlleluia.text = "" //for possible media
 
-R15  = ""
+R15 = ""
 
 //Not in Horologion. Needed for Vespers readings
 hoVE.Reading_Intro.text1 = "The reading is from "
 hoVE.Reading_Intro.text2 = "" //This second part is needed to construct the Greek sentence.
 
-R16  = ""
+R16 = ""
 //This Prayer is also in the Small Doxology, at Matins, Compline etc. with "day" and "night"
 hoVE.Prayer_Kataxioson.text = ""
-R17  = ""
-R18  = ""
-R19  = ""
-R20  = ""
-R21  = ""
+R17 = ""
+R18 = ""
+R19 = ""
+R20 = ""
+R21 = ""
 hoVE.LentApolytikion1.mode = misc_en_US_dedes.Mode5
 hoVE.LentApolytikion1.text = "O Virgin Theotokos, rejoice, Mary full of grace. The Lord is with you. Blessed are you among women, and blessed is the fruit of your womb; for you have borne the Savior of our souls."
 hoVE.LentApolytikion2.mode = misc_en_US_dedes.Mode5
@@ -80,13 +80,13 @@ hoVE.LentApolytikion3.mode = misc_en_US_dedes.Mode5
 hoVE.LentApolytikion3.text = "Entreat earnestly for us, O holy Apostles and all Saints, that we be delivered from peril and affliction; for you are our fervent advocates before the Savior."
 hoVE.LentApolytikion4.mode = misc_en_US_dedes.Mode5
 hoVE.LentApolytikion4.text = oc.m5.d7_en_US_dedes.ocMA.LaudsTheotokion.text 
-R22  = ""
-R23  = ""
-R24  = ""
-R25  = ""
+R22 = ""
+R23 = ""
+R24 = ""
+R25 = ""
 hoVE.Prayer_PanagiaTrias.text = //All-holy Trinity, the consubstantial dominion...
 hoVE.Prayer_EiiToOnomaKyriou.text = //Blessed be the name of the Lord...
-R26  = ""
+R26 = ""
 
 // Not in Orologion
 //Lity
@@ -96,5 +96,5 @@ hoVE.LityKyrieEleison.text = prayers_en_US_dedes.res06
 hoVE.ArtoTheotokeParthene.text = hoVE.LentApolytikion1.text
 hoVE.ArtoPrayer1 = "Lord, Jesus Christ our God, You blessed the five loaves in the wilderness and form them five thousand men were filled. Bless now these loaves, the wine and oil, and multiply them in this holy church, in this city, in the homes of those who celebrate today, and in Your whole world. And sanctify Your faithful servants who partake of them."
 hoVE.ArtoPrayer2 = "For You are He who blesses and sanctifies all things, Christ our God, and to You we offer up glory together with Your eternal Father and Your all-holy, good, and life giving Spirit, now and forever and to the ages of ages."
-hoVE.LityArtoHymn.text = "" //for media
+hoVE.LityArtoHymn.text = properties_en_US_dedes.media.key
 

@@ -112,7 +112,7 @@ meMA.Kathisma32.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma32.melody = he.a.m8_en_US_dedes.ToProstachthen.name
 meMA.Kathisma32.text = me.m11.d21_en_US_dedes.meMA.Kathisma31.text
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -542,6 +542,10 @@ meMA.Lauds6.mode = misc_en_US_dedes.Mode4
 meMA.Lauds6.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meMA.Lauds6.text = "Catherine, the all-glorious, once you were willingly purified * through a life-style of piety, * you opened your mouth to speak * and received divine grace * of the Holy Spirit; and with your steadfastness of mind, * you broke the tyrant's impious insolence. * You matched the beauty of your body with the comeliness of your soul, * being mindful of God the Lord, * O adornment of Martyr Saints."
 
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
+meMA.MM.Lauds12as45.text = properties_en_US_dedes.media.key
+meMA.MM.Lauds456as6women12.text = properties_en_US_dedes.media.key
+
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = meVE.AposGlory.text
@@ -549,9 +553,6 @@ meMA.LaudsGlory.text = meVE.AposGlory.text
 meMA.LaudsBoth.mode = misc_en_US_dedes.Mode2
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = me.m11.d21_en_US_dedes.meMA.LaudsGlory.text
-
-meMA.LaudsSundayVerse1.text = ""
-meMA.LaudsSundayVerse2.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -565,7 +566,7 @@ meLI.TheotokosHymn.mode = ""
 meLI.TheotokosHymnVerse.text = ""
 meLI.TheotokosHymn.text = ""
 
-meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

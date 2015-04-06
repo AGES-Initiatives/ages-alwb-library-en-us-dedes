@@ -88,7 +88,7 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = "As the fiery Throne of our God, rejoice! * Holy Maid, as the Chair of the King, rejoice! * Bed with purple covering, Chamber decked in gold and purple, * the most exquisite Temple and porphyry-colored Cloak, * brightly shining Lamp-stand and lightning-bearing Chariot! * City with its twelve walls, rejoice, O Theotokos; * and Gate that is wrought in gold, Bridal Chamber most beautiful, * holy Table of shiny gold; * Dwelling Place adorned by God, * O rejoice, glorious Bride on whom the sun has dripped! * O rejoice, as my soul's only majesty!"
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelHierarch.text
@@ -311,9 +311,7 @@ meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m4.d2_en_US_dedes.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -323,6 +321,6 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
 meLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
 meLI.SeasonalKontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""

@@ -33,10 +33,10 @@ ocSV.AposDogmatic.melody = ""
 ocSV.AposDogmatic.text = ""
 
 ocVE.LIHC1.mode = misc_en_US_dedes.Mode7
-ocVE.LIHC1.text = "" //for media
+ocVE.LIHC1.text = properties_en_US_dedes.media.key
 
 ocVE.LIHC2.mode = misc_en_US_dedes.Mode7
-ocVE.LIHC2.text = "" //for media
+ocVE.LIHC2.text = properties_en_US_dedes.media.key
 
 ocVE.Stichera1.mode = misc_en_US_dedes.Mode7
 ocVE.Stichera1.melody = ""
@@ -747,9 +747,9 @@ ocMA.OdeS9C33.text = ""
 ocMA.Magnificat.mode = misc_en_US_dedes.Mode7
 ocMA.Magnificat.text = he.h.m6_en_US_dedes.TinTimioteran.text
 
-ocMA.Lauds01.text = ""//for media
+ocMA.Lauds01.text = properties_en_US_dedes.media.key
 
-ocMA.Lauds02.text = ""//for media
+ocMA.Lauds02.text = properties_en_US_dedes.media.key
 
 ocMA.Lauds1.mode = misc_en_US_dedes.Mode7
 ocMA.Lauds1.melody = ""

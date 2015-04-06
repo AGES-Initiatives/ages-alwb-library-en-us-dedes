@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Memory of our Devout Father Ephrem the Syrian."
 meLE.commemoration2 = ""
 meHO.number = "28."
-meHO.rank  = "5"
+meHO.rank = "5"
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,11 +28,11 @@ meVE.Stichera03.text = "You put restraints on your body * through self-control, 
 
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.SticTheotokion.melody  = ""
+meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode6
@@ -41,7 +41,7 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode4
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode4
@@ -191,7 +191,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode6
@@ -261,13 +261,11 @@ meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
 meMA.ExapTheotokion.text = "You are the hope of the hopeless, * you are the refuge for Christians, * O all-lauded Theotokos, * you are the joy of the oppressed. * Deliver us your unworthy * servants from every affliction."
 
-meMA.LaudsSundayVerse1.text = "Precious in the sight of the Lord is the death of His holy one."
-
-meMA.LaudsSundayVerse2.text = "Blessed is the man who fears the Lord."
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meMA.AposGlory.poet = poets_en_US_dedes.Kyprianou
 meMA.AposGlory.mode = misc_en_US_dedes.Mode2
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode2
@@ -283,10 +281,10 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

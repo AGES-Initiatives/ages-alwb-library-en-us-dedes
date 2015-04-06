@@ -29,38 +29,38 @@ trVE.Stichera04.mode = misc_en_US_dedes.Mode6
 trVE.Stichera04.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
 trVE.Stichera04.text = ""
 
-trVE.Stichera567.text = "" //for media
+trVE.MM.Stichera123as567.text = properties_en_US_dedes.media.key
 
 trVE.SticGlory.mode = misc_en_US_dedes.Mode8
-trVE.SticGlory.melody  = ""
+trVE.SticGlory.melody = ""
 trVE.SticGlory.text = ""
 
 trVE.LityGlory.mode = misc_en_US_dedes.Mode7
-trVE.LityGlory.melody  = ""
+trVE.LityGlory.melody = ""
 trVE.LityGlory.text = ""
 
 trVE.LityBoth.mode = misc_en_US_dedes.Mode7
-trVE.LityBoth.melody  = ""
+trVE.LityBoth.melody = ""
 trVE.LityBoth.text = ""
 
 trVE.AposGlory.mode = misc_en_US_dedes.Mode8
-trVE.AposGlory.melody  = ""
+trVE.AposGlory.melody = ""
 trVE.AposGlory.text = ""
 
 trVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
-trVE.AposTheotokion.melody  = ""
+trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.text = oc.m8.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 trMA.PostGospelGlory.mode = misc_en_US_dedes.Mode8
-trMA.PostGospelGlory.melody  = ""
+trMA.PostGospelGlory.melody = ""
 trMA.PostGospelGlory.text = tr.d001_en_US_dedes.trMA.PostGospelGlory.text
 
 trMA.PostGospelBoth.mode = misc_en_US_dedes.Mode8
-trMA.PostGospelBoth.melody  = ""
+trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.text = tr.d001_en_US_dedes.trMA.PostGospelBoth.text
 
 trMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-trMA.PostGospelIdiomelon.melody  = ""
+trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.text = tr.d001_en_US_dedes.trMA.PostGospelIdiomelon.text
 
 trMA.C1Poet = poets_en_US_dedes.TheodorouTouStouditou
@@ -152,7 +152,7 @@ trMA.Ode3C1T.text = ""
 
 trMA.Ode3K.ode = misc_en_US_dedes.Ode3
 trMA.Ode3K.mode = misc_en_US_dedes.Mode6
-trMA.Ode3K.melody  = ""
+trMA.Ode3K.melody = ""
 trMA.Ode3K.text = he.h.m6_en_US_dedes.StereosonKyrie.text
 
 trMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode1
@@ -168,7 +168,7 @@ trMA.Ode3Kathisma3.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
 trMA.Ode3Kathisma3.text = ""
 
 trMA.Ode3Kathisma4.mode = misc_en_US_dedes.Mode6
-trMA.Ode3Kathisma4.melody  = ""
+trMA.Ode3Kathisma4.melody = ""
 trMA.Ode3Kathisma4.text = ""
 
 trMA.Ode3Kathisma5.mode = misc_en_US_dedes.Mode6
@@ -316,7 +316,7 @@ trMA.Ode6K.melody = misc_en_US_dedes.Heirmos
 trMA.Ode6K.text = he.h.m6_en_US_dedes.EvoisaEnOliKardiaMou.text
 
 trMA.Kontakion1.mode = misc_en_US_dedes.Mode1
-trMA.Kontakion1.melody  = ""
+trMA.Kontakion1.melody = ""
 trMA.Kontakion1.text = "When You come down to the earth, O God, in Your glory, all things will cower tremulous, and a river of fire will draw before Your Judgment Seat; the books shall be opened up, and public knowledge will things hidden be. Rescue me, then, I pray, from unquenchable fire, and count me worthy to stand at Your right hand, O You, the most righteous Judge."
 
 trMA.Oikos1.text = "Considering well Your fearsome judgment, exceedingly good Lord, and the Judgment Day, I shudder and am frightened at the accusations of my conscience. When You are seated on Your throne and conduct the examination, no one can deny their sins, accused by the truth and possessed by terror. Great will be the sound of the Gehenna fire, then, and the gnashing of sinners. Therefore, have mercy on me before the end, and pity me, O You, the most righteous Judge."
@@ -490,12 +490,12 @@ trMA.LaudsGlory.mode = misc_en_US_dedes.Mode1
 trMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 trMA.LaudsGlory.text = "Let us first cleanse ourselves, O brethren, by the queen of virtues, for behold, she is here, providing us with a wealth of blessings! She suppresses our swelling passions, and reconciles offenders with the Master. Therefore, let us welcome her with a cheerful heart, crying out to Christ our God, \"You who rose from the dead, keep us uncondemned as we glorify You, the only sinless One.\""
 
-trMA.LaudsTheotokion.mode  = ""
-trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-trLI.SeasonalKontakion.melody  = ""
+trLI.SeasonalKontakion.melody = ""
 trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 
 trLI.Alleluia.mode = misc_en_US_dedes.Mode8
@@ -504,7 +504,7 @@ trLI.AlleluiaVerse1.text = ""
 
 trLI.AlleluiaVerse2.text = ""
 
-trLI.CommunionHymn.text = ""
+trLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 trMegalynarion.text = ""
 

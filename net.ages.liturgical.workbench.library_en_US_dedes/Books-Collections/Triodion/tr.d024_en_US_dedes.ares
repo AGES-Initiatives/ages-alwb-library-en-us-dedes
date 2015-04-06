@@ -24,24 +24,6 @@ trVE.Stichera03.mode = misc_en_US_dedes.Mode5
 trVE.Stichera03.melody = he.a.m5_en_US_dedes.OsiePater.name
 trVE.Stichera03.text = ""
 
-trVE.Prokeimenon1.mode = misc_en_US_dedes.Mode6
-trVE.Prokeimenon1.text = ""
-
-trVE.Prokeimenon1Verse1.text = ""
-
-trVE.Reading1.book = ""
-trVE.Reading1.chapverse = ""
-trVE.Reading1.text = ""
-
-trVE.Prokeimenon2.mode = misc_en_US_dedes.Mode5
-trVE.Prokeimenon2.text = ""
-
-trVE.Prokeimenon2Verse1.text = ""
-
-trVE.Reading2.book = ""
-trVE.Reading2.chapverse = ""
-trVE.Reading2.text = ""
-
 trVE.AposIdiomelon1.mode = misc_en_US_dedes.Mode3
 trVE.AposIdiomelon1.melody = misc_en_US_dedes.Idiomelon
 trVE.AposIdiomelon1.text = ""
@@ -51,11 +33,11 @@ trVE.AposMartyric.melody = misc_en_US_dedes.Automelon
 trVE.AposMartyric.text = he.a.m3_en_US_dedes.MegaliTonMartyronSou.text
 
 trVE.AposTheotokion.mode = misc_en_US_dedes.Mode3
-trVE.AposTheotokion.melody  = ""
+trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.text = ""
 
 trMA.Kathisma21.mode = misc_en_US_dedes.Mode2
-trMA.Kathisma21.melody  = ""
+trMA.Kathisma21.melody = ""
 trMA.Kathisma21.text = ""
 
 trMA.Kathisma22.mode = misc_en_US_dedes.Mode2
@@ -67,7 +49,7 @@ trMA.Kathisma23.melody = he.a.m2_en_US_dedes.EfsplagchniasYparchousa.name
 trMA.Kathisma23.text = ""
 
 trMA.Kathisma31.mode = misc_en_US_dedes.Mode5
-trMA.Kathisma31.melody  = ""
+trMA.Kathisma31.melody = ""
 trMA.Kathisma31.text = ""
 
 trMA.Kathisma32.mode = misc_en_US_dedes.Mode5
@@ -234,27 +216,13 @@ trMA.AposIdiomelon1.melody = misc_en_US_dedes.Idiomelon
 trMA.AposIdiomelon1.text = ""
 
 trMA.AposMartyric.mode = misc_en_US_dedes.Mode3
-trMA.AposMartyric.melody  = ""
+trMA.AposMartyric.melody = ""
 trMA.AposMartyric.text = ""
 
 trMA.AposTheotokion.mode = misc_en_US_dedes.Mode3
-trMA.AposTheotokion.melody  = ""
+trMA.AposTheotokion.melody = ""
 trMA.AposTheotokion.text = ""
 
 trTE.Troparion.mode = misc_en_US_dedes.Mode1
-trTE.Troparion.melody  = ""
+trTE.Troparion.melody = ""
 trTE.Troparion.text = ""
-
-trTE.Prokeimenon1.mode = misc_en_US_dedes.Mode4
-trTE.Prokeimenon1.text = ""
-
-trTE.Prokeimenon1Verse.text = ""
-
-trTE.Reading1.book = ""
-trTE.Reading1.chapverse = ""
-trTE.Reading1.text = ""
-
-trTE.Prokeimenon2.mode = misc_en_US_dedes.Mode4
-trTE.Prokeimenon2.text = ""
-
-trTE.Prokeimenon2Verse.text = ""

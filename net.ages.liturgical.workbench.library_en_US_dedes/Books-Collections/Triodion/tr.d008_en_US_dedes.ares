@@ -21,7 +21,7 @@ trVE.Stichera02.mode = misc_en_US_dedes.Mode1
 trVE.Stichera02.melody = misc_en_US_dedes.Idiomelon
 trVE.Stichera02.text = "Brethren, let us learn the power of the mystery: When the Prodigal Son runs back from sin to the warmth of his Father's house, the all-loving Father, goes to meet him and kisses him, and he gives him back again the tokens of his own glory; and he sacrifices the fatted calf and thus celebrates the mystical joy with those in heaven. Let us understand this so that we might live lives worthy of the loving Father, who offered the sacrifice, and of the glorious sacrificial victim, who is the Savior of our souls."
 
-trVE.Stichera567.text = "" //for media
+trVE.MM.Stichera123as567.text = properties_en_US_dedes.media.key
 
 trVE.SticGlory.mode = misc_en_US_dedes.Mode2
 trVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
@@ -32,19 +32,19 @@ trVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
 trVE.AposGlory.text = "I squandered the riches that my Father gave me. Then I ran with a herd of unintelligent brutes, pitiful wretch that I am. Although I helped myself to their fodder, I could not get my fill, and I was starving. So now I am returning to my compassionate Father, and with tears in my eyes I am crying out, \"Take me back as a hired hand, as I throw myself before your love for humanity, and save me.\""
 
 trVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
-trVE.AposTheotokion.melody  = ""
+trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 trMA.PostGospelGlory.mode = misc_en_US_dedes.Mode8
-trMA.PostGospelGlory.melody  = ""
+trMA.PostGospelGlory.melody = ""
 trMA.PostGospelGlory.text = tr.d001_en_US_dedes.trMA.PostGospelGlory.text
 
 trMA.PostGospelBoth.mode = misc_en_US_dedes.Mode8
-trMA.PostGospelBoth.melody  = ""
+trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.text = tr.d001_en_US_dedes.trMA.PostGospelBoth.text
 
 trMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-trMA.PostGospelIdiomelon.melody  = ""
+trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.text = tr.d001_en_US_dedes.trMA.PostGospelIdiomelon.text
 
 trMA.C1Poet = poets_en_US_dedes.KyriouIosif
@@ -303,21 +303,21 @@ trMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
 trMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 trMA.LaudsGlory.text = "Good Father, I made myself distant from You; do not forsake me, nor show me to be useless in Your kingdom. The vile enemy has denuded me; he has taken my wealth. The gifts of my soul I have squandered with abandon. So, having arisen, once again I return to You and cry, \"Treat me as one of Your hirelings.\" For me You stretched out Your pure hands upon the cross to snatch me from the fearsome beast, and to vest me with that former dignified apparel, for You alone are great in mercy."
 
-trMA.LaudsTheotokion.mode  = ""
-trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
 trLI.SeasonalKontakion.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
 trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 
-trLI.Alleluia.mode  = ""
+trLI.Alleluia.mode = ""
 
 trLI.AlleluiaVerse1.text = ""
 
 trLI.AlleluiaVerse2.text = ""
 
-trLI.CommunionHymn.text = ""
+trLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 trMegalynarion.text = ""
 

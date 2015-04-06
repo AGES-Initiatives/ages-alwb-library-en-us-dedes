@@ -160,7 +160,7 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = "O all-holy and virgin Mother of God, * cure the terrible passions afflicting my soul, * I earnestly pray to you, and to me grant forgiveness * for the many offences I have mindlessly committed, * thus defiling my body and soul, wretched that I am. * Oh! and how I shudder at the thought of that hour, * when Angels will separate my soul from my body. * Alas! What shall become of me? * Lady, hence I pray you will come * to my aid as an ardent patroness. * I your unworthy servant have you as my only hope."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelApostle.text
@@ -747,9 +747,7 @@ meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -759,6 +757,6 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d5_en_US_dedes.daLI.CommunionHymnAlt.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""

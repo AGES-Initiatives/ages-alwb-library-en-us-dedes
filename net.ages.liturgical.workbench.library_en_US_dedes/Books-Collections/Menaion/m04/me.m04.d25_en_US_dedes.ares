@@ -68,7 +68,7 @@ meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 meVE.Apolytikion1.text = "St. Peter's companion and sacred partner were you, * and servant of Christ the Logos and His herald most wise, O holy Apostle Mark. * You, O inspired mystic of the heavens, recorded * for all of us the Savior's most divine holy Gospel. * Therefore, O Evangelist, we lovingly honor you."
 
 meVE.GeneralApolytikion1.name = "Mark,"
-meVE.GeneralApolytikion1.text = "" //for media
+meVE.GeneralApolytikion1.text = properties_en_US_dedes.media.key
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode1
@@ -262,15 +262,13 @@ meMA.Lauds3.mode = misc_en_US_dedes.Mode1
 meMA.Lauds3.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meMA.Lauds3.text = "O Mark, the Apostle of the Lord, * you were a devoted follower of Peter the most divine; * and when you had believed * his inspired teachings, * you illumined peoples by the Holy Spirit's grace, being wise in all, enlightening the minds * of Egyptians to believe in Christ, * and adorning * their city with piety."
 
-meMA.Lauds456.text = "" // for media when needed
+meMA.MM.Lauds123as456.text = properties_en_US_dedes.media.key
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
 meMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 meMA.LaudsGlory.text = meVE.SticGlory.text
 
-meMA.LaudsSundayVerse1.text = "Their proclamation went forth into all the earth, and their words to the ends of the world."
-
-meMA.LaudsSundayVerse2.text = "The heavens declare the glory of God; the firmament shows the creation of His hands."
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -280,7 +278,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d5_en_US_dedes.daLI.CommunionHymnAlt.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

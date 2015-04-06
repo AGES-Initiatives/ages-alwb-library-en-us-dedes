@@ -7,15 +7,15 @@ daVE.OnTheAfternoonBefore = template.titles_en_US_dedes.d.onFridayAfternoon
 daVE.OnTheEveningBefore = template.titles_en_US_dedes.d.onFridayEvening
 
 daVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
-daVE.Apolytikion1.melody  = ""
+daVE.Apolytikion1.melody = ""
 daVE.Apolytikion1.text = oc.m2.d5_en_US_dedes.ocMA.Kathisma32.text
 
 daVE.Apolytikion2.mode = misc_en_US_dedes.Mode2
-daVE.Apolytikion2.melody  = ""
+daVE.Apolytikion2.melody = ""
 daVE.Apolytikion2.text = oc.m2.d7_en_US_dedes.ocMA.Kathisma23.text
 
 daVE.ApolTheotokion.mode = misc_en_US_dedes.Mode2
-daVE.ApolTheotokion.melody  = ""
+daVE.ApolTheotokion.melody = ""
 daVE.ApolTheotokion.text = oc.m2.d2_en_US_dedes.ocMA.ApolTheotokion.text
 
 daMA.Photagogic1Ending.text = prayers_en_US_dedes.fePresveiaisTonAgionKaiSosonMe
@@ -36,6 +36,6 @@ daMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
 daMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
 daMA.ExapTheotokion.text = "O sweetness of the Angels, * O joy of those in affliction, * and the protectress of Christians, * O Virgin Mother of the Lord, * come to my aid and redeem me * from the eternal torments."
 
-daLI.CommunionHymn.text = "" //for media
+daLI.CommunionHymn.text = properties_en_US_dedes.media.key
 
 daLI.CommunionHymnAlt.text = ""

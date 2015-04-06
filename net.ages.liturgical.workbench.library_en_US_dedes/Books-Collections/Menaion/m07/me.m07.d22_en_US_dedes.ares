@@ -258,9 +258,7 @@ meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.text = "O Mary, who are aptly named, * as a Disciple of the Lord, * join with the Myrrh-bearing women * and also the Virgin Mary, * the only Mother of our God, * and never cease to intercede * with the Lord who was crucified * for us who with longing honor * your memory, O Myrrh-bearer."
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -270,6 +268,6 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""

@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -41,7 +41,7 @@ meVE.Stichera06.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.AndreouKritis
 meVE.SticGlory.mode = misc_en_US_dedes.Mode5
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m02.d02_en_US_dedes.meVE.LityGlory.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -66,7 +66,7 @@ meVE.AposGlory.text = ""
 
 // No apolytikia? There are three in the pdf... added the following:
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m02.d02_en_US_dedes.meVE.Apolytikion1.text
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
@@ -232,7 +232,7 @@ meMA.Ode6C1T.mode = misc_en_US_dedes.Mode6
 meMA.Ode6C1T.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
 meMA.Ode6C1T.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode6
@@ -317,21 +317,15 @@ meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.text = "Ineffably forsaking not * the bosom of the Father, * in His extreme benevolence * the Logos from a Virgin * is born and He is an infant. * Symeon now receives Him * in his embraces; and along * with the Elder is Anna the very old, * and they both gave thanks to Him as the Master; * and thereby they announced to all * the salvation of mortals."
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meMA.Aposticha1.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meMA.Aposticha1.text = me.m02.d02_en_US_dedes.meSV.Aposticha1.text
 
-meMA.ApostichaVerse2.text = ""
-
 meMA.Aposticha2.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meMA.Aposticha2.text = me.m02.d03_en_US_dedes.meVE.Aposticha2.text
-
-meMA.ApostichaVerse3.text = ""
 
 meMA.Aposticha3.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
@@ -348,7 +342,7 @@ meLI.Kontakion1.melody = ""
 meLI.Kontakion1.text = ""
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

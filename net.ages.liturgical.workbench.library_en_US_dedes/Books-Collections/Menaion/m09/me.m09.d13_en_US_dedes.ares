@@ -708,9 +708,7 @@ meMA.LaudsBoth.mode = misc_en_US_dedes.Mode3
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = ""
 
-meMA.LaudsSundayVerse1.text = "O Lord, I love the beauty of Your house, and the place where Your glory dwells."
-
-meMA.LaudsSundayVerse2.text = "Holiness is proper to Your house, O Lord, unto length of days."
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -720,6 +718,6 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""

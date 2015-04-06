@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "The Holy Great Martyr Artemios. The Venerable Matrona of Chios."
 meLE.commemoration2 = "Our Venerable God-bearing Father Gerasimos of Kephallenia."
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -28,7 +28,7 @@ meVE.Stichera03.text = "Godly-minded Artemios, * you delivered your sorely tried
 
 meVE.SticGlory.poet = poets_en_US_dedes.Stouditou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
@@ -40,7 +40,7 @@ meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
@@ -58,7 +58,7 @@ meVE.Apolytikion1.text = ""
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion2.melody  = ""
+meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.text = "O believers, let us praise the protector of the Orthodox, * The God-bearing miracle-worker lately appearing to us, * the incarnate angel, divine Gerasimos. * For he has rightly received from God * the ever-flowing grace of performing healing. * He strengthens those with diseases and he heals those with demons. * And therefore he pours out healings to those who honor him."
 
 meMA.C1Acrostic.text = ""
@@ -191,7 +191,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode2
@@ -281,16 +281,14 @@ meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.text = "O Lady, blessed and all-pure * Theotokos and Virgin, * you are the Christians' dignity, * the glory of the Angels, * the pride and joy of the Martyrs. * Power, fortress and shelter, * and a defensive battlement, * guardian and protectress become for us, * your unworthy servants, in times of peril. * For we indeed take pride in you, * who are the world's protection."
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meMegalynarion.text = ""

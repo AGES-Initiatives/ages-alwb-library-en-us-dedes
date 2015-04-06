@@ -103,7 +103,7 @@ meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 meMA.Kathisma31.text = "Today is the memory of the Apostle Saint John * throughout the entire world, and it illumines us all. * So let us now honor it. * It is clearly apparent in the Gospel he authored * that he was the Lord's friend and a true theologian. * Therefore he pours out healings to all those who honor him."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelApostle.text
@@ -403,9 +403,7 @@ meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
 meMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 meMA.LaudsGlory.text = "O Evangelist John, peer of the Angles and Virgin, Theologian taught by God, you correctly proclaimed to the world the immaculate side, which spouted the blood and the water, whereby we obtain life eternal for our souls."
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -415,7 +413,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ""
 
-meLI.CommunionHymn.text = da.d5_en_US_dedes.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

@@ -174,7 +174,7 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode3
 meMA.Kathisma3T.melody = he.a.m3_en_US_dedes.TinOraiotita.name
 meMA.Kathisma3T.text = "Let us sing hymns in praise * of her who knew no man * and yet gave birth to God, * and held within her womb * the One whom nothing can contain, * the all-holy Theotokos. * Only she was capable * of redeeming the human race * from the curse by giving birth * to the Savior and God of all. * And let us say to her all together: * \"Rejoice, O Lady full of grace.\""
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMaleMartyr.text
@@ -555,9 +555,7 @@ meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -567,7 +565,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

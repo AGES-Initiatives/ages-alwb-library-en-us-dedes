@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "The Holy Martyr Eusignios."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,7 +39,7 @@ meVE.Stichera06.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode5
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -59,7 +59,7 @@ meVE.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meVE.Aposticha3.text = "Christ, wishing to transform the nature come from Adam, goes up onto Mount Tabor, and there for His disciples discloses His Divinity."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
@@ -346,7 +346,7 @@ meMA.Kontakion2.text = ""
 
 meMA.Oikos2.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
@@ -555,20 +555,16 @@ meMA.Aposticha1.mode = misc_en_US_dedes.Mode1
 meMA.Aposticha1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Aposticha1.text = "We are observing the Forefeast of the all-glorious * holy Transfiguration * on this day, and we therefore * are glorifying Christ God, for with the fire * of divinity He restored * our fallen nature and shone brightly as before * in His incorruptibility."
 
-meMA.ApostichaVerse2.text = "Mercy and truth met together; righteousness and peace kissed each other."
-
 meMA.Aposticha2.mode = misc_en_US_dedes.Mode1
 meMA.Aposticha2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Aposticha2.text = "Let us ascend in the spirit the holy mountain today * and view by faith the splendid * holy Transfiguration * of Christ our Lord and Savior, whom we adore; * let us faithfully say to Him, * \"You who have taken on flesh and have deified * human nature are the only God.\""
-
-meMA.ApostichaVerse3.text = "O Lord, they shall walk in the light of Your face."
 
 meMA.Aposticha3.mode = misc_en_US_dedes.Mode1
 meMA.Aposticha3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Aposticha3.text = "This is the eve and the Forefeast * of the august day on which * the Lord will be transfigured, * as it says, on Mount Tabor. * Moses and Elias as well as Christ's * three Disciples will be there too; * and from the cloud will the voice of the Father say, * \"This one truly is my chosen Son.\""
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode5
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "Moses, the seer of God, and Elias, the fiery charioteer who races unburnt across the heavens, saw You in the cloud at Your Transfiguration, O Christ, and they bore witness that You are the Author and Fulfiller of the Law and the Prophets. With them, O Master, count us worthy of Your enlightenment, that we may hymn You unto the ages."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
@@ -576,7 +572,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode7
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m08.d06_en_US_dedes.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

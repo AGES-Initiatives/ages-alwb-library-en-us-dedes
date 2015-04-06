@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -30,7 +30,7 @@ meVE.Stichera03.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m02.d24_en_US_dedes.meVE.AposGlory.text
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
@@ -217,7 +217,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
@@ -307,8 +307,8 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
-meLI.SeasonalKontakion.text  = ""
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ""
 
 meMegalynarion.text = ""
 

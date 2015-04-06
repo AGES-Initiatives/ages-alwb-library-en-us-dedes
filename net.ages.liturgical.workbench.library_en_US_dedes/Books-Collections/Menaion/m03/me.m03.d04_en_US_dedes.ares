@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Memory of our Devout Father Gerasimos of Jordan."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -192,7 +192,7 @@ meMA.Oikos16.text = ""
 meMA.Oikos17.text = ""
 meMA.Oikos18.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
@@ -271,7 +271,7 @@ meMA.Ode9C14.text = ""
 
 meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C1T.melody  = ""
+meMA.Ode9C1T.melody = ""
 meMA.Ode9C1T.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
@@ -279,7 +279,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meMegalynarion.text = ""

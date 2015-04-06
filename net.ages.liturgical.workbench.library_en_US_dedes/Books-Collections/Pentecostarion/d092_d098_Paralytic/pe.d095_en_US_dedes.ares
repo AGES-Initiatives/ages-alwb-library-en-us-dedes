@@ -43,11 +43,11 @@ peVE.Aposticha3.melody = misc_en_US_dedes.Idiomelon
 peVE.Aposticha3.text = "When the middle of the feast had come, Jesus went up to the Temple; and He taught the unbelieving Judeans, saying, \"Let him who thirsts come to Me and drink the water that is alive and eternal, and he will not thirst in eternity. He who believes in Me will have rivers flowing out of his belly, and he will have the light of life.\""
 
 peVE.AposGlory.mode = misc_en_US_dedes.Mode8
-peVE.AposGlory.melody  = ""
+peVE.AposGlory.melody = ""
 peVE.AposGlory.text = "In the middle of the feast, as You, O Savior, were teaching, the Judeans were saying, \"How does this man have such learning without having studied?\" But they were unaware that You are the very Wisdom that created the world. Glory to You."
 
 peVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
-peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.text = "O Lord, midway through the feast, give drink to my thirsty soul from the waters of true religion. For to all You the Savior cried aloud, Let whoever is thirsty come to Me and drink. As the fountain of life, O Christ our God, glory to You."
 
 peMA.Kathisma11.mode = misc_en_US_dedes.Mode4
@@ -604,7 +604,7 @@ peMA.Lauds3.mode = misc_en_US_dedes.Mode4
 peMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 peMA.Lauds3.text = "The severe and iniquitous * and ungrateful society * of the Jews threw stones at the Prophet Moses of old. * They killed Isaiah by sawing him * in two with a wooden saw. * They imprisoned in a pit * Jeremiah the holy sage. * But the Lord of all * they had raised on a cross, and then they cried out, \"You who would destroy the temple, * we will believe if you save yourself.\""
 
-peMA.Lauds123.text = "" //for media
+peMA.MM.Lauds123.text = properties_en_US_dedes.media.key
 
 peMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
 peMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
@@ -617,6 +617,6 @@ peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 peLI.TheotokosHymn.mode = misc_en_US_dedes.Mode8
 peLI.TheotokosHymn.text = peMA.Ode9C2H.text
 
-peLI.CommunionHymn.text = "\"Those who eat my flesh and drink my blood abide in me, and I in them.\" So said the Lord."
+peLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 peMegalynarion.text = ""

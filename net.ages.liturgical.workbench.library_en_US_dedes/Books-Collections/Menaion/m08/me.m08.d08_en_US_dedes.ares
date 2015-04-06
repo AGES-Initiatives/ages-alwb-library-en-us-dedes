@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,7 +40,7 @@ meVE.Stichera06.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
 meVE.Stichera06.text = "O Saint who used fiery language with great wisdom, when the tyrant Leo passed the half barbarian * and half Greek law that decreed against * the veneration * of the august icon of the Savior Christ, * then did you oppose him with the law that is from God, * that veneration accorded to * the sacred icons * goes to the prototype, as Saint Basil said. * And by your word that hateful animal * was completely struck dumb with astonishment, * O all-ven'rable Father * and most sacred man who speak from God."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode1
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m08.d06_en_US_dedes.meVE.Aposticha1.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode6
@@ -60,7 +60,7 @@ meVE.Aposticha3.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode1
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m08.d06_en_US_dedes.meVE.Aposticha2.text
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
@@ -201,7 +201,7 @@ meMA.Ode6H.mode = misc_en_US_dedes.Mode1
 meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m1_en_US_dedes.SplanchnonIonan.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
@@ -285,20 +285,16 @@ meMA.Aposticha1.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meMA.Aposticha1.text = "Shining whiter than snow before Your three Disciples, You partially uncovered the essence of Your glory, which no one can approach, O Christ."
 
-meMA.ApostichaVerse2.text = ""
-
 meMA.Aposticha2.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meMA.Aposticha2.text = "Showing that You are Lord and Maker of creation, O Christ my God and Savior, the sun's high-flying brilliance bowed down before Your holy feet."
-
-meMA.ApostichaVerse3.text = ""
 
 meMA.Aposticha3.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meMA.Aposticha3.text = "When You deliberately displayed Your glory, Savior, with Moses and Elijah on Tabor, Your Disciples beheld it and were struck with awe."
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode1
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = me.m08.d06_en_US_dedes.meVE.Aposticha3.text
 
 meLI.Antiphon2.text = me.m08.d06_en_US_dedes.meLI.Antiphon2.text
@@ -308,7 +304,7 @@ meLI.Kontakion1.melody = ""
 meLI.Kontakion1.text = ""
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode7
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m08.d06_en_US_dedes.meMA.Kontakion1.text
 
 meMegalynarion.text = ""

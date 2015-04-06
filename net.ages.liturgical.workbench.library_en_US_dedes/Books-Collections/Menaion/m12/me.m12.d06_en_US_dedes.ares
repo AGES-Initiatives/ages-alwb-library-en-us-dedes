@@ -183,7 +183,7 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 meMA.Kathisma3T.text = "Be swift to accept our fervent prayers, O Lady and Queen, * and take them, all-blameless Maiden, and present them for us * before your own Son and God. * Obliterate the scandals of the slanderous babblers, * frustrate the machinations and humble the boldness * of the godless, O Pure one, who against your servants have taken arms."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -740,9 +740,7 @@ meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = "Let us sound the trumpet with the clarion of song. For inclining from on high, the Queen of all and Virgin Mother crowns with her blessings those who extol her. Let the kings and princes run to gather together, and with hymns applaud her, the Queen who bore the King who, in His love for humanity, was well pleased to release those who were formerly prisoners of death. O Shepherds and Teachers, let us come together and praise the surpassingly pure Mother of the Good Shepherd. Let us praise her, for she is the golden lamp-stand, the light-bearing cloud, the one who is wider than the heavens, the animate Ark, the fiery throne of the Master, the golden urn holding the Manna, the gate of the Logos, which is closed shut. With songs inspired by God, let us extol her, as the shelter for all Christians. And in lauding her, let us say to her, \"O Palace of the Logos, account us worthy, lowly that we be, of the Kingdom of heaven; for nothing is impossible, by your mediation.\""
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meMA.AdditionalIdiomelon1.poet = poets_en_US_dedes.Sergiou
 meMA.AdditionalIdiomelon1.mode = misc_en_US_dedes.Mode6
@@ -769,7 +767,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
 meLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
 meLI.SeasonalKontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

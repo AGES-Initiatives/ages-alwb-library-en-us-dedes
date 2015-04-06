@@ -165,7 +165,7 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = "Now we, all generations of humankind, * call you blest among women, for you alone * gave birth in the flesh to God * without seed as a virgin. * For the fire of Divinity * truly dwelt inside of you; * and you nursed as a babe the Creator and Lord of all. * Therefore all the Angels and we humans are joining * to glorify worthily * the all-holy Son you bore, * and together we call to you. * Intercede with Christ our God * that He grant forgiveness of offences * to those who faithfully honor your immaculate childbirth."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMonastic.text
@@ -553,9 +553,7 @@ meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -565,7 +563,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

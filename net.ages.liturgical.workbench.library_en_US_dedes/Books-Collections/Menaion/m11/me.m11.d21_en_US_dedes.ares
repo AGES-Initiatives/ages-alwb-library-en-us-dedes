@@ -136,7 +136,7 @@ meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma31.melody = he.a.m8_en_US_dedes.ToProstachthen.name
 meMA.Kathisma31.text = "Exult, O David, the composer of divine hymns; * and dance for joy, O Joachim along with Anna; * for from you has come forth a most holy offspring, * yes, Mary the divine lantern bearing the light. * And as she enters the Temple she does rejoice. * As he saw her, the priestly son of Barachiah blest her, * and full of joy he cried aloud, Rejoice, wonder of all the world."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -794,13 +794,11 @@ meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Today the all-blameless Virgin is led to the Temple, to become the abode of God the King of all and Nourisher of our whole life. Today the most pure sanctuary is introduced into the Holy of Holies as a heifer three years old. Let us cry out to her as once did the Angel: Rejoice, only blessed among women."
 
-meMA.LaudsSundayVerse1.text = "" //for media
-
-meMA.LaudsSundayVerse2.text =  "" //for media
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Antiphon2.text = ho.s07_en_US_dedes.hoLI.Antiphon2w.text
 
-meLI.EntranceHymn.text = "" //for media
+meLI.MM.EntranceHymn.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -814,7 +812,7 @@ meLI.TheotokosHymn.mode = meMA.Ode9C1H.mode
 meLI.TheotokosHymnVerse.text = meMA.Ode9C1M01.text
 meLI.TheotokosHymn.text = meMA.Ode9C1H.text
 
-meLI.CommunionHymn.text = "" //for media
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

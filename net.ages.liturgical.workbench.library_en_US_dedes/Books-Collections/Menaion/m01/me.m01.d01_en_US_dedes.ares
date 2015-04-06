@@ -144,7 +144,7 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = "The Creator and Master of all the world, * who took flesh from your all-pure and holy womb, * made you, the all-blameless Maid, * the protectress of humanity. * For this reason all we faithful now have recourse to you, * and we ask you, O Lady, to be forgiven our offences, * and to be delivered from eternal perdition * and every adversity that the prince of the world inflicts. * And we therefore cry out to you: * Intercede with your Son and our God * that He grant forgiveness of offenses * to those who piously worship the all-holy Child you bore."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 // From saved ematins file; maybe slightly different beginning? (extra clause)
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -641,13 +641,11 @@ meMA.LaudsBoth.mode = misc_en_US_dedes.Mode8
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = meVE.Stichera01.text
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Antiphon2.text = "who were circumcised in the flesh."
 
-meLI.EntranceHymn.text = ho.s07_en_US_dedes.hoLI.EntranceHymn.text
+meLI.MM.EntranceHymn.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -663,7 +661,7 @@ meLI.TheotokosHymn.text = eu.lichrysbasil_en_US_dedes.euLI.Key1328.basil.text
 meLI.AfterCommunion.mode = misc_en_US_dedes.Mode1
 meLI.AfterCommunion.text = meVE.Apolytikion2.text
 
-meLI.CommunionHymn.text = da.d1_en_US_dedes.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

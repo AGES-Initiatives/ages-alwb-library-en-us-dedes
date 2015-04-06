@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "The Translation of the Relics of our Father among the Saints Athanasios the Great."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_dedes.HolidayWineOil
 meHO.note2 = ""
@@ -28,12 +28,12 @@ meVE.Stichera03.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Germanou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.LityGlory.poet = poets_en_US_dedes.GermanouPatriarchou
 meVE.LityGlory.mode = misc_en_US_dedes.Mode3
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
@@ -54,7 +54,7 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Germanou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode3
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
@@ -245,25 +245,23 @@ meMA.Lauds3.mode = misc_en_US_dedes.Mode4
 meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meMA.Lauds3.text = "With the staff of your dogmas you, O all-wise father, drove away * from the Church of Christ all the spiritual wolves; * and you protected her round about * with words as with battlements, * and presented her to Christ * free of blemish and injury. * Therefore supplicate * that He free from corruption and from dangers * those who loyally now honor * your ever-ven'rable memory."
 
-meMA.Lauds456.text = "" //for media
+meMA.MM.Lauds123as456.text = properties_en_US_dedes.media.key
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode3
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "With sacred hymns let us extol that great glory of priests, Athanasius, the invincible hero. By the power of the Spirit, he cut down the ranks of the heresies, and he raised the trophies of Orthodoxy throughout the world. He correctly expounded on the mystery of the Trinity, speaking of three because of the attributes of each Person, and then speaking of one because of the unconfused identity of essence. He theologized like the cherubim, and he intercedes for our souls."
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 
