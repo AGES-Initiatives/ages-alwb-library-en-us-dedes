@@ -1,16 +1,12 @@
 A_Resource_Whose_Name = oc.m7.d1_en_US_dedes
 
-ocGE.GlorySticheraric.mode = misc_en_US_dedes.Mode7
-ocGE.GlorySticheraric.text = prayers_en_US_dedes.DoxaPatri.text
+ocGE.MM.GlorySticheraric.text = properties_en_US_dedes.media.key
 
-ocGE.BothSticheraric.mode = misc_en_US_dedes.Mode7
-ocGE.BothSticheraric.text = prayers_en_US_dedes.KaiNynKaiAei.text
+ocGE.MM.BothSticheraric.text = properties_en_US_dedes.media.key
 
-ocGE.GloryHeirmologic.mode = misc_en_US_dedes.Mode7
-ocGE.GloryHeirmologic.text = prayers_en_US_dedes.DoxaPatri.text
+ocGE.MM.GloryHeirmologic.text = properties_en_US_dedes.media.key
 
-ocGE.BothHeirmologic.mode = misc_en_US_dedes.Mode7
-ocGE.BothHeirmologic.text = prayers_en_US_dedes.KaiNynKaiAei.text
+ocGE.MM.BothHeirmologic.text = properties_en_US_dedes.media.key
 
 ocSV.Dogmatic.mode = misc_en_US_dedes.Mode7
 ocSV.Dogmatic.melody = ""
@@ -32,11 +28,9 @@ ocSV.AposDogmatic.mode = misc_en_US_dedes.Mode7
 ocSV.AposDogmatic.melody = ""
 ocSV.AposDogmatic.text = ""
 
-ocVE.LIHC1.mode = misc_en_US_dedes.Mode7
-ocVE.LIHC1.text = properties_en_US_dedes.media.key
+ocVE.MM.LIHC1.text = properties_en_US_dedes.media.key
 
-ocVE.LIHC2.mode = misc_en_US_dedes.Mode7
-ocVE.LIHC2.text = properties_en_US_dedes.media.key
+ocVE.MM.LIHC2.text = properties_en_US_dedes.media.key
 
 ocVE.Stichera1.mode = misc_en_US_dedes.Mode7
 ocVE.Stichera1.melody = ""
@@ -262,8 +256,7 @@ ocMO.Ode9T.ode = misc_en_US_dedes.Ode9
 ocMO.Ode9T.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.name
 ocMO.Ode9T.text = ""
 
-ocMA.GodIsTheLord.mode = misc_en_US_dedes.Mode7
-ocMA.GodIsTheLord.text = ho.s03_en_US_dedes.hoMA.GodIsTheLord.text
+ocMA.MM.GodIsTheLord.text = properties_en_US_dedes.media.key
 
 ocMA.Kathisma11.mode = misc_en_US_dedes.Mode7
 ocMA.Kathisma11.melody = ""
@@ -329,9 +322,8 @@ ocMA.Antiphon33.mode = misc_en_US_dedes.Mode7
 ocMA.Antiphon33.melody = ""
 ocMA.Antiphon33.text = "In the Holy Spirit is an abyss of divine gifts, a wealth of glory, a great depth of judgments; He is identical in glory to the Father and the Son, for He is worshipped."
 
-ocMA.Prokeimenon.text = "Arise, O Lord my God, let Your hand be lifted high, and do not forget Your poor to the end."
+ocMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 
-ocMA.ProkeimenonVerse.text = "I will give thanks to You, O Lord, with my whole heart."
 
 ocMA.C2Poet = poets_en_US_dedes.Kosma
 
@@ -747,9 +739,9 @@ ocMA.OdeS9C33.text = ""
 ocMA.Magnificat.mode = misc_en_US_dedes.Mode7
 ocMA.Magnificat.text = he.h.m6_en_US_dedes.TinTimioteran.text
 
-ocMA.Lauds01.text = properties_en_US_dedes.media.key
+ocMA.MM.Lauds01.text = properties_en_US_dedes.media.key
 
-ocMA.Lauds02.text = properties_en_US_dedes.media.key
+ocMA.MM.Lauds02.text = properties_en_US_dedes.media.key
 
 ocMA.Lauds1.mode = misc_en_US_dedes.Mode7
 ocMA.Lauds1.melody = ""

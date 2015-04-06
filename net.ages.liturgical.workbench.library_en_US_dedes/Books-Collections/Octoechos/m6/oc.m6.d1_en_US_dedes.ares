@@ -1,16 +1,12 @@
 A_Resource_Whose_Name = oc.m6.d1_en_US_dedes
 
-ocGE.GlorySticheraric.mode = misc_en_US_dedes.Mode6
-ocGE.GlorySticheraric.text = prayers_en_US_dedes.DoxaPatri.text
+ocGE.MM.GlorySticheraric.text = properties_en_US_dedes.media.key
 
-ocGE.BothSticheraric.mode = misc_en_US_dedes.Mode6
-ocGE.BothSticheraric.text = prayers_en_US_dedes.KaiNynKaiAei.text
+ocGE.MM.BothSticheraric.text = properties_en_US_dedes.media.key
 
-ocGE.GloryHeirmologic.mode = misc_en_US_dedes.Mode6
-ocGE.GloryHeirmologic.text = prayers_en_US_dedes.DoxaPatri.text
+ocGE.MM.GloryHeirmologic.text = properties_en_US_dedes.media.key
 
-ocGE.BothHeirmologic.mode = misc_en_US_dedes.Mode6
-ocGE.BothHeirmologic.text = prayers_en_US_dedes.KaiNynKaiAei.text
+ocGE.MM.BothHeirmologic.text = properties_en_US_dedes.media.key
 
 ocSV.Dogmatic.mode = misc_en_US_dedes.Mode6
 ocSV.Dogmatic.melody = ""
@@ -32,11 +28,9 @@ ocSV.AposDogmatic.mode = misc_en_US_dedes.Mode6
 ocSV.AposDogmatic.melody = ""
 ocSV.AposDogmatic.text = ""
 
-ocVE.LIHC1.mode = misc_en_US_dedes.Mode6
-ocVE.LIHC1.text = "" // for media
+ocVE.MM.LIHC1.text = properties_en_US_dedes.media.key
 
-ocVE.LIHC2.mode = misc_en_US_dedes.Mode6
-ocVE.LIHC2.text = "" // for media
+ocVE.MM.LIHC2.text = properties_en_US_dedes.media.key
 
 ocVE.Stichera1.mode = misc_en_US_dedes.Mode6
 ocVE.Stichera1.melody = ""
@@ -272,8 +266,7 @@ ocMO.Ode9T.ode = misc_en_US_dedes.Ode9
 ocMO.Ode9T.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
 ocMO.Ode9T.text = ""
 
-ocMA.GodIsTheLord.mode = misc_en_US_dedes.Mode6
-ocMA.GodIsTheLord.text = ho.s03_en_US_dedes.hoMA.GodIsTheLord.text
+ocMA.MM.GodIsTheLord.text = properties_en_US_dedes.media.key
 
 ocMA.Kathisma11.mode = misc_en_US_dedes.Mode6
 ocMA.Kathisma11.melody = ""
@@ -339,9 +332,8 @@ ocMA.Antiphon33.mode = misc_en_US_dedes.Mode6
 ocMA.Antiphon33.melody = ""
 ocMA.Antiphon33.text = "In the Holy Spirit is universal dominion, which the armies above worship, as does everything that has breath below."
 
-ocMA.Prokeimenon.text = "O Lord, raise up Your power, and come for our salvation."
+ocMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 
-ocMA.ProkeimenonVerse.text = "Give heed, O You who shepherd Israel."
 
 ocMA.C3Acrostic.text = ""
 
@@ -785,9 +777,9 @@ ocMA.OdeS9C34.text = ""
 ocMA.Magnificat.mode = misc_en_US_dedes.Mode6
 ocMA.Magnificat.text = he.h.m6_en_US_dedes.TinTimioteran.text
 
-ocMA.Lauds01.text = "" // for media
+ocMA.MM.Lauds01.text = properties_en_US_dedes.media.key
 
-ocMA.Lauds02.text = "" // for media
+ocMA.MM.Lauds02.text = properties_en_US_dedes.media.key
 
 ocMA.Lauds1.mode = misc_en_US_dedes.Mode6
 ocMA.Lauds1.melody = ""
