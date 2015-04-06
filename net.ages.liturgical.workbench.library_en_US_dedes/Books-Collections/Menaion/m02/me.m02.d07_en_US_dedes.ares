@@ -48,13 +48,9 @@ meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
 meVE.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meVE.Aposticha1.text = me.m02.d04_en_US_dedes.meMA.Aposticha2.text
 
-meVE.ApostichaVerse2.text = ""
-
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode2
 meVE.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meVE.Aposticha2.text = me.m02.d02_en_US_dedes.meSV.Aposticha2.text
-
-meVE.ApostichaVerse3.text = ""
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode2
 meVE.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
@@ -557,7 +553,7 @@ meMA.Aposticha2.text = me.m02.d04_en_US_dedes.meVE.Aposticha1.text
 
 meMA.Aposticha3.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha3.text = me.m02.d06a_en_US_dedes.meVE.Aposticha3.text
+meMA.Aposticha3.text = me.m02.d06_en_US_dedes.alt1meVE.Aposticha3.text
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode2
 meMA.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
