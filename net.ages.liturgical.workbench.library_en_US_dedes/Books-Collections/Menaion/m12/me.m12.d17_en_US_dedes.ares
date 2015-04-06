@@ -52,13 +52,9 @@ meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Aposticha1.text = ""
 
-meVE.ApostichaVerse2.text = ""
-
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Aposticha2.text = ""
-
-meVE.ApostichaVerse3.text = ""
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
@@ -78,7 +74,7 @@ meVE.Apolytikion1.text = ""
 
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode1
 meVE.Apolytikion2.melody = he.a.m1_en_US_dedes.TouLithouSfragisthentos.name
-meVE.Apolytikion2.text = me.m12.d17b_en_US_dedes.meVE.Apolytikion1.text
+meVE.Apolytikion2.text = me.m12.d17_en_US_dedes.alt1meVE.Apolytikion1.text
 
 meMA.C1Acrostic.text = ""
 
@@ -458,3 +454,394 @@ meLI.SeasonalKontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
 
 meMegalynarion.text = ""
 
+alt1meDate.text = "December 17" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1meCommemoration.text = "" //full title of day
+alt1meShortCommemoration1.text = ""
+alt1meInsert1 = "" //for use in petitions and dismissal
+alt1meInsert2 = "" //for use in petitions and dismissal
+alt1meNote.text = ""
+alt1meLE.commemoration1 = ""
+alt1meLE.commemoration2 = ""
+alt1meHO.number = ""
+alt1meHO.rank = ""
+alt1meHO.commemorations = ""
+alt1meHO.note1 = ""
+alt1meHO.note2 = ""
+
+alt1meVE.Stichera01.mode = misc_en_US_dedes.Mode2
+alt1meVE.Stichera01.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+alt1meVE.Stichera01.text = ""
+
+alt1meVE.Stichera02.mode = misc_en_US_dedes.Mode2
+alt1meVE.Stichera02.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+alt1meVE.Stichera02.text = ""
+
+alt1meVE.Stichera03.mode = misc_en_US_dedes.Mode2
+alt1meVE.Stichera03.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+alt1meVE.Stichera03.text = ""
+
+alt1meVE.Stichera04.mode = misc_en_US_dedes.Mode2
+alt1meVE.Stichera04.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+alt1meVE.Stichera04.text = ""
+
+alt1meVE.SticGlory.mode = misc_en_US_dedes.Mode6
+alt1meVE.SticGlory.melody = ""
+alt1meVE.SticGlory.text = ""
+
+alt1meVE.SticBoth.mode = misc_en_US_dedes.Mode6
+alt1meVE.SticBoth.melody = ""
+alt1meVE.SticBoth.text = ""
+
+alt1meVE.Lity1.mode = misc_en_US_dedes.Mode1
+alt1meVE.Lity1.melody = ""
+alt1meVE.Lity1.text = ""
+
+alt1meVE.Lity2.mode = misc_en_US_dedes.Mode2
+alt1meVE.Lity2.melody = ""
+alt1meVE.Lity2.text = ""
+
+alt1meVE.Lity3.mode = misc_en_US_dedes.Mode3
+alt1meVE.Lity3.melody = ""
+alt1meVE.Lity3.text = ""
+
+alt1meVE.LityGlory.mode = misc_en_US_dedes.Mode5
+alt1meVE.LityGlory.melody = ""
+alt1meVE.LityGlory.text = ""
+
+alt1meVE.LityBoth.mode = misc_en_US_dedes.Mode5
+alt1meVE.LityBoth.melody = ""
+alt1meVE.LityBoth.text = ""
+
+alt1meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
+alt1meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+alt1meVE.Aposticha1.text = ""
+
+alt1meVE.Aposticha2.mode = misc_en_US_dedes.Mode5
+alt1meVE.Aposticha2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+alt1meVE.Aposticha2.text = ""
+
+alt1meVE.Aposticha3.mode = misc_en_US_dedes.Mode5
+alt1meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+alt1meVE.Aposticha3.text = ""
+
+alt1meVE.AposGlory.mode = misc_en_US_dedes.Mode8
+alt1meVE.AposGlory.melody = ""
+alt1meVE.AposGlory.text = ""
+
+alt1meVE.AposBoth.mode = misc_en_US_dedes.Mode8
+alt1meVE.AposBoth.melody = ""
+alt1meVE.AposBoth.text = ""
+
+alt1meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
+alt1meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.TouLithouSfragisthentos.name
+alt1meVE.Apolytikion1.text = "To the offspring of Zakynthos and bishop of Aegina, * protector of Strophades Monastery, Saint Dionysios, * O believers, let us all with one accord * pay honor, and sincerely say to him: * \"By your fervent prayers save us, who are observing your memory and who call to you: * Glory to Christ who glorified you; * glory to Him who made you marvelous; * glory to Him who gave us you to intercede for us.\""
+
+alt1meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
+alt1meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+alt1meMA.Kathisma11.text = ""
+
+alt1meMA.Kathisma12.mode = misc_en_US_dedes.Mode1
+alt1meMA.Kathisma12.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+alt1meMA.Kathisma12.text = ""
+
+alt1meMA.Kathisma13.mode = misc_en_US_dedes.Mode1
+alt1meMA.Kathisma13.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+alt1meMA.Kathisma13.text = ""
+
+alt1meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
+alt1meMA.Kathisma21.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+alt1meMA.Kathisma21.text = ""
+
+alt1meMA.Kathisma22.mode = misc_en_US_dedes.Mode4
+alt1meMA.Kathisma22.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+alt1meMA.Kathisma22.text = ""
+
+alt1meMA.Kathisma23.mode = misc_en_US_dedes.Mode4
+alt1meMA.Kathisma23.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+alt1meMA.Kathisma23.text = ""
+
+alt1meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
+alt1meMA.Kathisma31.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+alt1meMA.Kathisma31.text = ""
+
+alt1meMA.Kathisma32.mode = misc_en_US_dedes.Mode8
+alt1meMA.Kathisma32.melody = he.a.m8_en_US_dedes.ToProstachthen.name
+alt1meMA.Kathisma32.text = ""
+
+alt1meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
+
+alt1meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
+alt1meMA.PostGospelGlory.melody = ""
+alt1meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelHierarch.text
+
+alt1meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
+alt1meMA.PostGospelBoth.melody = ""
+alt1meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+
+alt1meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
+alt1meMA.PostGospelIdiomelon.melody = ""
+alt1meMA.PostGospelIdiomelon.text = ""
+
+alt1meMA.C1Acrostic.text = ""
+
+alt1meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+alt1meMA.Ode1C11.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode1C11.melody = he.h.m1_en_US_dedes.OdinEpinikion.name
+alt1meMA.Ode1C11.text = ""
+
+alt1meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+alt1meMA.Ode1C12.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode1C12.melody = he.h.m1_en_US_dedes.OdinEpinikion.name
+alt1meMA.Ode1C12.text = ""
+
+alt1meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+alt1meMA.Ode1C13.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode1C13.melody = he.h.m1_en_US_dedes.OdinEpinikion.name
+alt1meMA.Ode1C13.text = ""
+
+alt1meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
+alt1meMA.Ode1C1T.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode1C1T.melody = he.h.m1_en_US_dedes.OdinEpinikion.name
+alt1meMA.Ode1C1T.text = ""
+
+alt1meMA.Ode1K.ode = misc_en_US_dedes.Ode1
+alt1meMA.Ode1K.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode1K.melody = misc_en_US_dedes.Heirmos
+alt1meMA.Ode1K.text = he.h.m1_en_US_dedes.ChristosGennatai.text
+
+alt1meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+alt1meMA.Ode3C11.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode3C11.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.name
+alt1meMA.Ode3C11.text = ""
+
+alt1meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+alt1meMA.Ode3C12.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode3C12.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.name
+alt1meMA.Ode3C12.text = ""
+
+alt1meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+alt1meMA.Ode3C13.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode3C13.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.name
+alt1meMA.Ode3C13.text = ""
+
+alt1meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
+alt1meMA.Ode3C1T.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode3C1T.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.name
+alt1meMA.Ode3C1T.text = ""
+
+alt1meMA.Ode3K.ode = misc_en_US_dedes.Ode3
+alt1meMA.Ode3K.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode3K.melody = misc_en_US_dedes.Heirmos
+alt1meMA.Ode3K.text = he.h.m1_en_US_dedes.ToProTonAionon.text
+
+alt1meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
+alt1meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+alt1meMA.Ode3Kathisma1.text = ""
+
+alt1meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode8
+alt1meMA.Ode3KathismaT.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+alt1meMA.Ode3KathismaT.text = ""
+
+alt1meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+alt1meMA.Ode4C11.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode4C11.melody = he.h.m1_en_US_dedes.EnPnevmatiProvlepon.name
+alt1meMA.Ode4C11.text = ""
+
+alt1meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+alt1meMA.Ode4C12.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode4C12.melody = he.h.m1_en_US_dedes.EnPnevmatiProvlepon.name
+alt1meMA.Ode4C12.text = ""
+
+alt1meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+alt1meMA.Ode4C13.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode4C13.melody = he.h.m1_en_US_dedes.EnPnevmatiProvlepon.name
+alt1meMA.Ode4C13.text = ""
+
+alt1meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
+alt1meMA.Ode4C1T.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode4C1T.melody = he.h.m1_en_US_dedes.EnPnevmatiProvlepon.name
+alt1meMA.Ode4C1T.text = ""
+
+alt1meMA.Ode4K.ode = misc_en_US_dedes.Ode4
+alt1meMA.Ode4K.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode4K.melody = misc_en_US_dedes.Heirmos
+alt1meMA.Ode4K.text = he.h.m1_en_US_dedes.EnPnevmatiProvlepon.text
+
+alt1meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+alt1meMA.Ode5C11.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode5C11.melody = he.h.m1_en_US_dedes.ToFaeinonIminExanateilon.name
+alt1meMA.Ode5C11.text = ""
+
+alt1meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+alt1meMA.Ode5C12.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode5C12.melody = he.h.m1_en_US_dedes.ToFaeinonIminExanateilon.name
+alt1meMA.Ode5C12.text = ""
+
+alt1meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+alt1meMA.Ode5C13.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode5C13.melody = he.h.m1_en_US_dedes.ToFaeinonIminExanateilon.name
+alt1meMA.Ode5C13.text = ""
+
+alt1meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
+alt1meMA.Ode5C1T.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode5C1T.melody = he.h.m1_en_US_dedes.ToFaeinonIminExanateilon.name
+alt1meMA.Ode5C1T.text = ""
+
+alt1meMA.Ode5K.ode = misc_en_US_dedes.Ode5
+alt1meMA.Ode5K.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode5K.melody = misc_en_US_dedes.Heirmos
+alt1meMA.Ode5K.text = he.h.m1_en_US_dedes.ToFaeinonIminExanateilon.text
+
+alt1meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+alt1meMA.Ode6C11.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode6C11.melody = he.h.m1_en_US_dedes.TonProfitinIonan.name
+alt1meMA.Ode6C11.text = ""
+
+alt1meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+alt1meMA.Ode6C12.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode6C12.melody = he.h.m1_en_US_dedes.TonProfitinIonan.name
+alt1meMA.Ode6C12.text = ""
+
+alt1meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+alt1meMA.Ode6C13.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode6C13.melody = he.h.m1_en_US_dedes.TonProfitinIonan.name
+alt1meMA.Ode6C13.text = ""
+
+alt1meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
+alt1meMA.Ode6C1T.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode6C1T.melody = he.h.m1_en_US_dedes.TonProfitinIonan.name
+alt1meMA.Ode6C1T.text = ""
+
+alt1meMA.Ode6K.ode = misc_en_US_dedes.Ode6
+alt1meMA.Ode6K.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode6K.melody = misc_en_US_dedes.Heirmos
+alt1meMA.Ode6K.text = he.h.m1_en_US_dedes.SplanchnonIonan.text
+
+alt1meMA.Kontakion1.mode = misc_en_US_dedes.Mode3
+alt1meMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
+alt1meMA.Kontakion1.text = ""
+
+alt1meMA.Oikos1.text = ""
+
+alt1meMA.Synaxarion.text = ""
+
+alt1meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+alt1meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode7C11.melody = he.h.m1_en_US_dedes.IKaminosSotirEdrosizeto.name
+alt1meMA.Ode7C11.text = ""
+
+alt1meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+alt1meMA.Ode7C12.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode7C12.melody = he.h.m1_en_US_dedes.IKaminosSotirEdrosizeto.name
+alt1meMA.Ode7C12.text = ""
+
+alt1meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+alt1meMA.Ode7C13.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode7C13.melody = he.h.m1_en_US_dedes.IKaminosSotirEdrosizeto.name
+alt1meMA.Ode7C13.text = ""
+
+alt1meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
+alt1meMA.Ode7C1T.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode7C1T.melody = he.h.m1_en_US_dedes.IKaminosSotirEdrosizeto.name
+alt1meMA.Ode7C1T.text = ""
+
+alt1meMA.Ode7K.ode = misc_en_US_dedes.Ode7
+alt1meMA.Ode7K.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode7K.melody = misc_en_US_dedes.Heirmos
+alt1meMA.Ode7K.text = he.h.m1_en_US_dedes.OiPaidesEfseveia.text
+
+alt1meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+alt1meMA.Ode8C11.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode8C11.melody = he.h.m1_en_US_dedes.OnFrittousinAngeloi.name
+alt1meMA.Ode8C11.text = ""
+
+alt1meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+alt1meMA.Ode8C12.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode8C12.melody = he.h.m1_en_US_dedes.OnFrittousinAngeloi.name
+alt1meMA.Ode8C12.text = ""
+
+alt1meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+alt1meMA.Ode8C13.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode8C13.melody = he.h.m1_en_US_dedes.OnFrittousinAngeloi.name
+alt1meMA.Ode8C13.text = ""
+
+alt1meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
+alt1meMA.Ode8C1T.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode8C1T.melody = he.h.m1_en_US_dedes.OnFrittousinAngeloi.name
+alt1meMA.Ode8C1T.text = ""
+
+alt1meMA.Ode8K.ode = misc_en_US_dedes.Ode8
+alt1meMA.Ode8K.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode8K.melody = misc_en_US_dedes.Heirmos
+alt1meMA.Ode8K.text = he.h.m1_en_US_dedes.ThavmatosYperfyous.text
+
+alt1meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+alt1meMA.Ode9C11.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode9C11.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.name
+alt1meMA.Ode9C11.text = ""
+
+alt1meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+alt1meMA.Ode9C12.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode9C12.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.name
+alt1meMA.Ode9C12.text = ""
+
+alt1meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+alt1meMA.Ode9C13.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode9C13.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.name
+alt1meMA.Ode9C13.text = ""
+
+alt1meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
+alt1meMA.Ode9C1T.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode9C1T.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.name
+alt1meMA.Ode9C1T.text = ""
+
+alt1meMA.Ode9K.ode = misc_en_US_dedes.Ode9
+alt1meMA.Ode9K.mode = misc_en_US_dedes.Mode1
+alt1meMA.Ode9K.melody = misc_en_US_dedes.Heirmos
+alt1meMA.Ode9K.text = he.h.m1_en_US_dedes.MystirionXenon.text
+
+alt1meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+alt1meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+alt1meMA.Exaposteilarion1.text = ""
+
+alt1meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
+alt1meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+alt1meMA.Exaposteilarion2.text = ""
+
+alt1meMA.Lauds1.mode = misc_en_US_dedes.Mode4
+alt1meMA.Lauds1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+alt1meMA.Lauds1.text = ""
+
+alt1meMA.Lauds2.mode = misc_en_US_dedes.Mode4
+alt1meMA.Lauds2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+alt1meMA.Lauds2.text = ""
+
+alt1meMA.Lauds3.mode = misc_en_US_dedes.Mode4
+alt1meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+alt1meMA.Lauds3.text = ""
+
+alt1meMA.Lauds4.mode = misc_en_US_dedes.Mode4
+alt1meMA.Lauds4.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+alt1meMA.Lauds4.text = ""
+
+alt1meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
+alt1meMA.LaudsGlory.melody = ""
+alt1meMA.LaudsGlory.text = ""
+
+alt1meMA.LaudsBoth.mode = misc_en_US_dedes.Mode8
+alt1meMA.LaudsBoth.melody = ""
+alt1meMA.LaudsBoth.text = ""
+
+alt1meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
+
+alt1meLI.Kontakion1.mode = alt1meMA.Kontakion1.mode
+alt1meLI.Kontakion1.melody = alt1meMA.Kontakion1.melody
+alt1meLI.Kontakion1.text = alt1meMA.Kontakion1.text
+
+alt1meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
+alt1meLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
+alt1meLI.SeasonalKontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
+
+alt1meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
+
+alt1meMegalynarion.text = ""
