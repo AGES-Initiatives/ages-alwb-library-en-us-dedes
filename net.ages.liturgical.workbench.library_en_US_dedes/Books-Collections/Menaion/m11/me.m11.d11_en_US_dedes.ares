@@ -490,8 +490,6 @@ meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
 meMA.ExapTheotokion.text = "O all-immaculate Maiden, * as David said, in you were seen * the Master's solemn processions; * and they direct humanity * to where the choirs of Angels are * and also the host of all Saints."
 
-meMA.ApostichaVerse4.text = ""
-
 meMA.Aposticha4.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha4.melody = ""
 meMA.Aposticha4.text = ""
@@ -509,9 +507,7 @@ meMA.AposStavrotheotokion.mode = misc_en_US_dedes.Mode1
 meMA.AposStavrotheotokion.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meMA.AposStavrotheotokion.text = ""
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

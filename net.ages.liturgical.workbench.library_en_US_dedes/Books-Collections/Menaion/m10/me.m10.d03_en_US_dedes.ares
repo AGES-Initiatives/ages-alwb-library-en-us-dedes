@@ -53,7 +53,7 @@ meVE.AposStavrotheotokion.text = ""
 
 meVE.GeneralApolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.GeneralApolytikion1.melody = ""
-meVE.GeneralApolytikion1.text  = "" //for media
+meVE.GeneralApolytikion1.text = properties_en_US_dedes.media.key
 meVE.GeneralApolytikion1.name = "Dionysios."
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
@@ -274,9 +274,7 @@ meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
 meMA.ExapTheotokion.text = "All-holy Virgin Lady pure, * at your divine Dormition * present were Dionysius, * Hierotheos and Timothy the divine Hieromartyrs, * also with the Apostles. * Each of them sang a worthy hymn * in memory of you. And along with them * every human tongue now rightly extols you * the woman who gave birth to God * and who protects the whole world."
 
-meMA.LaudsSundayVerse1.text = "The righteous shall flourish like a palm tree; he shall be multiplied like the cedar in Lebanon."
-
-meMA.LaudsSundayVerse2.text = "To the saints on His earth, in them the Lord magnified all His will."
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meMA.AposGlory.poet = poets_en_US_dedes.Germanou
 meMA.AposGlory.mode = misc_en_US_dedes.Mode8

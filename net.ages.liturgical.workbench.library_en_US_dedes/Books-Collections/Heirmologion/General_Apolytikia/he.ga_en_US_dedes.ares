@@ -3,14 +3,14 @@ A_Resource_Whose_Name = he.ga_en_US_dedes
 // For a Prophet. Insert name with comma.
 TouProfitouSou.name = "As we celebrate."
 TouProfitouSou.mode = misc_en_US_dedes.Mode2
-TouProfitouSou.melody  = ""
+TouProfitouSou.melody = ""
 TouProfitouSou.text1 = "As we celebrate the memory of Your Prophet" // insert name from Menaion. E.g. me.m09.d04_en_US_dedes.meVE.Apolytikion2.text 
 TouProfitouSou.text2 = "through him we importune You, O Lord, that You save our souls."
 
 // For one named Apostle and/or Evangelist. Insert name with comma.
 ApostoleAgie.name = "O holy Apostle."
 ApostoleAgie.mode = misc_en_US_dedes.Mode3
-ApostoleAgie.melody  = ""
+ApostoleAgie.melody = ""
 ApostoleAgie.text1 = "O holy Apostle "
 ApostoleAgie.text1a = "and Evangelist "
 ApostoleAgie.text2 = "make intercession to our merciful God, that He grant our souls forgiveness of offenses."
@@ -18,13 +18,13 @@ ApostoleAgie.text2 = "make intercession to our merciful God, that He grant our s
 // For several unnamed Apostles
 ApostoloiAgioi.name = "O holy Apostles."
 ApostoloiAgioi.mode = misc_en_US_dedes.Mode3
-ApostoloiAgioi.melody  = ""
+ApostoloiAgioi.melody = ""
 ApostoloiAgioi.text = "O holy Apostles, make intercession to our merciful God, that He grant our souls forgiveness of offenses."
 
 // For hieromartyr
 ChristotitaEkdidachtheis.name = "Having learnt kindness."
 ChristotitaEkdidachtheis.mode = misc_en_US_dedes.Mode4
-ChristotitaEkdidachtheis.melody  = ""
+ChristotitaEkdidachtheis.melody = ""
 ChristotitaEkdidachtheis.text1 = "Having learnt kindness, and being always steady and sober, vested with a good conscience as befits a priest, you drew out from the Chosen Vessel the secrets of God. And having kept the faith, you have finished the fair race, O Hieromartyr "
 ChristotitaEkdidachtheis.text2 = "Intercede with Christ our God, entreating Him to save our souls."
 
@@ -49,13 +49,13 @@ IAmnasSou.text = "Your own ewe-lamb cries to You loudly, O Jesus, and she says, 
 // For a group of unnamed Martyrs
 TasAlgidonas.name = "The holy martyrs suffered."
 TasAlgidonas.mode = misc_en_US_dedes.Mode1
-TasAlgidonas.melody  = ""
+TasAlgidonas.melody = ""
 TasAlgidonas.text = "The holy martyrs suffered painful tortures for Your sake, O Lord; be compelled by what they endured, and heal our every pain, we entreat You, as the only One who loves humanity."
 
 // For one named Hieromartyr. Insert name with period
 KaiTroponMetochos.name = "Becoming a partner."
 KaiTroponMetochos.mode = misc_en_US_dedes.Mode4
-KaiTroponMetochos.melody  = ""
+KaiTroponMetochos.melody = ""
 KaiTroponMetochos.text1 = "Becoming a partner with the Apostles in way of life and successor to their thrones, O God-inspired Saint, in the active life you found an entrance to contemplation. Hence you rightly expounded the word of truth, and you shed your blood in struggling for the faith, O Hieromartyr "
 KaiTroponMetochos.text2 = "Intercede with Christ our God, beseeching that our souls be saved."
 
@@ -69,48 +69,48 @@ TisErimouPolitis.text2 = "our God-bearing father. * Since you received the spiri
 // For one named ascetic man. Insert name with comma.
 TaisTonDakryonSou.name = "With the rivers of your tears."
 TaisTonDakryonSou.mode = misc_en_US_dedes.Mode8
-TaisTonDakryonSou.melody  = ""
+TaisTonDakryonSou.melody = ""
 TaisTonDakryonSou.text1 = "With the rivers of your tears you made the barren desert bloom; and with your sighs from deep within, you made your labors bear their fruits a hundredfold; and you became a star, illuminating the world by your miracles, O "
 TaisTonDakryonSou.text2 = "our devout father. Intercede with Christ our God, for the salvation of our souls."
 
 // For one named ascetic man. Insert name with comma.
 EnSoiPaterAkrivos.name = "In you, O Father."
 EnSoiPaterAkrivos.mode = misc_en_US_dedes.Mode8
-EnSoiPaterAkrivos.melody  = ""
+EnSoiPaterAkrivos.melody = ""
 EnSoiPaterAkrivos.text1 = "In you, O Father, is preserved undistorted what was made in the image of God; for taking up the cross, you followed Christ and by example taught, that we should overlook the flesh, since it passes away, and instead look after the soul, since it is immortal. And therefore, O devout "
 EnSoiPaterAkrivos.text2 = "your spirit rejoices with the angels."
 
 // For one named ascetic woman. Insert name with comma.
 EnSoiMiterAkrivos.name = "In you, O Mother."
 EnSoiMiterAkrivos.mode = misc_en_US_dedes.Mode8
-EnSoiMiterAkrivos.melody  = ""
+EnSoiMiterAkrivos.melody = ""
 EnSoiMiterAkrivos.text1 = "In you, O Mother, is preserved undistorted what was made in the image of God; for taking up the cross, you followed Christ and by example taught, that we should overlook the flesh, since it passes away, and instead look after the soul, since it is immortal. And therefore, O devout "
 EnSoiMiterAkrivos.text2 = "your spirit rejoices with the angels."
 
 // For one named Hierarch with comma. Insert "Holy and devout Father etc and name"
 KanonaPisteos.name = "The actual facts."
 KanonaPisteos.mode = misc_en_US_dedes.Mode4
-KanonaPisteos.melody  = ""
+KanonaPisteos.melody = ""
 KanonaPisteos.text1 = "The actual facts of your life manifested you to your flock as a rule of faith and an icon of gentleness and a teacher of self-control. By humility, therefore, you acquired the things on high, and riches through poverty."
 KanonaPisteos.text2 = "intercede with Christ our God, entreating Him to save our souls."
 
 // For one named Hierarch Confessor or Teacher with comma.
 OrthodoxiasOdigeH.name = "Guide of Orthodoxy."
 OrthodoxiasOdigeH.mode = misc_en_US_dedes.Mode8
-OrthodoxiasOdigeH.melody  = ""
+OrthodoxiasOdigeH.melody = ""
 OrthodoxiasOdigeH.text1 = "Guide of Orthodoxy and a sacred teacher of piety and dignity, luminary of the world, and God-inspired jewel of the episcopate, O wise "
 OrthodoxiasOdigeH.text2 = "the Spirit's instrument: by your teachings you enlightened all. Intercede with Christ our God for the salvation of our souls."
 
 // For one named monastic Confessor or Teacher with comma.
 OrthodoxiasOdigeM.name = "Guide of Orthodoxy."
 OrthodoxiasOdigeM.mode = misc_en_US_dedes.Mode8
-OrthodoxiasOdigeM.melody  = ""
+OrthodoxiasOdigeM.melody = ""
 OrthodoxiasOdigeM.text1 = "Guide of Orthodoxy and a sacred teacher of piety and dignity, luminary of the world, and God-inspired jewel of monastics, O wise "
 OrthodoxiasOdigeM.text2 = "the Spirit's instrument: by your teachings you enlightened all. Intercede with Christ our God for the salvation of our souls."
 
 // For several unnamed holy Fathers
 OTheosTonPateronImon.name = "O God of our Fathers."
 OTheosTonPateronImon.mode = misc_en_US_dedes.Mode4
-OTheosTonPateronImon.melody  = ""
+OTheosTonPateronImon.melody = ""
 OTheosTonPateronImon.text = "O God of our Fathers, since You always deal with us in accordance with Your gentleness, do not withdraw Your mercy from us, but at their fervent entreaties, pilot our life in peace."
 

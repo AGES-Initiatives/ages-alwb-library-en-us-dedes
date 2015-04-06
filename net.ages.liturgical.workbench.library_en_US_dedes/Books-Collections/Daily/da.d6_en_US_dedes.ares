@@ -7,11 +7,11 @@ daVE.OnTheMorningBefore = template.titles_en_US_dedes.d.onThursdayMorning
 daVE.OnTheEveningBefore = template.titles_en_US_dedes.d.onThursdayEvening
 
 daVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
-daVE.Apolytikion1.melody  = ""
+daVE.Apolytikion1.melody = ""
 daVE.Apolytikion1.text = me.m09.d14_en_US_dedes.meVE.Apolytikion1.text
 
 daVE.ApolTheotokion.mode = misc_en_US_dedes.Mode1
-daVE.ApolTheotokion.melody  = ""
+daVE.ApolTheotokion.melody = ""
 daVE.ApolTheotokion.text = oc.m1.d4_en_US_dedes.ocVE.ApolTheotokionVM.text
 
 daMA.Triadic1Ending.text = "By the power of Your Cross save us."
@@ -31,10 +31,10 @@ daMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.TonMathitonOrontonSe.name
 daMA.Exaposteilarion1.text = me.m09.d14_en_US_dedes.meMA.Exaposteilarion1.text
 
 daMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
-daMA.ExapTheotokion.melody  = ""
+daMA.ExapTheotokion.melody = ""
 daMA.ExapTheotokion.text = ""
 
-daLI.CommunionHymn.text = "" //for media
+daLI.CommunionHymn.text = properties_en_US_dedes.media.key
 
 daLI.CommunionHymnAlt.text = ""
 

@@ -294,9 +294,7 @@ meMA.Lauds3.mode = misc_en_US_dedes.Mode4
 meMA.Lauds3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meMA.Lauds3.text = "Chariton, you worthily received the grace to administer cures and healings from grace divine. * Thereafter you put to flight demonic deception * of the evil spirits. * And also injury and harm * of grave diseases withdrew and disappeared. * From you gush forth the rivers of your gifts of grace in abundant streams. * And as we are refreshed by them, we extol your memorial."
 
-meMA.LaudsSundayVerse1.text = "Precious in the sight of the Lord is the death of His holy one."
-
-meMA.LaudsSundayVerse2.text = "Blessed is the man who fears the Lord; he will delight exceedingly in His commandments."
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
 meMA.LaudsGlory.melody = ""
@@ -314,7 +312,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

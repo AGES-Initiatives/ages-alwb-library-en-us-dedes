@@ -536,9 +536,7 @@ meMA.LaudsStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meMA.LaudsStavrotheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meMA.LaudsStavrotheotokion.text = ""
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meMA.AposGlory.poet = poets_en_US_dedes.Anatoliou
 meMA.AposGlory.mode = misc_en_US_dedes.Mode4
@@ -561,7 +559,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = da.d5_en_US_dedes.daLI.CommunionHymnAlt.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

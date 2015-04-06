@@ -125,7 +125,7 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma3T.melody = misc_en_US_dedes.Automelon
 meMA.Kathisma3T.text = he.a.m4_en_US_dedes.TachyProkatalave.text
 
-meMA.Prokeimenon.text = ""
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = "At the intercession of the God-crowned rulers, O Lord of mercy, blot out my many offences."
 
@@ -340,16 +340,14 @@ meMA.Lauds4.mode = misc_en_US_dedes.Mode8
 meMA.Lauds4.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meMA.Lauds4.text = "You anointed paradoxically * with oil of gladness, O Christ, * holy Constantine and devout * Helen who advanced Your work, * for they hated idolatry, * and rather longingly loved Your handsomeness, * O Word, and therefore You made them worthy of * heavenly rule with You; * for they previously ruled upon the earth * with the utmost piety, at Your divine behest."
 
-meMA.Lauds456.text = "" // for media
+meMA.MM.Lauds123as456.text = properties_en_US_dedes.media.key
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.MethodiouPatriarchou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
 meMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 meMA.LaudsGlory.text = "The King of kings and God, who adorns the worthy with abundant gifts, caught you in His net, through the sign of the Cross, like He did to Paul the glorious, O Constantine. He said to you, \"In this sign conquer your enemies.\" Thus having sought Him, as did your godly-minded mother, and having found Him for whom you longed, you utterly defeated them. In company with your mother, earnestly pray for Orthodox rulers, and the Christ-loving armed forces, and all of us who loyally observe your memory, entreating Him who alone loves humanity, to deliver us from all wrath."
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -359,7 +357,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d5_en_US_dedes.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

@@ -46,7 +46,7 @@ trLI.TheotokosHymn.text = oc.m8.d1_en_US_dedes.ocMA.Kathisma23.text
 
 trLI.CommunionHymn.text = "Receive me, today, O Son of God, as a partaker of Your mystical Supper. I will not reveal Your mystery to Your enemies, nor will I give You a kiss, as did Judas. But like the Robber I confess to You. Remember me, O Lord, when You come in Your kingdom."
 
-trLI.AfterCommunion.mode  = ""
+trLI.AfterCommunion.mode = ""
 trLI.AfterCommunion.text = trLI.CommunionHymn.text
 
 // Foot Washing
@@ -76,10 +76,10 @@ trHW.NiptirIdiomelon6.text = ""
 
 // Holy Thursday night
 
-trHW.Alleluia.text = "" //for media
+trHW.Alleluia.text = properties_en_US_dedes.media.key
 
 trHW.Troparion.mode = misc_en_US_dedes.Mode8
-trHW.Troparion.melody  = ""
+trHW.Troparion.melody = ""
 trHW.Troparion.text = tr.d068_en_US_dedes.trHW.Troparion.text
 
 trHW.Antiphon01.title = "Antiphon 1."
@@ -328,7 +328,7 @@ trHW.BeatitudesT.mode = misc_en_US_dedes.Mode4
 trHW.BeatutidesT.melody = he.a.m4_en_US_dedes.DiaXylouOAdam.name
 trHW.BeatitudesT.text = "O Christ our God, we present, as an intercessor to pray for us, * Your Virgin Mother who conceived without seed and physically gave birth to You, * and after the childbirth remained incorrupt, O most merciful Lord. * She prays that You always grant forgiveness of offences to those who cry aloud, * \"Remember us as well in Your kingdom, O Savior.\""
 
-trHW.Prokeimenon.text = "" //for media
+trHW.Prokeimenon.text = properties_en_US_dedes.media.key
 
 trMA.C1Poet = poets_en_US_dedes.KosmaMonachou
 trMA.C1Acrostic.text = ""
@@ -354,7 +354,7 @@ trMA.Ode5K.melody = misc_en_US_dedes.Heirmos
 trMA.Ode5K.text = he.h.m6_en_US_dedes.ProsSeOrthrizo.text
 
 trMA.Kontakion1.mode = misc_en_US_dedes.Mode8
-trMA.Kontakion1.melody  = ""
+trMA.Kontakion1.melody = ""
 trMA.Kontakion1.text = "Come, let us all extol Him who was crucified for us. Mary beheld Him on the Cross and she said, \"Though You endure the Cross, You are my Son and my God.\""
 
 trMA.Oikos1.text = "Seeing her own Lamb being led to the slaughter, Mary, the Ewe, was worn out, and she followed Him with the other women, and cried, \"Where are You going, Child? Why are You going so fast? Maybe there is another wedding in Cana, and You are hurrying now to make wine out of water for them? Shall I come with You, Child, and stay with You? Say something to me, O Word, who preserved my chastity. Please do not pass by me in silence. You are my Son and my God.\""
@@ -432,7 +432,7 @@ trMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
 trMA.Exaposteilarion1.melody = misc_en_US_dedes.Automelon
 trMA.Exaposteilarion1.text = he.a.m3_en_US_dedes.TonListinAfthimeron.text
 
-trHW.Lauds01.text = ""//for media
+trHW.Lauds01.text = properties_en_US_dedes.media.key
 
 trMA.Lauds1.mode = misc_en_US_dedes.Mode3
 trMA.Lauds1.melody = misc_en_US_dedes.Idiomelon
@@ -499,15 +499,15 @@ trH1.Theotokion.mode = misc_en_US_dedes.Mode1
 trH1.Theotokion.text = ho.s04_en_US_dedes.hoH1.Theotokion.text
 
 trH1.Idiomelon1.mode = misc_en_US_dedes.Mode8
-trH1.Idiomelon1.melody  = ""
+trH1.Idiomelon1.melody = ""
 trH1.Idiomelon1.text = trHW.Antiphon122.text
 
 trH1.Idiomelon2.mode = misc_en_US_dedes.Mode8
-trH1.Idiomelon2.melody  = ""
+trH1.Idiomelon2.melody = ""
 trH1.Idiomelon2.text = "You were led as a sheep to slaughter, O Christ the King, and as an innocent lamb, You were nailed to a cross by lawless men, for our sins, O Lord who love humanity."
 
 trH1.Idiomelon3.mode = misc_en_US_dedes.Mode8
-trH1.Idiomelon3.melody  = ""
+trH1.Idiomelon3.melody = ""
 trH1.Idiomelon3.text = trHW.Antiphon071.text
 
 trH1.Kontakion.mode = misc_en_US_dedes.Mode8

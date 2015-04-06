@@ -8,7 +8,7 @@ R3 = ""
 R4 = ""
 SixPsalms.title = "The Six Psalms."
 R6 = ""
-hoMA.GodIsTheLord.text = "" //for media
+hoMA.GodIsTheLord.text = properties_en_US_dedes.media.key
 R7 = ""
 R8 = ""
 R9 = "" //(about Lent)
@@ -101,26 +101,26 @@ hoMA.FuneralEvlog.title2 = ""
 R14 = ""
 hoMA.FuneralEvlogVerse.text = "Blessed are You, O Lord, teach me Your statutes."
 hoMA.FuneralEvlog1.mode = misc_en_US_dedes.Mode5
-hoMA.FuneralEvlog1.text  = ""
+hoMA.FuneralEvlog1.text = ""
 hoMA.FuneralEvlog2.mode = misc_en_US_dedes.Mode5
 hoMA.FuneralEvlog2.text = "You who proclaimed the Gospel of the Lamb of God * and who were yourselves like lambs slaughtered, * and were translated unto life that is immortal and eternal, * earnestly entreat Him, O holy martyr saints, * that He grant us remission of all our debts."
 hoMA.FuneralEvlog3.mode = misc_en_US_dedes.Mode5
 hoMA.FuneralEvlog3.text = "All you who during your earthly life * walked the narrow way that is afflicted, * who taking up the cross as a yoke * followed after me believing, * come now and enjoy the rewards * and the heavenly crowns that I prepared for you."
-hoMA.FuneralEvlog4.mode  = ""
-hoMA.FuneralEvlog4.text  = ""
-hoMA.FuneralEvlog5.mode  = ""
-hoMA.FuneralEvlog5.text  = ""
-hoMA.FuneralEvlog6.mode  = ""
-hoMA.FuneralEvlog6.text  = ""
-hoMA.FuneralEvlog7.mode  = ""
-hoMA.FuneralEvlog7.text  = ""
-hoMA.FuneralEvlog8.mode  = ""
-hoMA.FuneralEvlog8.text  = ""
-hoMA.FuneralEvlog9.mode  = ""
-hoMA.FuneralEvlog9.text  = ""
+hoMA.FuneralEvlog4.mode = ""
+hoMA.FuneralEvlog4.text = ""
+hoMA.FuneralEvlog5.mode = ""
+hoMA.FuneralEvlog5.text = ""
+hoMA.FuneralEvlog6.mode = ""
+hoMA.FuneralEvlog6.text = ""
+hoMA.FuneralEvlog7.mode = ""
+hoMA.FuneralEvlog7.text = ""
+hoMA.FuneralEvlog8.mode = ""
+hoMA.FuneralEvlog8.text = ""
+hoMA.FuneralEvlog9.mode = ""
+hoMA.FuneralEvlog9.text = ""
 
 //Psalm 50
-hoMA.Psalm50.text = "" //for media
+hoMA.Psalm50.text = properties_en_US_dedes.media.key
 
 hoMA.Ode9.Meg00.text = "It is truly right to call you blest, O Theotokos, the ever-blessed and all-blameless one and the Mother of our God. "
 
@@ -275,7 +275,7 @@ R38 = "" //[maybe unpack]
 R39 = "The Doxology follows immediately. At the end of the Doxology, we sing the Apolytikion."
 
 //Order of Matins Gospel
-hoMA.Antiphon11.text = "" //for media
+hoMA.Antiphon11.text = properties_en_US_dedes.media.key
 hoMA.PreGospelHymn.text = "" // for media
 
 hoMA.SunPostGospel.text = "Having seen the Resurrection of Christ, let us worship the Holy Lord Jesus, the only sinless one. Your Cross do we worship, O Christ, and Your holy Resurrection do we hymn and glorify. For You are our God, we know no other but You, we call upon Your name. Come all the faithful, let us worship the holy Resurrection of Christ; for behold through the Cross, joy has come in all the world. Ever blessing the Lord, we extol His Resurrection. For enduring the Cross for us, He destroyed death by death."
@@ -298,7 +298,7 @@ hoMA.PostGospelHierarch.text = "At the intercession of Your holy Hierach, O Lord
 
 hoMA.SunPostGospelIdiomelon.text = "Jesus, having risen from the grave as He foretold, has granted us eternal life and great mercy."
 
-hoMA.SunExapVerse1.text = "" //for media
+hoMA.SunExapVerse1.text = properties_en_US_dedes.media.key
 
 //Triodion specific, not in Horologion
 hoMA.RtrSoS01 = "The priest comes out of the gates and, standing before the icon of Christ, intones the memorial petitions for the deceased."

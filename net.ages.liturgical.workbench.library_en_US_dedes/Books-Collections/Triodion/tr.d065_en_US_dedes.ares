@@ -204,10 +204,10 @@ trCO.Ode9C1T.mode = misc_en_US_dedes.Mode8
 trCO.Ode9C1T.melody = he.h.m8_en_US_dedes.AllotrionTonMiteron.name
 trCO.Ode9C1T.text = ""
 
-trHW.Alleluia.text = "" //for media
+trHW.Alleluia.text = properties_en_US_dedes.media.key
 
 trHW.Troparion.mode = misc_en_US_dedes.Mode8
-trHW.Troparion.melody  = ""
+trHW.Troparion.melody = ""
 trHW.Troparion.text = "Behold, the Bridegroom is coming in the middle of the night; and blessed is the servant He shall find awake and watching; unworthy is the other He shall find being lazy. So beware, O soul of mine, be not overcome by sleep, so that you not be handed over to death and be shut out from the Kingdom. Come to your senses and cry aloud: Holy, holy, holy are You our God."
 trHW.Troparion1.text = "By the protection of the bodiless hosts have mercy on us."
 trHW.Troparion2.text = "At the intercession of Your Saints, have mercy on us."
@@ -249,7 +249,7 @@ trMA.Ode1K.melody = misc_en_US_dedes.Heirmos
 trMA.Ode1K.text = he.h.m2_en_US_dedes.ToTinAvaton.text
 
 trMA.Kontakion1.mode = misc_en_US_dedes.Mode8
-trMA.Kontakion1.melody  = ""
+trMA.Kontakion1.melody = ""
 trMA.Kontakion1.text = "Jacob lamented the loss of Joseph; yet the courageous one sat on a chariot, honored as a king. For by refusing to be enslaved by the pleasures of the Egyptian woman, he was later glorified in return by Him who sees men's hearts and deals out the imperishable crown."
 
 trMA.Oikos1.text = "To lamentation let us now add lamentation, and with Jacob shed tears, and mourn with him over Joseph, the famous and chaste, who was enslaved in body but preserved his soul unenslaved, and became the lord over all of Egypt. For God grants His servants the imperishable crown."
@@ -308,7 +308,7 @@ trMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
 trMA.Exaposteilarion1.melody = misc_en_US_dedes.Automelon
 trMA.Exaposteilarion1.text = he.a.m3_en_US_dedes.TonNymfonaSouVlepo.text
 
-trHW.Lauds01.text = ""//for media
+trHW.Lauds01.text = properties_en_US_dedes.media.key
 
 trMA.Lauds1.mode = misc_en_US_dedes.Mode1
 trMA.Lauds1.melody = misc_en_US_dedes.Idiomelon
@@ -339,20 +339,11 @@ trMA.AposGlory.melody = misc_en_US_dedes.Idiomelon
 trMA.AposGlory.text = "The serpent, finding the Egyptian woman to be a second Eve through the words she spoke, hastened through flattery to cause Joseph to fall. But Joseph abandoned his garment, and thus he fled from sin. And though he was naked, he was unashamed, like Adam, the first man, was before he disobeyed. At his entreaties, O Christ, have mercy on us."
 
 trTE.Troparion.mode = misc_en_US_dedes.Mode6
-trTE.Troparion.melody  = ""
+trTE.Troparion.melody = ""
 trTE.Troparion.text = ""
 
-trTE.Prokeimenon1.mode = misc_en_US_dedes.Mode4
-trTE.Prokeimenon1.text = ""
 
-trTE.Prokeimenon1Verse.text = ""
 
-trTE.Reading1.book = ""
-trTE.Reading1.chapverse = ""
-trTE.Reading1.text = ""
 
-trTE.Prokeimenon2.mode = misc_en_US_dedes.Mode6
-trTE.Prokeimenon2.text = ""
 
-trTE.Prokeimenon2Verse.text = ""
 

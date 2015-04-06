@@ -186,7 +186,7 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Kathisma3T.text = "St. Nektarios knew that you were portrayed * by the jar where the manna was kept of old, * O Pure one, and by the lamp * that was bright with the light of God. * And he, as a true worker of virtue, was worthily * illumined in his soul and his mind by your radiance. * Therefore he proclaimed it in Orthodox manner, * that you, Theotokos, are * at the same time a virgin pure * and the Mother of Christ our God. * He now enjoys Your Son's holy light * incomprehensible, Lady all-immaculate, * and with the Angels he glorifies * your glory ineffable."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 //text from Nov09.pdf saved from 2009
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -840,9 +840,7 @@ meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -852,7 +850,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 meLI.SeasonalKontakion.text = me.m11.d21_en_US_dedes.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 meMegalynarion2.text = ""

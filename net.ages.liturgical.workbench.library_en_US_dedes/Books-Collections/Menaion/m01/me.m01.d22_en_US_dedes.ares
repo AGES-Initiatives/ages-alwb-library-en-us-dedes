@@ -366,11 +366,7 @@ meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "All-blameless Mother of our God, * the great and echoing report * of the Apostles and Martyrs, * of the Devout and the Prophets, * we pray you earnestly entreat * your Son and Lord on our behalf * when He will sit on Judgment Day * to judge us as each is worthy, * O all-holy Theotokos."
 
-meMA.LaudsSundayVerse1.text = "God is wondrous in His saints, the God of Israel."
-
-meMA.LaudsSundayVerse2.text = "The Lord has done marvelous things for His saints who are on the earth."
-
-meMA.ApostichaVerse4.text = "God is wondrous in His saints, the God of Israel."
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meMA.Aposticha4.mode = misc_en_US_dedes.Mode1
 meMA.Aposticha4.melody = ""
@@ -397,7 +393,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

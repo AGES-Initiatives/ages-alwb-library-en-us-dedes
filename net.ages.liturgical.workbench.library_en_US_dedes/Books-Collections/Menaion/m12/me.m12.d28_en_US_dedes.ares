@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -40,7 +40,7 @@ meVE.Stichera06.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meVE.Stichera06.text = "The young virgin maidens smelled the scent * of Your sweet anointing oils and imitated Your vivifying suffering, O Lord, * Your soul-saving Passion; * and they followed in Your steps. * And they have taken residence in the resurrection from the dead. * Benefactor, they rejoice in You, * and they clearly exult in Your comeliness."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Rejoice with Jerusalem, and be glad for her, all you who love Zion. Today the longstanding sentence on Adam was revoked. Paradise is opened to us. The serpent is gone. For he saw her, whom he previously deceived, now become the Mother of the Creator. O the depth of the riches and wisdom and knowledge of God! Woman, who brought death on all flesh, the instrument of sin, has now become, through the Theotokos, the first-fruits of salvation for the whole world. For the all-perfect God was born as an infant from her, and throughout the birth He preserves her virginity. By being wrapped in swaddling clothes, He breaks the chains of sin; and by becoming an infant, He cures the birth pains and sorrow of Eve. Let all creation dance and leap for joy. For Christ came to call it back and to save our souls."
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
@@ -60,11 +60,11 @@ meVE.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
 meVE.Aposticha3.text = "Let us the faithful praise * with Shepherds and the Magi, * and with the holy Angels * give glory to our God, whom the Virgin Mary bore today."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode1
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m12.d25_en_US_dedes.meVE.Lity3.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "O victorious Athletes of the Lord, blessed is the ground that was watered with your blood, and holy are the dwellings that received your spirits. You prevailed over the enemy in the stadium, and you openly proclaimed Christ. We pray you will earnestly entreat Him for us, that He save our souls, since He is good."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode8
@@ -200,7 +200,7 @@ meMA.Ode6H.mode = misc_en_US_dedes.Mode1
 meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m1_en_US_dedes.TonProfitinIonan.text
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
@@ -293,20 +293,16 @@ meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = me.m12.d27_en_US_dedes.meMA.LaudsBoth.text
 
 meMA.Aposticha1.mode = misc_en_US_dedes.Mode6
 meMA.Aposticha1.melody = he.a.m6_en_US_dedes.AiAngelikai.name
 meMA.Aposticha1.text = ""
 
-meMA.ApostichaVerse2.text = meVE.ApostichaVerse2.text 
-
 meMA.Aposticha2.mode = misc_en_US_dedes.Mode6
 meMA.Aposticha2.melody = he.a.m6_en_US_dedes.AiAngelikai.name
 meMA.Aposticha2.text = ""
-
-meMA.ApostichaVerse3.text = meVE.ApostichaVerse3.text 
 
 meMA.Aposticha3.mode = misc_en_US_dedes.Mode6
 meMA.Aposticha3.melody = he.a.m6_en_US_dedes.AiAngelikai.name

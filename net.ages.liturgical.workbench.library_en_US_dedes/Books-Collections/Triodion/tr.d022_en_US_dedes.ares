@@ -29,7 +29,7 @@ trVE.Stichera04.mode = misc_en_US_dedes.Mode6
 trVE.Stichera04.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
 trVE.Stichera04.text = "For his disobedience * Adam is exiled from Eden * and is banned from its delight, * for he let himself be moved by the woman's words. * Naked now, there he sits * across from the garden, * and he weeps, alas, and he laments. * Therefore let all of us * welcome now the period of the fast, * the holy forty days of Lent, * heeding evangelical traditions, * so that we may thereby * be pleasing and obedient to Christ, * and that we may once again enjoy * residence in Paradise."
 
-trVE.Stichera567.text = "" //for media
+trVE.MM.Stichera123as567.text = properties_en_US_dedes.media.key
 
 trVE.SticGlory.mode = misc_en_US_dedes.Mode6
 trVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
@@ -40,7 +40,7 @@ trVE.LityGlory.melody = misc_en_US_dedes.Idiomelon
 trVE.LityGlory.text = ""
 
 trVE.LityBoth.mode = misc_en_US_dedes.Mode6
-trVE.LityBoth.melody  = ""
+trVE.LityBoth.melody = ""
 trVE.LityBoth.text = ""
 
 trVE.AposGlory.mode = misc_en_US_dedes.Mode6
@@ -48,19 +48,19 @@ trVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
 trVE.AposGlory.text = ""
 
 trVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
-trVE.AposTheotokion.melody  = ""
+trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 trMA.PostGospelGlory.mode = misc_en_US_dedes.Mode8
-trMA.PostGospelGlory.melody  = ""
+trMA.PostGospelGlory.melody = ""
 trMA.PostGospelGlory.text = tr.d001_en_US_dedes.trMA.PostGospelGlory.text
 
 trMA.PostGospelBoth.mode = misc_en_US_dedes.Mode8
-trMA.PostGospelBoth.melody  = ""
+trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.text = tr.d001_en_US_dedes.trMA.PostGospelBoth.text
 
 trMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-trMA.PostGospelIdiomelon.melody  = ""
+trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.text = tr.d001_en_US_dedes.trMA.PostGospelIdiomelon.text
 
 trMA.C1Poet = poets_en_US_dedes.ChristoforouTouProtasikritou
@@ -331,12 +331,12 @@ trMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
 trMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 trMA.LaudsGlory.text = "The time has come - the start of our spiritual contests, the victory over demons, the full armor of self-control, the angels' dignity, the confidence before God. Thereby did Moses become conversant with the Creator, and heard the invisible voice. Lord, through fasting make us worthy to worship Your Passion and holy Resurrection, as You love humanity."
 
-trMA.LaudsTheotokion.mode  = ""
-trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode6
-trLI.SeasonalKontakion.melody  = ""
+trLI.SeasonalKontakion.melody = ""
 trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 
 trMegalynarion.text = ""

@@ -80,7 +80,7 @@ meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
 meMA.Kathisma3T.text = "Moses saw the burning bush, * therein perceiving * you, the one who held the fire * that leads our souls into the light, * and you were not burnt, all-blameless one, * Lady, but rather * were filled with the dew of grace."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 //from saved eMatins file
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -342,9 +342,7 @@ meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode6
 meMA.LaudsTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meMA.LaudsTheotokion.text = ""
 
-meMA.LaudsSundayVerse1.text = "There I shall cause to spring up a horn for David; there I prepared a lamp for my anointed."
-
-meMA.LaudsSundayVerse2.text = "The righteous man shall be glad in the Lord, and shall hope in Him."
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode6
 meMA.AposGlory.melody = ""
@@ -362,7 +360,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = da.d3_en_US_dedes.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

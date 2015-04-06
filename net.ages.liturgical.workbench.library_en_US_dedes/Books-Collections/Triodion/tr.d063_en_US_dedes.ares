@@ -18,7 +18,7 @@ trVE.AposIdiomelon1.melody = misc_en_US_dedes.Idiomelon
 trVE.AposIdiomelon1.text = ""
 
 trVE.AposMartyric.mode = misc_en_US_dedes.Mode8
-trVE.AposMartyric.melody  = ""
+trVE.AposMartyric.melody = ""
 trVE.AposMartyric.text = ""
 
 trVE.Stichera01.poet = poets_en_US_dedes.LeontosTouVasileos
@@ -52,7 +52,7 @@ trVE.SticBoth.melody = misc_en_US_dedes.Idiomelon
 trVE.SticBoth.text = ""
 
 trVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
-trVE.Apolytikion1.melody  = ""
+trVE.Apolytikion1.melody = ""
 trVE.Apolytikion1.text = "To confirm the general resurrection before Your Passion, You resurrected Lazarus from the dead, O Christ our God. Therefore imitating the children, carrying the symbols of victory, we cry out to You the Victor over death: \"Hosanna in the highest! Blessed are You, the One, who comes in the name of the Lord.\""
 
 trCO.C1Poet = poets_en_US_dedes.AndreouKritis
@@ -903,7 +903,7 @@ trMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 trMA.LaudsGlory.text = "Today has a miracle been performed that is great and paradoxical. For from the grave Christ has summoned a dead man of four days and resurrected him, and called him His beloved friend. Let us sing glory to Him who is supremely glorious, so that at the intercessions of Lazarus the righteous, He might save our souls."
 
 trMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode2
-trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
@@ -913,7 +913,7 @@ trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 trLI.TheotokosHymn.mode = misc_en_US_dedes.Mode8
 trLI.TheotokosHymn.text = trMA.Ode9C1H.text
 
-trLI.CommunionHymn.text = "From the mouths of babies and nursing infants You prepared praise. Alleluia."
+trLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 trLI.AfterCommunion.mode = misc_en_US_dedes.Mode1
 trLI.AfterCommunion.text = trVE.Apolytikion1.text

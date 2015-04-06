@@ -18,7 +18,7 @@ trVE.AposIdiomelon1.melody = misc_en_US_dedes.Idiomelon
 trVE.AposIdiomelon1.text = "Departing from Your divine commandments as from Jerusalem, and going down to the passions of Jericho, I was led astray by the false glory of the cares of this life. I fell among the thieves of my own thoughts; they stripped me of the robe of sonship that was mine by grace, and now I lie wounded, as though without the breath of life. The priest drew near and saw my body, but he took no heed; the Levite looked at it with loathing and passed by on the other side. But You, O Lord who ineffably took flesh from the Virgin, of Your own will You poured out blood and water from Your side for my salvation, and as with oil You anointed me. O Christ my God, bind up my wounds with linen, and in Your compassion bring me to Your heavenly Kingdom."
 
 trVE.AposMartyric.mode = misc_en_US_dedes.Mode6
-trVE.AposMartyric.melody  = ""
+trVE.AposMartyric.melody = ""
 trVE.AposMartyric.text = oc.m6.d2_en_US_dedes.ocVE.Aposticha3.text
 
 trVE.Stichera01.mode = misc_en_US_dedes.Mode6
@@ -706,16 +706,15 @@ trMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 trMA.Lauds3.text = me.m03.d24_en_US_dedes.meVE.Stichera03.text
 
 trMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
-trMA.LaudsGlory.melody  = ""
+trMA.LaudsGlory.melody = ""
 trMA.LaudsGlory.text = me.m03.d25_en_US_dedes.meVE.Aposticha2.text
 
-trLI.EntranceHymn.text = ""
-
+trLI.MM.EntranceHymn.text = properties_en_US_dedes.media.key
 trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode8
 trLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
 trLI.SeasonalKontakion.text = he.a.m8_en_US_dedes.TiYpermacho.text
 
-trLI.CommunionHymn.text = da.d4_en_US_dedes.daLI.CommunionHymn.text
+trLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 trMegalynarion.text = ""
 

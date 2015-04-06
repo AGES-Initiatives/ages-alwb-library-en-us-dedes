@@ -213,10 +213,10 @@ trCO.Ode9C1T.mode = misc_en_US_dedes.Mode6
 trCO.Ode9C1T.melody = he.h.m6_en_US_dedes.AsporouSyllipseos.name
 trCO.Ode9C1T.text = ""
 
-trHW.Alleluia.text = "" //for media
+trHW.Alleluia.text = properties_en_US_dedes.media.key
 
 trHW.Troparion.mode = misc_en_US_dedes.Mode8
-trHW.Troparion.melody  = ""
+trHW.Troparion.melody = ""
 trHW.Troparion.text = "While the glorious Disciples were being illumined at the washing of the feet during the Supper, then, too, did Judas the ungodly one, succumb to darkness, being sick with avarice. And he delivered You, the righteous Judge, to lawless judges. Look here, O lover of money, and see the one who for money's sake hanged himself. Flee from the greed that made him dare commit such a deed against the Teacher. O Lord benevolent to all, glory be to You."
 
 trMA.C1Poet = poets_en_US_dedes.KosmaMonachou
@@ -445,7 +445,7 @@ trMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
 trMA.Exaposteilarion1.melody = misc_en_US_dedes.Automelon
 trMA.Exaposteilarion1.text = he.a.m3_en_US_dedes.TonNymfonaSouVlepo.text
 
-trHW.Lauds01.text = ""//for media
+trHW.Lauds01.text = properties_en_US_dedes.media.key
 
 trMA.Lauds1.mode = misc_en_US_dedes.Mode2
 trMA.Lauds1.melody = misc_en_US_dedes.Idiomelon
@@ -494,9 +494,9 @@ trMA.AposGlory.melody = misc_en_US_dedes.Idiomelon
 trMA.AposGlory.text = trMA.Aposticha3.text
 
 trMA.AposBoth.mode = misc_en_US_dedes.Mode5
-trMA.AposBoth.melody  = ""
+trMA.AposBoth.melody = ""
 trMA.AposBoth.text = "Initiating Your disciples, O Lord, You instructed them, saying, \"O my friends, see that no fear separates you from Me. Although I suffer, yet I do so for the sake of the world. So do not fall away because of Me; for I came not to be served but to serve, and to give My life as a ransom for the world. So, if you are My friends, imitate Me. Whoever would be first, let him be last; let the master be like the servant. Abide in me, so that you may bear fruit; for I am the Vine of life.\""
 
 trTE.Troparion.mode = misc_en_US_dedes.Mode3
-trTE.Troparion.melody  = ""
+trTE.Troparion.melody = ""
 trTE.Troparion.text = "Lord, You were struck on behalf of the human race and were not enraged. Free our life from corruption and save us."

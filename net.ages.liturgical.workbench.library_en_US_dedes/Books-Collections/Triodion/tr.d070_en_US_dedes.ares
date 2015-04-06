@@ -13,7 +13,7 @@ trHO.note1 = ""
 trHO.note2 = ""
 trDismissal = dismissals_en_US_dedes.dis00.holyfriday
 
-trHW.LIHC.text = "" //for media
+trHW.LIHC.text = properties_en_US_dedes.media.key
 
 trVE.Stichera01.mode = misc_en_US_dedes.Mode1
 trVE.Stichera01.melody = misc_en_US_dedes.Idiomelon
@@ -43,47 +43,44 @@ trVE.SticBoth.mode = misc_en_US_dedes.Mode6
 trVE.SticBoth.melody = misc_en_US_dedes.Idiomelon
 trVE.SticBoth.text = "Awesome and paradoxical is the mystery that we see unfolding today. He who is untouchable is now arrested. He who releases Adam from the curse is taken prisoner. He who searches and tries the hearts and minds is unjustly put on trial, and He who shut the Abyss is locked up in a prison. Before Pilate now stands He, before whom the hosts of heaven stand and tremble. The Fashioner is struck by the hand of one He fashioned. Condemned to a cross is He who judges the living and the dead. Enclosed in a tomb is the Destroyer of Hades. O Lord, You endure it all sympathetically, and You saved us all from the curse. O longsuffering Lord, glory to You!"
 
-trVE.Prokeimenon.text = "" //for media
+trVE.Prokeimenon.text = properties_en_US_dedes.media.key
 
 trVE.Aposticha1.mode = misc_en_US_dedes.Mode2
 trVE.Aposticha1.melody = misc_en_US_dedes.Automelon
 trVE.Aposticha1.text = he.a.m2_en_US_dedes.OteEkTouXylou.text
 
-trVE.ApostichaVerse2.text = "The Lord reigns; He clothed Himself with majesty. The Lord clothed and girded Himself with power."
 
 trVE.Aposticha2.mode = misc_en_US_dedes.Mode2
 trVE.Aposticha2.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 trVE.Aposticha2.text = "When You, the Redeemer of the world, * lay inside a new rock-hewn sepulcher, for the sake of all, * Hades, now humiliated, cowered seeing You. * Then its bars and the prison gates * were shattered and broken; * tombs were opened, and the bodies of the dead arose. * Then did first-formed Adam, rejoicing, * gratefully cry out to You, \"Glory * to Your condescension, Lord who love mankind!\""
 
-trVE.ApostichaVerse3.text = "And He established the world, which shall not be moved."
 
 trVE.Aposticha3.mode = misc_en_US_dedes.Mode2
 trVE.Aposticha3.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 trVE.Aposticha3.text = "When You had been physically enclosed * in the tomb of Your own volition, remaining undefined * in the nature of Your Godhead and uncircumscribed, * then You closed down the prison-house of death, and You emptied * all the royal treasuries of Hades, O my Christ. * Thus did You bestow on this Sabbath * the divine blessing and glory, * and You honored it with Your own radiance."
 
-trVE.ApostichaVerse4.text = "Holiness is proper to Your house, O Lord, unto length of days."
 
 trVE.Aposticha4.mode = misc_en_US_dedes.Mode2
 trVE.Aposticha4.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 trVE.Aposticha4.text = "When the hosts of angels had beheld * You being maligned by the lawless as a deceiver, O Christ, * and the tombstone being sealed by the hands that had pierced * Your immaculate side, O Lord, * they shuddered and marveled * at Your great and indescribable longsuffering. * Yet, for our salvation rejoicing, * they cried out to You, saying, \"Glory * to Your condescension, Lord who love mankind!\""
 
 trVE.AposGlory.mode = misc_en_US_dedes.Mode5
-trVE.AposGlory.melody  = ""
+trVE.AposGlory.melody = ""
 trVE.AposGlory.text = "You, who cover Yourself with light as with a garment, were taken down from the Cross by Joseph, with the help of Nicodemus. When he saw You dead, naked, and unburied, he took up a moving lamentation; and stricken with grief he said, \"Alas, O sweetest Jesus! When the sun saw You hanging on the Cross just a little while ago, it wrapped itself in darkness; and out of fear the earth was quaking; and the curtain of the Temple was torn in two. And now I see You voluntarily undergoing death for me. How am I to bury You, my God? Or how can I wrap You in a shroud? With what hands shall I touch Your immaculate body, or what songs should I be singing at Your departure, tender-loving Lord? I magnify Your Passion, and I extol Your burial and Your resurrection, as I cry out: O Lord, glory to You!\""
 
 trVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
-trVE.Apolytikion1.melody  = ""
+trVE.Apolytikion1.melody = ""
 trVE.Apolytikion1.text = "When he took down Your immaculate Body from the Cross, the honorable Joseph wrapped it in a clean linen shroud with spices and laid it for burial in a new tomb."
 
 trVE.Apolytikion2.mode = misc_en_US_dedes.Mode2
-trVE.Apolytikion2.melody  = ""
+trVE.Apolytikion2.melody = ""
 trVE.Apolytikion2.text = oc.m2.d1_en_US_dedes.ocVE.Apolytikion.text
 
 trVE.Apolytikion3.mode = misc_en_US_dedes.Mode2
-trVE.Apolytikion3.melody  = ""
+trVE.Apolytikion3.melody = ""
 trVE.Apolytikion3.text = "The Angel standing at the sepulcher cried out and said to the ointment-bearing women: The ointments are appropriate for mortal men, but Christ has been shown to be a stranger to decay."
 
-trHW.GITL.text = ""//for media
+trHW.GITL.text = properties_en_US_dedes.media.key
 
 trHW.Encomia.title = "The Lamentations."
 
@@ -250,7 +247,7 @@ trMA.Ode6K.melody = misc_en_US_dedes.Heirmos
 trMA.Ode6K.text = he.h.m6_en_US_dedes.SyneschethiAllOuKateschethi.text
 
 trMA.Kontakion1.mode = misc_en_US_dedes.Mode2
-trMA.Kontakion1.melody  = ""
+trMA.Kontakion1.melody = ""
 trMA.Kontakion1.text = "He who closed the abyss is seen as dead; As a mortal the Deathless one, Wrapped in spice and linen, Is laid within a grave. Women came to anoint Him, Wailing bitter, crying out, \"Exceeding blessed is this Sabbath, On which the Christ has slumbered, To rise on the third day.\""
 
 trMA.Oikos1.text = "He who holds all things together is raised upon a Cross, And all creation mourns beholding this One hung Naked on a Tree. The sun hid its beams, And the stars withheld their shine. The earth, full-feared, was shaken, And the sea has fled away. The rocks were split asunder, And the graves of scores were opened, And the forms of holy men arose. Hades groans below, Yet Judeans plan to slander The resurrection of Christ. And the women cry aloud, \"Exceeding blessed is this Sabbath, On which the Christ has slumbered, To rise on the third day.\""
@@ -344,10 +341,10 @@ trMA.Ode9K.melody = misc_en_US_dedes.Heirmos
 trMA.Ode9K.text = he.h.m6_en_US_dedes.MiEpodyrouMouMiter.text
 
 trMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
-trMA.Exaposteilarion1.melody  = ""
+trMA.Exaposteilarion1.melody = ""
 trMA.Exaposteilarion1.text = ho.s03_en_US_dedes.hoMA.SunExapVerse1.text
 
-trHW.Lauds01.text = ""//for media
+trHW.Lauds01.text = properties_en_US_dedes.media.key
 
 trMA.Lauds1.mode = misc_en_US_dedes.Mode2
 trMA.Lauds1.melody = misc_en_US_dedes.Idiomelon
@@ -370,11 +367,11 @@ trMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 trMA.LaudsGlory.text = "Moses, the great Prophet, mystically prefigured this day saying, \"Then God blessed the seventh day.\" For this is the blessed Sabbath; this is the day of rest, on which the only-begotten Son of God rested from all His works, observing the Sabbath rest in the flesh, through the dispensation involving death. And returning once again to what He was, through the Resurrection, He granted to us eternal life, for He alone is good and He loves humanity."
 
 trMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode2
-trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma23.text
 
 // Final Troparia from beginning of Matins
 
 trTE.Troparion.mode = misc_en_US_dedes.Mode2
-trTE.Troparion.melody  = ""
+trTE.Troparion.melody = ""
 trTE.Troparion.text = "O Christ, who hold the whole world in Your hand, You accepted to be held in the sepulcher, so that You might rescue humanity, which was swallowed by Hades, and, as immortal God, give us life and immortality."

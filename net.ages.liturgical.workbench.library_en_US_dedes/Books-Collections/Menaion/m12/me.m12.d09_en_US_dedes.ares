@@ -651,9 +651,7 @@ meMA.LaudsBoth.mode = misc_en_US_dedes.Mode2
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = "Today, from the root of David, has the royal Purple Robe sprouted from Joachim, and it begins to grow the mystical flower, into which Christ our God will blossom and save our souls."
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -663,7 +661,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
 meLI.SeasonalKontakion.text = meMA.Kontakion2.text
 
-meLI.CommunionHymn.text = da.d7_en_US_dedes.daLI.CommunionHymn.text
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

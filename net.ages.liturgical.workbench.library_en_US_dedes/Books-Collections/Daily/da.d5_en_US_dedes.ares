@@ -6,7 +6,7 @@ daCommemoration.text = "The Holy Apostles."
 daVE.OnTheEveningBefore = template.titles_en_US_dedes.d.onWednesdayEvening
 
 daVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
-daVE.Apolytikion1.melody  = ""
+daVE.Apolytikion1.melody = ""
 daVE.Apolytikion1.text = he.ga_en_US_dedes.ApostoloiAgioi.text
 
 daVE.Apolytikion2.mode = misc_en_US_dedes.Mode4
@@ -14,7 +14,7 @@ daVE.Apolytikion2.melody = he.ga_en_US_dedes.KanonaPisteos.name
 daVE.Apolytikion2.text = me.m12.d06_en_US_dedes.meVE.GeneralApolytikion1.name
 
 daVE.ApolTheotokion.mode = misc_en_US_dedes.Mode4
-daVE.ApolTheotokion.melody  = ""
+daVE.ApolTheotokion.melody = ""
 daVE.ApolTheotokion.text = oc.m4.d3_en_US_dedes.ocMA.Kathisma13.text
 
 daMA.Triadic1Ending.text = "By the intercessions of the Apostles save us."
@@ -37,7 +37,7 @@ daMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
 daMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
 daMA.ExapTheotokion.text = ""
 
-daLI.CommunionHymn.text = "" //for media
+daLI.CommunionHymn.text = properties_en_US_dedes.media.key
 
 daLI.CommunionHymnAlt.text = ""
 

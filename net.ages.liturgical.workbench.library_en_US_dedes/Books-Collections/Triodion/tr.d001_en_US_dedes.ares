@@ -21,7 +21,7 @@ trVE.Stichera02.mode = misc_en_US_dedes.Mode1
 trVE.Stichera02.melody = misc_en_US_dedes.Idiomelon
 trVE.Stichera02.text = "A Pharisee, by self-esteem dominated, and a Publican, in repentance prostrated, both approached You the only Master. But the one, after boasting, was deprived of the blessings, while the other, not speaking, was counted worthy of Your gifts. Confirm me in such sighs as these, Christ God, since You love humanity."
 
-trVE.Stichera567.text = "" //for media
+trVE.MM.Stichera123as567.text = properties_en_US_dedes.media.key
 
 trVE.SticGlory.mode = misc_en_US_dedes.Mode8
 trVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
@@ -32,7 +32,7 @@ trVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
 trVE.AposGlory.text = "My eyes are weighed down by my transgressions, and I cannot lift them up and see the height of heaven. But receive me, now repenting like the Publican, and have mercy on me, Savior."
 
 trVE.AposTheotokion.mode = oc.m5.d1_en_US_dedes.ocVE.AposTheotokion.mode
-trVE.AposTheotokion.melody  = ""
+trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.text = oc.m5.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 trMA.PostGospelGlory.mode = misc_en_US_dedes.Mode8
@@ -40,11 +40,11 @@ trMA.PostGospelGlory.melody = ""
 trMA.PostGospelGlory.text = "Open to me the gates of repentance, O Giver of Life, for early in the morning my spirit hastens to Your holy temple, bringing the temple of my body all defiled. But as one compassionate, cleanse me, I pray, by Your loving-kindness and mercy."
 
 trMA.PostGospelBoth.mode = misc_en_US_dedes.Mode8
-trMA.PostGospelBoth.melody  = ""
+trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.text = "Guide me in the paths of salvation, O Theotokos, for I have befouled my soul with shameful sins and I heedlessly squandered all of my life's resources. By your intercession deliver me from every uncleanness."
 
 trMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-trMA.PostGospelIdiomelon.melody  = ""
+trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.text = "When I ponder in my wretchedness on the many terrible things that I have done, I tremble for that fearful day, the Day of Judgment. But trusting in the mercy of Your compassion, like David I cry to You, \"Have mercy on me, O God, according to Your great mercy.\""
 
 trMA.C1Poet = poets_en_US_dedes.Georgiou
@@ -391,14 +391,14 @@ trMA.Lauds4.mode = misc_en_US_dedes.Mode3
 trMA.Lauds4.melody = misc_en_US_dedes.Idiomelon
 trMA.Lauds4.text = "Loathing the vaunting voice of the Pharisee, yet emulating the compunctious prayer of the Publican, let us not be haughty, O faithful, but rather humbling ourselves, with compunction let us cry, \"O God, have mercy and forgive our sins.\""
 
-trMA.LaudsSundayVerse1.text = "" //needed for media
+trMA.MM.LaudsSunday_i_12as56.text = properties_en_US_dedes.media.key
 
 trMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
 trMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 trMA.LaudsGlory.text = "The Pharisee, who justified himself by boasting about his works, O Lord, You condemned; but You justified the Publican who was modest, and who with sighs prayed for expiation. For You do not accept boastful thoughts, but hearts that are contrite You do not despise. Therefore we, too, in humility fall down before You, who suffered for us. Grant us absolution and great mercy."
 
-trMA.LaudsTheotokion.mode  = ""
-trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
@@ -411,10 +411,10 @@ trLI.AlleluiaVerse1.text = ""
 
 trLI.AlleluiaVerse2.text = ""
 
-trLI.CherubicHymn.mode  = ""
+trLI.CherubicHymn.mode = ""
 trLI.CherubicHymn.text = ""
 
-trLI.CommunionHymn.text = ""
+trLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 trMegalynarion.text = ""
 

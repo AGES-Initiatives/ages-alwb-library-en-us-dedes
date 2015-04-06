@@ -131,7 +131,7 @@ meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 meMA.Kathisma31.text = "With Your Disciples You ascended the mountain, * and in the glory of the Father You shone forth, * while Moses and Elias stood beside You, O Lord. * To You as God do minister * both the Law and the Prophets. * The Genitor acknowledging Your natural sonship * did call You His beloved Son. * And we extol Him * with You and the Spirit."
 
-meMA.Prokeimenon.text = "" // for media
+meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 //From goarch: http://goarch.org/chapel/lectionary_view?type=MGandcode=384andlanguage=elanddate=8/6/2013
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -554,11 +554,11 @@ meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Christ took Peter, James, and John, and led them up on a high mountain apart by themselves; and He was transfigured before them; and His face shone like the sun, and His clothes became as white as the light. Moses and Elijah appeared to them, talking with Him. Then a bright cloud overshadowed them; and suddenly a voice came out of the cloud, saying, \"This is My beloved Son, in whom I am well pleased. Listen to Him!\""
 
-meMA.LaudsSundayVerse1.text = "" // for media on Sunday after
+meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Antiphon2.text = "who were transfigured in glory on Mt. Tabor."
 
-meLI.EntranceHymn.text = "" // for media
+meLI.MM.EntranceHymn.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -571,7 +571,7 @@ meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 meLI.TheotokosHymn.mode = misc_en_US_dedes.Mode8
 meLI.TheotokosHymn.text = meMA.Ode7C23.text
 
-meLI.CommunionHymn.text = "" // for media
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

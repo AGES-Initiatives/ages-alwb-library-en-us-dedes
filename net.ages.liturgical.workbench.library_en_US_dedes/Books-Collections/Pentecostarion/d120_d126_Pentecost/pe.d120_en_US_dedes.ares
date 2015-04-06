@@ -83,7 +83,7 @@ peVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
 peVE.AposGlory.text = "Tongues were confused once because people dared to build the Tower. Tongues now obtain skill, for the glory of divine knowledge. There, God condemned the impious for their transgression; here, by the Spirit, Christ illumined the fishermen. Then, discord was contrived as penalization; now a new concord has arrived, for the salvation of our souls."
 
 peVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
-peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.text = "Blessed are You, O Christ our God. You made the fishermen all-wise, by sending down upon them the Holy Spirit, and through them You drew the world into Your net. O Lover of mankind, glory to You."
 
 peMA.Kathisma11.mode = misc_en_US_dedes.Mode4
@@ -98,14 +98,14 @@ peMA.Kathisma31.mode = misc_en_US_dedes.Mode8
 peMA.Kathisma31.melody = he.a.m8_en_US_dedes.ToProstachthen.name
 peMA.Kathisma31.text = "After Your rising from the sepulcher, O Savior, * and Your divine Ascension to the heights of heaven, * You sent down on Your Disciples Your glory, O Good One, * renewing an upright Spirit in them, O Christ. * And therefore those men who saw God proclaimed to all * Your sayings and Your economy, as if melodious guitars * that mystically are played with the pick * of the Spirit, O merciful Lord."
 
-peMA.Prokeimenon.text = "" //for media
+peMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 
 peMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-peMA.PostGospelGlory.melody  = ""
+peMA.PostGospelGlory.melody = ""
 peMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelApostles.text
 
 peMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-peMA.PostGospelBoth.melody  = ""
+peMA.PostGospelBoth.melody = ""
 peMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 peMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
@@ -348,7 +348,7 @@ peMA.Ode6C224.text = ""
 peMA.Ode6C225.text = ""
 
 peMA.Kontakion1.mode = misc_en_US_dedes.Mode8
-peMA.Kontakion1.melody  = ""
+peMA.Kontakion1.melody = ""
 peMA.Kontakion1.text = "When the Most High God came down and confused the tongues, * He divided the nations. * When He distributed the tongues of fire, * He called all to unity. * And with one voice we glorify the all-holy Spirit."
 
 peMA.Oikos1.text = "Speedy and constant consolation give us, Your servants, O Jesus, when our spirits become despondent. Do not part from our souls when we are in trouble, nor be far from our minds when we are in peril. But draw near to us, draw near, O You who are everywhere. And as You are always with Your Apostles, so also unite yourself to us who long for You the Compassionate; so that united to You we may extol and glorify Your all-holy Spirit."
@@ -524,15 +524,15 @@ peMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
 peMA.Exaposteilarion2.text = "Light is the Father, light the Logos; * light is the Holy Spirit, * which was sent to the Apostles * in the form of fiery tongues, * and through which the entire world is guided by the light * to worship the Holy Trinity."
 
 peMA.Lauds1.mode = misc_en_US_dedes.Mode4
-peMA.Lauds1.melody  = ""
+peMA.Lauds1.melody = ""
 peMA.Lauds1.text = "Today, all the nations in the city of David saw paradoxical things, when the Holy Spirit descended in fiery tongues, according to the utterance of Luke the theologian. For he said, when the Disciples of Christ were gathered together, a sound came like the rush of a mighty wind, and it filled all the house where they were sitting. And they all began to speak with strange words, strange dogmas, strange teachings of the Holy Trinity."
 
 peMA.Lauds2.mode = misc_en_US_dedes.Mode4
-peMA.Lauds2.melody  = ""
+peMA.Lauds2.melody = ""
 peMA.Lauds2.text = "The Holy Spirit forever was, and is and will be, never beginning, never ending, but forever ranked and numbered with the Father and the Son. It is life and life-giving, light and giver of light; goodness itself and the source of goodness; through whom the Father is known and the Son is glorified, and by all is known the one power, one order, one worship of the Holy Trinity."
 
 peMA.Lauds3.mode = misc_en_US_dedes.Mode4
-peMA.Lauds3.melody  = ""
+peMA.Lauds3.melody = ""
 peMA.Lauds3.text = "The Holy Spirit is light and life, and a living noetic fount. Spirit of wisdom, Spirit of understanding; good, upright, noetic, ruling, purging offences; God and deifying; He is fire issuing from fire, uttering, inciting, distributing the gifts of grace. Through Him the Prophets and the Apostles of God and the Martyrs all were crowned. Strange to hear, strange to see, fire distributed for the apportioning of gifts."
 
 peMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
@@ -541,16 +541,16 @@ peMA.LaudsGlory.text = prayers_en_US_dedes.VasilefOuranie.text
 
 peLI.Antiphon2.text = "Save us, O good Comforter."
 
-peLI.EntranceHymn.text = "" //for media
+peLI.MM.EntranceHymn.text = properties_en_US_dedes.media.key
 
 peLI.SeasonalKontakion.mode = peMA.Kontakion1.mode
-peLI.SeasonalKontakion.melody  = ""
+peLI.SeasonalKontakion.melody = ""
 peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = peMA.Ode9C1H.mode
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text
 
-peLI.CommunionHymn.text = "" //for media
+peLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 peLI.AfterCommunion.mode = peVE.Apolytikion1.mode
 peLI.AfterCommunion.text = peVE.Apolytikion1.text

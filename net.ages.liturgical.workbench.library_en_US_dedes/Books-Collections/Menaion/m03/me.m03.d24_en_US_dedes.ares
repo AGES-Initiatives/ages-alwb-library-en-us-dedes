@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "Forefeast of the Annunciation of the Most Holy Theotokos."
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -27,11 +27,11 @@ meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera03.text = "O all-blameless one, presently * shall the Archangel Gabriel * come to you perceptibly and shall say to you, * \"Rejoice, deliverance from the curse, * the raising of fallen man! * O rejoice! For only you * among women are rightly called * chosen one of God. * Living cloud of the Sun, rejoice, and welcome in your womb the Uncontainable, * Whose perfect will is to dwell therein.\""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = me.m03.d25_en_US_dedes.meVE.LityGlory.text 
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Today is the prelude of the joy of the universe, and it incites us to sing the forefestal hymns. For behold, Gabriel is comming, and he will say to the Virgin: Rejoice, Maiden full of grace; the Lord is with you."
 
 meMA.C1Poet = poets_en_US_dedes.Georgiou //οἱ δὲ Θεοφάνους
@@ -169,7 +169,7 @@ meMA.Kontakion1.mode = misc_en_US_dedes.Mode4
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
 meMA.Kontakion1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
@@ -251,7 +251,7 @@ meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.text = ""
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode4
-meMA.AposGlory.melody  = ""
+meMA.AposGlory.melody = ""
 meMA.AposGlory.text = me.m03.d25_en_US_dedes.meVE.Aposticha2.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
@@ -262,7 +262,7 @@ meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text 
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 

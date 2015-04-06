@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -36,11 +36,11 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.Methodiou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode4
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion2.mode = misc_en_US_dedes.Mode2
-meVE.SticTheotokion2.melody  = ""
+meVE.SticTheotokion2.melody = ""
 meVE.SticTheotokion2.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
 
 meVE.SticStavrotheotokion2.mode = misc_en_US_dedes.Mode2
@@ -49,7 +49,7 @@ meVE.SticStavrotheotokion2.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Sykeotou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
@@ -224,7 +224,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode6
@@ -320,7 +320,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode2
-meLI.SeasonalKontakion.melody  = ""
+meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meMegalynarion.text = ""

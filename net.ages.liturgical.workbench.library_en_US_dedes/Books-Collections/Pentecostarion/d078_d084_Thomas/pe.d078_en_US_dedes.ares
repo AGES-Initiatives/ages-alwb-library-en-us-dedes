@@ -104,7 +104,7 @@ peVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
 peVE.AposGlory.text = "O Friend of humanity, great and incomprehensible is the abundance of your tender mercies. You displayed forebearance when You were slapped by Jews, when You were touched by Your Apostle, and as the object of inquiry of those who reject You. How did You become incarnate? How were You, the sinless One, crucified? We pray You grant us understanding, so that like Thomas we may shout to You, \"My Lord and my God, glory to You!\""
 
 peVE.Apolytikion1.mode = misc_en_US_dedes.Mode7
-peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.text = oc.m7.d1_en_US_dedes.ocMA.Kathisma21.text
 
 peMA.Kathisma11.mode = misc_en_US_dedes.Mode1
@@ -119,14 +119,14 @@ peMA.Kathisma31.mode = misc_en_US_dedes.Mode1
 peMA.Kathisma31.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
 peMA.Kathisma31.text = "\"Since You have seen my side and the punctures the nails made, * no longer disbelieve in My rising, O Thomas,\" * the Lord said when He appeared to His Disciples ineffably, * after He had risen from the tomb on the third day. * Then the Twin believed and cried aloud to the Creator, * \"My Lord and my God are You.\""
 
-peMA.Prokeimenon.text = "" //for media
+peMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 
 peMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-peMA.PostGospelGlory.melody  = ""
+peMA.PostGospelGlory.melody = ""
 peMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelApostles.text
 
 peMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-peMA.PostGospelBoth.melody  = ""
+peMA.PostGospelBoth.melody = ""
 peMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 peMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
@@ -176,7 +176,7 @@ peMA.Ode3C13.melody = he.h.m1_en_US_dedes.StereosonMeChriste.name
 peMA.Ode3C13.text = "" 
 
 peMA.Hypakoe.mode = misc_en_US_dedes.Mode6
-peMA.Hypakoe.melody  = ""
+peMA.Hypakoe.melody = ""
 peMA.Hypakoe.text = "As You came and stood among Your disciples, O Savior, and gave them peace, come and be with us also and save us."
 
 peMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
@@ -245,7 +245,7 @@ peMA.Ode6C13.melody = he.h.m1_en_US_dedes.TonProfitinDiesosas.name
 peMA.Ode6C13.text = "" 
 
 peMA.Kontakion1.mode = misc_en_US_dedes.Mode8
-peMA.Kontakion1.melody  = ""
+peMA.Kontakion1.melody = ""
 peMA.Kontakion1.text = "With his scrutinizing right hand, Thomas examined Your life-bestowing side, O Christ God. When You entered while the doors were shut, he cried out to You with the rest of the Apostles, \"You are my Lord and my God.\""
 
 peMA.Oikos1.text = "Who kept the Disciple's hand from being burnt up, when it approached the fiery side of the Lord? Who gave it the daring, and it was able to touch the flaming bone? By all means, it was the very side that was touched. For had not the side empowered the right hand of clay, how could it have touched the wounds that shook the world above and below? This grace was given to Thomas, to be able to touch it and to cry out to Christ, \"You are my Lord and my God.\""
@@ -346,12 +346,12 @@ peMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 peMA.LaudsGlory.text = "After eight days from Your resurrection, O Jesus our King, and the Father's only-begotten Word, You appeared to Your Disciples, the doors being shut; and You granted them Your peace. And to the disbelieving Disciple You showed the marks on Your body. \"Come and touch my hands and my feet, and my uncorrupt side.\" And he believed and cried to You, \"My Lord and my God, glory to You.\""
 
 peLI.SeasonalKontakion.mode = peMA.Kontakion1.mode
-peLI.SeasonalKontakion.melody  = ""
+peLI.SeasonalKontakion.melody = ""
 peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = misc_en_US_dedes.Mode1
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text
 
-peLI.CommunionHymn.text = "" //for media
+peLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 peMegalynarion.text = ""
