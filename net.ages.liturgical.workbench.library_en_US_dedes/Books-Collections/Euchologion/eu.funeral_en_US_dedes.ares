@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = eu.funeral_en_US_dedes 
 
 euFUN.title = "Funeral Service"
+euFUN.brightweek.title = "Funeral Service During Bright Week"
 euFUN.translator = properties_en_US_dedes.version.translator
 
 euFUN.Key0100.title = "The Trisagion"
@@ -77,6 +78,8 @@ euFUN.Key0908.text = ""
 
 euFUN.EpistleProkeimenon.text = "Truly blessed is the way that you travel on today; for a place has been prepared for your everlasting rest."
 
+euFUN.brightweek.R091 = "Then the Epistle and Gospel readings for the day."
+
 euFUN.Key1101.mode = misc_en_US_dedes.Mode2
 euFUN.Key1101.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 euFUN.Key1101.text = "Brethren, let us give a final kiss * of farewell to him/her who is dead now, and offer thanks to God. * For he/she has departed from his/her friends and family. * He/she is ready for burial, no longer concerned with * anything of vanity or of the weary flesh. * Where now are the friends and the family? * Therefore let us pray to the Lord God, * that He will give rest to him/her who parts from us."
@@ -96,6 +99,9 @@ euFUN.Key1104.text = ""
 euFUN.Key1105.mode = misc_en_US_dedes.Mode6
 euFUN.Key1105.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 euFUN.Key1105.text = oc.m6.d7_en_US_dedes.ocVE.AposTheotokion.text
+
+euFUN.brightweek.R111= "Instead of the final hymns, \"Brethren, let us give a final kiss,\" etc. we sing the following:"
+euFUN.brightweek.R112= "On exiting the church, the following is sung, instead of Holy God:"
 
 euFUN.Key1200.title = "THE BURIAL"
 
