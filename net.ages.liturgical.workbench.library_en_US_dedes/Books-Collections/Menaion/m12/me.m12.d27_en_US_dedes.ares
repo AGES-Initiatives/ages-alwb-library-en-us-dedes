@@ -65,7 +65,7 @@ meVE.Aposticha3.text = "Lord, You were born of the Virgin inside a humble cave. 
 meVE.AposGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "You are distinguished among Martyrs and Deacons as being the first, O blessed Stephen. You are the jewel of Athletes, the pride and joy of the faithful, and the glory of the Righteous. Pray for us who celebrate your solemn memorial, since you stand near the throne of Christ the King of all; and ask that we may receive forgiveness of sins, and be counted worthy of the Kingdom of Heaven."
+meVE.AposGlory.text = me.m08.d02_en_US_dedes.meVE.SticGlory.text
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode6
 meVE.AposBoth.melody = ""
@@ -73,7 +73,7 @@ meVE.AposBoth.text = me.m12.d25_en_US_dedes.meVE.LityBoth.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
-meVE.Apolytikion1.text = "O Stephen, a crown of royalty was laid on your head * for contests you courageously endured for Christ our God, * as first among Martyr saints. * You stood in accusation of the raging Judeans; * and you saw your Savior at the right hand of the Father. * We pray that you will ever entreat Him to save our souls."
+meVE.Apolytikion1.text = me.m08.d02_en_US_dedes.meVE.Apolytikion1.text
 
 meVE.GeneralApolytikion2.name = "Theodore,"
 meVE.GeneralApolytikion2.text = "" // for media
@@ -526,7 +526,7 @@ meMA.Aposticha3.text = ""
 meMA.AposGlory.poet = poets_en_US_dedes.Kyprianou
 meMA.AposGlory.mode = misc_en_US_dedes.Mode8
 meMA.AposGlory.melody = ""
-meMA.AposGlory.text = ""
+meMA.AposGlory.text = me.m08.d02_en_US_dedes.meVE.AposGlory.text
 
 meMA.AposBoth.mode = misc_en_US_dedes.Mode8
 meMA.AposBoth.melody = ""
