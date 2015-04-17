@@ -71,7 +71,7 @@ meVE.Stichera06.mode = misc_en_US_dedes.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera06.text = "Do protect me on every side, * whether sailing upon the sea * or just walking down the street * or sleeping at night. * All-blessed George, when I stay awake * sustain me in vigilance. * And vouchsafe me through your prayers * to do only the will of God, * so that I who run * to your shelter might gain the absolution * of the sins I have committed * throughout my lifetime, on Judgment Day."
 
-meVE.Stichera5678.text = "" // for media bright week
+meVE.MM.Stichera1234as5678.text = properties_en_US_dedes.media.key
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
@@ -534,14 +534,12 @@ meMA.Lauds4.mode = misc_en_US_dedes.Mode2
 meMA.Lauds4.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meMA.Lauds4.text = "Martyr who received the prize from Christ, * by your intercessions preserve us who are diversely distressed; * rescue us from every dire and painful circumstance; * drive away terrible and soul–destroying depression. * Earnestly beseech that grace and mercy come to us, * so that being saved by your prayers * we might all rejoicingly honor * the contests you won by faith, O Martyr George."
 
-meMA.Lauds5678.text = "" // for media in bright week
+meMA.MM.Lauds1234as5678.text = properties_en_US_dedes.media.key
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Theofanous
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = "Spring is here: come, let us be merry. And Christ's resurrection has shone brightly: come, let us be joyous. The memory of the prize-winning Martyr has come upon us, gladdening the faithful. Therefore, come all who are fond of feasts, let us celebrate it mystically. For as a good soldier, he stood up manfully against the tyrants and put them utterly to shame, and thus emulated the Passion of Christ the Savior. He had no mercy on the clay vessel of his own body, but rather taking it naked he reforged and exchanged it by means of tortures. Unto him let us cry aloud: O victorious Martyr, earnestly entreat for the salvation of our souls."
-
-meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

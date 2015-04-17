@@ -64,7 +64,7 @@ meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 meVE.Stichera04.melody = ""
 meVE.Stichera04.text = "That Mount, which once was dark and smoky, is now revered and holy, for Your feet stood on it, O Lord. The mystery, which was hidden before all ages, was revealed in latter days by Your terrific Transfiguration, to Peter, John and James. They could not bear the shining ray of Your face nor the radiance of Your garments, so they fell on their faces, weighed down to the ground. In a state of ecstasy, they marveled as they watched Moses and Elias speaking with You about what was going to happen to You. Then the voice of the Father bore witness to You and said, \"This is my beloved Son, in whom I am well pleased. Listen to Him, who also grants the world the great mercy.\""
 
-meVE.Stichera78910.text = "" // for media stichera78910 on Sunday after feast
+meVE.MM.Stichera1234as78910.text = properties_en_US_dedes.media.key
 
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
@@ -85,11 +85,11 @@ meVE.Lity3.text = ""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode5
 meVE.LityGlory.melody = ""
-meVE.LityGlory.text = ""
+meVE.LityGlory.text = me.m08.d05_en_US_dedes.meVE.SticGlory.text
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode5
 meVE.LityBoth.melody = ""
-meVE.LityBoth.text = ""
+meVE.LityBoth.text = me.m08.d05_en_US_dedes.meMA.AposGlory.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha1.melody = ""
