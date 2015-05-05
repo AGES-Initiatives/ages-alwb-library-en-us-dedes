@@ -36,8 +36,6 @@ DoxaSoiOTheos1 = "Glory to You, O God."
 
 DoxaSoiOTheosImon.text = "Glory to You, our God. Glory to You."
 
-DoxaTiAgiaAnastasei.text = "Glory to Your holy Resurrection, O Lord."
-
 DoxaTiMakrothymia.text = "Glory to Your forbearance, O Lord, glory to You."
 
 DoxaTiMakrothymiaP.text = "(Glory to Your forbearance, O Lord, glory to You.)"
@@ -71,16 +69,6 @@ EvlogisonP = "(Father, bless!)"
 EnOnomatiKyriou.text = "In the name of the Lord, Father, bless!"
 
 EvlogisonThymiama.text = "Master, bless the incense."
-
-AgieTouTheou.text = "Saint of God, intercede for us."
-
-AgiaTouTheou.text = "Saint of God, intercede for us."
-
-AgioiTouTheou.text = "Saints of God, intercede for us."
-
-ApostoleTouChristou.text = "Apostle of Christ, intercede for us."
-
-OsiaTouTheou.text = "Saint of God, intercede for us."
 
 EleisonMeOTheos.text = "Have mercy on me, O God. Have mercy on me."
 
@@ -633,7 +621,11 @@ verse_Angels.text = "Archangels of God, intercede for us."
 
 verseP_Angels.text = "(Archangels of God, intercede for us.)"
 
-verse_ApostlesMartyrs.text = "Apostles of Christ, intercede for us."
+verse_Apostle.text = "Apostle of Christ, intercede for us."
+
+verse_Apostles.text = "Apostles of Christ, intercede for us."
+
+verse_ApostlesMartyrs.text = "Apostles and Martyrs of Christ, intercede for us."
 
 verseP_ApostlesMartyrs.text = "(Apostles of Christ, intercede for us.)"
 
@@ -644,6 +636,16 @@ verseP_Baptist.text = "(Baptist of Christ, intercede for us.)"
 verse_Cross.text = "All-holy Cross of Christ, guard us by your power."
 
 verseP_Cross.text = "(All-holy Cross of Christ, guard us by your power)"
+
+verse_Crucifixion.text = "Glory to Your holy Crucifixion, O Lord."
+
+verse_DevoutMan.text = "Devout Saint of God, intercede for us."
+
+verse_DevoutMen.text = "Devout Saints of God, intercede for us"
+
+verse_DevoutWoman.text = "Devout Saint of God, intercede for us"
+
+verse_God.text = "Glory to You, our God, glory to You."
 
 verse_GreatMartyrs.text = "Holy Great Martyrs of Christ, intercede for us."
 
@@ -661,9 +663,17 @@ verse_Panteleimon.text = "Holy and glorious Great Martyr of Christ and healer Pa
 
 verseP_Panteleimon.text = "(Holy and glorious Great Martyr of Christ and healer Panteleimon, intercede for us.)"
 
+verse_Resurrection.text = "Glory to Your holy Resurrection, O Lord."
+
 verse_Righteous.text = "Holy Forefathers of Christ, intercede for us."
 
 verseP_Righteous.text = "(Holy Forefathers of Christ, intercede for us.)"
+
+verse_SaintM.text = "Saint of God, intercede for us."
+
+verse_SaintW.text = "Saint of God, intercede for us."
+
+verse_SaintsM.text = "Saints of God, intercede for us."
 
 verse_SoulSaturday.text = "By the intercessions of Your Martyrs, O Lord, grant rest to the souls of Your servants."
 
@@ -680,4 +690,3 @@ verseP_Trinity.text = "(Holy Trinity, our God, have mercy on us and save us.)"
 verse_Unmercenaries.text = "Holy Unmercenaries and miracle-workers, intercede for us."
 
 verseP_Unmercenaries.text = "(Holy Unmercenaries and miracle-workers, intercede for us.)"
-
