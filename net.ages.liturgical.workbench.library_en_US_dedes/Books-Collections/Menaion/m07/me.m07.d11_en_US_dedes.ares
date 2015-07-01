@@ -40,7 +40,7 @@ meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = "The virgin and victorious Martyr stood at the right hand of the Savior, and she was decked in the invincibility of virtue and adorned with the oil of purity and the blood of the contest. Holding her lamp, with exultant joy she shouts to Him, \"I have run after You for the smell of Your ointments, O Christ God, for I am wounded with Your love. Do not leave me, O heavenly Bridegroom.\" At her entreaties, O almighty Savior, send down to us Your mercies."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.SticTheotokion.melody = ""
@@ -130,7 +130,7 @@ meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = "The virgin and victorious Martyr stood at the right hand of the Savior, and she was decked in the invincibility of virtue and adorned with the oil of purity and the blood of the contest. Holding her lamp, with exultant joy she shouts to Him, \"I have run after You for the smell of Your ointments, O Christ God, for I am wounded with Your love. Do not leave me, O heavenly Bridegroom.\" At her entreaties, O almighty Savior, send down to us Your mercies."
+meMA.PostGospelIdiomelon.text = meVE.SticGlory.text
 
 meMA.C1Poet = poets_en_US_dedes.IakovouProtopsaltou
 
