@@ -435,13 +435,15 @@ meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 meMegalynarion.text = ""
 
-
 alt1.meDate.text = ""
+
 alt1.meCommemoration.text = "" //full title of day
 alt1.meShortCommemoration1.text = ""
+
 alt1.meInsert1 = "" //for use in petitions and dismissal
 alt1.meInsert2 = "" //for use in petitions and dismissal
 alt1.meNote.text = ""
+
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
@@ -637,11 +639,6 @@ alt1.meMA.Ode1C24.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Ode1C24.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
 alt1.meMA.Ode1C24.text = ""
 
-alt1.meMA.Ode1K.ode = misc_en_US_dedes.Ode1
-alt1.meMA.Ode1K.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode1K.melody = misc_en_US_dedes.Heirmos
-alt1.meMA.Ode1K.text = he.h.m4_en_US_dedes.AnoixoToStomaMou.text
-
 alt1.meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
 alt1.meMA.Ode3C1H.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
@@ -686,15 +683,6 @@ alt1.meMA.Ode3C24.ode = misc_en_US_dedes.Ode3
 alt1.meMA.Ode3C24.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Ode3C24.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
 alt1.meMA.Ode3C24.text = ""
-
-alt1.meMA.Ode3K.ode = misc_en_US_dedes.Ode3
-alt1.meMA.Ode3K.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode3K.melody = misc_en_US_dedes.Heirmos
-alt1.meMA.Ode3K.text = he.h.m4_en_US_dedes.TousSousYmnologous.text
-
-alt1.meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode3
-alt1.meMA.Ode3Kathisma1.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
-alt1.meMA.Ode3Kathisma1.text = ""
 
 alt1.meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
 alt1.meMA.Ode4C1H.mode = misc_en_US_dedes.Mode4
@@ -741,11 +729,6 @@ alt1.meMA.Ode4C24.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Ode4C24.melody = he.h.m8_en_US_dedes.SyMouIschys.name
 alt1.meMA.Ode4C24.text = ""
 
-alt1.meMA.Ode4K.ode = misc_en_US_dedes.Ode4
-alt1.meMA.Ode4K.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode4K.melody = misc_en_US_dedes.Heirmos
-alt1.meMA.Ode4K.text = he.h.m4_en_US_dedes.TinAnexichniaston.text
-
 alt1.meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
 alt1.meMA.Ode5C1H.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
@@ -790,11 +773,6 @@ alt1.meMA.Ode5C24.ode = misc_en_US_dedes.Ode5
 alt1.meMA.Ode5C24.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Ode5C24.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
 alt1.meMA.Ode5C24.text = ""
-
-alt1.meMA.Ode5K.ode = misc_en_US_dedes.Ode5
-alt1.meMA.Ode5K.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode5K.melody = misc_en_US_dedes.Heirmos
-alt1.meMA.Ode5K.text = he.h.m4_en_US_dedes.ExestiTaSympanta.text
 
 alt1.meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
 alt1.meMA.Ode6C1H.mode = misc_en_US_dedes.Mode4
@@ -841,22 +819,24 @@ alt1.meMA.Ode6C24.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Ode6C24.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
 alt1.meMA.Ode6C24.text = ""
 
-alt1.meMA.Ode6K.ode = misc_en_US_dedes.Ode6
-alt1.meMA.Ode6K.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode6K.melody = misc_en_US_dedes.Heirmos
-alt1.meMA.Ode6K.text = he.h.m4_en_US_dedes.TinTheianTaftin.text
-
 alt1.meMA.Kontakion1.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Kontakion1.melody = he.a.m8_en_US_dedes.TiYpermacho.name
 alt1.meMA.Kontakion1.text = ""
 
 alt1.meMA.Oikos1.text = ""
+
 alt1.meMA.Oikos12.text = ""
+
 alt1.meMA.Oikos13.text = ""
+
 alt1.meMA.Oikos14.text = ""
+
 alt1.meMA.Oikos15.text = ""
+
 alt1.meMA.Oikos16.text = ""
+
 alt1.meMA.Oikos17.text = ""
+
 alt1.meMA.Oikos18.text = ""
 
 alt1.meMA.Synaxarion.text = ""
@@ -906,11 +886,6 @@ alt1.meMA.Ode7C24.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Ode7C24.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
 alt1.meMA.Ode7C24.text = ""
 
-alt1.meMA.Ode7K.ode = misc_en_US_dedes.Ode7
-alt1.meMA.Ode7K.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode7K.melody = misc_en_US_dedes.Heirmos
-alt1.meMA.Ode7K.text = he.h.m4_en_US_dedes.OukElatrefsan.text
-
 alt1.meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
 alt1.meMA.Ode8C1H.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
@@ -956,20 +931,22 @@ alt1.meMA.Ode8C24.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Ode8C24.melody = he.h.m8_en_US_dedes.TonEnOreiAgio.name
 alt1.meMA.Ode8C24.text = ""
 
-alt1.meMA.Ode8K.ode = misc_en_US_dedes.Ode8
-alt1.meMA.Ode8K.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode8K.melody = misc_en_US_dedes.Heirmos
-alt1.meMA.Ode8K.text = he.h.m4_en_US_dedes.PaidasEvageis.text
-
 alt1.meMA.Ode9C1M01.text = ""
+
 alt1.meMA.Ode9C1M02.text = ""
+
 alt1.meMA.Ode9C1M03.text = ""
+
 alt1.meMA.Ode9C1M04.text = ""
+
 alt1.meMA.Ode9C1M05.text = ""
 
 alt1.meMA.Ode9C2M01.text = ""
+
 alt1.meMA.Ode9C2M02.text = ""
+
 alt1.meMA.Ode9C2M03.text = ""
+
 alt1.meMA.Ode9C2M04.text = ""
 
 alt1.meMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
@@ -1016,11 +993,6 @@ alt1.meMA.Ode9C24.ode = misc_en_US_dedes.Ode9
 alt1.meMA.Ode9C24.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Ode9C24.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
 alt1.meMA.Ode9C24.text = ""
-
-alt1.meMA.Ode9K.ode = misc_en_US_dedes.Ode9
-alt1.meMA.Ode9K.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode9K.melody = misc_en_US_dedes.Heirmos
-alt1.meMA.Ode9K.text = he.h.m4_en_US_dedes.ApasGigenis.text
 
 alt1.meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
 alt1.meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
