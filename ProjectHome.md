@@ -1,0 +1,1 @@
+Liturgical translations by Seraphim Dedes
