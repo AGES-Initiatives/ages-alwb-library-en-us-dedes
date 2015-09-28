@@ -6,7 +6,7 @@ meShortCommemoration1.text = ""
 meInsert1 = "our devout and God-bearing father Savas the Sanctified," // for use in petitions and dismissal
 meInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Our Venerable Father Savvas the Blessed."
+meLE.commemoration1 = "Our Venerable Father Savas the Blessed."
 meLE.commemoration2 = ""
 meHO.number = ""
 meHO.rank = ""
@@ -214,8 +214,8 @@ meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode8
-meMA.Ode3KathismaT.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.melody = misc_en_US_dedes.NotMetered //he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.text = "O Virgin, from the time I was an infant, I who am defiled have polluted this lowly soul of mine, and I have soiled myself by words and deeds, and I am at a loss, what to do, where to run, except that I know no hope other than you. Woe to me, worthless servant that I am!. That is why I now come to you as a supplicant, O all-immaculate Lady, and I entreat you and confess to you that I have sinned. Intercede with your Son and our God, that He grant to me forgiveness of my sins. O Virgin, I have set my every hope on you. "
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_dedes.Mode8
