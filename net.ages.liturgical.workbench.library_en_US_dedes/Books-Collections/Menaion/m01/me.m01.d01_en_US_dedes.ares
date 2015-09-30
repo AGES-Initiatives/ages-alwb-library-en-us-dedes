@@ -204,11 +204,6 @@ meMA.Ode1C2T.mode = misc_en_US_dedes.Mode2
 meMA.Ode1C2T.melody = he.h.m2_en_US_dedes.DefteLaoi.name
 meMA.Ode1C2T.text = ""
 
-meMA.Ode1K2.ode = misc_en_US_dedes.Ode1
-meMA.Ode1K2.mode = misc_en_US_dedes.Mode2
-meMA.Ode1K2.melody = ""
-meMA.Ode1K2.text = ""
-
 meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1H.mode = misc_en_US_dedes.Mode2
 meMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
@@ -248,11 +243,6 @@ meMA.Ode3C2T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C2T.mode = misc_en_US_dedes.Mode2
 meMA.Ode3C2T.melody = he.h.m2_en_US_dedes.StereosonImasEnSoiKyrie.name
 meMA.Ode3C2T.text = ""
-
-meMA.Ode3K2.ode = misc_en_US_dedes.Ode3
-meMA.Ode3K2.mode = misc_en_US_dedes.Mode2
-meMA.Ode3K2.melody = ""
-meMA.Ode3K2.text = ""
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
@@ -311,11 +301,6 @@ meMA.Ode4C2T.mode = misc_en_US_dedes.Mode2
 meMA.Ode4C2T.melody = he.h.m2_en_US_dedes.EisakikoaKyrieTinAkoin.name
 meMA.Ode4C2T.text = ""
 
-meMA.Ode4K2.ode = misc_en_US_dedes.Ode4
-meMA.Ode4K2.mode = misc_en_US_dedes.Mode2
-meMA.Ode4K2.melody = ""
-meMA.Ode4K2.text = ""
-
 meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C1H.mode = misc_en_US_dedes.Mode2
 meMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
@@ -356,11 +341,6 @@ meMA.Ode5C2T.mode = misc_en_US_dedes.Mode2
 meMA.Ode5C2T.melody = he.h.m2_en_US_dedes.OTouFotosChorigos.name
 meMA.Ode5C2T.text = ""
 
-meMA.Ode5K2.ode = misc_en_US_dedes.Ode5
-meMA.Ode5K2.mode = misc_en_US_dedes.Mode2
-meMA.Ode5K2.melody = ""
-meMA.Ode5K2.text = ""
-
 meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1H.mode = misc_en_US_dedes.Mode2
 meMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
@@ -373,7 +353,7 @@ meMA.Ode6C11.text = ""
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode2
-meMA.Ode6C12.melody = ""
+meMA.Ode6C12.melody = he.h.m2_en_US_dedes.AvyssosAmartimaton.name
 meMA.Ode6C12.text = ""
 
 meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
@@ -400,11 +380,6 @@ meMA.Ode6C2T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C2T.mode = misc_en_US_dedes.Mode2
 meMA.Ode6C2T.melody = he.h.m2_en_US_dedes.AvyssosAmartimaton.name
 meMA.Ode6C2T.text = ""
-
-meMA.Ode6K2.ode = misc_en_US_dedes.Ode6
-meMA.Ode6K2.mode = misc_en_US_dedes.Mode2
-meMA.Ode6K2.melody = ""
-meMA.Ode6K2.text = ""
 
 meMA.Kontakion1.poet = poets_en_US_dedes.RomanouTouMelodou
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode4
@@ -460,11 +435,6 @@ meMA.Ode7C2T.mode = misc_en_US_dedes.Mode2
 meMA.Ode7C2T.melody = he.h.m2_en_US_dedes.EikonosChrysis.name
 meMA.Ode7C2T.text = ""
 
-meMA.Ode7K2.ode = misc_en_US_dedes.Ode7
-meMA.Ode7K2.mode = misc_en_US_dedes.Mode2
-meMA.Ode7K2.melody = ""
-meMA.Ode7K2.text = ""
-
 meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1H.mode = misc_en_US_dedes.Mode2
 meMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
@@ -504,11 +474,6 @@ meMA.Ode8C2T.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C2T.mode = misc_en_US_dedes.Mode2
 meMA.Ode8C2T.melody = he.h.m2_en_US_dedes.TonArritoSofia.name
 meMA.Ode8C2T.text = ""
-
-meMA.Ode8K2.ode = misc_en_US_dedes.Ode8
-meMA.Ode8K2.mode = misc_en_US_dedes.Mode2
-meMA.Ode8K2.melody = ""
-meMA.Ode8K2.text = ""
 
 meMA.Ode9C1M01.text = "O my soul, magnify her who is higher in honor than the heavenly armies."
 meMA.Ode9C1M02.text = "O my soul, magnify the Lord who according to the Law received circumcision."
@@ -558,11 +523,6 @@ meMA.Ode9C2T.mode = misc_en_US_dedes.Mode2
 meMA.Ode9C2T.melody = he.h.m2_en_US_dedes.ITonProIliouFostira.name
 meMA.Ode9C2T.text = "He who covers His upper chambers with the waters as the only Lord, * and who restrains the sea and caused the deep abyss * to become dry, and who assumed the flesh from you, O Virgin pure, * goes urgently from Bethlehem * to Jordan to be baptized in the flesh."
 
-meMA.Ode9K2.ode = misc_en_US_dedes.Ode9
-meMA.Ode9K2.mode = misc_en_US_dedes.Mode2
-meMA.Ode9K2.melody = ""
-meMA.Ode9K2.text = ""
-
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
 meMA.Exaposteilarion1.text = "You circumcised the covering * of your soul, holy father, * enamored with philosophy; * and in the world you shone forth * like the sun by your miracles, * thus enlightening the minds * of the believers, O Basil * the wise and godly-minded * worshipper of the Trinity, * and mystic of the Theotokos."
@@ -584,7 +544,7 @@ meMA.Lauds3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meMA.Lauds3.text = "Into the Church in heaven have you * gone, O devout one, as a most sacred hierarch. * The vestments that you are wearing * are contemplation of God * and the active life, as wisdom's principles. * And now as you stand near God * and you serve as a hierarch * at the supernal * holy altar, O holy one, * and you celebrate the immaterial liturgy, * all-blessed and compassionate * Saint Basil, remember us * who now observe your all-sacred * and highly honored memorial; * to Christ pray in earnest, * and implore Him to bestow His great mercy on the world."
 
 meMA.Lauds4.mode = misc_en_US_dedes.Mode5
-meMA.Lauds4.melody = ""
+meMA.Lauds4.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meMA.Lauds4.text = "Totally consecrated to God * were you from childhood and devoted in every way. * The light of transcendent wisdom * illuminating your soul, * you made clear the knowledge of all that exists, * explaining explicitly, and relating sagaciously * the balanced order * of creation, and made of this * an occasion for more divine knowledge, holy one. * Therefore we loudly do proclaim * that you speak the words of God, * as a divine sacred teacher, * and as the Church's bright shining star. * And thus we extol Christ * who abundantly distributes great mercy to the world."
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Vyzantiou
