@@ -91,7 +91,7 @@ trMA.Ode3C1T.text = ""
 
 trMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode1
 trMA.Ode3Kathisma1.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-trMA.Ode3Kathisma1.text = ""
+trMA.Ode3Kathisma1.text = oc.m1.d2_en_US_dedes.ocMA.Kathisma21.text
 
 trMA.Ode3Kathisma2.mode = misc_en_US_dedes.Mode1
 trMA.Ode3Kathisma2.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
@@ -270,12 +270,6 @@ trMA.LaudsTheotokion.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma23.text
 trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode3
 trLI.SeasonalKontakion.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
 trLI.SeasonalKontakion.text = trMA.Kontakion1.text
-
-trLI.Alleluia.mode = ""
-
-trLI.AlleluiaVerse1.text = ""
-
-trLI.AlleluiaVerse2.text = ""
 
 trLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
