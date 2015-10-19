@@ -163,8 +163,6 @@ trMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode6
 trMA.Ode3Kathisma1.melody = ""
 trMA.Ode3Kathisma1.text = oc.m6.d4_en_US_dedes.ocMA.Kathisma22.text
 
-trMA.Ode3Kathisma2Verse.text = ""
-
 trMA.Ode3Kathisma2.mode = misc_en_US_dedes.Mode6
 trMA.Ode3Kathisma2.melody = ""
 trMA.Ode3Kathisma2.text = oc.m6.d4_en_US_dedes.ocMA.Kathisma21.text
@@ -396,13 +394,9 @@ trMA.Lauds1.mode = misc_en_US_dedes.Mode4
 trMA.Lauds1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 trMA.Lauds1.text = "Let us joyfully cry aloud, and in odes let us magnify * the all-precious Cross and salute it with a kiss. * And let us cry out to it and say, * O Cross ever-ven'rable, by the power you possess, * sanctify us in every way, soul and body too. * From all manner of injury arising from our enemies preserve us * who venerate in piety."
 
-trMA.LaudsSundayVerse1.text = "Exalt the Lord our God, and worship at the footstool of His feet; for He is holy."
-
 trMA.Lauds2.mode = misc_en_US_dedes.Mode4
 trMA.Lauds2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 trMA.Lauds2.text = "Come, believers, and faithfully * draw the waters that never fail, * issuing abundantly by the Cross's grace, * as we behold set before us now * the wood of the holy tree, * yes, the wellspring of the gifts * of the Spirit, which is itself * watered by the blood * and the water that issued from the Master who was willingly exalted * thereon, exalting humanity."
-
-trMA.LaudsSundayVerse2.text = "But God is our King before the ages; He worked salvation in the midst of the earth."
 
 trMA.Lauds3.mode = misc_en_US_dedes.Mode4
 trMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
@@ -430,16 +424,13 @@ trMA.AdditionalIdiomelonGlory.melody = misc_en_US_dedes.Idiomelon
 trMA.AdditionalIdiomelonGlory.text = "Today, He who is unapproachable in His essence becomes approachable to me; and He is suffering the Passion, thus freeing me from the passions. He who gives sight to the blind is spit on by lawless lips, and He takes a whipping on the back for the sake of us captives. When His pure Mother saw Him on the Cross, in pain she uttered, \"Woe is me, my Child! Why have You done this! You who are more beautiful than all men, I see You not breathing, unsightly, without form or beauty. Woe is me, my Light! I cannot bear to see You sleeping. I am wounded to the core, and an awful sword is piercing my heart. I extol Your Passion, I worship Your compassion. O longsuffering Lord, glory to You!\""
 
 trMA.AdditionalIdiomelonBoth.mode = misc_en_US_dedes.Mode6
-trMA.AdditionalIdiomelonBoth.melody = "Heirmologic."
+trMA.AdditionalIdiomelonBoth.melody = misc_en_US_dedes.Heirmologic
 trMA.AdditionalIdiomelonBoth.text = oc.m6.d4_en_US_dedes.ocMA.Kathisma21.text
-
-
-
 
 trLI.Antiphon2.text = ""
 
-
 trLI.MM.EntranceHymn.text = properties_en_US_dedes.media.key
+
 trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode8
 trLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
 trLI.SeasonalKontakion.text = he.a.m8_en_US_dedes.TiYpermacho.text
