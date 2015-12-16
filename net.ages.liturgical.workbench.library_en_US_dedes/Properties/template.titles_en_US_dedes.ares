@@ -218,6 +218,9 @@ d.onFridayEvening = "on Friday Evening"
 d.onSaturdayMorning = "on Saturday Morning"
 d.onSaturdayEvening = "on Saturday Evening"
 
+me.m01.d06.onEpiphanyEve = "on the Eve of Epiphany"
+me.m12.d25.onChristmasEve = "on Christmas Eve"
+
 m.month = "MONTH" // I will programatically determine whether to look up the m.month vs m.mode key
 m.mode = "MODE"
 
