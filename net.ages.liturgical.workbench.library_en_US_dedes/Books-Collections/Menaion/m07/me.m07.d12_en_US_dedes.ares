@@ -16,165 +16,169 @@ meHO.note1 = ""
 meHO.note2 = ""
 meDismissal = ""
 
-meSV.Stichera1.mode = misc_en_US_dedes.Mode4
-meSV.Stichera1.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meSV.Stichera1.text = "O devout Paisios, the fruitful tree brought from Farasa, * pride and joy of your ancestors, * boast of Athos and the Church * are you, holy father. * For you were a pillar of self-control in recent years, * and you were known for your signs and miracles. * Now we the congregations of believers dutifully extol * your sublime life with sacred hymns, * O most marvelous man of God."
+meSV.Stichera1.mode = misc_en_US_dedes.Mode8
+meSV.Stichera1.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meSV.Stichera1.text = ""
 
-meSV.Stichera2.mode = misc_en_US_dedes.Mode4
-meSV.Stichera2.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meSV.Stichera2.text = "Father, from an early age you had intense and invincible * love and longing for Christ the Lord. * So you read biographies * of devout monastics * and of all the saints, and selected them to be your guides * in ways of piety and the Christian life, * becoming a devoted follower in fasting and self-control, * O Paisios graced by God, * the adornment of Konitsa."
+meSV.Stichera2.mode = misc_en_US_dedes.Mode8
+meSV.Stichera2.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meSV.Stichera2.text = ""
 
-meSV.Stichera3.mode = misc_en_US_dedes.Mode4
-meSV.Stichera3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meSV.Stichera3.text = "You banished the thoughts that the ferocious enemy shot at you, * most devout St. Paisios, * and since you were very pure * truly you accepted * the resplendent image of Christ the Savior in your heart, * which drove away atheistic thoughts from you. * Then you proclaimed the riches of the true and Orthodox Christian faith, * holy father, to all the world, * and its dogmas and practices."
+meSV.Stichera3.mode = misc_en_US_dedes.Mode8
+meSV.Stichera3.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meSV.Stichera3.text = ""
 
-meSV.Stichera4.mode = misc_en_US_dedes.Mode4
-meSV.Stichera4.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meSV.Stichera4.text = "O devout Paisios, you had the heavenly energy * of the Trinity moving you * from childhood, and you received * grace's gift of fasting. * Having as you did a consuming love for all the saints, * you put away every childish pursuit; * and thus you caused your relatives and all who knew you to be amazed, * indicating even from then * the direction your life would take."
+meSV.Stichera4.mode = misc_en_US_dedes.Mode8
+meSV.Stichera4.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meSV.Stichera4.text = ""
 
-meSV.SticGlory.mode = misc_en_US_dedes.Mode2
+meSV.SticGlory.mode = misc_en_US_dedes.Mode8
 meSV.SticGlory.melody = ""
-meSV.SticGlory.text = "We all recognize your untiring ascetic efforts as illustrious models of life to be imitated, O God-bearing St. Paisios. When you vanquished the uprisings of the passions, in recent years, you rose like a sun, on Mt. Athos and elsewhere, glowing with miracles and teachings. Therefore we pray you, never cease to drive away the darkness from your minds, by your intercessions, so that we may all obtain the great mercy."
+meSV.SticGlory.text = ""
 
-meSV.SticBoth.mode = misc_en_US_dedes.Mode2
+meSV.SticBoth.mode = misc_en_US_dedes.Mode8
 meSV.SticBoth.melody = ""
-meSV.SticBoth.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
+meSV.SticBoth.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meSV.Aposticha1.text = "Sinai and Konitsa * and Holy Mountain Athos * are proud in celebrating * you memory, O father * Paisios, thrice-blessed Saint."
+meSV.Aposticha1.text = ""
 
 meSV.Aposticha2.mode = misc_en_US_dedes.Mode2
 meSV.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meSV.Aposticha2.text = "Multitudes come with faith * to venerate your holy * and sacred grave, O father * Paisios, and hope to * receive the grace you have from God."
+meSV.Aposticha2.text = ""
 
 meSV.Aposticha3.mode = misc_en_US_dedes.Mode2
 meSV.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meSV.Aposticha3.text = "Everyone knows you as * a fervent intercessor * with Christ, all-blessed father * Paisios, and thus they receive the answers to their prayers."
+meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = misc_en_US_dedes.Mode2
-meSV.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meSV.AposGlory.text = "Having within your soul * the light of the all-holy * Trinity, blessed Elder, * you brighten those who honor * your name, O St. Paisios."
+meSV.AposGlory.melody = ""
+meSV.AposGlory.text = ""
 
 meSV.AposBoth.mode = misc_en_US_dedes.Mode2
-meSV.AposBoth.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meSV.AposBoth.text = "Cease not to intercede * with Christ, your Son, our Savior, * for us who sing the praises * of your most wondrous childbirth, * O Lady Mary, Bride of God."
+meSV.AposBoth.melody = ""
+meSV.AposBoth.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode1
-meVE.Stichera01.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
-meVE.Stichera01.text = "From childhood you ardently desired * the monastic way of life and loved the lifestyle of stillness, O devout Paisios. * Therefore, holy father, * like an angel in the flesh, you looked beyond all worldly enticements and ephemeral delights, * and you focused mind and heart on those * that forever * endure there in Paradise."
+meVE.Stichera01.melody = he.a.m1_en_US_dedes.OTouParadoxouThavmatos.name
+meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode1
-meVE.Stichera02.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
-meVE.Stichera02.text = "When you were enlisted in the ranks * of your nation's army, you were for your fellows a good example, Godly-minded Saint. * After that you joined up * with monastic regiments, and you became a trainer of many in the ways of piety, * with your sayings, signs and miracles, * by divine grace * of Christ, O Paisios."
+meVE.Stichera02.melody = he.a.m1_en_US_dedes.OTouParadoxouThavmatos.name
+meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode1
-meVE.Stichera03.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
-meVE.Stichera03.text = "You went up to Sinai's holy mount, * imitating Moses and devout St. John, author of the Ladder of Divine Ascent, * living in ascetic * discipline, O glorious Paisios, and fasting as if you had no flesh, and so received * from the Spirit gifts of grace divine, * like the fathers * and saints had received of old."
+meVE.Stichera03.melody = he.a.m1_en_US_dedes.OTouParadoxouThavmatos.name
+meVE.Stichera03.text = ""
 
-meVE.Stichera04.mode = misc_en_US_dedes.Mode1
-meVE.Stichera04.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
-meVE.Stichera04.text = "You went to Mt. Athos early on: * Esphigmenou had you as a most obedient novice, O devout Paisios; * and to Philotheou * you brought glory. You became a brother of the Stomion Monastery up in Konitsa. * Then on Sinai, living as a man * like an angel, * you provided for the Bedouins there."
+meVE.Stichera04.mode = misc_en_US_dedes.Mode4
+meVE.Stichera04.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera04.text = ""
 
-meVE.Stichera05.mode = misc_en_US_dedes.Mode1
-meVE.Stichera05.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
-meVE.Stichera05.text = "O father, by teaching them in word * and by many miracles, you gave support to the cenobitic nuns of Souroti. * You became a truly * God-enlightened trainer of those pious women, teacher and guide as well. The Monastery now * is exultant, for it has your grave, * which it treasures, * O holy Paisios."
+meVE.Stichera05.mode = misc_en_US_dedes.Mode4
+meVE.Stichera05.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera05.text = ""
 
-meVE.Stichera06.mode = misc_en_US_dedes.Mode1
-meVE.Stichera06.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
-meVE.Stichera06.text = "Ascetic Paisios, you cared * for the younger generation. Those who suffered from mental illness had you as their help. * You delivered young men * who had been addicted to narcotics and to smoking the devil's weed. And atheists you cured. * You supported students; and to all * you were friendly, * familiar and affable."
+meVE.Stichera06.mode = misc_en_US_dedes.Mode4
+meVE.Stichera06.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera06.text = ""
 
-meVE.SticGlory.mode = misc_en_US_dedes.Mode6
+meVE.SticGlory.mode = misc_en_US_dedes.Mode5
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "You followed the way of the ascetics, and you were on a fast track to the work of virtue, O God-bearing Paisios. You wholeheartedly renounced the earthy man of dust, and your mind and heart engaged in unceasing prayer, and contemplation of the uncreated light. We who have tasted your spiritual gifts extol you, O devout Saint, and with gladness we say to you: Rejoice, O son of Farasa, the glory of Athos, the pillar of Konitsa, the teacher of monastics, and the resident of Sinai! Rejoice, for you put on the robe of dispassion, and thus you were able to guide the youth, restore those who had fallen, and return those who were lost. Rejoice, for you were a model for monks and nuns, an example for laypeople, and refreshment and rest for Orthodox believers. And now, O Elder adorned by God, unceasingly entreat Christ our God, for us who with compunction observe the annual celebration of your memory."
+meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.SticTheotokion.melody = ""
-meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
+meVE.SticTheotokion.text = oc.m5.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
 meVE.Lity1.melody = ""
-meVE.Lity1.text = "Rejoice in the Lord, O Athonite community of monks and ascetics, for in recent years devout Paisios blossomed from your meadow like a flower in the spring. This extraordinary man, like a good agronomist, cultivated his soul, planted the tree of the virtues, and produced the fruits of dispassion, clairvoyance, and cures of diseases of soul and body. Therefore we now go to him with our supplications, and in faith we say: \"O Saint, intercede with our our merciful God, on behalf of us who extol your life and your many gifts of grace.\""
+meVE.Lity1.text = ""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode2
 meVE.Lity2.melody = ""
-meVE.Lity2.text = "Having died to your own will, like Saint Paul, you were freed from the passions, and you put on the luminous garment of the Holy Spirit. Therefore as a seer, you were granted to see people's thoughts, to foreknow the future, and to say what was needed to those who came to you, father Paisios. Now we also stretch out our hands to you, since your prayers avail much, and we beg that by your petitions we may cross the sea of life, and reach the port of the Kingdom of Heaven."
+meVE.Lity2.text = ""
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode3
 meVE.Lity3.melody = ""
-meVE.Lity3.text = "O devout father, every day many people would line up around your cabin, as if it were an ark of salvation; one would be seeking the salvation of his soul, another the cure for a disease, and yet another the correction of his thoughts, or the solution for a problem in his life. We the faithful likewise now come to your tomb, seeking the same things, O Elder Paisios. We pray that they and we may obtain our requests, O ever-blessed Saint."
+meVE.Lity3.text = ""
 
 meVE.Lity4.mode = misc_en_US_dedes.Mode4
 meVE.Lity4.melody = ""
-meVE.Lity4.text = "When you had crossed over the salty sea of the passions, and had dashed to the ground the haughtiness of the evil spirits, you became a vessel of the Holy Spirit, O most devout Paisios. You cleansed the looking glass of your mind, and then you saw the Lord, God and man, His all-pure Mother, the glorious martyrs Lucillian and Euphemia, and the faces of other saints. Join them now in praying to the Lord, to have mercy on our souls."
+meVE.Lity4.text = ""
 
-meVE.LityGlory.mode = misc_en_US_dedes.Mode4
+meVE.Lity4.mode = misc_en_US_dedes.Mode8
+meVE.Lity4.melody = ""
+meVE.Lity4.text = ""
+
+meVE.LityGlory.mode = misc_en_US_dedes.Mode6
 meVE.LityGlory.melody = ""
-meVE.LityGlory.text = "Let us sing the accolades of devout Paisios, that imitator of Christ who lived on the Holy Mountain. He extinguished the raging fire of the passions with the river of his tears; he made his soul shine; he purified his mind and became a vessel of grace that shined like burnished gold. And now that he is in the company of the holy ascetics, he continually intercedes on behalf of those who call upon his venerable name."
+meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode4
 meVE.LityBoth.melody = ""
-meVE.LityBoth.text = oc.m4.d2_en_US_dedes.ocMA.AposTheotokion.text
+meVE.LityBoth.text = he.o_en_US_dedes.TheotokeSyEiOsiou.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
 meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-meVE.Aposticha1.text = "Rejoice, Farasa's offspring and son, * the Holy Mountain's flowing river of gifts of grace, * the phoenix of true religion, * and Souroti's loving nurse,* and the good example for ascetics all, * the ornament of Sinai, and the guardian of Konitsa, brilliantly shining like a sun over all of Greece; * you were for the youth a protector and care-taker; * man who was heavenly indeed, and angel in flesh as well; * for the infirm a physician, for those in pain their relief and rest; * the marvelous new star * of the Church of Christ, O holy father Paisios. "
+meVE.Aposticha1.text = ""
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode5
 meVE.Aposticha2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-meVE.Aposticha2.text = "Rejoice, O modern-day Saint of God, * you were in all things ever ready to offer help; * the youngsters at Athoniada saw an example for life. * You proclaimed the truth of Orthodoxy well. * The suffering found relief, misbehavers found discipline, * and those in need found speedy help and support from you, * those who were in trouble found permanent happiness. * You were a refuge sent by God, * a safe and accepting place * for the believers who suffered from mental illness and phobias. * O topmost addition * to the list of the devout saints, father Paisios!"
+meVE.Aposticha2.text = ""
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode5
 meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-meVE.Aposticha3.text = "Elder, in modern times you possessed * spiritual vision and clairvoyance, a gift from God, * and thus you became a teacher for those who followed the Faith, * Orthodox ascetics, laypeople and priests. * You accurately exposed thoughts and concepts of mind and heart * that had been hidden, godly father Paisios; * and by grace you cured mental illness and healed the soul. * Therefore the fame of you went out * in Greece and in all the world. * So people everywhere pray now to you, O father, entreating you * to help them and cure them * of the ills of soul and body, O ever-blessed Saint. "
+meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "You led your life as an ascetic. When you had overcome all worldly pleasures, carnal appetites, and every luxury, O Elder Paisios, you received many visitations of divine grace. Once when you were in your cabin, you had a waking vision of the Great Martyr Euphemia; and the two of you discussed the events of her martyrdom, modestly speaking as friend to friend. Along with her, O devout Saint, never cease interceding continually on behalf of our souls."
+meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.AposTheotokion.melody = ""
-meVE.AposTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
+meVE.AposTheotokion.text = oc.m8.d1_en_US_dedes.ocVE.AposTheotokion.text
 
-meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.TisErimouPolitis.name
-meVE.Apolytikion1.text = "O believers, let us honor that offspring of Farasa, * the pride and joy of Athos, and a vessel full of gifts of grace, * Paisios, the peer of the devout * monastic saints for imitating them. * He protects from all distress and from worldly grief * the people who cry out with faith: * \"Glory to Christ who gave you His might; * glory to Him who put a crown on you; * glory to Him who through you is working cures for all.\""
-
-meVE.Apolytikion2.mode = misc_en_US_dedes.Mode3
-meVE.Apolytikion2.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
-meVE.Apolytikion2.text = "In the world you were as if an angel * in these latter years, O holy father, * imitator of Christ, St. Paisios. * Living on Athos with strict ascetic discipline, * you were illumined and shone like a brilliant sun, * and you shined on all the faithful by grace divine, * by means of your words, signs and miracles."
-
-meVE.Apolytikion3.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion3.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
-meVE.Apolytikion3.text = "Paisios, you became a great foundation for monks. * Mt. Athos is proud of you; for Souroti you provide; * and Konitsa boasts in you. * You received the many gifts of grace from the Spirit, * by following in the footsteps of Arsenios the Cappadocian. * You generously give what is needful * to those who now honor you."
-
-meVE.Apolytikion4.mode = misc_en_US_dedes.Mode5
-meVE.Apolytikion4.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
-meVE.Apolytikion4.text = "To the all-lauded man of Mt. Athos let us give * praise and honor, for he like a beacon burning bright * dispelled the darkness that beset believers in recent years; * supernaturally he cures the diseases of the soul * and heals the ailments of body; * he is a lamp of clairvoyance, the new devout St. Paisios."
+meVE.Apolytikion1.mode = misc_en_US_dedes.Mode5
+meVE.Apolytikion1.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
+meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
 meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-meMA.Kathisma11.text = "As seen in saints of old, by the grace of the Savior, * you lived on friendly terms with the snakes and the reptiles * and other irrational wild beasts, O Paisios. * And all who saw you thus were overcome with amazement, * Godly-minded Saint, and they extolled Christ the Logos, * the Ruler of all and God."
+meMA.Kathisma11.text = ""
+
+meMA.Kathisma12.mode = misc_en_US_dedes.Mode1
+meMA.Kathisma12.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+meMA.Kathisma12.text = ""
 
 meMA.Kathisma1T.mode = misc_en_US_dedes.Mode1
 meMA.Kathisma1T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-meMA.Kathisma1T.text = "Paisios, you held the august holy Icon * of the Mother of God, called The Awesome Protection, * O holy one, and looked up to the heights; and to you appeared * her resplendent light, which shines on all and illumines. * Intercede along with her, the all-holy Virgin, * continually for our souls."
+meMA.Kathisma1T.text = ""
 
-meMA.Kathisma21.mode = misc_en_US_dedes.Mode3
-meMA.Kathisma21.melody = he.a.m3_en_US_dedes.TinOraiotita.name
-meMA.Kathisma21.text = "With God-inspired hymns let us all sing in praise * of St. Paisios, wondrous in many ways. * He shamed the dragon's haughty brow, and crushed every carnal pleasure, * through ascetic discipline. * Therefore Athos is proud of him. * He was born in Farasa, * but the whole world now honors him, * and multitudes of Orthodox believers * benefit from his many wonders."
+meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma21.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Kathisma21.text = ""
 
-meMA.Kathisma2T.mode = misc_en_US_dedes.Mode3
-meMA.Kathisma2T.melody = he.a.m3_en_US_dedes.TinOraiotita.name
-meMA.Kathisma2T.text = "When you were in your house on Athos, you beheld * a waking vision of the ever-virgin Maid, * who had the sweetest look indeed and beautified human nature, * you bowed down and reverenced her as the Lady of all the world. * O devout Paisios, what blessing this was for you! * O father, pray for us now and join her * in never-failing intercession."
+meMA.Kathisma22.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma22.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Kathisma22.text = ""
 
-meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
-meMA.Kathisma31.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
-meMA.Kathisma31.text = "For the youth you became an inerrant guide, * and for people addicted to substances * a healer, O holy man; and you expertly cured by prayer * young men who had succumbed to intractable sexual sins. * And you were recognized as a leader and accurate * guide by those who sought to walk the way of salvation; * and you were a staff for all, holy father Paisios, * O ascetic illumined by God. * And now  in Souroti at your grave * do believers venerate you rightfully, * and with joy and decorum they celebrate your memory."
+meMA.Kathisma2T.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma2T.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Kathisma2T.text = ""
 
-meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
-meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
-meMA.Kathisma3T.text = "Having seen on Mt. Sinai your holy face * as it is, O most blessed Mother of God, * the godly Paisios taught the Mount's iconographers * to reproduce the image depicting it faithfully. * And he proclaimed to all what a great blessing is your grace. * Therefore, Theotokos, never fail to entreat Christ * unceasingly on behalf of your servants who ever praise * and exalt your Son and God * and rightfully extol all His saints; * among whom is the devout Paisios, * who is honored today by our hymns that are sung by all."
+meMA.Kathisma31.mode = misc_en_US_dedes.Mode3
+meMA.Kathisma31.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+meMA.Kathisma31.text = ""
+
+meMA.Kathisma32.mode = misc_en_US_dedes.Mode3
+meMA.Kathisma32.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+meMA.Kathisma32.text = ""
+
+meMA.Kathisma3T.mode = misc_en_US_dedes.Mode3
+meMA.Kathisma3T.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+meMA.Kathisma3T.text = ""
 
 meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 
@@ -188,596 +192,397 @@ meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = "The proclamation of your achievements went forth into all the earth, O devout Paisios. In the twentieth century from the birth of our Savior, you rose as a day star, and you enlightened multitudes of Orthodox Christians to know the will of the Lord. Now that you are up in the heavens, and can speak with confidence, never cease interceding on behalf of our souls."
+meMA.PostGospelIdiomelon.text = ""
 
-meMA.C1Poet = poets_en_US_dedes.IoilEdessis
+meMA.C1Poet = ""
 meMA.C1Acrostic.text = ""
 
-meMA.C2Poet = poets_en_US_dedes.IoilEdessis
+meMA.C2Poet = ""
 meMA.C2Acrostic.text = ""
-
-meMA.C3Poet = poets_en_US_dedes.IoilEdessis
-meMA.C3Acrostic.text = ""
-
-meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
-meMA.Ode1C1H.text = he.h.m8_en_US_dedes.ArmatilatinFarao.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C11.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
-meMA.Ode1C11.text = "O purest Bride of God endowed with grace divine, entreat your Lord and Son * for illumination on the workings of my mind, * that I may worthily extol * all the blessings obtained by * your intercessions, and sing in praise * of the vast array of your miracles."
+meMA.Ode1C11.text = ""
 
 meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C12.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C12.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
-meMA.Ode1C12.text = "O ever-blessed Lady, wretched that I am, I turn to you for help, * hoping by your prayers * to defeat the enemy * and his despicable array. * So I stand with my hands out * before your Icon, entreating you, * begging that you grant me your mighty aid."
+meMA.Ode1C12.text = ""
 
 meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C13.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C13.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
-meMA.Ode1C13.text = "O virgin Mother, Lady all-immaculate, your most benevolent Son, * as the world's Creator and the Savior of mankind, * accepts your intercessions all, * and He does whatsoever * you wish for those who with faith compose, * translate, and sing hymns to you, Bride of God."
+meMA.Ode1C13.text = ""
 
-meMA.Ode1C14.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C14.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C14.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
-meMA.Ode1C14.text = "By your almighty intercessions stay the flood of the temptations on me. * Guide my mental concepts and the ethos of my soul, * O Lady, to the port of Christ, all-immaculate Virgin, * so that with confidence I may sail * through the sea of life and its many woes."
+meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C1T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+meMA.Ode1C1T.text = ""
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C21.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
-meMA.Ode1C21.text = "With all my heart I want to sing in honor of pious Paisios, * who was most amazing. * So I pray, almighty Christ: * Please give me the ability * to extol as is worthy * the life and numerous miracles * of this Your devout Saint, O gracious Lord."
+meMA.Ode1C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C21.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C21.text = ""
 
 meMA.Ode1C22.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C22.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
-meMA.Ode1C22.text = "With holy dignity you lived on earth as if you were an angel, O Saint; * you subordinated * sinful passions and the flesh. * And you became the vessel of * gifts from God and His graces, * which you dispense to us Orthodox * as we need them, father Paisios."
+meMA.Ode1C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C22.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C22.text = ""
 
 meMA.Ode1C23.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C23.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
-meMA.Ode1C23.text = "You prayed intently to the Lord who made the world, O St. Paisios, * on behalf of those who * suffered and were in distress. * And you became the teacher of * many people, O father, * towards a holier way of life. * Now the Holy Mountain exalts in you."
+meMA.Ode1C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C23.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C23.text = ""
 
 meMA.Ode1C2T.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C2T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
-meMA.Ode1C2T.text = "As I am swimming in the sea of passions, I the wretch am drowning, alas! * Mother Theotokos, this poor man now cries to you, * the Holy Mountain's Patroness, \"By your all-holy prayers * and supplications on my behalf, * quiet the temptations that trouble me.\""
-
-meMA.Ode1C31.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C31.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C31.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
-meMA.Ode1C31.text = "O God-bearing father, you were indeed * planted on Mt. Athos * as a wonderful tree that bore * the sweet fruits of grace. You are the newly * appointed guard of ascetics, Paisios."
-
-meMA.Ode1C32.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C32.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C32.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
-meMA.Ode1C32.text = "O father, you taught your spiritual sons * to watch and to guard their * thoughts from wickedness and its harm, * and also to have in mind unceasing * the good and wholesome ideas and thoughts of Christ."
-
-meMA.Ode1C33.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C33.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C33.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
-meMA.Ode1C33.text = "With rivers of tears you entreated Christ, * father, on behalf of * all the needy who came to you * at your sacred cabin and who plied you * with every kind of request, O Paisios."
-
-meMA.Ode1C3T.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C3T.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C3T.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
-meMA.Ode1C3T.text = "Our new St. Paisios saw indeed * your divine appearance * supernaturally with his eyes, * ever-virgin Mary, when he lived on * the Holy Mountain of Athos in recent years."
-
-meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C1H.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
-meMA.Ode3C1H.text = he.h.m8_en_US_dedes.OStereosasKatArchas.text
+meMA.Ode1C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode1C2T.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode8
 meMA.Ode3C11.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
-meMA.Ode3C11.text = "You are inviolable joy * for us the faithful, and riches * of benevolence and love's holy treasure, * and the boast of all the world, * the glory of the human race. * The angels sing your praises, * pure Virgin, Mother of Christ our God."
+meMA.Ode3C11.text = ""
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode8
 meMA.Ode3C12.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
-meMA.Ode3C12.text = "O Maiden pure, you are perceived * to be a ladder that takes us * human beings from the earth up to heaven. * You are superior to all * the angels and humanity * and all created nature, * for you gave birth to the Lord of all."
+meMA.Ode3C12.text = ""
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_dedes.Mode8
 meMA.Ode3C13.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
-meMA.Ode3C13.text = "From you has risen like a sun * your Son, the Maker of all things, * and He shined on us gave light to all men, * and He mightily dispelled * the darkness of the enemy, * by His resurrection * from the dead, as almighty Lord."
+meMA.Ode3C13.text = ""
 
-meMA.Ode3C14.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C14.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C14.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
-meMA.Ode3C14.text = "The fire of pleasure burns in me, * O Theotokos, intensely, * and my sorry soul is now agitated. * So I earnestly entreat * that you will intercede for me, * and grant me peace and quiet * in mind and thoughts, holy Bride of God."
+meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C1T.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
+meMA.Ode3C1T.text = ""
 
 meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C21.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
-meMA.Ode3C21.text = "With manly courage you disdained * the unclean spirit, O father, * with humility of mind being guarded; * and with prayers putting on * the breastplate of the grace of God, * you put demonic forces * to flight, O holy Paisios."
+meMA.Ode3C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C21.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C21.text = ""
 
 meMA.Ode3C22.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C22.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
-meMA.Ode3C22.text = "With your unceasing prayers to God, * the Lord of all, you entreated * on behalf of those who came to you longing * for solutions to their own * distressing problems. So you prayed * that they might be delivered * from their distress, O Paisios."
+meMA.Ode3C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C22.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C22.text = ""
 
 meMA.Ode3C23.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C23.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
-meMA.Ode3C23.text = "Your supplications for the souls * of the reposed truly helped them, * for from heaven you were given this power. * O Paisios, you told * believers they should also pray * for them because they need it * more than the living, all-blessed Saint."
+meMA.Ode3C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C23.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C23.text = ""
 
 meMA.Ode3C2T.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C2T.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
-meMA.Ode3C2T.text = "When the Creator of the world * became incarnate from your blood, * He put down the ancient Belial, the devil, * O all-blameless Maid, and gave * humanity the gift of peace, * the end of sin, and freedom * of souls, O Lady immaculate."
+meMA.Ode3C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode3C2T.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+meMA.Ode3C2T.text = ""
 
-meMA.Ode3C31.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C31.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C31.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
-meMA.Ode3C31.text = "You were shown to be winner by the divine grace of Christ, * for you fully humbled that young man, George, who was influenced * by a demonic force * and had received his instruction * from the devil in Tibet, * father Paisios."
+meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.text = ""
 
-meMA.Ode3C32.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C32.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C32.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
-meMA.Ode3C32.text = "On Mt. Athos, the Master of all revealed unto you * His all-holy likeness, surpassing the beauty of all men, * and you were filled with grace * in great abundance and power, * and the Spirit dwelt in you, * father Paisios."
+meMA.Ode3Kathisma2.mode = misc_en_US_dedes.Mode8
+meMA.Ode3Kathisma2.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Ode3Kathisma2.text = ""
 
-meMA.Ode3C33.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C33.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C33.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
-meMA.Ode3C33.text = "Human thought is astounded, how you, O wise one, received * while you were awake in your cabin the holy and all-praised * great martyr of the Lord, marvelous St. Euphemia, * blessed St. Paisios, boast of the fathers all."
-
-meMA.Ode3C3T.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C3T.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C3T.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
-meMA.Ode3C3T.text = "We the faithful who suffer from grave diseases and ills * of the body know you, O Mother, to be an excellent * physician and a well * of cures and healing. We therefore * pray with faith for your divine * help now, O Bride of God."
-
-meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
-meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
-meMA.Ode3Kathisma1.text = "Your soul, O Paisios, became a workshop of prayer, * because you continually prayed and made your divine * entreaties to God, O Saint. * When you had spent a long time * in your cabin, O father, * you appeared like a brightly shining pillar entreating * Christ who is the Creator and Ruler of the universe."
-
-meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
-meMA.Ode3KathismaT.text = "O Virgin immaculate, by giving birth to the Lord, * you truly became the ornament of angels, the hope * of Christians, the pride and joy * of Orthodox believers. * Thus possessing great freedom * of speech before the throne of Christ your Son, blessed Lady, * continually you plead on behalf of all who honor you."
-
-meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C1H.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
-meMA.Ode4C1H.text = he.h.m8_en_US_dedes.SyMouIschys.text
+meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode8
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_dedes.Mode8
 meMA.Ode4C11.melody = he.h.m8_en_US_dedes.SyMouIschys.name
-meMA.Ode4C11.text = "By giving birth * to God, O pure Virgin, you became * Eve's emancipation from the ancient curse; and those in straits * have you as relief; * those who are in trouble * know you, O Mother, as source of joy. * All-holy Theotokos, * we also now salute you: * O unshaken support of us all, rejoice!"
+meMA.Ode4C11.text = ""
 
 meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C12.mode = misc_en_US_dedes.Mode8
 meMA.Ode4C12.melody = he.h.m8_en_US_dedes.SyMouIschys.name
-meMA.Ode4C12.text = "The burning heat * within my soul is out of control. * With your prayers * like a hose extinguish it, all-blameless Maid, * soak me with the cool * water of your mercy, * O Theotokos, refreshing me. * And grant to me your servant * the strength to extol you * and your grace, as is worthy, forevermore."
+meMA.Ode4C12.text = ""
 
 meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C13.mode = misc_en_US_dedes.Mode8
 meMA.Ode4C13.melody = he.h.m8_en_US_dedes.SyMouIschys.name
-meMA.Ode4C13.text = "The Lord of all * in ways befitting divinity * dwelt inside your holy womb, all-lauded one; and He who is * visible to none * put on human nature * to rescue man from captivity * to the ancient deceiver, * and to grant His great mercy * and His grace to the faithful who honor you."
+meMA.Ode4C13.text = ""
 
-meMA.Ode4C14.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C14.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C14.melody = he.h.m8_en_US_dedes.SyMouIschys.name
-meMA.Ode4C14.text = "Now on my knees, * I raise my hands to your marvelous * holy Icon, longing for the ocean of your tender mercy to drench my soul. * Fervently I pray you, * do not ignore me the wretched one. * Courage of those in trouble * and the hope of the hopeless, * you are also the cure for the suffering."
+meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C1T.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+meMA.Ode4C1T.text = ""
 
 meMA.Ode4C21.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C21.melody = he.h.m8_en_US_dedes.SyMouIschys.name
-meMA.Ode4C21.text = "Having received * the strength from heaven, Paisios, * you endured your illnesses with patience, godly-minded Saint, * and you worshiped Christ * wholeheartedly singing * the sweetest hymns of doxology. * You thus received the blessing * of divine grace and power * for the healing of bodies and souls alike."
+meMA.Ode4C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C21.melody = he.h.m4_en_US_dedes.TinAnexichniaston.name
+meMA.Ode4C21.text = ""
 
 meMA.Ode4C22.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C22.melody = he.h.m8_en_US_dedes.SyMouIschys.name
-meMA.Ode4C22.text = "You were exact, * keeping the faith as the Father's taught. * And you gave the people an example of undaunted faith, * O all-blessed Saint. * In Thessaloniki * you bravely marched with the other monks, * as if you were an angel, * and you boldly confessed Christ, * O devout, godly-minded Paisios."
+meMA.Ode4C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C22.melody = he.h.m4_en_US_dedes.TinAnexichniaston.name
+meMA.Ode4C22.text = ""
 
 meMA.Ode4C23.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C23.melody = he.h.m8_en_US_dedes.SyMouIschys.name
-meMA.Ode4C23.text = "Many a time * an immaterial light was seen * to surround your face and when you had your hands lifted in prayer * to the Lord, O Saint, * you were truly lifted * above the ground, O Paisios. * And therefore those who saw you * when your face was illumined * were completely amazed, O all-lauded one."
+meMA.Ode4C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C23.melody = he.h.m4_en_US_dedes.TinAnexichniaston.name
+meMA.Ode4C23.text = ""
 
 meMA.Ode4C2T.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C2T.melody = he.h.m8_en_US_dedes.SyMouIschys.name
-meMA.Ode4C2T.text = "Mother of God, * the Lord and Ruler of all indeed * dwelt in your all-holy womb, and from corruption He renewed * human nature all, * and He also lifted * the ancient curse and abolished death, * and He completely humbled * the exalted demeanor * of the devil and dark-looking enemy."
-
-meMA.Ode4C31.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C31.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C31.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
-meMA.Ode4C31.text = "Many people who came to you * for advice and counsel have testified and said * that your words and teachings brought about * their salvation, O devout Paisios."
-
-meMA.Ode4C32.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C32.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C32.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
-meMA.Ode4C32.text = "When the father of two unwell * children, who himself was a doctor, prayed to you * for their healing, you became for them * an excellent doctor, O all-honored Saint."
-
-meMA.Ode4C33.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C33.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C33.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
-meMA.Ode4C33.text = "O Paisios, when you prayed * oftentimes amazingly you would overflow * with the light of Christ, and you would sing * sweetest hymns adoring Him wholeheartedly."
-
-meMA.Ode4C3T.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C3T.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C3T.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
-meMA.Ode4C3T.text = "Bride of God, to my darkened soul * grant illumination, for you have given birth * to the Lord, the never-setting Light * of the world and all mankind, O Virgin pure."
-
-meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C1H.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
-meMA.Ode5C1H.text = he.h.m8_en_US_dedes.InaTiMeAposo.text
+meMA.Ode4C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode4C2T.melody = he.h.m4_en_US_dedes.TinAnexichniaston.name
+meMA.Ode4C2T.text = ""
 
 meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C11.mode = misc_en_US_dedes.Mode8
 meMA.Ode5C11.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
-meMA.Ode5C11.text = "Full of wickedness, Satan * tirelessly tempts me with shameful passions all. * Lady Theotokos, * I the wretch having you on my side can now * hope to break in pieces * the fiery arrows he is shooting * and to beat him, with your help, O Virgin pure."
+meMA.Ode5C11.text = ""
 
 meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C12.mode = misc_en_US_dedes.Mode8
 meMA.Ode5C12.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
-meMA.Ode5C12.text = "By your grace, Theotokos, * speedily deliver my soul from its listlessness * and from its depression. * Never fail, I entreat you, to raise me up * from my soul's afflictions * and from my sins, O virgin Mother, * for you have this unfailing ability."
+meMA.Ode5C12.text = ""
 
 meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C13.mode = misc_en_US_dedes.Mode8
 meMA.Ode5C13.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
-meMA.Ode5C13.text = "Lady, truly you are a * river of divine gifts, a wellspring of remedies * and a stream of healings. * I your servant, O Mother, now pray to you: * Take away the limits * upon on my narrow soul and lead me * to the breadth of dispassion, O Bride of God."
+meMA.Ode5C13.text = ""
 
-meMA.Ode5C14.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C14.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C14.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
-meMA.Ode5C14.text = "All creation, O Lady, * wonders how carried the incomprehensible * Logos in your body, * ever-virgin and pure Mother of our God; * and, as you foretold it, * the world's languages and peoples * call you blessed for ever and evermore."
+meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C1T.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C1T.text = ""
 
 meMA.Ode5C21.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C21.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
-meMA.Ode5C21.text = "You were mighty in seeing * what would be the life and deeds of those who came to you, * and to each you offered * words of counsel and guidance that suited them, * leading to salvation; * and thus you showed concern and mercy * for them all, O God-bearing Paisios."
+meMA.Ode5C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C21.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C21.text = ""
 
 meMA.Ode5C22.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C22.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
-meMA.Ode5C22.text = "Without property, gentle, * and a most attentive worker of noetic prayer, * friend of peace, O father, * an unshakable worker of charity, * supporter of the people, * and one of God's belov'd familiars: * this was you, godly-minded Paisios."
+meMA.Ode5C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C22.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C22.text = ""
 
 meMA.Ode5C23.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C23.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
-meMA.Ode5C23.text = "Holy father, you counseled * babblers who were wholly led astray by heresies * of the wicked devil, * and with Orthodox doctrines instructed them, * O all-blessed elder; and with your teachings, signs and wonders * you convinced them, devout St. Paisios."
+meMA.Ode5C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C23.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C23.text = ""
 
 meMA.Ode5C2T.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C2T.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
-meMA.Ode5C2T.text = "Eve, our ancestral mother, * once received the curse upon the human race of old. * You, O Theotokos, by your childbirth brought forth the peace and joy * unto all, O Lady, * and therefore we your loyal servants * have you as our protectress and patroness."
-
-meMA.Ode5C31.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C31.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C31.melody = he.h.m8_en_US_dedes.FotisonImas.name
-meMA.Ode5C31.text = "Lifting up your hands * to the Lord you prayed, O modest Saint, * for the young men who had fallen into sin * and who sought your help and power, O Paisios."
-
-meMA.Ode5C32.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C32.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C32.melody = he.h.m8_en_US_dedes.FotisonImas.name
-meMA.Ode5C32.text = "By your prayers to God * you released the hold that anarchy * had on many younger men who came to you * at your cabin, O wise father St. Paisios."
-
-meMA.Ode5C33.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C33.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C33.melody = he.h.m8_en_US_dedes.FotisonImas.name
-meMA.Ode5C33.text = "By the grace of God, * you directed many younger men * to the road of Christ, O venerable Saint, * and you showed them what was excellent about their life."
-
-meMA.Ode5C3T.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C3T.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C3T.melody = he.h.m8_en_US_dedes.FotisonImas.name
-meMA.Ode5C3T.text = "We know you to be * for believers an unbroken wall * and unshakable foundation, O all-pure * Theotokos, and our shelter, by your childbirth."
-
-meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C1H.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
-meMA.Ode6C1H.text = he.h.m8_en_US_dedes.IlasthitiMoiSotir.text
+meMA.Ode5C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode5C2T.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+meMA.Ode5C2T.text = ""
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode8
 meMA.Ode6C11.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
-meMA.Ode6C11.text = "O pure Mother, in the night * of sinful passions I carelessly * have fallen into a pit; * the pleasures now hold me down. * I pray you to raise me up * by your rays, O Lady, * shining light into my mind again."
+meMA.Ode6C11.text = ""
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode8
 meMA.Ode6C12.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
-meMA.Ode6C12.text = "O Virgin, using the sword * of your petitions decisively * slice the knot of my sins, * and save me, and grant to me * repentance, so that I may * in my life move forward * on the straight way, O Immaculate."
+meMA.Ode6C12.text = ""
 
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_dedes.Mode8
 meMA.Ode6C13.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
-meMA.Ode6C13.text = "Bring up out of the abyss * of desperation the multitudes * of Christians who turn to you * with faith and who cry to you, * \"Virgin Mary, never cease * praying for your servants * to your Son who is our Lord and God.\""
+meMA.Ode6C13.text = ""
 
-meMA.Ode6C14.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C14.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C14.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
-meMA.Ode6C14.text = "O Lady, I am transfixed * with fear remembering Judgment Day, * alas, when that awful book * is opened exhibiting * my actions and all my sins * that I have committed. * Therefore strengthen me, for I am poor."
+meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C1T.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+meMA.Ode6C1T.text = ""
 
 meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C21.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
-meMA.Ode6C21.text = "Devout father, having led * your life on earth very sensibly, * you sensibly gave advice * and nurtured with holy words * the faithful who came to you. * You were an example * of a pure life and of piety."
+meMA.Ode6C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C21.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C21.text = ""
 
 meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C22.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
-meMA.Ode6C22.text = "Paisios, like a spring * you poured out waters of self-control, * refreshing the thirsty droves * of young men who came to you. * You guided them from their ways * of unruly living * to the channel of the grace of God."
+meMA.Ode6C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C22.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C22.text = ""
 
 meMA.Ode6C23.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C23.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
-meMA.Ode6C23.text = "Devout father, many times * during your life you judiciously * and knowledgeably upheld * and guarded the Orthodox * dogmas, as a God-inspired * teacher of the Holy * Mountain Athos, O Paisios."
+meMA.Ode6C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C23.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C23.text = ""
 
 meMA.Ode6C2T.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C2T.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
-meMA.Ode6C2T.text = "Devout father, when you died * your soul was taken up to the Lord's * divine mansions in the heights * near His Mother. As reward * for your labors you received * grace to cure diseases * and to comfort those in dire straits."
-
-meMA.Ode6C31.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C31.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C31.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
-meMA.Ode6C31.text = "Paisios, * in the monastery of * Souroti your holy body is treasured, * O godly-minded one, and to the faithful * it truly gives them divine gifts abundantly: * it cures diseases of the soul * and it remedies physical suffering."
-
-meMA.Ode6C32.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C32.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C32.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
-meMA.Ode6C32.text = "God-bearing Saint, * you have recently appeared * many times, and we have seen you, O father. * Now you are known as an expert physician * of those with all kinds of cancer, Paisios. * You give support to those in pain, * and you cure those possessed by the evil one."
-
-meMA.Ode6C33.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C33.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C33.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
-meMA.Ode6C33.text = "The enemy's * vaunted pride is shaken now * by your holy power, all-blessed father. * For you, O elder Paisios, came forth * as if alive from your tomb to release a boy * who possessed and set him free * from the enemy's bondage and wickedness."
-
-meMA.Ode6C3T.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C3T.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C3T.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
-meMA.Ode6C3T.text = "I do not have * grace's gift of tears to weep * and lament my many sins and transgressions, * all-holy Mother; I lack in compunction, * and I have no saving sighs of the heart, alas! * By your entreaties to the Lord * break this awful and ill-tempered attitude."
+meMA.Ode6C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode6C2T.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode8
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.TiYpermacho.name
-meMA.Kontakion1.text = "The Holy Mountain's great and widely known ascetic * is now the Church's newly shining luminary. * We wholeheartedly extol him in song and cry out: * Having guided us the faithful to a higher life, * you have filled us with the rivers the gifts of grace. * Now we cry to you: Rejoice father Paisios!"
+meMA.Kontakion1.text = ""
 
-meMA.Oikos1.text = "Athos, that Holy Mountain, in recent times observed you, Paisios, to be like an angel. Those around you observed how you led a devout life on earth, and they considered you an equal to the earliest ascetics. And now they warmly salute you:"
-meMA.Oikos12.text = "Rejoice, you are Farasa's holy offspring; rejoice, the great treasure of the Holy Mountain!"
-meMA.Oikos13.text = "Rejoice, you are Konitsa's God-given pride and joy; rejoice, you are Souroti Convent's embellishment!"
-meMA.Oikos14.text = "Rejoice, gushing fountain of supernatural gifts; rejoice, flowing river of life-saving cures!"
-meMA.Oikos15.text = "Rejoice, for you honored the Monastery of Esphigmenou; rejoice, for you dwelt at the monastery on Mt. Sinai!"
-meMA.Oikos16.text = "Rejoice, as the chief of a humbler human race; rejoice, as a holder of multiple gifts of grace!"
-meMA.Oikos17.text = "Rejoice, the reliever of pain for the ailing; rejoice, for the monks you were teacher and prophet!"
-meMA.Oikos18.text = "Rejoice, father Paisios!"
+meMA.Oikos1.text = ""
+meMA.Oikos12.text = ""
+meMA.Oikos13.text = ""
+meMA.Oikos14.text = ""
+meMA.Oikos15.text = ""
+meMA.Oikos16.text = ""
+meMA.Oikos17.text = ""
+meMA.Oikos18.text = ""
 
 meMA.Synaxarion.text = ""
 
-meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C1H.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
-meMA.Ode7C1H.text = he.h.m8_en_US_dedes.TheouSynkatavasin.text
-
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C11.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
-meMA.Ode7C11.text = "O Virgin who knew no man, * you among women alone have given birth * to the Lord and Creator; * and therefore all generations of mankind * rightly extol you, O Mother, and cry aloud * to Him, \"O God of our fathers, blessed are you!\""
+meMA.Ode7C11.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+meMA.Ode7C11.text = ""
 
 meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C12.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
-meMA.Ode7C12.text = "Immaculate Maid, indeed * in you the faithful who call your holy name * are empowered and strengthened, * and the maleficent fiend is put to shame, * hearing your name being uttered by everyone, * for it is sweetest indeed, all-holy Mother most pure."
+meMA.Ode7C12.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+meMA.Ode7C12.text = ""
 
 meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C13.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C13.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
-meMA.Ode7C13.text = "O Lady, make manifest * to us your servants the holy light of your face; * you, O Maiden, within you * received the light, namely Christ our Savior and Lord, * which light illumines the faithful who cry aloud * to Him, \"O God of our fathers, blessed are you!\""
+meMA.Ode7C13.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+meMA.Ode7C13.text = ""
 
-meMA.Ode7C14.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C14.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C14.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
-meMA.Ode7C14.text = "O Mother, you have become * a peaceful haven for faithful Orthodox. * You are trusted insurance * for those possessing no other kind in this life, * who ever pray and unceasingly cry aloud * the song, \"O God of our fathers, blessed are you!\""
+meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C1T.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+meMA.Ode7C1T.text = ""
 
 meMA.Ode7C21.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C21.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
-meMA.Ode7C21.text = "O father Paisios, * when you instructed the youth who came to you, * you gave excellent counsel * that they should choose marriage or the monastic life. * Therefore together with you they would cry aloud * the hymn, \"O God of our fathers, blessed are you!\""
+meMA.Ode7C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C21.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C21.text = ""
 
 meMA.Ode7C22.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C22.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
-meMA.Ode7C22.text = "With fortitude you endured * your body's illnesses, O Paisios, * and considered as comfort * the pain and suffering that you often had. * You thus received in abundance the grace of God * to cure all kinds of diseases miraculously."
+meMA.Ode7C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C22.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C22.text = ""
 
 meMA.Ode7C23.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C23.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
-meMA.Ode7C23.text = "Devout man, you rose above * the sinful passions that afflict the human soul; * and divine inspiration * made you superior, O Paisios, * to the distress of your body's infirmities, * for you, O father, loved Christ our Savior and God."
-
-meMA.Ode7C24.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C24.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C24.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
-meMA.Ode7C24.text = "The Convent of Souroti * ever exults, O father Paisios, * and is glad as it treasures * your holy grave as source of the Spirit's gifts. * The nuns unceasingly sing to the King of all * the hymn, \"O God of our fathers, blessed are you!\""
+meMA.Ode7C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C23.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C23.text = ""
 
 meMA.Ode7C2T.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C2T.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
-meMA.Ode7C2T.text = "The streams of your miracles, * O all-immaculate Maiden, liberate * all the classes of people * born on earth from devil's deceptive ways, * and from the sway of the passions and from distress * and from the ills of the flesh and life's coincidences."
-
-meMA.Ode7C31.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C31.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C31.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
-meMA.Ode7C31.text = "Practitioner of fasting * and a lover of prayer, obedient to the Lord, * a teacher of the young men * and an expert physician * of the sick and the suffering: * in recent times you, O Saint * Paisios, were all these."
-
-meMA.Ode7C32.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C32.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C32.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
-meMA.Ode7C32.text = "You led your life on Athos * and in other locations with great sobriety * and righteousness, O Elder, * and you received the great gift * of clairvoyance abundantly, * God-bearing father, and led * the faithful to salvation."
-
-meMA.Ode7C33.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C33.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C33.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
-meMA.Ode7C33.text = "By your words you enlightened * younger men who fell victim to the confusing thoughts * of the all-wicked devil, * explaining what the Lord's will * was for them, O Paisios, * and you described what they ought * to do to serve the Savior."
-
-meMA.Ode7C3T.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C3T.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C3T.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
-meMA.Ode7C3T.text = "We pray you count us worthy * by your strong intercessions to see the face of Christ * your Son; for we all honor * you and your holy Icon, * which we lovingly venerate. * Maiden you are our divine * protectress and defender."
-
-meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C1H.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
-meMA.Ode8C1H.text = he.h.m8_en_US_dedes.EptaplasiosKaminon.text
+meMA.Ode7C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode7C2T.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+meMA.Ode7C2T.text = ""
 
 meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C11.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C11.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
-meMA.Ode8C11.text = "O Lady, to your Son and God * you united the human race, * which had been held captive by the wicked enemy. * For He who is Lord of all * without the seed of man did indeed * by your purest blood assume humanity's nature, * in His extreme compassion, * and took to heaven Adam, * who had been led astray by the evil one's deception."
+meMA.Ode8C11.melody = he.h.m8_en_US_dedes.TonEnOreiAgio.name
+meMA.Ode8C11.text = ""
 
 meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C12.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
-meMA.Ode8C12.text = "O Ever-Virgin, you gave birth * to the passage returning us * to salvation. Therefore, I entreat you guide me on * the straight way, O Maiden pure, * and make direct the path that my soul * has to follow to arrive at the place of repentance. * For now I am extending * my hands to you in prayer * to save me from Gehenna's insufferable darkness."
+meMA.Ode8C12.melody = he.h.m8_en_US_dedes.TonEnOreiAgio.name
+meMA.Ode8C12.text = ""
 
 meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C13.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C13.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
-meMA.Ode8C13.text = "Pure Virgin, we extol your grace * and wholeheartedly honor you, * and we also ask for what is needful for our souls: * continual penitence, * a reserved and sober frame of mind, * the gift of self-control, the cessation of passions, * straightforwardness in living; * grant our souls to be humble, * our hearts to be illumined, our prayer to be unceasing."
+meMA.Ode8C13.melody = he.h.m8_en_US_dedes.TonEnOreiAgio.name
+meMA.Ode8C13.text = ""
 
-meMA.Ode8C14.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C14.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C14.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
-meMA.Ode8C14.text = "By hiding His divinity * under flesh did your Son and Lord * crush the devil's arrogance triumphantly as God, * O Lady; and now the force * of the curse has been neutralized. * For the Lord of all in His extreme tender-mercy * in supernatural manner * has assumed human nature * from you, O Theotokos, and saved us all, O Virgin. "
+meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C1T.melody = he.h.m8_en_US_dedes.TonEnOreiAgio.name
+meMA.Ode8C1T.text = ""
 
 meMA.Ode8C21.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C21.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
-meMA.Ode8C21.text = "With pleasure did the multitudes * of the faithful converge on you * on the Holy Mountain to receive your grace and strength, * O venerable and devout * holy father Paisios. * For the gifts of grace that you possessed from God were many. * And you were the supporter * and a cane of assistance * for many who were needy in modern times, O Elder."
+meMA.Ode8C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C21.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C21.text = ""
 
 meMA.Ode8C22.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C22.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
-meMA.Ode8C22.text = "Devout one, having learned the facts * of the excellence of your life, * on Mt. Athos and in other places they extol * and worship the Friend of man, * our Lord Jesus, and honor you. * For in recent times you like a star have arisen, * and you dispelled the darkness * for the suffering people * by words and deeds and prayer * for them, all-blessed father."
+meMA.Ode8C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C22.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C22.text = ""
 
 meMA.Ode8C23.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C23.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
-meMA.Ode8C23.text = "You often stood all night in prayer * and you practiced protracted fasts; * thus all-blessed father, you were an exemplary * ascetic and model for * monks on Athos and Sinai as well. * For with all your heart you lifted hands up in prayer * to Christ our Lord and Savior * on behalf of all people, * O godly-minded Elder and equal of the Fathers."
+meMA.Ode8C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C23.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C23.text = ""
 
 meMA.Ode8C2T.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C2T.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
-meMA.Ode8C2T.text = "O Lady, pure and undefiled, * we are sick from our many sins * and from worldly cares and the anxiety of life * and passions that plague the soul. * Now with our humble hymns to you * we all sing to honor you and also entreat you, * that you will not abandon * your servants who extol you, * but ever lift us out of the pit of our offences."
-
-meMA.Ode8C31.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C31.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C31.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
-meMA.Ode8C31.text = "Your grave, O father, * in Souroti is a meadow * where the spiritual gifts of grace have blossomed, * also cures and healings * of various diseases."
-
-meMA.Ode8C32.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C32.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C32.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
-meMA.Ode8C32.text = "We all extol you * with all our heart, O God-bearing * St. Paisios, and honor you by keeping * your annual feast-day, * and pray to have your blessing."
-
-meMA.Ode8C33.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C33.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C33.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
-meMA.Ode8C33.text = "The evil dragon * creeps up on me to surprise me * and disturb my sorry soul, O holy father; * but mighty and hopeful shall I be by your power. "
-
-meMA.Ode8C3T.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C3T.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C3T.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
-meMA.Ode8C3T.text = "Most holy Virgin, * you have appeared as the savior * of humanity for giving birth without seed * to Christ the Life-giver, the Logos of the Father."
-
-meMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C1H.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
-meMA.Ode9C1H.text = he.h.m8_en_US_dedes.ExestiEpiTouto.text
+meMA.Ode8C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode8C2T.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+meMA.Ode8C2T.text = ""
 
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_dedes.Mode8
 meMA.Ode9C11.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
-meMA.Ode9C11.text = "O Virgin, I prevail now against the foe, * O immaculate Lady, by calling on your sacred name, * for you are the one who gave birth to God * and trampled on the serpent's head * and on his defiled demonic hosts, * and brought to all of mankind * forgiveness of offences * and the emancipation of our souls."
+meMA.Ode9C11.text = ""
 
 meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C12.mode = misc_en_US_dedes.Mode8
 meMA.Ode9C12.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
-meMA.Ode9C12.text = "O Virgin cleanse the looking-glass of my soul * and my spiritual eyes by your sacred prayers, I entreat, * so that I may see clearly the divine * all-holy will of Christ and His * life-bearing commandments and sacred rules, * all-blessed Theotokos, and that I may stop sinning * in thoughts the enemy has sowed in me."
+meMA.Ode9C12.text = ""
 
 meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C13.mode = misc_en_US_dedes.Mode8
 meMA.Ode9C13.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
-meMA.Ode9C13.text = "Your form, which is ineffable, brings great joy * in the heavens above to the hosts of angels, and below * on the earth it sweetens believers' souls, * O Mother all-immaculate, and it moves our minds to the holy work * of Christ's divine commandments, * and also it inspires us * to venerate your icon piously."
+meMA.Ode9C13.text = ""
 
-meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C14.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C14.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
-meMA.Ode9C14.text = "The joy of all the Orthodox everywhere, * and a fortress protecting creation all, are you, O Maid; * heaven's great adornment, and for the poor * a helper, and the hope of those * who are are in despair with no other hope, * support for the who suffer * are you, O Theotokos, * and the delight of all the universe."
+meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C1T.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+meMA.Ode9C1T.text = ""
 
 meMA.Ode9C21.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C21.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
-meMA.Ode9C21.text = "Once you had rid yourself of the slime of sin, * then you washed clean the eye of your soul, and with it you could see * the grievous diseases of flesh and soul * of those who came and sought your help * as they really were, O all-blessed Saint. * You diagnosed them rightly * and guided them expertly * to getting better, O Paisios."
+meMA.Ode9C21.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C21.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C21.text = ""
 
 meMA.Ode9C22.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C22.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
-meMA.Ode9C22.text = "Even as did the fathers of old, so you * in a God-pleasing manner did take the narrow the way of Christ, * wondrous St. Paisios, and became * in recent years an equal of * Tikhon and your fellow ascetics all * on Holy Mountain Athos, * and left us an example * of holy life for us to imitate."
+meMA.Ode9C22.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C22.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C22.text = ""
 
 meMA.Ode9C23.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C23.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
-meMA.Ode9C23.text = "We joyfully now honor you and extol * with decorum your annual memory with sacred hymns. * Father, keep us safe from the devil's harm, * and by your prayers guard us from * any bad experiences of life * and dizziness of sinning, * for you have ample access * praying in heaven, being blest by God."
+meMA.Ode9C23.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C23.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C23.text = ""
+
+meMA.Ode9C24.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C24.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C24.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C24.text = ""
 
 meMA.Ode9C2T.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C2T.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
-meMA.Ode9C2T.text = "O Virgin Theotokos, we pray to you: * Use your power to counter the evil one's raging assaults. * You can do this for you have given birth * most wondrously to Christ who has * disappeared the haughtiness of the foe, * that ancient dragon, crushing * its skull with a loud sound, * as a most famous Athlete that He is."
-
-meMA.Ode9C31.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C31.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C31.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
-meMA.Ode9C31.text = "We see your grace and also * all the cures and healings * that you perform every day, O praiseworthy Saint, * and we extol your devout life, father Paisios."
-
-meMA.Ode9C32.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C32.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C32.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
-meMA.Ode9C32.text = "A stream of supernatural * gifts of grace is what your * all-holy grave has become, O Paisios, * in Souroti, granting healing * of soul and body to all."
-
-meMA.Ode9C33.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C33.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C33.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
-meMA.Ode9C33.text = "Your memory is honored * joyfully, O father, * in Souroti, on Mt. Athos, in Konitsa, * and in the Church the world over, * O St. Paisios."
-
-meMA.Ode9C3T.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C3T.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C3T.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
-meMA.Ode9C3T.text = "Your Son is whom I worship, * Mother Theotokos; * I venerate and I honor with hymns of praise * your face's beauty in icons, * O ever-blessed one."
+meMA.Ode9C2T.mode = misc_en_US_dedes.Mode4
+meMA.Ode9C2T.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-meMA.Exaposteilarion1.text = "With songs and hymns inspired by God * we praise devout Paisios, * the boast of the Holy Mountain * and Souroti's overseer, * the guide and teacher of the youth, *  supporter of the destitute * in word and in loving action. * Come let us extol and honor * his life and his works and manner."
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
-meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-meMA.ExapTheotokion.text = "O Virgin glorified by God, * the strong support of Christians all, * the awe-inspiring protection * of people who have no power, * the restoration of the sick, * the vigor of the suffering, * the shelter of the whole wide world: * in unison we your servants * with dignity now extol you."
+meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.ExapTheotokion.text = ""
 
-meMA.Lauds1.mode = misc_en_US_dedes.Mode8
-meMA.Lauds1.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
-meMA.Lauds1.text = "What are we to call you, O holy man? * Son of Farasa, and greatly treasured jewel of Konitsa, * and the guide of Souroti and the ascetic of Sinai; * of Athos decoration of the highest rank, * example set for all of Greece to imitate. * Paisios, glorified by God, * our fine adornment, our pride and joy, * intently pray and entreat the Lord to save our souls."
+meMA.Lauds1.mode = misc_en_US_dedes.Mode1
+meMA.Lauds1.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+meMA.Lauds1.text = ""
 
-meMA.Lauds2.mode = misc_en_US_dedes.Mode8
-meMA.Lauds2.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
-meMA.Lauds2.text = "How shall I address you, Paisios? * You were father for the youth, their shining spiritual guide; * a fantastic virtue-trainer and a coach for monks and nuns; * a healer of the ill in body, mind and soul; * a fighter of the demons, which you drove away. * In recent years you were seen to be * of equal standing to saints old, * those great teachers of our souls, who lived in ages past."
+meMA.Lauds2.mode = misc_en_US_dedes.Mode1
+meMA.Lauds2.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+meMA.Lauds2.text = ""
 
-meMA.Lauds3.mode = misc_en_US_dedes.Mode8
-meMA.Lauds3.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
-meMA.Lauds3.text = "What may I now call you, Paisios? * The deliverer of men who were addicted to drugs; * the revealer to believers of events as yet to come; * fantastic disciplinarian of atheists; * supporter of the frightened, and encouragement. * Praise-worthy father, you led a life * of strict ascetical discipline, * and you received supernatural gifts of grace from God."
+meMA.Lauds3.mode = misc_en_US_dedes.Mode1
+meMA.Lauds3.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+meMA.Lauds3.text = ""
 
-meMA.Lauds4.mode = misc_en_US_dedes.Mode8
-meMA.Lauds4.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
-meMA.Lauds4.text = "O God-bearing father Paisios, * never cease entreating Christ our Savior earnestly for us * the believers who extol you singing hymns with ardent faith. * For you have access to the Lord to speak to Him. * Devout one, you received abundant gifts from Him: * the gifts of foresight and prophecy, * the gift of healing the suffering * of body and soul, O all-honored ever-blessed Saint."
+meMA.Lauds4.mode = misc_en_US_dedes.Mode1
+meMA.Lauds4.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+meMA.Lauds4.text = ""
 
-meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
+meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = "O devout father Paisios, the proclamation of your achievements has gone out into all the land of Greece and the whole wide world. As if an angel incarnate, you proclaimed the life-giving teachings of the Gospel, from Athos to all the earth. Also by the way you lived and by what you did, you were a model for monastics, a teacher of laypeople, a guide for the youth, a supporter of convents, and a friend to all. We now humbly pray to you, O Saint: Never cease interceding with the Lord, on behalf of our souls."
+meMA.LaudsGlory.text = ""
 
-meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
+meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
 meMA.LaudsTheotokion.melody = ""
-meMA.LaudsTheotokion.text = oc.m8.d2_en_US_dedes.ocMA.AposTheotokion.text
+meMA.LaudsTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
@@ -785,9 +590,9 @@ meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meMegalynarion.text = "Rejoice, O companion of the Devout, * glory of Mt. Athos, and the new teacher of the  Church! * Adornment of monastics, our pride and joy, O father, * rejoice, O godly-minded Elder Paisios."
+meMegalynarion.text = ""
 
-//------------------------------
+//----------------------
 
 alt1.meDate.text = "July 12"
 alt1.meCommemoration.text = "" //full title of day
@@ -1063,3 +868,792 @@ alt1.meLI.SeasonalKontakion.melody = ""
 alt1.meLI.SeasonalKontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 
 alt1.meMegalynarion.text = ""
+
+
+alt2.meDate.text = "July 12" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt2.meCommemoration.text = "Memory of our Devout and God-bearing Father Paisios of the Holy Mountain Athos" // full title of day
+alt2.meCommemoration2.text = "" // full title of day
+alt2.meShortCommemoration1.text = ""
+alt2.meInsert1 = "and our devout and God-bearing father Paisios of the Holy Mountain Athos," // for use in petitions and dismissal
+alt2.meInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
+alt2.meNote.text = ""
+alt2.meLE.commemoration1 = ""
+alt2.meLE.commemoration2 = ""
+alt2.meHO.number = ""
+alt2.meHO.rank = ""
+alt2.meHO.commemorations = ""
+alt2.meHO.note1 = ""
+alt2.meHO.note2 = ""
+alt2.meDismissal = ""
+
+alt2.meSV.Stichera1.mode = misc_en_US_dedes.Mode4
+alt2.meSV.Stichera1.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+alt2.meSV.Stichera1.text = "O devout Paisios, the fruitful tree brought from Farasa, * pride and joy of your ancestors, * boast of Athos and the Church * are you, holy father. * For you were a pillar of self-control in recent years, * and you were known for your signs and miracles. * Now we the congregations of believers dutifully extol * your sublime life with sacred hymns, * O most marvelous man of God."
+
+alt2.meSV.Stichera2.mode = misc_en_US_dedes.Mode4
+alt2.meSV.Stichera2.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+alt2.meSV.Stichera2.text = "Father, from an early age you had intense and invincible * love and longing for Christ the Lord. * So you read biographies * of devout monastics * and of all the saints, and selected them to be your guides * in ways of piety and the Christian life, * becoming a devoted follower in fasting and self-control, * O Paisios graced by God, * the adornment of Konitsa."
+
+alt2.meSV.Stichera3.mode = misc_en_US_dedes.Mode4
+alt2.meSV.Stichera3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+alt2.meSV.Stichera3.text = "You banished the thoughts that the ferocious enemy shot at you, * most devout St. Paisios, * and since you were very pure * truly you accepted * the resplendent image of Christ the Savior in your heart, * which drove away atheistic thoughts from you. * Then you proclaimed the riches of the true and Orthodox Christian faith, * holy father, to all the world, * and its dogmas and practices."
+
+alt2.meSV.Stichera4.mode = misc_en_US_dedes.Mode4
+alt2.meSV.Stichera4.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+alt2.meSV.Stichera4.text = "O devout Paisios, you had the heavenly energy * of the Trinity moving you * from childhood, and you received * grace's gift of fasting. * Having as you did a consuming love for all the saints, * you put away every childish pursuit; * and thus you caused your relatives and all who knew you to be amazed, * indicating even from then * the direction your life would take."
+
+alt2.meSV.SticGlory.mode = misc_en_US_dedes.Mode2
+alt2.meSV.SticGlory.melody = ""
+alt2.meSV.SticGlory.text = "We all recognize your untiring ascetic efforts as illustrious models of life to be imitated, O God-bearing St. Paisios. When you vanquished the uprisings of the passions, in recent years, you rose like a sun, on Mt. Athos and elsewhere, glowing with miracles and teachings. Therefore we pray you, never cease to drive away the darkness from your minds, by your intercessions, so that we may all obtain the great mercy."
+
+alt2.meSV.SticBoth.mode = misc_en_US_dedes.Mode2
+alt2.meSV.SticBoth.melody = ""
+alt2.meSV.SticBoth.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
+
+alt2.meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
+alt2.meSV.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+alt2.meSV.Aposticha1.text = "Sinai and Konitsa * and Holy Mountain Athos * are proud in celebrating * you memory, O father * Paisios, thrice-blessed Saint."
+
+alt2.meSV.Aposticha2.mode = misc_en_US_dedes.Mode2
+alt2.meSV.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+alt2.meSV.Aposticha2.text = "Multitudes come with faith * to venerate your holy * and sacred grave, O father * Paisios, and hope to * receive the grace you have from God."
+
+alt2.meSV.Aposticha3.mode = misc_en_US_dedes.Mode2
+alt2.meSV.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+alt2.meSV.Aposticha3.text = "Everyone knows you as * a fervent intercessor * with Christ, all-blessed father * Paisios, and thus they receive the answers to their prayers."
+
+alt2.meSV.AposGlory.mode = misc_en_US_dedes.Mode2
+alt2.meSV.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+alt2.meSV.AposGlory.text = "Having within your soul * the light of the all-holy * Trinity, blessed Elder, * you brighten those who honor * your name, O St. Paisios."
+
+alt2.meSV.AposBoth.mode = misc_en_US_dedes.Mode2
+alt2.meSV.AposBoth.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+alt2.meSV.AposBoth.text = "Cease not to intercede * with Christ, your Son, our Savior, * for us who sing the praises * of your most wondrous childbirth, * O Lady Mary, Bride of God."
+
+alt2.meVE.Stichera01.mode = misc_en_US_dedes.Mode1
+alt2.meVE.Stichera01.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+alt2.meVE.Stichera01.text = "From childhood you ardently desired * the monastic way of life and loved the lifestyle of stillness, O devout Paisios. * Therefore, holy father, * like an angel in the flesh, you looked beyond all worldly enticements and ephemeral delights, * and you focused mind and heart on those * that forever * endure there in Paradise."
+
+alt2.meVE.Stichera02.mode = misc_en_US_dedes.Mode1
+alt2.meVE.Stichera02.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+alt2.meVE.Stichera02.text = "When you were enlisted in the ranks * of your nation's army, you were for your fellows a good example, Godly-minded Saint. * After that you joined up * with monastic regiments, and you became a trainer of many in the ways of piety, * with your sayings, signs and miracles, * by divine grace * of Christ, O Paisios."
+
+alt2.meVE.Stichera03.mode = misc_en_US_dedes.Mode1
+alt2.meVE.Stichera03.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+alt2.meVE.Stichera03.text = "You went up to Sinai's holy mount, * imitating Moses and devout St. John, author of the Ladder of Divine Ascent, * living in ascetic * discipline, O glorious Paisios, and fasting as if you had no flesh, and so received * from the Spirit gifts of grace divine, * like the fathers * and saints had received of old."
+
+alt2.meVE.Stichera04.mode = misc_en_US_dedes.Mode1
+alt2.meVE.Stichera04.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+alt2.meVE.Stichera04.text = "You went to Mt. Athos early on: * Esphigmenou had you as a most obedient novice, O devout Paisios; * and to Philotheou * you brought glory. You became a brother of the Stomion Monastery up in Konitsa. * Then on Sinai, living as a man * like an angel, * you provided for the Bedouins there."
+
+alt2.meVE.Stichera05.mode = misc_en_US_dedes.Mode1
+alt2.meVE.Stichera05.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+alt2.meVE.Stichera05.text = "O father, by teaching them in word * and by many miracles, you gave support to the cenobitic nuns of Souroti. * You became a truly * God-enlightened trainer of those pious women, teacher and guide as well. The Monastery now * is exultant, for it has your grave, * which it treasures, * O holy Paisios."
+
+alt2.meVE.Stichera06.mode = misc_en_US_dedes.Mode1
+alt2.meVE.Stichera06.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+alt2.meVE.Stichera06.text = "Ascetic Paisios, you cared * for the younger generation. Those who suffered from mental illness had you as their help. * You delivered young men * who had been addicted to narcotics and to smoking the devil's weed. And atheists you cured. * You supported students; and to all * you were friendly, * familiar and affable."
+
+alt2.meVE.SticGlory.mode = misc_en_US_dedes.Mode6
+alt2.meVE.SticGlory.melody = ""
+alt2.meVE.SticGlory.text = "You followed the way of the ascetics, and you were on a fast track to the work of virtue, O God-bearing Paisios. You wholeheartedly renounced the earthy man of dust, and your mind and heart engaged in unceasing prayer, and contemplation of the uncreated light. We who have tasted your spiritual gifts extol you, O devout Saint, and with gladness we say to you: Rejoice, O son of Farasa, the glory of Athos, the pillar of Konitsa, the teacher of monastics, and the resident of Sinai! Rejoice, for you put on the robe of dispassion, and thus you were able to guide the youth, restore those who had fallen, and return those who were lost. Rejoice, for you were a model for monks and nuns, an example for laypeople, and refreshment and rest for Orthodox believers. And now, O Elder adorned by God, unceasingly entreat Christ our God, for us who with compunction observe the annual celebration of your memory."
+
+alt2.meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
+alt2.meVE.SticTheotokion.melody = ""
+alt2.meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
+
+alt2.meVE.Lity1.mode = misc_en_US_dedes.Mode1
+alt2.meVE.Lity1.melody = ""
+alt2.meVE.Lity1.text = "Rejoice in the Lord, O Athonite community of monks and ascetics, for in recent years devout Paisios blossomed from your meadow like a flower in the spring. This extraordinary man, like a good agronomist, cultivated his soul, planted the tree of the virtues, and produced the fruits of dispassion, clairvoyance, and cures of diseases of soul and body. Therefore we now go to him with our supplications, and in faith we say: \"O Saint, intercede with our our merciful God, on behalf of us who extol your life and your many gifts of grace.\""
+
+alt2.meVE.Lity2.mode = misc_en_US_dedes.Mode2
+alt2.meVE.Lity2.melody = ""
+alt2.meVE.Lity2.text = "Having died to your own will, like Saint Paul, you were freed from the passions, and you put on the luminous garment of the Holy Spirit. Therefore as a seer, you were granted to see people's thoughts, to foreknow the future, and to say what was needed to those who came to you, father Paisios. Now we also stretch out our hands to you, since your prayers avail much, and we beg that by your petitions we may cross the sea of life, and reach the port of the Kingdom of Heaven."
+
+alt2.meVE.Lity3.mode = misc_en_US_dedes.Mode3
+alt2.meVE.Lity3.melody = ""
+alt2.meVE.Lity3.text = "O devout father, every day many people would line up around your cabin, as if it were an ark of salvation; one would be seeking the salvation of his soul, another the cure for a disease, and yet another the correction of his thoughts, or the solution for a problem in his life. We the faithful likewise now come to your tomb, seeking the same things, O Elder Paisios. We pray that they and we may obtain our requests, O ever-blessed Saint."
+
+alt2.meVE.Lity4.mode = misc_en_US_dedes.Mode4
+alt2.meVE.Lity4.melody = ""
+alt2.meVE.Lity4.text = "When you had crossed over the salty sea of the passions, and had dashed to the ground the haughtiness of the evil spirits, you became a vessel of the Holy Spirit, O most devout Paisios. You cleansed the looking glass of your mind, and then you saw the Lord, God and man, His all-pure Mother, the glorious martyrs Lucillian and Euphemia, and the faces of other saints. Join them now in praying to the Lord, to have mercy on our souls."
+
+alt2.meVE.LityGlory.mode = misc_en_US_dedes.Mode4
+alt2.meVE.LityGlory.melody = ""
+alt2.meVE.LityGlory.text = "Let us sing the accolades of devout Paisios, that imitator of Christ who lived on the Holy Mountain. He extinguished the raging fire of the passions with the river of his tears; he made his soul shine; he purified his mind and became a vessel of grace that shined like burnished gold. And now that he is in the company of the holy ascetics, he continually intercedes on behalf of those who call upon his venerable name."
+
+alt2.meVE.LityBoth.mode = misc_en_US_dedes.Mode4
+alt2.meVE.LityBoth.melody = ""
+alt2.meVE.LityBoth.text = oc.m4.d2_en_US_dedes.ocMA.AposTheotokion.text
+
+alt2.meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
+alt2.meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+alt2.meVE.Aposticha1.text = "Rejoice, Farasa's offspring and son, * the Holy Mountain's flowing river of gifts of grace, * the phoenix of true religion, * and Souroti's loving nurse,* and the good example for ascetics all, * the ornament of Sinai, and the guardian of Konitsa, brilliantly shining like a sun over all of Greece; * you were for the youth a protector and care-taker; * man who was heavenly indeed, and angel in flesh as well; * for the infirm a physician, for those in pain their relief and rest; * the marvelous new star * of the Church of Christ, O holy father Paisios. "
+
+alt2.meVE.Aposticha2.mode = misc_en_US_dedes.Mode5
+alt2.meVE.Aposticha2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+alt2.meVE.Aposticha2.text = "Rejoice, O modern-day Saint of God, * you were in all things ever ready to offer help; * the youngsters at Athoniada saw an example for life. * You proclaimed the truth of Orthodoxy well. * The suffering found relief, misbehavers found discipline, * and those in need found speedy help and support from you, * those who were in trouble found permanent happiness. * You were a refuge sent by God, * a safe and accepting place * for the believers who suffered from mental illness and phobias. * O topmost addition * to the list of the devout saints, father Paisios!"
+
+alt2.meVE.Aposticha3.mode = misc_en_US_dedes.Mode5
+alt2.meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+alt2.meVE.Aposticha3.text = "Elder, in modern times you possessed * spiritual vision and clairvoyance, a gift from God, * and thus you became a teacher for those who followed the Faith, * Orthodox ascetics, laypeople and priests. * You accurately exposed thoughts and concepts of mind and heart * that had been hidden, godly father Paisios; * and by grace you cured mental illness and healed the soul. * Therefore the fame of you went out * in Greece and in all the world. * So people everywhere pray now to you, O father, entreating you * to help them and cure them * of the ills of soul and body, O ever-blessed Saint. "
+
+alt2.meVE.AposGlory.mode = misc_en_US_dedes.Mode8
+alt2.meVE.AposGlory.melody = ""
+alt2.meVE.AposGlory.text = "You led your life as an ascetic. When you had overcome all worldly pleasures, carnal appetites, and every luxury, O Elder Paisios, you received many visitations of divine grace. Once when you were in your cabin, you had a waking vision of the Great Martyr Euphemia; and the two of you discussed the events of her martyrdom, modestly speaking as friend to friend. Along with her, O devout Saint, never cease interceding continually on behalf of our souls."
+
+alt2.meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
+alt2.meVE.AposTheotokion.melody = ""
+alt2.meVE.AposTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
+
+alt2.meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
+alt2.meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.TisErimouPolitis.name
+alt2.meVE.Apolytikion1.text = "O believers, let us honor that offspring of Farasa, * the pride and joy of Athos, and a vessel full of gifts of grace, * Paisios, the peer of the devout * monastic saints for imitating them. * He protects from all distress and from worldly grief * the people who cry out with faith: * \"Glory to Christ who gave you His might; * glory to Him who put a crown on you; * glory to Him who through you is working cures for all.\""
+
+alt2.meVE.Apolytikion2.mode = misc_en_US_dedes.Mode3
+alt2.meVE.Apolytikion2.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
+alt2.meVE.Apolytikion2.text = "In the world you were as if an angel * in these latter years, O holy father, * imitator of Christ, St. Paisios. * Living on Athos with strict ascetic discipline, * you were illumined and shone like a brilliant sun, * and you shined on all the faithful by grace divine, * by means of your words, signs and miracles."
+
+alt2.meVE.Apolytikion3.mode = misc_en_US_dedes.Mode4
+alt2.meVE.Apolytikion3.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+alt2.meVE.Apolytikion3.text = "Paisios, you became a great foundation for monks. * Mt. Athos is proud of you; for Souroti you provide; * and Konitsa boasts in you. * You received the many gifts of grace from the Spirit, * by following in the footsteps of Arsenios the Cappadocian. * You generously give what is needful * to those who now honor you."
+
+alt2.meVE.Apolytikion4.mode = misc_en_US_dedes.Mode5
+alt2.meVE.Apolytikion4.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
+alt2.meVE.Apolytikion4.text = "To the all-lauded man of Mt. Athos let us give * praise and honor, for he like a beacon burning bright * dispelled the darkness that beset believers in recent years; * supernaturally he cures the diseases of the soul * and heals the ailments of body; * he is a lamp of clairvoyance, the new devout St. Paisios."
+
+alt2.meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
+alt2.meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+alt2.meMA.Kathisma11.text = "As seen in saints of old, by the grace of the Savior, * you lived on friendly terms with the snakes and the reptiles * and other irrational wild beasts, O Paisios. * And all who saw you thus were overcome with amazement, * Godly-minded Saint, and they extolled Christ the Logos, * the Ruler of all and God."
+
+alt2.meMA.Kathisma1T.mode = misc_en_US_dedes.Mode1
+alt2.meMA.Kathisma1T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+alt2.meMA.Kathisma1T.text = "Paisios, you held the august holy Icon * of the Mother of God, called The Awesome Protection, * O holy one, and looked up to the heights; and to you appeared * her resplendent light, which shines on all and illumines. * Intercede along with her, the all-holy Virgin, * continually for our souls."
+
+alt2.meMA.Kathisma21.mode = misc_en_US_dedes.Mode3
+alt2.meMA.Kathisma21.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+alt2.meMA.Kathisma21.text = "With God-inspired hymns let us all sing in praise * of St. Paisios, wondrous in many ways. * He shamed the dragon's haughty brow, and crushed every carnal pleasure, * through ascetic discipline. * Therefore Athos is proud of him. * He was born in Farasa, * but the whole world now honors him, * and multitudes of Orthodox believers * benefit from his many wonders."
+
+alt2.meMA.Kathisma2T.mode = misc_en_US_dedes.Mode3
+alt2.meMA.Kathisma2T.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+alt2.meMA.Kathisma2T.text = "When you were in your house on Athos, you beheld * a waking vision of the ever-virgin Maid, * who had the sweetest look indeed and beautified human nature, * you bowed down and reverenced her as the Lady of all the world. * O devout Paisios, what blessing this was for you! * O father, pray for us now and join her * in never-failing intercession."
+
+alt2.meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Kathisma31.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+alt2.meMA.Kathisma31.text = "For the youth you became an inerrant guide, * and for people addicted to substances * a healer, O holy man; and you expertly cured by prayer * young men who had succumbed to intractable sexual sins. * And you were recognized as a leader and accurate * guide by those who sought to walk the way of salvation; * and you were a staff for all, holy father Paisios, * O ascetic illumined by God. * And now  in Souroti at your grave * do believers venerate you rightfully, * and with joy and decorum they celebrate your memory."
+
+alt2.meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+alt2.meMA.Kathisma3T.text = "Having seen on Mt. Sinai your holy face * as it is, O most blessed Mother of God, * the godly Paisios taught the Mount's iconographers * to reproduce the image depicting it faithfully. * And he proclaimed to all what a great blessing is your grace. * Therefore, Theotokos, never fail to entreat Christ * unceasingly on behalf of your servants who ever praise * and exalt your Son and God * and rightfully extol all His saints; * among whom is the devout Paisios, * who is honored today by our hymns that are sung by all."
+
+alt2.meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
+
+alt2.meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
+alt2.meMA.PostGospelGlory.melody = ""
+alt2.meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMonastic.text
+
+alt2.meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
+alt2.meMA.PostGospelBoth.melody = ""
+alt2.meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+
+alt2.meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
+alt2.meMA.PostGospelIdiomelon.melody = ""
+alt2.meMA.PostGospelIdiomelon.text = "The proclamation of your achievements went forth into all the earth, O devout Paisios. In the twentieth century from the birth of our Savior, you rose as a day star, and you enlightened multitudes of Orthodox Christians to know the will of the Lord. Now that you are up in the heavens, and can speak with confidence, never cease interceding on behalf of our souls."
+
+alt2.meMA.C1Poet = poets_en_US_dedes.IoilEdessis
+alt2.meMA.C1Acrostic.text = ""
+
+alt2.meMA.C2Poet = poets_en_US_dedes.IoilEdessis
+alt2.meMA.C2Acrostic.text = ""
+
+alt2.meMA.C3Poet = poets_en_US_dedes.IoilEdessis
+alt2.meMA.C3Acrostic.text = ""
+
+alt2.meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
+alt2.meMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
+alt2.meMA.Ode1C1H.text = he.h.m8_en_US_dedes.ArmatilatinFarao.text
+
+alt2.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
+alt2.meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode1C11.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+alt2.meMA.Ode1C11.text = "O purest Bride of God endowed with grace divine, entreat your Lord and Son * for illumination on the workings of my mind, * that I may worthily extol * all the blessings obtained by * your intercessions, and sing in praise * of the vast array of your miracles."
+
+alt2.meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
+alt2.meMA.Ode1C12.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode1C12.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+alt2.meMA.Ode1C12.text = "O ever-blessed Lady, wretched that I am, I turn to you for help, * hoping by your prayers * to defeat the enemy * and his despicable array. * So I stand with my hands out * before your Icon, entreating you, * begging that you grant me your mighty aid."
+
+alt2.meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
+alt2.meMA.Ode1C13.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode1C13.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+alt2.meMA.Ode1C13.text = "O virgin Mother, Lady all-immaculate, your most benevolent Son, * as the world's Creator and the Savior of mankind, * accepts your intercessions all, * and He does whatsoever * you wish for those who with faith compose, * translate, and sing hymns to you, Bride of God."
+
+alt2.meMA.Ode1C14.ode = misc_en_US_dedes.Ode1
+alt2.meMA.Ode1C14.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode1C14.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+alt2.meMA.Ode1C14.text = "By your almighty intercessions stay the flood of the temptations on me. * Guide my mental concepts and the ethos of my soul, * O Lady, to the port of Christ, all-immaculate Virgin, * so that with confidence I may sail * through the sea of life and its many woes."
+
+alt2.meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
+alt2.meMA.Ode1C21.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode1C21.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+alt2.meMA.Ode1C21.text = "With all my heart I want to sing in honor of pious Paisios, * who was most amazing. * So I pray, almighty Christ: * Please give me the ability * to extol as is worthy * the life and numerous miracles * of this Your devout Saint, O gracious Lord."
+
+alt2.meMA.Ode1C22.ode = misc_en_US_dedes.Ode1
+alt2.meMA.Ode1C22.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode1C22.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+alt2.meMA.Ode1C22.text = "With holy dignity you lived on earth as if you were an angel, O Saint; * you subordinated * sinful passions and the flesh. * And you became the vessel of * gifts from God and His graces, * which you dispense to us Orthodox * as we need them, father Paisios."
+
+alt2.meMA.Ode1C23.ode = misc_en_US_dedes.Ode1
+alt2.meMA.Ode1C23.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode1C23.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+alt2.meMA.Ode1C23.text = "You prayed intently to the Lord who made the world, O St. Paisios, * on behalf of those who * suffered and were in distress. * And you became the teacher of * many people, O father, * towards a holier way of life. * Now the Holy Mountain exalts in you."
+
+alt2.meMA.Ode1C2T.ode = misc_en_US_dedes.Ode1
+alt2.meMA.Ode1C2T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode1C2T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+alt2.meMA.Ode1C2T.text = "As I am swimming in the sea of passions, I the wretch am drowning, alas! * Mother Theotokos, this poor man now cries to you, * the Holy Mountain's Patroness, \"By your all-holy prayers * and supplications on my behalf, * quiet the temptations that trouble me.\""
+
+alt2.meMA.Ode1C31.ode = misc_en_US_dedes.Ode1
+alt2.meMA.Ode1C31.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode1C31.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+alt2.meMA.Ode1C31.text = "O God-bearing father, you were indeed * planted on Mt. Athos * as a wonderful tree that bore * the sweet fruits of grace. You are the newly * appointed guard of ascetics, Paisios."
+
+alt2.meMA.Ode1C32.ode = misc_en_US_dedes.Ode1
+alt2.meMA.Ode1C32.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode1C32.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+alt2.meMA.Ode1C32.text = "O father, you taught your spiritual sons * to watch and to guard their * thoughts from wickedness and its harm, * and also to have in mind unceasing * the good and wholesome ideas and thoughts of Christ."
+
+alt2.meMA.Ode1C33.ode = misc_en_US_dedes.Ode1
+alt2.meMA.Ode1C33.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode1C33.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+alt2.meMA.Ode1C33.text = "With rivers of tears you entreated Christ, * father, on behalf of * all the needy who came to you * at your sacred cabin and who plied you * with every kind of request, O Paisios."
+
+alt2.meMA.Ode1C3T.ode = misc_en_US_dedes.Ode1
+alt2.meMA.Ode1C3T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode1C3T.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+alt2.meMA.Ode1C3T.text = "Our new St. Paisios saw indeed * your divine appearance * supernaturally with his eyes, * ever-virgin Mary, when he lived on * the Holy Mountain of Athos in recent years."
+
+alt2.meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
+alt2.meMA.Ode3C1H.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
+alt2.meMA.Ode3C1H.text = he.h.m8_en_US_dedes.OStereosasKatArchas.text
+
+alt2.meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
+alt2.meMA.Ode3C11.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode3C11.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
+alt2.meMA.Ode3C11.text = "You are inviolable joy * for us the faithful, and riches * of benevolence and love's holy treasure, * and the boast of all the world, * the glory of the human race. * The angels sing your praises, * pure Virgin, Mother of Christ our God."
+
+alt2.meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
+alt2.meMA.Ode3C12.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode3C12.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
+alt2.meMA.Ode3C12.text = "O Maiden pure, you are perceived * to be a ladder that takes us * human beings from the earth up to heaven. * You are superior to all * the angels and humanity * and all created nature, * for you gave birth to the Lord of all."
+
+alt2.meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
+alt2.meMA.Ode3C13.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode3C13.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
+alt2.meMA.Ode3C13.text = "From you has risen like a sun * your Son, the Maker of all things, * and He shined on us gave light to all men, * and He mightily dispelled * the darkness of the enemy, * by His resurrection * from the dead, as almighty Lord."
+
+alt2.meMA.Ode3C14.ode = misc_en_US_dedes.Ode3
+alt2.meMA.Ode3C14.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode3C14.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
+alt2.meMA.Ode3C14.text = "The fire of pleasure burns in me, * O Theotokos, intensely, * and my sorry soul is now agitated. * So I earnestly entreat * that you will intercede for me, * and grant me peace and quiet * in mind and thoughts, holy Bride of God."
+
+alt2.meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
+alt2.meMA.Ode3C21.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode3C21.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
+alt2.meMA.Ode3C21.text = "With manly courage you disdained * the unclean spirit, O father, * with humility of mind being guarded; * and with prayers putting on * the breastplate of the grace of God, * you put demonic forces * to flight, O holy Paisios."
+
+alt2.meMA.Ode3C22.ode = misc_en_US_dedes.Ode3
+alt2.meMA.Ode3C22.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode3C22.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
+alt2.meMA.Ode3C22.text = "With your unceasing prayers to God, * the Lord of all, you entreated * on behalf of those who came to you longing * for solutions to their own * distressing problems. So you prayed * that they might be delivered * from their distress, O Paisios."
+
+alt2.meMA.Ode3C23.ode = misc_en_US_dedes.Ode3
+alt2.meMA.Ode3C23.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode3C23.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
+alt2.meMA.Ode3C23.text = "Your supplications for the souls * of the reposed truly helped them, * for from heaven you were given this power. * O Paisios, you told * believers they should also pray * for them because they need it * more than the living, all-blessed Saint."
+
+alt2.meMA.Ode3C2T.ode = misc_en_US_dedes.Ode3
+alt2.meMA.Ode3C2T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode3C2T.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
+alt2.meMA.Ode3C2T.text = "When the Creator of the world * became incarnate from your blood, * He put down the ancient Belial, the devil, * O all-blameless Maid, and gave * humanity the gift of peace, * the end of sin, and freedom * of souls, O Lady immaculate."
+
+alt2.meMA.Ode3C31.ode = misc_en_US_dedes.Ode3
+alt2.meMA.Ode3C31.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode3C31.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+alt2.meMA.Ode3C31.text = "You were shown to be winner by the divine grace of Christ, * for you fully humbled that young man, George, who was influenced * by a demonic force * and had received his instruction * from the devil in Tibet, * father Paisios."
+
+alt2.meMA.Ode3C32.ode = misc_en_US_dedes.Ode3
+alt2.meMA.Ode3C32.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode3C32.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+alt2.meMA.Ode3C32.text = "On Mt. Athos, the Master of all revealed unto you * His all-holy likeness, surpassing the beauty of all men, * and you were filled with grace * in great abundance and power, * and the Spirit dwelt in you, * father Paisios."
+
+alt2.meMA.Ode3C33.ode = misc_en_US_dedes.Ode3
+alt2.meMA.Ode3C33.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode3C33.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+alt2.meMA.Ode3C33.text = "Human thought is astounded, how you, O wise one, received * while you were awake in your cabin the holy and all-praised * great martyr of the Lord, marvelous St. Euphemia, * blessed St. Paisios, boast of the fathers all."
+
+alt2.meMA.Ode3C3T.ode = misc_en_US_dedes.Ode3
+alt2.meMA.Ode3C3T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode3C3T.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+alt2.meMA.Ode3C3T.text = "We the faithful who suffer from grave diseases and ills * of the body know you, O Mother, to be an excellent * physician and a well * of cures and healing. We therefore * pray with faith for your divine * help now, O Bride of God."
+
+alt2.meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
+alt2.meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+alt2.meMA.Ode3Kathisma1.text = "Your soul, O Paisios, became a workshop of prayer, * because you continually prayed and made your divine * entreaties to God, O Saint. * When you had spent a long time * in your cabin, O father, * you appeared like a brightly shining pillar entreating * Christ who is the Creator and Ruler of the universe."
+
+alt2.meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
+alt2.meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+alt2.meMA.Ode3KathismaT.text = "O Virgin immaculate, by giving birth to the Lord, * you truly became the ornament of angels, the hope * of Christians, the pride and joy * of Orthodox believers. * Thus possessing great freedom * of speech before the throne of Christ your Son, blessed Lady, * continually you plead on behalf of all who honor you."
+
+alt2.meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
+alt2.meMA.Ode4C1H.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+alt2.meMA.Ode4C1H.text = he.h.m8_en_US_dedes.SyMouIschys.text
+
+alt2.meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
+alt2.meMA.Ode4C11.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode4C11.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+alt2.meMA.Ode4C11.text = "By giving birth * to God, O pure Virgin, you became * Eve's emancipation from the ancient curse; and those in straits * have you as relief; * those who are in trouble * know you, O Mother, as source of joy. * All-holy Theotokos, * we also now salute you: * O unshaken support of us all, rejoice!"
+
+alt2.meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
+alt2.meMA.Ode4C12.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode4C12.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+alt2.meMA.Ode4C12.text = "The burning heat * within my soul is out of control. * With your prayers * like a hose extinguish it, all-blameless Maid, * soak me with the cool * water of your mercy, * O Theotokos, refreshing me. * And grant to me your servant * the strength to extol you * and your grace, as is worthy, forevermore."
+
+alt2.meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
+alt2.meMA.Ode4C13.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode4C13.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+alt2.meMA.Ode4C13.text = "The Lord of all * in ways befitting divinity * dwelt inside your holy womb, all-lauded one; and He who is * visible to none * put on human nature * to rescue man from captivity * to the ancient deceiver, * and to grant His great mercy * and His grace to the faithful who honor you."
+
+alt2.meMA.Ode4C14.ode = misc_en_US_dedes.Ode4
+alt2.meMA.Ode4C14.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode4C14.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+alt2.meMA.Ode4C14.text = "Now on my knees, * I raise my hands to your marvelous * holy Icon, longing for the ocean of your tender mercy to drench my soul. * Fervently I pray you, * do not ignore me the wretched one. * Courage of those in trouble * and the hope of the hopeless, * you are also the cure for the suffering."
+
+alt2.meMA.Ode4C21.ode = misc_en_US_dedes.Ode4
+alt2.meMA.Ode4C21.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode4C21.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+alt2.meMA.Ode4C21.text = "Having received * the strength from heaven, Paisios, * you endured your illnesses with patience, godly-minded Saint, * and you worshiped Christ * wholeheartedly singing * the sweetest hymns of doxology. * You thus received the blessing * of divine grace and power * for the healing of bodies and souls alike."
+
+alt2.meMA.Ode4C22.ode = misc_en_US_dedes.Ode4
+alt2.meMA.Ode4C22.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode4C22.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+alt2.meMA.Ode4C22.text = "You were exact, * keeping the faith as the Father's taught. * And you gave the people an example of undaunted faith, * O all-blessed Saint. * In Thessaloniki * you bravely marched with the other monks, * as if you were an angel, * and you boldly confessed Christ, * O devout, godly-minded Paisios."
+
+alt2.meMA.Ode4C23.ode = misc_en_US_dedes.Ode4
+alt2.meMA.Ode4C23.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode4C23.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+alt2.meMA.Ode4C23.text = "Many a time * an immaterial light was seen * to surround your face and when you had your hands lifted in prayer * to the Lord, O Saint, * you were truly lifted * above the ground, O Paisios. * And therefore those who saw you * when your face was illumined * were completely amazed, O all-lauded one."
+
+alt2.meMA.Ode4C2T.ode = misc_en_US_dedes.Ode4
+alt2.meMA.Ode4C2T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode4C2T.melody = he.h.m8_en_US_dedes.SyMouIschys.name
+alt2.meMA.Ode4C2T.text = "Mother of God, * the Lord and Ruler of all indeed * dwelt in your all-holy womb, and from corruption He renewed * human nature all, * and He also lifted * the ancient curse and abolished death, * and He completely humbled * the exalted demeanor * of the devil and dark-looking enemy."
+
+alt2.meMA.Ode4C31.ode = misc_en_US_dedes.Ode4
+alt2.meMA.Ode4C31.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode4C31.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+alt2.meMA.Ode4C31.text = "Many people who came to you * for advice and counsel have testified and said * that your words and teachings brought about * their salvation, O devout Paisios."
+
+alt2.meMA.Ode4C32.ode = misc_en_US_dedes.Ode4
+alt2.meMA.Ode4C32.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode4C32.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+alt2.meMA.Ode4C32.text = "When the father of two unwell * children, who himself was a doctor, prayed to you * for their healing, you became for them * an excellent doctor, O all-honored Saint."
+
+alt2.meMA.Ode4C33.ode = misc_en_US_dedes.Ode4
+alt2.meMA.Ode4C33.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode4C33.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+alt2.meMA.Ode4C33.text = "O Paisios, when you prayed * oftentimes amazingly you would overflow * with the light of Christ, and you would sing * sweetest hymns adoring Him wholeheartedly."
+
+alt2.meMA.Ode4C3T.ode = misc_en_US_dedes.Ode4
+alt2.meMA.Ode4C3T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode4C3T.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+alt2.meMA.Ode4C3T.text = "Bride of God, to my darkened soul * grant illumination, for you have given birth * to the Lord, the never-setting Light * of the world and all mankind, O Virgin pure."
+
+alt2.meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
+alt2.meMA.Ode5C1H.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
+alt2.meMA.Ode5C1H.text = he.h.m8_en_US_dedes.InaTiMeAposo.text
+
+alt2.meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
+alt2.meMA.Ode5C11.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode5C11.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+alt2.meMA.Ode5C11.text = "Full of wickedness, Satan * tirelessly tempts me with shameful passions all. * Lady Theotokos, * I the wretch having you on my side can now * hope to break in pieces * the fiery arrows he is shooting * and to beat him, with your help, O Virgin pure."
+
+alt2.meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
+alt2.meMA.Ode5C12.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode5C12.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+alt2.meMA.Ode5C12.text = "By your grace, Theotokos, * speedily deliver my soul from its listlessness * and from its depression. * Never fail, I entreat you, to raise me up * from my soul's afflictions * and from my sins, O virgin Mother, * for you have this unfailing ability."
+
+alt2.meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
+alt2.meMA.Ode5C13.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode5C13.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+alt2.meMA.Ode5C13.text = "Lady, truly you are a * river of divine gifts, a wellspring of remedies * and a stream of healings. * I your servant, O Mother, now pray to you: * Take away the limits * upon on my narrow soul and lead me * to the breadth of dispassion, O Bride of God."
+
+alt2.meMA.Ode5C14.ode = misc_en_US_dedes.Ode5
+alt2.meMA.Ode5C14.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode5C14.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+alt2.meMA.Ode5C14.text = "All creation, O Lady, * wonders how carried the incomprehensible * Logos in your body, * ever-virgin and pure Mother of our God; * and, as you foretold it, * the world's languages and peoples * call you blessed for ever and evermore."
+
+alt2.meMA.Ode5C21.ode = misc_en_US_dedes.Ode5
+alt2.meMA.Ode5C21.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode5C21.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+alt2.meMA.Ode5C21.text = "You were mighty in seeing * what would be the life and deeds of those who came to you, * and to each you offered * words of counsel and guidance that suited them, * leading to salvation; * and thus you showed concern and mercy * for them all, O God-bearing Paisios."
+
+alt2.meMA.Ode5C22.ode = misc_en_US_dedes.Ode5
+alt2.meMA.Ode5C22.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode5C22.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+alt2.meMA.Ode5C22.text = "Without property, gentle, * and a most attentive worker of noetic prayer, * friend of peace, O father, * an unshakable worker of charity, * supporter of the people, * and one of God's belov'd familiars: * this was you, godly-minded Paisios."
+
+alt2.meMA.Ode5C23.ode = misc_en_US_dedes.Ode5
+alt2.meMA.Ode5C23.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode5C23.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+alt2.meMA.Ode5C23.text = "Holy father, you counseled * babblers who were wholly led astray by heresies * of the wicked devil, * and with Orthodox doctrines instructed them, * O all-blessed elder; and with your teachings, signs and wonders * you convinced them, devout St. Paisios."
+
+alt2.meMA.Ode5C2T.ode = misc_en_US_dedes.Ode5
+alt2.meMA.Ode5C2T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode5C2T.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+alt2.meMA.Ode5C2T.text = "Eve, our ancestral mother, * once received the curse upon the human race of old. * You, O Theotokos, by your childbirth brought forth the peace and joy * unto all, O Lady, * and therefore we your loyal servants * have you as our protectress and patroness."
+
+alt2.meMA.Ode5C31.ode = misc_en_US_dedes.Ode5
+alt2.meMA.Ode5C31.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode5C31.melody = he.h.m8_en_US_dedes.FotisonImas.name
+alt2.meMA.Ode5C31.text = "Lifting up your hands * to the Lord you prayed, O modest Saint, * for the young men who had fallen into sin * and who sought your help and power, O Paisios."
+
+alt2.meMA.Ode5C32.ode = misc_en_US_dedes.Ode5
+alt2.meMA.Ode5C32.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode5C32.melody = he.h.m8_en_US_dedes.FotisonImas.name
+alt2.meMA.Ode5C32.text = "By your prayers to God * you released the hold that anarchy * had on many younger men who came to you * at your cabin, O wise father St. Paisios."
+
+alt2.meMA.Ode5C33.ode = misc_en_US_dedes.Ode5
+alt2.meMA.Ode5C33.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode5C33.melody = he.h.m8_en_US_dedes.FotisonImas.name
+alt2.meMA.Ode5C33.text = "By the grace of God, * you directed many younger men * to the road of Christ, O venerable Saint, * and you showed them what was excellent about their life."
+
+alt2.meMA.Ode5C3T.ode = misc_en_US_dedes.Ode5
+alt2.meMA.Ode5C3T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode5C3T.melody = he.h.m8_en_US_dedes.FotisonImas.name
+alt2.meMA.Ode5C3T.text = "We know you to be * for believers an unbroken wall * and unshakable foundation, O all-pure * Theotokos, and our shelter, by your childbirth."
+
+alt2.meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
+alt2.meMA.Ode6C1H.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+alt2.meMA.Ode6C1H.text = he.h.m8_en_US_dedes.IlasthitiMoiSotir.text
+
+alt2.meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
+alt2.meMA.Ode6C11.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode6C11.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+alt2.meMA.Ode6C11.text = "O pure Mother, in the night * of sinful passions I carelessly * have fallen into a pit; * the pleasures now hold me down. * I pray you to raise me up * by your rays, O Lady, * shining light into my mind again."
+
+alt2.meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
+alt2.meMA.Ode6C12.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode6C12.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+alt2.meMA.Ode6C12.text = "O Virgin, using the sword * of your petitions decisively * slice the knot of my sins, * and save me, and grant to me * repentance, so that I may * in my life move forward * on the straight way, O Immaculate."
+
+alt2.meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
+alt2.meMA.Ode6C13.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode6C13.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+alt2.meMA.Ode6C13.text = "Bring up out of the abyss * of desperation the multitudes * of Christians who turn to you * with faith and who cry to you, * \"Virgin Mary, never cease * praying for your servants * to your Son who is our Lord and God.\""
+
+alt2.meMA.Ode6C14.ode = misc_en_US_dedes.Ode6
+alt2.meMA.Ode6C14.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode6C14.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+alt2.meMA.Ode6C14.text = "O Lady, I am transfixed * with fear remembering Judgment Day, * alas, when that awful book * is opened exhibiting * my actions and all my sins * that I have committed. * Therefore strengthen me, for I am poor."
+
+alt2.meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
+alt2.meMA.Ode6C21.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode6C21.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+alt2.meMA.Ode6C21.text = "Devout father, having led * your life on earth very sensibly, * you sensibly gave advice * and nurtured with holy words * the faithful who came to you. * You were an example * of a pure life and of piety."
+
+alt2.meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
+alt2.meMA.Ode6C22.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode6C22.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+alt2.meMA.Ode6C22.text = "Paisios, like a spring * you poured out waters of self-control, * refreshing the thirsty droves * of young men who came to you. * You guided them from their ways * of unruly living * to the channel of the grace of God."
+
+alt2.meMA.Ode6C23.ode = misc_en_US_dedes.Ode6
+alt2.meMA.Ode6C23.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode6C23.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+alt2.meMA.Ode6C23.text = "Devout father, many times * during your life you judiciously * and knowledgeably upheld * and guarded the Orthodox * dogmas, as a God-inspired * teacher of the Holy * Mountain Athos, O Paisios."
+
+alt2.meMA.Ode6C2T.ode = misc_en_US_dedes.Ode6
+alt2.meMA.Ode6C2T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode6C2T.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+alt2.meMA.Ode6C2T.text = "Devout father, when you died * your soul was taken up to the Lord's * divine mansions in the heights * near His Mother. As reward * for your labors you received * grace to cure diseases * and to comfort those in dire straits."
+
+alt2.meMA.Ode6C31.ode = misc_en_US_dedes.Ode6
+alt2.meMA.Ode6C31.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode6C31.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+alt2.meMA.Ode6C31.text = "Paisios, * in the monastery of * Souroti your holy body is treasured, * O godly-minded one, and to the faithful * it truly gives them divine gifts abundantly: * it cures diseases of the soul * and it remedies physical suffering."
+
+alt2.meMA.Ode6C32.ode = misc_en_US_dedes.Ode6
+alt2.meMA.Ode6C32.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode6C32.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+alt2.meMA.Ode6C32.text = "God-bearing Saint, * you have recently appeared * many times, and we have seen you, O father. * Now you are known as an expert physician * of those with all kinds of cancer, Paisios. * You give support to those in pain, * and you cure those possessed by the evil one."
+
+alt2.meMA.Ode6C33.ode = misc_en_US_dedes.Ode6
+alt2.meMA.Ode6C33.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode6C33.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+alt2.meMA.Ode6C33.text = "The enemy's * vaunted pride is shaken now * by your holy power, all-blessed father. * For you, O elder Paisios, came forth * as if alive from your tomb to release a boy * who possessed and set him free * from the enemy's bondage and wickedness."
+
+alt2.meMA.Ode6C3T.ode = misc_en_US_dedes.Ode6
+alt2.meMA.Ode6C3T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode6C3T.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+alt2.meMA.Ode6C3T.text = "I do not have * grace's gift of tears to weep * and lament my many sins and transgressions, * all-holy Mother; I lack in compunction, * and I have no saving sighs of the heart, alas! * By your entreaties to the Lord * break this awful and ill-tempered attitude."
+
+alt2.meMA.Kontakion1.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Kontakion1.melody = he.a.m8_en_US_dedes.TiYpermacho.name
+alt2.meMA.Kontakion1.text = "The Holy Mountain's great and widely known ascetic * is now the Church's newly shining luminary. * We wholeheartedly extol him in song and cry out: * Having guided us the faithful to a higher life, * you have filled us with the rivers the gifts of grace. * Now we cry to you: Rejoice father Paisios!"
+
+alt2.meMA.Oikos1.text = "Athos, that Holy Mountain, in recent times observed you, Paisios, to be like an angel. Those around you observed how you led a devout life on earth, and they considered you an equal to the earliest ascetics. And now they warmly salute you:"
+alt2.meMA.Oikos12.text = "Rejoice, you are Farasa's holy offspring; rejoice, the great treasure of the Holy Mountain!"
+alt2.meMA.Oikos13.text = "Rejoice, you are Konitsa's God-given pride and joy; rejoice, you are Souroti Convent's embellishment!"
+alt2.meMA.Oikos14.text = "Rejoice, gushing fountain of supernatural gifts; rejoice, flowing river of life-saving cures!"
+alt2.meMA.Oikos15.text = "Rejoice, for you honored the Monastery of Esphigmenou; rejoice, for you dwelt at the monastery on Mt. Sinai!"
+alt2.meMA.Oikos16.text = "Rejoice, as the chief of a humbler human race; rejoice, as a holder of multiple gifts of grace!"
+alt2.meMA.Oikos17.text = "Rejoice, the reliever of pain for the ailing; rejoice, for the monks you were teacher and prophet!"
+alt2.meMA.Oikos18.text = "Rejoice, father Paisios!"
+
+alt2.meMA.Synaxarion.text = ""
+
+alt2.meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
+alt2.meMA.Ode7C1H.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+alt2.meMA.Ode7C1H.text = he.h.m8_en_US_dedes.TheouSynkatavasin.text
+
+alt2.meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+alt2.meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode7C11.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+alt2.meMA.Ode7C11.text = "O Virgin who knew no man, * you among women alone have given birth * to the Lord and Creator; * and therefore all generations of mankind * rightly extol you, O Mother, and cry aloud * to Him, \"O God of our fathers, blessed are you!\""
+
+alt2.meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
+alt2.meMA.Ode7C12.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode7C12.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+alt2.meMA.Ode7C12.text = "Immaculate Maid, indeed * in you the faithful who call your holy name * are empowered and strengthened, * and the maleficent fiend is put to shame, * hearing your name being uttered by everyone, * for it is sweetest indeed, all-holy Mother most pure."
+
+alt2.meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
+alt2.meMA.Ode7C13.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode7C13.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+alt2.meMA.Ode7C13.text = "O Lady, make manifest * to us your servants the holy light of your face; * you, O Maiden, within you * received the light, namely Christ our Savior and Lord, * which light illumines the faithful who cry aloud * to Him, \"O God of our fathers, blessed are you!\""
+
+alt2.meMA.Ode7C14.ode = misc_en_US_dedes.Ode7
+alt2.meMA.Ode7C14.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode7C14.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+alt2.meMA.Ode7C14.text = "O Mother, you have become * a peaceful haven for faithful Orthodox. * You are trusted insurance * for those possessing no other kind in this life, * who ever pray and unceasingly cry aloud * the song, \"O God of our fathers, blessed are you!\""
+
+alt2.meMA.Ode7C21.ode = misc_en_US_dedes.Ode7
+alt2.meMA.Ode7C21.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode7C21.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+alt2.meMA.Ode7C21.text = "O father Paisios, * when you instructed the youth who came to you, * you gave excellent counsel * that they should choose marriage or the monastic life. * Therefore together with you they would cry aloud * the hymn, \"O God of our fathers, blessed are you!\""
+
+alt2.meMA.Ode7C22.ode = misc_en_US_dedes.Ode7
+alt2.meMA.Ode7C22.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode7C22.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+alt2.meMA.Ode7C22.text = "With fortitude you endured * your body's illnesses, O Paisios, * and considered as comfort * the pain and suffering that you often had. * You thus received in abundance the grace of God * to cure all kinds of diseases miraculously."
+
+alt2.meMA.Ode7C23.ode = misc_en_US_dedes.Ode7
+alt2.meMA.Ode7C23.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode7C23.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+alt2.meMA.Ode7C23.text = "Devout man, you rose above * the sinful passions that afflict the human soul; * and divine inspiration * made you superior, O Paisios, * to the distress of your body's infirmities, * for you, O father, loved Christ our Savior and God."
+
+alt2.meMA.Ode7C24.ode = misc_en_US_dedes.Ode7
+alt2.meMA.Ode7C24.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode7C24.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+alt2.meMA.Ode7C24.text = "The Convent of Souroti * ever exults, O father Paisios, * and is glad as it treasures * your holy grave as source of the Spirit's gifts. * The nuns unceasingly sing to the King of all * the hymn, \"O God of our fathers, blessed are you!\""
+
+alt2.meMA.Ode7C2T.ode = misc_en_US_dedes.Ode7
+alt2.meMA.Ode7C2T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode7C2T.melody = he.h.m8_en_US_dedes.TheouSynkatavasin.name
+alt2.meMA.Ode7C2T.text = "The streams of your miracles, * O all-immaculate Maiden, liberate * all the classes of people * born on earth from devil's deceptive ways, * and from the sway of the passions and from distress * and from the ills of the flesh and life's coincidences."
+
+alt2.meMA.Ode7C31.ode = misc_en_US_dedes.Ode7
+alt2.meMA.Ode7C31.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode7C31.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+alt2.meMA.Ode7C31.text = "Practitioner of fasting * and a lover of prayer, obedient to the Lord, * a teacher of the young men * and an expert physician * of the sick and the suffering: * in recent times you, O Saint * Paisios, were all these."
+
+alt2.meMA.Ode7C32.ode = misc_en_US_dedes.Ode7
+alt2.meMA.Ode7C32.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode7C32.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+alt2.meMA.Ode7C32.text = "You led your life on Athos * and in other locations with great sobriety * and righteousness, O Elder, * and you received the great gift * of clairvoyance abundantly, * God-bearing father, and led * the faithful to salvation."
+
+alt2.meMA.Ode7C33.ode = misc_en_US_dedes.Ode7
+alt2.meMA.Ode7C33.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode7C33.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+alt2.meMA.Ode7C33.text = "By your words you enlightened * younger men who fell victim to the confusing thoughts * of the all-wicked devil, * explaining what the Lord's will * was for them, O Paisios, * and you described what they ought * to do to serve the Savior."
+
+alt2.meMA.Ode7C3T.ode = misc_en_US_dedes.Ode7
+alt2.meMA.Ode7C3T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode7C3T.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+alt2.meMA.Ode7C3T.text = "We pray you count us worthy * by your strong intercessions to see the face of Christ * your Son; for we all honor * you and your holy Icon, * which we lovingly venerate. * Maiden you are our divine * protectress and defender."
+
+alt2.meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
+alt2.meMA.Ode8C1H.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+alt2.meMA.Ode8C1H.text = he.h.m8_en_US_dedes.EptaplasiosKaminon.text
+
+alt2.meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
+alt2.meMA.Ode8C11.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode8C11.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+alt2.meMA.Ode8C11.text = "O Lady, to your Son and God * you united the human race, * which had been held captive by the wicked enemy. * For He who is Lord of all * without the seed of man did indeed * by your purest blood assume humanity's nature, * in His extreme compassion, * and took to heaven Adam, * who had been led astray by the evil one's deception."
+
+alt2.meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
+alt2.meMA.Ode8C12.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode8C12.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+alt2.meMA.Ode8C12.text = "O Ever-Virgin, you gave birth * to the passage returning us * to salvation. Therefore, I entreat you guide me on * the straight way, O Maiden pure, * and make direct the path that my soul * has to follow to arrive at the place of repentance. * For now I am extending * my hands to you in prayer * to save me from Gehenna's insufferable darkness."
+
+alt2.meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
+alt2.meMA.Ode8C13.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode8C13.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+alt2.meMA.Ode8C13.text = "Pure Virgin, we extol your grace * and wholeheartedly honor you, * and we also ask for what is needful for our souls: * continual penitence, * a reserved and sober frame of mind, * the gift of self-control, the cessation of passions, * straightforwardness in living; * grant our souls to be humble, * our hearts to be illumined, our prayer to be unceasing."
+
+alt2.meMA.Ode8C14.ode = misc_en_US_dedes.Ode8
+alt2.meMA.Ode8C14.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode8C14.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+alt2.meMA.Ode8C14.text = "By hiding His divinity * under flesh did your Son and Lord * crush the devil's arrogance triumphantly as God, * O Lady; and now the force * of the curse has been neutralized. * For the Lord of all in His extreme tender-mercy * in supernatural manner * has assumed human nature * from you, O Theotokos, and saved us all, O Virgin. "
+
+alt2.meMA.Ode8C21.ode = misc_en_US_dedes.Ode8
+alt2.meMA.Ode8C21.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode8C21.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+alt2.meMA.Ode8C21.text = "With pleasure did the multitudes * of the faithful converge on you * on the Holy Mountain to receive your grace and strength, * O venerable and devout * holy father Paisios. * For the gifts of grace that you possessed from God were many. * And you were the supporter * and a cane of assistance * for many who were needy in modern times, O Elder."
+
+alt2.meMA.Ode8C22.ode = misc_en_US_dedes.Ode8
+alt2.meMA.Ode8C22.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode8C22.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+alt2.meMA.Ode8C22.text = "Devout one, having learned the facts * of the excellence of your life, * on Mt. Athos and in other places they extol * and worship the Friend of man, * our Lord Jesus, and honor you. * For in recent times you like a star have arisen, * and you dispelled the darkness * for the suffering people * by words and deeds and prayer * for them, all-blessed father."
+
+alt2.meMA.Ode8C23.ode = misc_en_US_dedes.Ode8
+alt2.meMA.Ode8C23.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode8C23.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+alt2.meMA.Ode8C23.text = "You often stood all night in prayer * and you practiced protracted fasts; * thus all-blessed father, you were an exemplary * ascetic and model for * monks on Athos and Sinai as well. * For with all your heart you lifted hands up in prayer * to Christ our Lord and Savior * on behalf of all people, * O godly-minded Elder and equal of the Fathers."
+
+alt2.meMA.Ode8C2T.ode = misc_en_US_dedes.Ode8
+alt2.meMA.Ode8C2T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode8C2T.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+alt2.meMA.Ode8C2T.text = "O Lady, pure and undefiled, * we are sick from our many sins * and from worldly cares and the anxiety of life * and passions that plague the soul. * Now with our humble hymns to you * we all sing to honor you and also entreat you, * that you will not abandon * your servants who extol you, * but ever lift us out of the pit of our offences."
+
+alt2.meMA.Ode8C31.ode = misc_en_US_dedes.Ode8
+alt2.meMA.Ode8C31.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode8C31.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
+alt2.meMA.Ode8C31.text = "Your grave, O father, * in Souroti is a meadow * where the spiritual gifts of grace have blossomed, * also cures and healings * of various diseases."
+
+alt2.meMA.Ode8C32.ode = misc_en_US_dedes.Ode8
+alt2.meMA.Ode8C32.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode8C32.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
+alt2.meMA.Ode8C32.text = "We all extol you * with all our heart, O God-bearing * St. Paisios, and honor you by keeping * your annual feast-day, * and pray to have your blessing."
+
+alt2.meMA.Ode8C33.ode = misc_en_US_dedes.Ode8
+alt2.meMA.Ode8C33.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode8C33.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
+alt2.meMA.Ode8C33.text = "The evil dragon * creeps up on me to surprise me * and disturb my sorry soul, O holy father; * but mighty and hopeful shall I be by your power. "
+
+alt2.meMA.Ode8C3T.ode = misc_en_US_dedes.Ode8
+alt2.meMA.Ode8C3T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode8C3T.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
+alt2.meMA.Ode8C3T.text = "Most holy Virgin, * you have appeared as the savior * of humanity for giving birth without seed * to Christ the Life-giver, the Logos of the Father."
+
+alt2.meMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
+alt2.meMA.Ode9C1H.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+alt2.meMA.Ode9C1H.text = he.h.m8_en_US_dedes.ExestiEpiTouto.text
+
+alt2.meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
+alt2.meMA.Ode9C11.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode9C11.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+alt2.meMA.Ode9C11.text = "O Virgin, I prevail now against the foe, * O immaculate Lady, by calling on your sacred name, * for you are the one who gave birth to God * and trampled on the serpent's head * and on his defiled demonic hosts, * and brought to all of mankind * forgiveness of offences * and the emancipation of our souls."
+
+alt2.meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
+alt2.meMA.Ode9C12.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode9C12.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+alt2.meMA.Ode9C12.text = "O Virgin cleanse the looking-glass of my soul * and my spiritual eyes by your sacred prayers, I entreat, * so that I may see clearly the divine * all-holy will of Christ and His * life-bearing commandments and sacred rules, * all-blessed Theotokos, and that I may stop sinning * in thoughts the enemy has sowed in me."
+
+alt2.meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
+alt2.meMA.Ode9C13.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode9C13.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+alt2.meMA.Ode9C13.text = "Your form, which is ineffable, brings great joy * in the heavens above to the hosts of angels, and below * on the earth it sweetens believers' souls, * O Mother all-immaculate, and it moves our minds to the holy work * of Christ's divine commandments, * and also it inspires us * to venerate your icon piously."
+
+alt2.meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
+alt2.meMA.Ode9C14.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode9C14.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+alt2.meMA.Ode9C14.text = "The joy of all the Orthodox everywhere, * and a fortress protecting creation all, are you, O Maid; * heaven's great adornment, and for the poor * a helper, and the hope of those * who are are in despair with no other hope, * support for the who suffer * are you, O Theotokos, * and the delight of all the universe."
+
+alt2.meMA.Ode9C21.ode = misc_en_US_dedes.Ode9
+alt2.meMA.Ode9C21.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode9C21.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+alt2.meMA.Ode9C21.text = "Once you had rid yourself of the slime of sin, * then you washed clean the eye of your soul, and with it you could see * the grievous diseases of flesh and soul * of those who came and sought your help * as they really were, O all-blessed Saint. * You diagnosed them rightly * and guided them expertly * to getting better, O Paisios."
+
+alt2.meMA.Ode9C22.ode = misc_en_US_dedes.Ode9
+alt2.meMA.Ode9C22.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode9C22.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+alt2.meMA.Ode9C22.text = "Even as did the fathers of old, so you * in a God-pleasing manner did take the narrow the way of Christ, * wondrous St. Paisios, and became * in recent years an equal of * Tikhon and your fellow ascetics all * on Holy Mountain Athos, * and left us an example * of holy life for us to imitate."
+
+alt2.meMA.Ode9C23.ode = misc_en_US_dedes.Ode9
+alt2.meMA.Ode9C23.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode9C23.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+alt2.meMA.Ode9C23.text = "We joyfully now honor you and extol * with decorum your annual memory with sacred hymns. * Father, keep us safe from the devil's harm, * and by your prayers guard us from * any bad experiences of life * and dizziness of sinning, * for you have ample access * praying in heaven, being blest by God."
+
+alt2.meMA.Ode9C2T.ode = misc_en_US_dedes.Ode9
+alt2.meMA.Ode9C2T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode9C2T.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+alt2.meMA.Ode9C2T.text = "O Virgin Theotokos, we pray to you: * Use your power to counter the evil one's raging assaults. * You can do this for you have given birth * most wondrously to Christ who has * disappeared the haughtiness of the foe, * that ancient dragon, crushing * its skull with a loud sound, * as a most famous Athlete that He is."
+
+alt2.meMA.Ode9C31.ode = misc_en_US_dedes.Ode9
+alt2.meMA.Ode9C31.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode9C31.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+alt2.meMA.Ode9C31.text = "We see your grace and also * all the cures and healings * that you perform every day, O praiseworthy Saint, * and we extol your devout life, father Paisios."
+
+alt2.meMA.Ode9C32.ode = misc_en_US_dedes.Ode9
+alt2.meMA.Ode9C32.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode9C32.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+alt2.meMA.Ode9C32.text = "A stream of supernatural * gifts of grace is what your * all-holy grave has become, O Paisios, * in Souroti, granting healing * of soul and body to all."
+
+alt2.meMA.Ode9C33.ode = misc_en_US_dedes.Ode9
+alt2.meMA.Ode9C33.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode9C33.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+alt2.meMA.Ode9C33.text = "Your memory is honored * joyfully, O father, * in Souroti, on Mt. Athos, in Konitsa, * and in the Church the world over, * O St. Paisios."
+
+alt2.meMA.Ode9C3T.ode = misc_en_US_dedes.Ode9
+alt2.meMA.Ode9C3T.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Ode9C3T.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+alt2.meMA.Ode9C3T.text = "Your Son is whom I worship, * Mother Theotokos; * I venerate and I honor with hymns of praise * your face's beauty in icons, * O ever-blessed one."
+
+alt2.meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+alt2.meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+alt2.meMA.Exaposteilarion1.text = "With songs and hymns inspired by God * we praise devout Paisios, * the boast of the Holy Mountain * and Souroti's overseer, * the guide and teacher of the youth, *  supporter of the destitute * in word and in loving action. * Come let us extol and honor * his life and his works and manner."
+
+alt2.meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
+alt2.meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+alt2.meMA.ExapTheotokion.text = "O Virgin glorified by God, * the strong support of Christians all, * the awe-inspiring protection * of people who have no power, * the restoration of the sick, * the vigor of the suffering, * the shelter of the whole wide world: * in unison we your servants * with dignity now extol you."
+
+alt2.meMA.Lauds1.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Lauds1.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
+alt2.meMA.Lauds1.text = "What are we to call you, O holy man? * Son of Farasa, and greatly treasured jewel of Konitsa, * and the guide of Souroti and the ascetic of Sinai; * of Athos decoration of the highest rank, * example set for all of Greece to imitate. * Paisios, glorified by God, * our fine adornment, our pride and joy, * intently pray and entreat the Lord to save our souls."
+
+alt2.meMA.Lauds2.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Lauds2.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
+alt2.meMA.Lauds2.text = "How shall I address you, Paisios? * You were father for the youth, their shining spiritual guide; * a fantastic virtue-trainer and a coach for monks and nuns; * a healer of the ill in body, mind and soul; * a fighter of the demons, which you drove away. * In recent years you were seen to be * of equal standing to saints old, * those great teachers of our souls, who lived in ages past."
+
+alt2.meMA.Lauds3.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Lauds3.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
+alt2.meMA.Lauds3.text = "What may I now call you, Paisios? * The deliverer of men who were addicted to drugs; * the revealer to believers of events as yet to come; * fantastic disciplinarian of atheists; * supporter of the frightened, and encouragement. * Praise-worthy father, you led a life * of strict ascetical discipline, * and you received supernatural gifts of grace from God."
+
+alt2.meMA.Lauds4.mode = misc_en_US_dedes.Mode8
+alt2.meMA.Lauds4.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
+alt2.meMA.Lauds4.text = "O God-bearing father Paisios, * never cease entreating Christ our Savior earnestly for us * the believers who extol you singing hymns with ardent faith. * For you have access to the Lord to speak to Him. * Devout one, you received abundant gifts from Him: * the gifts of foresight and prophecy, * the gift of healing the suffering * of body and soul, O all-honored ever-blessed Saint."
+
+alt2.meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
+alt2.meMA.LaudsGlory.melody = ""
+alt2.meMA.LaudsGlory.text = "O devout father Paisios, the proclamation of your achievements has gone out into all the land of Greece and the whole wide world. As if an angel incarnate, you proclaimed the life-giving teachings of the Gospel, from Athos to all the earth. Also by the way you lived and by what you did, you were a model for monastics, a teacher of laypeople, a guide for the youth, a supporter of convents, and a friend to all. We now humbly pray to you, O Saint: Never cease interceding with the Lord, on behalf of our souls."
+
+alt2.meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
+alt2.meMA.LaudsTheotokion.melody = ""
+alt2.meMA.LaudsTheotokion.text = oc.m8.d2_en_US_dedes.ocMA.AposTheotokion.text
+
+alt2.meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
+
+alt2.meLI.Kontakion1.mode = meMA.Kontakion1.mode
+alt2.meLI.Kontakion1.melody = meMA.Kontakion1.melody
+alt2.meLI.Kontakion1.text = meMA.Kontakion1.text
+
+alt2.meMegalynarion.text = "Rejoice, O companion of the Devout, * glory of Mt. Athos, and the new teacher of the  Church! * Adornment of monastics, our pride and joy, O father, * rejoice, O godly-minded Elder Paisios."
+
