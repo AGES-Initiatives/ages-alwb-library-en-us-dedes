@@ -298,13 +298,25 @@ alt1.meSV.Stichera3.mode = misc_en_US_dedes.Mode1
 alt1.meSV.Stichera3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 alt1.meSV.Stichera3.text = ""
 
+alt1.meSV.Stichera4.mode = misc_en_US_dedes.Mode1
+alt1.meSV.Stichera4.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+alt1.meSV.Stichera4.text = "The people of Naxos, having learned * of your reputation as a saint, O blest Father Nicholas, now celebrate with joy; * and together clergy * and laity send up praise * to Christ our God, who lately is magnifying all His will in you, * as He does to the Saints on His earth, * leading many * people to repentance through you."
+
+alt1.meSV.Stichera5.mode = misc_en_US_dedes.Mode1
+alt1.meSV.Stichera5.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+alt1.meSV.Stichera5.text = "Together with Naxos do the folks * of all the Cyclades join in celebrating most joyously today the sacred feast * of your truly blessed * memory, O Nicholas Planas, our holy father; and now your children come from everywhere * to revere your icon, as they sing * hymns extolling * the Lord who has glorified you."
+
+alt1.meSV.Stichera6.mode = misc_en_US_dedes.Mode1
+alt1.meSV.Stichera6.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+alt1.meSV.Stichera6.text = "The city of Athens gaily leads * the resplendent celebration of your feast, Father Nicholas, for you had liturgized * therein at the holy * churches of the Forerunner and of St. Panteleimon, wherever you were sent to serve as priest, * sanctifying the small flock of Christ * that was given * to you as a good shepherd."
+
 alt1.meSV.SticGlory.mode = misc_en_US_dedes.Mode2
 alt1.meSV.SticGlory.melody = ""
 alt1.meSV.SticGlory.text = ""
 
 alt1.meSV.SticBoth.mode = misc_en_US_dedes.Mode2
 alt1.meSV.SticBoth.melody = ""
-alt1.meSV.SticBoth.text = "" //tin pasan elpida mou
+alt1.meSV.SticBoth.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
 
 alt1.meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
 alt1.meSV.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
@@ -376,7 +388,7 @@ alt1.meVE.LityGlory.text = ""
 
 alt1.meVE.LityBoth.mode = misc_en_US_dedes.Mode8
 alt1.meVE.LityBoth.melody = ""
-alt1.meVE.LityBoth.text = oc.m8.d1_en_US_dedes.ocVE.AposTheotokion.text
+alt1.meVE.LityBoth.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
 
 alt1.meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
 alt1.meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
@@ -404,27 +416,27 @@ alt1.meVE.Apolytikion1.text = "By escaping the snares of the deceiver, most sacr
 
 alt1.meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Kathisma11.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
-alt1.meMA.Kathisma11.text = ""
+alt1.meMA.Kathisma11.text = "O God-bearer Nicholas Planas, from earliest age * you loved Christ the God of all, and in your soul you received * the calling, all-blessed one. * Father, once you accepted * to wear the grace of the priesthood, * throughout your life you served Him in a God-inspired manner. * We pray that you will ever entreat Him on our behalf."
 
 alt1.meMA.Kathisma1T.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Kathisma1T.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
-alt1.meMA.Kathisma1T.text = ""
+alt1.meMA.Kathisma1T.text = "The hope of the humble, O Virgin Mother of God: * you recognized that Nicholas possessed a Christ-loving soul * from earliest childhood. * Maternally you stood by him and provided protection, * obtaining for him the grace of your Son and our Savior. * And now you receive him as a Saint in the kingdom of Christ."
 
 alt1.meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Kathisma21.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
-alt1.meMA.Kathisma21.text = ""
+alt1.meMA.Kathisma21.text = "We the believers join the people of Naxos * and the descendants and the spiritual children * of God-bearing St. Nicholas, the Priest surnamed Planas. * As we celebrate today the most sacred and splendid * feast day of his memory, let us venerate his relics * with love and longing, and let us receive * with joy the fragrance * of our father and patron Saint."
 
 alt1.meMA.Kathisma2T.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Kathisma2T.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
-alt1.meMA.Kathisma2T.text = ""
+alt1.meMA.Kathisma2T.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
 
 alt1.meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Kathisma31.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
-alt1.meMA.Kathisma31.text = ""
+alt1.meMA.Kathisma31.text = "On this day of your divine * memory, Father, * has your holy icon shone, * cheering the faithful heart and soul, * most sacred Priest, Nicholas Planas; * it is projecting an image of holiness."
 
 alt1.meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
-alt1.meMA.Kathisma3T.text = ""
+alt1.meMA.Kathisma3T.text = "O all-holy Lady pure, * we the believers * bless you, and we ardently * entreat you for the mighty help * that you provide, and are strengthened by * the supplications * of holy father Nicholas."
 
 alt1.meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 
@@ -438,7 +450,7 @@ alt1.meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 alt1.meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
 alt1.meMA.PostGospelIdiomelon.melody = ""
-alt1.meMA.PostGospelIdiomelon.text = ""
+alt1.meMA.PostGospelIdiomelon.text = "At the advice and fervent request of your mother, you accepted to be married very young, O Saint. In any event, God managed your life, mixing the joy of having a child with becoming a widower. For your part, you wholeheartedly devoted yourself to the Lord. You became a priest and served as such devoutly. And now you are a celebrant at the heavenly altar."
 
 alt1.meMA.C1Poet = ""
 alt1.meMA.C1Acrostic.text = ""
@@ -548,9 +560,9 @@ alt1.meMA.Ode6C1T.text = ""
 
 alt1.meMA.Kontakion1.mode = misc_en_US_dedes.Mode7
 alt1.meMA.Kontakion1.melody = ""
-alt1.meMA.Kontakion1.text = ""
+alt1.meMA.Kontakion1.text = "In every nation, time and age, God has never left His divine glory and divinity without witness. Together with the saints who are on His earth, He glorified Nicholas Planas. And He has given him to us as an intercessor, a father, and ardent helper in times of need."
 
-alt1.meMA.Oikos1.text = ""
+alt1.meMA.Oikos1.text = "Angels came down from heaven and received your soul, O Father Nicholas Planas. Recognizing it to be angelic, even if on earth it wore flesh, they rejoiced. And they glorified and extolled Christ the King of all, and shouted: Praise is due to You our God."
 
 alt1.meMA.Synaxarion.text = ""
 
@@ -629,7 +641,7 @@ alt1.meMA.LaudsGlory.text = ""
 
 alt1.meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode1
 alt1.meMA.LaudsTheotokion.melody = ""
-alt1.meMA.LaudsTheotokion.text = oc.m1.d1_en_US_dedes.ocVE.AposTheotokion.text
+alt1.meMA.LaudsTheotokion.text = oc.m1.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 alt1.meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
