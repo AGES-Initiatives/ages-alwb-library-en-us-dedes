@@ -505,7 +505,7 @@ octrMA.Kathisma11.text = pe.d120_en_US_dedes.peVE.Apolytikion1.text
 
 octrMA.Kathisma12.mode = misc_en_US_dedes.Mode8
 octrMA.Kathisma12.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
-octrMA.Kathisma12.text = ""
+octrMA.Kathisma12.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma1T.mode = misc_en_US_dedes.Mode8
 octrMA.Kathisma1T.melody = ""
@@ -513,7 +513,7 @@ octrMA.Kathisma1T.text = ""
 
 octrMA.Ode7Martyricon.mode = misc_en_US_dedes.Mode8
 octrMA.Ode7Martyricon.melody = ""
-octrMA.Ode7Martyricon.text = ""
+octrMA.Ode7Martyricon.text = "O holy Martyrs, you finished the race and bravely resisted the tyrants. On earth you mortified your bodies, and in return you received heavenly life."
 
 octrMA.Photogogic.mode = misc_en_US_dedes.Mode8
 octrMA.Photogogic.text = oc.m8.d2_en_US_dedes.octrMA.Photagogic.text
