@@ -192,7 +192,7 @@ meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = ""
+meMA.PostGospelIdiomelon.text = "Come, O believers, and inspired by God let us partake from the table of Paisios. Behold, our father Paisios the New, whose manners were the same as his namesake of old, invites us to a spiritual banquet. Come all, let us celebrate the fruits of his labors, his words that flow like honey, and the stream of his miracles. And seeing our protector as if he were present, let us now entreat him: \"O devout Father, intercede with Christ our God, for the salvation of our souls.\""
 
 meMA.C1Poet = ""
 meMA.C1Acrostic.text = ""
@@ -418,16 +418,16 @@ meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode8
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.TiYpermacho.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "Leading your life on earth in an angelic manner, * and brightly shining through your love, devout Paisios, * you became a great encouragement for monastics, * and a guide for the believers to a holy life, * for the whole wide world a source of sweet divine delight. * So we shout to you: Rejoice, Father known throughout the world!"
 
-meMA.Oikos1.text = ""
-meMA.Oikos12.text = ""
-meMA.Oikos13.text = ""
-meMA.Oikos14.text = ""
-meMA.Oikos15.text = ""
-meMA.Oikos16.text = ""
-meMA.Oikos17.text = ""
-meMA.Oikos18.text = ""
+meMA.Oikos1.text = "Angels were all in wonder, how, O Father, in body, you ascended through love to the heavens, and how from there, filled with divine love, with the light of love you made the earth heavenly. And we who are in awe of you salute you thus with utmost reverence:"
+meMA.Oikos12.text = "Rejoice, the mystic of sacred stillness; rejoice, the vessel of love for and of God."
+meMA.Oikos13.text = "Rejoice, for you received the bread of Angels; rejoiced for you received Saints in your cabin."
+meMA.Oikos14.text = "Rejoice, for you were granted to see the God-man Christ; rejoice, for you also had visions of the Mother of God."
+meMA.Oikos15.text = "Rejoice, most sympathetic intercessor for all people; rejoice, O invisible benefactor of the whole world."
+meMA.Oikos16.text = "Rejoice, distinguished champion of Orthodoxy; rejoice, mighty opponent of schism and heresy."
+meMA.Oikos17.text = "Rejoice, the splendor of Holy Mt. Athos; rejoice, protector of the Theologian's Convent."
+meMA.Oikos18.text = "Rejoice, Father known throughout the world!"
 
 meMA.Synaxarion.text = ""
 
@@ -556,9 +556,13 @@ meMA.Ode9C2T.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C2T.melody = he.h.m4_en_US_dedes.ApasGigenis.name
 meMA.Ode9C2T.text = ""
 
-meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.ApostoloiEkPeraton.name
 meMA.Exaposteilarion1.text = ""
+
+meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion2.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
