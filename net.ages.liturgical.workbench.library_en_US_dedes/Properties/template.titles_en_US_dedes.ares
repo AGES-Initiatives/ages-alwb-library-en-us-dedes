@@ -82,6 +82,15 @@ co1.html.tab = "PRE-RESURRECTION SERVICE" //this is the pre-resurrection service
 co1.pdf.header = "Pre-Resurrection Service"
 co1.pdf.cover = "Pre-Resurrection Service"
 
+co2.html.tab = "SMALL COMPLINE - SALUTATIONS"
+co2.pdf.header = "Small Compline and Salutations to the Theotokos"
+co2.pdf.cover = "Small Compline and Salutations to the Theotokos"
+
+co3.html.tab = "SMALL COMPLINE - AKATHIST" 
+co3.pdf.header = "Small Compline and Akathist Hymn"
+co3.pdf.cover = "Small Compline and Akathist Hymn"
+
+em.html.tab = "ΟΡΘΡΟΣ" //this is for Matins in the evening during Holy Week
 em.html.tab = "MATINS"  //this is for Matins in the evening during Holy Week
 em.pdf.header = "Matins"
 em.pdf.cover = "Matins"
