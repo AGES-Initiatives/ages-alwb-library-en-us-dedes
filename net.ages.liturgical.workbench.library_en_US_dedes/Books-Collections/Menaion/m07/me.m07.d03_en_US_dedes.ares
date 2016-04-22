@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m07.d03_en_US_dedes
 
 meDate.text = "July 3"
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meCommemoration.text = "Memory of the holy Martyr Hyacinth" //full title of day
+meShortCommemoration1.text = "St. Hyacinth"
+meInsert1 = "and the holy Martyr Hyacinth," //for use in petitions and dismissal
+meInsert2 = "whose memory we observe," //for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
@@ -16,15 +16,15 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode8
 meVE.Stichera01.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.text = "Martyr Athlete, you are a gem that shines * with the brilliance of the Spirit in the Kingdom of our Christ. * For you steadfastly contested for the sake of faith in Him, * and vanquished godless forces turning them to flight, * against them claiming overwhelming victory. * We therefore honor and glorify * you as a soldier invincible. * Entreat the Lord to have mercy and to save our souls."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode8
 meVE.Stichera02.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.text = "Martyr and God-bearer St. Hyacinth, * you traversed the waves of error being piloted by Christ's * all-invincible right hand, O holy Athlete of the Lord, * and moored in the noetic harbor safe and sound, * enjoying the tranquility that never ends, * and granted glory that never fades, * in exultation forevermore. * Entreat the Lord to have mercy and to save our souls."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode8
 meVE.Stichera03.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = "With your body's members you glorified * the immortal God, for you were put to death confessing Him. * Thus, O Martyr, He has given you divine, immortal gifts. * And each day, by the signs and wonders you perform * in His name, * you are glorified by Him, O Saint. * Indeed your tomb has become a spring * of divine blessings, O Hyacinth. * Entreat the Lord to have mercy and to save our souls."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
@@ -89,7 +89,7 @@ meMA.Ode3KathismaT.text = oc.m3.d2_en_US_dedes.ocMA.Kathisma23.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode3
 meMA.Ode3KathismaSt.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
-meMA.Ode3KathismaSt.text = "WHEN the Word's most pure and spotless Ewe-lamb, * the all-undefiled and Virgin Mother, * saw Him hanging suspended upon the Cross * Who had once blossomed forth from her without travail, * she cried in mourning, lamenting maternally: * Woe is me, my Child, how do You suffer this Passion now, * to free from shameful passions all the race of man?"
+meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_dedes.Mode8
