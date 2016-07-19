@@ -32,7 +32,7 @@ meVE.Stichera04.text = "O Ignatius the Morning Star, from the East you had risen
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode8
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = "O God-bearing St. Ignatius, you were held in the bosom of Christ, the object of your love. For your sacred work of spreading the Gospel of Christ, you received your reward, namely death by blood. You were ground by the teeth of wild beasts, and thus you became the wheat of the immortal Farmer, and became His pure and sweet bread. And now you intercede on our behalf, O blessed Martyr."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
@@ -45,7 +45,7 @@ meVE.SticStavrotheotokion.text = ""
 meVE.AposGlory.poet = poets_en_US_dedes.Stouditou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode1
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = "We marvel how your soul was so steadfast and adamant, O praiseworthy Ignatius. You were so firmly attached to your true Love, that you said, \"There is no fire of material longing within me, but only water living and speaking in me, saying within me, 'Come to the Father.'\" Thus, on fire with the Spirit, you provoked the beasts to separate you from this world, and to send you on to Christ, for whom you longed. And now entreat Him, to save our souls."
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode1
 meVE.AposTheotokion.melody = ""
@@ -61,8 +61,8 @@ meVE.GeneralApolytikion1.name = "Ignatius." // name of saint for General Apolyti
 
 meMA.C1Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
