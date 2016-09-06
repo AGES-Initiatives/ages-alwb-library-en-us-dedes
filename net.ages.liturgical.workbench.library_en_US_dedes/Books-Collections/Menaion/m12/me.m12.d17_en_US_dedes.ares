@@ -461,10 +461,10 @@ meLI.SeasonalKontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
 meMegalynarion.text = ""
 
 alt1.meDate.text = "December 17" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-alt1.meCommemoration.text = "" //full title of day
-alt1.meShortCommemoration1.text = ""
-alt1.meInsert1 = "" //for use in petitions and dismissal
-alt1.meInsert2 = "" //for use in petitions and dismissal
+alt1.meCommemoration.text = "Memory of our Father among the Saints Dionysios the New, Archbishop of Aigina, the Wonder-worker, from the Island of Zakynthos" //full title of day
+alt1.meShortCommemoration1.text = "St. Dionysios of Aigina"
+alt1.meInsert1 = "our Father among the Saints Dionysios the New, Archbishop of Aigina, the Wonder-worker," //for use in petitions and dismissal
+alt1.meInsert2 = "whose memory we celebrate," //for use in petitions and dismissal
 alt1.meNote.text = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
