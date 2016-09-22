@@ -3,8 +3,8 @@ A_Resource_Whose_Name = me.m11.d07_en_US_dedes
 meDate.text = "November 7"
 meCommemoration.text = "Memory of the Thirty-Three holy Martyrs in Melitene; and Memory of our Devout Father Lazarus the Wonder-worker, who lived as an Ascetic on Mt. Galesion."
 meShortCommemoration1.text = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
+meInsert1 = "the Thirty-Three holy Martyrs in Melitene, and our devout father Lazarus the Wonder-worker, " // for use in petitions and dismissal
+meInsert2 = "whose memory we observe," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Thirty-Three Holy Martyrs of Melitene. Our Venerable Father Lazaros of Mount Galesion, the Wonder-worker."
 meLE.commemoration2 = ""
@@ -44,7 +44,7 @@ meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode5
 meVE.SticTheotokion.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = "Shine your illumination on me, * who in the darkness of the passions am languishing; * and speedily lead me up from my deep depression I pray, * for, O Virgin Mother, you conceived and bore * our God in the flesh indeed, yes the radiance of the truth. * Confirm the movements and the steps of my heart and soul * on the solid rock of an unerring way of life. * Vindicate me against my foes, * those demons who pressure me; * and make the pain go away from my aching heart which is in distress, * O hope of all people, as the one through whom great mercy is granted to the world."
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode5
 meVE.SticStavrotheotokion.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
@@ -52,11 +52,11 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = "Devout Father, the proclamation of your achievements went forth into all the earth. For your labors you found the reward in heaven. You destroyed the arrays of demons, and you attained to the orders of the Angels, whose lifestyle you emulated blamelessly. Since you have confidence before the Lord, ask Him to grant peace to our souls."
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.AposTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.text = me.m07.d08_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode6
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
