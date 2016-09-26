@@ -257,11 +257,11 @@ meLI.SeasonalKontakion.text = me.m12.d20_en_US_dedes.meMA.Kontakion1.text
 meMegalynarion.text = ""
 
 
-alt1.meDate.text = "" // date
-alt1.meCommemoration.text = "" //full title of day
+alt1.meDate.text = "December 2" // date
+alt1.meCommemoration.text = "Memory of our Devout and God-Bearing Father Porphyrios of Kafsokalyvia" //full title of day
 alt1.meShortCommemoration1.text = ""
-alt1.meInsert1 = "" //for use in petitions and dismissal
-alt1.meInsert2 = "" //for use in petitions and dismissal
+alt1.meInsert1 = "and our devout and God-bearing father Porphyrios of Kafsokalyvia," //for use in petitions and dismissal
+alt1.meInsert2 = "whose memory we celebrate," //for use in petitions and dismissal
 alt1.meNote.text = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
@@ -319,15 +319,15 @@ alt1.meSV.AposBoth.text = ""
 
 alt1.meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 alt1.meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-alt1.meVE.Stichera01.text = ""
+alt1.meVE.Stichera01.text = "O you lovers of feasts in Greece, * godly-minded throughout the world, * let us come together today and all extol * truly divine St. Porphyrios, * who lived an angelic life, * who was shown to be indeed * a true prophet, who being rich * in the Spirit's grace * humbly served all and thus became a mystic of the Trinity, and rightly * the pride and joy of the Orthodox."
 
 alt1.meVE.Stichera02.mode = misc_en_US_dedes.Mode4
 alt1.meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-alt1.meVE.Stichera02.text = ""
+alt1.meVE.Stichera02.text = "In the bloom of your youth you went * to Mt. Athos and blossomed there * like a fragrant flower. And thus your fragrant words * in their simplicity brought great joy * to many. And with divine * gentleness you pacified * troubled souls, and you guided them * to the quiet port * of the one holy Church of Christ, the Savior, where indeed there is salvation * and the enjoyment of Paradise."
 
 alt1.meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 alt1.meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-alt1.meVE.Stichera03.text = ""
+alt1.meVE.Stichera03.text = "Out of Evvoia you shone forth * like a luminous star, O Saint, * shining on whole earth, and giving light to all * with brilliant rays of the gifts of grace * and all of that splendid glow * of the holy life you led, * pride and joy of monastic saints, * O Porphyrios. * You became the embodiment of love, for all the model of forgiveness, * patient endurance and simplicity."
 
 alt1.meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 alt1.meVE.Stichera04.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
