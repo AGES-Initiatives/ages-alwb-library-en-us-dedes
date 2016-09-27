@@ -5,7 +5,8 @@ meHO.DaysHours.text = ""
 
 meDate.text = "February 1" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "The Forefeast of the Meeting of our Lord, God and Savior Jesus Christ; and Memory of the Holy Martyr Tryphon." // full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "The Forefeast of the Meeting of our Lord"
+meShortCommemoration2.text = "Memory of the Holy Martyr Tryphon"
 meInsert1 = "the holy and glorious martyr Tryphon," // for use in petitions and dismissal
 meInsert2 = "whose memory we observe;" // for use in petitions and dismissal
 meNote.text = ""
