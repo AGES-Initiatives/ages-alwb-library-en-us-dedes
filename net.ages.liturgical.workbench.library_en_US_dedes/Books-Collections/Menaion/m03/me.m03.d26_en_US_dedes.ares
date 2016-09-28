@@ -2,7 +2,8 @@ A_Resource_Whose_Name = me.m03.d26_en_US_dedes
 
 meDate.text = "March 26" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "The Synaxis in Honor of the Chief Commander Gabriel." // full title of day
-meShortCommemoration1.text = "Leave-taking of Annunciation"
+meShortCommemoration1.text = "Synaxis in Honor of the Chief Commander Gabriel"
+meShortCommemoration2.text = "Leave-taking of Annunciation"
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
