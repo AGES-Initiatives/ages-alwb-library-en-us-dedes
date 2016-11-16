@@ -50,7 +50,7 @@ ocVE.ApolTheotokionVM.text = oc.m3.d4_en_US_dedes.ocMA.Kathisma13.text
 
 ocMA.Kathisma11.mode = misc_en_US_dedes.Mode3
 ocMA.Kathisma11.melody = ""
-ocMA.Kathisma11.text = ""
+ocMA.Kathisma11.text = "The Cross was set up on the earth, and it touched the heavens; not that the tree reached that height, but that You who were on it fill all things. Glory to You, O Lord."
 
 ocMA.Kathisma12.mode = misc_en_US_dedes.Mode3
 ocMA.Kathisma12.melody = ""
@@ -515,7 +515,7 @@ octrMA.Triadic3.mode = misc_en_US_dedes.Mode3
 octrMA.Triadic3.text = oc.m3.d2_en_US_dedes.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = misc_en_US_dedes.Mode3
-octrMA.Kathisma11.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+octrMA.Kathisma11.melody = misc_en_US_dedes.NotMetered //he.a.m3_en_US_dedes.TinOraiotita.name
 octrMA.Kathisma11.text = ocMA.Kathisma22.text
 
 octrMA.Kathisma12.mode = misc_en_US_dedes.Mode3
