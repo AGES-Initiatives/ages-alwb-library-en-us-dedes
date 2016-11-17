@@ -53,7 +53,7 @@ ocMA.Kathisma11.melody = ""
 ocMA.Kathisma11.text = oc.m3.d4_en_US_dedes.ocMA.Kathisma11.text
 
 ocMA.Kathisma12.mode = misc_en_US_dedes.Mode3
-ocMA.Kathisma12.melody = ""
+ocMA.Kathisma12.melody = oc.m3.d4_en_US_dedes.ocMA.Kathisma12.melody
 ocMA.Kathisma12.text = oc.m3.d4_en_US_dedes.ocMA.Kathisma12.text
 
 ocMA.Kathisma13.mode = misc_en_US_dedes.Mode3
@@ -61,7 +61,7 @@ ocMA.Kathisma13.melody = misc_en_US_dedes.NotMetered //he.a.m3_en_US_dedes.TinOr
 ocMA.Kathisma13.text = "The pure and all-immaculate and blameless Virgin cried out to You, \"All creation greatly rejoices, seeing You, the long-suffering Lord, lifted up on the Cross. For it has found redemption through You, my beloved Son. By a tree, You remedied the condemnation incurred because of the tree. But I am shaken to the core, not able to watch You being put to death.\" "
 
 ocMA.Kathisma21.mode = misc_en_US_dedes.Mode3
-ocMA.Kathisma21.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+ocMA.Kathisma21.melody = oc.m3.d4_en_US_dedes.ocMA.Kathisma22.melody
 ocMA.Kathisma21.text = oc.m3.d4_en_US_dedes.ocMA.Kathisma22.text
 
 ocMA.Kathisma22.mode = misc_en_US_dedes.Mode3
@@ -73,7 +73,7 @@ ocMA.Kathisma23.melody = misc_en_US_dedes.NotMetered //he.a.m3_en_US_dedes.TinOr
 ocMA.Kathisma23.text = "When the divine and unyoked heifer comprehended that her own young bull was enduring the Passion and crucified of His own will, she uttered, \"My son, what is this strange mystery? How can You, being immortal, deign to die? I extol Your long-suffering, O Logos. I glorify Your immeasurable mercy.\""
 
 ocMA.Kathisma31.mode = misc_en_US_dedes.Mode3
-ocMA.Kathisma31.melody = ""
+ocMA.Kathisma31.melody = oc.m3.d4_en_US_dedes.ocMA.Kathisma21.melody
 ocMA.Kathisma31.text = oc.m3.d4_en_US_dedes.ocMA.Kathisma21.text
 
 ocMA.Kathisma32.mode = misc_en_US_dedes.Mode3
@@ -497,16 +497,16 @@ octrMA.Triadic3.mode = misc_en_US_dedes.Mode3
 octrMA.Triadic3.text = oc.m3.d2_en_US_dedes.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = misc_en_US_dedes.Mode3
-octrMA.Kathisma11.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+octrMA.Kathisma11.melody = ocMA.Kathisma22.melody
 octrMA.Kathisma11.text = ocMA.Kathisma22.text
 
 octrMA.Kathisma12.mode = misc_en_US_dedes.Mode3
-octrMA.Kathisma12.melody = ""
+octrMA.Kathisma12.melody = ocMA.Kathisma12.melody
 octrMA.Kathisma12.text = ocMA.Kathisma12.text
 
 octrMA.Kathisma1T.mode = misc_en_US_dedes.Mode3
-octrMA.Kathisma1T.melody = he.a.m3_en_US_dedes.TinOraiotita.name
-octrMA.Kathisma1T.text = ""
+octrMA.Kathisma1T.melody = misc_en_US_dedes.NotMetered //he.a.m3_en_US_dedes.TinOraiotita.name
+octrMA.Kathisma1T.text = "O compassionate Lord, You willingly endured a painful death by crucifixion. As Your Mother watched it, she was wounded in her heart, O Christ. By her supplications, only most benevolent and humane Master, in Your tender mercies, take pity and save the world, for You have taken away its sin."
 
 octrMA.Ode7Martyricon.mode = misc_en_US_dedes.Mode3
 octrMA.Ode7Martyricon.melody = ""
