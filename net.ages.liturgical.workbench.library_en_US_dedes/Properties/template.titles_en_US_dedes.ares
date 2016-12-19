@@ -73,6 +73,9 @@ co.pdf.header = "COMPLINE"
 co.pdf.cover = "The Service of Compline"
 co.smallcompline.pdf.cover = "Small Compline"
 co.smallcompline.pdf.header = "SMALL COMPLINE"
+co.akathist.html.tab = "SMALL COMPLINE WITH AKATHIST"
+co.akathist.pdf.header = "Small Compline with Akathist"
+co.akathist.pdf.cover = "Small Compline with Akathist"
 co.salutations.pdf.cover = "Small Compline with Salutations"
 co.salutations.pdf.header = "SMALL COMPLINE WITH SALUTATIONS"
 co.greatcompline.pdf.cover = "Great Compline"
@@ -94,10 +97,13 @@ co4.html.tab = "SMALL COMPLINE - GREAT CANON"
 co4.pdf.header = "Small Compline and Great Canon"
 co4.pdf.cover = "Small Compline and Great Canon"
 
-em.html.tab = "ΟΡΘΡΟΣ" //this is for Matins in the evening during Holy Week
 em.html.tab = "MATINS"  //this is for Matins in the evening during Holy Week
 em.pdf.header = "Matins"
 em.pdf.cover = "Matins"
+
+gc.html.tab = "GREAT COMPLINE"
+gc.pdf.header = "Great Compline"
+gc.pdf.cover = "Great Compline"
 
 gh.html.tab = "GREAT HOURS"
 gh.pdf.header = "Great Hours"
