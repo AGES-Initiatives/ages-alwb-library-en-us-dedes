@@ -71,10 +71,10 @@ peMA.Lauds4.text = oc.m3.d1_en_US_dedes.ocMA.Lauds4.text
 
 peMA.MM.Lauds1234.text = properties_en_US_dedes.media.key
 
-alt1.peCommemoration.text = "" //full title of day
-alt1.peShortCommemoration1.text = ""
-alt1.peInsert1 = "" //for use in petitions and dismissal
-alt1.peInsert2 = "" //for use in petitions and dismissal
+alt1.peCommemoration.text = "Bright Tuesday. Memory of the holy, glorious, lately-appearing, and miracle-working monastic Martyrs, Raphael and Nicholas, and the holy Virgin Martyr Irene, who were in Thermi on the Island of Lesbos" //full title of day
+alt1.peShortCommemoration1.text = "Bright Tuesday. Memory of Sts. Raphael, Nicholas and Irene."
+alt1.peInsert1 = "the holy, glorious, lately-appearing, and miracle-working monastic Martyrs Raphael, Nicholas, and Irene," //for use in petitions and dismissal
+alt1.peInsert2 = "whose memory we celebrate," //for use in petitions and dismissal
 alt1.peNote.text = ""
 alt1.peHO.day = ""
 alt1.peHO.commemorations = ""
@@ -190,15 +190,15 @@ alt1.peVE.Apolytikion3.text = ""
 
 alt1.peMA.Kathisma31.mode = misc_en_US_dedes.Mode1
 alt1.peMA.Kathisma31.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-alt1.peMA.Kathisma31.text = ""
+alt1.peMA.Kathisma31.text = "So long beneath the earth, your divine holy relics * have come up and appeared as if lilies and roses, * noetic and redolent, Raphael and Nicholas. * Therefore we extol you and Irene the virgin, * as we celebrate today and festively honor * your radiant memory."
 
 alt1.peMA.Kathisma32.mode = misc_en_US_dedes.Mode1
 alt1.peMA.Kathisma32.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-alt1.peMA.Kathisma32.text = ""
+alt1.peMA.Kathisma32.text = "O godly-minded St. Raphael and thrice-blessed * St. Nicholas, when those pious women had seen you, * like Myrrh-bearers did of old, they were greatly amazed and ran * and proclaimed to all what they had seen and your wonders; * for which you are now throughout the world very famous, * to the glory of our God."
 
 alt1.peMA.Kathisma3T.mode = misc_en_US_dedes.Mode1
 alt1.peMA.Kathisma3T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-alt1.peMA.Kathisma3T.text = ""
+alt1.peMA.Kathisma3T.text = "When You, the Life of all, from the dead resurrected, * You filled with utmost joy all creation, O Good One. * And therefore as we celebrate Your resurrection we cry aloud: * By the ardent prayers of Your immaculate Mother * and the Martyr Saints, whom You revealed to us lately, * O Savior, have mercy on us."
 
 alt1.peMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 alt1.peMA.PostGospelGlory.melody = ""
@@ -210,7 +210,7 @@ alt1.peMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 alt1.peMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 alt1.peMA.PostGospelIdiomelon.melody = ""
-alt1.peMA.PostGospelIdiomelon.text = ""
+alt1.peMA.PostGospelIdiomelon.text = "O glorious devout monastic Martyrs, you competed in martyrdom, and you obtained the prizes of the contest. * And now, by the discovery of your holy relics, you have filled the island of Lesbos with sanctification; not only that, but to the entire Church you have brought joy and gladness. For Christ, who was glorified in your members, thus glorified you in return. Ever intercede with Him, O Raphael and Nicholas and Irene, and the others who competed alongside you, that He save us from every adversity."
 
 alt1.peMA.C1Acrostic.text = ""
 
@@ -330,9 +330,9 @@ alt1.peMA.Ode6C1T.mode = misc_en_US_dedes.Mode1
 alt1.peMA.Ode6C1T.melody = he.h.m1_en_US_dedes.KatilthesEnToisKatotatois.name
 alt1.peMA.Ode6C1T.text = "" 
 
-alt1.peMA.Kontakion1.mode = misc_en_US_dedes.Mode8
-alt1.peMA.Kontakion1.melody = he.a.m8_en_US_dedes.TiYpermacho.name
-alt1.peMA.Kontakion1.text = ""
+alt1.peMA.Kontakion1.mode = misc_en_US_dedes.Mode4
+alt1.peMA.Kontakion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+alt1.peMA.Kontakion1.text = "They who had visibly competed for Christ's sake, * were then beneath the earth for centuries hidden. * But now they have amazingly revealed themselves to us, * Raphael and Nicholas and Irene the devout saints, * and their fellow athletes who had piously joined them. * These holy Martyrs all deserve our praise * as wonder-workers, protectors and patron saints."
 
 alt1.peMA.Oikos1.text = ""
 
