@@ -195,6 +195,10 @@ sv.html.tab = "SMALL VESPERS"
 sv.pdf.header = "Small Vespers"
 sv.pdf.cover = "The Service of Small Vespers"
 
+sv3.html.tab = "SMALL VESPERS AND PRESANCTIFIED"
+sv3.pdf.header = "Small Vespers and Presanctified Liturgy"
+sv3.pdf.cover = "The Service of Small Vespers and Presanctified Liturgy"
+
 ve.html.tab = "VESPERS"
 ve.pdf.header = "Vespers"
 ve.pdf.cover = "The Service of Vespers"
@@ -203,9 +207,9 @@ ve2.html.tab = "VESPERS"
 ve2.pdf.header = "Vespers"
 ve2.pdf.cover = "The Service of Vespers"
 
-ve3.html.tab = "VESPERS"
-ve3.pdf.header = "Vespers"
-ve3.pdf.cover = "The Service of Vespers"
+ve3.html.tab = "GREAT VESPERS AND SALUTATIONS"
+ve3.pdf.header = "Great Vespers and Salutations"
+ve3.pdf.cover = "The Service of Great Vespers and Salutations"
 
 ve4.html.tab = "VESPERS"
 ve4.pdf.header = "Vespers"
@@ -269,6 +273,8 @@ pa.easter = "Easter Sunday"
 pa.agape = "The Agape Vespers Service"
 pa.brightweek = "Bright / Renewal Week"
 pa.ofbrightweek = "of Bright / Renewal Week"
+
+sal.theotokos = "Salutations to the Theotokos"
 
 clps.stichologia.top = "Show Stichologia"
 clps.stichologia.bottom = "Hide Stichologia"
