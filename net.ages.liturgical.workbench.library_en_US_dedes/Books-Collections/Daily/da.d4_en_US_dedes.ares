@@ -29,8 +29,12 @@ daMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 daMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 daMA.Exaposteilarion1.text = "We praise you now, O holy Cross, and venerate you faithfully, * and worthily we extol you, * for you are the Faith's supporter, * the weapon undefeatable, a refuge great and most secure, * the guardian of the Orthodox, * the pride and joy of all Christians, * the glory of holy martyrs."
 
-daMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
-daMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-daMA.ExapTheotokion.text = "All-pure one, you were present at the crucifixion of your Son. * You saw Him nailed and suspended * upon the cross, and Him dying. * Maternally you cried aloud, and shedding tears you said to Him, * \"What is this awful paradox, * that You who created all things * are crucified of Your own will?\""
+daMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode3
+daMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
+daMA.Exaposteilarion2.text = ""
+
+daMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
+daMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
+daMA.ExapTheotokion.text = ""
 
 daLI.CommunionHymn.text = properties_en_US_dedes.media.key
