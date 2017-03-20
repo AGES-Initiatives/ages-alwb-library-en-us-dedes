@@ -3,7 +3,7 @@ A_Resource_Whose_Name = tr.d056_en_US_dedes
 trCommemoration.text = "Saturday of the Fifth Week of Lent" //full title of day
 trShortCommemoration1.text = "Akathist Hymn"
 trInsert1 = "" //for use in petitions and dismissal
-trInsert2 = "" //for use in petitions and dismissal
+trInsert2 = "in honor of whom we celebrate the Akathist Hymn;" //for use in petitions and dismissal
 trNote.text = ""
 trHO.day = ""
 trHO.commemorations = ""
@@ -81,6 +81,8 @@ trAK.Oikos057.text = trAK.Refrain1.text
 
 trAK.Oikos060.text = "Fraught within with confusion brought about by doubtful thoughts, the temperate Joseph was troubled as he looked upon you the unwed and suspected adultery, O blameless one. But when he learned that your conception was by the Holy Spirit, he uttered, Alleluia."
 trAK.Oikos061.text = trAK.Refrain2.text
+
+trAK.R001 = "If the reading of Kathisma 17 and the short litany are omitted, which is often the case, then \"O Champion General\" is sung only once between the first and second stanzas."
 
 trAK.Oikos070.text = "Gloriously extolling the incarnate appearance of Christ did the shepherds hear the Angels. And running as though to a shepherd, they perceived Him to be as it were a blameless lamb that had been pastured in the womb of Mary whom they lauded saying:"
 trAK.Oikos071.text = "Rejoice, O Mother of the Lamb and Shepherd. Rejoice, O sheepfold of sheep with reason."
