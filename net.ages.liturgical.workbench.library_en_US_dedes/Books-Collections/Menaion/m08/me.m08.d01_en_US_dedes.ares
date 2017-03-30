@@ -5,9 +5,10 @@ meHO.DaysHours.text = ""
 
 meDate.text = "August 1"
 meCommemoration.text = "The Procession of the Holy Cross; and Memory of the Seven Holy Martyrs, the Maccabees, their Teacher Eleazar, and their Mother Solomone." // full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
+meShortCommemoration1.text = "The Procession of the Holy Cross."
+meInsert0 = "the procession of which we observe;"
+meInsert1 = "the Seven Holy Martyrs, the Maccabees, their Teacher Eleazar, and their Mother Solomone," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Holy Seven Children of the Maccabees, their Teacher Eleazor, and their Mother Solomone."
 meLE.commemoration2 = ""
@@ -48,7 +49,7 @@ meVE.SticGlory.text = ""
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode8
 meVE.SticBoth.melody = ""
-meVE.SticBoth.text = ""
+meVE.SticBoth.text = me.m09.d14_en_US_dedes.meVE.AposGlory.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
@@ -69,7 +70,7 @@ meVE.AposGlory.text = ""
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode8
 meVE.AposBoth.melody = ""
-meVE.AposBoth.text = ""
+meVE.AposBoth.text = me.m09.d14_en_US_dedes.meMA.AdditionalIdiomelonGlory.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.Poet = poets_en_US_dedes.Gerasimou
@@ -98,8 +99,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m8_en_US_dedes.ArmatilatinFarao.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouStavrou
+meMA.C1.verse = prayers_en_US_dedes.verse_Cross.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
@@ -126,8 +127,8 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_en_US_dedes.KanonTonAgion
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode1
@@ -642,13 +643,13 @@ meMA.LaudsGlory.text = ""
 
 meMA.LaudsBoth.mode = misc_en_US_dedes.Mode4
 meMA.LaudsBoth.melody = ""
-meMA.LaudsBoth.text = ""
+meMA.LaudsBoth.text = tr.d043_en_US_dedes.trVE.AposGlory.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
+meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
 
 meMA.AdditionalIdiomelon1.mode = misc_en_US_dedes.Mode2
 meMA.AdditionalIdiomelon1.melody = ""
-meMA.AdditionalIdiomelon1.text = ""
+meMA.AdditionalIdiomelon1.text = me.m09.d14_en_US_dedes.meMA.AdditionalIdiomelon1.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
