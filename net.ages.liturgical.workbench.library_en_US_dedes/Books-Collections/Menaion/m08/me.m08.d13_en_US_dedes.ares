@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m08.d13_en_US_dedes
 
 meDate.text = "August 13"
 meCommemoration.text = "Memory of our Devout Father Maximus the Confessor." // full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Leave-taking of the Feast of the Transfiguration."
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
@@ -16,3 +16,14 @@ meHO.note2 = ""
 meDismissal = dismissals_en_US_dedes.dis00.transfiguration
 
 meMA.Synaxarion.text = ""
+
+meLI.Kontakion1.mode = ""
+meLI.Kontakion1.melody = ""
+meLI.Kontakion1.text = ""
+
+meLI.SeasonalKontakion.mode = me.m08.d06_en_US_dedes.meMA.Kontakion1.mode
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = me.m08.d06_en_US_dedes.meMA.Kontakion1.text
+
+meLI.TheotokosHymn.mode = misc_en_US_dedes.Mode4
+meLI.TheotokosHymn.text = he.h.m4_en_US_dedes.OTokosSouAfthoros.text
