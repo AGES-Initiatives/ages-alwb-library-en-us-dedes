@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m04.d27_en_US_dedes
 
-meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
+meDate.text = "April 27" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "Memory of the holy Hieromartyr Symeon, the Kinsman of the Lord" //full title of day
+meShortCommemoration1.text = "Memory of the St. Symeon, the Kinsman of the Lord"
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -152,9 +152,9 @@ meMA.Ode6H.text = he.h.m4_en_US_dedes.EvoiseProtypon.text
 meMA.Kontakion1.poet = poets_en_US_dedes.Malaxou
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "O Saint, you became * a citizen of Zion on high, * and you occupied the throne of Zion below. * You led well the holy flock * to the heavenly sheepfold, O Symeon, * and you imitated Christ's divine * Passion, when for Him you were crucified."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "He was the descendant of Abraham, from the line of David, the Son of Joseph, and the kinsman of Jesus. Today let us extol him, Symeon the thrice-blessed: highly celebrated for being related to Christ, very illustrious for occupying the throne of the mother of the Churches, famously adorned with the blood of martyrdom. Indeed he imitated the Master's divine Passion, when for Him he was crucified."
 
 meMA.Synaxarion.text = ""
 
