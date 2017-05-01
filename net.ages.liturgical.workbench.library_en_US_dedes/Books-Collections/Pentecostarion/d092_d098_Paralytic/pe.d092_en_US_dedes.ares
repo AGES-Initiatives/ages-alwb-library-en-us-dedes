@@ -439,6 +439,10 @@ peMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
 peMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 peMA.LaudsGlory.text = "Lord, it was not the pool that cured the Paralytic, but rather it was Your word that renewed him. Not even his chronic ailment could impede it; for the energy of Your voice proved to be more potent. He threw off the oppressive burden, and carried the weight of his bed, as testimony of Your abundant mercies. Glory to You."
 
+peLI.SeasonalKontakion.mode = peMA.Kontakion1.mode
+peLI.SeasonalKontakion.melody = peMA.Kontakion1.melody
+peLI.SeasonalKontakion.text = peMA.Kontakion1.text
+
 peLI.TheotokosHymn.mode = misc_en_US_dedes.Mode1
 peLI.TheotokosHymnVerse.text = pe.d00P_en_US_dedes.pePA.Ode9MKa.text
 peLI.TheotokosHymn.text = pe.d00P_en_US_dedes.pePA.Ode9T1.text
