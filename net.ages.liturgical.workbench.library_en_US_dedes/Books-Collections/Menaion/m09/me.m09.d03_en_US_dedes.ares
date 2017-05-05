@@ -24,23 +24,23 @@ meVE.Stichera02.text = "You formerly as a lawful priest * brought the sacrifice 
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode1
 meVE.Stichera03.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = "To Christ you have offered up a host * of thrice-blessed martyr saints, whom you instructed and counseled with your teachings and advice, * godly-minded father * hieromartyr Anthimos. You made yourself a model for them to follow. Now with them entreat * and beseech God that surpassing peace * and great mercy * be upon our souls bestowed."
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode1
 meVE.Stichera04.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
-meVE.Stichera04.text = "O Father Theoctistos, today * your august memorial * brings joy and gladness to orders of monastics everywhere, * by your lifestyle's beauty, * the grace of your miracles, * and brightness of your luminous gifts from God. To Christ pray fervently * and beseech Him that surpassing peace * and great mercy * be upon our souls bestowed."
+meVE.Stichera04.text = "O Father Theoktistos, today * your august memorial * brings joy and gladness to orders of monastics everywhere, * by your lifestyle's beauty, * the grace of your miracles, * and brightness of your luminous gifts from God. To Christ pray fervently * and beseech Him that surpassing peace * and great mercy * be upon our souls bestowed."
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode1
 meVE.Stichera05.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
-meVE.Stichera05.text = "O Father Theoctistos, afraid * of the high intensity * of your ascetic endeavors were the vicious enemies, * and they were frustrated * by your unrelenting prayers; * for you, all-lauded Saint, had acquired Christ who worked for good with you. * So beseech Him that surpassing peace * and great mercy * be upon our souls bestowed."
+meVE.Stichera05.text = "O Father Theoktistos, afraid * of the high intensity * of your ascetic endeavors were the vicious enemies, * and they were frustrated * by your unrelenting prayers; * for you, all-lauded Saint, had acquired Christ who worked for good with you. * So beseech Him that surpassing peace * and great mercy * be upon our souls bestowed."
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode1
 meVE.Stichera06.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
-meVE.Stichera06.text = ""
+meVE.Stichera06.text = "O Father Theoktistos, your name * denotes God's creation; and you proved the truth of the epithet, devout and wondrous Saint, * by your sacred habit * and your holy way of life. * For you preserved the image of God in you. To Christ pray fervently * and beseech Him that surpassing peace * and great mercy * be upon our souls bestowed."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = "You were a priest fully under Christ's law, until your end, O blessed Anthimos. You were a celebrant of the divine and ineffable mysteries, and you spilled your own blood for the sake of Christ God, and offered yourself as an acceptable sacrifice to Him. Therefore, since you now have intimate access to Him, pray fervently for those who observe and honor your ever-venerable memory with faith and love, that they be delivered from temptations and trials, and every peril and adversity."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.SticTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
@@ -52,7 +52,7 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = "Devout Father, the proclamation of your achievements went forth into all the earth. For your labors you found the reward in heaven. You destroyed the arrays of demons, and you attained to the orders of the Angels, whose lifestyle you emulated blamelessly. Since you have confidence before the Lord, ask Him to grant peace to our souls."
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.AposTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
@@ -79,8 +79,8 @@ meMA.C1Acrostic.text = ""
 
 meMA.C2Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouIeromartyros
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -102,8 +102,8 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.TristatasKrataious.name
 meMA.Ode1C1T.text = "The Master who from you * like the sun has arisen * in a manner known to Him * has glorified the hosts * of the Athletes who have portrayed * in themselves all His life-bearing * sufferings and His unjust death * justifying us sinners, O purest Maid."
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode8
