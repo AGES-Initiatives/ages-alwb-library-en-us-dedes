@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m11.d26_en_US_dedes
 
 meDate.text = "November 26"
-meCommemoration.text = "Memory of our Devout Father Alypios the Stylite; and our Devout Father Stylianos of Paphlagonia." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of our Devout Fatherσ Alypios the Stylite and Nikon \"Repent\"; and our Devout Father Stylianos of Paphlagonia." // full title of day
+meShortCommemoration1.text = "Memory of our Devout Father Alypios the Stylite."
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
@@ -61,8 +61,8 @@ meVE.Apolytikion3.text = ""
 
 meMA.C1Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = "Canon for St. Alypios."
+meMA.C1.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode5
@@ -84,8 +84,8 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode5
 meMA.Ode1C1T.melody = he.h.m5_en_US_dedes.IpponKaiAnavatin.name
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = "Canon for St. Nikon."
+meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode8
