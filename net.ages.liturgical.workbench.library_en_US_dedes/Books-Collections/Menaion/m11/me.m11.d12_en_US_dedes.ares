@@ -2,8 +2,8 @@ A_Resource_Whose_Name = me.m11.d12_en_US_dedes
 
 meDate.text = "November 12"
 meCommemoration.text = "Memory of our Father among the Saints John the Merciful; and our Devout Father Neilos." // full title of day
-meShortCommemoration1.text = "Memory of our Father among the Saints John the Merciful"
-meInsert1 = "our father among the saints John the Merciful, and our devout father Neilos," // for use in petitions and dismissal
+meShortCommemoration1.text = "Memory of our Father among the Saints John the Merciful."
+meInsert1 = "our father among the saints John the Merciful," // for use in petitions and dismissal
 meInsert2 = "whose memory we observe," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Our Father among the Saints John the Merciful. Our Venerable Father Neilos."
@@ -67,6 +67,10 @@ meVE.AposGlory.mode = misc_en_US_dedes.Mode6
 meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Devout Father, the proclamation of your achievements went forth into all the earth. For your labors you found the reward in heaven. You destroyed the arrays of demons, and you attained to the orders of the Angels, whose lifestyle you emulated blamelessly. Since you have confidence before the Lord, ask Him to grant peace to our souls."
 
+meVE.AposGlorya.mode = misc_en_US_dedes.Mode6
+meVE.AposGlorya.melody = ""
+meVE.AposGlorya.text = "O devout, thrice-blessed, all-holy Father, good Shepherd, and Disciple of Christ the Chief Shepherd, you laid down your life for the sheep. O all-lauded John the Merciful, pray for us, that by your intercessions the Lord grant us His great mercy."
+
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.AposTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
 meVE.AposTheotokion.text = he.o_en_US_dedes.TheotokeSyEiIerarchou.text
@@ -89,8 +93,8 @@ meMA.C1Acrostic.text = ""
 meMA.C2Poet = poets_en_US_dedes.Theofanous
 meMA.C2Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouIerarchou
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
@@ -112,8 +116,8 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_US_dedes.IKekommeni.name
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode8
