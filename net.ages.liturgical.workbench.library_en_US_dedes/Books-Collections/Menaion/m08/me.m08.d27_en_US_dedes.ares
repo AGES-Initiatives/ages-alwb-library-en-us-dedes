@@ -41,8 +41,8 @@ meVE.Apolytikion1.text = ""
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C1.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
@@ -91,11 +91,11 @@ meMA.Ode3H.text = he.h.m8_en_US_dedes.SyEiToStereoma.text
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode3
 meMA.Ode3Kathisma1.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
-meMA.Ode3Kathisma1.text = ""
+meMA.Ode3Kathisma1.text = "You were shepherded by the Good Shepherd, * as a gentle lamb, O blessed Pimen. * But you chased away the wolves who attacked your flock. * And when you finished the race for the sake of God, * you were awarded a place in the heavenly fold. * O devout father, pray intently to Christ our God, * entreating Him to grant us the great mercy."
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode3
 meMA.Ode3KathismaT.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.text = "You received divine illumination; * and you lived a life transcending matter; * your career in the priesthood conformed to your name. * For by explaining the Church's dogmas expertly, * you fortified the divine Faith with Orthodoxy. * O devout Father, pray now to Christ our God, * entreating that He grant us His great mercy."
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode3
 meMA.Ode3KathismaSt.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
@@ -448,6 +448,9 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.text = ""
 
 alt1.meMA.C1Acrostic.text = ""
+
+alt1.meMA.C1.title = titles_en_US_dedes.KanonTouMartyros
+alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
