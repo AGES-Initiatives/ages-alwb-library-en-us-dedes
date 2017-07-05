@@ -1,5 +1,146 @@
 A_Resource_Whose_Name = ho.s21_en_US_dedes 
 
+ho.title = "The Service of Preparation for Holy Communion"
+ho.title2 = ""
+
+hoCA.title = "The Canon of Preparation for Holy Communion"
+hoCA.poet = ""
+
+hoCA.media.text = properties_en_US_dedes.media.key
+
+R01 = ""
+
+hoCA.Ode11.ode = misc_en_US_dedes.Ode1
+hoCA.Ode11.mode = misc_en_US_dedes.Mode2
+hoCA.Ode11.melody = he.h.m2_en_US_dedes.DefteLaoi.name
+hoCA.Ode11.text = "Merciful Lord, may Your holy body be for me the bread of everlasting life; and may Your precious blood, O compassionate Master, prevent me from succumbing to illness of any kind."
+
+hoCA.Ode12.ode = misc_en_US_dedes.Ode1
+hoCA.Ode12.mode = misc_en_US_dedes.Mode2
+hoCA.Ode12.melody = he.h.m2_en_US_dedes.DefteLaoi.name
+hoCA.Ode12.text = "I am defiled by my inappropriate deeds, for which I am unworthy of the most pure body and divine blood of my Savior. O Christ, I entreat You, let me partake of them."
+
+hoCA.Ode1T.ode = misc_en_US_dedes.Ode1
+hoCA.Ode1T.mode = misc_en_US_dedes.Mode2
+hoCA.Ode1T.melody = he.h.m2_en_US_dedes.DefteLaoi.name
+hoCA.Ode1T.text = "Bride of God, you are the blessed good earth that produced the ear of grain, which no man sowed and which became the world's salvation. And now, as I eat it, grant that I be saved by it."
+
+hoCA.Ode31.ode = misc_en_US_dedes.Ode3
+hoCA.Ode31.mode = misc_en_US_dedes.Mode2
+hoCA.Ode31.melody = he.h.m2_en_US_dedes.EnPetraMeTisPisteos.name
+hoCA.Ode31.text = "O Christ, grant me a faucet of cleansing teardrops to wash away the stain of my heart's defilement, that purified by them and with a good conscience, O Master, I may come to You with fear and faith, and with love partake of Your holy gifts, O Lord."
+
+hoCA.Ode32.ode = misc_en_US_dedes.Ode3
+hoCA.Ode32.mode = misc_en_US_dedes.Mode2
+hoCA.Ode32.melody = he.h.m2_en_US_dedes.EnPetraMeTisPisteos.name
+hoCA.Ode32.text = "For pardon of the multitude of transgressions be Your divine blood and Your pure body, O Lover of humanity, and for communion with the Holy Spirit and eternal life, and complete estrangement from passions troubling me."
+
+hoCA.Ode3T.ode = misc_en_US_dedes.Ode3
+hoCA.Ode3T.mode = misc_en_US_dedes.Mode2
+hoCA.Ode3T.melody = he.h.m2_en_US_dedes.EnPetraMeTisPisteos.name
+hoCA.Ode3T.text = "O Virgin Maid, you are the all-holy table of the Bread of life, the Son of God, who for mercy came down and gave new life to the world and saved it. Now I who am unworthy earnestly entreat that you count me worthy to eat it and to live."
+
+hoCA.Ode41.ode = misc_en_US_dedes.Ode4
+hoCA.Ode41.mode = misc_en_US_dedes.Mode2
+hoCA.Ode41.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+hoCA.Ode41.text = "You willed to become incarnate for us, Lord most merciful, and as a Lamb be sacrificed for all the sins of humanity. Therefore I implore You now, to blot out my offenses and to wash me from my lawlessness."
+
+hoCA.Ode42.ode = misc_en_US_dedes.Ode4
+hoCA.Ode42.mode = misc_en_US_dedes.Mode2
+hoCA.Ode42.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+hoCA.Ode42.text = "O Master, I pray You, heal the wounds of my sorry soul, and though I am wretched, sanctify me, body and soul alike. Make me worthy to partake of Your divine and most mystical supper, O gracious Lord."
+
+hoCA.Ode4T.ode = misc_en_US_dedes.Ode4
+hoCA.Ode4T.mode = misc_en_US_dedes.Mode2
+hoCA.Ode4T.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.name
+hoCA.Ode4T.text = "O Lady, implore You Son to be merciful unto me. I entreat you, keep me free of every sin and impurity, so that when I dare receive the holy pearl of communion, I may truly be sanctified."
+
+hoCA.Ode51.ode = misc_en_US_dedes.Ode5
+hoCA.Ode51.mode = misc_en_US_dedes.Mode2
+hoCA.Ode51.melody = he.h.m2_en_US_dedes.OTouFotosChorigos.name
+hoCA.Ode51.text = "As You once said it, O Christ, so let it be to me Your worthless servant: Abide in me, even as you promised. For now I am about to eat Your holy body and drink Your most precious blood."
+
+hoCA.Ode52.ode = misc_en_US_dedes.Ode5
+hoCA.Ode52.mode = misc_en_US_dedes.Mode2
+hoCA.Ode52.melody = he.h.m2_en_US_dedes.OTouFotosChorigos.name
+hoCA.Ode52.text = "O Word of God and God, may the live coal of Your divine body be illumination to me, bedarkened, and may Your holy blood be purification for my defiled soul."
+
+hoCA.Ode5T.ode = misc_en_US_dedes.Ode5
+hoCA.Ode5T.mode = misc_en_US_dedes.Mode2
+hoCA.Ode5T.melody = he.h.m2_en_US_dedes.OTouFotosChorigos.name
+hoCA.Ode5T.text = "O Mary, Mother of God, the tabernacle of the fragrance of God, I pray you make me a chosen vessel, by your almighty prayers, that I may partake of your Son's holy Sacrament."
+
+hoCA.Ode61.ode = misc_en_US_dedes.Ode6
+hoCA.Ode61.mode = misc_en_US_dedes.Mode2
+hoCA.Ode61.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+hoCA.Ode61.text = "Savior, hallow my intellect, soul and heart, and my body, so that I may worthily approach Your awe-inspiring Mysteries, and not eat and drink judgment upon myself."
+
+hoCA.Ode62.ode = misc_en_US_dedes.Ode6
+hoCA.Ode62.mode = misc_en_US_dedes.Mode2
+hoCA.Ode62.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+hoCA.Ode62.text = "Through communion of Your holy Mysteries, may I become a stranger to the sinful passions, may grace be added unto me, and may I have assurance of life, O Christ."
+
+hoCA.Ode6T.ode = misc_en_US_dedes.Ode6
+hoCA.Ode6T.mode = misc_en_US_dedes.Mode2
+hoCA.Ode6T.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
+hoCA.Ode6T.text = "Being holy, as God and the Word of God, through Your holy Mother's intercession, sanctify the whole of me as I approach Your divine and immaculate Mysteries."
+
+hoCA.Kontakion.mode = misc_en_US_dedes.Mode2
+hoCA.Kontakion.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
+hoCA.Kontakion.text = "I pray you do not forbid me to receive the Bread, Your Body, O Christ, nor deny me Your holy Blood. May receiving Your awe-inspiring, immaculate Mysteries be to me, wretched sinner, not for judgment, O loving Lord; may it rather be to me for immortal and everlasting life. "
+
+hoCA.Ode71.ode = misc_en_US_dedes.Ode7
+hoCA.Ode71.mode = misc_en_US_dedes.Mode2
+hoCA.Ode71.melody = he.h.m2_en_US_dedes.EikonosChrysis.name
+hoCA.Ode71.text = "Immortal, O Christ, are Your Mysteries, of which I am partaking. May this become for me the source of light and life, dispassion and every good; may it give me growth and advancement in divine virtue by Your grace, that I may glorify You, only good and merciful Lord."
+
+hoCA.Ode72.ode = misc_en_US_dedes.Ode7
+hoCA.Ode72.mode = misc_en_US_dedes.Mode2
+hoCA.Ode72.melody = he.h.m2_en_US_dedes.EikonosChrysis.name
+hoCA.Ode72.text = "From passions and foes, from necessity and every tribulation, may I be rescued as I come to Your divine, immortal Mysteries reverently with trembling and longing, only Friend of humanity, to sing to You, \"O God of our Fathers, glory to You.\""
+
+hoCA.Ode7T.ode = misc_en_US_dedes.Ode7
+hoCA.Ode7T.mode = misc_en_US_dedes.Mode2
+hoCA.Ode7T.melody = he.h.m2_en_US_dedes.EikonosChrysis.name
+hoCA.Ode7T.text = "O Maid full of grace, you ineffably gave birth to Christ the Savior. Now I, your unclean servant pray to you who are most pure and immaculate: As I now prepare to go forward to receive the Holy Eucharist, completely cleanse me of impurities of body and soul."
+
+hoCA.Ode81.ode = misc_en_US_dedes.Ode8
+hoCA.Ode81.mode = misc_en_US_dedes.Mode2
+hoCA.Ode81.melody = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.name
+hoCA.Ode81.text = "Your holy Mysteries, O Christ, are from heaven and are therefore awe-inspiring. And the mystical Supper that You prepared is divine. Now I who am desperate pray to You: Grant me to partake of it, O my God and Savior."
+
+hoCA.Ode82.ode = misc_en_US_dedes.Ode8
+hoCA.Ode82.mode = misc_en_US_dedes.Mode2
+hoCA.Ode82.melody = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.name
+hoCA.Ode82.text = "To Your compassion I have run, and with fear I cry to You the only Good One: As You said, so abide in me and let me abide in You. For trusting in Your mercy, behold, I eat Your all-holy Body and drink Your Blood, O Savior."
+
+hoCA.Ode8T.ode = misc_en_US_dedes.Ode8
+hoCA.Ode8T.mode = misc_en_US_dedes.Mode2
+hoCA.Ode8T.melody = he.h.m2_en_US_dedes.TonEnKaminoTouPyros.name
+hoCA.Ode8T.text = "I am afraid as I partake of the fire, lest I burn like wax and hay do. Awesome Mystery! Wonderful is the mercy of God! How I, who am clay, can partake of God's Body and His Blood and can thus become immortal!"
+
+hoCA.Ode91.ode = misc_en_US_dedes.Ode9
+hoCA.Ode91.mode = misc_en_US_dedes.Mode2
+hoCA.Ode91.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+hoCA.Ode91.text = "Yes, Christ is the Lord; and therefore taste and see that He is good. For of old He came down and became like us for us. Only once He offered himself as a sacrifice to His God and Father, yet He is forever slain, sanctifying us communicants."
+
+hoCA.Ode92.ode = misc_en_US_dedes.Ode9
+hoCA.Ode92.mode = misc_en_US_dedes.Mode2
+hoCA.Ode92.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+hoCA.Ode92.text = "O Lord, may my body with my soul alike be sanctified, and illumined and saved and become Your dwelling place, through participation in Your sacred and divine Mysteries, O Master. May You and the Father and the Holy Spirit also dwell in me."
+
+hoCA.Ode93.ode = misc_en_US_dedes.Ode9
+hoCA.Ode93.mode = misc_en_US_dedes.Mode2
+hoCA.Ode93.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+hoCA.Ode93.text = "O Savior most merciful, I pray to You that Your divine precious Body and Blood be for me both light and fire, burning up the causes of sin and also the thorns of the sinful passions, and fully enlightening me to worship Your Divinity."
+
+hoCA.Ode9T.ode = misc_en_US_dedes.Ode9
+hoCA.Ode9T.mode = misc_en_US_dedes.Mode2
+hoCA.Ode9T.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.name
+hoCA.Ode9T.text = "When God formed a body for himself, He did it in your womb. Therefore all generations, O Lady, sing your praise. Multitudes of Angels give glory, for now through you they can clearly see Him, the Lord of the universe, one in essence with humanity."
+
+R02 = ""
+
 hoPCPrayer.title = "PRAYERS BEFORE HOLY COMMUNION"
 
 hoPCPrayer.PistevoKyrie.text = "I believe and confess, Lord, that You are truly the Christ, the Son of the living God, who came into the world to save sinners, of whom I am the first. I also believe that this is truly Your pure Body and that this is truly Your precious Blood. Therefore, I pray to You, have mercy upon me, and forgive my transgressions, voluntary and involuntary, in word and deed, known and unknown. And make me worthy without condemnation to partake of Your pure Mysteries for the forgiveness of sins and for life eternal. Amen."
