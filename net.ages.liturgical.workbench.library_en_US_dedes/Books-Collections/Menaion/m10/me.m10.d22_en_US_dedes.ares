@@ -473,6 +473,8 @@ meMA.Lauds3.mode = misc_en_US_dedes.Mode8
 meMA.Lauds3.melody = he.a.m8_en_US_dedes.KyrieEiKaiKritirio.name
 meMA.Lauds3.text = "Father, you rose and shined your light on the whole world, * like a great sun, O Averkios. * To the light you guided the faithful * with the splendid rays of your all-wise * teachings and brightness of your cures, * continually driving out * all the darkness of the passions, * as the Holy Spirit worked through you."
 
+meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
+
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode3
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = meVE.SticGlory.text
@@ -484,8 +486,6 @@ meMA.LaudsTheotokion.text = oc.m3.d5_en_US_dedes.ocVE.AposTheotokion.text
 meMA.LaudsStavrotheotokion.mode = misc_en_US_dedes.Mode3
 meMA.LaudsStavrotheotokion.melody = he.a.m3_en_US_dedes.MegaliTouStavrouSou.name
 meMA.LaudsStavrotheotokion.text = oc.m3.d6_en_US_dedes.ocVE.SticTheotokion.text
-
-meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
