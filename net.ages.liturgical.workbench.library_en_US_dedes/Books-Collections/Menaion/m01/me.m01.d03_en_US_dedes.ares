@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m01.d03_en_US_dedes
 
 meDate.text = "January 3" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" // full title of day
+meCommemoration.text = "Forefeast of Epiphany; and Memory of the Holy Prophet Malachi, and the Holy Martyr Gordios." // full title of day
 meShortCommemoration1.text = "Forefeast of Epiphany"
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
@@ -64,9 +64,15 @@ meVE.Apolytikion1.mode = me.m01.d02_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m01.d02_en_US_dedes.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m01.d02_en_US_dedes.meVE.Apolytikion1.text
 
+meCO.C1Poet = poets_en_US_dedes.SymeonTouLogothetou
 meCO.C1Acrostic.text = ""
+meCO.C1.title = "Three-ode Canon."
+meCO.C1.verse = prayers_en_US_dedes.verse_God.text
 
+meCO.C2Poet = ""
 meCO.C2Acrostic.text = ""
+meCO.C2.title = "Another Three-ode Canon."
+meCO.C2.verse = prayers_en_US_dedes.verse_God.text
 
 meCO.Ode3C1H.ode = misc_en_US_dedes.Ode3
 meCO.Ode3C1H.mode = misc_en_US_dedes.Mode2
