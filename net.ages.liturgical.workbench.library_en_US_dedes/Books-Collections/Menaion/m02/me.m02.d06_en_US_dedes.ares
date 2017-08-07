@@ -414,10 +414,6 @@ meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-meLI.SeasonalKontakion.melody = ""
-meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
-
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = "Most luminous mystic of the Church of Christ, * champion and defender * of the Orthodox everywhere, * scourge of the impious, the glory of the hierarchs, * great priest and theologian, * St. Photios, rejoice."
@@ -763,10 +759,6 @@ alt1.meLI.Kontakion1.mode = ""
 alt1.meLI.Kontakion1.melody = ""
 alt1.meLI.Kontakion1.text = ""
 
-alt1.meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-alt1.meLI.SeasonalKontakion.melody = ""
-alt1.meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
-
 alt1.meMegalynarion.text = ""
 
 //These extra hymns are found in the back of the Feb. Menaion
@@ -786,7 +778,6 @@ alt1.meMA.Ode3KathismaT.text = ""
 alt1.meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Ode3KathismaSt.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 alt1.meMA.Ode3KathismaSt.text = ""
-
 
 alt2.meDate.text = "February 6" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt2.meCommemoration.text = "Memory of our Devout and God-bearing Fathers Barsanouphios the Great Elder and John the Prophet, the other Elder and Disciple of St. Barsanouphios." // full title of day
@@ -1190,10 +1181,6 @@ alt2.meLI.MM.EntranceHymn.text = properties_en_US_dedes.media.key
 alt2.meLI.Kontakion1.mode = alt2.meMA.Kontakion1.mode
 alt2.meLI.Kontakion1.melody = alt2.meMA.Kontakion1.melody
 alt2.meLI.Kontakion1.text = alt2.meMA.Kontakion1.text
-
-alt2.meLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode1
-alt2.meLI.SeasonalKontakion.melody = ""
-alt2.meLI.SeasonalKontakion.text = me.m02.d02_en_US_dedes.meMA.Kontakion1.text
 
 alt2.meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 

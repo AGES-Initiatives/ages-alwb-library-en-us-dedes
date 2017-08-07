@@ -323,9 +323,9 @@ peMA.Lauds8.text = "By their virtues' effulgent light, they made earth to be hea
 
 peMA.Lauds345 = properties_en_US_dedes.media.key
 
-peLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode8
-peLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
-peLI.SeasonalKontakion.text = peMA.Kontakion1.text
+peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.melody = peMA.Kontakion1.melody
+peLI.Kontakion1.text = peMA.Kontakion1.text
 
 peLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 

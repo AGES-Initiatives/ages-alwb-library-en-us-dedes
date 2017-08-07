@@ -616,9 +616,9 @@ peMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
 peMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 peMA.LaudsGlory.text = "We were illumined, O brethren, by the Resurrection of Christ the Savior. And now we have reached the middle of the feast of the Lord. Let us sincerely keep the commandments of God, so that we may become worthy to celebrate the Ascension as well, and witness the coming of the Holy Spirit."
 
-peLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode4
-peLI.SeasonalKontakion.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
-peLI.SeasonalKontakion.text = peMA.Kontakion1.text
+peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.melody = peMA.Kontakion1.melody
+peLI.Kontakion1.text = peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = misc_en_US_dedes.Mode8
 peLI.TheotokosHymn.text = peMA.Ode9C2H.text

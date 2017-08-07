@@ -440,9 +440,9 @@ trMA.LaudsGlory.mode = misc_en_US_dedes.Mode1
 trMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
 trMA.LaudsGlory.text = "Come, let us labor in the mystical vineyard, producing fruits of repentance within it - not laboring for things that are eaten or drunk, but by prayer and fasting attaining the virtues. By such will the Lord of the labor be pleased, and He will grant them the denarius, by which He ransoms souls from the debt of sin, for He alone is greatly merciful."
 
-trLI.SeasonalKontakion.mode = misc_en_US_dedes.Mode8
-trLI.SeasonalKontakion.melody = misc_en_US_dedes.Automelon
-trLI.SeasonalKontakion.text = he.a.m8_en_US_dedes.TiYpermacho.text
+trLI.Kontakion1.mode = trMA.Kontakion1.mode
+trLI.Kontakion1.melody = trMA.Kontakion1.melody
+trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trMegalynarion.text = ""
 
