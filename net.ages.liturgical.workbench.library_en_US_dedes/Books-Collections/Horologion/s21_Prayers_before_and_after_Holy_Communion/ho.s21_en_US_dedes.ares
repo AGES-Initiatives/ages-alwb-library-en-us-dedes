@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = ho.s21_en_US_dedes 
 
-ho.title = "The Service of Preparation for Holy Communion"
+ho.title = "Service of Preparation for Holy Communion"
 ho.title2 = ""
 
 hoCA.title = "The Canon of Preparation for Holy Communion"
@@ -153,6 +153,7 @@ hoPrayer.Key004.text = tr.d068_en_US_dedes.trHW.Troparion.text
 hoPrayer.Key005.title = ""
 hoPrayer.Key005.title2 = ""
 hoPrayer.Key005.poet = ""
+hoPrayer.Key005.text = ""
 hoPrayer.Key005_1.text = ""
 hoPrayer.Key005_2.text = ""
 hoPrayer.Key005_3.text = ""
@@ -160,6 +161,7 @@ hoPrayer.Key005_4.text = ""
 hoPrayer.Key005_5.text = ""
 
 hoPrayer.Key006.title = ""
+hoPrayer.Key006.text = ""
 hoPrayer.Key006_1.text = ""
 hoPrayer.Key006_2.text = ""
 hoPrayer.Key006_3.text = ""
@@ -167,24 +169,31 @@ hoPrayer.Key006_3.text = ""
 hoPrayer.title = "PRAYERS BEFORE HOLY COMMUNION"
 
 hoPrayer.Key011.title = ""
+hoPrayer.Key011.poet = ""
 hoPrayer.Key011.text = ""
 
 hoPrayer.Key021.title = ""
+hoPrayer.Key021.poet = ""
 hoPrayer.Key021.text = ""
 
 hoPrayer.Key031.title = ""
+hoPrayer.Key031.poet = ""
 hoPrayer.Key031.text = ""
 
 hoPrayer.Key041.title = ""
+hoPrayer.Key041.poet = ""
 hoPrayer.Key041.text = ""
 
 hoPrayer.Key051.title = ""
+hoPrayer.Key051.poet = ""
 hoPrayer.Key051.text = tr.d066_en_US_dedes.trMA.Lauds1.text
 
 hoPrayer.Key061.title = ""
+hoPrayer.Key061.poet = ""
 hoPrayer.Key061.text = ""
 
 hoPrayer.Key071.title = ""
+hoPrayer.Key071.poet = ""
 hoPrayer.Key071.text = ""
 hoPrayer.Key071_001.text = ""
 hoPrayer.Key071_002.text = ""
@@ -324,12 +333,15 @@ hoPrayer.Key071_135.text = ""
 hoPrayer.Key071_136.text = ""
 
 hoPrayer.Key081.title = ""
+hoPrayer.Key081.poet = ""
 hoPrayer.Key081.text = ""
 
 hoPrayer.Key091.title = ""
+hoPrayer.Key091.poet = ""
 hoPrayer.Key091.text = ""
 
 hoPrayer.Key101.title = ""
+hoPrayer.Key101.poet = ""
 hoPrayer.Key101.text = ""
 
 hoPrayer.Key111.rubric = ""
