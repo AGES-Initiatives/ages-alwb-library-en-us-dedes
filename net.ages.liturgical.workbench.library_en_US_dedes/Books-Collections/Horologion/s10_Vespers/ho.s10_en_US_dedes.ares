@@ -59,11 +59,6 @@ hoVE.FridayAlleluia.title = ""
 hoVE.FridayAlleluia.text = "" //for possible media
 
 R15 = ""
-
-//Not in Horologion. Needed for Vespers readings
-hoVE.Reading_Intro.text1 = "The reading is from "
-hoVE.Reading_Intro.text2 = "" //This second part is needed to construct the Greek sentence.
-
 R16 = ""
 //This Prayer is also in the Small Doxology, at Matins, Compline etc. with "day" and "night"
 hoVE.Prayer_Kataxioson.text = ""
@@ -73,7 +68,7 @@ R19 = ""
 R20 = ""
 R21 = ""
 hoVE.LentApolytikion1.mode = misc_en_US_dedes.Mode5
-hoVE.LentApolytikion1.text = "O Virgin Theotokos, rejoice, Mary full of grace. The Lord is with you. Blessed are you among women, and blessed is the fruit of your womb; for you have borne the Savior of our souls."
+hoVE.LentApolytikion1.text = prayers_en_US_dedes.TheotokeParthene.text
 hoVE.LentApolytikion2.mode = misc_en_US_dedes.Mode5
 hoVE.LentApolytikion2.text = "O Baptist of Christ, be mindful of us all, that we may be delivered from our iniquities; for unto you was given the grace to intercede for us."
 hoVE.LentApolytikion3.mode = misc_en_US_dedes.Mode5
@@ -90,11 +85,9 @@ R26 = ""
 
 // Not in Orologion
 //Lity
-hoVE.LityKyrieEleison.text = prayers_en_US_dedes.res06
+hoVE.MM.LityKyrieEleison.text.text = properties_en_US_dedes.media.key
 
 // Artoclasia
-hoVE.ArtoklasiaTheotokeParthene.text = hoVE.LentApolytikion1.text
-hoVE.ArtoklasiaPrayer1 = "Lord, Jesus Christ our God, You blessed the five loaves in the wilderness and form them five thousand men were filled. Bless now these loaves, the wine and oil, and multiply them in this holy church, in this city, in the homes of those who celebrate today, and in Your whole world. And sanctify Your faithful servants who partake of them."
-hoVE.ArtoklasiaPrayer2 = "For You are He who blesses and sanctifies all things, Christ our God, and to You we offer up glory together with Your eternal Father and Your all-holy, good, and life giving Spirit, now and forever and to the ages of ages."
-hoVE.ArtoklasiaHymn.text = properties_en_US_dedes.media.key
+hoVE.MM.ArtoklasiaTheotokeParthene.text = properties_en_US_dedes.media.key
+hoVE.MM.ArtoklasiaHymn.text = properties_en_US_dedes.media.key
 
