@@ -203,8 +203,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m1_en_US_dedes.OdinEpinikion.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTisTheotokou
+meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode1
@@ -226,31 +226,31 @@ meMA.Ode1C14.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C14.melody = he.h.m1_en_US_dedes.OdinEpinikion.name
 meMA.Ode1C14.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_en_US_dedes.KanonATouAgiou
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode1
-meMA.Ode1C21.melody = he.h.m1_en_US_dedes.OdinEpinikion.name
-meMA.Ode1C21.text = ""
+meMA.Ode1C21.melody = he.h.m1_en_US_dedes.OdinEpinikion.notmetered
+meMA.Ode1C21.text = "O wonder-worker Nektarios, with the light of your intercessions dispel the darkness of mind, and give me the words to gaily extol your divine memory."
 
 meMA.Ode1C22.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C22.mode = misc_en_US_dedes.Mode1
-meMA.Ode1C22.melody = he.h.m1_en_US_dedes.OdinEpinikion.name
-meMA.Ode1C22.text = ""
+meMA.Ode1C22.melody = he.h.m1_en_US_dedes.OdinEpinikion.notmetered
+meMA.Ode1C22.text = "O father, in recent years you shone forth like an unsetting sun, with the light of your deeds. You marvelously shine the light of the Gospel to the ends of the world."
 
 meMA.Ode1C23.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C23.mode = misc_en_US_dedes.Mode1
-meMA.Ode1C23.melody = he.h.m1_en_US_dedes.OdinEpinikion.name
-meMA.Ode1C23.text = ""
+meMA.Ode1C23.melody = he.h.m1_en_US_dedes.OdinEpinikion.notmetered
+meMA.Ode1C23.text = "O devout Saint Nektarios, you followed the footsteps of the Hierarchs of Christ of old, in the purity of your life, and you are equal to them and share their renown."
 
 meMA.Ode1C2T.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C2T.mode = misc_en_US_dedes.Mode1
-meMA.Ode1C2T.melody = he.h.m1_en_US_dedes.OdinEpinikion.name
-meMA.Ode1C2T.text = ""
+meMA.Ode1C2T.melody = he.h.m1_en_US_dedes.OdinEpinikion.notmetered
+meMA.Ode1C2T.text = "O immaculate Virgin, in your womb you carried the unbearable nature without burning. You gave birth in the flesh to Christ the Maker of all, without altering and mixing."
 
-meMA.C3.title = ""
-meMA.C3.verse = ""
+meMA.C3.title = titles_en_US_dedes.KanonBTouAgiou
+meMA.C3.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C31.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C31.mode = misc_en_US_dedes.Mode4
@@ -299,23 +299,23 @@ meMA.Ode3C14.text = ""
 
 meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C21.mode = misc_en_US_dedes.Mode1
-meMA.Ode3C21.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.name
-meMA.Ode3C21.text = ""
+meMA.Ode3C21.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.notmetered
+meMA.Ode3C21.text = "O father, from your youth you accepted sacred instruction in divine love, and you chose to follow Christ, and you prudently distanced yourself from all vanity."
 
 meMA.Ode3C22.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C22.mode = misc_en_US_dedes.Mode1
-meMA.Ode3C22.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.name
-meMA.Ode3C22.text = ""
+meMA.Ode3C22.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.notmetered
+meMA.Ode3C22.text = "O father, with the sayings of your lips, you drip heavenly sweetness into the hearts of those who faithfully receive your words; and you instruct the mind of the faithful to pursue higher values."
 
 meMA.Ode3C23.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C23.mode = misc_en_US_dedes.Mode1
-meMA.Ode3C23.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.name
-meMA.Ode3C23.text = ""
+meMA.Ode3C23.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.notmetered
+meMA.Ode3C23.text = "O devout Hierarch Nektarios, by your chaste way of life, you put on true holiness, and thus you appeared as the splendor of hierarchs. Therefore we extol you."
 
 meMA.Ode3C2T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C2T.mode = misc_en_US_dedes.Mode1
-meMA.Ode3C2T.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.name
-meMA.Ode3C2T.text = ""
+meMA.Ode3C2T.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.notmetered
+meMA.Ode3C2T.text = "O immaculate Maiden, supernally beautified with the splendors of virginity, you ineffably gave birth to God physically, and by your childbirth you revoked the verdict on Eve."
 
 meMA.Ode3C31.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C31.mode = misc_en_US_dedes.Mode4
@@ -522,23 +522,23 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6C31.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C31.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C31.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
-meMA.Ode6C31.text = ""
+meMA.Ode6C31.melody = he.h.m4_en_US_dedes.TinTheianTaftin.notmetered
+meMA.Ode6C31.text = "O devout Nektarios, you accepted the divine nectar of grace into your heart; and now you pour out heavenly sweetness to the Church of Christ."
 
 meMA.Ode6C32.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C32.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C32.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
-meMA.Ode6C32.text = ""
+meMA.Ode6C32.melody = he.h.m4_en_US_dedes.TinTheianTaftin.notmetered
+meMA.Ode6C32.text = "O father Nektarios, adorned in all the virtues, you truly became a God-inspired Hierarch, and a teacher made wise by God."
 
 meMA.Ode6C33.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C33.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C33.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
-meMA.Ode6C33.text = ""
+meMA.Ode6C33.melody = he.h.m4_en_US_dedes.TinTheianTaftin.notmetered
+meMA.Ode6C33.text = "O father Nektarios, your skull, like a redolent rose, inspires gladness in us, by the divine fragrance of the Spirit; and it ends the stench of the passions and tribulations."
 
 meMA.Ode6C3T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C3T.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C3T.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
-meMA.Ode6C3T.text = ""
+meMA.Ode6C3T.melody = he.h.m4_en_US_dedes.TinTheianTaftin.notmetered
+meMA.Ode6C3T.text = "All-pure Virgin, give me the strength to oppose the ancient foe, who every day spawns tricks and ambushes; and make me rise above any injury from him."
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode8
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.TiYpermacho.name
