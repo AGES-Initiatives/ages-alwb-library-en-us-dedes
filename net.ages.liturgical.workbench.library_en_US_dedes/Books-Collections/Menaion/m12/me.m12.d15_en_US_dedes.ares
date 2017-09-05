@@ -89,8 +89,8 @@ meMA.Kathisma32.text = me.m12.d20_en_US_dedes.meMA.Ode3Kathisma3.text
 meMA.C1Acrostic.text = ""
 meMA.C2Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonATouAgiou
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode1
@@ -112,8 +112,8 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C1T.melody = he.h.m1_en_US_dedes.OdinEpinikion.name
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_en_US_dedes.KanonBTouAgiou
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode6
@@ -137,23 +137,23 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode1
-meMA.Ode3C11.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.name
-meMA.Ode3C11.text = ""
+meMA.Ode3C11.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.notmetered
+meMA.Ode3C11.text = "O wise Eleftherios, you chose to suffer for Christ's sake, and you bore bodily pains, and delighted in the sufferings and tribulations. Therefore you have now received life free of pain."
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode1
-meMA.Ode3C12.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.name
-meMA.Ode3C12.text = ""
+meMA.Ode3C12.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.notmetered
+meMA.Ode3C12.text = "Seized with ardent longing for God who made you, O godly-minded athlete Eleftherios, you cast yourself onto the burning instrument of torture, for you are bedewed with the fire of the Spirit."
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_dedes.Mode1
-meMA.Ode3C13.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.name
-meMA.Ode3C13.text = ""
+meMA.Ode3C13.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.notmetered
+meMA.Ode3C13.text = "O blessed one, you were shown to be most priestly of priests, and a most steadfast Martyr of Martyrs, you have received a double crown, as you forever gaze on the face of God."
 
 meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_dedes.Mode1
-meMA.Ode3C1T.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.name
-meMA.Ode3C1T.text = ""
+meMA.Ode3C1T.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.notmetered
+meMA.Ode3C1T.text = "O pure dove, Ever-virgin Mary, who knew no man, Aaron's rod prefigured you when it budded, for you budded forth a rod of power, namely Christ, in whom we are established."
 
 meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C21.mode = misc_en_US_dedes.Mode6
@@ -290,23 +290,23 @@ meMA.Ode6C1T.text = ""
 
 meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C21.mode = misc_en_US_dedes.Mode6
-meMA.Ode6C21.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
-meMA.Ode6C21.text = ""
+meMA.Ode6C21.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.notmetered
+meMA.Ode6C21.text = "O glorious Hieromartyr, you were shown to be a most excellent and strong and fighter, unafraid of the threats of torments. The fire withdrew from you, and the sharp blades turned away."
 
 meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C22.mode = misc_en_US_dedes.Mode6
-meMA.Ode6C22.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
-meMA.Ode6C22.text = ""
+meMA.Ode6C22.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.notmetered
+meMA.Ode6C22.text = "O wise Eleftherios, you washed away your persecutors' superstitious delusion in the river of your blood, and you became victorious over the foe and source of evil."
 
 meMA.Ode6C23.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C23.mode = misc_en_US_dedes.Mode6
-meMA.Ode6C23.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
-meMA.Ode6C23.text = ""
+meMA.Ode6C23.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.notmetered
+meMA.Ode6C23.text = "O all-blessed Eleftherios, the ground became red with your blood, and the air was truly sanctified by your pure spirit as it went up to heaven."
 
 meMA.Ode6C2T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C2T.mode = misc_en_US_dedes.Mode6
-meMA.Ode6C2T.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
-meMA.Ode6C2T.text = ""
+meMA.Ode6C2T.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.notmetered
+meMA.Ode6C2T.text = "O all-pure Lady, who for the sake of mortals gave birth to the Lord who governs all, ease the terrible and unsettling turmoil of my sinful passions, and grant calmness to my heart."
 
 meMA.Ode6H.ode = misc_en_US_dedes.Ode6
 meMA.Ode6H.mode = misc_en_US_dedes.Mode6
