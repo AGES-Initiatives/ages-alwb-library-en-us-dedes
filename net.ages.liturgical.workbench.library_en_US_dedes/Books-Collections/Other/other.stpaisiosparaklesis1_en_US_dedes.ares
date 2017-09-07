@@ -9,7 +9,7 @@ hoCA.media.text = "" // for complete music
 
 hoCA.Apolytikion1.mode = misc_en_US_dedes.Mode4
 hoCA.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
-hoCA.Apolytikion1.text = "Let us extol the new devout St. Paisios: * he was a lover of divine sacred stillness, * and also imitated the compassion of our God. * Living as if bodiless on Mt. Athos and Sinai * and also in Stomion, he became a chosen vessel. * And now for all he is a gentle guide,* a strong protector, * and intercessor to the Lord."
+hoCA.Apolytikion1.text = "Let us extol the new devout Saint. Paisios: * he was a lover of divine sacred stillness, * and also imitated the compassion of our God. * Living as if bodiless on Mt. Athos and Sinai * and also in Stomion, he became a chosen vessel. * And now for all he is a gentle guide,* a strong protector, * and intercessor to the Lord."
 
 hoCA.Apolytikion2.mode = misc_en_US_dedes.Mode4
 hoCA.Apolytikion2.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
@@ -77,7 +77,7 @@ hoCA.Kathisma11.text = "As you intercede with the Master most fervently, * accep
 hoCA.Ode41.ode = misc_en_US_dedes.Ode4
 hoCA.Ode41.mode = misc_en_US_dedes.Mode8
 hoCA.Ode41.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
-hoCA.Ode41.text = "Bitter hopelessness and despair * encompassed my heart like a never-ending night. * Then you came and you appeared to me, * O devout Paisios, as light and joy."
+hoCA.Ode41.text = "Bitter hopelessness and despair * encompassed my heart like a night that never ends. * Then you came and you appeared to me, * O devout Paisios, as light and joy."
 
 hoCA.Ode42.ode = misc_en_US_dedes.Ode4
 hoCA.Ode42.mode = misc_en_US_dedes.Mode8
@@ -156,7 +156,7 @@ hoCA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 hoCA.PostGospelHymn1.mode = misc_en_US_dedes.Mode6
 hoCA.PostGospelHymn1.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
-hoCA.PostGospelHymn1.text = ""
+hoCA.PostGospelHymn1.text = "O devout Paisios, I am completely confounded, * for my pride has toppled me * headlong into a pit of dreadful despair; * and darkness surrounds me now. * Therefore I entreat you * to provide a ladder of ascent. * Show me the way that leads * up to light divine and the virtues all, * repentance and humility, * saving faith and hope in the Lord of all; * so that being lifted * unto the height of spiritual love, * I may experience heavenly * exultation evermore."
 
 hoCA.Ode71.ode = misc_en_US_dedes.Ode7
 hoCA.Ode71.mode = misc_en_US_dedes.Mode8
@@ -242,7 +242,7 @@ hoCA.Meg0F.text = ho.s23_en_US_dedes.hoCA.Meg0F.text
 
 hoCA.Troparion1.mode = misc_en_US_dedes.Mode2
 hoCA.Troparion1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-hoCA.Troparion1.text = ""
+hoCA.Troparion1.text = "Come now and appear to us who pray * fervently with tears and with sighing, with faith invoking your name, * devout Saint Paisios, to intercede for us, * and to heal us of maladies of soul and of body, * and to frustrate every scheme the demons aim at us, * so that we may honor you, father, * with a grateful heart and give glory * to the One who gave you glory, Christ our God."
 
 hoCA.Troparion2.mode = misc_en_US_dedes.Mode2
 hoCA.Troparion2.melody = ""
@@ -252,6 +252,6 @@ hoCA.Troparion3.mode = misc_en_US_dedes.Mode2
 hoCA.Troparion3.melody = ""
 hoCA.Troparion3.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
 
-hoCA.couplet1.title = "" //titles_en_US_dedes.Distichon
-hoCA.couplet1.verse1 = ""
-hoCA.couplet1.verse2 = ""
+hoCA.couplet1.title = titles_en_US_dedes.Distichon
+hoCA.couplet1.verse1 = "Remember the unangelic translator who met you,"
+hoCA.couplet1.verse2 = "O Paisios, and save him from colossal failure."
