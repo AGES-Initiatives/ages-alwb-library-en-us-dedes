@@ -96,8 +96,8 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = me.m01.d15_en_US_dedes.meVE.AposGlory.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode2
@@ -211,23 +211,23 @@ meMA.Ode5C1T.text = ""
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode2
-meMA.Ode6C11.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
-meMA.Ode6C11.text = ""
+meMA.Ode6C11.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C11.text = "O Christ, You granted us incorruption, by Your resurrection; and that is why Your renowned servant Basil appears as living even when dead."
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode2
-meMA.Ode6C12.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
-meMA.Ode6C12.text = ""
+meMA.Ode6C12.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C12.text = "God, who cleanses the world, became a mortal as I am for my sake, and He is baptized. You, O blessed Theodosios, proclaimed Him to be in two natures."
 
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_dedes.Mode2
-meMA.Ode6C13.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
-meMA.Ode6C13.text = ""
+meMA.Ode6C13.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C13.text = "O Theodosios, the fountains of your tears dripped the sweetness of gladness in Christ God, who of old had turned the tears of the Myrrh-bearing Women into joy."
 
 meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1T.mode = misc_en_US_dedes.Mode2
-meMA.Ode6C1T.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.name
-meMA.Ode6C1T.text = ""
+meMA.Ode6C1T.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C1T.text = "Count me worthy of your compassion, O Lady, who conceived the All-compassionate Logos, the Lord, who by His blood saved humanity from corruption."
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode8
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.TiYpermacho.name
