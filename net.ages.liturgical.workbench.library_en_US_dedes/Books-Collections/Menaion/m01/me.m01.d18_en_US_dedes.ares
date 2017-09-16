@@ -144,8 +144,8 @@ meMA.C1Acrostic.text = ""
 meMA.C2Poet = poets_en_US_dedes.IoannouTouDamaskinou
 meMA.C2Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = "Canon for St. Athanasios."
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
@@ -172,8 +172,8 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = "Canon for St. Cyril."
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode4
@@ -199,23 +199,23 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C11.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
-meMA.Ode3C11.text = ""
+meMA.Ode3C11.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.notmetered
+meMA.Ode3C11.text = "O all-blessed Athanasios, initiate of sacred mysteries, you purified your soul and body of every defilement, and thus you became a temple worthy of God. Therefore, the fullness of the Trinity reposed in you."
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C12.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
-meMA.Ode3C12.text = ""
+meMA.Ode3C12.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.notmetered
+meMA.Ode3C12.text = "Holy father, the grace of the Paraclete found, as it wished, your soul purified of the passions, and it made its actions evident in it, and made you a bright star to shine on the world."
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C13.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
-meMA.Ode3C13.text = ""
+meMA.Ode3C13.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.notmetered
+meMA.Ode3C13.text = "O wise Saint, your life was an example of diligence, your speech was clearly a mark of divine contemplation, and your teaching was genuine theology. Thus as a hierarch you became a rule for the episcopacy."
 
 meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C1T.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.name
-meMA.Ode3C1T.text = ""
+meMA.Ode3C1T.melody = he.h.m8_en_US_dedes.OStereosasKatArchas.notmetered
+meMA.Ode3C1T.text = "O pure Theotokos, Virgin undefiled, you became higher than the Cherubim and Seraphim, for you alone received the uncontainable God in your womb. Therefore, all we the faithful call you blessed."
 
 meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C21.mode = misc_en_US_dedes.Mode4
@@ -356,23 +356,23 @@ meMA.Ode6C1T.text = ""
 
 meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C21.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C21.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
-meMA.Ode6C21.text = ""
+meMA.Ode6C21.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C21.text = "O Cyril, the initiate of sacred mysteries, the Seraphim gave the live coal to the Prophet with tongs, but you with your hands give the Church of Christ the cleansing kindled with the divine fire, "
 
 meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C22.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C22.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
-meMA.Ode6C22.text = ""
+meMA.Ode6C22.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C22.text = "O Cyril, you did not smite foreign tribes on your borders, like Samson did of old, but rather all the foreign doctrines of the heterodox, and to the Orthodox you gave predominance."
 
 meMA.Ode6C23.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C23.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C23.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
-meMA.Ode6C23.text = ""
+meMA.Ode6C23.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C23.text = "O Father, you presided at the God-chosen Council, and being filled with zeal for the true Mother of God, you brought down the ill-disposed audacity of Nestorios, which was opposed to Christ."
 
 meMA.Ode6C2T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C2T.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C2T.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
-meMA.Ode6C2T.text = ""
+meMA.Ode6C2T.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C2T.text = "O Virgin Theotokos, you alone from the beginning of the time were so purified as to bear the Sun of Righteousness. By your childbirth you illumine all the ends of the earth."
 
 meMA.Kontakion2.mode = misc_en_US_dedes.Mode4
 meMA.Kontakion2.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name

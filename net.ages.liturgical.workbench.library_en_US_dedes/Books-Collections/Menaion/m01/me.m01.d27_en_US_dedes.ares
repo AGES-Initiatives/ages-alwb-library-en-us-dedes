@@ -119,8 +119,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m8_en_US_dedes.ArmatilatinFarao.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTisTheotokou
+meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
@@ -142,8 +142,8 @@ meMA.Ode1C14.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C14.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
 meMA.Ode1C14.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_en_US_dedes.KanonATouAgiou
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode8
@@ -165,8 +165,8 @@ meMA.Ode1C2T.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C2T.melody = he.h.m8_en_US_dedes.AsmaAnapempsomen.name
 meMA.Ode1C2T.text = ""
 
-meMA.C3.title = ""
-meMA.C3.verse = ""
+meMA.C3.title = titles_en_US_dedes.KanonBTouAgiou
+meMA.C3.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C31.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C31.mode = misc_en_US_dedes.Mode3
@@ -215,23 +215,23 @@ meMA.Ode3C14.text = ""
 
 meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C21.melody = he.h.m8_en_US_dedes.OukEstinAgios.name
-meMA.Ode3C21.text = ""
+meMA.Ode3C21.melody = he.h.m8_en_US_dedes.OukEstinAgios.notmetered
+meMA.Ode3C21.text = "You gilded the crown of the Church with golden teachings, and you embellished her majesty with the artistry of your words. Therefore, she worthily honors you, O wise Father."
 
 meMA.Ode3C22.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C22.melody = he.h.m8_en_US_dedes.OukEstinAgios.name
-meMA.Ode3C22.text = ""
+meMA.Ode3C22.melody = he.h.m8_en_US_dedes.OukEstinAgios.notmetered
+meMA.Ode3C22.text = "O devout Hierarch, your labors give off a sweet smell, like lilies of the field. By suffering perils and afflictions in a distant land, you were pleasing to God."
 
 meMA.Ode3C23.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C23.melody = he.h.m8_en_US_dedes.OukEstinAgios.name
-meMA.Ode3C23.text = ""
+meMA.Ode3C23.melody = he.h.m8_en_US_dedes.OukEstinAgios.notmetered
+meMA.Ode3C23.text = "O Chrysostom, your words, like fruit, emit a floral fragrance, noetically dripping with divine sweetness of wisdom, and now perfuming us with the virtues of the active life."
 
 meMA.Ode3C2T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C2T.melody = he.h.m8_en_US_dedes.OukEstinAgios.name
-meMA.Ode3C2T.text = ""
+meMA.Ode3C2T.melody = he.h.m8_en_US_dedes.OukEstinAgios.notmetered
+meMA.Ode3C2T.text = "O Christ, You remained undivided, even when for my sake You put on flesh from the Virgin. I therefore worship You in two essences and two wills and two energies."
 
 meMA.Ode3C31.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C31.mode = misc_en_US_dedes.Mode3
@@ -438,23 +438,23 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6C31.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C31.mode = misc_en_US_dedes.Mode3
-meMA.Ode6C31.melody = he.h.m3_en_US_dedes.AvyssosEschati.name
-meMA.Ode6C31.text = ""
+meMA.Ode6C31.melody = he.h.m3_en_US_dedes.AvyssosEschati.notmetered
+meMA.Ode6C31.text = "Out of her mind, the Empress severed you from the Church of Christ, and she bluntly blamed you. But later she was severed; for you rebuked her after death, and worked an amazing cut-off."
 
 meMA.Ode6C32.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C32.mode = misc_en_US_dedes.Mode3
-meMA.Ode6C32.melody = he.h.m3_en_US_dedes.AvyssosEschati.name
-meMA.Ode6C32.text = ""
+meMA.Ode6C32.melody = he.h.m3_en_US_dedes.AvyssosEschati.notmetered
+meMA.Ode6C32.text = "O Chrysostom, you were an instrument of the omnific Spirit, when you sonorously spoke. But that woman tyrant became as deaf as a snake is to the voice of charmers, and she received a most miserable death as her reward."
 
 meMA.Ode6C33.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C33.mode = misc_en_US_dedes.Mode3
-meMA.Ode6C33.melody = he.h.m3_en_US_dedes.AvyssosEschati.name
-meMA.Ode6C33.text = ""
+meMA.Ode6C33.melody = he.h.m3_en_US_dedes.AvyssosEschati.notmetered
+meMA.Ode6C33.text = "Chrysostom clearly educated the emperors that, though he died, he did not perish. He did not obey their unjust decrees of old, and he now returns at their request."
 
 meMA.Ode6C3T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C3T.mode = misc_en_US_dedes.Mode3
-meMA.Ode6C3T.melody = he.h.m3_en_US_dedes.AvyssosEschati.name
-meMA.Ode6C3T.text = ""
+meMA.Ode6C3T.melody = he.h.m3_en_US_dedes.AvyssosEschati.notmetered
+meMA.Ode6C3T.text = "Chrysostom utterly rejected any division or confusion of Your natures, O God-man Christ, for he understood that You who born of the Virgin are One, though in taking on flesh You became twofold."
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode1
 meMA.Kontakion1.melody = he.a.m1_en_US_dedes.ChorosAngelikos.name
