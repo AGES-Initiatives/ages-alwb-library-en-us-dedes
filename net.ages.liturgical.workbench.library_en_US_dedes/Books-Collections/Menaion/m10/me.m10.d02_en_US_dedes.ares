@@ -34,7 +34,7 @@ meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
 meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = "For all who are troubled you are joy, * and of the abused a protectress, the paupers' nourishment, * strangers' consolation and a port for those in a storm, * visitation of the infirm, * assistance and shelter * for the weary and oppressed, a walking staff of the blind. * Hasten to deliver your servants, * fervently we beg you, O pure one, * since you are the Mother of the Most High God." //similar to oc.m2.d1_en_US_dedes.ocSV.Aposticha1.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode2
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
@@ -45,8 +45,8 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode2
-meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.notmetered
+meVE.AposTheotokion.text = "O all-pure Virgin, other than you, we have no shelter, mighty tower, nor unassailable fortress. We take refuge in you, and we cry aloud: Lady, help us, lest we perish. Demonstrate your grace to us and the glory of your power, and the greatness of your compassion."
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode2
 meVE.AposStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
@@ -190,10 +190,10 @@ meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode8
-meMA.Kontakion1.melody = he.a.m8_en_US_dedes.OsAparchas.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.melody = he.a.m8_en_US_dedes.OsAparchas.notmetered
+meMA.Kontakion1.text = "The whole world rightly honors you, as an honorable hierarch and a steadfast martyr, O all-lauded Cyprian; and we sing hymns to glorify your holy memory, always praying that forgiveness of offences be granted, through you, to us who sing: Alleluia."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "Let us honor the wise Hierarch, the wise pastor and teacher; for he blossomed from the thorns of error, like a most fragrant rose. The cures and miracles that he performs are like a floral fragrance that perfumes us, such that we sing the song of David: Alleluia."
 
 meMA.Synaxarion.text = ""
 
@@ -282,8 +282,8 @@ meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode8
-meMA.AposTheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meMA.AposTheotokion.text = ""
+meMA.AposTheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.notmetered
+meMA.AposTheotokion.text = "O blessed Lady, how shall I extol your grace and the great care you have for me your unworthy servant, and which you demonstrate every day? How shall I describe your goodness, and the many ways you guide my life? So, now and ever, protect me from every evil, and rescue me, in life and in death."
 
 meMA.AposStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meMA.AposStavrotheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
