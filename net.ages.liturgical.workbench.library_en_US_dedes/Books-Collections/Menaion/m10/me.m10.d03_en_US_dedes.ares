@@ -2,9 +2,9 @@ A_Resource_Whose_Name = me.m10.d03_en_US_dedes
 
 meDate.text = "October 3"
 meCommemoration.text = "Memory of the Holy Hieromartyr Dionysius the Areopagite." // full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
+meShortCommemoration1.text = "Memory of the Holy Hieromartyr Dionysius the Areopagite."
+meInsert1 = "and the holy and glorious hieromartyr Dionysius the Areopagite," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Holy Hieromartyr Dionysios the Areopagite."
 meLE.commemoration2 = ""
@@ -32,8 +32,8 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
-meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.notmetered
+meVE.SticTheotokion.text = "All creation salutes you, shouting: \"Rejoice, all-holy Virgin! Rejoice, the scepter of David! Rejoice, for you blossomed the mystical cluster of grapes! Rejoice, heavenly gate, and unburnt bush! Rejoice, light for the whole world! Rejoice, joy of all people! Rejoice, the glory of the Apostles! Rejoice, our helper! Rejoice, the protection of all who honor you!\""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode2
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
@@ -44,8 +44,8 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode4
-meVE.AposTheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.notmetered
+meVE.AposTheotokion.text = "O Theotokos, I look to you for protection. By your intercession with God, rescue me from all my troubles, from every kind of hardship, and from terrible circumstances, also from every kind of temptation, and from the scandals that are set by evil people who hate me, and by demons who daily seek to destroy me."
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meVE.AposStavrotheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
@@ -285,8 +285,8 @@ meMA.AposGlory.melody = ""
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode8
-meMA.AposTheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meMA.AposTheotokion.text = ""
+meMA.AposTheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.notmetered
+meMA.AposTheotokion.text = "O Lady, drive every vice out of my humble soul: laziness, imperfection, carelessness, thoughtlessness, prodigality, promiscuity, contention, awful disobedience to the commandments of the Holy Spirit; and also all insatiableness, ignorance, unsympathetic attitude, and unconscionable opinions, and save me."
 
 meMA.AposStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meMA.AposStavrotheotokion.melody = he.a.m8_en_US_dedes.KyrieEiKaiKritirio.name
