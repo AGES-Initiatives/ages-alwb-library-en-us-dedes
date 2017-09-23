@@ -55,11 +55,11 @@ ocMA.Kathisma11.text = "The wood of Your Cross was merely planted, O Christ, and
 
 ocMA.Kathisma12.mode = misc_en_US_dedes.Mode6
 ocMA.Kathisma12.melody = ""
-ocMA.Kathisma12.text = ""
+ocMA.Kathisma12.text = "Lord, the life of all, the Jews condemned You to death; they who by the rod of Moses crossed the Red Sea on foot, had you nailed to the Cross; they who suckled honey from the rock, gave You gall to drink. But You endured it all, so that you might free us from slavery to the enemy. O Lord, glory to You!"
 
 ocMA.Kathisma13.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma13.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.name
-ocMA.Kathisma13.text = ""
+ocMA.Kathisma13.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.notmetered
+ocMA.Kathisma13.text = "The ever-virgin Maiden who gave birth to You, O Christ, saw you lifted on the Cross for us, and her soul was pierced with the spear of sorrow; and she wept, and as a mother she lamented. At her supplications, have mercy on us, O Lord of mercy."
 
 ocMA.Kathisma21.mode = misc_en_US_dedes.Mode6
 ocMA.Kathisma21.melody = ""
@@ -70,12 +70,12 @@ ocMA.Kathisma22.melody = ""
 ocMA.Kathisma22.text = "O Lord, Your Cross was sanctified. Truly cures are effected by it, for those who are sick in sins. Through it we worship You. Have mercy on us."
 
 ocMA.Kathisma23.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma23.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.name
-ocMA.Kathisma23.text = ""
+ocMA.Kathisma23.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.notmetered
+ocMA.Kathisma23.text = "When the Virgin, who had given birth to God in the flesh, saw Him hanging on the Cross, she lamented and cried, \"I am astounded by Your ineffable long-suffering, O my Son. How could these unlawful men nail You, the just Judge and only Master, to the Cross, as if You were a convict?\""
 
 ocMA.Kathisma31.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma31.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.name
-ocMA.Kathisma31.text = ""
+ocMA.Kathisma31.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.notmetered
+ocMA.Kathisma31.text = "In Eden, the tree brought corruption to our ancestor. But now on Calvary, the tree of the Cross has blossomed life. For the wickedness of the enemy has been trampled; and because of Christ's crucifixion, Adam has obtained mercy, and he has found Paradise. Therefore he cries aloud, \"O tree, you are blessed!\""
 
 ocMA.Kathisma32.mode = misc_en_US_dedes.Mode6
 ocMA.Kathisma32.melody = ""
@@ -461,15 +461,15 @@ ocMA.OdeW9C24.text = ""
 
 ocMA.Aposticha1.mode = misc_en_US_dedes.Mode6
 ocMA.Aposticha1.melody = ""
-ocMA.Aposticha1.text = ""
+ocMA.Aposticha1.text = "I now have hope, because of the Cross, and I boast in it, saying: \"O humane Lord, bring down the arrogance of those who do not confess You to be both God and man.\""
 
 ocMA.Aposticha2.mode = misc_en_US_dedes.Mode6
 ocMA.Aposticha2.melody = ""
-ocMA.Aposticha2.text = ""
+ocMA.Aposticha2.text = "We who are shielded by the Cross stand up to the enemy, and we are not frightened by his tactics and traps. For the proud one has been brought down, and he has been trampled by the power of Christ, who was nailed to the Cross."
 
 ocMA.Aposticha3.mode = misc_en_US_dedes.Mode6
 ocMA.Aposticha3.melody = ""
-ocMA.Aposticha3.text = ""
+ocMA.Aposticha3.text = "The memory of the Martyrs brings great joy to those who fear the Lord. They competed for Christ, and they were awarded crowns by Him, and now with confidence they intercede on behalf of our souls."
 
 ocMA.AposTheotokion.mode = misc_en_US_dedes.Mode6
 ocMA.AposTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
@@ -485,23 +485,23 @@ ocLI.Beatitudes1.text = oc.m6.d1_en_US_dedes.ocLI.Beatitudes1.text
 
 ocLI.Beatitudes2.mode = misc_en_US_dedes.Mode6
 ocLI.Beatitudes2.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
-ocLI.Beatitudes2.text = ""
+ocLI.Beatitudes2.text = "By Your voluntary crucifixion, Master, * in Your mercy, You called back humanity * after it slipped and fell into the depths of ills."
 
 ocLI.Beatitudes3.mode = misc_en_US_dedes.Mode6
 ocLI.Beatitudes3.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
-ocLI.Beatitudes3.text = ""
+ocLI.Beatitudes3.text = "Sun of Righteousness, beholding that You suffered * and were nailed to the Cross voluntarily, * the earth convulsed and the sun hid its rays in awe."
 
 ocLI.Beatitudes4.mode = misc_en_US_dedes.Mode6
 ocLI.Beatitudes4.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
-ocLI.Beatitudes4.text = ""
+ocLI.Beatitudes4.text = "Holy Martyrs, being sharers in the Passion * of the Master, you share also in divine * splendor, being by participation deified."
 
 ocLI.BeatitudesTr.mode = misc_en_US_dedes.Mode6
 ocLI.BeatitudesTr.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
-ocLI.BeatitudesTr.text = ""
+ocLI.BeatitudesTr.text = "From the depths of sin extract me, O my Savior, * as the One of the Trinity who endured * the voluntary crucifixion, Christ our God."
 
 ocLI.BeatitudesT.mode = misc_en_US_dedes.Mode6
 ocLI.BeatitudesT.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
-ocLI.BeatitudesT.text = ""
+ocLI.BeatitudesT.text = "Standing by the Cross and watching as the Savior * voluntarily suffered for all mankind, * O Virgin Mother, you magnified your Son and God."
 
 ocLI.MM.Beatitudes1234TrTas78910GB.text = properties_en_US_dedes.media.key
 
