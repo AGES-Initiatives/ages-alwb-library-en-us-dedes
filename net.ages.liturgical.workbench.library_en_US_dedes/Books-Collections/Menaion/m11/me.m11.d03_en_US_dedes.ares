@@ -14,30 +14,29 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
-// The stichera are from HTM
 meVE.Stichera01.mode = misc_en_US_dedes.Mode5
 meVE.Stichera01.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-meVE.Stichera01.text = "Rejoice, three Martyrs mighty of name, * the virtues' pure abodes, the Trinity's trinity; * ye winebowls that pour forth piety as a God-given wine, * bringing joy and gladness to the souls of all; * ye breasts gushing forth the milk of the healing of maladies; * ye stars that flash forth with the light of eternal truth, * lighting up the ends of the world with its shining rays; * ye who allayed the bitter night and darkness of ignorance * and as the day have enlightened the minds of all men with radiance: * now make intercession * with the Saviour Christ to grant His great mercy to our souls. (HTM)"
+meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode5
 meVE.Stichera02.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-meVE.Stichera02.text = "Rejoice, ye that are worthy of awe, * Joseph , Aethalas, and sacred Acepsimas, * who wholly quenched with divine fire and with the knowledge of God * the deceit of godless worshippers of fire. * Through you, those who lawlessly offered worship unto the sun * and stars of heaven were themselves darkened and eclipsed, * and all the designs of the Magi were brought to nought, * Martyrs for ever ven'rable, the Trinity's champions, * the light to those in that darkness which is to know not the Saviour Christ, * the true and Chief Shepherd, * Who was sacrificed and granteth great mercy to the world. (HTM)"
+meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode5
 meVE.Stichera03.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-meVE.Stichera03.text = "Every assault of suff'rings and pains * did ye endure with an exceeding courageous mind; * and loaded like lifeless burdens upon irrational beasts, * ye were led to suffer torments more severe. * And when ye were fiercely thrashed, and were beaten with clubs and staves, * and sorely wasted by most merciless stripes and blows, * ye did not relent, neither did ye deny our God. * Wherefore ye carried off the crown of vic'try as conquerors * and manifestly were numbered with the divine Martyrs' companies; * with them, intercede ye * that great mercy and forgiveness be granted to our souls. (HTM)"
+meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode5
 meVE.Stichera04.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-meVE.Stichera04.text = "Bravely didst thou go forth of thyself * unto thy contests, filled with joy and most ardent zeal, * astonishing every mind by thy great endurance of pain, * trampling down the tyrants' proud audacity. * And now thou hast passed beyond to the shining angelic life, * dancing in gladness with the Angels in choirs of joy, * and in every hour thou dost save by thy watchful care * those who with faith revere thee, O all-blessed Great Martyr George, * and thou dost hearken with pity unto the paupers' laments and woes, * as thou dost entreat Christ, * Who doth graciously bestow His great mercy on the world. (HTM)"
+meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode5
 meVE.Stichera05.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-meVE.Stichera05.text = "Come thou to us who praise thee with love, * and be a helper unto those who are in distress, * come lighten the pain of bitter temptations grievous to bear, * and remove the weighty burden from our souls; * preserve us and keep us safe, yea, and save us, O Martyr George, * and lead us over unto God by the means of faith, * guiding us to keep the Creator's divine commands, * that we, as having lived by His great goodness, may all attain * to the divine recompenses found in the Heavens with all the Saints, * while praising Christ Saviour, * Who doth graciously bestow His great mercy on the world. (HTM)"
+meVE.Stichera05.text = ""
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode5
 meVE.Stichera06.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-meVE.Stichera06.text = "Wondrous and very great in all truth * is the report of thine unspeakable martyrdom, * for like unto an illustrious prince, thou passes throughout * all creation, O amazing Martyr George; * and being adorned in truth with the grace to work miracles, * thou grantest healing to those stricken with sicknesses, * and the suffering thou dost treat with thy holy prayers. * Hence, we know thee to be a fervent helper in all distress, * and a most kind benefactor deliv'ring those in captivity. * O all- blessed Martyr, * intercede with Christ to grant His great mercy to our souls. (HTM)"
+meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
@@ -63,11 +62,10 @@ meVE.Aposticha3.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Aposticha3.text = ""
 
-// Glory from HTM
 meVE.AposGlory.poet = poets_en_US_dedes.EfraimKarias
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "The Three Children in Persia who were preserved unburnt were a symbolic prelude to your thrice-radiant concord, O athletes, and your witness in Christ ot the unmingled Trinity and Unity transcendent in essence. For even as they braved the fire because they would not insult God, so ye also sought not to escape death, because ye had not given up your love for Christ; and as Christ, that Fourth One Who appeared, bedewed them in the fire, thus did He, Who is One of the Trinity, receive you in a place of refreshment. O divinely inspired Acepsimas, Joseph, and Aethalas, intercede in behalf of our souls. (HTM)"
+meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.AposTheotokion.melody = ""
@@ -330,8 +328,8 @@ meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m4_en_US_dedes.ZaliMeLogismon.text
 
 meMA.Kontakion2.mode = misc_en_US_dedes.Mode8
-meMA.Kontakion2.melody = he.a.m8_en_US_dedes.TiYpermacho.name
-meMA.Kontakion2.text = ""
+meMA.Kontakion2.melody = he.a.m8_en_US_dedes.TiYpermacho.notmetered
+meMA.Kontakion2.text = "As we believers who extol you take refuge in your speedy help as our champion, we entreat that Christ will rescue us from the scandals of the enemy, and from every harm and danger, so that we may salute you and say: Rejoice, O Great Martyr George!"
 
 meMA.Oikos2.text = ""
 meMA.Oikos22.text = ""
@@ -505,7 +503,7 @@ meMA.Lauds3.text = "Do protect me on every side, * whether sailing upon the sea 
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.text = me.m04.d23_en_US_dedes.meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
 meMA.LaudsTheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
