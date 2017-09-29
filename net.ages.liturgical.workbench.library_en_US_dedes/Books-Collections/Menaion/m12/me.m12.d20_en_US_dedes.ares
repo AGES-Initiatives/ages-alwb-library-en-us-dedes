@@ -3,8 +3,8 @@ A_Resource_Whose_Name = me.m12.d20_en_US_dedes
 meDate.text = "December 20" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Memory of the Holy Hieromartyr Ignatius the God-bearer; and Forefeast of the Birth of our Savior" // full title of day
 meShortCommemoration1.text = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
+meInsert1 = "the holy and glorious hieromartyr Ignatius the God-bearer," // for use in petitions and dismissal
+meInsert2 = "whose memory we are observing;" // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Holy Hieromartyr Ignatius the God-bearer."
 meLE.commemoration2 = ""
@@ -84,6 +84,9 @@ meVE.Apolytikion2.mode = misc_en_US_dedes.Mode3
 meVE.Apolytikion2.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
 meVE.Apolytikion2.text = ""
 
+meCO.C1.title = "Three-ode Canon of the Forefeast"
+meCO.C1.verse = prayers_en_US_dedes.verse_God.text
+
 meCO.C1Acrostic.text = ""
 
 meCO.Ode1C1H.ode = misc_en_US_dedes.Ode1
@@ -148,8 +151,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m1_en_US_dedes.OdinEpinikion.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonProeortios
+meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode1
@@ -171,8 +174,8 @@ meMA.Ode1C14.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C14.melody = he.h.m1_en_US_dedes.OdinEpinikion.name
 meMA.Ode1C14.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode1
