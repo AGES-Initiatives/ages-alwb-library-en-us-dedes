@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m12.d23_en_US_dedes
 
 meDate.text = "December 23" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meCommemoration.text = "Memory of the Holy Ten Martyrs in Crete" //full title of day
+meShortCommemoration1.text = "Memory of the Holy Ten Martyrs in Crete"
+meInsert1 = "the holy Ten Martyrs in Crete," //for use in petitions and dismissal
+meInsert2 = "whose memory we are observing;" //for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
@@ -142,10 +142,10 @@ meCO.Ode9C12.mode = misc_en_US_dedes.Mode6
 meCO.Ode9C12.melody = he.h.m6_en_US_dedes.TinTimioteran.name
 meCO.Ode9C12.text = ""
 
-meCO.Ode93.ode = misc_en_US_dedes.Ode9
-meCO.Ode93.mode = misc_en_US_dedes.Mode6
-meCO.Ode93.melody = he.h.m6_en_US_dedes.TinTimioteran.name
-meCO.Ode93.text = ""
+meCO.Ode9C13.ode = misc_en_US_dedes.Ode9
+meCO.Ode9C13.mode = misc_en_US_dedes.Mode6
+meCO.Ode9C13.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+meCO.Ode9C13.text = ""
 
 meCO.Ode9C14.ode = misc_en_US_dedes.Ode9
 meCO.Ode9C14.mode = misc_en_US_dedes.Mode6
