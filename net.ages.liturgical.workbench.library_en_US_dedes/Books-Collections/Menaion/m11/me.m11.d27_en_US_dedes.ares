@@ -35,7 +35,7 @@ meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
 meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = "Only you, O all-holy Bride of God, * carried in your womb unconstricted the uncontainable God, * who became a man in His sublime benevolence. * Blessed Virgin, I therefore pray * and ask that you free me * from the force of sinful passions that constrict my soul, * so that being cured of the passions, * I may walk the straight and the narrow * way and find my destination, life on high."
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode2
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
@@ -47,7 +47,7 @@ meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode5
 meVE.AposTheotokion.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.text = oc.m5.d1_en_US_dedes.ocSV.Aposticha3.text
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode5
 meVE.AposStavrotheotokion.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
@@ -196,10 +196,10 @@ meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
-meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TaAnoZiton.notmetered
+meMA.Kontakion1.text = "You listened to your good wife, O patient James. You showed contempt for the religion of the Persians and their threats, fearing rather the judgment of God. And you became a marvelous Martyr, when your body was cut like a vine."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "As we see the Martyr being bitterly dismembered, let us all sigh from the depths of our souls and pour out many tears. Those executioners came like growling dogs, and they mangled the limbs of our marvelous Martyr, who was brave among Martyrs. Who is he? Be patient, if you wish, and I will gladly tell you everything, how he was offered as a sacrifice to the Lord, when his body was cut like a vine."
 
 meMA.Synaxarion.text = ""
 
@@ -300,7 +300,7 @@ meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode8
 meMA.AposTheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meMA.AposTheotokion.text = ""
+meMA.AposTheotokion.text = "Held in the darkness of ignorance, * I am weighed down with a thick * torpor caused by despondency, * covered by the darkest gloom * of the troubles oppressing me; * and I am bound hand and foot by risk and fear. * Merciful Lady, do not abandon me, * lest I be utterly * ruined; so deliver me from all my trials. * After God, you are the only one in whom I hope."
 
 meMA.AposStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meMA.AposStavrotheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
