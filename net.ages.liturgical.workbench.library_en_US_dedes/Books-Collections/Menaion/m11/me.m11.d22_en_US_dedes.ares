@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m11.d22_en_US_dedes
 
 meDate.text = "November 22"
-meCommemoration.text = "Memory of the Holy Apostle Philemon, and those with him, Apphia, Archippus and Onesimus; and the Holy Martyr Cicilia and those with her." // full title of day
+meCommemoration.text = "Memory of the Holy Apostle Philemon, and those with him, Apphia, Archippus and Onesimus; and the Holy Martyr Cicely and those with her." // full title of day
 meShortCommemoration1.text = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
@@ -15,32 +15,32 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode8
-meVE.Stichera01.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.melody = he.a.m8_en_US_dedes.OTouParadoxou.notmetered
+meVE.Stichera01.text = "What a paradoxal miracle! Today the ineffable coming event and spiritual reality is prefigured in visible symbols. The Maiden who will shine the divine Light on the world is led as a bride to the Temple of God. Let us extol her as the wonderous, holy, ever-luminous temple of the divinity of Christ the Giver of light."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode8
-meVE.Stichera02.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.melody = he.a.m8_en_US_dedes.OTouParadoxou.notmetered
+meVE.Stichera02.text = "Wise Joachim and Anna presented the acceptable first-fruit to God who had given them this divine fruit, namely their daughter Mary the child of God. Through her the obligation of pain and sorrow was removed. Let us piously extol her as we rejoice, for she has become the one who introduced joy into all the world."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode8
-meVE.Stichera03.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.melody = he.a.m8_en_US_dedes.OTouParadoxou.notmetered
+meVE.Stichera03.text = "Come let us mystically come together now and lead the procession of the Virgin, holding the lamps of faith and illumined by them. For she enters the Temple of God with glory, being clearly betrothed by the Spirit. Let us all observe her delightful feast, celebrating her Entry with godly joy."
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode2
-meVE.Stichera04.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.Stichera04.text = ""
+meVE.Stichera04.melody = he.a.m2_en_US_dedes.OteEkTouXylou.notmetered
+meVE.Stichera04.text = "As a branch of the vine of life, O glorious Philemon, you distilled the wine of the knowledge of God for souls in pain; and you gladdened hearts that were sad in the gloom of deceptive error and lying in the darkness of idolatry. Therefore we now celebrate your divinely luminous memory with joy."
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode2
-meVE.Stichera05.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.Stichera05.text = ""
+meVE.Stichera05.melody = he.a.m2_en_US_dedes.OteEkTouXylou.notmetered
+meVE.Stichera05.text = "The city of Gaza honors you, O blessed Saint, for through you it saw the light of the knowledge of God. And the city of Colassae, which possesses the treasure of your divine body, reaps the cures and the grace that flow from it every day. Therefore they celebrate your memory, being delivered from danger by your intercessions, O glorious Philemon."
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode2
-meVE.Stichera06.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.Stichera06.text = ""
+meVE.Stichera06.melody = he.a.m2_en_US_dedes.OteEkTouXylou.notmetered
+meVE.Stichera06.text = "With faith let us extol that wise hierarch Archippus and modest Apphia, and let us sing the praises of Philemon and Onesimus. They were sacred preachers of God, holy teachers, who by their words uprooted the error of polytheism, and planted knowledge of the truth in everyone they met. Therefore, let us solemnly celebrate their memory."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = "Come and let us sing in unison and extol the Apostles of Christ, the eye-witnesses of the Word and initiates of His wonders, namely Philemon and Onesimus, Apphia and Archippus; and let us cry out to them: \"Rejoice, O luminaries of the whole world and bulwarks of Colossae. Rejoice, O friends of the Angels. You bravely dismantled the deceptive error of idolatry, and you proclaimed that Christ is the Savior, and you free people from deception. Therefore, as you stand near the throne of the Holy Trinity, intercede for the salvation of our souls.\""
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode1
 meVE.SticBoth.melody = ""
@@ -322,10 +322,10 @@ meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m1_en_US_dedes.SplanchnonIonan.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode4
-meMA.Kontakion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.notmetered
+meMA.Kontakion1.text = "O congregation of believers, let us solemnly extol St. Cicely, who adorned her heart with virtue, and willingly wed herself to Christ. For when she shined like the sun amidst those who sought her, she humiliated the conceit of Almacius. Then she appeared to those on earth as a divine support, having kept the faith."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "Worthy of wonder is how the ability to do prodigious, astonishing and great miracles has been given to the Saints, as a beginning of a good hope. Such was the virtue of the holy virgin Cicely, and her unsullied splendor; and how she stripped for the contest and eluded the prince of darkness; she ran to wrestle the foe, and she was strengthened and remained standing. And we declare that the facts of this miracle are true, how for Christ she struck Belial with her heal, having kept the faith."
 
 meMA.Synaxarion.text = ""
 
@@ -475,24 +475,24 @@ meMA.Ode9H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode9H.text = he.h.m1_en_US_dedes.TyponTisAgnis.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.notmetered
+meMA.Exaposteilarion1.text = "Most sacred Archippus, Apphia, and Philemon, as Apostles and eyewitnesses of the Logos, and you, O Martyr Cicely, offer your supplications to the Creator, on behalf of us who in faith observe your sacred memory, and pray that we receive forgiveness of offences. For we invoke your intercessions when we pray to the Master."
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode3
-meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.notmetered
+meMA.Exaposteilarion2.text = "The all-good Maiden, who is likened to a blameless heifer, is wondrously led into the Temple today; before her process ranks of the bodiless, as well as hosts of Angels, along with many virgins. The godly priest rejoiced when he embraced her."
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode4
-meMA.Lauds1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meMA.Lauds1.text = ""
+meMA.Lauds1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.notmetered
+meMA.Lauds1.text = "Jesus, our God, the glorious Sun, sent you, O Apostle Philemon, as a bright ray into the world, to drive away the gloom of wickedness, and to illumine hearts that were darkened by ignorance and the sway of the passions, O all-blessed sacred preacher."
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode4
-meMA.Lauds2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meMA.Lauds2.text = ""
+meMA.Lauds2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.notmetered
+meMA.Lauds2.text = "O all-lauded Apphia, you became a pure dwelling place of the Trinity, for you beautified your heart with the splendor of virtue, and you shined brighter than sun with the illumination of true religion, for you had been initiated into all the divine mysteries. Therefore you now rejoice with the host of the bodiless, O God-inspired Saint."
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode4
 meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meMA.Lauds3.text = ""
+meMA.Lauds3.text = "Let us extol divine Philemon, and Archippus the sacred preacher, and also Onesimus, as godly-minded hierarchs, as magnificent Martyrs, and as wise Apostles. They are partakers of the brightness from on high, and they stand near the throne of glory; and they pray for the remission of our sins."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
 meMA.LaudsGlory.melody = ""
