@@ -29,19 +29,20 @@ meVE.Stichera03.text = ""
 meVE.SticGlory.poet = poets_en_US_dedes.Stouditou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode5
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = "O devout father, you traded well with the talent that was entrusted to you by Christ, and for this even after death you proved to be an exorcist, and a physician curing various illnesses. And for the Church of Christ you were a pillar and foundation, and a holy mountain. Therefore we entreat you, wonder-worker Daniel: pray for peace, and for great mercy to come to our souls."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode5
 meVE.SticTheotokion.melody = ""
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = "O Maiden full of grace, we entreat you to supplicate on our behalf, and ask for abundant mercies to be sent to our souls, and for the forgiveness of our many offences."
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode5
 meVE.SticStavrotheotokion.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meVE.SticStavrotheotokion.text = ""
 
-meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion1.melody = ""
-meVE.Apolytikion1.text = ""
+meVE.GeneralApolytikion1.mode = misc_en_US_dedes.Mode1
+meVE.GeneralApolytikion1.melody = he.ga_en_US_dedes.YpomonisStylos.name
+meVE.GeneralApolytikion1.name = "Daniel,"
+meVE.MM.GeneralApolytikion1.text = "" // for media
 
 meMA.C1Acrostic.text = ""
 
