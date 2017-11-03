@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = tr.d021_en_US_dedes
 
 trCommemoration.text = "We observe the memory of all the God-bearing Fathers, who were illustrious in asceticism." //full title of day
-trShortCommemoration1.text = "Triodion: Holy Ascetics"
+trShortCommemoration1.text = "Saturday of Meatfare Week: Memory of the Holy Ascetics."
 trInsert1 = "all our devout and God-bearing fathers, who were illustrious in asceticism," //for use in petitions and dismissal
 trInsert2 = "whose memory we celebrate," //for use in petitions and dismissal
 trNote.text = ""
@@ -81,8 +81,8 @@ trMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
 trMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 trMA.Ode1C1H.text = he.h.m8_en_US_dedes.AsmaAnapempsomen.text
 
-trMA.C1.title = ""
-trMA.C1.verse = ""
+trMA.C1.title = titles_en_US_dedes.KanonTonPateron
+trMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 trMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 trMA.Ode1C11.mode = misc_en_US_dedes.Mode8
