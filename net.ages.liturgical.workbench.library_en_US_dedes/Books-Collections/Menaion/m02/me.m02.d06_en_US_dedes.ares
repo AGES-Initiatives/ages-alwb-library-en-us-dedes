@@ -180,8 +180,8 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = "Grace was poured upon your lips, O devout father, and you became a shepherd of the Church of Christ, teaching the reasonable sheep to believe in the Trinity, coessential, in one Divinity."
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -273,23 +273,23 @@ meMA.Ode5C1T.text = ""
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C11.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
-meMA.Ode6C11.text = ""
+meMA.Ode6C11.melody = he.h.m4_en_US_dedes.TinTheianTaftin.notmetered
+meMA.Ode6C11.text = "Let us sing in praise of Photios, that great trumpet that openly proclaimed the Holy Spirit's procession from the Father, as the Son of Thunder theologized of old."
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C12.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
-meMA.Ode6C12.text = ""
+meMA.Ode6C12.melody = he.h.m4_en_US_dedes.TinTheianTaftin.notmetered
+meMA.Ode6C12.text = "The insolence of heresy was thoroughly cracked by your words, O most sacred Photios. Therefore, the congregation of believers honors your memory with luminous ceremonies, O Saint."
 
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C13.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
-meMA.Ode6C13.text = ""
+meMA.Ode6C13.melody = he.h.m4_en_US_dedes.TinTheianTaftin.notmetered
+meMA.Ode6C13.text = "The entire congregation of Orthodox faithful is exultant and celebrates, O all-honored Photios, seeing you as the august successor of Gregory and Chrysostom."
 
 meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C1T.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
-meMA.Ode6C1T.text = ""
+meMA.Ode6C1T.melody = he.h.m4_en_US_dedes.TinTheianTaftin.notmetered
+meMA.Ode6C1T.text = "O Maiden, I extol your conception; I extol your ineffable childbirth; I extol your protection, by which I who hasten to your serenity am rescued from all harm."
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode8
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.TiYpermacho.name
@@ -405,6 +405,7 @@ meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = me.m02.d02_en_US_dedes.meMA.LaudsGlory.text
 
 meMA.MM.Lauds1234as5678.text = properties_en_US_dedes.media.key
+meMA.MM.Lauds123as123.text = properties_en_US_dedes.media.key
 
 meLI.Antiphon2.text = me.m02.d02_en_US_dedes.meLI.Antiphon2.text
 
