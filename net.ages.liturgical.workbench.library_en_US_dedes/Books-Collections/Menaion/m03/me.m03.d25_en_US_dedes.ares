@@ -61,6 +61,8 @@ meVE.Stichera03.mode = misc_en_US_dedes.Mode6
 meVE.Stichera03.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
 meVE.Stichera03.text = "\"When God wills it, nature's laws * are overridden, O Damsel,\" * said the incorporeal, * \"and the superhuman deeds * then are brought to pass. * Therefore, trust that indeed * true are these words of mine, * O all-holy and most blameless one.\" * She then cried out in turn, * \"According to your word be it unto me; * and I shall bear the One who is * bodiless but borrowing flesh from me, * so that by His mingling * with man He might restore him to the height * of his primordial dignity, * as the only One who can.\""
 
+meVE.MM.Stichera123as567.text = properties_en_US_dedes.media.key
+
 meVE.SticGlory.poet = poets_en_US_dedes.IoannouMonachou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
@@ -399,10 +401,10 @@ meMA.Lauds3.mode = misc_en_US_dedes.Mode1
 meMA.Lauds3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Lauds3.text = "In His exceeding compassion, * viewing with mercy our fall, * the co-eternal Logos * of the beginningless Father * came down and appeared to the things below, * never leaving the things on high. * Having assumed Adam's poverty to Himself * He has taken on the other's form."
 
-//This troparion is not found in the Menaion but appears as a fourth Sticheron at Lauds of the Annunciation in Μέγας Ἱερὸς Συνέκδημος (Athens: Phos Publications, n.d.), p. 877; and, curiously, as an Apostichon at Vespers of the Akathist
 meMA.Lauds4.mode = misc_en_US_dedes.Mode1
 meMA.Lauds4.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meMA.Lauds4.text = "The Word transcending all essence, * who has appeared to the world, * who was eternally fathered * and temporally mothered, * becoming flesh has taken the form of a slave, * losing not His Divinity. * And in the womb of the woman who without seed * has conceived Him He refashions man."
+meMA.Lauds4.note = "(Note: This troparion is not found in the Menaion but appears as a fourth Sticheron at Lauds of the Annunciation in Μέγας Ἱερὸς Συνέκδημος (Athens: Phos Publications, n.d.), p. 877; and, curiously, as an Apostichon at Vespers of the Akathist Hymn in Τὸ Μέγα Ὡρολόγιον (Athens: M Saliveros Inc., n.d.), pp. 521-22.)"
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Theofanous
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
