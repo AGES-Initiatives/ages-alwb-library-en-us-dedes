@@ -52,7 +52,7 @@ trMA.Kathisma21.text = oc.m5.d7_en_US_dedes.octrMA.Kathisma14.text
 
 trMA.Kathisma21b.mode = misc_en_US_dedes.Mode5
 trMA.Kathisma21b.melody = ""
-trMA.Kathisma21b.text = "Both voluntary and involuntary, and all that they committed in knowledge or in ignorance, O Lover of man."
+trMA.Kathisma21b.text = "And all that they committed in knowledge or in ignorance, O Lover of man."
 
 trMA.Kathisma22.mode = misc_en_US_dedes.Mode5
 trMA.Kathisma22.melody = ""
@@ -65,8 +65,8 @@ trMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
 trMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 trMA.Ode1C1H.text = he.h.m8_en_US_dedes.AsmaAnapempsomen.text
 
-trMA.C1.title = ""
-trMA.C1.verse = ""
+trMA.C1.title = titles_en_US_dedes.KanonTouTriodiou
+trMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 trMA.Ode1C11.mode = misc_en_US_dedes.Mode8
@@ -155,18 +155,18 @@ trMA.Ode3C1H.text = he.h.m8_en_US_dedes.OStereosasEnTiCheiriSou.text
 
 trMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 trMA.Ode3C11.mode = misc_en_US_dedes.Mode8
-trMA.Ode3C11.melody = he.h.m8_en_US_dedes.OStereosasEnTiCheiriSou.name
-trMA.Ode3C11.text = ""
+trMA.Ode3C11.melody = he.h.m8_en_US_dedes.OStereosasEnTiCheiriSou.notmetered
+trMA.Ode3C11.text = "O God, grant that those who have finished the race of this life in pious glory may wear a crown of righteousness, and that they may enjoy the eternal blessings. "
 
 trMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 trMA.Ode3C12.mode = misc_en_US_dedes.Mode8
-trMA.Ode3C12.melody = he.h.m8_en_US_dedes.OStereosasEnTiCheiriSou.name
-trMA.Ode3C12.text = ""
+trMA.Ode3C12.melody = he.h.m8_en_US_dedes.OStereosasEnTiCheiriSou.notmetered
+trMA.Ode3C12.text = "O God, when You will test all thing with fire, grant repose to those who were suddenly taken, or incinerated by lightning, or who froze to death, or who died by any injury."
 
 trMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 trMA.Ode3C13.mode = misc_en_US_dedes.Mode8
-trMA.Ode3C13.melody = he.h.m8_en_US_dedes.OStereosasEnTiCheiriSou.name
-trMA.Ode3C13.text = ""
+trMA.Ode3C13.melody = he.h.m8_en_US_dedes.OStereosasEnTiCheiriSou.notmetered
+trMA.Ode3C13.text = "O Christ, grant that those who sailed the ever turbulent sea of this life, and who were navigated by Orthodox living, may put in to port in the harbor of the incorruptible life that You give."
 
 trMA.Ode3C14.ode = misc_en_US_dedes.Ode3
 trMA.Ode3C14.mode = misc_en_US_dedes.Mode8
@@ -180,8 +180,8 @@ trMA.Ode3C1Tr.text = ""
 
 trMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 trMA.Ode3C1T.mode = misc_en_US_dedes.Mode8
-trMA.Ode3C1T.melody = he.h.m8_en_US_dedes.OStereosasEnTiCheiriSou.name
-trMA.Ode3C1T.text = ""
+trMA.Ode3C1T.melody = he.h.m8_en_US_dedes.OStereosasEnTiCheiriSou.notmetered
+trMA.Ode3C1T.text = "O pure Maiden, your miracle is beyond comprehension. You became pregnant without the agency of a man, and after childbirth you preserved your virginity. That is why the host of Angels and the human race throughout the ages extol you."
 
 trMA.Ode3K.ode = misc_en_US_dedes.Ode3
 trMA.Ode3K.mode = misc_en_US_dedes.Mode8
@@ -283,13 +283,13 @@ trMA.Ode6C1H.text = he.h.m8_en_US_dedes.SynechomenonDexaiMe.text
 
 trMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 trMA.Ode6C11.mode = misc_en_US_dedes.Mode8
-trMA.Ode6C11.melody = he.h.m8_en_US_dedes.SynechomenonDexaiMe.name
-trMA.Ode6C11.text = ""
+trMA.Ode6C11.melody = he.h.m8_en_US_dedes.SynechomenonDexaiMe.notmetered
+trMA.Ode6C11.text = "O our God, the Author of life, by suffering You dissolved the pain of death. We entreat You to grant rest to Your servants have reposed from the beginning of time."
 
 trMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 trMA.Ode6C12.mode = misc_en_US_dedes.Mode8
-trMA.Ode6C12.melody = he.h.m8_en_US_dedes.SynechomenonDexaiMe.name
-trMA.Ode6C12.text = ""
+trMA.Ode6C12.melody = he.h.m8_en_US_dedes.SynechomenonDexaiMe.notmetered
+trMA.Ode6C12.text = "O Lord, we pray for those who, in Your unutterable judgment, died because of drugs, poisoning, or choking on something, that You grant them rest with the Saints."
 
 trMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 trMA.Ode6C13.mode = misc_en_US_dedes.Mode8
@@ -308,13 +308,13 @@ trMA.Ode6C15.text = ""
 
 trMA.Ode6C1Tr.ode = misc_en_US_dedes.Ode6
 trMA.Ode6C1Tr.mode = misc_en_US_dedes.Mode8
-trMA.Ode6C1Tr.melody = he.h.m8_en_US_dedes.SynechomenonDexaiMe.name
-trMA.Ode6C1Tr.text = ""
+trMA.Ode6C1Tr.melody = he.h.m8_en_US_dedes.SynechomenonDexaiMe.notmetered
+trMA.Ode6C1Tr.text = "Thrice-holy Godhead, Father, Son, and Spirit, sharing one throne, You are my God, who holds everything together by Your omnipotence."
 
 trMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 trMA.Ode6C1T.mode = misc_en_US_dedes.Mode8
-trMA.Ode6C1T.melody = he.h.m8_en_US_dedes.SynechomenonDexaiMe.name
-trMA.Ode6C1T.text = ""
+trMA.Ode6C1T.melody = he.h.m8_en_US_dedes.SynechomenonDexaiMe.notmetered
+trMA.Ode6C1T.text = "O forefather Jesse, leap for joy; for Christ our God, who saves the world, has come forth from your root, like a flower of life, from the pure Virgin."
 
 trMA.Ode6K.ode = misc_en_US_dedes.Ode6
 trMA.Ode6K.mode = misc_en_US_dedes.Mode8
