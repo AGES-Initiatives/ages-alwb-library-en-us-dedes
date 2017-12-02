@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m03.d29_en_US_dedes
 
 meDate.text = "March 29" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "The Holy Martyrs Mark, Bishop of Arethusa, Cyril the Deacon, and Others Martyred in the Reign of Julian the Apostate. The Holy Martyrs Jonas and Barachesius and Those With Them" //full title of day
+meShortCommemoration1.text = "The Holy Martyrs Mark, Bishop of Arethusa, Cyril the Deacon"
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -15,16 +15,16 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode1
-meVE.Stichera01.melody = ""
-meVE.Stichera01.text = ""
+meVE.Stichera01.melody = "(NM)The Cross was planted."
+meVE.Stichera01.text = "O Hierarch, with valiant resistance, you cast down the arrays of the enemy, and you rescued people from the deceptive error of the idols."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode1
-meVE.Stichera02.melody = ""
-meVE.Stichera02.text = ""
+meVE.Stichera02.melody = "(NM)The Cross was planted."
+meVE.Stichera02.text = "O Hierarch, you stretched out your hands, and strengthened your fellow athletes in their labors, and thus you showed that the power of the enemy was impotent."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode1
-meVE.Stichera03.melody = ""
-meVE.Stichera03.text = ""
+meVE.Stichera03.melody = "(NM)The Cross was planted."
+meVE.Stichera03.text = "O Hierarch, as an initiate and Martyr of the Master, and a wise teacher of the Church, unceasingly implore Him on our behalf."
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode1
 meVE.Stichera04.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
