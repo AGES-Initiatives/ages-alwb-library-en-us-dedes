@@ -225,11 +225,13 @@ ve5.pdf.cover = "The Service of Vespers"
 
 vl.html.tab = "VESPERAL LITURGY OF ST. BASIL"
 vl.pdf.header = "Vesperal Liturgy of St. Basil"
-vl.pdf.cover = "Vesperal Liturgy of St. Basil the Great"
+vl.pdf.cover = "Vesperal Liturgy"
+vl.pdf.cover2 = "of St. Basil the Great"
 
 //other
 d = "DAY"
 d.delimiter = " - "
+d.for = "for"
 d.of = " of "
 d.on = " on "
 d.ontheeveof = " on the eve of "
