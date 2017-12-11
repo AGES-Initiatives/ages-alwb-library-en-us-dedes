@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m02.d19_en_US_dedes 
 
 meDate.text = "February 19" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of the Holy Apostle Archippus, and the Devout Martyr Philothea the Athenian" //full title of day
+meShortCommemoration1.text = "Memory of the Holy Apostle Archippus"
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -40,6 +40,8 @@ meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 meVE.Apolytikion1.text = ""
 
 meMA.C1Acrostic.text = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouApostolou
+meMA.C1.verse = prayers_en_US_dedes.verse_Apostle.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
@@ -274,7 +276,7 @@ meMegalynarion.text = ""
 
 alt1.meDate.text = "February 19" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meCommemoration.text = "Memory of the Devout Martyr Philothea the Athenian" //full title of day
-alt1.meShortCommemoration1.text = ""
+alt1.meShortCommemoration1.text = "Memory of St. Philothea the Athenian"
 alt1.meInsert1 = "the glorious devout martyr Philothea the Athenian," //for use in petitions and dismissal
 alt1.meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
 alt1.meNote.text = ""
