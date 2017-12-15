@@ -42,11 +42,11 @@ meVE.SticStavrotheotokion.text = ""
 meVE.AposGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = "O Martyr Theodore, you spread out the God-given grace of your miracles over all who have recourse to you in faith. Through this grace, we extol you, and we say: You deliver captives, you heal the sick, you enrich the poor, and you preserve travelers; you stopped the unavailing escape of fugitive slaves; and you make reveal what was lost to them that were robbed, O athlete. You chastise soldiers to refrain from extortion; you compassionately grant the requests of young children. You are a fervent protector of those who celebrate your sacred memory, O most sacred athlete. On behalf of us who extol your martyrdom, pray to Christ, that He grant us the great mercy."
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode2
-meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.notmetered
+meVE.AposTheotokion.text = "The eyewitnesses of the heavenly God saw you as a new and newly appearing heaven, and they tell of the heavenly glory that came to earth in you, and they proclaim to the world that you are the work of His hands, with the firmament of Him who was incarnate of you. Their sound has gone forth into all the earth, O Virgin, preaching your childbirth to the nations."
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode2
 meVE.AposStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
@@ -64,8 +64,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m8_en_US_dedes.YgranDiodefsas.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
@@ -181,29 +181,29 @@ meMA.Ode6C1H.text = he.h.m8_en_US_dedes.IlasthitiMoiSotir.text
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C11.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
-meMA.Ode6C11.text = ""
+meMA.Ode6C11.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.notmetered
+meMA.Ode6C11.text = "O Martyr, you were a most ardent champion of true Christianity, and you denounced the deception of idolatry. Therefore, efface from my soul the fantasies of the demons and the images of the sinful passions."
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C12.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
-meMA.Ode6C12.text = ""
+meMA.Ode6C12.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.notmetered
+meMA.Ode6C12.text = "O Martyr Theodore, be for me a rampart and unshakable wall; strengthen the infirmity and unsoundness of my thinking; and preserve me from every fall, all in your protection of me."
 
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C13.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
-meMA.Ode6C13.text = ""
+meMA.Ode6C13.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.notmetered
+meMA.Ode6C13.text = "O all-blessed admirable Martyr Theodore, you counted as nothing the being enlisted in a corrupted and corrupting army, whereas you completely loved the the army that fights for life, and in it you were shown to be a victor."
 
 meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1T.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C1T.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
-meMA.Ode6C1T.text = ""
+meMA.Ode6C1T.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.notmetered
+meMA.Ode6C1T.text = "The majesty of the Most High shone forth out of Zion, clothed in the flesh He took from you in an ineffable union, O Ever-virgin; and He has illumined the world."
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
 meMA.Kontakion1.melody = ""
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "Once you had taken the Faith of Christ into your heart like a suit of armor, you trampled the hostile forces underfoot, having contended much, and you were crowned with heavenly laurels forever, as one invincible." //same as tr.d028
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "We gladly in faith extol You, who are carried on a throne of light. For You have given us a divine gift, Theodore, who was brave in the contests and thrice-blessed in his life, as being a champion of the truth. Having a pious frame of mind, he obtained You, O Christ; and against the deceiver he proved to be a mighty victor, as one invincible." //same as tr.d028
 
 meMA.Synaxarion.text = ""
 
