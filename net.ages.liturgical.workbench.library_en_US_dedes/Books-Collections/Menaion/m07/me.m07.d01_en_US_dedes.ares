@@ -4,9 +4,8 @@ meHO.Month.text = ""
 meHO.DaysHours.text = ""
 
 meDate.text = "July 1"
-meCommemoration.text = "Memory of the Holy Unmercenaries Kosmas and Damian the Wonder-workers, who Witnessed in Rome."
- //full title of day
-meShortCommemoration1.text = "Sts. Kosmas and Damian"
+meCommemoration.text = "Memory of the Holy Unmercenaries Kosmas and Damian the Wonder-workers, who Witnessed in Rome"
+meShortCommemoration1.text = "Memory of the Holy Unmercenaries Kosmas and Damian of Rome"
 meInsert1 = "the holy and glorious Unmercenaries Kosmas and Damian," // for use in petitions and dismissal
 meInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
 meNote.text = ""
@@ -109,8 +108,8 @@ meMA.Kathisma2T.text = "Unassailable Guardian * of those in trouble, * ardent He
 
 meMA.C1Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTonAgion
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode6
