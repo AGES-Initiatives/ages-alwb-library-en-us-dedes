@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m07.d11_en_US_dedes
 
 meDate.text = "July 11"
 meCommemoration.text = "Memory of the Holy Great Martyr and All-famed Euphemia" // full title of day
-meShortCommemoration1.text = "St. Euphemia"
+meShortCommemoration1.text = "Memory of the Holy Great Martyr Euphemia"
 meInsert1 = "the holy Great Martyr and all-famed Euphemia," // for use in petitions and dismissal
 meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
@@ -119,7 +119,7 @@ meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.ToProstachthen.name
 meMA.Kathisma3T.text = "We ever thank you, O all-holy Theotokos, * and magnify you the all-pure one; and we worship * and extol your divine Son, Maiden highly favored. * All-merciful Virgin, therefore we cry aloud * unceasingly praying, Save us, since you are good. * Snatch me out from the frightening * examination of accounts * by demons in the hour of trial. * May we your servants not be ashamed."
 
 meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
-//July 11 says from Mark, see November 25; found Greek text at goarch; not at analogion.gr (from Liturgy)
+
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelWomanMartyr.text
@@ -134,8 +134,8 @@ meMA.PostGospelIdiomelon.text = meVE.SticGlory.text
 
 meMA.C1Poet = poets_en_US_dedes.IakovouProtopsaltou
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTisAgias
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4

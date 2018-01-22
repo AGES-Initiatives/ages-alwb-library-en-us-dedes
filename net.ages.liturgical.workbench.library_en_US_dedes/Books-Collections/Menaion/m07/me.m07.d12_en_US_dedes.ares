@@ -3,7 +3,7 @@ A_Resource_Whose_Name = me.m07.d12_en_US_dedes
 meDate.text = "July 12" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Memory of our Devout and God-bearing Father Paisios of the Holy Mountain Athos" // full title of day
 meCommemoration2.text = "" // full title of day
-meShortCommemoration1.text = "our devout and God-bearing father Paisios of the Holy Mountain Athos,"
+meShortCommemoration1.text = "Memory of our Devout Father Paisios of the Holy Mountain Athos"
 meInsert1 = "and our devout and God-bearing father Paisios of the Holy Mountain Athos," // for use in petitions and dismissal
 meInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
 meNote.text = ""
@@ -202,7 +202,7 @@ meMA.C1Acrostic.text = ""
 meMA.C2Poet = ""
 meMA.C2Acrostic.text = ""
 
-meMA.C1.title = ""
+meMA.C1.title = titles_en_US_dedes.KanonATouAgiou
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -225,7 +225,7 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
 meMA.Ode1C1T.text = "Truly I place my every hope in you, O Virgin pure, that is after God; * and my full devotion I have lifted up to you; * wholeheartedly with all my might, I cry out to you, Lady: * Direct my steps to salvation, * O all-holy Mother of Christ our God."
 
-meMA.C2.title = ""
+meMA.C2.title = titles_en_US_dedes.KanonBTouAgiou
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1

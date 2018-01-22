@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m07.d29_en_US_dedes
 
 meDate.text = "July 29"
 meCommemoration.text = "Memory of  the holy Martyr Callinicus; and the Holy Martyr Theodota." // full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Memory of  the holy Martyr Callinicus"
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
@@ -60,8 +60,8 @@ meMA.C1Acrostic.text = ""
 
 meMA.C2Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -83,8 +83,8 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.ArmataFarao.name
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_en_US_dedes.KanonTisAgias
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode4
