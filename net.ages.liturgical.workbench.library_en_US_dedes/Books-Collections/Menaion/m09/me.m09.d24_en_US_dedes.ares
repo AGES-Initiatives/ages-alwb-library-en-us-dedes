@@ -219,8 +219,6 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
 meMA.Ode7C11.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
@@ -722,9 +720,7 @@ alt1.meMA.Kontakion1.text = "Now the Isle of Kythera * is in possession of your 
 
 alt1.meMA.Oikos1.text = ""
 
-alt1.meMA.Synaxarion.text = ""
-
-alt1.meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
+alt1.alt1.meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 alt1.meMA.Ode7C1H.mode = misc_en_US_dedes.Mode1
 alt1.meMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
 alt1.meMA.Ode7C1H.text = he.h.m1_en_US_dedes.ItamoThymo.text

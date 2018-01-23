@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m07.d07_en_US_dedes 
 
 meDate.text = "July 7"
-meCommemoration.text = "Memory o our Righteous Father Thomas of Mount Maleon, and the Holy Martyr Kyriake"
+meCommemoration.text = "Memory of our Righteous Father Thomas of Mount Maleon, and the Holy Martyr Kyriake"
 meShortCommemoration1.text = "Memory of the Holy Martyr Kyriake"
 meInsert1 = "the holy and glorious Martyr Kyriake, "
 meInsert2 = "whose memory we are observing; "
@@ -52,7 +52,7 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = me.m07.d26_en_US_dedes.meMA.LaudsGlory.text
+meVE.AposGlory.text = "In the city of our God, in His holy mountain, that is where Saint Kyriaki made her dwelling, and she kept her lamp from going out. Hear the praise of this virgin: \"Oh virginity, the temple of God! Oh Virginity, the glory of the Martyrs! Oh Virginity, the partner of Angels!\""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode2
 meVE.AposTheotokion.melody = ""
@@ -75,6 +75,26 @@ meVE.Apolytikion2.text = ""
 meVE.Apolytikion3.mode = misc_en_US_dedes.Mode5
 meVE.Apolytikion3.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
 meVE.Apolytikion3.text = "You were seen as a holy auspicious sacrifice, * when you offered your Maker your pure and holy soul, * which was glorified by Christ, O unflinching soul. * Hence He pours out the gifts of grace more in number than the sand to the believers who praise you, * Kyriaki laurel-bearer, for He is merciful and loves mankind."
+
+meMA.Kathisma1.notice = "Kathisma 1 is borrowed from July 26 and modified."
+
+meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma11.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Kathisma11.text = "You truly loved the Savior Christ who is handsome, * and through your chastity your soul shone with beauty, * and thus by means of every kind of labor and distress, * you betrothed yourself to Him, as a bride who is blameless. * So He gave you access to the heavenly chambers. * And you, all-lauded Saint Kyriaki * earnestly pray Him * for us who now honor you."
+
+meMA.Kathisma1T.mode = misc_en_US_dedes.Mode4
+meMA.Kathisma1T.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Kathisma1T.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
+
+meMA.Kathisma2.notice = "Kathisma 2 is that of St. Paraskevi (July 26)."
+
+meMA.Kathisma21.mode = misc_en_US_dedes.Mode1
+meMA.Kathisma21.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+meMA.Kathisma21.text = me.m07.d26_en_US_dedes.meMA.Kathisma21.text
+
+meMA.Kathisma2T.mode = misc_en_US_dedes.Mode1
+meMA.Kathisma2T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+meMA.Kathisma2T.text = oc.m1.d1_en_US_dedes.ocMA.Kathisma13.text
 
 meMA.C2Acrostic.text = ""
 
@@ -304,9 +324,7 @@ meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
 meMA.Kontakion1.text = "The Martyr of Christ has called us together now * to laud her and sing the praises of her divine * contests and martyric fights. * For possessing a manly frame of mind, * in accordance with her name, she had * the mastery over sinful passions and her mind."
 
-meMA.Oikos1.text = ""
-
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
+meMA.Oikos1.text = "In a time when the deceptive error of idolatry was prevalent throughout the world, O lovers of Christ, a man more profane and inhuman than all others was ruler; and the abominable and notorious religion of the godless pagans was practiced. Multitudes were obedient to that ruler's most godless pronouncements, since anyone who would not submit to his impiety was threatened with a harsh and torturous death. But the Martyr of Christ spat in contempt on the tyrants' godless edicts and threats. In the center of the stadium, she proclaimed Christ God and trampled the foe. In this way she was true to her name, which means mastery, she had the mastery over sinful passions and her mind."
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode2
@@ -440,6 +458,20 @@ meMA.Exaposteilarion1.text = "In heaven as a Martyr * you stand with glory next 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
 meMA.ExapTheotokion.text = "From every woe, O Maiden, * and from every other need, * preserve us all, your servants, * as the protectress of the world, * at the divine intercession, * of Kyriaki the pure one."
+
+meMA.Lauds.notice = "The Stichera of Lauds were taken from July 26 and modified."
+
+meMA.Lauds1.mode = misc_en_US_dedes.Mode1
+meMA.Lauds1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds1.text = "Dancing in chorus in heaven and in the courts of the Lord * with those renowned wise virgins, O devout holy Martyr, * most wise Kyriaki, you were given the grace * from the Lord to cure illnesses, * and to expel the unclean spirits and to heal * those who come to you for this with faith."
+
+meMA.Lauds2.mode = misc_en_US_dedes.Mode1
+meMA.Lauds2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds2.text = me.m07.d26_en_US_dedes.meMA.Lauds2.text
+
+meMA.Lauds3.mode = misc_en_US_dedes.Mode1
+meMA.Lauds3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meMA.Lauds3.text = me.m07.d26_en_US_dedes.meMA.Lauds3.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
 

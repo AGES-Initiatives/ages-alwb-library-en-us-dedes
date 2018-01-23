@@ -175,8 +175,6 @@ meMA.Ode6H.mode = misc_en_US_dedes.Mode7
 meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m7_en_US_dedes.OIonasEkKoilias.text
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode7
 meMA.Ode7C11.melody = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.name
@@ -540,9 +538,7 @@ alt1.meMA.Kontakion1.text = ""
 
 alt1.meMA.Oikos1.text = ""
 
-alt1.meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
-alt1.meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
+alt1.alt1.meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 alt1.meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
 alt1.meMA.Ode7C11.melody = he.h.m1_en_US_dedes.OiPaidesEfseveia.name
 alt1.meMA.Ode7C11.text = ""
