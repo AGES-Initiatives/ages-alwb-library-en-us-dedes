@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m08.d05_en_US_dedes
 
 meDate.text = "August 5"
 meCommemoration.text = "The Forefeast of the Holy Transfiguration of our Lord God and Savior Jesus Christ; and Memory of the Holy Martyr Efsignios."
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "The Forefeast of the Holy Transfiguration of our Lord"
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -84,8 +84,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m4_en_US_dedes.AnoixoToStomaMou.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonProeortios
+meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -102,8 +102,8 @@ meMA.Ode1C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C13.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
 meMA.Ode1C13.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode8
@@ -130,8 +130,8 @@ meMA.Ode1C2T.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C2T.melody = he.h.m8_en_US_dedes.AsomenToKyrio.name
 meMA.Ode1C2T.text = ""
 
-meMA.C3.title = ""
-meMA.C3.verse = ""
+meMA.C3.title = "Three-ode Canon."
+meMA.C3.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.Ode1C31.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C31.mode = misc_en_US_dedes.Mode4
