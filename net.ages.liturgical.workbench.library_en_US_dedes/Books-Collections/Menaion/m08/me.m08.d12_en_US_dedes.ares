@@ -1,8 +1,9 @@
 A_Resource_Whose_Name = me.m08.d12_en_US_dedes
 
 meDate.text = "August 12"
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of the Holy Martyrs Photios and Anikitos, and of our Devout Father Maximus the Confessor" //full title of day
+meShortCommemoration1.text = "Memory of the Holy Martyrs Photios and Anikitos"
+meShortCommemoration2.text = "Memory of our Devout Father Maximus the Confessor"
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""

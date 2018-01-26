@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m08.d26_en_US_dedes
 
 meDate.text = "August 26"
-meCommemoration.text = "Memory of the Holy Martyrs Adrian and Natalie." // full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
+meCommemoration.text = "Memory of the Holy Martyrs Adrian and Natalie" // full title of day
+meShortCommemoration1.text = "Memory of the Holy Martyrs Adrian and Natalie"
+meInsert1 = "and the holy Martyrs Adrian and Natalie," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Holy Martyrs Adrianos and Natalia."
 meLE.commemoration2 = ""
@@ -69,8 +69,8 @@ meVE.Apolytikion1.text = "You forsook the ways and false religion * of your ance
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTonAgion
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode6
@@ -305,6 +305,8 @@ meMA.Lauds3.mode = misc_en_US_dedes.Mode8
 meMA.Lauds3.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 meMA.Lauds3.text = "Since you have withstood unyieldingly * bonds of imprisonment * and the pains of dismemberment, * rendering your holy souls * to the One who created you, * you in return have received from Him the true * eternal rest and undying blessedness. * Such a divine reward * has our Lord and Savior Christ bestowed on you, * holy and all-glorious * Martyrs most ven'rable."
 
+meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
+
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
@@ -312,8 +314,6 @@ meMA.LaudsGlory.text = ""
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
-
-meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
