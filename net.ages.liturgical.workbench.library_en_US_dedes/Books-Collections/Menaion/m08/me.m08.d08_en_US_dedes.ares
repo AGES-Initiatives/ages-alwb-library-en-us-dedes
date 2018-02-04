@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m08.d08_en_US_dedes
 
 meDate.text = "August 8"
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of St. Aimilianos, Bishop of Cyzicus" //full title of day
+meShortCommemoration1.text = "Memory of St. Aimilianos, Bishop of Cyzicus"
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -300,4 +300,7 @@ meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
 meLI.Kontakion1.text = ""
 
-meMegalynarion.text = ""
+meMegalynarion.text = "Rightly we salute you and say, Rejoice, * Cyzicus's shepherd, godly Hierarch of the Church. * Rejoice, O defender of the most sacred icons, * support of the believers, O Aimilianos."
+
+alt1.meShortCommemoration1.text = "Memory of the holy Neomartyr Triantaphyllos"
+alt1.meMegalynarion.text = "We salute you, peer of martyrs of old, * as Christ's Neomartyr, Triantaphyllos, O rejoice! * You gave testimony and called yourself a Christian * before ungodly tyrants, steadfast in mind and heart."

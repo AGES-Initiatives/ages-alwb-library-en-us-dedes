@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m08.d11_en_US_dedes
 
 meDate.text = "August 11"
-meCommemoration.text = "Memory of the Holy Martyr Evplus." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of the Holy Martyr Evplus" // full title of day
+meShortCommemoration1.text = "Memory of the Holy Martyr Evplus"
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
@@ -316,3 +316,9 @@ meLI.Kontakion1.melody = ""
 meLI.Kontakion1.text = ""
 
 meMegalynarion.text = ""
+
+alt1.meShortCommemoration1.text = "Memory of the Miracle of St. Spyridon on Kerkyra"
+alt1.meMegalynarion.text = "From the storms arising on sea and land * deliver us all when we invoke your majestic name, * O great father Spyridon, by your all-holy prayers * to God who truly made you an ocean of miracles."
+
+alt2.meShortCommemoration1.text = "Memory of St. Niphon Patriarch of Constantinople"
+alt2.meMegalynarion.text = "Shepherd of Byzantium, O rejoice! * Shining star of Athos and of Dacia, again, Rejoice; * splendor of the Forerunner's holy monastery, * our holy father Niphon, glory or Patriarchs!"

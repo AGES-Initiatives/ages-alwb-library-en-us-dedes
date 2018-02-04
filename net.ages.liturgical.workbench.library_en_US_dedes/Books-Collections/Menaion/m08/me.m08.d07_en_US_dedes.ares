@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m08.d07_en_US_dedes
 
 meDate.text = "August 7"
-meCommemoration.text = "Memory of the Holy Monastic Martyr Demetios." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of the Holy Monastic Martyr Demetios" // full title of day
+meShortCommemoration1.text = "Memory of the Holy Monastic Martyr Demetios"
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
@@ -300,3 +300,5 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
 
+alt1.meShortCommemoration1.text = "Memory of Devout Theodosios the New"
+alt1.meMegalynarion.text = "Rightly we salute you and say, Rejoice, * holy son of Athens, and the helper of Argolis. * Rejoice, for you pour out abundant cures and healings * for those who sing your praises, St. Theodosios."
