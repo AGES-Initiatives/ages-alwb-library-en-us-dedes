@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m11.d17_en_US_dedes
 
 meDate.text = "November 17"
-meCommemoration.text = "Memory of our Father among the Saints Gregory the Wonder-worker, Bishop of Neocaesarea." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of our Father among the Saints Gregory the Wonder-worker, Bishop of Neocaesarea" // full title of day
+meShortCommemoration1.text = "Memory of St. Gregory Bishop of Neocaesarea"
 meInsert1 = "and our Father among the Saints Gregory the Wonderworker, Bishop of Neocaesarea," // for use in petitions and dismissal
 meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meNote.text = ""
@@ -44,7 +44,7 @@ meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.AposTheotokion.melody = ""
-meVE.AposTheotokion.text = 
+meVE.AposTheotokion.text = "You accepted the word of the Archangel, and you became a cherubic throne, O Theotokos, and you held in your arms the hope of our souls."
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode6
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
