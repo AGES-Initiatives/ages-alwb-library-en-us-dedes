@@ -120,8 +120,8 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = titles_en_US_dedes.KanonATisEortis
-meMA.C2.verse = prayers_en_US_dedes.verse_Theotokos.text
+meMA.C2.title = titles_en_US_dedes.KanonATisAgias
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode1
@@ -143,8 +143,8 @@ meMA.Ode1C2T.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C2T.melody = he.h.m1_en_US_dedes.OdinEpinikion.name
 meMA.Ode1C2T.text = ""
 
-meMA.C3.title = titles_en_US_dedes.KanonBTisEortis
-meMA.C3.verse = prayers_en_US_dedes.verse_Theotokos.text
+meMA.C3.title = titles_en_US_dedes.KanonBTisAgias
+meMA.C3.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C31.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C31.mode = misc_en_US_dedes.Mode2
@@ -381,23 +381,23 @@ meMA.Ode6C1T.text = ""
 
 meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C21.mode = misc_en_US_dedes.Mode1
-meMA.Ode6C21.melody = he.h.m1_en_US_dedes.TonProfitinIonan.name
-meMA.Ode6C21.text = ""
+meMA.Ode6C21.melody = he.h.m1_en_US_dedes.TonProfitinIonan.notmetered
+meMA.Ode6C21.text = "How can she who contained God be contained in a womb? How can she who gave birth to Christ in the flesh be born? And how can she who nursed the Creator be a nursing babe?"
 
 meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C22.mode = misc_en_US_dedes.Mode1
-meMA.Ode6C22.melody = he.h.m1_en_US_dedes.TonProfitinIonan.name
-meMA.Ode6C22.text = ""
+meMA.Ode6C22.melody = he.h.m1_en_US_dedes.TonProfitinIonan.notmetered
+meMA.Ode6C22.text = "O all-famed Joachim and Anna, God heard your prayer, and today He gave you a fruit that will itself be very fruitful."
 
 meMA.Ode6C23.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C23.mode = misc_en_US_dedes.Mode1
-meMA.Ode6C23.melody = he.h.m1_en_US_dedes.TonProfitinIonan.name
-meMA.Ode6C23.text = ""
+meMA.Ode6C23.melody = he.h.m1_en_US_dedes.TonProfitinIonan.notmetered
+meMA.Ode6C23.text = "Anna conceived the pure dove in her womb, and she was truly filled with spiritual joy, and to God she offered songs of gratitude."
 
 meMA.Ode6C2T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C2T.mode = misc_en_US_dedes.Mode1
-meMA.Ode6C2T.melody = he.h.m1_en_US_dedes.TonProfitinIonan.name
-meMA.Ode6C2T.text = ""
+meMA.Ode6C2T.melody = he.h.m1_en_US_dedes.TonProfitinIonan.notmetered
+meMA.Ode6C2T.text = "O holy Lady, thoughts like waves, and assaults of passions, and an ocean of sins, all toss my sorry soul about; I pray you, help me."
 
 meMA.Ode6C31.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C31.mode = misc_en_US_dedes.Mode2
