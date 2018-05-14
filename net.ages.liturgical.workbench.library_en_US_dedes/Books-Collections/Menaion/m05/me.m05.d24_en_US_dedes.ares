@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m05.d24_en_US_dedes
 
 meDate.text = "May 24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Devout Father Symeon of Wonder Mountain." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of our Devout Father Symeon of Wonder Mountain" // full title of day
+meShortCommemoration1.text = "Memory of our Devout Father Symeon of Wonder Mountain"
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
@@ -47,8 +47,8 @@ meVE.MM.GeneralApolytikion1.text = "" // for media
 meMA.C1Poet = poets_en_US_dedes.IoannouMonachou
 meMA.C1Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
