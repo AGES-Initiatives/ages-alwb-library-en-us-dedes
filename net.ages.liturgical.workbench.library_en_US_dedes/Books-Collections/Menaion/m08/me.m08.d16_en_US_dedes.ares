@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m08.d16_en_US_dedes
 
 meDate.text = "August 16"
 meCommemoration.text = "Commemoration of the Transfer of the Icon of our Lord Jesus Christ, which was not made by hands, i.e. the Holy Napkin, from the City of Edessa." // full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Commemoration of the Transfer of the Holy Napkin"
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
@@ -293,8 +293,8 @@ meMA.Ode6H.text = he.h.m4_en_US_dedes.TinTheianTaftin.text
 
 meMA.Kontakion1.poet = poets_en_US_dedes.Gerasimou
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
-meMA.Kontakion1.melody = ""
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TousAsfaleis.name
+meMA.Kontakion1.text = "We have received the divine imprint of Your face, * flashing with rays of life-originating radiance, * as a bearer of every gift. * You, the very Creator, have assumed the form * of Your image, and raised it to the archetype, * for You are the only very merciful Lord."
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode6
