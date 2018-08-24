@@ -2,9 +2,9 @@ A_Resource_Whose_Name = me.m10.d20_en_US_dedes
 
 meDate.text = "October 20" 
 meCommemoration.text = "Memory of the Holy Great Martyr Artemios, Devout Matrona of Chios, and our Devout and God-bearing Father Gerasimos of Kefallinia." //full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meShortCommemoration1.text = "Memory of the Holy Great Martyr Artemios"
+meInsert1 = "and the holy Great Martyr Artemios," //for use in petitions and dismissal
+meInsert2 = "whose memory we are observing," //for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Holy Great Martyr Artemios. The Venerable Matrona of Chios."
 meLE.commemoration2 = "Our Venerable God-bearing Father Gerasimos of Kephallenia."
@@ -37,7 +37,7 @@ meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode2
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = me.m10.d03_en_US_dedes.meVE.SticStavrotheotokion.text
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
 meVE.AposGlory.melody = ""
@@ -63,8 +63,8 @@ meVE.Apolytikion2.text = "O believers, let us praise the protector of the Orthod
 
 meMA.C1Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode2
@@ -192,7 +192,7 @@ meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TousAsfaleis.name
 meMA.Kontakion1.text = ""
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "Who is capable of recounting your contests, O medal-winner? Who can describe the labors that you manfully endured, through faith in the Lord, and the grace that you were given? No human mouth can aptly tell of all this. You were clothed with wisdom and courage, you despised wealth and temporal rank, and you proved to be a most loyal soldier. And now you intercede with the Lord on behalf of us all."
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode2
@@ -412,27 +412,27 @@ alt1.meVE.SticGlory9.text = "And to the ages with splendor we call you blessed."
 
 alt1.meVE.Lity1.mode = misc_en_US_dedes.Mode1
 alt1.meVE.Lity1.melody = 
-alt1.meVE.Lity1.text = ""
+alt1.meVE.Lity1.text = "Be glad in the Lord, O Island of Cephalónia, for in your bosom you possess Gerasimos the new ascetic, as God-given treasure. He came to you by divine summons, and shined resplendently in ascetic struggles. Having transcended earthly limits, he became an abode of grace, through his union with the divine. And his earthly body was rendered incorruptible by the Holy Spirit, and it has been given to you as a fountain of miracles. For it delivers you from pestilence, and it drives out demons, and provides every good thing to those who cry: \"Glory be to You, O Lord!\""
 
 alt1.meVE.Lity2.mode = misc_en_US_dedes.Mode2
 alt1.meVE.Lity2.melody = 
-alt1.meVE.Lity2.text = ""
+alt1.meVE.Lity2.text = "From an early age you dedicated yourself to the Savior. And therefore you overlooked your prestige in the world and became poor in spirit, O devout Gerasimos. Having died to the world, through asceticism you cultivated the gifts of the incorruptible life. Floating on divine love, you moved from place to place, hastening as a thirsty deer to perfection in virtue. And when you obtained what you desired, you were filled with many blessings from on high. Hence you gladden the Church with your many gifts of grace. And with the radiant beams of your miracles, you bring light to those who cry: \"Glory be to You, O Lord!\""
 
 alt1.meVE.Lity3.mode = misc_en_US_dedes.Mode3
 alt1.meVE.Lity3.melody = 
-alt1.meVE.Lity3.text = ""
+alt1.meVE.Lity3.text = "The feats of your ascetic life transcended nature; and thus they shined more brightly than the sun, O God-bearing father Gerasimos. You lived as though you had no flesh, and you triumphed over the might of the fleshless demons. You emaciated the flesh by persistent fasting, all-night standing, and the torrent of your tears; while you brightened your soul through perpetual prayer, ascetic discipline, and contemplation, ever imagining the beauty of the divine. And when you became a living house of the Holy Trinity, you built a divine Monastery, where the choirs of nuns undeviatingly follow you, crying out to God: \"Glory be to You, O Lord!\""
 
 alt1.meVE.Lity4.mode = misc_en_US_dedes.Mode4
 alt1.meVE.Lity4.melody = 
-alt1.meVE.Lity4.text = ""
+alt1.meVE.Lity4.text = "Moved by the divine Spirit, you went to Kefallinía, O holy one, and you hallowed it with your presence and by the sweat of your holy labors. You became a trainer of nuns, a divine guide and a model of virtue. You finished the course of ascetic discipline, and found rest in the eternal mansions. From that time, your divine body, which was rendered incorruptible by divine grace, has been given to us whole and fragrant, emitting the sweet scent of eternal life. It dispels the stench of the unclean spirits, and it sanctifies and gladdens those who cry: \"Glory be to You, O Lord!\""
 
 alt1.meVE.Lity5.mode = misc_en_US_dedes.Mode4
 alt1.meVE.Lity5.melody = 
-alt1.meVE.Lity5.text = ""
+alt1.meVE.Lity5.text = "O God-bearing St. Gerasimos, the glory and support and great boast of Cephalónians, you glorified God through your labors, and from Him you richly received the gift to do miracles. Cease not from looking after your Island, and preserve it unharmed from every wrath. The Monastery of Omalon is proud of your relic. Under your invisible supervision, show it to be a fruitful vine. And for all who honor you, request the salvation of their souls and the healing of their bodies, so that we may ever cry to God: \"Glory be to You, O Lord!\""
 
 alt1.meVE.LityGlory.mode = misc_en_US_dedes.Mode5
 alt1.meVE.LityGlory.melody = 
-alt1.meVE.LityGlory.text = ""
+alt1.meVE.LityGlory.text = "O heavenly King, I know how many wonders You can perform, for I have seen how you made your divine and godly-minded Gerasimos very rich. He was planted in Your house, and he flourished in righteousness. He increased the spiritual seeds of Cephalónia, where he was a model and example of divine virtues for us. Therefore, by the entreaties of Your holy one, whose confidence before You is great, account us worthy of Your kingdom, as we with faith and longing celebrate his every-venerable memory."
 
 alt1.meVE.LityBoth.mode = misc_en_US_dedes.Mode5
 alt1.meVE.LityBoth.melody = 
