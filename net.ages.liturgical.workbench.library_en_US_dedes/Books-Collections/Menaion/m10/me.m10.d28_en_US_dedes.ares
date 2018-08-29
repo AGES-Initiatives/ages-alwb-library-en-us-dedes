@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m10.d28_en_US_dedes
 
 meDate.text = "October 28"
 meCommemoration.text = "Memory of the Holy Martyrs Terence and Neonilla and their Children; and our Devout Father Stephen of St. Savas Monastery." // full title of day
-meShortCommemoration1.text = "Memory of the Holy Martyrs Terence and Neonilla"
+meShortCommemoration1.text = "Memory of the Holy Martyrs Terence and Neonilla and their Children"
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
@@ -15,16 +15,16 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
-meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.notmetered
+meVE.Stichera01.text = "You bravely endured many kinds of torture, and thus you brought down the enemy's conceit, O blessed Martyrs, when you stood before the tyrants and confessed that Christ the Lord appeared in the flesh for us and voluntarily suffered the immaculate Passion, and that He pours grace and mercy on the world."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.notmetered
+meVE.Stichera02.text = "Glorious Terence and Neonilla, and their marvelous children, Nitas, Sarbelus, Hierax, Theodulus, Phocas, Veles, and Eunice, all shined together, when they lawfully completed their martyrdom. They extinguished the fire of their tortures by the dew of the Spirit; they became towers of correct faith in God, acceptable sacrifices, and most pure offerings."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.notmetered
+meVE.Stichera03.text = "Like a bright sun uniting with the moon, you, O Terence, united with your wife Neonilla, and you produced your children, like a constellation of seven stars, red with the blood of martyrdom, emitting a joyous light, and dwelling where the day never ends, where all the hosts of victorious Martyrs live in glory."
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode8
 meVE.Stichera04.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
