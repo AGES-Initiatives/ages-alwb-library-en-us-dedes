@@ -793,8 +793,7 @@ alt1.meMA.Ode8C23.text = "You snatch people quickly out of ruin; * you brush off
 alt1.meMA.Ode8C2T.ode = misc_en_US_dedes.Ode8
 alt1.meMA.Ode8C2T.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Ode8C2T.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
-alt1.meMA.Ode8C2T.text = "O Virgin, of old the prophet Moses * foresaw you as the golden manna-holding jar. * 
-Lady, we today perceive * you to be the life-bearing * and holy table bearing Christ the never-failing bread, * for the life of all and salvation. * Therefore we extol you in hymns to all the ages."
+alt1.meMA.Ode8C2T.text = "O Virgin, of old the prophet Moses * foresaw you as the golden manna-holding jar. * Lady, we today perceive * you to be the life-bearing * and holy table bearing Christ the never-failing bread, * for the life of all and salvation. * Therefore we extol you in hymns to all the ages."
 
 alt1.meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 alt1.meMA.Ode9C11.mode = misc_en_US_dedes.Mode8
@@ -885,7 +884,31 @@ alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 
 alt1.meMegalynarion.text = ""
 
+alt1.meSV.publication.stichera.text = "At \"Lord, I have cried,\" use four Verses and sing the following Prosomoia Stichera."
+alt1.meSV.publication.aposticha.text = "At the Aposticha, Prosomoia Stichera."
+alt1.meVE.publication.introduction.text = "After the Introductory Psalm, recite \"Blessed is the man.\""
+alt1.meVE.publication.stichera.text = "At \"Lord, I have cried,\" use six Verses and sing the following Prosomoia Stichera."
+alt1.meVE.publication.middle1.text = "Entrance, \"Gladsome Light,\" the Prokeimenon, and the Readings."
+alt1.meVE.publication.lity.text = "At the Lity, Idiomela."
+alt1.meVE.publication.aposticha.text = "At the Aposticha, Prosomoia Stichera."
+alt1.meVE.publication.symeon.text = "Symeon's Prayer, Trisagion, and the Apolytikion."
+alt1.meMA.publication.kathisma1.text = "After the first recitation of the Psalter, Kathisma."
+alt1.meMA.publication.kathisma2.text = "After the second recitation of the Psalter, Kathisma."
+alt1.meMA.publication.polyeleos.text = "After the Polyeleos, Kathisma."
+alt1.meMA.publication.antiphon.text = "First Antiphon of Mode 4."
+alt1.meMA.publication.gospel.text = "The order of the Matins Gospel. Use the Lesson for St. Savas, Dec. 5. Psalm 50."
+alt1.meMA.publication.gospel_1.text = "The order of the Matins Gospel."
+alt1.meMA.publication.gospel_2.text = "Matins Gospel Lesson for St. Savas, Dec. 5."
+alt1.meMA.publication.gospel_3.text = "Psalm 50."
+alt1.meMA.publication.canons.text = "Then, the Canon for the Theotokos in 6, and the two Canons for the Saint in 8."
+alt1.meMA.publication.lauds.text = "At Lauds use four Verses and sing the following Prosomoia Stichera."
+alt1.meMA.publication.doxology.text = "Great Doxology and Dismissal"
+alt1.meLI.publication.typika.text = "The Typika; and at the Beatitudes, 4 from Ode iii of Canon 1, and 4 from Ode vi of Canon 2."
+alt1.meLI.publication.epistle.text = ""
+alt1.meLI.publication.gospel.text = ""
+
 //----------------------
+
 alt2.meDate.text = "July 12" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt2.meCommemoration.text = "Memory of our Devout and God-bearing Father Paisios of the Holy Mountain Athos" // full title of day
 alt2.meCommemoration2.text = "" // full title of day
@@ -1687,3 +1710,25 @@ alt2.meLI.Kontakion1.text = alt2.meMA.Kontakion1.text
 
 alt2.meMegalynarion.text = "Rejoice, O companion of the Devout, * glory of Mt. Athos, and the new teacher of the  Church! * Adornment of monastics, our pride and joy, O father, * rejoice, O godly-minded Elder Paisios."
 
+alt2.meSV.publication.stichera.text = ""
+alt2.meSV.publication.aposticha.text = ""
+alt2.meVE.publication.introduction.text = ""
+alt2.meVE.publication.stichera.text = ""
+alt2.meVE.publication.middle1.text = ""
+alt2.meVE.publication.lity.text = ""
+alt2.meVE.publication.aposticha.text = ""
+alt2.meVE.publication.symeon.text = ""
+alt2.meMA.publication.kathisma1.text = ""
+alt2.meMA.publication.kathisma2.text = ""
+alt2.meMA.publication.polyeleos.text = ""
+alt2.meMA.publication.antiphon.text = ""
+alt2.meMA.publication.gospel.text = ""
+alt2.meMA.publication.gospel_1.text = ""
+alt2.meMA.publication.gospel_2.text = ""
+alt2.meMA.publication.gospel_3.text = ""
+alt2.meMA.publication.canons.text = ""
+alt2.meMA.publication.lauds.text = ""
+alt2.meMA.publication.doxology.text = ""
+alt2.meLI.publication.typika.text = ""
+alt2.meLI.publication.epistle.text = ""
+alt2.meLI.publication.gospel.text = ""
