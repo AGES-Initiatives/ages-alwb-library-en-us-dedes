@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m11.d09_en_US_dedes
 
 meDate.text = "November 9"
 meCommemoration.text = "Memory of the Holy Martyrs Onesiphorus and Porphyrios; our Devout Mother Matrona; and our Father among the Saints Nektarios the Wonder-worker, Bishop of Pentapolis." // full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Memory of the Holy Martyrs Onesiphorus and Porphyrios; our Devout Mother Matrona"
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
@@ -65,6 +65,9 @@ meMA.C1Acrostic.text = ""
 
 meMA.C2Acrostic.text = ""
 
+meMA.C1.title = titles_en_US_dedes.KanonTonMartyron
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
+
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C11.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.name
@@ -84,6 +87,9 @@ meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.name
 meMA.Ode1C1T.text = ""
+
+meMA.C2.title = titles_en_US_dedes.KanonTisOsias
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode8
