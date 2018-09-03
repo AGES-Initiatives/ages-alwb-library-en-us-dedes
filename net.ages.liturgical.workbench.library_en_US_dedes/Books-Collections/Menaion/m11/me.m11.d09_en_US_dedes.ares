@@ -44,7 +44,7 @@ meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = "When Your Mother, the Ewe-lamb, saw * You suspended upon the Cross, * she was horrified, and astounded she cried out, * \"O most beloved and longed for Son, * what is this that I behold! * Such is Your reward from them * who enjoyed all Your miracles, * breakers of the law, * disobedient people!\" Notwithstanding, Lord and Master, we give glory * to Your ineffable love for us."
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
@@ -304,13 +304,13 @@ meMA.Ode6H.text = he.h.m8_en_US_dedes.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "Illumined by grace of the uncreated Trinity, * the glorious pair of Martyr saints steadfastly * wrestled with the enemy, * and they brought down his conceit to the ground. * And now with the Angels they pray * unceasingly for all of us to the Trinity."
 
 meMA.Kontakion2.mode = misc_en_US_dedes.Mode2
-meMA.Kontakion2.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
-meMA.Kontakion2.text = ""
+meMA.Kontakion2.melody = he.a.m2_en_US_dedes.TaAnoZiton.notmetered
+meMA.Kontakion2.text = "By fasting you withered your body, while dwelling among men, O Matrona. You preoccupied yourself with prayer, and thus inspired you served the Master, for whom you had abandoned everything, and you lived your life as a devout monastic."
 
-meMA.Oikos2.text = ""
+meMA.Oikos2.text = "O Christ, open my mouth to extol and relate the struggles of Your devout woman Saint Matrona. She abandoned everything, considering all things on earth to be corruptible, and she loved only You, the Bridegroom. She signed in herself the sign of the life-bearing Cross, and she brought down the audacity of demons and utterly vanquished them, for she lived her life as a devout monastic."
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -458,11 +458,11 @@ meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode3
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.text = "O godly-minded Matrona, * you wholly lifted up your mind * above all contact with things mundane, * and never turning back, your walked * the path of the Savior's commandments. * Now pray for us without ceasing."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
-meMA.ExapTheotokion.text = ""
+meMA.ExapTheotokion.text = "O Virgin, the holy Prophets * in their inspired sacred writings * announced that you were to become * the Mother of God. And therefore * knowing you as Theotokos, * with faith and love we extol you."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -810,12 +810,12 @@ alt1.meMA.Ode3C3T.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
 alt1.meMA.Ode3C3T.text = ""
 
 alt1.meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode5
-alt1.meMA.Ode3Kathisma1.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
-alt1.meMA.Ode3Kathisma1.text = ""
+alt1.meMA.Ode3Kathisma1.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.notmetered
+alt1.meMA.Ode3Kathisma1.text = "O devout St. Nektarios, when you finished the race of virtue, you were transferred to everlasting life, and you became a partner of the saints. Join them now in ever interceding with Christ the King of all, that He forgive the sins and save the souls of those who celebrate your memory."
 
 alt1.meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode5
-alt1.meMA.Ode3KathismaT.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
-alt1.meMA.Ode3KathismaT.text = ""
+alt1.meMA.Ode3KathismaT.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.notmetered
+alt1.meMA.Ode3KathismaT.text = "O believers, let us extol and magnify the ever-virgin Maiden and pure Theotokos, the most precious jar that contained the true manna Christ our God. She has delivered us from the ancient curse, for remaining perpetually virgin, she gave birth to the Logos who is above all essence, for the salvation of our souls. "
 
 alt1.meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
 alt1.meMA.Ode4C1H.mode = misc_en_US_dedes.Mode1
@@ -1187,18 +1187,18 @@ alt1.meMA.Ode9C15.text = ""
 
 alt1.meMA.Ode9C21.ode = misc_en_US_dedes.Ode9
 alt1.meMA.Ode9C21.mode = misc_en_US_dedes.Mode1
-alt1.meMA.Ode9C21.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.name
-alt1.meMA.Ode9C21.text = ""
+alt1.meMA.Ode9C21.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.notmetered
+alt1.meMA.Ode9C21.text = "O father, when you had virtuously finished the race of your life, you received a crown of glory from Christ, who had illustriously glorified you; and you were given honor equal to the Saints; with whom now pray on behalf of us who honor you."
 
 alt1.meMA.Ode9C22.ode = misc_en_US_dedes.Ode9
 alt1.meMA.Ode9C22.mode = misc_en_US_dedes.Mode1
-alt1.meMA.Ode9C22.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.name
-alt1.meMA.Ode9C22.text = ""
+alt1.meMA.Ode9C22.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.notmetered
+alt1.meMA.Ode9C22.text = "When you donned episcopal vestments, you invested them with honor, because of your sacred struggles and ascetic labors. And because of your chaste life, the received the splendor of the Fathers of old."
 
 alt1.meMA.Ode9C23.ode = misc_en_US_dedes.Ode9
 alt1.meMA.Ode9C23.mode = misc_en_US_dedes.Mode1
-alt1.meMA.Ode9C23.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.name
-alt1.meMA.Ode9C23.text = ""
+alt1.meMA.Ode9C23.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.notmetered
+alt1.meMA.Ode9C23.text = "The Church of Christ rejoices in you, as she observes your memory with hymns of praise, O St. Nektarios. You have given her cheer in recent times, for you were made a saint by the Holy Spirit."
 
 alt1.meMA.Ode9C24.ode = misc_en_US_dedes.Ode9
 alt1.meMA.Ode9C24.mode = misc_en_US_dedes.Mode1
@@ -1208,7 +1208,7 @@ alt1.meMA.Ode9C24.text = ""
 alt1.meMA.Ode9C2T.ode = misc_en_US_dedes.Ode9
 alt1.meMA.Ode9C2T.mode = misc_en_US_dedes.Mode1
 alt1.meMA.Ode9C2T.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.name
-alt1.meMA.Ode9C2T.text = ""
+alt1.meMA.Ode9C2T.text = "O Lady, you physically gave birth to Christ, the Giver of light; and thus being higher than the heavenly hosts, and brighter beyond compare than the sun, you illumine those who magnify you."
 
 alt1.meMA.Ode9C31.ode = misc_en_US_dedes.Ode9
 alt1.meMA.Ode9C31.mode = misc_en_US_dedes.Mode4
