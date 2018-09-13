@@ -2,10 +2,9 @@ A_Resource_Whose_Name = me.m12.d17_en_US_dedes
 
 meDate.text = "December 17" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Memory of the Holy Prophet Daniel and the Holy Three Servants, Ananias, Azarias, and Mishael; and our Father among the Saints Dionysios the New, Archbishop of Aigina, the Wonder-worker, from the Island of Zakynthos" // full title of day
-meCommemoration2.text = "Memory of St. Dionysios Archbishop of Aigina" // full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "and our Father among the Saints Dionysios the New, Archbishop of Aigina, the Wonder-worker, from the Island of Zakynthos," // for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
+meShortCommemoration1.text = "Memory of the Holy Prophet Daniel and the Holy Three Servants"
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Holy Prophet Daniel. The Three Holy Children: Ananias, Azarias, and Misael."
 meLE.commemoration2 = ""
@@ -16,16 +15,16 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
-meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.notmetered
+meVE.Stichera01.text = "Today, let us praise in divine song that famous Prophet Daniel, who is like a brilliant sun. He is a divine dwelling of the gifts of the Spirit, an every flowing fountain, a mirror of the Spirit, the most honorable and excellent pillar of the doctrines, the pedestal and unshaken foundation for the whole world."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.notmetered
+meVE.Stichera02.text = "We honor you as being a very visible star, a great morning star, a man who desired the good. You shine brightly with the splendor of the virtues, and you illumine the souls and bodies of the believers. We cry out to: \"O Daniel, Prophet of the Savior, entreat that He save us who reverently extol you.\""
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.notmetered
+meVE.Stichera03.text = "O Daniel most wise, your tongue was like the pen of a swift scribe when you spoke. The Law of God was dwelling in your heart, and your mouth spoke in righteous judgment. Thereby you shamed the elder who violated the Law, and you rescued Susanna from death, O pride and joy of the Prophets. "
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
@@ -46,7 +45,7 @@ meVE.SticGlory.text = ""
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode2
 meVE.SticBoth.melody = ""
-meVE.SticBoth.text = me.m12.d06_en_US_dedes.meVE.SticBoth.text
+meVE.SticBoth.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
@@ -62,7 +61,7 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = "O thrice-blessed Servants, you sang the world-renowned hymn with contrite soul and humble spirit, when you stood in the fiery furnace. And the Lord, The Lord, who is near those who are brokenhearted, and who saves the humble in spirit, heard your voice; He preserve you uninjured, and He accepted you as a pure sacrifice. And so, as descendants of Abraham, you were counted worthy to become children of God. Since you have confidence towards Him, intercede on behalf of our souls."
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode6
 meVE.AposBoth.melody = ""
@@ -70,7 +69,7 @@ meVE.AposBoth.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
 meVE.Apolytikion1.melody = ""
-meVE.Apolytikion1.text = ""
+meVE.Apolytikion1.text = "Magnificent are the accomplishments of faith! The holy Three Servants greatly rejoiced, as they stood in the fountain of fire, as if beside the still waters; and the Prophet Daniel appeared to be a shepherd of lions, as if they were sheep. At their entreaties, O Christ God, save our souls."
 
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode1
 meVE.Apolytikion2.melody = he.a.m1_en_US_dedes.TouLithouSfragisthentos.name
@@ -294,9 +293,9 @@ meMA.Ode6H.text = he.h.m8_en_US_dedes.AvyssosAmartion.text
 
 meMA.Kontakion2.mode = misc_en_US_dedes.Mode6
 meMA.Kontakion2.melody = ""
-meMA.Kontakion2.text = ""
+meMA.Kontakion2.text = "Not reverencing the hand-depicted image, but shielded by the undepicted essence, you were glorified in the ordeal of fire, O thrice-blessed ones. For you called upon God as you stood in the midst of the insufferable fire: \"Merciful Master, hasten, and hurry to our assistance, O tender-loving Lord. You can do so if You so will.\""
 
-meMA.Oikos2.text = ""
+meMA.Oikos2.text = "Stretch out Your hand, which Egyptians of old besieging and Hebrews then beleaguered came to know. Abandon us not to be swallowed by death. Athirst for us is Satan who hates us. But come near us and spare our souls, as once You spared Your three Servants, who in Babylon unceasingly extolled You. When for Your sake they were thrown into the furnace, from there they cried out to You: \"Merciful Master, hasten, and hurry to our assistance, O tender-loving Lord. You can do so if You so will.\""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -442,11 +441,11 @@ meMA.Aposticha3.text = ""
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode2
 meMA.AposGlory.melody = ""
-meMA.AposGlory.text = ""
+meMA.AposGlory.text = "O believers, the Prophet Daniel has spiritually congregated us today. He sets a sumptuous banquet of virtues, for rich and poor, strangers and local residents, and a spiritual wine bowl that pours forth the beverage of sound religion, which gladdens the hearts of the faithful and grants them the grace of the Holy Spirit. This Prophet, this lamp that shined so brightly in the world, overthrew all that the Assyrians worshiped, and he stopped the mouths of untamed lions. As we extol him, let us also praise the Three Servants who, although they were not gold by nature, were shown to be more refined than gold. For the fire of the furnace did not consume them, but it kept them unharmed, though naphtha and pitch and branches were piled on them. May the Lord, who has brought us again to this time of year, count us worthy to reach the principal and venerable day of the Nativity of Christ. He it is who, by their entreaties, grants us the forgiveness of our sins and the great mercy."
 
 meMA.AposBoth.mode = misc_en_US_dedes.Mode2
 meMA.AposBoth.melody = ""
-meMA.AposBoth.text = ""
+meMA.AposBoth.text = meVE.SticBoth.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -498,19 +497,19 @@ alt1.meVE.Lity1.text = "O God-inspired Saint, you shook off the life of vanity, 
 
 alt1.meVE.Lity2.mode = misc_en_US_dedes.Mode2
 alt1.meVE.Lity2.melody = ""
-alt1.meVE.Lity2.text = ""
+alt1.meVE.Lity2.text = "A women who did not have a son longed for one, so she prayed to you with reverence. You heard her prayer, and you appeared to her in a waking vision, and you promised to fulfill her wish. She was overjoyed, she conceived soon after, and by grace she gave birth to a happy baby boy, as she desired. Therefore she gratefully extolled you, and she publicly announced your confidence towards God, O all blessed Hierarch."
 
 alt1.meVE.Lity3.mode = misc_en_US_dedes.Mode3
 alt1.meVE.Lity3.melody = ""
-alt1.meVE.Lity3.text = ""
+alt1.meVE.Lity3.text = "Another woman from your family, O devout Saint, had a serious stroke; she remained speechless, half-dead, and immobile. But when they simply touched your precious finger from your holy relic to her mouth and her paralyzed members, oh the miracle! she immediately regained her speech and her full health. She proclaimed the miracle, and she magnified the Lord who magnified you. O Wonder-worker St. Dionysios, entreat Him earnestly for us, who with marvel at and extol your praiseworthy miracles."
 
 alt1.meVE.LityGlory.mode = misc_en_US_dedes.Mode5
 alt1.meVE.LityGlory.melody = ""
-alt1.meVE.LityGlory.text = ""
+alt1.meVE.LityGlory.text = "O devout father, when you ascended to the summit of virtue, you were granted many spiritual gifts from God. For example, by fervent prayer, you loosed the curse that bound a woman who had died long before, and her body dissolved into dust. You corrected the impudence of the disbelieving fishermen, by the miracle of the uncommon catch. You stopped the flow of a river, and you cross without getting wet. You revealed to a priest his transgressing that he had forgotten. Many were your marvelous works while you were alive; even more are your miracles since your death. Therefore, we entreat you, O wonder-worker Dionysios, never cease imploring our forgiving God, on behalf of us who sincerly extol you, that He put us on His right hand, on Judgment Day."
 
 alt1.meVE.LityBoth.mode = misc_en_US_dedes.Mode5
 alt1.meVE.LityBoth.melody = ""
-alt1.meVE.LityBoth.text = ""
+alt1.meVE.LityBoth.text = me.m12.d22_en_US_dedes.meMA.AposBoth.text
 
 alt1.meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
 alt1.meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.notmetered
