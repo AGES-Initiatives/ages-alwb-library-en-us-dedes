@@ -116,6 +116,10 @@ em.html.tab = "MATINS"  //this is for Matins in the evening during Holy Week
 em.pdf.header = "Matins"
 em.pdf.cover = "Matins"
 
+em3.html.tab = "LAMENTATIONS"
+em3.pdf.header = "Graveside Lamentations - Complete Text"
+em3.pdf.cover = "Graveside Lamentations - Complete Text"
+
 gc.html.tab = "GREAT COMPLINE"
 gc.pdf.header = "Great Compline"
 gc.pdf.cover = "Great Compline"
