@@ -17,23 +17,23 @@ meDismissal = dismissals_en_US_dedes.dis00.epiphany
 
 //Θεοφάνους Ὁμολογητοῦ
 meVE.Stichera01.mode = misc_en_US_dedes.Mode5
-meVE.Stichera01.melody = he.a.m5_en_US_dedes.OsiePater.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.melody = misc_en_US_dedes.Automelon
+meVE.Stichera01.text = he.a.m5_en_US_dedes.OsiePater.text
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode5
 meVE.Stichera02.melody = he.a.m5_en_US_dedes.OsiePater.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.text = "Devout and God-bearing father Theodosios, * when the grace of the all-holy Spirit had found your soul * in a state of purity, as it desired, * it dwelt within you as immaculate light. * Now, by its action being splendidly illumined, * you never cease glorifying Christ, * as being in two natures one and the same Son, * who was baptized at the hand of John the Forerunner, * and who was witnessed to by the voice of the Father. * O Saint, we pray you implore Him, entreat Him earnestly, * that He grant to the world and our nation * unanimity, lasting peace and the great mercy."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode5
 meVE.Stichera03.melody = he.a.m5_en_US_dedes.OsiePater.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = "Devout and God-bearing father Theodosios, * you rightly have attained the blessed and immortal life, * which you found through purity and asceticism. * Foreseeing your death, you bid all to rejoice, * and you passed to life on high, where now with the Angels * you never cease glorifying Christ, * who was ineffably incarnate of the Virgin * and who by His baptism in the Jordan River * immersed our sins and our transgressions and cleansed us. * O Saint, we pray you implore Him, entreat Him earnestly, * that He grant to the world and our nation * unanimity, lasting peace and the great mercy."
 
 meVE.Stichera8910.text = properties_en_US_dedes.media.key
 
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = "O devout father, your sacred soul, like the city of the living God, was made glad by the torrents of the river, yes, the water of forgiveness, of Christ our God, who went into the the Jordan River, and who gushed forth the message of true religion, for all the ends of the earth. O all-blessed Theodosios, we pray you earnestly entreat Him to save our souls."
 
 meVE.SticBoth.poet = poets_en_US_dedes.Vyzantiou
 meVE.SticBoth.mode = misc_en_US_dedes.Mode2
@@ -69,7 +69,7 @@ meVE.GeneralApolytikion1.name = "Theodosios," // name of saint for General Apoly
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma11.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
-meMA.Kathisma11.text = ""
+meMA.Kathisma11.text = me.m01.d08_en_US_dedes.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma21.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
@@ -123,8 +123,6 @@ meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1T.mode = misc_en_US_dedes.Mode2
 meMA.Ode1C1T.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.name
 meMA.Ode1C1T.text = ""
-
-//Skipping katavasia Στείβει θαλάσσης
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode2
@@ -231,7 +229,7 @@ meMA.Ode6C1T.text = "Count me worthy of your compassion, O Lady, who conceived t
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode8
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.TiYpermacho.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "Once you were planted, like the Psalm says, in the courts of your Lord, * you blossomed forth the most resplendent virtues pleasantly, * and you filled the desert with spiritual children * who were watered with showers of your ardent tears, * as the leader of divine monastic shrines of God. * So we cry to you: Rejoice, Father Theodosios!"
 
 meMA.Oikos1.text = "Although you were human in nature, O Father, you seemed a compatriot of angels. O wise one, you discarded all care for the flesh, and you lived on earth as one bodiless. Therefore you hear us saying:"
 meMA.Oikos12.text = "Rejoice, the son of a devout father; rejoice, the offspring of a pious mother."
@@ -240,7 +238,7 @@ meMA.Oikos14.text = "Rejoice, for you followed Christ from an early age; for you
 meMA.Oikos15.text = "Rejoice, for you facilitate salvation for monastics; rejoice, for you give encouragement to those who are lazy."
 meMA.Oikos16.text = "Rejoice, for you saved many from error; rejoice, for you provide a fountain of miracles."
 meMA.Oikos17.text = "Rejoice, for you took care of the poor; rejoice, our protector who delivers us from danger."
-meMA.Oikos18.text = "Rejoice, Father Theodosius!"
+meMA.Oikos18.text = "Rejoice, Father Theodosios!"
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode2
@@ -366,7 +364,7 @@ meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 meMA.LaudsGlory.poet = poets_en_US_dedes.Anatoliou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.text = "That ladder of the virtues, he proved to be an example for us on earth. So let us extol him, as the jewel of ascetics. He truly practiced ascetic discipline, like Anthony the Great, and he attained immense humility. He shepherded his people in Orthodox manner, and herded them into the holy fold, where the host of Saints has settled. Let us say to him earnestly: \"Do not ever forget your flock, O all-blessed Theodosios, but intercede with the Lord to save us, we pray.\""
 
 meMA.LaudsBoth.poet = poets_en_US_dedes.Anatoliou
 meMA.LaudsBoth.mode = misc_en_US_dedes.Mode2
