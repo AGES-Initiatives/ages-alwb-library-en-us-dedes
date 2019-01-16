@@ -38,16 +38,16 @@ meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
 meVE.Lity1.poet = poets_en_US_dedes.Germanou
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
 meVE.Lity1.melody = ""
-meVE.Lity1.text = ""
+meVE.Lity1.text = "Elias, the zealot, the ruler over his own passions, is riding into the sky today, and he is made a mystic of worldwide salvation. Oh, unadulterated glory that was granted to this soaring Prophet and exquisite gem of the Prophets! By his accomplishments, he showed himself to be an angel in body and man without flesh. Let us extol him and say, \"We pray you, O wise one, help us on Judgment Day!\""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode1
 meVE.Lity2.melody = ""
-meVE.Lity2.text = ""
+meVE.Lity2.text = "O believers, using words of David, let us honor in hymns the Lord's Prophet Elias the Tishbite, the illustrious zealot. He is the one who with his tongue made the sky hard like iron, and made the fruitful earth to be unfruitful. What a miracle! A corruptible man is garbed in incorruption, and he dashes to the heavens in a fiery chariot, and he grants double grace to Elisha by giving him his mantel. He rebukes kings. With famine he punishes the disobedient people. He embarrassed all the shameful priests of Baal, and by a word he resurrected the widow's son. O Christ our God, at his entreaties preserve our elected officials in peace, and keep us safe from foreign enemies."
 
 meVE.Lity3.poet = poets_en_US_dedes.Germanou
 meVE.Lity3.mode = misc_en_US_dedes.Mode1
 meVE.Lity3.melody = ""
-meVE.Lity3.text = ""
+meVE.Lity3.text = "Let us all now sing spiritual songs to extol those Prophets of Christ. Elias the Tishbite became a sky-rider. Elisha received his mantel, and with it, double the grace from God. They were shown to bright luminaries for the whole world. And they unceasingly intercede on behalf of our souls."
 
 meVE.Lity4.poet = poets_en_US_dedes.IoannouMonachou
 meVE.Lity4.mode = misc_en_US_dedes.Mode2
@@ -62,7 +62,7 @@ meVE.Lity5.text = ""
 meVE.LityGlory.poet = poets_en_US_dedes.Arseniou
 meVE.LityGlory.mode = misc_en_US_dedes.Mode4
 meVE.LityGlory.melody = ""
-meVE.LityGlory.text = ""
+meVE.LityGlory.text = "You were taken up, riding a fiery chariot, and transported to a place of light, O Elias the Tishbite, after you embarrassed the shameful priests of Baal. You had the power, by your word, to bind and loose the sky; so now, by your intercessions to the Lord, loose our offences, and save our souls."
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode4
 meVE.LityBoth.melody = ""
@@ -108,21 +108,7 @@ meMA.Kathisma2T.mode = misc_en_US_dedes.Mode1
 meMA.Kathisma2T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
 meMA.Kathisma2T.text = oc.m1.d1_en_US_dedes.ocMA.Kathisma23.text
 
-//Not in Menaion, optional Matins Gospel
-
 meR01 = "The Menaion does not indicate a Matins Gospel. We have included this section as optional."
-meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
-meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelProphet.text
-
-meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
-
-meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
 
 meMA.C1Poet = poets_en_US_dedes.IoannouMonachou
 meMA.C1Acrostic.text = ""
@@ -511,3 +497,73 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
+
+//supplemental hymns
+
+alt1.meVE.Stichera04.poet = poets_en_US_dedes.NikodimouAgioreitou
+alt1.meVE.Stichera04.mode = misc_en_US_dedes.Mode1
+alt1.meVE.Stichera04.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+alt1.meVE.Stichera04.text = ""
+
+alt1.meVE.Stichera05.poet = poets_en_US_dedes.NikodimouAgioreitou
+alt1.meVE.Stichera05.mode = misc_en_US_dedes.Mode2
+alt1.meVE.Stichera05.melody = he.a.m2_en_US_dedes.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera05.text = ""
+
+alt1.meVE.Stichera06.poet = poets_en_US_dedes.NikodimouAgioreitou
+alt1.meVE.Stichera06.mode = misc_en_US_dedes.Mode2
+alt1.meVE.Stichera06.melody = he.a.m2_en_US_dedes.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera06.text = ""
+
+alt1.meVE.Stichera07.poet = poets_en_US_dedes.NikodimouAgioreitou
+alt1.meVE.Stichera07.mode = misc_en_US_dedes.Mode2
+alt1.meVE.Stichera07.melody = he.a.m2_en_US_dedes.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera07.text = ""
+
+alt1.meVE.Stichera08.poet = poets_en_US_dedes.NikodimouAgioreitou
+alt1.meVE.Stichera08.mode = misc_en_US_dedes.Mode2
+alt1.meVE.Stichera08.melody = he.a.m2_en_US_dedes.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera08.text = ""
+
+alt1.meMA.Kathisma22.poet = poets_en_US_dedes.NikodimouAgioreitou
+alt1.meMA.Kathisma22.mode = misc_en_US_dedes.Mode4
+alt1.meMA.Kathisma22.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+alt1.meMA.Kathisma22.text = ""
+
+alt1.meMA.Kathisma2T.mode = misc_en_US_dedes.Mode4
+alt1.meMA.Kathisma2T.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+alt1.meMA.Kathisma2T.text = me.m06.d14_en_US_dedes.meMA.Ode3KathismaT.text
+
+alt1.meMA.Kathisma31.poet = poets_en_US_dedes.NikodimouAgioreitou
+alt1.meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
+alt1.meMA.Kathisma31.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+alt1.meMA.Kathisma31.text = ""
+
+alt1.meMA.Kathisma32.poet = poets_en_US_dedes.NikodimouAgioreitou
+alt1.meMA.Kathisma32.mode = misc_en_US_dedes.Mode3
+alt1.meMA.Kathisma32.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+alt1.meMA.Kathisma32.text = ""
+
+alt1.meMA.Kathisma3T.poet = poets_en_US_dedes.NikodimouAgioreitou
+alt1.meMA.Kathisma3T.mode = misc_en_US_dedes.Mode3
+alt1.meMA.Kathisma3T.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+alt1.meMA.Kathisma3T.text = ""
+
+//Not in Menaion, optional Matins Gospel
+alt1.meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
+
+alt1.meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
+alt1.meMA.PostGospelGlory.melody = ""
+alt1.meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelProphet.text
+
+alt1.meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
+alt1.meMA.PostGospelBoth.melody = ""
+alt1.meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+
+alt1.meMA.PostGospelIdiomelon.poet = poets_en_US_dedes.NikodimouAgioreitou
+alt1.meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
+alt1.meMA.PostGospelIdiomelon.melody = ""
+alt1.meMA.PostGospelIdiomelon.text = ""
+
+alt1.meMegalynarion.poet = poets_en_US_dedes.NikodimouAgioreitou
+alt1.meMegalynarion.text = ""
