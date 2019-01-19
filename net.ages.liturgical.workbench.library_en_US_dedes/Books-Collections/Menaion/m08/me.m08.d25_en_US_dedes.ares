@@ -2,9 +2,9 @@ A_Resource_Whose_Name = me.m08.d25_en_US_dedes
 
 meDate.text = "August 25"
 meCommemoration.text = "Commemoration of the Return of the Relics of the Holy Apostle Bartholomew; and Memory of the Holy Apostle Titus." // full title of day
-meShortCommemoration1.text = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
+meShortCommemoration1.text = "Memory of the holy Apostles Bartholomew and Titus"
+meInsert1 = "and the holy Apostles Bartholomew and Titus," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Commemoration of the Return of the Relics of the Holy Apostles Bartholomew and Titus."
 meLE.commemoration2 = ""
@@ -20,11 +20,11 @@ meVE.Stichera01.text = "Let us truly beatify the Apostle Bartholomew, * as a shi
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera02.text = "Your processions were seen, O saint * and Apostle, upon the sea, * revealed in a manner surpassing human thought. * For when your larnax was tossed therein, * you hastened to emigrate * from the East unto the West, * and a foursome of glorious Martyrs honored you * by escorting on either side, by order of the Lord of all creation, * holy Apostle Bartholomew."
+meVE.Stichera02.text = "Your processions were seen, O saint * and Apostle, upon the sea, * revealed in a manner surpassing human thought. * For when your casket was tossed therein, * you hastened to emigrate * from the East unto the West, * and a foursome of glorious Martyrs honored you * by escorting on either side, by order of the Lord of all creation, * holy Apostle Bartholomew."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = "When your relics were wondrously * to the island of Lipari * translated, the waters were sanctified, O Saint. * And you gushed forth a most fragrant oil; * you cured the incurable * sicknesses, and you became * savior, refuge and rescuer * for the people there, * and defender and ardent intercessor with King of all and Savior, * holy Apostle Bartholomew."
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
@@ -36,7 +36,7 @@ meVE.Stichera05.text = "Having been illumined by divine enlightenment of your mi
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera06.text = ""
+meVE.Stichera06.text = "Blessed Titus, as a native of the island of Crete, returned, * a foundation unshakable; * and firmly established there in the most correct faith, * in Jesus the Savior, * he edified the faithful all * and built them up with the power from on high. * The glorious Apostle Paul, with whom he journeyed, appointed him * as the first bishop of his home. *  Now he comforts believers all."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
@@ -68,8 +68,8 @@ meMA.C1Acrostic.text = ""
 
 meMA.C2Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = "Canon for St. Bartholomew."
+meMA.C1.verse = prayers_en_US_dedes.verse_Apostles.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -91,8 +91,8 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = "Canon for St. Titus."
+meMA.C2.verse = prayers_en_US_dedes.verse_Apostles.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode4
