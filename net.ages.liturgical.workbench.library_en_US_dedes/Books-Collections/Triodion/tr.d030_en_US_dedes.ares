@@ -58,7 +58,7 @@ trMA.C1Poet = poets_en_US_dedes.Iosif
 
 trMA.C2Poet = poets_en_US_dedes.Theodorou
 
-trMA.C1.title = ""
+trMA.C1.title = titles_en_US_dedes.KanonATouTriodiou
 trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -81,7 +81,7 @@ trMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
 trMA.Ode1C1T.melody = he.h.m4_en_US_dedes.TristatasKrataious.name
 trMA.Ode1C1T.text = ""
 
-trMA.C2.title = ""
+trMA.C2.title = titles_en_US_dedes.KanonBTouTriodiou
 trMA.C2.verse = ""
 
 trMA.Ode1C21.ode = misc_en_US_dedes.Ode1
@@ -220,15 +220,15 @@ trMA.AposIdiomelon1.text = ""
 
 trMA.AposMartyric.mode = misc_en_US_dedes.Mode5
 trMA.AposMartyric.melody = ""
-trMA.AposMartyric.text = ""
+trMA.AposMartyric.text = oc.m5.d2_en_US_dedes.ocMA.Aposticha3.text
 
 trMA.AposTheotokion.mode = misc_en_US_dedes.Mode5
 trMA.AposTheotokion.melody = ""
-trMA.AposTheotokion.text = ""
+trMA.AposTheotokion.text = oc.m5.d7_en_US_dedes.ocVE.AposTheotokion.text
 
 trTE.Troparion.mode = misc_en_US_dedes.Mode5
 trTE.Troparion.melody = ""
 trTE.Troparion.text = ""
 
-
+trTE.Troparion2.text = ""
 
