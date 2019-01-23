@@ -18,11 +18,11 @@ trVE.AposIdiomelon1.text = ""
 
 trVE.AposMartyric.mode = misc_en_US_dedes.Mode2
 trVE.AposMartyric.melody = ""
-trVE.AposMartyric.text = ""
+trVE.AposMartyric.text = oc.m2.d2_en_US_dedes.ocVE.Aposticha3.text
 
 trVE.AposTheotokion.mode = misc_en_US_dedes.Mode2
 trVE.AposTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-trVE.AposTheotokion.text = ""
+trVE.AposTheotokion.text = oc.m2.d4_en_US_dedes.ocVE.SticTheotokion.text
 
 trMA.Kathisma21.mode = misc_en_US_dedes.Mode7
 trMA.Kathisma21.melody = he.a.m7_en_US_dedes.OsEchousaToSympathes.name
@@ -421,15 +421,12 @@ trMA.AposIdiomelon1.text = ""
 
 trMA.AposMartyric.mode = misc_en_US_dedes.Mode6
 trMA.AposMartyric.melody = ""
-trMA.AposMartyric.text = ""
+trMA.AposMartyric.text = oc.m6.d2_en_US_dedes.ocMA.Aposticha3.text
 
 trMA.AposTheotokion.mode = misc_en_US_dedes.Mode6
 trMA.AposTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
-trMA.AposTheotokion.text = ""
+trMA.AposTheotokion.text = oc.m6.d4_en_US_dedes.ocMA.AposTheotokion.text
 
 trTE.Troparion.mode = misc_en_US_dedes.Mode6
 trTE.Troparion.melody = ""
 trTE.Troparion.text = "Help us to get out of trouble, and save us, O Lord, born of a Virgin, in Your love for humanity."
-
-
-
