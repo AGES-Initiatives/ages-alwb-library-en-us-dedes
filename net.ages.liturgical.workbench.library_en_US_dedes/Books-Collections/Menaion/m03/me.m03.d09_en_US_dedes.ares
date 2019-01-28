@@ -29,6 +29,11 @@ meVE.Stichera03.mode = misc_en_US_dedes.Mode2
 meVE.Stichera03.melody = misc_en_US_dedes.Idiomelon
 meVE.Stichera03.text = "Viewing the torture as pleasure, running to the freezing lake as to warm comforts, the holy Martyrs said to one another: \"Let us not shrink from the winter weather, so that we may escape the fiery Gehenna. Let our feet be burnt so they can dance forever. Let our hands drop off, so we may lift them to the Lord. And let us have no pity for our mortal nature. Let us choose death, so that we may wear the crowns of victory that are given by Christ God, the Savior of our souls.\""
 
+alt1.meVE.Stichera04.poet = "St. Paul's Monastery, Athos."
+alt1.meVE.Stichera04.mode = misc_en_US_dedes.Mode2
+alt1.meVE.Stichera04.melody = misc_en_US_dedes.Idiomelon
+alt1.meVE.Stichera04.text = ""
+
 meVE.SticGlory.poet = poets_en_US_dedes.IoannouMonachou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
 meVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
@@ -37,6 +42,39 @@ meVE.SticGlory.text = meVE.Stichera01.text
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
 meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meVE.SticTheotokion.text = "I am wholly carried away * by the works of darkness, O Lady, and by my own will have marred * the beauty of Baptism, and I the wretch now wear * the equipment of one condemned * to darkness. And therefore * I entreat you, O all-blameless Virgin, by your might * break up all the clouds of my passions. * Save me who am naked, and clothe me * in the shining robe of immortality."
+
+meVE.Lity1.mode = misc_en_US_dedes.Mode1
+meVE.Lity1.melody = misc_en_US_dedes.Idiomelon
+meVE.Lity1.text = meMA.Lauds4.text
+
+meVE.Lity2.mode = misc_en_US_dedes.Mode2
+meVE.Lity2.melody = misc_en_US_dedes.Idiomelon
+meVE.Lity2.text = meMA.Lauds5.text
+
+meVE.Lity3.mode = misc_en_US_dedes.Mode2
+meVE.Lity3.melody = misc_en_US_dedes.Idiomelon
+meVE.Lity3.text = meMA.Lauds6.text
+
+alt1.meVE.LityGlory.poet = "St. Paul's Monastery, Athos."
+alt1.meVE.LityGlory.mode = misc_en_US_dedes.Mode5
+alt1.meVE.LityGlory.melody = misc_en_US_dedes.Idiomelon
+alt1.meVE.LityGlory.text = "O believers, come today, and let us form a spiritual chorus, and let us reverently celebrate; let us gloriously honor the solemn feast of the glorious Forty Great Martyrs of Christ, and let us salute them and say: Rejoice, O forty-member choir: you extinguished the action of the elements, and you put to shame the plans of the unlawful. Rejoice! You submerged the serpent in the freezing water, and you crushed his deadly skull. Rejoice! You declared the pure and true worship of God by your extended contests. Angels dressed in white placed crowns on your heads; demons were dismayed; and the faithful greatly rejoiced, as they were confirmed in the truth. And now we entreat you, O brave and invincible soldiers of Christ, intercede for us who observe your memory."
+
+alt1.meVE.LityBoth.mode = misc_en_US_dedes.Mode5
+alt1.meVE.LityBoth.melody = ""
+alt1.meVE.LityBoth.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
+
+meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
+meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Aposticha1.text = meMA.Lauds1.text
+
+meVE.Aposticha2.mode = misc_en_US_dedes.Mode5
+meVE.Aposticha2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Aposticha2.text = meMA.Lauds2.text
+
+meVE.Aposticha3.mode = misc_en_US_dedes.Mode5
+meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meVE.Aposticha3.text = meMA.Lauds3.text
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
 meVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
@@ -54,6 +92,11 @@ meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode3
 meVE.Apolytikion2.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
 meVE.Apolytikion2.text = ""
+
+meVE.Apolytikion3.poet = poets_en_US_dedes.Gerasimou
+meVE.Apolytikion3.mode = misc_en_US_dedes.Mode1
+meVE.Apolytikion3.melody = he.a.m1_en_US_dedes.TisErimouPolitis.name
+meVE.Apolytikion3.text = ""
 
 meCO.SupplicationVerse.text = "Holy and glorious Forty Martyrs, intercede for us sinners."
 
@@ -391,7 +434,7 @@ meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.AposTheotokion.melody = ""
-meMA.AposTheotokion.text = ""
+meMA.AposTheotokion.text = oc.m2.d2_en_US_dedes.ocVE.AposTheotokion.text
 
 //For Presanctified Liturgy on the day of the commemoration
 mePL.Glory.poet = poets_en_US_dedes.KyprianouMonachou
@@ -414,3 +457,22 @@ meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 
+alt1.meMA.Lauds1.poet = "St. Paul's Monastery, Athos."
+alt1.meMA.Lauds1.mode = misc_en_US_dedes.Mode4
+alt1.meMA.Lauds1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+alt1.meMA.Lauds1.text = ""
+
+alt1.meMA.Lauds2.poet = "St. Paul's Monastery, Athos."
+alt1.meMA.Lauds2.mode = misc_en_US_dedes.Mode4
+alt1.meMA.Lauds2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+alt1.meMA.Lauds2.text = ""
+
+alt1.meMA.Lauds3.poet = "St. Paul's Monastery, Athos."
+alt1.meMA.Lauds3.mode = misc_en_US_dedes.Mode4
+alt1.meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+alt1.meMA.Lauds3.text = ""
+
+alt1.meMA.Lauds4.poet = "St. Paul's Monastery, Athos."
+alt1.meMA.Lauds4.mode = misc_en_US_dedes.Mode4
+alt1.meMA.Lauds4.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+alt1.meMA.Lauds4.text = ""
