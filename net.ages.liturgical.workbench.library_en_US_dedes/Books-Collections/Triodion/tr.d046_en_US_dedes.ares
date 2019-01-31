@@ -77,8 +77,13 @@ trMA.C2Poet = poets_en_US_dedes.Iosif
 
 trMA.C3Poet = poets_en_US_dedes.Theodorou
 
-trMA.C1.title = ""
-trMA.C1.verse = ""
+trMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
+trMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode1C1H.text = he.h.m4_en_US_dedes.AnoixoToStomaMou.text
+
+trMA.C1.title = titles_en_US_dedes.KanonATouTriodiou
+trMA.C1.verse = prayers_en_US_dedes.verse_Cross.text
 
 trMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 trMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -99,6 +104,11 @@ trMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
 trMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
 trMA.Ode1C1T.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
 trMA.Ode1C1T.text = ""
+
+trMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
+trMA.Ode3C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode3C1H.text = he.h.m4_en_US_dedes.TousSousYmnologous.text
 
 trMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 trMA.Ode3C11.mode = misc_en_US_dedes.Mode4
@@ -182,6 +192,11 @@ trMA.Ode3Kathisma3.mode = misc_en_US_dedes.Mode6
 trMA.Ode3Kathisma3.melody = ""
 trMA.Ode3Kathisma3.text = ""
 
+trMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
+trMA.Ode4C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode4C1H.text = he.h.m4_en_US_dedes.OKathimenosEnDoxi.text
+
 trMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 trMA.Ode4C11.mode = misc_en_US_dedes.Mode4
 trMA.Ode4C11.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
@@ -202,6 +217,11 @@ trMA.Ode4C1T.mode = misc_en_US_dedes.Mode4
 trMA.Ode4C1T.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
 trMA.Ode4C1T.text = ""
 
+trMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
+trMA.Ode5C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode5C1H.text = he.h.m4_en_US_dedes.ExestiTaSympanta.text
+
 trMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 trMA.Ode5C11.mode = misc_en_US_dedes.Mode4
 trMA.Ode5C11.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
@@ -221,6 +241,11 @@ trMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
 trMA.Ode5C1T.mode = misc_en_US_dedes.Mode4
 trMA.Ode5C1T.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
 trMA.Ode5C1T.text = ""
+
+trMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
+trMA.Ode6C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode6C1H.text = he.h.m4_en_US_dedes.EvoiseProtypon.text
 
 trMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 trMA.Ode6C11.mode = misc_en_US_dedes.Mode4
@@ -253,6 +278,11 @@ trMA.Kontakion1.text = tr.d043_en_US_dedes.trMA.Kontakion1.text
 
 trMA.Oikos1.text = tr.d043_en_US_dedes.trMA.Oikos1.text
 
+trMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
+trMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode7C1H.text = he.h.m4_en_US_dedes.OukElatrefsan.text
+
 trMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 trMA.Ode7C11.mode = misc_en_US_dedes.Mode4
 trMA.Ode7C11.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
@@ -272,6 +302,11 @@ trMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
 trMA.Ode7C1T.mode = misc_en_US_dedes.Mode4
 trMA.Ode7C1T.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
 trMA.Ode7C1T.text = ""
+
+trMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
+trMA.Ode8C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode8C1H.text = he.h.m4_en_US_dedes.PaidasEvageis.text
 
 trMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 trMA.Ode8C11.mode = misc_en_US_dedes.Mode4
@@ -342,6 +377,11 @@ trMA.Ode8C3H.ode = misc_en_US_dedes.Ode8
 trMA.Ode8C3H.mode = misc_en_US_dedes.Mode1
 trMA.Ode8C3H.melody = misc_en_US_dedes.Heirmos
 trMA.Ode8C3H.text = he.h.m1_en_US_dedes.CheirasEnToLakko.text
+
+trMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
+trMA.Ode9C1H.mode = misc_en_US_dedes.Mode4
+trMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+trMA.Ode9C1H.text = he.h.m4_en_US_dedes.ApasGigenis.text
 
 trMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 trMA.Ode9C11.mode = misc_en_US_dedes.Mode4
@@ -429,9 +469,9 @@ trMA.AposMartyric.mode = misc_en_US_dedes.Mode8
 trMA.AposMartyric.melody = ""
 trMA.AposMartyric.text = ""
 
-trMA.AposTheotokion.mode = misc_en_US_dedes.Mode8
-trMA.AposTheotokion.melody = misc_en_US_dedes.Idiomelon
-trMA.AposTheotokion.text = ""
+trMA.AposGlory.mode = misc_en_US_dedes.Mode8
+trMA.AposGlory.melody = misc_en_US_dedes.Idiomelon
+trMA.AposGlory.text = ""
 
 trTE.Troparion.mode = misc_en_US_dedes.Mode6
 trTE.Troparion.melody = ""
