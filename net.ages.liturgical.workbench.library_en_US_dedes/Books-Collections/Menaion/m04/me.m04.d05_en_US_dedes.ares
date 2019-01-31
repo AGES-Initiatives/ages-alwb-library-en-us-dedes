@@ -32,7 +32,7 @@ meVE.SticTheotokion.text = "Let us openly call her blest * who is clearly depict
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = oc.m4.d4_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
@@ -47,8 +47,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m4_en_US_dedes.ThalassisToErythraion.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTonMartyron
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4

@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m04.d08_en_US_dedes
 
 meDate.text = "April 8" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of the holy Apostles of the Seventy: Herodion, Agabos, Rufus, Phlegon, Asyncritos, and Hermes" //full title of day
+meShortCommemoration1.text = "Memory of the holy Apostles of the Seventy"
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -47,8 +47,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode3
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m3_en_US_dedes.OTaYdata.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTonApostolon
+meMA.C1.verse = prayers_en_US_dedes.verse_Apostles.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode3

@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m04.d10_en_US_dedes
 
 meDate.text = "April 10" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Memory of the Holy Martyrs Terence, Pompey, Maximus, Makarios, Africanus, and those with them; and the Holy and Glorious Hieromartyr Gregory the Fifth, Archbishop of Constantinople." // full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Memory of the Holy Martyrs Terence, Pompey, Maximus, Makarios, Africanus, and those with them"
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
@@ -32,7 +32,7 @@ meVE.SticTheotokion.text = "I implore you now earnestly, * you the well-spring o
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = "As the all-blameless Lady watched * You be led as a lamb, O Lord, * to be voluntarily slaughtered for our sakes, * she who is lauded exceedingly, * Your Mother, cried out and wept: * \"Why the speedy pace, my Son? * My beloved, where go You now? * May I come along, * and be buried along with You, O Logos? I gave birth to You without seed: * so do not leave me now childless.\""
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
@@ -51,8 +51,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m8_en_US_dedes.YgranDiodefsas.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTonAgion
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8

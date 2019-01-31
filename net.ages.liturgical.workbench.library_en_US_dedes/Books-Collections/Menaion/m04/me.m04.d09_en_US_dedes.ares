@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m04.d09_en_US_dedes
 
 meDate.text = "April 9" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of the Holy Martyr Efpsychios of Caesaria, and the holy Monastic Martyrs Raphael, Nicholas and Irene" //full title of day
+meShortCommemoration1.text = "Memory of the Holy Martyr Efpsychios"
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -28,7 +28,7 @@ meVE.Stichera03.text = "O Martyr, like a lily you have sweetened every mind with
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.OiMartyresSouKyrie.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = "O pure one, who gave birth to God, the Son and Logos, for our salvation, * rescue your servants from ordeals and trials * and all the enemy's assaults; * illumine our senses with the grace of God, * and direct our steps on the saving paths, * O Lady, we entreat you, * that we may glorify you, O Virgin, faithfully."
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.OiMartyresSouKyrie.name
@@ -47,8 +47,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m8_en_US_dedes.YgranDiodefsas.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouMartyros
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
