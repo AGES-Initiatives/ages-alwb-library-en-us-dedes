@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m04.d16_en_US_dedes
 
 meDate.text = "April 16" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Memory of the Holy Women Marytrs: Charity, Peace,and Chionia" //full title of day
-meShortCommemoration1.text = "Memory of the Holy Women Marytrs: Charity, Peace,and Snow"
+meShortCommemoration1.text = "Memory of the Holy Women Marytrs: Charity, Peace, and Snow"
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -28,7 +28,7 @@ meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode1
 meVE.SticTheotokion.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = me.m01.d29_en_US_dedes.meMA.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
@@ -104,8 +104,8 @@ meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode8
-meMA.Ode3KathismaT.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.melody = misc_en_US_dedes.Automelon
+meMA.Ode3KathismaT.text = he.a.m8_en_US_dedes.TinSofianKaiLogon.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode8
 meMA.Ode3KathismaSt.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
