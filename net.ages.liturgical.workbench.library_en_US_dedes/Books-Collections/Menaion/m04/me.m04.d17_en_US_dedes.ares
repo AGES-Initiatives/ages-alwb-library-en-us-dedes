@@ -46,8 +46,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode5
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m5_en_US_dedes.IpponKaiAnavatin.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode5
@@ -100,15 +100,15 @@ meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.text = oc.m1.d1_en_US_dedes.ocMA.Kathisma23.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-meMA.Ode3KathismaSt.text = ""
+meMA.Ode3KathismaSt.text = oc.m1.d4_en_US_dedes.octrMA.Kathisma11.text
 
 meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C1H.mode = misc_en_US_dedes.Mode5
-meMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode4C1H.melody = misc_en_US_dedes.HeirmosNotMetered
 meMA.Ode4C1H.text = he.h.m5_en_US_dedes.TinTheianEnnoisas.text
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
@@ -133,7 +133,7 @@ meMA.Ode4C1T.text = ""
 
 meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C1H.mode = misc_en_US_dedes.Mode5
-meMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode5C1H.melody = misc_en_US_dedes.HeirmosNotMetered
 meMA.Ode5C1H.text = he.h.m5_en_US_dedes.OAnavallomenos.text
 
 meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
@@ -158,7 +158,7 @@ meMA.Ode5C1T.text = ""
 
 meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1H.mode = misc_en_US_dedes.Mode5
-meMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6C1H.melody = misc_en_US_dedes.HeirmosNotMetered
 meMA.Ode6C1H.text = he.h.m5_en_US_dedes.MainomeninKlydoni.text
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
@@ -188,7 +188,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode5
-meMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode7C1H.melody = misc_en_US_dedes.HeirmosNotMetered
 meMA.Ode7C1H.text = he.h.m5_en_US_dedes.OYperypsoumenos.text
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
@@ -213,7 +213,7 @@ meMA.Ode7C1T.text = ""
 
 meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1H.mode = misc_en_US_dedes.Mode5
-meMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8C1H.melody = misc_en_US_dedes.HeirmosNotMetered
 meMA.Ode8C1H.text = he.h.m5_en_US_dedes.SoiToPantourgo.text
 
 meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
