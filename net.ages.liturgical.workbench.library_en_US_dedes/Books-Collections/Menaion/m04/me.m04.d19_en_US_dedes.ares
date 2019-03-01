@@ -27,8 +27,8 @@ meVE.Stichera03.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode1
-meVE.SticTheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.melody = misc_en_US_dedes.Automelon
+meVE.SticTheotokion.text = he.a.m1_en_US_dedes.TonOuranionTagmaton.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
@@ -44,8 +44,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m4_en_US_dedes.AsomaiSoiKyrie.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouIeromartyros
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -98,11 +98,11 @@ meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.text = oc.m4.d5_en_US_dedes.ocMA.Kathisma23.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
-meMA.Ode3KathismaSt.text = ""
+meMA.Ode3KathismaSt.text = oc.m4.d6_en_US_dedes.ocMA.Kathisma23.text
 
 meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C1H.mode = misc_en_US_dedes.Mode4
