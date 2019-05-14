@@ -26,7 +26,7 @@ hoCA.Apolytikion4.mode = misc_en_US_dedes.Mode4
 hoCA.Apolytikion4.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 hoCA.Apolytikion4.text = ""
 
-R04 = "In many monasteries and churches, the Canon of the Paraklesis is chanted without the Heirmoi (except perhaps in Ode ix, in order to make an even number of troparia and thus to avoid repeating one.)"
+R04 = "In many monasteries and churches, the Canon of the Paraklesis is chanted without the Heirmoi (except perhaps in Odes that have five troparia, in order to make an even number,and thus to avoid repeating one.)"
 R05 = "(The Heirmos may be omitted.)"
 
 hoCA.Ode1H.ode = misc_en_US_dedes.Ode1
@@ -34,25 +34,32 @@ hoCA.Ode1H.mode = misc_en_US_dedes.Mode8
 hoCA.Ode1H.melody = misc_en_US_dedes.Heirmos
 hoCA.Ode1H.text = he.h.m8_en_US_dedes.YgranDiodefsas.text
 
+R06 = "This first troparion was composed in English and added by the translator. It serves to identify the name of the icon in Greek and in English. It may be omitted."
+
+hoCA.Ode10.ode = misc_en_US_dedes.Ode1
+hoCA.Ode10.mode = misc_en_US_dedes.Mode8
+hoCA.Ode10.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+hoCA.Ode10.text = "We pray to you, Mother of Christ our God, * honoring your icons that were painted throughout world. * And this one, \"Our Lady of the Vima,\" * is named on Athos in Greek: \"Vimatarissa.\""
+
 hoCA.Ode11.ode = misc_en_US_dedes.Ode1
 hoCA.Ode11.mode = misc_en_US_dedes.Mode8
 hoCA.Ode11.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
-hoCA.Ode11.text = ""
+hoCA.Ode11.text = "O pure Virgin Mary, I pray you grant * me, your humble servant, your permission and grace to praise * your icon, Our Lady of the Vima, * which by a great many wonders you glorified."
 
 hoCA.Ode12.ode = misc_en_US_dedes.Ode1
 hoCA.Ode12.mode = misc_en_US_dedes.Mode8
 hoCA.Ode12.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
-hoCA.Ode12.text = ""
+hoCA.Ode12.text = "O Virgin, I pray you relieve my soul * from mundane and earthly preoccupations that weigh it down. * O all-holy Lady of the Vima, * you reconcile us humans to God your Son."
 
 hoCA.Ode13.ode = misc_en_US_dedes.Ode1
 hoCA.Ode13.mode = misc_en_US_dedes.Mode8
 hoCA.Ode13.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
-hoCA.Ode13.text = ""
+hoCA.Ode13.text = "Lady of the Vima, and Queen of all, * the Archangel spoke and you ineffably then conceived * the Lord of the Angels and their Master, * who has exalted you higher than all their hosts."
 
 hoCA.Ode14.ode = misc_en_US_dedes.Ode1
 hoCA.Ode14.mode = misc_en_US_dedes.Mode8
 hoCA.Ode14.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
-hoCA.Ode14.text = ""
+hoCA.Ode14.text = "The ladder that Jacob of old beheld * in a dream ascending into heaven serves as a type * of your birth, O Lady of the Vima: * Through you exalted was Adam and all mankind."
 
 hoCA.Ode3H.ode = misc_en_US_dedes.Ode3
 hoCA.Ode3H.mode = misc_en_US_dedes.Mode8
@@ -87,7 +94,6 @@ hoCA.Troparion32.mode = misc_en_US_dedes.Mode8
 hoCA.Troparion32.melody  = ""
 hoCA.Troparion32.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
 
-//R06
 //R07
 
 hoCA.Kathisma11.mode = misc_en_US_dedes.Mode2
