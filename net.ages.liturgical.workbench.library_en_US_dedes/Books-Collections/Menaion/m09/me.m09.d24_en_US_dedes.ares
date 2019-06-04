@@ -3,6 +3,8 @@ A_Resource_Whose_Name = me.m09.d24_en_US_dedes
 meDate.text = "September 24"
 meCommemoration.text = "The Synaxis in Honor of the Most Holy Theotokos, our Lady of the Myrtles; and Memory of the Holy Great Martyr Thecla, the Equal to the Apostles." // full title of day
 meShortCommemoration1.text = "Memory of the Holy Great Martyr Thecla, the Equal to the Apostles."
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "the holy Great Martyr Thecla, the Equal to the Apostles," // for use in petitions and dismissal
 meInsert2 = "whose memory we observe," // for use in petitions and dismissal
 meNote.text = ""
@@ -362,6 +364,8 @@ alt1.meDate.text = "September 24"
 alt1.meCommemoration.text = "The Synaxis in Honor of the Most Holy Theotokos, our Lady of the Myrtles" //full title of day
 alt1.meShortCommemoration1.text = "The Synaxis in Honor of the Most Holy Theotokos, our Lady of the Myrtles"
 
+alt1.meCom1.title = ""
+alt1.meCom2.title = ""
 alt1.meInsert1 = "" //for use in petitions and dismissal
 alt1.meInsert2 = "the finding of whose holy icon \"Our Lady of the Myrtles\" we commemorate," //for use in petitions and dismissal
 alt1.meNote.text = ""

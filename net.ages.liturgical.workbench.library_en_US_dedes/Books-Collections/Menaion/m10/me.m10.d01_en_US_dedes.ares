@@ -6,6 +6,8 @@ meHO.DaysHours.text = ""
 meDate.text = "October 1"
 meCommemoration.text = "Memory of the holy Apostle Ananias, one of the Seventy, and our Devout Father Romanos the Melodist" // full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "the holy Apostle Ananias, and our devout father Romanos the Melodist," // for use in petitions and dismissal
 meInsert2 = "whose memory we observe," // for use in petitions and dismissal
 meNote.text = ""
@@ -494,6 +496,8 @@ alt1.meDate.text = "Τῌ Αʹ ΟΚΤΩΒΡΙΟΥ"
 alt1.meCommemoration.text = "" //full title of day
 alt1.meShortCommemoration1.text = ""
 
+alt1.meCom1.title = ""
+alt1.meCom2.title = ""
 alt1.meInsert1 = "" //for use in petitions and dismissal
 alt1.meInsert2 = "" //for use in petitions and dismissal
 alt1.meNote.text = ""
