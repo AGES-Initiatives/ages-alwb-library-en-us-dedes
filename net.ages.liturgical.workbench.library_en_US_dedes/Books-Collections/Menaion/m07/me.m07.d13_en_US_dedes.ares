@@ -66,20 +66,20 @@ meVE.AposGlory.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
-meVE.Apolytikion1.text = ""
+meVE.Apolytikion1.text = "O Chief Commander of the heavenly armies, * we the unworthy now entreat you in earnest, * to fortify us by your supplications to the Lord, * and shelter us beneath the wings of your spiritual glory, * guarding us who run to you and fervently entreat you: * As the Commander of the hosts on high, * rescue us faithful from dangers of every kind."
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion2.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
-meVE.Apolytikion2.text = "O Chief Commander of the heavenly armies, * we the unworthy now entreat you in earnest, * to fortify us by your supplications to the Lord, * and shelter us beneath the wings of your spiritual glory, * guarding us who run to you and fervently entreat you: * As the Commander of the hosts on high, * rescue us faithful from dangers of every kind."
+meVE.Apolytikion2.text = ""
 
 meMA.C1Acrostic.text = ""
 
 meMA.C2Poet = poets_en_US_dedes.Theofanous
 meMA.C2Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouArchangelou
+meMA.C1.verse = prayers_en_US_dedes.verse_Archangel.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -101,8 +101,8 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode2

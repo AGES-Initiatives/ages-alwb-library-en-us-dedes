@@ -1,12 +1,12 @@
 A_Resource_Whose_Name = me.m06.d11_en_US_dedes
 
 meDate.text = "June 11" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Holy Apostles Bartholomew and Barnabas." // full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
+meCommemoration.text = "Memory of the Holy Apostles Bartholomew and Barnabas" // full title of day
+meShortCommemoration1.text = "Memory of the Holy Apostles Bartholomew and Barnabas"
+meCom1.title = "For St. Bartholomew."
+meCom2.title = "For. St. Barnabas."
+meInsert1 = "the holy and glorious Apostles Bartholomew and Barnabas," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Holy Apostles Bartholomew and Barnabas."
 meLE.commemoration2 = ""
@@ -44,7 +44,7 @@ meVE.Stichera06.text = ""
 meVE.SticGlory.poet = poets_en_US_dedes.Theofanous
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = "Let us sing hymns of praise in honor of Bartholomew and Barnabas, those genuine preachers of true religion, luminaries of the Church, teachers of the faithful, and mystics of Christ the Savior. They sowed the word of truth in the hearts of the believers, and to all they distributed the fruitful harvest. They intercede with Christ, for the salvation of our souls."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.SticTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
@@ -65,7 +65,7 @@ meVE.Aposticha3.text = ""
 meVE.AposGlory.poet = poets_en_US_dedes.KosmaMonachou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = "O Disciples of the Savior, you went throughout the world illumining believers, and by your teachings our burned up the deceptive error of idolatry. You fished the Gentiles from the sea of ignorance, and brought them up to knowledge of God, and you saved them. We entreat you now to intercede with Christ, that He be merciful to us on Judgment Day."
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.AposTheotokion.melody = ""
