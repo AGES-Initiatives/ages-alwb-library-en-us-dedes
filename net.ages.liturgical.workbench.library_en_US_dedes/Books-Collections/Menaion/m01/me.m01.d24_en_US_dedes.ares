@@ -3,7 +3,7 @@ A_Resource_Whose_Name = me.m01.d24_en_US_dedes
 meDate.text = "January 24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Memory of our Devout Mother Xenia" // full title of day
 meShortCommemoration1.text = "Memory of our Devout Mother Xenia"
-meCom1.title = ""
+meCom1.title = "For St. Xenia."
 meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
@@ -30,15 +30,15 @@ meVE.Stichera03.text = "Your name, O Xenia, means foreign; and to a foreign land
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode1
 meVE.SticTheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = oc.m1.d1_en_US_dedes.ocSV.Aposticha1.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = oc.m1.d6_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
 meVE.Apolytikion1.melody = he.ga_en_US_dedes.EnSoiMiterAkrivos.melody
-meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
+meVE.GeneralApolytikion1.name = "Xenia," // name of saint for General Apolytikia
 
 meMA.C1.title = titles_en_US_dedes.KanonTisOsias
 meMA.C1.verse = prayers_en_US_dedes.verse_DevoutWoman.text
@@ -81,7 +81,7 @@ meMA.Ode3C13.text = "O blessed maid, you obtained the golden wings of the virtue
 meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_dedes.Mode8
 meMA.Ode3C1T.melody = he.h.m8_en_US_dedes.OStereosasLogo.notmetered
-meMA.Ode3C1T.text = "O VIRGIN, enlighten the souls of those who extol you as the bright cloud of the radiant noetic Sun, who rose from your womb."
+meMA.Ode3C1T.text = "O Virgin, enlighten the souls of those who extol you as the bright cloud of the radiant noetic Sun, who rose from your womb."
 
 meMA.Ode3H.ode = misc_en_US_dedes.Ode3
 meMA.Ode3H.mode = misc_en_US_dedes.Mode8

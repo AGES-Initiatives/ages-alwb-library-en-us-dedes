@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = me.m01.d23_en_US_dedes
 
 meDate.text = "January 23" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Holy Hieromartyr Clement of Ankyra, and the Holy Martyr Agathangelos." // full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "the holy hieromartyr Clement of Ancyra," // for use in petitions and dismissal
+meCommemoration.text = "Memory of the Holy Hieromartyr Clement of Ankyra, and the Holy Martyr Agathangelos" // full title of day
+meShortCommemoration1.text = "Memory of the Holy Hieromartyr Clement of Ankyra, and the Holy Martyr Agathangelos"
+meCom1.title = "For St. Clement."
+meCom2.title = "For St. Agathangelos"
+meInsert1 = "the holy and glorious hieromartyr Clement of Ancyra," // for use in petitions and dismissal
 meInsert2 = "whose memory we observe;" // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Holy Hieromartyr Klemes (Clement) of Ankyra. The holy Martyr Agathangelos."
@@ -46,12 +46,12 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode8
-meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.OiMartyresSouKyrie.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.OiMartyresSouKyrie.notmetered
+meVE.SticTheotokion.text = me.m01.d21_en_US_dedes.meVE.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode8
-meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.OiMartyresSouKyrie.name
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.OiMartyresSouKyrie.notmetered
+meVE.SticStavrotheotokion.text = "\"I cannot bear to watch. You who gave wakefulness to all, have now fallen asleep on the Cross, in order to grant divine and saving wakefulness, to those who of old fell into a destructive sleep, as a result of their disobedience.\" So said the Virgin as she lamented. Let us magnify her."
 
 meVE.AposGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode1
@@ -429,8 +429,6 @@ meMA.Exaposteilarion1.text = "You circled the entire world * like the divine Apo
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 meMA.ExapTheotokion.text = "O Bride of God, since you became * the purest vessel of the Lord, * I pray you, O Maid, to free me * of mistiness caused by passions. * I pray you also snatch me from * eternal fire, and from the worm, * the gnashing of teeth, O Lady, * that I may with faith and longing * extol you, O blessed Mary."
-
-meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

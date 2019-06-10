@@ -2,8 +2,8 @@ A_Resource_Whose_Name = me.m01.d26_en_US_dedes
 
 meDate.text = "January 26" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Memory of our Devout Father Xenophon and his Household" //full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
+meShortCommemoration1.text = "Memory of St. Xenophon"
+meCom1.title = "For St. Xenophon."
 meCom2.title = ""
 meInsert1 = "our devout father Xenophon and his household," //for use in petitions and dismissal
 meInsert2 = "whose memory we observe;" //for use in petitions and dismissal
@@ -34,7 +34,7 @@ meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode2
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = oc.m2.d4_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = ""
@@ -42,8 +42,8 @@ meVE.Apolytikion1.text = he.ga_en_US_dedes.OTheosTonPateronImon.text
 
 meMA.C1Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C1.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode2
