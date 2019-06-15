@@ -19,15 +19,15 @@ meDismissal = dismissals_en_US_dedes.dis00.meeting
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.text = me.m02.d02_en_US_dedes.meMA.Lauds1.text
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.text = me.m02.d02_en_US_dedes.meMA.Lauds2.text
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = me.m02.d02_en_US_dedes.meMA.Lauds2.text
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
@@ -93,8 +93,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode2
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m2_en_US_dedes.DefteLaoi.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTisAgias
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode2

@@ -5,8 +5,8 @@ meCommemoration.text = "Memory of our Devout Father Martinian" //full title of d
 meShortCommemoration1.text = "Memory of our Devout Father Martinian"
 meCom1.title = ""
 meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meInsert1 = "our devout and God-bearing father Martinian," //for use in petitions and dismissal
+meInsert2 = "whose memory we observe," //for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
@@ -22,7 +22,7 @@ meVE.Stichera01.text = "You selected hardships and asceticism, O blessed one, * 
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.text = "You became a so-called Martyr of the conscience, and of yourself * the accuser and strictest judge. * When you were inflamed by fire * of improper pleasure, * in response you kindled a raging fire, and you stepped * into it. Thus was your body burned by fire. * The Spirit's dew from heaven came to you, O father, refreshing you. * The tempestuous storm was changed * into stillness by grace divine."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
@@ -56,7 +56,7 @@ meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode2
 meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.text = oc.m2.d6_en_US_dedes.ocVE.Stichera4.text
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode2
 meVE.AposStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
@@ -74,8 +74,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m4_en_US_dedes.ThalassisToErythraion.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C1.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
