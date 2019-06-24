@@ -526,7 +526,7 @@ meMegalynarion.text = ""
 alt1.meDate.text = "November 22"
 alt1.meCommemoration.text = "Memory of our Devout and God-bearing Father Iakovos, Abbot of the Holy Monastery of \"Hosios Davíd\" on Evia, Greece" // full title of day
 alt1.meShortCommemoration1.text = "Memory of St. Iakovos, Abbot of the Monastery of \"Hosios Davíd\""
-alt1.meCom1.title = ""
+alt1.meCom1.title = "For St. Iakovos."
 alt1.meCom2.title = ""
 alt1.meInsert1 = "of our Devout and God-bearing Father Iakovos of Evia," // for use in petitions and dismissal
 alt1.meInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
@@ -539,6 +539,7 @@ alt1.meHO.commemorations = ""
 alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 alt1.meDismissal = ""
+alt1.mePoet = poets_en_US_dedes.IoilEdessis
 
 alt1.meSV.Stichera1.mode = misc_en_US_dedes.Mode1
 alt1.meSV.Stichera1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
@@ -1094,5 +1095,27 @@ alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 
 alt1.meMegalynarion.text = ""
 
+alt1.meSV.publication.stichera.text = "At \"Lord, I have cried,\" use four Verses and sing the following Prosomoia."
+alt1.meSV.publication.aposticha.text = "At the Aposticha, Prosomoia."
+alt1.meVE.publication.introduction.text = "After the Introductory Psalm, recite \"Blessed is the man.\""
+alt1.meVE.publication.stichera.text = "At \"Lord, I have cried,\" use six Verses and sing the following Prosomoia."
+alt1.meVE.publication.middle1.text = "Entrance, \"Gladsome Light,\" the Prokeimenon, and the Readings."
+alt1.meVE.publication.lity.text = "At the Lity, Idiomela."
+alt1.meVE.publication.aposticha.text = "At the Aposticha, Prosomoia."
+alt1.meVE.publication.symeon.text = "Symeon's Prayer, Trisagion, and the Apolytikion."
+alt1.meVE.publication.apolytikion3.text = "Apolytikion sung primarily at the the Monastery of St. David."
+alt1.meMA.publication.kathisma1.text = "After the first recitation of the Psalter, Kathisma."
+alt1.meMA.publication.kathisma2.text = "After the second recitation of the Psalter, Kathisma."
+alt1.meMA.publication.polyeleos.text = "After the Polyeleos, Kathisma."
+alt1.meMA.publication.antiphon.text = "First Antiphon of Mode 4."
+alt1.meMA.publication.gospel.text = "The order of the Matins Gospel. Use the Lesson for St. Savas, Dec. 5. Psalm 50."
+alt1.meMA.publication.gospel_1.text = "The order of the Matins Gospel."
+alt1.meMA.publication.gospel_2.text = "Matins Gospel Lesson for St. Savas, Dec. 5."
+alt1.meMA.publication.gospel_3.text = "Psalm 50."
+alt1.meMA.publication.canons.text = "Then, the Canon 1 of the Feast in 6, and the two Canons for the Saint in 8."
+alt1.meMA.publication.lauds.text = "At Lauds use four Verses and sing the following Prosomoia."
+alt1.meMA.publication.doxology.text = "Great Doxology and Dismissal"
+alt1.meLI.publication.typika.text = "The Typika. The Beatitudes. And Odes iii and vi of of the Canon for the Saint."
+alt1.meLI.publication.bible.text = "Epistle and Gospel lessons from Dec. 5 (St. Savas)."
 
 

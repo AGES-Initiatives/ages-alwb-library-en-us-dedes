@@ -3,7 +3,7 @@ A_Resource_Whose_Name = me.m02.d25_en_US_dedes
 meDate.text = "February 25" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Memory of our Father among the Saints Tarasios, Archbishop Constantinople" //full title of day
 meShortCommemoration1.text = "Memory of St. Tarasios of Constantinople"
-meCom1.title = ""
+meCom1.title = "For St. Tarasios."
 meCom2.title = ""
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
@@ -81,8 +81,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m4_en_US_dedes.AnoixoToStomaMou.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4

@@ -3,7 +3,7 @@ A_Resource_Whose_Name = me.m02.d26_en_US_dedes
 meDate.text = "February 26" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Memory of Saint Porphyrios, Bishop of Gaza; and the Holy Great Martyr Photini the Samaritan Woman and Equal to the Apostles." // full title of day
 meShortCommemoration1.text = "Memory of Saint Porphyrios, Bishop of Gaza"
-meCom1.title = ""
+meCom1.title = "For St. Porphyrios."
 meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
@@ -33,8 +33,8 @@ meVE.SticTheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
 meVE.SticTheotokion.text = "In the deep sea of transgressions * I am now tossed about; * therefore, O Theotokos, * I seek refuge and safety * in the waveless harbor of your most pure * intercession on my behalf. * I pray: Extend your almighty right hand and save * me your servant, O all-blameless one."
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode1
-meVE.SticStavrotheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.notmetered
+meVE.SticStavrotheotokion.text = "Behold, I now feel the sword piercing my heart, O Child, as they foretold to me of old, when they saw You, who are more beautiful than all the sons born on earth. For voluntarily You have been hung from a Cross with robbers, as if You were a criminal."
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
@@ -46,8 +46,8 @@ meMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode1C1H.text = he.h.m8_en_US_dedes.AsomenToKyrio.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
