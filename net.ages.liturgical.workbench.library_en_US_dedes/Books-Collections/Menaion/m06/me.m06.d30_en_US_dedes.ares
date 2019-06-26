@@ -515,7 +515,8 @@ meMA.Lauds4.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
 meMA.Lauds4.text = "Peter and Paul, you are ploughmen of the Logos, * Andrew, James-Iakovos, and John the truly wise, * Philip and Thomas, Bartholomew, Matthew and Simon, * O righteous Jude and divine and blessed James, * all-honored in all the world, O Twelve Disciples of Christ. * You preached throughout the entire world that the eternal * all-holy Trinity is in nature God. * You are the unhewn towers of the Church, * and her unshaken pillars and firm supports. * To the Master of all things * pray intently that He save our souls."
 
 meMA.MM.Lauds123as456.text = properties_en_US_dedes.media.key
-meMA.Lauds678.text = "" // for media
+meMA.MM.Lauds123as678.text = properties_en_US_dedes.media.key
+meMA.MM.Lauds1234as5678.text = properties_en_US_dedes.media.key
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.KosmaMonachou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
@@ -525,8 +526,6 @@ meMA.LaudsGlory.text = "O Disciples of the Savior, you saved the world; for you 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
-
-meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
