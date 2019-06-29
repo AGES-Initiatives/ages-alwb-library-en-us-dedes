@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m07.d03_en_US_dedes
 
 meDate.text = "July 3"
 meCommemoration.text = "Memory of the holy Martyr Hyacinth" //full title of day
-meShortCommemoration1.text = "St. Hyacinth"
+meShortCommemoration1.text = "Memory of the holy Martyr Hyacinth"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "and the holy Martyr Hyacinth," //for use in petitions and dismissal
@@ -34,7 +34,7 @@ meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = me.m06.d18_en_US_dedes.meVE.SticStavrotheotokion.text
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
 meMA.C1Acrostic.text = ""
