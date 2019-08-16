@@ -105,17 +105,17 @@ meMA.Kathisma21.melody = ""
 meMA.Kathisma21.text = "The Maker of the sun and all creation was led once to the Cross. And now to himself He leads you, the shining star, by stars from heaven. And to you first He bestowed imperial power. Therefore, O most pious emperor Constantine, we extol you and your mother Helen the godly-minded."
 
 //use the following three keys for the options in the back
-meMA.Kathisma22.mode = misc_en_US_dedes.Mode6
-meMA.Kathisma22.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.name
-meMA.Kathisma22.text = ""
-
-meMA.Kathisma23.mode = misc_en_US_dedes.Mode1
-meMA.Kathisma23.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-meMA.Kathisma23.text = ""
-
-meMA.Kathisma2T.mode = misc_en_US_dedes.Mode1
-meMA.Kathisma2T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+meMA.Kathisma2T.mode = misc_en_US_dedes.Mode6
+meMA.Kathisma2T.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.name
 meMA.Kathisma2T.text = ""
+
+alt1.meMA.Kathisma21.mode = misc_en_US_dedes.Mode1
+alt1.meMA.Kathisma21.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+alt1.meMA.Kathisma21.text = ""
+
+alt1.meMA.Kathisma2T.mode = misc_en_US_dedes.Mode1
+alt1.meMA.Kathisma2T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+alt1.meMA.Kathisma2T.text = ""
 
 meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
