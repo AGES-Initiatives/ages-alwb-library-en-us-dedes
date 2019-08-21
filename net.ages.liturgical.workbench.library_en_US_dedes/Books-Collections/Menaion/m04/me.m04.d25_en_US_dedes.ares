@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m04.d25_en_US_dedes
 
 meDate.text = "April 25" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Memory of the Holy Apostle and Evangelist Mark." // full title of day
-meShortCommemoration1.text = "St. Mark"
+meShortCommemoration1.text = "Memory of St. Mark the Evangelist"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "the holy and glorious Apostle and Evangelist Mark," // for use in petitions and dismissal
@@ -70,7 +70,7 @@ meVE.Apolytikion1.text = "St. Peter's companion and sacred partner were you, * a
 meVE.GeneralApolytikion1.name = "Mark,"
 meVE.MM.GeneralApolytikion1.text = properties_en_US_dedes.media.key
 
-meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C1.title = titles_en_US_dedes.KanonTouEvangelistou
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
