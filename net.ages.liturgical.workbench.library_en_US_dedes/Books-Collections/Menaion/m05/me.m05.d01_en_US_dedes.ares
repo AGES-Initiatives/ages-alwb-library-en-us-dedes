@@ -4,8 +4,8 @@ meHO.Month.text = ""
 meHO.DaysHours.text = ""
 
 meDate.text = "May 1" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Holy Prophet Jeremiah." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of the Holy Prophet Jeremiah" // full title of day
+meShortCommemoration1.text = "Memory of the Holy Prophet Jeremiah"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
@@ -33,10 +33,10 @@ meVE.Stichera03.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
 meVE.Apolytikion1.melody = he.ga_en_US_dedes.TouProfitouSou.name
-meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
+meVE.GeneralApolytikion1.name = "Jeremiah," // name of saint for General Apolytikia
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouProfitou
+meMA.C1.verse = prayers_en_US_dedes.verse_Prophet.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8

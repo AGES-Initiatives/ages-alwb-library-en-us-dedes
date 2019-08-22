@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m05.d06_en_US_dedes
 
 meDate.text = "May 6" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of Righteous Job and our Devout Father Seraphim of Mt. Dombos" //full title of day
+meShortCommemoration1.text = "Memory of Righteous Job"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" //for use in petitions and dismissal
@@ -18,7 +18,7 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.text = "Lord, You gave us righteous Job as an example of moral strength * and of patience and fortitude, * his virtues and pious words * and his godly actions, * even though he suffered; * and thus, O good One, You instruct * all those who waver when faced with tragedy. * O Jesus the almighty Savior of our souls, we extol the plan * for salvation that You, O Lord, * have fulfilled in Your love for man."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
@@ -34,8 +34,8 @@ meVE.SticGlory.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
 meVE.Apolytikion1.melody = he.ga_en_US_dedes.TouProfitouSou.name
-meVE.Apolytikion1.text = ""
-meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
+meVE.Apolytikion1.text = "As we celebrate the memory of Your righteous Saint Job, through him we importune You, O Lord, that You save our souls."
+meVE.GeneralApolytikion1.name = "Job," // name of saint for General Apolytikia
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode3
@@ -50,8 +50,8 @@ meVE.Apolytikion3.text = ""
 meMA.C1Poet = poets_en_US_dedes.AgiouKosmaOiDeIoannouMonachou
 meMA.C1Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
