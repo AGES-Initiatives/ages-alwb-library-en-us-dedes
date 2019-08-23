@@ -1,12 +1,12 @@
 A_Resource_Whose_Name = me.m05.d12_en_US_dedes
 
 meDate.text = "May 12" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
+meCommemoration.text = "Memory of our Fathers among the Saints, Epiphanios Bishop of Cyprus, and Germanos Archbishop of Constantinople" //full title of day
+meShortCommemoration1.text = "Memory of Sts. Epiphanios of Cyprus and Germanos of Constantinople"
+meCom1.title = "For St. Epiphanios."
+meCom2.title = "For. St. Germanos."
+meInsert1 = "our Fathers among the Saints, Epiphanios Bishop of Cyprus, and Germanos Archbishop of Constantinople," //for use in petitions and dismissal
+meInsert2 = "whose memory we observe," //for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
