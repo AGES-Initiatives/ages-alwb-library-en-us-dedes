@@ -2,11 +2,11 @@ A_Resource_Whose_Name = me.m05.d15_en_US_dedes
 
 meDate.text = "May 15" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Memory of our Devout Father Pachomios the Great; and Devout St. Achillios, Archbishop of Larissa." // full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Memory of our Devout Father Pachomios the Great"
 meCom1.title = ""
 meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
+meInsert1 = "our devout and God-bearing father Pachomios the Great," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Our Venerable Fathers Pachomios the Great and Achillios Bishop of Larissa."
 meLE.commemoration2 = ""
