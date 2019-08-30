@@ -1,12 +1,12 @@
 A_Resource_Whose_Name = me.m06.d04_en_US_dedes
 
 meDate.text = "June 4" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Father among the Saints Metrophanis, Archbishop of Constantinople." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of our Father among the Saints Metrophanis, Archbishop of Constantinople" // full title of day
+meShortCommemoration1.text = "Memory of St. Metrophan Archbishop of Constantinople"
 meCom1.title = ""
 meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
+meInsert1 = "of our father among the saints Metrophan, Archbishop of Constantinople," // for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "Our Father among the Saints Metrophanes, Archbishop of Constantinople."
 meLE.commemoration2 = ""

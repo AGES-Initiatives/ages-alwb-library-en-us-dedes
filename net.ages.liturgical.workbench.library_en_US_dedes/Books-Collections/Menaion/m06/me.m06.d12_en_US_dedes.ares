@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m06.d12_en_US_dedes
 
 meDate.text = "June 12" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Devout Father Onoufrios." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of our Devout Father Onoufrios" // full title of day
+meShortCommemoration1.text = "Memory of our Devout Father Onoufrios"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
@@ -31,7 +31,7 @@ meVE.Stichera03.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = me.m01.d15_en_US_dedes.meVE.AposGlory.text
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.SticTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
