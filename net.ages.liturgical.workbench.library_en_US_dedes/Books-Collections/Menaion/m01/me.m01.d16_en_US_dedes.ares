@@ -43,15 +43,15 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha1.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = "Come and let us venerate the holy chain, by which bonds of sin * and of passions are loosed for us. * The chain that once bound the great wise Apostle Peter * has received ineffable gifts of grace that flowed from him, * and thus divinely was truly sanctified. * As he does by the might of God, so does his chain break the bonds of sins. * It releases us from distress * and disasters by grace divine."
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha2.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.text = "Blessed and preeminent Apostle Peter, your chain is bright * like a heavenly rope and line, * by which we climb up from earth to the very entrance * of the gates of heaven, where we with faith come up to you, * the wise and glorious holder of the keys. * All-honored one, we pray you, since the kingdom's keys were handed to you, * sympathetically open up * to all people those saving gates."
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.text = "O Peter, today angelic orders join with the human race * and in unison sing your praise. * An Angel appeared to you when you were in prison, * and he struck your side, and he led you past the prison guards, * and you escaped and you left behind the chains, * which we now have and venerate, all-wise Apostle. You give us joy, * for you break the unbreakable * chains of sin that encumber us."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
 meVE.AposGlory.melody = ""
@@ -59,7 +59,7 @@ meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.AposTheotokion.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.text = "Knowingly I slipped and fell, * and the deceiver enslaved me * by his tricks, O Bride of God. * I the wholly wretched one * run for refuge now * to your most wonderful mercy and compassion, and your fervent  prayer, all-holy Maid, * release me from the bonds and from my temptations and troubles all, * and save me, O all-blameless one, * from every demonic assault on me, * and I shall with longing revere you, glorify you, and extol * and magnify you, whom all now call * blessed Lady evermore."
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode6
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
@@ -336,10 +336,10 @@ meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m4_en_US_dedes.EvoiseProtypon.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
-meMA.Kontakion1.melody = he.a.m6_en_US_dedes.TinEnPresveiais.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.melody = he.a.m6_en_US_dedes.TinEnPresveiais.notmetered
+meMA.Kontakion1.text = "Let us extol Peter, the first among Apostles, great and preeminent, that inspired spokesman of the truth, and in faith let us venerate his Chain, as we receive forgiveness of offenses."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "What tongue can worthily extol St. Peter, that renowned and great Disciple of the Lord? Which mind can rightly praise that man, whom God the Logos called blessed? And yet, since one should offer to Christ whatever ability he has, I will attempt to do this. Come, O fans of feast-days, let us piously crown the preeminent Apostle with songs, as we receive forgiveness of offenses."
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -532,7 +532,7 @@ meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
 meMA.LaudsTheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meMA.LaudsTheotokion.text = ""
+meMA.LaudsTheotokion.text = oc.m4.d2_en_US_dedes.ocVE.SticTheotokion.text
 
 meMA.LaudsStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meMA.LaudsStavrotheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
@@ -543,11 +543,11 @@ meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
 meMA.AposGlory.poet = poets_en_US_dedes.Anatoliou
 meMA.AposGlory.mode = misc_en_US_dedes.Mode4
 meMA.AposGlory.melody = ""
-meMA.AposGlory.text = ""
+meMA.AposGlory.text = "You worthily received the gifts of grace from God, O wise Apostle and rock of the Faith. And in return, all-lauded Peter, you offered your blood as something sweet to the Creator. He made it known that you hold the keys to the gates of heaven, to all who extol you faithfully. "
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode4
 meMA.AposTheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meMA.AposTheotokion.text = ""
+meMA.AposTheotokion.text = oc.m4.d4_en_US_dedes.ocVE.Stichera6.text
 
 meMA.AposStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meMA.AposStavrotheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
