@@ -18,15 +18,15 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode1
 meVE.Stichera01.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.text = "Devout St. Blaise, as you blossomed in your ascetic feats * and in the priesthood's glory, * like a palm-tree of the righteous, * you produced the divine fruits of martyrdom, * which you offered to God, O Saint. * Through you the idols were manifestly destroyed, * and the people believed in Christ."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode1
 meVE.Stichera02.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.text = "Having excelled as a pastor, * O Hieromartyr of Christ, * you then endured most bravely * the contests of a martyr. * For both you were awarded a glorious crown, * for with both you adorned yourself, * that is with virtue and also martyric feats. * Therefore intercede that we be saved."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode1
 meVE.Stichera03.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = "The holy women became strong * in divine zeal for the Faith; * and for their noble contests * and their good Christian witness, * they were crowned as victors along with their sons. * Awesome wonder! For loving Christ, * who is the head, and to whom they were wed as brides, * for His sake they had their heads cut off."
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode1
 meVE.Stichera04.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
@@ -69,6 +69,8 @@ meVE.AposTheotokion.text = me.m02.d04_en_US_dedes.meVE.SticTheotokion.text
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meVE.AposStavrotheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.AposStavrotheotokion.text = "When Your Mother the Virgin pure * saw You hanging upon the Cross, * she was overwhelmed with astonishment, O Lord, * and gazing earnestly, she cried out: * \"Look how they rewarded You, * Master, even after they * had received many gifts from You. * I implore You now, * do not leave me to face the world alone, but rather hasten to be risen, * raising the Ancestors with yourself.\""
+
+meVE.MM.GeneralApolytikion1.text = properties_en_US_dedes.media.key
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode5
@@ -226,7 +228,7 @@ meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
 meMA.Kontakion1.text = ""
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "Enabled by the might of God, O godly-minded Saint, your divine actions demonstrated that you were a holy hierarch and liturgist of Christ. You were the recipient of medals and crowns, along with the hosts of medal-winning Martyrs. You surpassed the sacrifice of Aaron, as a mystic of Christ. And your holy blood, along with Abel's, cries out to God regarding your slaughter. Now, as you stand near the divine throne of the Creator, you join the ranks of Angels, never ceasing to intercede for us all."
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode8
@@ -305,15 +307,16 @@ meMA.Ode9C1T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.text = "O Blaise, all-blessed Hierarch, * we hold you in twofold honor: * adornment of the Martyrs Saints, * glory of priests and bishops. * You offered up a sacrifice, * with yourself as the victim, * to Christ who came of His own will * and sacrificed himself for you, * in His unspeakable goodness * and ineffable purpose."
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.text = "Come all today and let us give * glory to Christ our Savior,
+He is our God who glorified * Blaise, the all holy Martyr and Hierarch full of wisdom, * working through him terrific * signs and all kinds of miracles. * Honoring now the memory of the Saint, * we attend this sacred festive observance, * where by his prayers on our behalf, our sins will be forgiven."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
-meMA.ExapTheotokion.text = ""
+meMA.ExapTheotokion.text = "Due to my disobedience, * I had become a lost sheep. * Seeking me, God who fashioned me, * entered your undefiled womb, O all-immaculate Virgin. * Taking me on His shoulders, * to heaven He exalted me; * with session with the Father He honored me. * Truly unsurpassable, His compassion! * Which I adore, and glorify * you the true Theotokos."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

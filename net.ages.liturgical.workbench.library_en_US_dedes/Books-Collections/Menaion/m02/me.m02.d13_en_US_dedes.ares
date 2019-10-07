@@ -30,7 +30,7 @@ meVE.Stichera03.text = "Father, to escape the serpent, you departed and dwelt ap
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = me.m02.d03_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
@@ -43,7 +43,7 @@ meVE.SticGlory.text = ""
 
 meVE.SticTheotokion2.mode = misc_en_US_dedes.Mode2
 meVE.SticTheotokion2.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.SticTheotokion2.text = ""
+meVE.SticTheotokion2.text = "Lady, are every Angels joy, * and you are humanity's glory, * the hope of all who believe. * You, all-blameless Virgin, are the one protecting us. * We take refuge in you each day * and faithfully cry out: * By your intercessions keep us safe from darts of the foe; * keep us free of all soul-destroying * sorrows, tribulations, and evils, * as we ever sing your praise, O Bride of God."
 
 meVE.SticStavrotheotokion2.mode = misc_en_US_dedes.Mode2
 meVE.SticStavrotheotokion2.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
@@ -52,7 +52,7 @@ meVE.SticStavrotheotokion2.text = ""
 meVE.AposGlory.poet = poets_en_US_dedes.TheodorouTouStouditou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = "You were adorned in the splendid vesture of chastity, and on fire with divine prayer, and within you was dwelling Christ who was born of a Virgin. So you were not carried away by the woman's beautiful clothes, nor did you give in to pleasure; but instead, having the divine fire in your heart, you gladly stepped into the fire, your fellow servant. By means of the material and fleeting fire, you burned away the fire of the passions, and you extinguished the flame of hell. Therefore we entreat you, O thrice-blessed St. Martinian, intercede on our behalf, that we be delivered from the destructive and everlasting fire."
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode2
 meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
@@ -216,9 +216,9 @@ meMA.Ode6C1T.text = ""
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TousAsfaleis.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "Let us extol in hymns the ever-venerable, * devout Martinian and praise him worthily. * Practiced in ascetic discipline, * a martyr of conscience most honorable, * he patiently lived in the wilderness, * as a citizen of it who knew it well, * for he indeed trampled on the serpent's head."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "The proclamation of your delightful virtues and your godly exploits has gone forth, from one end of the earth to the other. When you were still young, you longed to live in the wilderness, and to continually send up hymns and Psalms and prayers to Christ. Day and night, you matured with labors and tears, and you led your life in chastity. Wisely you put the archevil foe to shame, for you indeed trampled on the serpent's head."
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
@@ -307,11 +307,11 @@ meMA.Ode9C1T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.text = "Martinian, you did violence * to your own nature and became * yourself a martyr of conscience; * and for women you were a guide, * with them defeating the devil. * And now you entreat the Lord for us."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
-meMA.ExapTheotokion.text = ""
+meMA.ExapTheotokion.text = "O Virgin, we now extol you * with hymns of love and thanksgiving, *  and with the Angel salute you * and sing, \"Rejoice, Theotokos! * Rejoice, O unwedded Mother * of Jesus the King of glory!\""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
