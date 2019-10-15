@@ -3,8 +3,9 @@ A_Resource_Whose_Name = me.m02.d25_en_US_dedes
 meDate.text = "February 25" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Memory of our Father among the Saints Tarasios, Archbishop Constantinople" //full title of day
 meShortCommemoration1.text = "Memory of St. Tarasios of Constantinople"
-meCom1.title = "For St. Tarasios."
-meCom2.title = ""
+meShortCommemoration2.text = "Memory of St. Tarasios of Constantinople"
+meCom1.title = "Leave-taking of the Forerunner."
+meCom2.title = "For St. Tarasios."
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -47,15 +48,15 @@ meVE.SticStavrotheotokion.text = ""
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode1
 meVE.Stichera04.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera04.text = ""
+meVE.Stichera04.text = "All-blessed father, preferring to die for Christ than to live, * you piously commanded the correct veneration * of the holy Icons of Christ and all the Saints. * Thus the mouths of the heretics, * who spoke against God unrighteous things, have been stopped, * as the Psalmist David said of old."
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode1
 meVE.Stichera05.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera05.text = ""
+meVE.Stichera05.text = "You freed yourself from the sickness of love of money and wealth, * and you obtained the treasure of the kingdom of heaven, * devout and godly-minded Tarasios; hence * now the case where you relics lie * grants godly healing to those who approach with faith * and who venerate them, all-lauded Saint."
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode1
 meVE.Stichera06.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera06.text = ""
+meVE.Stichera06.text = "You led your life in accordance with the commandments of God, * and so you were a model for your flock, holy Father, * thrice-blessed St. Tarasios. And even now * by your teachings we are edified. * We pray, cease not interceding on our behalf, * as we celebrate your memory."
 
 meVE.Stichera07.mode = misc_en_US_dedes.Mode1
 meVE.Stichera07.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
@@ -63,7 +64,7 @@ meVE.Stichera07.text = ""
 
 meVE.SticTheotokion2.mode = misc_en_US_dedes.Mode1
 meVE.SticTheotokion2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.SticTheotokion2.text = ""
+meVE.SticTheotokion2.text = me.m02.d11_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion2.mode = misc_en_US_dedes.Mode1
 meVE.SticStavrotheotokion2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
@@ -218,9 +219,9 @@ meMA.Ode6C1T.text = ""
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode4
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "Like a great and brilliant sun, * shining with dogmas * and aglow with miracles, * you are a guiding light, O Saint, * for Orthodoxy throughout the world, * mystic of heaven, all-blessed Tarasios."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "O Savior, as my soul is darkened by the darkness of my offenses, I pray You illumine it with the light of Your mercy. Purify me of the mist of sinful recollections, and turn my mind to good thoughts, O my Christ; so that I may be able to worthily extol Your Hierarch, and to attain his lifestyle, his illustrious exploits, his inspired faith, and the zeal he possessed for the sake of Your Church, which dutifully now extols him and cries out: \"Mystic of heaven, all-blessed Tarasios!\""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
