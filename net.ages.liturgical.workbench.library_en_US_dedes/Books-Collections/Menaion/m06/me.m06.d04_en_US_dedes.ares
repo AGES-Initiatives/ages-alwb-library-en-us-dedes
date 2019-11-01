@@ -75,7 +75,7 @@ meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode3
 meMA.Kathisma11.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
-meMA.Kathisma11.text = ""
+meMA.Kathisma11.text = "Your endorsement of the godly dogma * gave the Church support and confirmation, * O Metrophanis, and humiliated Arius. * For you declared that the Son is of the same essence * as God the Father, thus confirming the Orthodox. * Holy Father, pray to Christ our God fervently, * entreating Him to grant us His great mercy."
 
 meMA.Kathisma1T.mode = misc_en_US_dedes.Mode3
 meMA.Kathisma1T.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
@@ -83,7 +83,7 @@ meMA.Kathisma1T.text = me.m01.d25_en_US_dedes.meMA.Kathisma1T.text
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode3
 meMA.Kathisma21.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
-meMA.Kathisma21.text = ""
+meMA.Kathisma21.text = "You received the tablets of the true faith * on the mystic mount of the appearance * of the Lord, O Metrophanis, like Moses of old. * He gave the people the Law, you the Orthodox * the rule of faith of the Trinity's mystery. * Therefore now all we believers honor your memory, * entreating that great mercy be given through you."
 
 meMA.Kathisma2T.mode = misc_en_US_dedes.Mode3
 meMA.Kathisma2T.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
@@ -91,11 +91,13 @@ meMA.Kathisma2T.text = oc.m3.d2_en_US_dedes.ocMA.Kathisma23.text
 
 meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma31.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
-meMA.Kathisma31.text = ""
+meMA.Kathisma31.text = "Once you ruled over base passions of the flesh, * you were solemnly anointed the Hierarch * and Orthodox pastor of the Ruling City and Capital. * O God-inspired Saint, with divine words, as with a staff, * you drove away heresies as if they were wild beasts. * Hierarch Metrophanis, when your work here had ended, * you worthily inherited the divine grace that never ends. * Now we therefore cry out to you: * Intercede with Christ our God * that He grant forgiveness of offenses * to those who with longing observe your holy memory."
 
 meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
-meMA.Kathisma3T.text = ""
+meMA.Kathisma3T.text = "Let us sing hymns in praise of the holy ark * and the heavenly gate and the shining cloud, * the all-holy mountain 
+and the bush that was not consumed, * the rational Paradise, the restoration of Eve, * the magnificent treasure of the entire universe. * For in her and through her for the world was salvation * accomplished and forgiveness of its ancient transgressions. * Let us therefore cry out to her, * \"Intercede with your Son and our God * that remission of offenses be bestowed * 
+on those who rightly are extolling your glory, O immaculate one.\""
 
 meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
@@ -115,8 +117,8 @@ meMA.C1Acrostic.text = ""
 meMA.C2Poet = poets_en_US_dedes.Theofanous
 meMA.C2Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonATouAgiou
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -143,8 +145,8 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_en_US_dedes.KanonBTouAgiou
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode6
@@ -341,9 +343,9 @@ meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode4
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "The holy Hierarch of Christ, Metrophanis, * the Church's shining lamp, endorsing the dogma * along with the God-bearing Fathers, openly declared * that the Logos is of one essence with God the Father. * He was the first bishop of the new ruling city. * Clearly he had prophetic grace from God. * And therefore let us extol him unison."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "That revealer of God's ineffable mysteries, the mouthpiece of Christ, yes, the great Apostle Paul, seeing the future long before, described the one who would be worthy of the episcopal see of the Queen of cities. For he said, \"It was fitting that we should have such a high priest, holy, blameless, unstained, separated from sinners, and united in spirit to the celestial hosts on high, who with confidence enters the Holy of Holies, and ever draws near to the throne of grace, asking that mercy be given us, that we may find grace to help in time of need.\" So, duty-bound let us sing his praise, as one who has clearly had the grace from God, and let us extol him unison."
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -480,23 +482,23 @@ meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode4
 meMA.Lauds1.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
-meMA.Lauds1.text = ""
+meMA.Lauds1.text = "When you had taken the whole armor of Christ God, * as Paul the Apostle said, mightily girding your loins * with the uprightness of godly truth, and when you put on * the divine breastplate of righteousness, O Saint, * and with the equipment of the Gospel of His grace * you shod your feet, which were beautiful, preacher of good news, * moreover taking the sturdy shield of faith, * O Metrophanis, and the godly sword * of the Spirit, the life-giving word of God, * then you quenched all the flaming * darts and arrows of the evil one."
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode4
 meMA.Lauds2.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
-meMA.Lauds2.text = ""
+meMA.Lauds2.text = "You led your life in the world like a stranger, * imitating Christ who was a stranger for our sake, * in His immeasurable tender love; and you were granted * strange and remarkable gifts of grace divine. * Father Metrophanis, as a Prophet God-inspired, * you told the future to foreigners and natives clearly, * showing your soul's spiritual maturity. * Therefore you worthily received on high * the divine hospitality of the Lord, * whom you pray now to save us, * who are faithfully extolling you."
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode4
 meMA.Lauds3.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
-meMA.Lauds3.text = ""
+meMA.Lauds3.text = "Emperor Constantine worthily was summoned * by providence like a comet coming from the west. * He was the first of the Christian kings and pious rulers. * O Metrophanis, when he discovered you, * O Saint, like a sun that had arisen from the east, * and he convened, like a host of stars that shine forever, * the holy Fathers in what would be the First * Council, he set you on the highest throne, * like a sun in the sky of the Church of Christ, * so that rays of your dogmas * might illumine all humanity."
 
 meMA.Lauds4.mode = misc_en_US_dedes.Mode4
 meMA.Lauds4.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
-meMA.Lauds4.text = ""
+meMA.Lauds4.text = "You brought the Bread that is higher than the heavens, * the offering that is bloodless, to the Ruler of all, * and as a bishop offered yourself, O Metrophanis, * as an acceptable sacrifice to God. * Hence, He smelled your incense, which was spiritually sweet; * it breathed of spices and sweet perfume, the pleasant fragrance * of all your virtues and godly words and deeds. * Now you are standing near the Savior's throne, * and with confidence offer the sacrifice * that is bloodless, O Father, * and illumine us who sing your praise."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.text = "O wise Metrophanes, you were shown to be a God-chosen Father, the Church of Christ being our illustrious Mother. Mystically you became the noble bridegroom of the chosen bride of the King of heaven. By the Holy Spirit, you begot countless children in the baptismal font, and you led them through faith to the invisible Father. Thus you multiplied the talent that was given to you, and rejoicing you entered the heavenly bridal hall, where you celebrate with the hosts of the first-born saints, and you intercede on behalf of our souls."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
 meMA.LaudsTheotokion.melody = ""
