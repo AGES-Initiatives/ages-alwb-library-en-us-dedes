@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m06.d22_en_US_dedes
 
 meDate.text = "June 22" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of the Holy Hieromartyr Eusebius, Bishop of Samosata" //full title of day
+meShortCommemoration1.text = "Memory of Hieromartyr Eusebius of Samosata"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" //for use in petitions and dismissal
@@ -31,7 +31,7 @@ meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = me.m06.d18_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name

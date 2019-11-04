@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m06.d23_en_US_dedes
 
 meDate.text = "June 23" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of the Holy Martyr Agrippina" //full title of day
+meShortCommemoration1.text = "Memory of the Holy Martyr Agrippina"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" //for use in petitions and dismissal
@@ -31,7 +31,7 @@ meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = "Lady, I implore you now, the cleanest Palace of God the King, * holy Virgin extolled by all. * Purify my intellect, soiled by my shameful * thoughts and sinful actions. Make it a dwelling that is bright * and a delight for the Holy Trinity, * that I your worthless supplicant may magnify you for saving me, * for your limitless mercy and intercessions on my behalf."
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
