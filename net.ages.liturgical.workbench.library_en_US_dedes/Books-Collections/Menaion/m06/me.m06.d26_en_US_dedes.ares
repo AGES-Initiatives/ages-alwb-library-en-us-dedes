@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m06.d26_en_US_dedes
 
 meDate.text = "June 26" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "Memory of our Devout Father David of Thessaloniki" // full title of day
-meShortCommemoration1.text = "Memory of our Devout Father David of Thessaloniki"
+meShortCommemoration1.text = "Memory Devout St. David of Thessaloniki"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
@@ -19,23 +19,23 @@ meDismissal = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode8
 meVE.Stichera01.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.text = "David, holy father truly blest, * you exercised self-control, * thereby burnishing mind and heart, * and you soared on wings of prayer * to the First Cause all things good. * You were a pillar of most resplendent light, * by words and wonders illuminating all * people who came to you * with a godly attitude at any time. * Therefore we now call you blessed and we honor you."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode8
 meVE.Stichera02.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.text = "Father, you went up an almond tree; * and like a sweet-sounding bird * builds a nest, you set up a hut, * where you shivered in the cold * and were scorched by the summer's heat. * Becoming perfect in virtue, you received * divine dispassion, like golden wings from God. * Now having made your home * in the heights of heaven, you entreat the Lord * always on behalf of us who are extolling you."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode8
 meVE.Stichera03.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = "By dispassion, like a coal, you burned * all carnal pleasure away. * Thus when you held the burning coals * in your hands, you were not burned, * when you met with the Emperor. * He was impressed and amazed at how you glowed * with divine light, as a God-inspired Saint. * Therefore he granted you * your requests, and also he obtained a great * intercessor with the Lord, O blessed David, in you."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = "Wretched as I am, I often sin, * and I am sure I enrage * my Creator and God each day, * and I am very afraid * of eternal perdition in hell, * and of the flame of the fire that is not quenched * and of the fierceness worms that never die. * Save me from these, I pray, * O all-lauded Lady, praying your humane * Son and God, entreating Him with words on my behalf."
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = "As all creation was witnessing * You, Savior, crucified, * it was struck with astonishment. * It reacted violently, * and the earth quaked, unable to bear * that You should suffer unjustly, O good Lord. * Also, Your pure Virgin Mother cried aloud * tearfully, \"Woe is me! * O my sweetest Son, what is this that I see? * What is this sensational and shocking spectacle?\""
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
