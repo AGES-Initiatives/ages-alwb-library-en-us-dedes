@@ -50,11 +50,6 @@ meVE.ProphecyTroparion2.mode = misc_en_US_dedes.Mode6
 meVE.ProphecyTroparion2.text = "By the greatness of Your mercy, You, O Savior, showed yourself to sinners and publicans. Where else was Your light to shine, if not among those who sit in darkness. Glory to You."
 meVE.ProphecyTroparion2Refrain.text = "Where else was Your light to shine, if not among those who sit in darkness. Glory to You."
 
-meVE.TheotokosHymn.mode = ""
-meVE.TheotokosHymn.text = eu.lichrysbasil_en_US_dedes.euLI.Key1328.basil.text
-
-meVE.MM.CommunionHymn.text = properties_en_US_dedes.media.key
-
 //Great Water Blessing for Jan 6 Epiphany
 meGW.title = ""
 meGW.translator = ""
@@ -145,12 +140,14 @@ meVE.Lity5.text = ""
 meVE.LityGlory.poet = poets_en_US_dedes.IoannouMonachou
 meVE.LityGlory.mode = misc_en_US_dedes.Mode8
 meVE.LityGlory.melody = ""
-meVE.LityGlory.text = ""
+meVE.LityGlory.text = "O Lord, when You wished to accomplish what You had of old determined to do, You engaged ministers from all creation to perform Your mystery: Gabriel from the Angels; the Virgin from mankind; the Star from the heavens; and from the waters, the Jordan River, in which You blotted out the world's transgression. O our Savior, glory to You!"
 
 meVE.LityBoth.poet = poets_en_US_dedes.Anatoliou
 meVE.LityBoth.mode = misc_en_US_dedes.Mode8
 meVE.LityBoth.melody = ""
-meVE.LityBoth.text = ""
+meVE.LityBoth.text = "Nature is illumined today. The universe celebrates today, everyone in heaven as well as on earth. Angles and humans are mingling; for wherever the King is, His retinue goes there as well. So let us all run to the Jordan River; and we shall see John there, and witness how he baptizes the Master's head, which is spiritual and sinless. And now, in the words of the Apostle, let us sing together and cry out: \"The grace of God has appeared for the salvation of all men,\" enlightening believers and granting them the great mercy."
+
+meVE.MM.LityBothasGloryBoth.text = properties_en_US_dedes.media.key
 
 meVE.Aposticha1.poet = poets_en_US_dedes.Anatoliou
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
