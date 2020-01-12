@@ -13,14 +13,13 @@ hoCA.Apolytikion1.mode = misc_en_US_dedes.Mode4
 hoCA.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 hoCA.Apolytikion1.text = ""
 
-
 hoCA.Acrostic.text = "Acrostic of the Theotokia: \"Seraphim.\""
 hoCA.verse = prayers_en_US_dedes.verse_SaintM.text
 
 hoCA.Ode11.ode = misc_en_US_dedes.Ode1
 hoCA.Ode11.mode = misc_en_US_dedes.Mode8
 hoCA.Ode11.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
-hoCA.Ode11.text = "By your entreaties, as you pray to God for all, O sacred Nicholas, * drive away the dark cloud of depression over me, * for you are filled abundantly with divine joy and gladness * because you stand in the presence of * Christ the King of all, O all-blessed Saint."
+hoCA.Ode11.text = "By your entreaties, as you pray to God for all, O sacred Nicholas, * drive away the dark cloud of despair that covers me, * for you are filled abundantly with divine joy and gladness * because you stand in the presence of * Christ the King of all, O all-blessed Saint."
 
 hoCA.Ode12.ode = misc_en_US_dedes.Ode1
 hoCA.Ode12.mode = misc_en_US_dedes.Mode8
@@ -152,7 +151,19 @@ hoCA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 hoCA.PostGospelHymn1.mode = misc_en_US_dedes.Mode6
 hoCA.PostGospelHymn1.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
-hoCA.PostGospelHymn1.text = ""
+hoCA.PostGospelHymn1.text = "I led my entire life in carefree ease and indifference.
+I am near the end of it, and I find myself devoid of spiritual fruits.
+All I have is the load of my sinful actions.
+O good Lord who loves humanity,
+take my unbearable burdens, in an act of mercy to me.
+And grant compunction and sincere repentance to me that I might be saved,
+by the intercessions of Your all-holy Mother, O my God,
+and of all-blessed St. Nicholas,
+which You hear when they are invoked.
+
+of your all- holy Mother, which you hear
+when we invoke them, O Christ my God
+and of your St. Nicholas."
 
 hoCA.Ode71.ode = misc_en_US_dedes.Ode7
 hoCA.Ode71.mode = misc_en_US_dedes.Mode8
@@ -218,19 +229,19 @@ hoCA.Meg00.text = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = misc_en_US_dedes.Heirmos
 hoCA.Meg01.text = he.h.m6_en_US_dedes.TinTimioteran.text
 hoCA.Meg02.melody = he.h.m6_en_US_dedes.TinTimioteran.name
-hoCA.Meg02.text = "Blessed Father Nicholas, come to us * now and when we need you to protect us and keep us safe. * Rescue us from dangers on land and sea, and save us * who magnify you as we fervently call your name."
+hoCA.Meg02.text = "Blessed Father Nicholas, come to us * now and when we need you to protect us and keep us safe. * Rescue us from perils on land and sea, and save us * who fervently invoke you, and who extol your name."
 hoCA.Meg03.melody = he.h.m6_en_US_dedes.TinTimioteran.name
-hoCA.Meg03.text = ""
+hoCA.Meg03.text = "You are the consistently good repute * of the holy fathers, and the Trinity's pure abode. * You defend the faithful, you comfort the afflicted; * and therefore we salute you, O Father Nicholas."
 hoCA.Meg04.melody = he.h.m6_en_US_dedes.TinTimioteran.name
-hoCA.Meg04.text = ""
+hoCA.Meg04.text = "You are our physician when we are ill; * you take care of orphans; you give rich blessings to the poor. * Rescuer and and savior of travelers in danger, * you hearten those in trouble, wise Father Nicholas!"
 hoCA.Meg05.melody = he.h.m6_en_US_dedes.TinTimioteran.name
-hoCA.Meg05.text = ""
+hoCA.Meg05.text = "We are proud to call you our Patron Saint, * for you rescue captives and you save travelers at sea, * you support the poor, you defend widows and orphans, * and also feed the hungry, all-blessed Nicholas."
 hoCA.Meg0F.melody = he.h.m6_en_US_dedes.TinTimioteran.name
 hoCA.Meg0F.text = ho.s23_en_US_dedes.hoCA.Meg0F.text
 
 hoCA.Troparion1.mode = misc_en_US_dedes.Mode2
 hoCA.Troparion1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-hoCA.Troparion1.text = ""
+hoCA.Troparion1.text = oc.m2.d5_en_US_dedes.ocVE.Stichera6.text
 
 hoCA.Troparion2.mode = misc_en_US_dedes.Mode2
 hoCA.Troparion2.melody = ""
