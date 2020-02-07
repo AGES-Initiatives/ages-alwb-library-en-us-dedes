@@ -49,7 +49,7 @@ meSV.Aposticha3.text = "\"Virgin Maid, the Holy Spirit of the Lord will come upo
 
 meSV.AposGlory.mode = misc_en_US_dedes.Mode4
 meSV.AposGlory.melody = ""
-meSV.AposGlory.text = meVE.Aposticha1.text
+meSV.AposGlory.text = "In the sixth month, the Archangel was sent to the Virgin pure. He said to her to rejoice, and he announced that the Redeemer would be born from her. When she accepted the salutation with faith, she conceived You, the pre-eternal God, Who were well pleased ineffably to become man to save our souls."
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode6
 meVE.Stichera01.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
@@ -73,7 +73,7 @@ meVE.SticGlory.text = "From the heavens, the Archangel Gabriel was sent down to 
 meVE.Lity1.poet = poets_en_US_dedes.Vyzantos
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
 meVE.Lity1.melody = ""
-meVE.Lity1.text = "In the sixth month, the chief Commander of the Angels was sent to you the pure Virgin, to disclose to you the tidings of salvation, and also to salute you: \"Rejoice, Maiden full of grace, the Lord is with you. You shall bear a Son who was begotten of the Father before all ages. And He shall save His people from their transgressions.\""
+meVE.Lity1.text = meSV.SticGlory.text
 
 meVE.Lity2.poet = poets_en_US_dedes.Anatoliou
 meVE.Lity2.mode = misc_en_US_dedes.Mode1
@@ -87,15 +87,15 @@ meVE.Lity3.text = "The Angel Gabriel was sent from heaven by God to the undefile
 meVE.LityGlory.poet = poets_en_US_dedes.KosmaMonachou
 meVE.LityGlory.mode = misc_en_US_dedes.Mode2
 meVE.LityGlory.melody = ""
-meVE.LityGlory.text = "Gabriel annunciates good tidings today to her who is full of grace: \"Rejoice, O Maiden unmarried and unwed. Be not astonished by my strange appearance, nor be dismayed. For an Archangel am I. The serpent once beguiled Eve, but I am now announcing to you the joy. You shall remain inviolate, and yet shall bear the Lord, O Immaculate.\""
+meVE.LityGlory.text = me.m03.d24_en_US_dedes.meVE.SticGlory.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha1.melody = ""
-meVE.Aposticha1.text = "In the sixth month, the Archangel was sent to the Virgin pure. He said to her to rejoice, and he announced that the Redeemer would be born from her. When she accepted the salutation with faith, she conceived You, the pre-eternal God, Who were well pleased ineffably to become man to save our souls."
+meVE.Aposticha1.text = meSV.AposGlory.text
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha2.melody = ""
-meVE.Aposticha2.text = "The Theotokos heard a tongue she knew not. For the Archangel spoke to her the words of the Annunciation. When she accepted the salutation with faith, she conceived You, the pre-eternal God. We also greatly rejoice, and we say to You: O God, Who without changing became incarnate of her, grant peace to the world, and great mercy to our souls."
+meVE.Aposticha2.text = me.m03.d24_en_US_dedes.meMA.AposGlory.text
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha3.melody = ""
@@ -139,7 +139,7 @@ meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 meMA.PostGospelIdiomelon.poet = poets_en_US_dedes.KosmaMonachou
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = meVE.LityGlory.text
+meMA.PostGospelIdiomelon.text = me.m03.d24_en_US_dedes.meVE.SticGlory.text
 
 meMA.C1Poet = poets_en_US_dedes.IoannouMonachou
 meMA.C1Acrostic.text = ""
