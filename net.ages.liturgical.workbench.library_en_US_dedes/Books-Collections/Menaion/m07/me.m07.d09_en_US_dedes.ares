@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m07.d09_en_US_dedes
 
 meDate.text = "July 9"
-meCommemoration.text = "Memory of the holy Hieromartyr Pankratios, Bishop of Tauromenium." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of the holy Hieromartyr Pankratios, Bishop of Tauromenium" // full title of day
+meShortCommemoration1.text = "Memory of the holy Hieromartyr Pankratios"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
@@ -30,7 +30,7 @@ meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
 meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = oc.m2.d5_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode2
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
