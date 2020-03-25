@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m07.d31_en_US_dedes
 
 meDate.text = "July 31"
-meCommemoration.text = "Memory of the Holy and Righteous Evdokimos; and Forefeast of the Procession of the Holy Cross." // full title of day
+meCommemoration.text = "Memory of the Holy and Righteous Evdokimos; and Forefeast of the Procession of the Holy Cross" // full title of day
 meShortCommemoration1.text = "Memory of the Holy and Righteous Evdokimos"
 meCom1.title = ""
 meCom2.title = ""
@@ -46,11 +46,11 @@ meVE.SticGlory.text = "The remembrance of every righteous man is observed with e
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode2
 meVE.SticBoth.melody = ""
-meVE.SticBoth.text = ""
+meVE.SticBoth.text = me.m09.d14_en_US_dedes.meVE.Lity6.text
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = me.m09.d14_en_US_dedes.meMA.PostGospelIdiomelon.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name

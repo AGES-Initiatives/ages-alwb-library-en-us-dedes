@@ -2,11 +2,11 @@ A_Resource_Whose_Name = me.m07.d15_en_US_dedes
 
 meDate.text = "July 15"
 meCommemoration.text = "Memory of the Holy Martyrs Kerykos and his Mother Julitta." // full title of day
-meShortCommemoration1.text = ""
+meShortCommemoration1.text = "Memory of the Holy Martyrs Kerykos and Julitta"
 meCom1.title = ""
 meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
+meInsert1 = "of the holy and glorious Martyrs Kerykos and his Mother Julitta," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Holy Martyrs Kyrikos and Julitta."
 meLE.commemoration2 = ""
@@ -30,7 +30,7 @@ meVE.Stichera03.text = "Saint Julitta most admirable, * you experienced manifold
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Everyone, come and see a strange and extraordinary sight. Who has ever seen a three-year-old boy put a tyrant to shame? How marvelous! He was nursing from his mother, and as he suckled he said to her, \"Don't be frightened, my mother; don't be frightened by the threats of the ruler of this world. For Christ is the hope of those who believe in Him.\""
+meVE.SticGlory.text = "Everyone, come and see a strange and extraordinary sight. Who has ever seen a three-year-old boy put a tyrant to shame? How marvelous! He was nursing from his mother, and as he suckled he said to her, \"Mama, don't be frightened by the threats of the terrible ruler of this world. For Christ is the hope of those who believe in Him.\""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.SticTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
@@ -77,7 +77,7 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = "The three-year-old proclaimed the Trinity; the nursling strengthened his mother, \"Mama, stop crying. Our Creator is watching from above, and He saves our souls.\""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.AposTheotokion.melody = ""

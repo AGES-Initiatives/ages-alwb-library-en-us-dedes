@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m07.d16_en_US_dedes
 
 meDate.text = "July 16"
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of the Holy Hieromartyr Athenogenes" //full title of day
+meShortCommemoration1.text = "Memory of the Holy Hieromartyr Athenogenes"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" //for use in petitions and dismissal
@@ -30,7 +30,7 @@ meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = "O all-immaculate Maid, we pray * to you our aid and defense. * We are caught in adversity. * Do not overlook us now, * lest we all parish utterly. * But quickly come to our aid and rescue us * out of the trouble and wrath besetting us. * You, who by all are called * blessed, O all-holy Lady, are indeed * for us unassailable defense and help in need." //similar to me.m03.d04_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
