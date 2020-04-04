@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m08.d27_en_US_dedes
 
 meDate.text = "August 27"
-meCommemoration.text = "Memory of our Devout Father Pimen." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of our Devout Father Pimen" // full title of day
+meShortCommemoration1.text = "Memory of our Devout Father Pimen"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
@@ -30,7 +30,7 @@ meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
-meVE.SticTheotokion.text = "Wretched soul, to whom shall I liken you, * insubordinate and wholly unrepentant as you are, * and persistent in your evils, unafraid of hell and fire? * Arise now, cry out to the Mother of our God, * for only she can come to help you speedily. * \"O Virgin Mother, entreat your Son, * who is our God, earnestly I pray, * to rescue me * from the traps the devil lays for me.\""
+meVE.SticTheotokion.text =  me.m06.d18_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
