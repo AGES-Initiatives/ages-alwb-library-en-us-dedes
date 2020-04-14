@@ -1,14 +1,14 @@
 A_Resource_Whose_Name = me.m08.d03_en_US_dedes
 
 meDate.text = "August 3"
-meCommemoration.text = "Memory of our Devout Fathers Isaakius, Dalmatus and Faustus" // full title of day
-meShortCommemoration1.text = "Memory of our Devout Fathers Isaakius, Dalmatus and Faustus"
+meCommemoration.text = "Memory of our Devout Fathers Isakius, Dalmatus and Faustus" // full title of day
+meShortCommemoration1.text = "Memory of our Devout Fathers Isakius, Dalmatus and Faustus"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Our Venerable Fathers Isaakios, Dalmatos, and Faustos."
+meLE.commemoration1 = "Our Venerable Fathers Isakios, Dalmatos, and Faustos."
 meLE.commemoration2 = ""
 meHO.number = ""
 meHO.rank = ""
@@ -39,7 +39,7 @@ meVE.SticStavrotheotokion.text = me.m07.d15_en_US_dedes.meVE.AposStavrotheotokio
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
 meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.TisErimouPolitis.name
-meVE.Apolytikion1.text = "Let us honor the three-member chorus of devout men, * Faustus, Isaakius, and Dalmatus the glorious. * With virtues, like a lamp with three lights, they drive away the passions like the night. * With the gifts of grace that they received from God * they shine on those who cry aloud: * \"Glory to Him who made you wondrous! * Glory to Him who magnified you! * Glory to Him who through you works healings and cures for all.\""
+meVE.Apolytikion1.text = "Let us honor the three-member chorus of devout men, * Faustus, Isakius, and Dalmatus the glorious. * With virtues, like a lamp with three lights, they drive away the passions like the night. * With the gifts of grace that they received from God * they shine on those who cry aloud: * \"Glory to Him who made you wondrous! * Glory to Him who magnified you! * Glory to Him who through you works healings and cures for all.\""
 
 meMA.C1Acrostic.text = ""
 
@@ -174,10 +174,10 @@ meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m8_en_US_dedes.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode6
-meMA.Kontakion1.melody = he.a.m6_en_US_dedes.TinEnPresveiais.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.melody = he.a.m6_en_US_dedes.TinEnPresveiais.notmetered
+meMA.Kontakion1.text = "With hymns let us extol Isakios, Dalmatus and Faustus. In the world they excelled in ascetic discipline, and with faith they overturned the heresies. They were servants of Christ, and they pray to Him for all of us."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "Who among men is able to describe the illustrious virtues and feats of these devout Fathers: their zeal for God, their confidence before Him, the purity of their life, and the godly deeds that they performed on earth as if angels? In any case, we join them in faithfully honoring the Trinity, as they ever join the choirs of angels in cheerfully entreating God, and they pray for us all."
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -256,11 +256,12 @@ meMA.Ode9H.text = he.h.m8_en_US_dedes.EfrixePasaAkoi.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.text = "Dalmatus, Faustus, the sublime, * and wonderful Isakios, * O heavenly-minded Fathers, * who dwell together with Angels, * unceasingly remember us * in supplication to the Lord, * near whom you stand, O holy men; * and pray for us now observing * your memory, bright and festive."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-meMA.ExapTheotokion.text = ""
+meMA.ExapTheotokion.text = "The passions that distort the soul, * alas! have dominated me. * I pray you, Mary Madonna, * to quickly emancipate me * and draw me to sweet servitude * to you and to your Son and God;
+and I will duly extol you, * immaculate Theotokos, * the hope of Christian believers."
 
 meMA.ExapStavrotheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapStavrotheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name

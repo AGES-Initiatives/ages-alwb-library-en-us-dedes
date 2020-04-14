@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m08.d08_en_US_dedes
 
 meDate.text = "August 8"
-meCommemoration.text = "Memory of St. Aimilianos, Bishop of Cyzicus" //full title of day
-meShortCommemoration1.text = "Memory of St. Aimilianos, Bishop of Cyzicus"
+meCommemoration.text = "Memory of St. Emelian, Bishop of Cyzicus" //full title of day
+meShortCommemoration1.text = "Memory of St. Emelian, Bishop of Cyzicus"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" //for use in petitions and dismissal
@@ -72,7 +72,7 @@ meMA.Kathisma11.text = me.m08.d06_en_US_dedes.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma21.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
-meMA.Kathisma21.text = ""
+meMA.Kathisma21.text = "When transfigured on the Mount * Tabor, O Savior, You showed * Your chief Disciples Your divine and holy glory, O Christ. * It was Your unaltered Godhead that You let shine. * You summoned Prophets Moses and Elias to You, * and they conversed with You in the cloud of light. * And therefore Peter said, \"O merciful Master, * it is good to be here with You.\" * O Lord who then shined Your light upon them, * do also illuminate our souls."
 
 meMA.C1Acrostic.text = ""
 
@@ -274,11 +274,11 @@ meMA.Ode9H.text = he.h.m1_en_US_dedes.TyponTisAgnis.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.text = "When that semi-barbarian * brute of an emperor, Leo, * came out against the Church of Christ, * like insatiable Hades, * with orders banning the honor * due to the holy Icons, * then you, O St. Emelian, * strenuously refuted the most profane * and blasphemous heresy of the tyrant, * by whom you were subjected to * exiles and much affliction."
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.text = me.m08.d07_en_US_dedes.meMA.Exaposteilarion2.text
 
 meMA.Aposticha1.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
@@ -302,7 +302,7 @@ meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
 meLI.Kontakion1.text = ""
 
-meMegalynarion.text = "Rightly we salute you and say, Rejoice, * Cyzicus's shepherd, godly Hierarch of the Church. * Rejoice, O defender of the most sacred icons, * support of the believers, O Aimilianos."
+meMegalynarion.text = "Rightly we salute you and say, Rejoice, * Cyzicus's shepherd, godly Hierarch of the Church. * Rejoice, O defender of the most sacred icons, * support of the believers, O St. Emelian."
 
 alt1.meShortCommemoration1.text = "Memory of the holy Neomartyr Triantaphyllos"
 alt1.meMegalynarion.text = "We salute you, peer of martyrs of old, * as Christ's Neomartyr, Triantaphyllos, O rejoice! * You gave testimony and called yourself a Christian * before ungodly tyrants, steadfast in mind and heart."
