@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m08.d18_en_US_dedes
 
 meDate.text = "August 18"
-meCommemoration.text = "Memory of the Holy Martyrs Florus and Lavrus" // full title of day
-meShortCommemoration1.text = "Memory of the Holy Martyrs Florus and Lavrus"
+meCommemoration.text = "Memory of the Holy Martyrs Florus and Laurus" // full title of day
+meShortCommemoration1.text = "Memory of the Holy Martyrs Florus and Laurus"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
@@ -46,7 +46,7 @@ meVE.SticGlory.text = me.m08.d15_en_US_dedes.meVE.Aposticha1.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
 meVE.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = "Open, O pearly gates * of heaven; for the Mother * of the Most High is coming. * The pure and holy Virgin has died and is arriving now."
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode2
 meVE.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
@@ -54,7 +54,7 @@ meVE.Aposticha2.text = me.m08.d15_en_US_dedes.meSV.Aposticha3.text
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode2
 meVE.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.text = "Lead the singing, O hosts * of heaven, with the Mystics * of Christ, for they have come now * from everywhere to bury the only Mother of our God."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode4
 meVE.AposGlory.melody = ""
@@ -288,7 +288,7 @@ meMA.Ode9H.text = he.h.m8_en_US_dedes.ExestiEpiTouto.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.text = "All-honored Saints, with faith we touch * your holy relics and become * healthy and strong in body * and soul, O Laurus and Florus. * Great Martyrs, now we pray to you * who stand before the Lord of all: * Remember us to the Master, * as we are now celebrating * your memory, bright and festive."
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode3
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
@@ -296,15 +296,15 @@ meMA.Exaposteilarion2.text = me.m08.d16_en_US_dedes.meMA.Exaposteilarion2.text
 
 meMA.Aposticha1.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha1.text = ""
+meMA.Aposticha1.text = "Rejoice, Gethsemane, * the consecrated city * of the Theotokos, * wherein the Queen and Lady of the world was laid to rest."
 
 meMA.Aposticha2.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha2.text = ""
+meMA.Aposticha2.text = "The Mother of our God, * the only Theotokos * and the most blessed Lady, * is gloriously transferred from earth into celestial heights."
 
 meMA.Aposticha3.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha3.text = ""
+meMA.Aposticha3.text = "Solemnly sing, all you * angelic choirs of heaven; * for now the Virgin Mother * is gloriously transferred from earth into celestial heights."
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode4
 meMA.AposGlory.melody = ""

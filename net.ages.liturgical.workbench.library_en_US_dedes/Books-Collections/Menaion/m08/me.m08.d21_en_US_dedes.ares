@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m08.d21_en_US_dedes
 
 meDate.text = "August 21"
-meCommemoration.text = "Memory of the Holy Apostle Thaddeus and the Holy Martyr Vassa" //full title of day
-meShortCommemoration1.text = "Memory of the Holy Apostle Thaddeus and the Holy Martyr Vassa"
+meCommemoration.text = "Memory of the Holy Apostle Thaddeus and the Holy Martyr Bassa" //full title of day
+meShortCommemoration1.text = "Memory of the Holy Apostle Thaddeus and the Holy Martyr Bassa"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" //for use in petitions and dismissal
@@ -30,15 +30,15 @@ meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera04.text = ""
+meVE.Stichera04.text = "You approached your martyrdom with holy fervor, and you endured * many torments with fortitude, * O Martyr extolled by all. And then you were taken * to a place of rest, never-setting light and glowing joy, * divine enjoyment that lasts forevermore. * O God-inspired medaled Saint, we call you blessed as we observe * this divine and all-festive day * of your all-holy memory."
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode4
 meVE.Stichera05.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera05.text = ""
+meVE.Stichera05.text = "After you endured diverse and painful tortures, O Martyr Saint, * you were cast out into the sea. * But God, the Savior of all, rescued you, O Bassa. * Thus is was you trampled the devil's power by the might * of God, O Athlete who suffered much for Him. * And then performing mighty signs, incomprehensible miracles, * you illumined the minds and heart * of the faithful who honor you."
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera06.text = ""
+meVE.Stichera06.text = "Perched in the all-hallowed grove of your most beautiful martyrdom, * like sweet-singing bird you called * your beautiful nestling sons to join you, O Martyr. * With them, godly-minded and wondrous Bassa, you escaped * the nets and traps of deception set for you. * Together now, you dwell in the celestial mansions, all-blessed Saint, * where you pray for us every day, * interceding on our behalf."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = me.m08.d16_en_US_dedes.meVE.SticGlory.melody
@@ -46,7 +46,7 @@ meVE.SticGlory.text = me.m08.d16_en_US_dedes.meVE.SticGlory.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
 meVE.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = "From everywhere the host * of Christ's Disciples came to * Gethsemane, O Lady * Mother of God, to bury * your body that had hosted God."
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode2
 meVE.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
@@ -312,9 +312,9 @@ meMA.Ode6H.text = he.h.m8_en_US_dedes.IlasthitiMoiSotir.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode3
 meMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "The most joyous festival * of the Apostle is upon us. * Therefore let us merrily with joy today celebrate it. * For he gives, to those who faithfully extol him * every year, freedom from sins and divine strength. * As a mystic of divine grace of Christ the Savior, he prays with confidence."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "Today, let us all extol the Disciple of Christ. Let us honor that eye-witness of the Word. For he proclaimed the all-holy Gospel to the world. He threw his net into the sea of deception and drew up the Gentiles. He pointed out the way of truth, and by it he elevates believers to the heavenly homeland. Now standing aglow near the throne of God, he gives abundant illumination to those who enthusiastically honor him. As a mystic of divine grace of Christ the Savior, he prays with confidence."
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -471,15 +471,16 @@ meMA.Exaposteilarion2.text = me.m08.d16_en_US_dedes.meMA.Exaposteilarion2.text
 
 meMA.Aposticha1.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha1.text = ""
+meMA.Aposticha1.text = "Lovingly we observe * the feast of your Dormition, * O Virgin Theotokos, * We pray that you will always remember us who celebrate."
 
 meMA.Aposticha2.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha2.text = ""
+meMA.Aposticha2.text = "\"Come to me, O my Son's * Disciples,\" said the Virgin, * \"and sing at my departure, *each one of you, a hymn that is fitting for this sacred feast.\""
 
 meMA.Aposticha3.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha3.text = ""
+meMA.Aposticha3.text = "Company of divine * Disciples, come on clouds now; * assemble for the only * 
+Mother of God, and bury her body that had hosted God."
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode2
 meMA.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
