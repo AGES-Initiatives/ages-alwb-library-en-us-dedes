@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m05.d12_en_US_dedes
 
 meDate.text = "May 12" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Fathers among the Saints, Epiphanios Bishop of Cyprus, and Germanos Archbishop of Constantinople" //full title of day
-meShortCommemoration1.text = "Memory of Sts. Epiphanios of Cyprus and Germanos of Constantinople"
+meCommemoration.text = "Memory of our Fathers among the Saints, Epiphanios Bishop of Cyprus, and Germanus Archbishop of Constantinople" //full title of day
+meShortCommemoration1.text = "Memory of Sts. Epiphanios of Cyprus and Germanus of Constantinople"
 meCom1.title = "For St. Epiphanios."
-meCom2.title = "For. St. Germanos."
+meCom2.title = "For. St. Germanus."
 meInsert1 = "our Fathers among the Saints, Epiphanios Bishop of Cyprus, and Germanos Archbishop of Constantinople," //for use in petitions and dismissal
 meInsert2 = "whose memory we observe," //for use in petitions and dismissal
 meNote.text = ""
@@ -42,11 +42,11 @@ meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Even though you were an offspring of the Jewish religion, and had been obedient to the Law of Moses, yet the grace of Christ shined in you, O father Epiphanios, and it made you a disciple of the Gospel of peace. From that time on, as you wisely perceived how the one Testament was fulfilled by the other, you progressed from being a servant to freedom. Therefore, earnestly pray for us, for our deliverance from the tyranny of the foe, and for the salvation of our souls."
+meVE.SticGlory.text = "Even though you were an offspring of the Jewish religion, and had been obedient to the Law of Moses, yet the grace of Christ shined in you, O father Epiphanios, and it made you a disciple of the Gospel of peace. From that time on, as you wisely perceived how the one Testament was fulfilled by the other, you progressed from being a slave to being free. Therefore, earnestly pray for us, for our deliverance from the tyranny of the foe, and for the salvation of our souls."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode5
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "O blessed Epiphanios, you became a teacher of the Orthodox Faith, because of your spiritual wisdom. With Christ as your guide, you frustrated the intentions of the misbelieving heretics. Therefore, we pray to you, O Saint: Intercede that till the end of time we preserve unshaken the Faith the you confirmed as being correct, and that our souls may receive the great mercy from the Savior of all."
+meVE.AposGlory.text = "O blessed Epiphanios, you became a teacher of the Orthodox Faith, because of your spiritual wisdom. With Christ as your guide, you frustrated the intentions of the misbelieving heretics. Therefore, we pray to you, O Saint: Intercede that till the end of time we preserve unshaken the Faith you confirmed as being correct, and that our souls may receive the great mercy from the Savior of all."
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = ""
@@ -81,7 +81,7 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C1T.melody = he.h.m1_en_US_dedes.SouITropaiouchos.name
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = "Canon for St. Germanos."
+meMA.C2.title = "Canon for St. Germanus."
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
@@ -435,13 +435,13 @@ meMA.Ode9H.text = he.h.m1_en_US_dedes.TyponTisAgnis.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-meMA.Exaposteilarion1.text = "Come, O believers, let us sing * our sacred hymns in honor of * the two divine and all-sacred * holy Hierarchs and fathers, * divine Saints Epiphanios and Germanos, who put an end * to the darkness of heresies, * and who illumined the whole world * with rays of the true, correct Faith."
+meMA.Exaposteilarion1.text = "Come, O believers, let us sing * our sacred hymns in honor of * the two divine and all-sacred * holy Hierarchs and fathers. * The godly Epiphanios and St. Germanus put an end * to the darkness of heresies, * and they illumined the whole world * with rays of the true, correct Faith."
 
 meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode8
 meMA.AposGlory.melody = ""
-meMA.AposGlory.text = "O father Germanos, you devoted yourself to the study of holy Scripture, and by its rays your mind was illumined. Thus filled with light, you became a pure vessel of the most sacred episcopacy. Then, you led the flock of Christ into life-giving pastures, with your wise teachings. With proofs from the Scriptures, you exposed the heresy of the iconoclasts. You became a defender of the Orthodox Faith, and you endured imprisonment and afflictions. Now, as you stand near Christ, intercede on behalf of our souls."
+meMA.AposGlory.text = "O father Germanus, you devoted yourself to the study of holy Scripture, and by its rays your mind was illumined. Thus filled with light, you became a pure vessel of the most sacred episcopacy. Then, you led the flock of Christ into life-giving pastures, with your wise teachings. With proofs from the Scriptures, you exposed the heresy of the iconoclasts. You became a defender of the Orthodox Faith, and you endured imprisonment and afflictions. Now, as you stand near Christ, intercede on behalf of our souls."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
