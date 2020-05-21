@@ -25,9 +25,11 @@ peVE.Stichera03.mode = pe.d120_en_US_dedes.peMA.Lauds3.mode
 peVE.Stichera03.melody = ""
 peVE.Stichera03.text = pe.d120_en_US_dedes.peMA.Lauds3.text
 
-peVE.SticGlory.mode = pe.d120_en_US_dedes.peMA.LaudsGlory.mode
-peVE.SticGlory.melody = pe.d120_en_US_dedes.peMA.LaudsGlory.melody
-peVE.SticGlory.text = pe.d120_en_US_dedes.peMA.LaudsGlory.text
+peVE.MM.Stichera123as567.text = properties_en_US_dedes.media.key
+
+peVE.SticGlory.mode = misc_en_US_dedes.Mode6
+peVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
+peVE.SticGlory.text = pe.d120_en_US_dedes.peVE.Aposticha3.text
 
 pePE.Prayer1.rubric = ""
 pePE.Prayer1.title = ""
@@ -77,7 +79,7 @@ peVE.Aposticha1.text = "Now the tongues have become apparent, as a sign for all.
 
 peVE.Aposticha2.mode = misc_en_US_dedes.Mode3
 peVE.Aposticha2.melody = misc_en_US_dedes.Idiomelon
-peVE.Aposticha2.text = "Now the Spirit, the Comforter, is poured out on all flesh. It started with the host of the Apostles, and from them It spread out the grace to the believers by participation. Its mighty coming is confirmed by distributing the tongues in the form of fire to the Disciples, to extol and glorify God. So, now that our hearts are noetically illumined, and we are fortified in faith by the Holy Spirit, let us earnestly pray for the salvation of our souls."
+peVE.Aposticha2.text = "Now the Spirit, the Comforter, is poured out on all flesh. He started with the host of the Apostles, and from them He spread out the grace to the believers by participation. His mighty coming is confirmed by distributing the tongues in the form of fire to the Disciples, to extol and glorify God. So, now that our hearts are noetically illumined, and we are fortified in faith by the Holy Spirit, let us earnestly pray for the salvation of our souls."
 
 peVE.Aposticha3.mode = misc_en_US_dedes.Mode3
 peVE.Aposticha3.melody = misc_en_US_dedes.Idiomelon
@@ -144,6 +146,8 @@ peMA.Lauds2.text = pe.d120_en_US_dedes.peVE.Stichera06.text
 peMA.Lauds3.mode = pe.d120_en_US_dedes.peVE.Stichera07.mode
 peMA.Lauds3.melody = pe.d120_en_US_dedes.peVE.Stichera07.melody
 peMA.Lauds3.text = pe.d120_en_US_dedes.peVE.Stichera07.text
+
+peMA.MM.Lauds123as123.text = properties_en_US_dedes.media.key
 
 peMA.LaudsGlory.mode = pe.d120_en_US_dedes.peVE.AposGlory.mode
 peMA.LaudsGlory.melody = pe.d120_en_US_dedes.peVE.AposGlory.melody

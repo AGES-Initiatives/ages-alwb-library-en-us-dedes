@@ -78,7 +78,7 @@ peVE.Aposticha2.text = "O Lord, the coming of the Holy Spirit filled Your Apostl
 
 peVE.Aposticha3.mode = misc_en_US_dedes.Mode6
 peVE.Aposticha3.melody = misc_en_US_dedes.Idiomelon
-peVE.Aposticha3.text = prayers_en_US_dedes.VasilefOuranie.text
+peVE.Aposticha3.text = "Heavenly King, Comforter, Spirit of Truth, present in all places and filling all things, treasury of good things and giver of life: come; take Your abode in us; cleanse us of every stain, and save our souls, O Good one."
 
 peVE.AposGlory.mode = misc_en_US_dedes.Mode8
 peVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
@@ -112,7 +112,7 @@ peMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 peMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 peMA.PostGospelIdiomelon.melody = misc_en_US_dedes.Idiomelon
-peMA.PostGospelIdiomelon.text = prayers_en_US_dedes.VasilefOuranie.text
+peMA.PostGospelIdiomelon.text = peVE.Aposticha3.text
 
 peMA.C1Poet = poets_en_US_dedes.KosmaMonachou
 peMA.C1Acrostic.text = ""
@@ -551,15 +551,17 @@ peMA.Lauds1.text = "Today, all the nations in the city of David saw paradoxical 
 
 peMA.Lauds2.mode = misc_en_US_dedes.Mode4
 peMA.Lauds2.melody = ""
-peMA.Lauds2.text = "The Holy Spirit forever was, and is and will be, never beginning, never ending, but forever ranked and numbered with the Father and the Son. It is life and life-giving, light and giver of light; goodness itself and the source of goodness; through whom the Father is known and the Son is glorified, and by all is known the one power, one order, one worship of the Holy Trinity."
+peMA.Lauds2.text = "The Holy Spirit forever was, and is and will be, never beginning, never ending, but forever ranked and numbered with the Father and the Son. He is life and life-giving, light and giver of light; goodness itself and the source of goodness; through whom the Father is known and the Son is glorified, and by all is known the one power, one order, one worship of the Holy Trinity."
 
 peMA.Lauds3.mode = misc_en_US_dedes.Mode4
 peMA.Lauds3.melody = ""
 peMA.Lauds3.text = "The Holy Spirit is light and life, and a living noetic fount. Spirit of wisdom, Spirit of understanding; good, upright, noetic, ruling, purging offences; God and deifying; He is fire issuing from fire, uttering, inciting, distributing the gifts of grace. Through Him the Prophets and the Apostles of God and the Martyrs all were crowned. Strange to hear, strange to see, fire distributed for the apportioning of gifts."
 
+peMA.MM.Lauds123as123.text = properties_en_US_dedes.media.key
+
 peMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
 peMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
-peMA.LaudsGlory.text = prayers_en_US_dedes.VasilefOuranie.text
+peMA.LaudsGlory.text = peVE.Aposticha3.text
 
 peLI.Antiphon2.text = "Save us, O good Comforter."
 
