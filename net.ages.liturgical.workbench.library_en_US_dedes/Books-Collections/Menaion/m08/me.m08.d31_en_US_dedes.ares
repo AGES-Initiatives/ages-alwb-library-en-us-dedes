@@ -30,7 +30,7 @@ meVE.Stichera03.text = ""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "All-immaculate Theotokos, the Church of God dons your holy Belt as though a most splendid crown. Today she is exultant and beams with joy, as she dances mystically, crying out to you, O Lady. \"Rejoice, O precious diadem and crown of divine glory. Rejoice, the only glory and eternal joy of my complement. Rejoice, O haven and protection and salvation for us who run to you.\""
+meVE.SticGlory.text = "All-immaculate Theotokos, the Church of God dons your holy Belt as though a most splendid crown. Today she is exultant and beams with joy, as she dances mystically, crying out to you, O Lady. \"Rejoice, O precious diadem and crown of divine glory. Rejoice, the only glory and eternal joy of my complement. Rejoice, O haven and protection and salvation for us who run to you.\"" //similar to me.m07.d02.meVE.AposGlory.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha1.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
@@ -46,7 +46,7 @@ meVE.Aposticha3.text = "Virgin, by your holy Belt, gird us with power, and stren
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = "" //similar to me.m07.d02.meVE.SticGlory.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
 meVE.Apolytikion1.melody = ""
