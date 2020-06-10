@@ -31,7 +31,7 @@ meVE.Stichera03.text = "You ever draw up the grace of divine healing * like wate
 meVE.SticGlory.poet = poets_en_US_dedes.Vyzantiou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = "The solemn memory of the holy Unmercenary has arisen today. It invites the faithful to a mystical feast, and it ushers congregations that love to celebrate to his sacred festivities. Our wonder-working physician is here, yes, St. Panteleimon, curing everyone's illnesses. In the contest he was steadfast, and now is earnest interceding with the Lord, for the salvation of our souls."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.SticTheotokion.melody = ""
@@ -86,7 +86,7 @@ meVE.Aposticha3.text = "No one can worthily narrate * the painful martyrdom * th
 meVE.AposGlory.poet = poets_en_US_dedes.Vyzantiou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = "You cherished your mother's Christian faith and corrected your father's wrong beliefs. You were enrolled by the Physician of souls, and you trained in the art of medicine. By grace divine, proficient at both, you were a killer of ills and a healer of souls. Now we pray you, Martyr of Christ Panteleimon, perseverant competing and persistent interceding: entreat Him earnestly that He save our souls."
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.AposTheotokion.melody = ""
@@ -94,11 +94,11 @@ meVE.AposTheotokion.text = oc.m8.d2_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
 meVE.Apolytikion1.melody = ""
-meVE.Apolytikion1.text = "Holy Laurel-bearer and Physician Panteleimon, make intercession to our merciful God, that He grant our souls remission of offenses."
+meVE.Apolytikion1.text = "Holy medaled Martyr and healer St. Panteleimon, make intercession to our merciful God, that He grant our souls remission of offenses."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
 meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-meMA.Kathisma11.text = "All-blessed one, you loved the pious faith of your mother, * and piously set right the wrong beliefs of your father. * And therefore you received the grace from God almighty, O holy one, * great and glorious Panteleimon the Martyr, * to cure the ailments of the sick who run to your shelter * with longing and ardent faith."
+meMA.Kathisma11.text = "All-blessed one, you loved the Christian faith of your mother, * and you convinced your father to convert and adopt it. * You therefore received the grace from God almighty, O holy one, * great and glorious Panteleimon the Martyr, * to cure the illnesses of the sick who  implore you * with reverence and ardent faith."
 
 meMA.Kathisma1T.mode = misc_en_US_dedes.Mode1
 meMA.Kathisma1T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
@@ -106,7 +106,7 @@ meMA.Kathisma1T.text = me.m07.d08_en_US_dedes.meMA.Ode3KathismaT.text
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma21.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
-meMA.Kathisma21.text = "We believers now extol you, O wise one. * You were a soldier of the Lord and unbeatable, * a very brave contestant and the martyrs' pride and joy. * You are praised throughout the world; hence we faithfully honor * your all-holy memory, and your notable contests * we glorify in song, O martyred Saint, * and Christ the Savior we worship and magnify."
+meMA.Kathisma21.text = "We believers now extol you, O wise one. * You were a soldier of the Master, invincible, * courageous, decorated, and the martyrs' pride and joy. * You are praised throughout the world; and we faithfully honor * your all-holy memory, O all-laudable Martyr. * In song we glorify the contests that you won; * and thus we honor and magnify our Savior Christ."
 
 meMA.Kathisma2T.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma2T.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
@@ -114,7 +114,7 @@ meMA.Kathisma2T.text = me.m06.d28_en_US_dedes.meMA.Ode3KathismaT.text
 
 meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
-meMA.Kathisma31.text = "O thrice-blessed martyr saint Panteleimon, * the entire world observes your sacred contests on this day * and glorifies the Giver-of-Life, * for He has made you a powerful patron saint."
+meMA.Kathisma31.text = "On this day, O martyr saint Panteleimon, * your distinguished martyrdom is celebrated everywhere. * We glorify the Giver-of-Life, * for He has made you a powerful patron Saint."
 
 meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
@@ -132,7 +132,7 @@ meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = "Panteleimon, healer divine, beseech the merciful Christ to deliver me from passion and have mercy on me."
+meMA.PostGospelIdiomelon.text = "Panteleimon, healer divine, beseech the merciful Christ to free me from passions and to have mercy on me."
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
 meMA.C1Acrostic.text = ""
@@ -507,7 +507,7 @@ meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion1.text = "Panteleimon, saint most wise, * as the sacred adornment * of the Unmercenary saints * and of the holy Martyrs, * you are the glory of Christians. * From your abode in heaven * pray for our Rulers' victories, * and for world-peace, and for us who sing your praise, * saint of God, implore Him for our salvation, * and intercede for all with her * who is the Theotokos."
+meMA.Exaposteilarion1.text = "Panteleimon, saint most wise, * as the sacred adornment * of the Unmercenary saints * and of the holy Martyrs, * you are the glory of Christians. * From your abode in heaven * pray for all those who govern us, * and for world-peace, and for us who sing your praise, * Saint of God, implore Him for our salvation, * and intercede for all with her * who is the Theotokos."
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode8
 meMA.Lauds1.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
@@ -526,7 +526,7 @@ meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
 meMA.LaudsGlory.poet = poets_en_US_dedes.Vyzantiou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
 meMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
-meMA.LaudsGlory.text = "Today, the memorial of the Trophy-bearer has dawned! Come, faithful, let us celebrate it spiritually, and let us crown him with songs. By the power of the Cross, he manfully defeated the invisible enemy. Being unafraid of the boundless torments of the tyrants, he rightly received the prize of his calling from above. Now and forever he rejoices with the angels. O Martyr of Christ, Panteleimon, healer of the sick and harbor in the storm, do not cease to intercede to our merciful God, that He grant salvation to our souls."
+meMA.LaudsGlory.text = "The memory of the medaled Martyr has arisen today. Come, believers, let us spiritually celebrate, and let us crown him with our songs. He valiantly defeated the unseen enemy, by the power of the Cross. He was not frightened by the countless tortures of the tyrants, but he won according to the rules and received the prize of his calling from above. Now and forever he rejoices with the Angels. \"O Martyr of Christ, St. Panteleimon, healer of the sick and harbor in the storm, do not cease interceding with merciful God, for the salvation of our souls.\""
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
 meMA.LaudsTheotokion.melody = ""
