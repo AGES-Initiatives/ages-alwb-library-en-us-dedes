@@ -7,7 +7,7 @@ meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "of the holy and glorious hieromartyr and Apostle James, the Brother of God," // for use in petitions and dismissal
 meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
-meNote.text = ""
+meNote.text = "The additional materials, Lity, Kathismata, and Post Gospel Idiomelon, not found in the Menaion, were composed in Greek by St. Nikodemos of the Holy Mountain. (Systema Typikou, p. 186)."
 meLE.commemoration1 = "The Holy Apostle Iakovos (James), the Brother of the Lord."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -38,6 +38,18 @@ meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.SticTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 meVE.SticTheotokion.text = ""
 
+alt1.meVE.Lity1.mode = misc_en_US_dedes.Mode1
+alt1.meVE.Lity1.melody = ""
+alt1.meVE.Lity1.text = ""
+
+alt1.meVE.Lity2.mode = misc_en_US_dedes.Mode3
+alt1.meVE.Lity2.melody = ""
+alt1.meVE.Lity2.text = ""
+
+alt1.meVE.LityGlory.mode = misc_en_US_dedes.Mode4
+alt1.meVE.LityGlory.melody = ""
+alt1.meVE.LityGlory.text = ""
+
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode8
 meVE.Aposticha1.melody = he.a.m8_en_US_dedes.KyrieEiKaiKritirio.name
 meVE.Aposticha1.text = ""
@@ -62,44 +74,42 @@ meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "As a disciple of the Lord, you accepted the Gospel, O James the Just. As a Martyr you have unchangeability; as the Brother of the Lord you have confidence; and you can intercede as a hierarch. Intercede with Christ our God, entreating Him to save our souls."
 
-// The Kathismata and Post Gospel Idiomelon, not found in the Menaion, are from Systema Typikou (in Greek) by Protopresbyter Ioannis Papayianis, published in 2006 by the Apostolike Diakonia of the Church of Greece.
+alt1.meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
+alt1.meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+alt1.meMA.Kathisma11.text = "O Brother of the Lord, wise and blessed Apostle * of Christ, O righteous James, the eye-witness and Martyr, * you dwell in the heavens now; by your prayers for us who in faith * celebrate the feast of your memorial, free us, * by the power of the Holy Spirit, from every * transgression oppressing us."
 
-meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
-meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-meMA.Kathisma11.text = "O Brother of the Lord, wise and blessed Apostle * of Christ, O righteous James, the eye-witness and Martyr, * you dwell in the heavens now; by your prayers for us who in faith * celebrate the feast of your memorial, free us, * by the power of the Holy Spirit, from every * transgression oppressing us."
+alt1.meMA.Kathisma1T.mode = misc_en_US_dedes.Mode1
+alt1.meMA.Kathisma1T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+alt1.meMA.Kathisma1T.text = "O Mary, in yourself you amazingly united * the three unheard of pairs, virginity to childbirth, * and God to humanity, also faith to a human heart * that believes in these incomprehensible unions. * In the holy love of your divine Son unite us, * and save us, all-lauded one."
 
-meMA.Kathisma1T.mode = misc_en_US_dedes.Mode1
-meMA.Kathisma1T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-meMA.Kathisma1T.text = "O Mary, in yourself you amazingly united * the three unheard of pairs, virginity to childbirth, * and God to humanity, also faith to a human heart * that believes in these incomprehensible unions. * In the holy love of your divine Son unite us, * and save us, all-lauded one."
+alt1.meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
+alt1.meMA.Kathisma21.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+alt1.meMA.Kathisma21.text = "Your sublime Epistle, James, is beneficial at all times * and continually does good to the holy Church of Christ, * for it instructs all believers to practice good works * consistent with their faith, and with joy to endure * the trials and temptations that befall them in life, * to hold one's tongue, and to know that friendship * with the world is enmity with God, * and to anoint with the holy oil * those who are sick and suffering."
 
-meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
-meMA.Kathisma21.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
-meMA.Kathisma21.text = "Your sublime Epistle, James, is beneficial at all times * and continually does good to the holy Church of Christ, * for it instructs all believers to practice good works * consistent with their faith, and with joy to endure * the trials and temptations that befall them in life, * to hold one's tongue, and to know that friendship * with the world is enmity with God, * and to anoint with the holy oil * those who are sick and suffering."
+alt1.meMA.Kathisma2T.mode = misc_en_US_dedes.Mode4
+alt1.meMA.Kathisma2T.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+alt1.meMA.Kathisma2T.text = "O unwedded Maiden, how did you conceive in the womb * Him who holds the breath of all animate beings in His hands? * Tell us the explanation of your mystery. * \"O man, you seek to know what is entirely true. * But cease now to inquire into the height and depth, * the length and width of my ineffable childbirth, * which is incomprehensible. * It truly baffles all understanding * of both angels and humans.\""
 
-meMA.Kathisma2T.mode = misc_en_US_dedes.Mode4
-meMA.Kathisma2T.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
-meMA.Kathisma2T.text = "O unwedded Maiden, how did you conceive in the womb * Him who holds the breath of all animate beings in His hands? * Tell us the explanation of your mystery. * \"O man, you seek to know what is entirely true. * But cease now to inquire into the height and depth, * the length and width of my ineffable childbirth, * which is incomprehensible. * It truly baffles all understanding * of both angels and humans.\""
+alt1.meMA.Kathisma31.mode = misc_en_US_dedes.Mode3
+alt1.meMA.Kathisma31.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+alt1.meMA.Kathisma31.text = "When you, O James, received the visitation of * the Holy Spirit, you became a temple of * His charismatic gifts of grace, and mystically wrote the text * of the awesome liturgy. * It possesses the scope and breadth * of sublime theology * in its wise phraseology. * You gave it to the Church, a tradition, * O God-bearing Bishop and Martyr."
 
-meMA.Kathisma31.mode = misc_en_US_dedes.Mode3
-meMA.Kathisma31.melody = he.a.m3_en_US_dedes.TinOraiotita.name
-meMA.Kathisma31.text = "When you, O James, received the visitation of * the Holy Spirit, you became a temple of * His charismatic gifts of grace, and mystically wrote the text * of the awesome liturgy. * It possesses the scope and breadth * of sublime theology * in its wise phraseology. * You gave it to the Church, a tradition, * O God-bearing Bishop and Martyr."
+alt1.meMA.Kathisma3T.mode = misc_en_US_dedes.Mode3
+alt1.meMA.Kathisma3T.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+alt1.meMA.Kathisma3T.text = "At your Dormition, O Virgin immaculate, * Saint James the Brother of the Lord was also there, * together with the Savior Christ's other holy Disciples, * so that he might see again your pure body, the source of life, * and might also praise in song the ineffable mystery * of your divine and awe-inspiring childbirth. * As we honor it, we pray you save us."
 
-meMA.Kathisma3T.mode = misc_en_US_dedes.Mode3
-meMA.Kathisma3T.melody = he.a.m3_en_US_dedes.TinOraiotita.name
-meMA.Kathisma3T.text = "At your Dormition, O Virgin immaculate, * Saint James the Brother of the Lord was also there, * together with the Savior Christ's other holy Disciples, * so that he might see again your pure body, the source of life, * and might also praise in song the ineffable mystery * of your divine and awe-inspiring childbirth. * As we honor it, we pray you save us."
+alt1.meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
+alt1.meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
+alt1.meMA.PostGospelGlory.melody = ""
+alt1.meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelApostle.text
 
-meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
-meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelApostle.text
+alt1.meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
+alt1.meMA.PostGospelBoth.melody = ""
+alt1.meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
-meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
-meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
-
-meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
-meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = "As you stand near the throne of Christ the Master, and having confidence towards Him because of your familial closeness, never cease entreating His goodness on our behalf, O James the Brother of God and preeminent kinsman of the Lord."
+alt1.meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
+alt1.meMA.PostGospelIdiomelon.melody = ""
+alt1.meMA.PostGospelIdiomelon.text = "As you stand near the throne of Christ the Master, and having confidence towards Him because of your familial closeness, never cease entreating His goodness on our behalf, O James the Brother of God and preeminent kinsman of the Lord."
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
 

@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = me.m10.d22_en_US_dedes
 
 meDate.text = "October 22"
-meCommemoration.text = "Memory of the Holy Equal to the Apostles Averkios, Bishop of Hierapolis, the Wonder-worker; and the Holy Seven Youths of Ephesus." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of the Holy Equal to the Apostles Abercius, Bishop of Hierapolis, the Wonder-worker; and the Holy Seven Youths of Ephesus" // full title of day
+meShortCommemoration1.text = "Memory of St. Abercius of Hierapolis;  and the Holy Seven Youths of Ephesus"
 meCom1.title = ""
 meCom2.title = ""
-meInsert1 = "the Holy Equal to the Apostles Averkios, Bishop of Hierapolis, the Wonder-worker, and the Holy Seven Youths of Ephesus," // for use in petitions and dismissal
+meInsert1 = "the Holy Equal to the Apostles Abercius, Bishop of Hierapolis, the Wonder-worker, and the Holy Seven Youths of Ephesus," // for use in petitions and dismissal
 meInsert2 = "whose memory we observe," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Holy Averikios, Equal to the Apostles, Bishop of Hierapolis."
@@ -43,7 +43,7 @@ meVE.Stichera06.text = ""
 meVE.SticGlory.poet = poets_en_US_dedes.IoannouMonachou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode3
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "O devout Hierarch, all-blessed father Averkios, wonder-worker and servant of Christ, you shone forth with the life of a prophet, and you were granted apostolic gifts of grace; and you liturgized with Angels to the Savior without ceasing. Intercede that our souls be delivered from every threat."
+meVE.SticGlory.text = "O devout Hierarch, all-blessed father Abercius, wonder-worker and servant of Christ, you shone forth with the life of a prophet, and you were granted apostolic gifts of grace; and you liturgized with Angels to the Savior without ceasing. Intercede that our souls be delivered from every threat."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode3
 meVE.SticTheotokion.melody = he.a.m3_en_US_dedes.MegaliTouStavrouSou.name
@@ -455,7 +455,7 @@ meMA.Ode9H.text = he.h.m4_en_US_dedes.LithosAcheirotmitos.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion1.text = "Holy father Averkios, * you performed signs and wonders, * by your entreaties, and you made * hot springs to gush forth richly. At your command, when some oil, * wine and another substance * were all three poured into the same * vessel, each fluid wondrously came out unmixed, * one after the other each in its own time, * by divine action, blessed Saint, * to the glory of Christ God."
+meMA.Exaposteilarion1.text = "Holy father Abercius, * you performed signs and wonders, * by your entreaties, and you made * hot springs to gush forth richly. At your command, when some oil, * wine and another substance * were all three poured into the same * vessel, each fluid wondrously came out unmixed, * one after the other each in its own time, * by divine action, blessed Saint, * to the glory of Christ God."
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
@@ -463,15 +463,15 @@ meMA.Exaposteilarion2.text = "Let us all honor Jamblichus, * and John and Maximi
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode8
 meMA.Lauds1.melody = he.a.m8_en_US_dedes.KyrieEiKaiKritirio.name
-meMA.Lauds1.text = "You were by the all-holy Spirit's grace anointed * a hierarch, O Averkios. * You brought down the temples of error, * and by grace erected in their place * sacred churches of God, * to the glory and the praise of Christ * who was born of a Virgin * and who sanctified the universe."
+meMA.Lauds1.text = "You were by the all-holy Spirit's grace anointed * a hierarch, O Abercius. * You brought down the temples of error, * and by grace erected in their place * sacred churches of God, * to the glory and the praise of Christ * who was born of a Virgin * and who sanctified the universe."
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode8
 meMA.Lauds2.melody = he.a.m8_en_US_dedes.KyrieEiKaiKritirio.name
-meMA.Lauds2.text = "Father Averkios, the words of your preaching * were all confirmed by your miracles. * You were shown to be an unerring * guide to light. You also neutralized * demonic hosts, that had deceived * the multitudes, whom you returned * to the knowledge of the true God. * For this reason we extol you today."
+meMA.Lauds2.text = "Father Abercius, the words of your preaching * were all confirmed by your miracles. * You were shown to be an unerring * guide to light. You also neutralized * demonic hosts, that had deceived * the multitudes, whom you returned * to the knowledge of the true God. * For this reason we extol you today."
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode8
 meMA.Lauds3.melody = he.a.m8_en_US_dedes.KyrieEiKaiKritirio.name
-meMA.Lauds3.text = "Father, you rose and shined your light on the whole world, * like a great sun, O Averkios. * To the light you guided the faithful * with the splendid rays of your all-wise * teachings and brightness of your cures, * continually driving out * all the darkness of the passions, * as the Holy Spirit worked through you."
+meMA.Lauds3.text = "Father, you rose and shined your light on the whole world, * like a great sun, O Abercius. * To the light you guided the faithful * with the splendid rays of your all-wise * teachings and brightness of your cures, * continually driving out * all the darkness of the passions, * as the Holy Spirit worked through you."
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
 
