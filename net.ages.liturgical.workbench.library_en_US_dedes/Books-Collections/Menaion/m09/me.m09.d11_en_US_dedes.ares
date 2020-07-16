@@ -18,48 +18,49 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.text = "Although physically feminine, you were outwardly masculine * and engaged in labors appropriate for men. * And while you lived in the midst of men, * you stifled the passions all, * and you bridled every urge * toward pleasure, through discipline and ascetic feats, * and your earnest entreaties, Theodora, and your unrelenting longing * and aspiration to be with God."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.text = "It is true that the sun did not * see you sinning when it had set * below the horizon; but even so the Lord, * who never sets and who knows the heart * and sees every secret, knew * you, O Saint, and shined the light * of repentance, enlightening the eyes of your heart. * Thus you hastened to serve Him and attain to the perfection of the virtues, * through your persistence and self-control."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = "You were not at all unaware * of the wiles of the enemy. * Therefore you accepted an infant not your own. * Displaying fatherly love and care, * you raised it; and you endured * with a godly frame of mind * the unjustified reprimand and the ridicule * of the people, O holy Theodora. We are therefore celebrating * the solemn feast of your memory."
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera04.text = ""
+meVE.Stichera04.text = "You were glowing with virtues all * and adorned with correct belief; * and thus you became an inspired hierarch. * And like a bright shining sun, O Saint, * you traveled throughout the world; * and your preaching of the word * of the Gospel of Christ was like
+sowing many seeds, * O God-bearer, uprooting all deception with your tongue as with a sickle, * O mighty preacher Autonomos."
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode4
 meVE.Stichera05.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera05.text = ""
+meVE.Stichera05.text = "You proceeded to arduous * feats of martyrdom valiantly, * undergoing torture that ended in your death. * You were barraged, O Autonomos, * with stones that were heaped on you. * They became for you like steps * of a ladder that you employed * to ascend to God, * who awarded you with a shining halo; and you joined the hosts of Angels. * Now for the world you entreat the Lord."
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera06.text = ""
+meVE.Stichera06.text = "With the blood of your martyrdom * were your vestments adorned the more, * O glorious Saint, by the Holy Spirit's grace. * And you noetically hastened to ascend to the Holies on high, * where Jesus, a forerunner * has entered on our behalf. * God rewarded you * with a halo of victory, with all those who have died for bearing witness * in precious blood, O Autonomos."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = me.m09.d08_en_US_dedes.meVE.Stichera03.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = me.m09.d08_en_US_dedes.meSV.Stichera1.text
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.text = me.m09.d08_en_US_dedes.meSV.Stichera3.text
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.text = me.m09.d08_en_US_dedes.meSV.Stichera4.text
 
 meVE.AposGlory.poet = poets_en_US_dedes.SergiouAgiopolitou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = me.m09.d08_en_US_dedes.meVE.LityGlory.text
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
@@ -68,11 +69,11 @@ meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma11.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
-meMA.Kathisma11.text = ""
+meMA.Kathisma11.text = "Shining brightly are the rays * of universal * celebration here on earth, * on the occasion of your birth, * and they illumine our minds as we * extol you, Mary, the Mother and Virgin pure."
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma21.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
-meMA.Kathisma21.text = "All the world, noetically variegated * by the immaterial Spirit, at your most holy birth, * in exultation cries out to you: * Rejoice, O Virgin, the boast of the Christian all."
+meMA.Kathisma21.text = "All the world, noetically adorned and glowing * by the immaterial Spirit at your most holy birth, * in exultation cries out to you: * Rejoice, O Virgin, the boast of the Christian all."
 
 meMA.C1Poet = poets_en_US_dedes.Ignatiou
 
@@ -311,9 +312,9 @@ meMA.Ode6H.text = he.h.m4_en_US_dedes.ZaliMeLogismon.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode1
 meMA.Kontakion1.melody = he.a.m1_en_US_dedes.ChorosAngelikos.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "You mentally approached Christ the Sun of glory * and thus escaped the night of the passions, O wise one. * You mortified carnal movements through ascetical discipline. * For monastics you became a model of virtue, * and for those who fall in life, a guide to repentance. * And therefore we honor you."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "Your life has become an example for those who have fallen and who wish to repent and approach Him who knows how to forgive sins, as it is written. You believed in Him, as did the harlot in the Gospel, and instead of perfume you presented Him the showers of your tears. In these you drowned and defeated the infernal serpent, and you were awarded the victory, O thrice-blessed Theodora. Then, by your prayers, you killed a beast, and you raised a dead man, by the power of your Creator, for whose sake you mortified yourself. And therefore we honor you."
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -447,31 +448,32 @@ meMA.Ode9H.text = he.h.m4_en_US_dedes.OtiEpoiiseMoiMegaleia.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.text = "You dressed and looked just like a man, * and thus in plain sight hid yourself, * and lived among male monastics, * O bride of Christ, Theodora. * Smitten were you with love for God. * Oh miracle! How you endured * the unwarranted accusation! * But you defeated the serpent * who tricked Eve, O holy Mother."
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.TonMathitonOrontonSe.name
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.text = "You are the glory of Hierarchs and Martyrs. * O blessed Saint, you were awarded two halos. * You trampled the error of pagan idols, * O holy priest Autonomos. * Therefore you have been rewarded * for victory, thrice-blessed father."
 
 meMA.Exaposteilarion3.mode = misc_en_US_dedes.Mode3
 meMA.Exaposteilarion3.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
-meMA.Exaposteilarion3.text = ""
+meMA.Exaposteilarion3.text = "On this day the Theotokos * came forth from barren Anna * like a flower, sending godly * fragrant perfume everywhere, * to the four corners of the earth, * and filling all creation * with everlasting gladness. * Let us worthily extol her * and sing her praises, for she is * higher than all us born on earth."
 
 meMA.Aposticha1.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha1.text = ""
+meMA.Aposticha1.text = "Aaron's rod blossomed forth * unwatered, thus providing * an image of your childbirth, * O godly-minded Anna,
+appropriately understood."
 
 meMA.Aposticha2.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha2.text = ""
+meMA.Aposticha2.text = "Lord, when You were well pleased * to put on human nature * and a material body, * You first produced Your Mother from righteous Anna's barren womb."
 
 meMA.Aposticha3.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha3.text = ""
+meMA.Aposticha3.text = "You came and dwelt within * the Virgin Theotokos, * whose womb became like heaven, * O Master, God the Logos, and deified the human race."
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode2
 meMA.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.AposGlory.text = ""
+meMA.AposGlory.text = "Adam's descendants, come, * let us extol the Virgin, * all-immaculate Mary, * who coming forth David brought forth our Savior Jesus Christ."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

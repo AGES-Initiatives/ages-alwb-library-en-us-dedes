@@ -4,7 +4,7 @@ meDate.text = "September 9"
 meCommemoration.text = "Memory of the Holy and Righteous Ancestors of God, Joachim and Anna; and the Holy Martyr Severian." // full title of day
 meShortCommemoration1.text = "Memory of the Holy and Righteous Ancestors of God, Joachim and Anna"
 meCom1.title = "For the Ancestors of God."
-meCom2.title = ""
+meCom2.title = "For St. Severian."
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "whose memory we are observing," // for use in petitions and dismissal
 meNote.text = ""
@@ -30,36 +30,36 @@ meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera04.text = ""
+meVE.Stichera04.text = "You were cut and slashed with cords and whips for Christ, O all-lauded Saint, * and suspended from scaffolding; * your body was scraped with rakes and brutally tortured. * Told to offer sacrifice to the idols, you refused, * and you in no way renounced the Lord of all. * But rather you endured the pain, and thus you showed that the idols were * temporary and powerless. * Now with Angels you dwell on high."
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode4
 meVE.Stichera05.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera05.text = ""
+meVE.Stichera05.text = "When you were arrested, bound, and proudly bearing your many wounds, * you exhorted the onlookers * to follow the course you took, O all-blessed Martyr, * and to look with longing to all the heavenly rewards, * which give delight and immeasurable joy, * for they are incorruptible. As they endure for eternity, * they receive as the rightful heirs * faithful servants of Christ our God."
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera06.text = ""
+meVE.Stichera06.text = "Celebrated Martyr, even when your jaws had been crushed with stones * and your sides had been pierced with swords, * even with your neck and feet tethered to a great stone, * crushed and mutilated, and thus worn out, O blessed Saint, * from brutal torture, you still utterly crushed * the head of the infernal dragon, by your patience and bravery, * which could not be defeated by the inflicting of agony."
 
 meVE.SticGlory.poet = poets_en_US_dedes.EfraimKarias
 meVE.SticGlory.mode = misc_en_US_dedes.Mode5
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = me.m07.d25_en_US_dedes.meVE.LityGlory.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = me.m09.d08_en_US_dedes.meSV.Stichera1.text
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.text = me.m09.d08_en_US_dedes.meSV.Stichera3.text
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.text = me.m09.d08_en_US_dedes.meSV.Stichera4.text
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = me.m07.d25_en_US_dedes.meVE.SticGlory.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
 meVE.Apolytikion1.melody = ""
@@ -461,7 +461,7 @@ meMA.Exaposteilarion1.text = "She who took away the curse * once laid on Eve is 
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.text = "All-blessed St. Severian, you were much like a trainer of * the Forty Great holy Martyrs, * who in the lake showed their mettle. * With them commemorate us who observe your splendid memory, * O Martyr of Christ, and pray for us * who honor you with devotion, * O glorious medaled Athlete."
 
 meMA.Exaposteilarion3.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion3.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
@@ -471,19 +471,19 @@ meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meMA.Aposticha1.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha1.text = ""
+meMA.Aposticha1.text = "Thanks be to God who cares * for all and our Redeemer! * In His good pleasure, beyond hope, * the barren one gives birth to the Theotokos wondrously."
 
 meMA.Aposticha2.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha2.text = ""
+meMA.Aposticha2.text = "Come, let us magnify * unceasingly the offspring * of David and of Judah, * yes, Mary Theotokos, from whom salvation came to us."
 
 meMA.Aposticha3.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meMA.Aposticha3.text = ""
+meMA.Aposticha3.text = "Famously on this day * was ever-virgin Mary, * the light-conducting gateway, * wondrously born of Anna. Peoples and races, leap for joy!"
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode2
 meMA.AposGlory.melody = ""
-meMA.AposGlory.text = ""
+meMA.AposGlory.text = "Today the all-blameless and pure Maiden came forth from the barren woman. Today the universe celebrates her birth. Adam is released from bondage, and Eve is freed of the curse. Everything in heaven rejoices, and peace is awarded to humanity. And we sing a doxology and cry out, \"Glory in the highest to God, and on earth peace in good will among men!\""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
