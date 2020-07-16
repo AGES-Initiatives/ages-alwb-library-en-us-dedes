@@ -18,32 +18,32 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode5
 meVE.Stichera01.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.text = me.m09.d13_en_US_dedes.meVE.Aposticha1.text
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode5
 meVE.Stichera02.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.text = me.m09.d13_en_US_dedes.meVE.Aposticha2.text
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode5
 meVE.Stichera03.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = me.m09.d13_en_US_dedes.meVE.Aposticha3.text
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode1
 meVE.Stichera04.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera04.text = ""
+meVE.Stichera04.text = "With bravest faith in the Savior, you fought the foe of God, * O godly-minded Martyr, * very wise St. Nikitas, * with fortitude enduring the tortures and death. * You converted the Goths to faith * in Christ the Master and Maker of all the world. * Now they glorify Him piously."
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode1
 meVE.Stichera05.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera05.text = ""
+meVE.Stichera05.text = "Praiseworthy Martyr and athlete, you spoke the word of God * and brought the Goths as first fruits * to Christ to glorify Him. * You died for your belief in the Trinity, * and for this you received the crown. * Now God has made you illustrious, like a star * shining brilliantly throughout the world."
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode1
 meVE.Stichera06.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera06.text = ""
+meVE.Stichera06.text = "Wearing the true faith as armor you went to battle for Christ, * the King of all and Savior, * O Great Martyr Nikitas. * And you became a victor, much like of old * that most mighty man Gideon. * With strength and confidence you overcame the hordes, * like that hero did the foreign foes."
 
 meVE.SticGlory.poet = poets_en_US_dedes.Theofanous
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = "We know you as a luminary among Martyrs, O Nikitas, Athlete of Christ. You forfeited the glory of your earthly rank, and with abhorrence for your ancestors' ungodliness, you smashed their gods; and you triumphantly put the barbaric foes to shame, as you completed your martyrdom for Christ. You became a soldier of God in heaven. And now you implore the Benefactor of all on our behalf, that He take pity on us and that He save our souls."
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode6
 meVE.SticBoth.melody = ""
@@ -63,11 +63,11 @@ meVE.Aposticha3.text = me.m09.d14_en_US_dedes.meVE.Stichera03.text
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = "You were victorious, and thus you lived up to the meaning of your name, O Martyr Nikitas. In the course of your martyrdom, you proclaimed Christ our God, and you confessed Him in the presence of the kings and tyrants. So now, never cease interceding for world peace, and for world leaders who love Christ; and pray to our Lord who alone loves humanity, that He rescue from any looming wrath all those who faithfully observe your memory."
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode8
 meVE.AposBoth.melody = ""
-meVE.AposBoth.text = me.m09.d14_en_US_dedes.meMA.AdditionalIdiomelon3.text
+meVE.AposBoth.text = me.m09.d14_en_US_dedes.meMA.AdditionalIdiomelonGlory.text
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
@@ -201,10 +201,10 @@ meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
-meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TaAnoZiton.notmetered
+meMA.Kontakion1.text = "You cut off the might of error by your resistance; you received the crown of victory for your contest; and now you rejoice with the Angels, O Nikitas. Pray with them to Christ our God, and unceasingly intercede on behalf of us all."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "O Savior, put knowledge into my soul, and purify my heart, and make me a worker of Your commandments, so that I be enabled to fight against the various surges of my passions, and receive the incorruptible award for victory, at the intercessions of Your brave medaled Martyr Nikitas, O Lord who loves humanity. It was he who invited us to celebrate his memory, and he unceasingly intercedes on behalf of us all."
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
@@ -278,7 +278,7 @@ meMA.Ode9H.text = he.h.m4_en_US_dedes.LithosAcheirotmitos.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.text = "O St. Nikitas, wise and brave, * as of old by the Cross's * power you beat the arrogance * and the frenzied displeasure * of the barbarian tyrants, * likewise now by your prayers * stop every movement of our flesh * and the onsets of passions, and get for us * the forgiveness of our sins and offenses, * for you have ample confidence * with God, O medaled Martyr."
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.TonMathitonOrontonSe.name
@@ -300,7 +300,7 @@ meMA.Aposticha3.text = me.m09.d14_en_US_dedes.meSV.AposGlory.text
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode6
 meMA.AposGlory.melody = ""
-meMA.AposGlory.text = ""
+meMA.AposGlory.text = "Today the whole wide world is celebrating your contest, O medaled Athlete; and the Church of Christ, decorated with flowers, sings to you, O Martyr of Christ, \"O servant of Christ, as our most ardent protector, never cease interceding on behalf of us who serve you.\""
 
 meMA.AposBoth.mode = misc_en_US_dedes.Mode6
 meMA.AposBoth.melody = ""
