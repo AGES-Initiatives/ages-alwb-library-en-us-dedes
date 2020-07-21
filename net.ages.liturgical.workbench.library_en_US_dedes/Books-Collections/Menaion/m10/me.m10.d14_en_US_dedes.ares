@@ -2,7 +2,7 @@ A_Resource_Whose_Name = me.m10.d14_en_US_dedes
 
 meDate.text = "October 14"
 meCommemoration.text = "Memory of the Holy Martyrs Nazarius, Gervasius, Protasius, and Celsus; and our Devout Father Cosmas the Hymnographer" // full title of day
-meShortCommemoration1.text = "Memory of the Holy Martyrs Nazarios, Gervasios, Protasios, and Celsius; and our St. Cosmas the Hymnographer"
+meShortCommemoration1.text = "Memory of the Holy Martyrs Nazarius, Gervasios, Protasius, and Celsus; and our St. Cosmas the Hymnographer"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
@@ -18,23 +18,23 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.text = "When the Faith's holy champions * fought and finished the fight and race, * then they were awarded the crowns of victory. * They were the brave St. Nazarius * and great St. Protasius * and St. Celsus the most wise, * godly-minded Gervasius; * whom let us extol * as courageous and holy men in armor, willing sacrificial victims, * and heirs with Christ of the kingdom on high."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.text = "Let us honor Nazarius and extol St. Protasius, * also godly Celsus and St. Gervasius, * for they competed most famously * diminished pagan deceit * and with the angelic hosts * they enjoy sacred company. * From the hand of God, * who gives life, they received the crowns of victory, and by participation * in the divine they were deified."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = "Godly-minded Nazarius * shined the light of the God-inspired * Gospel that he preached in the cities he went through. * And imitating his faith and life, * for virtue and godliness * Celsus also gained renown, * also trampling the crafty foe. * Come all, let us praise * those physicians of souls and luminaries, guiding lights of those in darkness; * and let us sing hymns to honor them."
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera04.text = ""
+meVE.Stichera04.text = "When your mind was illumined by * rays of light of the Spirit of God, * you became a light-bearer, O praiseworthy Saint. * And you brought cheer to the universe * with the beauty of your words; * and you taught us to extol * all the wonders and miracles * that the Savior did * in His power as God, and all He suffered in His voluntary Passion * on our behalf in His love for man."
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode4
 meVE.Stichera05.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera05.text = ""
+meVE.Stichera05.text = "Church of Christ, deck yourself with light, * and indeed from the highest place * call out to your children to come and celebrate. * For St. Cosmas, yes the Spirit's harp, * that heavenly instrument, * glorious and most divine, * has invited us mystically * to a sacred feast, * where he offers mellifluous divinely written poems and the music * that he composed by the grace of God. "
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
@@ -71,7 +71,7 @@ meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.AposTheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.text = me.m10.d08_en_US_dedes.meVE.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meVE.AposStavrotheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
@@ -503,7 +503,7 @@ meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode8
 meMA.AposTheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meMA.AposTheotokion.text = ""
+meMA.AposTheotokion.text = me.m10.d08_en_US_dedes.meVE.AposTheotokion.text
 
 meMA.AposStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meMA.AposStavrotheotokion.melody = misc_en_US_dedes.Automelon
