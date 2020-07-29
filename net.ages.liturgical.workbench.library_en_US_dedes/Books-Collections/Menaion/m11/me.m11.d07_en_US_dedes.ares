@@ -306,21 +306,21 @@ meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m4_en_US_dedes.TinTheianTaftin.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode4
-meMA.Kontakion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.notmetered
+meMA.Kontakion1.text = "The shining and glowing host of Martyrs has spiritually risen on us today like a sun, and the rays of their miracles fill the Church with light. So, as we celebrate their solemn memory, we pray to You, our Savior: At their entreaties, rescue us from danger, as our merciful God who loves humanity."
 
 meMA.Kontakion2.mode = misc_en_US_dedes.Mode8
-meMA.Kontakion2.melody = he.a.m8_en_US_dedes.TiYpermacho.name
-meMA.Kontakion2.text = ""
+meMA.Kontakion2.melody = he.a.m8_en_US_dedes.TiYpermacho.notmetered
+meMA.Kontakion2.text = "The Angels were amazed as they witnessed your supernatural labors and struggles, through which you received halos from God, O wise Saint. We pray you, since you speak to the Lord with confidence, to save us from all calamity, so that we may salute you and cry aloud: Rejoice, our Father and Pastor!"
 
-meMA.Oikos2.text = ""
-meMA.Oikos22.text = ""
-meMA.Oikos23.text = ""
-meMA.Oikos24.text = ""
-meMA.Oikos25.text = ""
-meMA.Oikos26.text = ""
-meMA.Oikos27.text = ""
-meMA.Oikos28.text = ""
+meMA.Oikos2.text = "An Angel among men were you, O God-bearing Saint, and from earth you reached the heavens. And seeing how you vied with the bodiless hosts, O devout one, I am astounded and with awe I cry out to you such salutations:"
+meMA.Oikos22.text = "Rejoice! Inerrant rule for monastics. Rejoice! Meadow of virtue where souls are nourished."
+meMA.Oikos23.text = "Rejoice! Intercessor for souls that never fails. Rejoice!  Dancer who abides with angelic hosts."
+meMA.Oikos24.text = "Rejoice! You increased the flock of monastics. Rejoice! You preserved them in Eden."
+meMA.Oikos25.text = "Rejoice! With God's help, you provided sufficient bread. Rejoice! You expelled the audacity of the demons."
+meMA.Oikos26.text = "Rejoice!  Ever-flowing spring of miracles. Rejoice! Guarantee of future delight."
+meMA.Oikos27.text = "Rejoice! The lamp of all Asia Minor. Rejoice! The star and coach of monastics."
+meMA.Oikos28.text = "Rejoice! Our Father and Pastor!"
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode2
@@ -459,7 +459,7 @@ meMA.Ode9H.text = he.h.m4_en_US_dedes.OsEmpsychoTheouKivoto.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.text = "The Church, which is unbreakable, * has you, O medaled Martyr saints, * as thirty-three living towers, * by which the world is protected, * as well as those who honor you * and keep your glowing memory. * Stand now near the throne of Christ, * for us you are interceding * with our all-merciful Savior."
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
@@ -487,7 +487,7 @@ meMA.LaudsGlory.text = me.m01.d15_en_US_dedes.meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode6
 meMA.LaudsTheotokion.melody = ""
-meMA.LaudsTheotokion.text = ""
+meMA.LaudsTheotokion.text = oc.m6.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meMA.LaudsStavrotheotokion.mode = misc_en_US_dedes.Mode6
 meMA.LaudsStavrotheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name

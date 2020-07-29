@@ -3,9 +3,9 @@ A_Resource_Whose_Name = me.m10.d29_en_US_dedes
 meDate.text = "October 29" 
 meCommemoration.text = "Memory of the holy Monastic Martyr Anastasia the Roman; and our Devout Father Abramius." //full title of day
 meShortCommemoration1.text = "Memory of the holy Monastic Martyr Anastasia the Roman."
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "the holy monastic Martyr Anastasia the Roman, and our devout Father Abramius." //for use in petitions and dismissal
+meCom1.title = "For St. Anastasia."
+meCom2.title = "For St. Abramius."
+meInsert1 = "the holy monastic Martyr Anastasia the Roman," //for use in petitions and dismissal
 meInsert2 = "whose memory we observe," //for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = ""
@@ -30,19 +30,19 @@ meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode8
 meVE.Stichera04.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.Stichera04.text = ""
+meVE.Stichera04.text = "Godly-minded father Abramius, you left your fatherland * and were thus in both name and way * imitating Abraham * in the Spirit, O blessed Saint. * When you renounced all the urges of the flesh * and kept your body enclosed within a small * dwelling, O blessed man, * you allowed your mind to soar into the heights, * where in heaven clearly you had made your citizenship."
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode8
 meVE.Stichera05.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.Stichera05.text = ""
+meVE.Stichera05.text = "O devout father Abramius, strengthened by faith in God, * and united to Him through love, * with forbearance you endured * hard temptations and trials for Him. * You were in soul like your namesake Abraham. * Now you have entered the promised land on high, * having adorned yourself * with the splendor of the virtues. Therefore we * rejoice as we celebrate your sacred memory."
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode8
 meVE.Stichera06.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.Stichera06.text = ""
+meVE.Stichera06.text = "O devout father Abramius, when your beloved niece * had unfortunately succumbed * to the serpent's craftiness * and had slid to the depths of sin, * you brought her back through divine intelligence, * and having saved her, presented her to God. * Everyone was amazed * by her true repentance, and with pious faith * glorified the Lord for His supreme benevolence."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = me.m10.d02_en_US_dedes.meMA.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
@@ -301,13 +301,13 @@ meMA.Ode6H.text = he.h.m8_en_US_dedes.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode3
 meMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "Practicing virginity * like water cleansed you, O devout Saint, * and the blood of martyrdom * washed you as well, O Anastasia. * Now you grant to those in need of them cures and healing, * and to us who come sincerely you give salvation. * For through you is Christ dispensing * His ever-flowing power and grace divine."
 
 meMA.Kontakion2.mode = misc_en_US_dedes.Mode3
 meMA.Kontakion2.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
-meMA.Kontakion2.text = ""
+meMA.Kontakion2.text = "You appeared on earth, O Saint, * to be an angel in body. * Through ascetic discipline, * you were a tree that was planted; * watered by your self-control you increased greatly; * with the streams of tears you washed away all uncleanness. * Therefore you became the Spirit's all-holy vessel, * O father Abramius."
 
-meMA.Oikos2.text = ""
+meMA.Oikos2.text = "Overlooking things that perish, you received the imperishable. O wise man, from an early age, you despised bodily delights and pleasures, and you desired to be celibate. So you eschewed the benefits of marriage and family wealth, and you longed only to be united to God, whom you truly loved with all your soul and mind. Therefore you became the Spirit's all-holy vessel, O father Abramius."
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -456,15 +456,15 @@ meMA.Ode9H.text = he.h.m8_en_US_dedes.KyriosTheotokon.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.text = "O holy Anastasia, * since you practiced virginity * and resolutely competed, * for the love of Christ our Savior, * you are considered the glory * and beauty of nuns and martyrs."
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.text = "God-bearing St. Abramius, * as you of old delivered * the pagan masses from deceit * of the most wicked devil and brought them to God the Savior, * and your niece who had fallen * into the sordid pit of sin, * likewise by your entreaties deliver us * from many temptations, hardships, and dangers, * as we observe your memory * solemnly and with longing."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
-meMA.ExapTheotokion.text = ""
+meMA.ExapTheotokion.text = "Divinely glowing Paradise: * that is how we perceive you. * In your midst was the tree of life, * namely the Lord, and if we * eat from Him, we shall not ever * die again, Theotokos; * but we all live a better life * through you, O all-pure Lady; and as we wear * he Cross as a shield, we are truly victors * over the rebel enemy, * and we praise you, O Virgin."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

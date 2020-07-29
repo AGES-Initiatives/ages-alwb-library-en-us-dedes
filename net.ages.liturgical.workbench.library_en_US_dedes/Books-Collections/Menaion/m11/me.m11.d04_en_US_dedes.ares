@@ -3,8 +3,8 @@ A_Resource_Whose_Name = me.m11.d04_en_US_dedes
 meDate.text = "November 4"
 meCommemoration.text = "Memory of our Devout Father Ioannikios the Great; and the Holy Hieromartyrs Nikandros, Bishop of Myra, and Hermaios the Priest." // full title of day
 meShortCommemoration1.text = "Memory of our Devout Father Ioannikios the Great"
-meCom1.title = ""
-meCom2.title = ""
+meCom1.title = "For St. Ioannikios."
+meCom2.title = "For St. Nikandros."
 meInsert1 = "and our Devout Father Ioannikios the Great," // for use in petitions and dismissal
 meInsert2 = "whose memory we are observing," // for use in petitions and dismissal
 meNote.text = ""
@@ -30,15 +30,15 @@ meVE.Stichera03.text = "You were bright with the shining rays * of the gifts of 
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode2
 meVE.Stichera04.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.Stichera04.text = ""
+meVE.Stichera04.text = "Bearing, by God's providence, the name * signifying victor and courage, * O blessed Saint, by your deeds * you confirmed and certified that you were worthy of it. * With persistence and fortitude * you fought and made war on * the polemic adversaries of the truth, and you won. * Therefore, with your prize as the victor, * faithfully you cried aloud, \"Glory * to Your mighty power, Lord who loves mankind.\""
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode2
 meVE.Stichera05.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.Stichera05.text = ""
+meVE.Stichera05.text = "You pour out abundantly to us * healing, like a redolent perfume, O wise St. Nikandros, * today as we celebrate your sacred memory. * You dispel all the stench and pain * of bodily ailments, * and you fill believers' souls with grace abundantly, * as they sing to Christ God the Savior, * \"You, the never-emptying perfume, * fill us with Your fragrance as we sing Your praise.\""
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode2
 meVE.Stichera06.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.Stichera06.text = ""
+meVE.Stichera06.text = "Since you speak with confidence to Christ, * who is glorified in His holy ones as the only Lord, * earnestly entreat Him, O devout St. Nikandros, * on behalf of all who with love * are now celebrating * your most sacred memory and are extolling your feats, * that we may by your intercessions * partake of the glory and blessings, * divine and ineffable, that you you enjoy."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
 meVE.SticGlory.melody = ""
@@ -50,7 +50,7 @@ meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode2
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = oc.m2.d4_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
 meVE.AposGlory.melody = ""
@@ -482,7 +482,7 @@ meMA.Exaposteilarion1.text = "The carnal drives and appetites * in you, Ioanniki
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.text = "All-blessed Titus planted you, * O holy father Nikandros. * By him you were made the bishop * of Myra, that famous city, * for you were truly God-inspired. * And there with wise St. Hermias * you witnessed for the faith of Christ. * And now, as a hieromartyr, * you rule with Him in the heavens."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name

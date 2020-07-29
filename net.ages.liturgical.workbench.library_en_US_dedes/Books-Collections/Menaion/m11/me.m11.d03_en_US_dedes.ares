@@ -50,11 +50,11 @@ meVE.SticTheotokion.text = he.o_en_US_dedes.TheotokeSyEiAthloforou.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode6
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = oc.m6.d4_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = "Medaled Athlete, Great Martyr George, * as you live with the Angels now * and the other Martyrs, and as you are each day * a place of refuge for those in need, * I pray you to be for me, * who am on the sea of life, * like a haven of cool relief. Also I implore, * be my life's guide and pilot, so that I may praise your supernatural contests * with incontestable faith and love."
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
@@ -62,7 +62,7 @@ meVE.Aposticha2.text = "Guard me always and everywhere, * when I travel by any m
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.text = me.m04.d23_en_US_dedes.meVE.Stichera04.text
 
 meVE.AposGlory.poet = poets_en_US_dedes.EfraimKarias
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
@@ -183,10 +183,10 @@ meMA.Ode3H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode3H.text = he.h.m4_en_US_dedes.OStereonVrontin.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
-meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.melody = he.a.m2_en_US_dedes.TaAnoZiton.notmetered
+meMA.Kontakion1.text = "You solemnly celebrated the divine liturgy, and you became an acceptable sacrifice, all-blessed St. Acepsimas. You gloriously drank the cup of Christ; and along with your fellow martyrs, you never cease interceding on behalf of us all."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "Almighty Jesus, with the showers of Your goodness, make my heart bear fruits of virtue, for it has become arid in many transgressions. I pray you illumine my mind with divine knowledge, and I will joyfully extol Your hierarch and great medaled athlete Acepsimas, as well as brave Aeithalas, and truly blessed Joseph. These holy men relied on You, and they boldly and bravely accepted to be tortured. And now, having received Your grace, they grant cures to those who are ill, and they never cease interceding on behalf of us all."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
@@ -333,14 +333,14 @@ meMA.Kontakion2.mode = misc_en_US_dedes.Mode8
 meMA.Kontakion2.melody = he.a.m8_en_US_dedes.TiYpermacho.notmetered
 meMA.Kontakion2.text = "As we believers who extol you take refuge in your speedy help as our champion, we entreat that Christ will rescue us from the scandals of the enemy, and from every harm and danger, so that we may salute you and say: Rejoice, O Great Martyr George!"
 
-meMA.Oikos2.text = ""
-meMA.Oikos22.text = ""
-meMA.Oikos23.text = ""
-meMA.Oikos24.text = ""
-meMA.Oikos25.text = ""
-meMA.Oikos26.text = ""
-meMA.Oikos27.text = ""
-meMA.Oikos28.text = ""
+meMA.Oikos2.text = "O companion and friend of the Lord, you have proved to be great in protecting us on earth. You shelter the faithful people and ever rescue them, O glorious Saint. Therefore with faith cry out and salute you, who suffered much:"
+meMA.Oikos22.text = "Rejoice! Through you the world is dazzled. Rejoice! Through the army shines brightly."
+meMA.Oikos23.text = "Rejoice! You rescue believers who are captured. Rejoice! You quickly aid those unjustly imprisoned."
+meMA.Oikos24.text = "Rejoice! You are the exaltation of those who ardently rely on you with faith. Rejoice! You are the wealth of those who love you, and the joy of those in pain."
+meMA.Oikos25.text = "Rejoice! You are the fortress of kings. Rejoice! You grant them victory in war."
+meMA.Oikos26.text = "Rejoice! Like a star, you give light to those at sea. Rejoice! You rescue people from abuse of all kinds."
+meMA.Oikos27.text = "Rejoice! On you all believers rely. Rejoice! Through you our Creator is extolled."
+meMA.Oikos28.text = "Rejoice, O Great Martyr George!"
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
@@ -495,11 +495,11 @@ meMA.Lauds1.text = "To a brave one in martyr saints, * Christ's own tillage and 
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode4
 meMA.Lauds2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meMA.Lauds2.text = "We who honor your memory * know you well as a glowing star * and a shining sun in the Church's firmament. * And we extol you whom we esteem * as a most exquisite pearl, * as a sparkling precious gem, * as a brave one in martyr saints, * as a son of day; * as a champion defender and protector * of believers when in danger, * great and victorious Martyr George."
+meMA.Lauds2.text = me.m04.d23_en_US_dedes.meVE.Stichera05.text
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode4
 meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meMA.Lauds3.text = "Guard me always and everywhere, * when I travel by any means, * walking, driving, flying, and when I sleep at night. * And when I wake, keep me safe and sound, all-blessed Great Martyr George. * Help me to fulfill the will * and commandments of God my Lord, * so that I who run * to your mighty protection be forgiven of the sins I have committed * throughout my lifetime, on Judgment Day."
+meMA.Lauds3.text = me.m04.d23_en_US_dedes.meVE.Stichera06.text
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
 meMA.LaudsGlory.melody = ""

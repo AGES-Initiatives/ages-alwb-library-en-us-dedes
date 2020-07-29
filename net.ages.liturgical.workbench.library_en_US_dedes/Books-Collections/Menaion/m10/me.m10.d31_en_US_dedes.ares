@@ -30,19 +30,19 @@ meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode1
 meVE.Stichera04.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera04.text = ""
+meVE.Stichera04.text = "Glorious St. Epimachus, you long for heaven's delights, * and thus temporal glory * you considered as nothing. * You lived as one without flesh, although in the flesh, * emulating angelic life, * and resolutely endured all torture and pain * that the persecutors wreaked on you."
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode1
 meVE.Stichera05.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera05.text = ""
+meVE.Stichera05.text = "Glorious St. Epimachus, dancing in heavenly halls, * delighting in the glory * of the almighty Master, * O thrice-blessed Martyr, we pray you entreat * Him for us who now honor you, * that we may also receive never-ending joy * with the Angels and eternal delights."
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode1
 meVE.Stichera06.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera06.text = ""
+meVE.Stichera06.text = "You were a bright luminary, O Epimachus, and shined * on those who sat in darkness, * and by your sacred counsels * illumined people formerly held in the grip * of the nighttime of ignorance; * and you competed for Christ according to the rules, * and received the crown of victory."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode1
 meVE.SticTheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.SticTheotokion.text = "O Virgin, give me repentance and the amendment of life. * Help me to move away from * every passionate habit * toward divine dispassion, both to aspire * and to possess it ineffably; * and let my soul ever pour out the joyful grief * that will purify me, by your prayers."
+meVE.SticTheotokion.text = me.m10.d12_en_US_dedes.meVE.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
@@ -298,10 +298,10 @@ meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m4_en_US_dedes.EvoiseProtypon.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
-meMA.Kontakion1.melody = he.a.m2_en_US_dedes.ToisTonAimatonSou.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.melody = he.a.m2_en_US_dedes.ToisTonAimatonSou.notmetered
+meMA.Kontakion1.text = "You went to all people throughout the world, and you sowed the word of the knowledge of God. and you harvest the wheat for it yielded much; and you offered it up to the King off all, O all-renowned Apostles of Christ."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "Let us all now extol the memory of the Apostles and solemnly call it blessed, as a day of salvation. For it shines like a sun on the entire world, and it drives away the fog with its rays of light, and it brightly shines on those who observe it with longing and honor it with faith. So, let us enthusiastically assemble and extol them and say to them, \"Rescue us from every danger, O all-renowned Apostles of the Lord."
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
@@ -445,11 +445,11 @@ meMA.Ode9H.text = he.h.m4_en_US_dedes.EvaMenToTisParakois.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.text = "Apelles, Stachys, Amplias, * Narcissus, Aristobulus, * and Urban, the God-inspired * and glorious luminaries, * Apostles of our Savior Christ, * be festively extolled today * by us as we are duty-bound. * They intercede on our behalf, * as we celebrate their sacred * memory with love and longing."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-meMA.ExapTheotokion.text = ""
+meMA.ExapTheotokion.text = "All-lauded one, watch over us, * the people you inherited. * We pray you guard and protect us * by your invincible power. * Strengthen and guide our government * officials and enlighten them. * And calm the nations everywhere, * and pour out God's peace and mercy * on all the world, Theotokos."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
