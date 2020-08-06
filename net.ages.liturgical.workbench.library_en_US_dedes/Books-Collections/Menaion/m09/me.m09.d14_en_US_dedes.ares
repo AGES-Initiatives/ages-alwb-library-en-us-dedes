@@ -31,7 +31,7 @@ meSV.Stichera3.text = "We bow down and we venerate * Your all-holy and precious 
 
 meSV.SticGlory.mode = misc_en_US_dedes.Mode2
 meSV.SticGlory.melody = ""
-meSV.SticGlory.text = meVE.Lity6.text
+meSV.SticGlory.text = "You are my mighty shelter, O tripartite Cross of Christ. Sanctify me by your power, so that with faith and love I may venerate and glorify you."
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
@@ -83,7 +83,7 @@ meVE.Lity3.text = ""
 meVE.Lity4.poet = poets_en_US_dedes.Theofanous
 meVE.Lity4.mode = misc_en_US_dedes.Mode2
 meVE.Lity4.melody = ""
-meVE.Lity4.text = ""
+meVE.Lity4.text = me.m09.d13_en_US_dedes.meVE.AposBoth.text
 
 meVE.Lity5.poet = poets_en_US_dedes.Kyprianou
 meVE.Lity5.mode = misc_en_US_dedes.Mode2
@@ -93,7 +93,7 @@ meVE.Lity5.text = ""
 meVE.Lity6.poet = poets_en_US_dedes.LeontosDespotou
 meVE.Lity6.mode = misc_en_US_dedes.Mode2
 meVE.Lity6.melody = ""
-meVE.Lity6.text = "You are my mighty shelter, O tripartite Cross of Christ. Sanctify me by your power, so that with faith and love I may venerate and glorify you."
+meVE.Lity6.text = me.m09.d14_en_US_dedes.meSV.SticGlory.text
 
 meVE.Lity7.mode = misc_en_US_dedes.Mode4
 meVE.Lity7.melody = ""
@@ -145,11 +145,11 @@ meMA.Kathisma31.text = "Joshua of Nun formerly mystically prefigured * the figur
 meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 meMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.text = meVE.Lity6.text
+meMA.PostGospelGlory.text = me.m09.d14_en_US_dedes.meSV.SticGlory.text
 
 meMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.text = meVE.Lity6.text
+meMA.PostGospelBoth.text = me.m09.d14_en_US_dedes.meSV.SticGlory.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 meMA.PostGospelIdiomelon.melody = ""
