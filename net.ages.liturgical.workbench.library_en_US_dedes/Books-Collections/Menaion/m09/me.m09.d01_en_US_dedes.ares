@@ -4,7 +4,7 @@ meHO.Month.text = ""
 meHO.DaysHours.text = ""
 
 meDate.text = "September 1"
-meCommemoration.text = "Beginning of the Indiction, i.e. the New Year; and Memory of our Devout Father Symeon the Stylite and Archimandrite; and Synaxis of the Recovery of the Icon of the Most Holy Theotokos of Miasenae; and the Holy Martyr Aeithalas, and the Holy 40 Women and their Teacher Ammoun the Deacon; and the Holy Martyrs Kalliste her Brothers Evodos and Hermogenes; and Memory of Joshua Son of Nun; and Commemoration of the Big Fire." // full title of day
+meCommemoration.text = "Beginning of the Indiction, i.e. the New Year; and Memory of our Devout Father Symeon the Stylite and Archimandrite; and Synaxis of the Recovery of the Icon of the Most Holy Theotokos of Miasenae; and the Holy Martyr Aeithalas, and the Holy 40 Women and their Teacher Ammoun the Deacon; and the Holy Martyrs Callista her Brothers Evodos and Hermogenes; and Memory of Joshua Son of Nun; and Commemoration of the Big Fire." // full title of day
 meShortCommemoration1.text = "Indiction"
 meCom1.title = "For the Indiction."
 meCom2.title = ""
@@ -34,7 +34,7 @@ meVE.Stichera03.text = "O Christ our God, on Mt. Sinai You wrote the tablets of 
 meVE.MM.Stichera123as567.text = properties_en_US_dedes.media.key
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode5
-meVE.Stichera04.melody = misc_en_US_dedes.Automelon
+meVE.Stichera04.melody = he.a.m5_en_US_dedes.OsiePater.name
 meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode5
@@ -47,7 +47,7 @@ meVE.Stichera06.text = ""
 
 meVE.Stichera07.mode = misc_en_US_dedes.Mode2
 meVE.Stichera07.melody = misc_en_US_dedes.Idiomelon
-meVE.Stichera07.text = ""
+meVE.Stichera07.text = "A good root produced a good fruit, namely Symeon, who was sacred from birth, nursed with grace more than with milk. He lifted his body on a boulder, and his mind to God even higher. With virtues he built a house in the sky, and floating along with the heavenly Hosts, he became a dwelling place of Christ, our God and the Savior of our souls."
 
 meVE.Stichera08.mode = misc_en_US_dedes.Mode2
 meVE.Stichera08.melody = misc_en_US_dedes.Idiomelon
@@ -76,7 +76,7 @@ meVE.SticBoth.text = ""
 meVE.Aposticha1.poet = poets_en_US_dedes.IoannouMonachou
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha1.melody = misc_en_US_dedes.Idiomelon
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = "It is the first day of the ecclesiastical year. It invites us to honor those who make it splendid: Callista, Evodos, and Hermogenes, those siblings and martyrs; Symeon, that peer of the angels; Joshua, the son of Nun; the Seven Young Men of Ephesus; and that chorus of Forty Holy Women. As we commemorate them all together, O fans of the Church's feasts, let us sing with gusto and also pray, \"O Lord, bless the works of Your hands, and grant that we may spend the time of the coming year advantageously.\""
 
 meVE.Aposticha2.poet = poets_en_US_dedes.IoannouMonachou
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode1
@@ -766,7 +766,7 @@ meMA.Lauds4.text = "When You had established the world by Your Passion, O Lord, 
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
 meMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
-meMA.LaudsGlory.text = "A good root produced a good fruit, namely Symeon, who was sacred from birth, nursed with grace more than with milk. He lifted his body on a boulder, and his mind to God even higher. With virtues he built a house in the sky, and floating along with the heavenly Hosts, he became a dwelling place of Christ, our God and the Savior of our souls."
+meMA.LaudsGlory.text = meVE.Stichera07.text
 
 meMA.LaudsBoth.poet = poets_en_US_dedes.Germanou
 meMA.LaudsBoth.mode = misc_en_US_dedes.Mode8
