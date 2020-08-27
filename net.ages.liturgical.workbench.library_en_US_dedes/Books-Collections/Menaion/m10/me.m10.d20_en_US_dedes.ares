@@ -1,14 +1,14 @@
 A_Resource_Whose_Name = me.m10.d20_en_US_dedes 
 
 meDate.text = "October 20" 
-meCommemoration.text = "Memory of the Holy Great Martyr Artemios, Devout Matrona of Chios, and our Devout and God-bearing Father Gerasimos of Kefallinia." //full title of day
-meShortCommemoration1.text = "Memory of the Holy Great Martyr Artemios"
+meCommemoration.text = "Memory of the Holy Great Martyr Artemius, Devout Matrona of Chios, and our Devout and God-bearing Father Gerasimos of Kefallinia." //full title of day
+meShortCommemoration1.text = "Memory of the Holy Great Martyr Artemius"
 meCom1.title = ""
 meCom2.title = ""
-meInsert1 = "and the holy Great Martyr Artemios," //for use in petitions and dismissal
+meInsert1 = "and the holy Great Martyr Artemius," //for use in petitions and dismissal
 meInsert2 = "whose memory we are observing," //for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "The Holy Great Martyr Artemios. The Venerable Matrona of Chios."
+meLE.commemoration1 = "The Holy Great Martyr Artemius. The Venerable Matrona of Chios."
 meLE.commemoration2 = "Our Venerable God-bearing Father Gerasimos of Kephallenia."
 meHO.number = ""
 meHO.rank = ""
@@ -18,20 +18,20 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera01.text = "When the heavenly light had shone * in your mind, O Artemios, * then you left the dark error of idolatry. * And having gone over to the light * of Christ our Lord and God, * now you shine upon the ends * of the world with His gifts of grace. * Therefore intercede, * that delivered from perils and corruption be those faithfully observing * your ever-honored memorial."
+meVE.Stichera01.text = "When the heavenly light had shone * in your mind, O Artemius, * then you left the dark error of idolatry. * And having gone over to the light * of Christ our Lord and God, * now you shine upon the ends * of the world with His gifts of grace. * Therefore intercede, * that delivered from perils and corruption be those faithfully observing * your ever-honored memorial."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera02.text = "You were led to the knowledge of * the Creator and God of all, * by the Spirit's action in you, Artemios. * And you most wisely admonished those * who worshiped created things, * and society you led * to the knowledge of Christ our God, * for whom in the end * you contested and won the crown for suffering; and therefore you entreat Him * to save from harm those who honor you."
+meVE.Stichera02.text = "You were led to the knowledge of * the Creator and God of all, * by the Spirit's action in you, Artemius. * And you most wisely admonished those * who worshiped created things, * and society you led * to the knowledge of Christ our God, * for whom in the end * you contested and won the crown for suffering; and therefore you entreat Him * to save from harm those who honor you."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera03.text = "Godly-minded Artemios, * you delivered your sorely tried * strong and sturdy body to be tormented by * terrible flogging and various * instruments of punishment, * never once renouncing Christ, * never offering sacrifice * to the graven gods, * but enduring as though another suffered, and anticipating future * immortal glory as recompense."
+meVE.Stichera03.text = "Godly-minded Artemius, * you delivered your sorely tried * strong and sturdy body to be tormented by * terrible flogging and various * instruments of punishment, * never once renouncing Christ, * never offering sacrifice * to the graven gods, * but enduring as though another suffered, and anticipating future * immortal glory as recompense."
 
 meVE.SticGlory.poet = poets_en_US_dedes.Stouditou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = "Let us honor Artemius, that noetic luminary of the Faith. He rebuked the despicable emperor. He underwent martyrdom; and with his blood, God vested the Church in imperial purple. He received from God the abundant grace of healing, to cure the diseases of those who come with faith to the case of his holy relics."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
 meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
@@ -278,7 +278,7 @@ meMA.Ode9H.text = he.h.m2_en_US_dedes.AnarchouGennitoros.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion1.text = "Standing, O Saint Artemios, * before the Holy Trinity, * and glowing with the splendid light * thence emanating richly, * from heaven do now watch over * those who with longing honor you, * O Martyr, great and glorious, * excellent and victorious soldier of Christ, * fighting with divine weapons as an ally * of the cross-bearing Emperor * against warring opponents."
+meMA.Exaposteilarion1.text = "Standing, O Saint Artemius, * before the Holy Trinity, * and glowing with the splendid light * thence emanating richly, * from heaven do now watch over * those who with longing honor you, * O Martyr, great and glorious, * excellent and victorious soldier of Christ, * fighting with divine weapons as an ally * of the cross-bearing Emperor * against warring opponents."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
@@ -392,7 +392,7 @@ alt1.meVE.SticGlory3.text = "And let us stand around the highly revered casket a
 
 alt1.meVE.SticGlory4.mode = misc_en_US_dedes.Mode6
 alt1.meVE.SticGlory4.melody = 
-alt1.meVE.SticGlory4.text = "Seized with awe, viewing the all-venerable body from which miracles emanate, let us piously honor the servant of Christ, and let us hasten to cry out the hymn: \"Behold, the most wondrous Gerasimos is on display."
+alt1.meVE.SticGlory4.text = "Seized with awe, viewing the all-venerable body from which miracles emanate, let us piously honor the servant of Christ, and let us hasten to cry out the hymn: \"Behold, the most wondrous St. Gerasimos is on display."
 
 alt1.meVE.SticGlory5.mode = misc_en_US_dedes.Mode3
 alt1.meVE.SticGlory5.melody = 
@@ -456,7 +456,7 @@ alt1.meVE.Aposticha3.text = "Joyous Kefallinia is glad * having received you as 
 
 alt1.meVE.AposGlory.mode = misc_en_US_dedes.Mode8
 alt1.meVE.AposGlory.melody = 
-alt1.meVE.AposGlory.text = "Who can worthily extol your ascetic feats, and your many miracles, O wonder-working father Gerasimos. For you lived on earth as an angel, O blessed one; and you have worthily been glorified, by the abundant granting of grace. For not only did you appear alive and extract the woman from the well, but you also deliver many people from the scourge of unclean spirits. Therefore, we fall down before your precious relic, and cry aloud to you: Render the merciful Lord gracious towards us, we beseech you, O holy father."
+alt1.meVE.AposGlory.text = "Who can worthily extol your ascetic feats, and your many miracles, O wonder-working father Gerasimos. For you lived on earth as an angel, O blessed one; and you have been worthily glorified, by the abundant granting of grace. For not only did you appear alive and extract the woman from the well, but you also deliver many people from the scourge of unclean spirits. Therefore, we fall down before your precious relic, and cry aloud to you: Pray to our merciful Lord to be gracious towards us, we beseech you, O holy father."
 
 alt1.meVE.AposBoth.mode = misc_en_US_dedes.Mode8
 alt1.meVE.AposBoth.melody = 
@@ -1129,7 +1129,7 @@ alt1.meMA.Lauds4.text = "O blessed father Gerasimos, * Kefallinia claims you * a
 
 alt1.meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
 alt1.meMA.LaudsGlory.melody = 
-alt1.meMA.LaudsGlory.text = "Thus says the Abbot to the nuns: My children, maintain peace within yourselves, and set not your minds on things exalted, but humble yourselves for the Lord who humbled himself for us, even unto the form of a slave; for He said He gives grace to the humble. Remember that you have renounced the things of the world and are joined to Christ, who is comely in beauty, more than all mortals, and who has promised His Kingdom to those who crucify themselves together with the passions, and follow after Him in truth. Keep awake, there, and pray, that you may escape the nets and snares of the soul-corruptor. From these may He who loves mankind preserve you, granting you expiation of sins, through me the lowly, on Judgment Day."
+alt1.meMA.LaudsGlory.text = "Thus says the Abbot to the nuns: My children, maintain peace within yourselves, and set not your minds on things exalted, but humble yourselves for the Lord who humbled himself for us, even unto the form of a slave; for He said He gives grace to the humble. Remember that you have renounced the things of the world and are joined to Christ, who is comely in beauty, more than all mortals, and who has promised His Kingdom to those who crucify themselves together with the passions, and follow after Him in truth. Keep awake, there, and pray, that you may escape the nets and snares of the soul-corrupter. From these may He who loves mankind preserve you, granting you expiation of sins, through me the lowly, on Judgment Day."
 
 alt1.meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode8
 alt1.meMA.LaudsTheotokion.melody = 
