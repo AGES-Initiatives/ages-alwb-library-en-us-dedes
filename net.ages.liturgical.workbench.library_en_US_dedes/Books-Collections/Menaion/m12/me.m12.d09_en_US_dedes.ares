@@ -47,7 +47,7 @@ meVE.SticGlory.text = me.m09.d13_en_US_dedes.meVE.SticGlory.text
 meVE.SticBoth.poet = poets_en_US_dedes.Germanou
 meVE.SticBoth.mode = misc_en_US_dedes.Mode1
 meVE.SticBoth.melody = ""
-meVE.SticBoth.text = ""
+meVE.SticBoth.text = "The magnificent paradox and mystery, that was kept a secret from the Angels and mankind, and yet was prophesied from the beginning of time, yes, Mary, who would bear the divine Son, is conceived today in temperate Anna's womb. She is being prepared so that she can ultimately carry the eternal King of all, for the remaking of our human nature. Let us entreat her with a clean conscience and sing to her, \"You are the protection of us Christians. Intercede with your Son and God, for the salvation of our souls.\""
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
 meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
@@ -67,7 +67,7 @@ meVE.AposGlory.text = me.m09.d13_en_US_dedes.meVE.AposGlory.text
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode2
 meVE.AposBoth.melody = ""
-meVE.AposBoth.text = ""
+meVE.AposBoth.text = "Today, from the root of David, has the royal Purple Robe sprouted from Joachim, and it begins to grow the mystical flower, into which Christ our God will blossom and save our souls."
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = ""
@@ -650,12 +650,13 @@ meMA.Lauds6.text = "Ends of the earth, be glad. * Behold, today the Mother * of 
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = "O Word of God, who rests in the bosom of the Father, send down Your Holy Spirit in this Sanctuary, which was erected in Your name."
+meMA.LaudsGlory.text = "O Logos of God, who rests in the bosom of the Father, send down Your Holy Spirit in this Sanctuary, which was erected in Your name."
 
 meMA.LaudsBoth.mode = misc_en_US_dedes.Mode2
 meMA.LaudsBoth.melody = ""
-meMA.LaudsBoth.text = "Today, from the root of David, has the royal Purple Robe sprouted from Joachim, and it begins to grow the mystical flower, into which Christ our God will blossom and save our souls."
+meMA.LaudsBoth.text = meVE.AposBoth.text
 
+meMA.MM.Lauds123456as123456.text = properties_en_US_dedes.media.key
 meMA.MM.Lauds1234as5678.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode

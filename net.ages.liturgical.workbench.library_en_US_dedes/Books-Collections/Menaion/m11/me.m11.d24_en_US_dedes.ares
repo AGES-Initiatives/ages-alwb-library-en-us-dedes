@@ -43,7 +43,7 @@ meVE.Stichera06.text = "O Hieromartyr of Christ, after you excelled as a pastor,
 meVE.SticGlory.poet = poets_en_US_dedes.Klimentos
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Most sacred Clement, you separated your mind from the turbulence of the passions, and you devoted it to the knowledge of reality. Therefore, the Supreme and Primary Being drew you to this knowledge through Peter, the leader of the Apostles; he initiated you into the knowledge of God, and he left you as his worthy successor. You succeeded him in leading the Church well, O all-wise Father. Through a martyric death you depart to God immaculately united to Him as a god. O Hieromartyr and Apostle, entreat Him unceasingly that we may also attain that deification."
+meVE.SticGlory.text = "Most sacred Clement, you separated your mind from the turbulence of the passions, and you devoted it to the knowledge of reality. Therefore, the Supreme and Primary Being drew you to this knowledge through Peter, the leader of the Apostles; he initiated you into the knowledge of God, and he left you as his worthy successor. You succeeded him in leading the Church well, O all-wise Father. Through a martyric death you departed to God, immaculately united to Him as a god. O Hieromartyr and Apostle, entreat Him unceasingly that we may also attain that deification."
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode8
 meVE.SticBoth.melody = ""
@@ -64,7 +64,7 @@ meVE.Aposticha3.text = "The Theotokos, who is superior to all, is shown to the w
 meVE.AposGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode4
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "You were anointed priest by the hand of God, O Saint Peter. You were the  namesake of the Chief Apostle, and you participated in his works; as a wise and true shepherd you fed the rational sheep on the pastures of the Gospel. You also became the worthy successor of Mark. You finished the race of the Faith by blood of martyrdom, sacrificing yourself for your people and thus imitating Christ. Intercede on behalf of our souls."
+meVE.AposGlory.text = "You were anointed priest by the hand of God, O Saint Peter. You were the  namesake of the Chief Apostle, and you participated in his works; as a wise and true shepherd you fed the rational sheep in the pastures of the Gospel. You also became the worthy successor of Mark. You finished the race of Faith by blood of martyrdom, sacrificing yourself for your people and thus imitating Christ. Intercede on behalf of our souls."
 
 meVE.AposBoth.mode = misc_en_US_dedes.Mode8
 meVE.AposBoth.melody = ""
@@ -500,8 +500,6 @@ meMA.Lauds4.text = "Glowing in the priestly vestments, and adorned by the crown 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = me.m11.d08_en_US_dedes.meVE.LityBoth.text
-
-meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meMA.Aposticha1.mode = misc_en_US_dedes.Mode2
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name

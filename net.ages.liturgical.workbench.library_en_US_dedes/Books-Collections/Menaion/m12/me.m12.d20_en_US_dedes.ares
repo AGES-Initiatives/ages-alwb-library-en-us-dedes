@@ -78,7 +78,7 @@ meVE.AposGlory.text = ""
 meVE.AposBoth.poet = poets_en_US_dedes.Kyprianou
 meVE.AposBoth.mode = misc_en_US_dedes.Mode2
 meVE.AposBoth.melody = ""
-meVE.AposBoth.text = ""
+meVE.AposBoth.text = me.m12.d12_en_US_dedes.meVE.AposBoth.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
@@ -671,8 +671,6 @@ meMA.LaudsBoth.poet = poets_en_US_dedes.RomanouTouMelodou
 meMA.LaudsBoth.mode = misc_en_US_dedes.Mode6
 meMA.LaudsBoth.melody = he.a.m6_en_US_dedes.AiAngelikai.name
 meMA.LaudsBoth.text = ""
-
-meMA.MM.LaudsSunday.text = properties_en_US_dedes.media.key
 
 meMA.Aposticha1.mode = misc_en_US_dedes.Mode4
 meMA.Aposticha1.melody = ""

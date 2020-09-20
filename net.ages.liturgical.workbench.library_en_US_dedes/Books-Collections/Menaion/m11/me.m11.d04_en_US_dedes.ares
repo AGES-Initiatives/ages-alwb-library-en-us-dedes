@@ -1,14 +1,14 @@
 A_Resource_Whose_Name = me.m11.d04_en_US_dedes
 
 meDate.text = "November 4"
-meCommemoration.text = "Memory of our Devout Father Ioannikios the Great; and the Holy Hieromartyrs Nikandros, Bishop of Myra, and Hermaios the Priest." // full title of day
-meShortCommemoration1.text = "Memory of our Devout Father Ioannikios the Great"
-meCom1.title = "For St. Ioannikios."
-meCom2.title = "For St. Nikandros."
-meInsert1 = "and our Devout Father Ioannikios the Great," // for use in petitions and dismissal
+meCommemoration.text = "Memory of our Devout Father Joannicius the Great; and the Holy Hieromartyrs Nicander, Bishop of Myra, and Hermias the Priest." // full title of day
+meShortCommemoration1.text = "Memory of our Devout Father Joannicius the Great"
+meCom1.title = "For St. Joannicius."
+meCom2.title = "For St. Nicander."
+meInsert1 = "and our Devout Father Joannicius the Great," // for use in petitions and dismissal
 meInsert2 = "whose memory we are observing," // for use in petitions and dismissal
 meNote.text = ""
-meLE.commemoration1 = "Our Venerble Father Ioannikios the Great. Hieromartyrs Nikandros, Bishop of Myra, and Hermaios the Presbyter."
+meLE.commemoration1 = "Our Venerble Father Joannicius the Great. Hieromartyrs Nicander, Bishop of Myra, and Hermias the Presbyter."
 meLE.commemoration2 = ""
 meHO.number = ""
 meHO.rank = ""
@@ -26,7 +26,7 @@ meVE.Stichera02.text = "O all-blessed one, riding on * contemplation of higher h
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera03.text = "You were bright with the shining rays * of the gifts of the Spirit's grace, * godly-minded father Ioannikios. * You are a star for the whole wide world; * you pray and you drive away * pain and misery and grief * and the darkness the passions bring; * and from every ill * and from perils you rescue and deliver those who loyally now honor * your ever-ven'rable memory."
+meVE.Stichera03.text = "You were bright with the shining rays * of the gifts of the Spirit's grace, * father Joannicius, O godly-minded Saint. * You are a star for the whole wide world; * you pray and you drive away * pain and misery and grief * and the darkness the passions bring; * and from every ill * and from perils you rescue and deliver those who loyally now honor * your ever-ven'rable memory."
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode2
 meVE.Stichera04.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
@@ -34,15 +34,15 @@ meVE.Stichera04.text = "Bearing, by God's providence, the name * signifying vict
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode2
 meVE.Stichera05.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.Stichera05.text = "You pour out abundantly to us * healing, like a redolent perfume, O wise St. Nikandros, * today as we celebrate your sacred memory. * You dispel all the stench and pain * of bodily ailments, * and you fill believers' souls with grace abundantly, * as they sing to Christ God the Savior, * \"You, the never-emptying perfume, * fill us with Your fragrance as we sing Your praise.\""
+meVE.Stichera05.text = "You pour out abundantly to us * healing, like a redolent perfume, O wise St. Nicander, * today as we celebrate your sacred memory. * You dispel all the stench and pain * of bodily ailments, * and you fill believers' souls with grace abundantly, * as they sing to Christ God the Savior, * \"You, the never-emptying perfume, * fill us with Your fragrance as we sing Your praise.\""
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode2
 meVE.Stichera06.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
-meVE.Stichera06.text = "Since you speak with confidence to Christ, * who is glorified in His holy ones as the only Lord, * earnestly entreat Him, O devout St. Nikandros, * on behalf of all who with love * are now celebrating * your most sacred memory and are extolling your feats, * that we may by your intercessions * partake of the glory and blessings, * divine and ineffable, that you you enjoy."
+meVE.Stichera06.text = "Since you speak with confidence to Christ, * who is glorified in His holy ones as the only Lord, * earnestly entreat Him, O devout St. Nicander, * on behalf of all who with love * are now celebrating * your most sacred memory and are extolling your feats, * that we may by your intercessions * partake of the glory and blessings, * divine and ineffable, that you you enjoy."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "With valor you ran the race of ascetic discipline, and with zeal you completed the long distance run of the virtues. You killed the sinful passions like wild beasts, and thus you preserved undistorted the image of God in you. You became a treasury of the Spirit, and thus you foresaw things far away as if present, and you became known as a worker of miracles, O God-bearing father Ioannikios. Now that you stand near the throne of God, you unceasingly intercede, for the salvation of our souls."
+meVE.SticGlory.text = "With vigor you ran the race of ascetic discipline, and with zeal you completed the long distance run of the virtues. You killed the sinful passions as if they were wild beasts, and thus you preserved undistorted the image of God in you. You became a treasury of the Spirit, and thus you foresaw things far away as if present, and you became known as a worker of miracles, O God-bearing father Joannicius. Now that you stand near the throne of God, you unceasingly intercede, for the salvation of our souls."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
 meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
@@ -54,7 +54,7 @@ meVE.SticStavrotheotokion.text = oc.m2.d4_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "When your mind was smitten with love for Christ, you went up a high mountain, O Ioannikios, and you received manifold gifts of grace, to cure the diseases of those who with longing extol your divine repose."
+meVE.AposGlory.text = "When your mind was smitten with love for Christ, you went up a high mountain, O Joannicius, and you received manifold gifts of grace, to cure the diseases of those who with longing extol your divine repose."
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.AposTheotokion.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
@@ -64,7 +64,7 @@ meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode6
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
 meVE.AposStavrotheotokion.text = oc.m6.d1_en_US_dedes.ocSV.Aposticha2.text
 
-meVE.GeneralApolytikion1.name = "Ioannikios," // name of saint for General Apolytikia when not in Menaion
+meVE.GeneralApolytikion1.name = "Joannicius," // name of saint for General Apolytikia when not in Menaion
 meVE.MM.GeneralApolytikion1.text = properties_en_US_dedes.media.key
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
@@ -478,11 +478,11 @@ meMA.Ode9H.text = he.h.m4_en_US_dedes.EvaMenToTisParakois.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-meMA.Exaposteilarion1.text = "The carnal drives and appetites * in you, Ioannikios, * you wisely subordinated * to your ruling mind, O wise one. * Thereafter you obtained from God * glory divine, and you attained * the pinnacle of things desired. * So never cease interceding * for us, O all-blessed Father."
+meMA.Exaposteilarion1.text = "O Joannicius, wisely you subordinated carnal drives * and appetites that were in you * to your ruling mind, O wise one. * Thereafter you obtained from God * glory divine, and you attained * the pinnacle of things desired. * So never cease interceding * for us, O all-blessed Father."
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-meMA.Exaposteilarion2.text = "All-blessed Titus planted you, * O holy father Nikandros. * By him you were made the bishop * of Myra, that famous city, * for you were truly God-inspired. * And there with wise St. Hermias * you witnessed for the faith of Christ. * And now, as a hieromartyr, * you rule with Him in the heavens."
+meMA.Exaposteilarion2.text = "All-blessed Titus planted you, * O holy father Nicander. * By him you were made the bishop * of Myra, that famous city, * for you were truly God-inspired. * And there with wise St. Hermias * you witnessed for the faith of Christ. * And now, as a hieromartyr, * you rule with Him in the heavens."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
