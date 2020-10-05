@@ -23,7 +23,7 @@ trVE.Stichera01.text = "Martyr fans all, come now, let us spiritually make merry
 
 trVE.Stichera02.mode = misc_en_US_dedes.Mode2
 trVE.Stichera02.melody = misc_en_US_dedes.Idiomelon
-trVE.Stichera02.text = "You extend the God-given grace of your miracles to all who run to you in faith, O martyr Theodore. And we extol you for this and say: You deliver captives, you heal the sick, you give wealth to the poor, and you rescue those who sail the seas. You averted the useless escape of slaves, and you showed robbers what their loss would be. You admonished soldiers to refrain from plunder, and you granted children their requests sympathetically. You are an ardent protector of those who keep your sacred memory. Count us with them, O most holy Martyr, and entreat Christ to grant great mercy to us who extol your martyrdom!"
+trVE.Stichera02.text = me.m02.d17_en_US_dedes.meVE.AposGlory.text
 
 trVE.Stichera03.mode = misc_en_US_dedes.Mode2
 trVE.Stichera03.melody = misc_en_US_dedes.Idiomelon
@@ -31,7 +31,7 @@ trVE.Stichera03.text = "You have proved to be a supreme gift of God, according t
 
 trVE.Stichera04.mode = misc_en_US_dedes.Mode2
 trVE.Stichera04.melody = misc_en_US_dedes.Idiomelon
-trVE.Stichera04.text = "Thrice-blessed Theodore, I honor you as the namesake of divine gifts. You were shown to be a never-setting luminary of the divine light, and thus you have illumined the entire world with your martyric feats. Being more powerful than fire, you put out the flames and crushed the head of the wily serpent. During your martyrdom, Christ was moved, and He crowned your divine head. O Great Martyr Medalist, since you have confidence before God, fervently entreat Him on behalf of our souls."
+trVE.Stichera04.text = me.m02.d17_en_US_dedes.meVE.SticGlory.text
 
 trVE.SticGlory.mode = misc_en_US_dedes.Mode6
 trVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
@@ -726,7 +726,7 @@ trMA.ExapTheotokion.text = "The Lord resided in your womb, * Theotokos, as He kn
 
 trMA.Lauds1.mode = misc_en_US_dedes.Mode1
 trMA.Lauds1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-trMA.Lauds1.text = "O faithful, let us unite now and using one voice extol * that valiant heavy-armed soldier of the heavenly army, * St. Theodore, the strong hoplite of our faith, singing mystical odes to him, * \"Martyr of Jesus, you are worthy of our awe. * Will you pray for us who honor you.\""
+trMA.Lauds1.text = me.m02.d17_en_US_dedes.meMA.Lauds2.text
 
 trMA.Lauds2.mode = misc_en_US_dedes.Mode1
 trMA.Lauds2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
@@ -734,15 +734,15 @@ trMA.Lauds2.text = "Your name denotes it, and truly You are a gift from God, * a
 
 trMA.Lauds3.mode = misc_en_US_dedes.Mode1
 trMA.Lauds3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-trMA.Lauds3.text = "By your great feats as a martyr, you did amass in yourself * the holy wealth and brilliance of the Orthodox doctrine. * You gave all your might as an acceptable gift * unto God, O Saint Theodore. And in your contests you truly fulfilled your name, * for it also means a gift to God."
+trMA.Lauds3.text = me.m02.d17_en_US_dedes.meMA.Lauds3.text
 
 trMA.Lauds4.mode = misc_en_US_dedes.Mode1
 trMA.Lauds4.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-trMA.Lauds4.text = "Let us, O feast-lovers, all now observe a sumptuous feast * on this most gay occasion, the festival of the Martyr, * and faithfully rejoice as we honor the bright * holy feast-day of his demise. * Let us extol the Lord Jesus with sacred songs, * for He glorified his memory."
+trMA.Lauds4.text = me.m02.d17_en_US_dedes.meMA.Lauds1.text
 
 trMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
 trMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
-trMA.LaudsGlory.text = "O wise Martyr Theodore, Christ has glorified your memory and made you famous in the world, a gift of holiness and a treasure of divine life, in accord with your name. And we the faithful, with one accord, rejoice as we extol the contests of your martyrdom."
+trMA.LaudsGlory.text = me.m02.d17_en_US_dedes.meMA.LaudsGlory.text
 
 trMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode6
 trMA.LaudsTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
