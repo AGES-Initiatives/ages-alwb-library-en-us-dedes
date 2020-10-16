@@ -1,12 +1,12 @@
 A_Resource_Whose_Name = me.m05.d10_en_US_dedes
 
 meDate.text = "May 10" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Holy Apostle Simon the Zealot." // full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of the Holy Apostle Simon the Zealot" // full title of day
+meShortCommemoration1.text = "Memory of the Holy Apostle Simon the Zealot"
 meCom1.title = ""
 meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
+meInsert1 = "and the holy Apostle Simon the Zealot," // for use in petitions and dismissal
+meInsert2 = "whose memory we observe," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Holy Apostle Simon the Zealot."
 meLE.commemoration2 = ""
@@ -50,7 +50,7 @@ meVE.AposGlory.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
 meVE.Apolytikion1.melody = he.ga_en_US_dedes.ApostoleAgie.name
-meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
+meVE.GeneralApolytikion1.name = "Simon," // name of saint for General Apolytikia
 
 meMA.C1Poet = poets_en_US_dedes.Theofanous
 meMA.C1Acrostic.text = ""
