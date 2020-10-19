@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = me.m05.d27_en_US_dedes
 
 meDate.text = "May 27" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
+meCommemoration.text = "Memory of the Holy and Glorious Hieromartyr Helladius" //full title of day
+meShortCommemoration1.text = "Memory of the Holy Hieromartyr Helladius"
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" //for use in petitions and dismissal
@@ -228,7 +228,7 @@ meMA.Ode9C1T.text = ""
 
 meMA.Ode9H.ode = misc_en_US_dedes.Ode9
 meMA.Ode9H.mode = misc_en_US_dedes.Mode4
-meMA.Ode9H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9H.melody = misc_en_US_dedes.HeirmosNotMetered
 meMA.Ode9H.text = he.h.m4_en_US_dedes.TonAsporonTokonSou.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
