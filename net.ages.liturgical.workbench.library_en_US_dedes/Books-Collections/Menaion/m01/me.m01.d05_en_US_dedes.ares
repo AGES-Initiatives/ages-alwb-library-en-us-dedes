@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m01.d05_en_US_dedes
 
 meDate.text = "January 5" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Forefeast of Epiphany; and Memory of the Holy Martyrs Theopemtos and Theonas, and Devout St. Synclitiki." // full title of day
+meCommemoration.text = "Forefeast of Epiphany; and Memory of the Holy Martyrs Theopemtus and Theonas, and Devout St. Syncletike." // full title of day
 meShortCommemoration1.text = "Forefeast of Epiphany."
 meCom1.title = ""
 meCom2.title = ""
@@ -18,27 +18,27 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.text = "Let us sing hymns in praise of wise * Theonas and Theopemptus. * They obeyed the dogmas of Christ, and famously * they put an end to all fraudulent religion and lawless rites * by their holy and divine * pious faith and their worship of the one Lord and God, * whom they bravely confessed before the tyrants, * who then tortured them and killed them. * And from on high they received their crowns."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.text = "Holy Martyrs extolled by all, * you renounced all mundane pursuits * of this earthly life, namely ease and luxury * and fading glory and high esteem, * and mightily cleaved to Christ; * and delightfully enthralled * by His beauty and handsomeness, * you offered yourselves * as if redolent roses, and together by the might of God were honored * with crowns and reign with Him evermore."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = "You who hated all things mundane, * have become now supermundane, * you have joined the Church of the firstborn in the heights. * And with the Angels on high you sing the pure and immortal song, * standing face to face with God * in His presence along with them. * For as martyr saints, * you extinguished the fraudulent deception of idolatry and vanquished * the tyrants' rage and insanity."
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode1
 meVE.Stichera04.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera04.text = ""
+meVE.Stichera04.text = "You truly longed to acquire the Fathers' good repute * and wished to gain immortal fame and glory in heaven. * You therefore stayed away from the pleasures of life, * and you gave yourself over to * bodily labors; and now you have the rewards * for your labors, as you reign with Christ."
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode1
 meVE.Stichera05.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera05.text = ""
+meVE.Stichera05.text = "The Lord permitted the devil to injure Job old. * He also let him test you, * as if gold in the fire. * The evil one afflicted your body with pain; * and that tempter was put to shame, * for you endured every illness with faith in God, * who has given you the victor's crown."
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode1
 meVE.Stichera06.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera06.text = ""
+meVE.Stichera06.text = "O saintly woman, your wish was to be a bride of Christ. * The Bridegroom's handsome beauty * was the object of your longing. * Therefore through ascetical labors and feats, * you prepared and adorned yourself * with every virtue. And now you are joined to Him * in His bridal room and reign with Him."
 
 meVE.SticGlory.poet = poets_en_US_dedes.Germanou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
@@ -47,15 +47,16 @@ meVE.SticGlory.text = me.m01.d02_en_US_dedes.meMA.Aposticha2.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode6
 meVE.Aposticha1.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = "Let everything on earth rejoice, * and earth itself exult and be glad. * For the Savior, the true river of delight, * is baptized in the river. * He dries up streams of evil, * and He pours out divine forgiveness to all."
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode6
 meVE.Aposticha2.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.text = "Though Jesus, the bestower of light, * is not in need of baptism, * He is coming to the Jordan in the flesh, * for He wishes to illumine * those sitting in the darkness. * Let us with faith and fervor meet Him there."
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode6
 meVE.Aposticha3.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.text = "Now having worn a servant's form, * O Christ, you come to be baptized * by a servant in the Jordan River's streams,
+and You free us from bondage * to primal sin, and also * You sanctify us and illumine us."
 
 meVE.AposGlory.poet = poets_en_US_dedes.Vyzantiou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
