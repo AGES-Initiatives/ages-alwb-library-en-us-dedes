@@ -1,16 +1,16 @@
 A_Resource_Whose_Name = me.m06.d14_en_US_dedes
 
 meDate.text = "June 14" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Holy Prophet Elisha; and our Father among the Saints Methodios the Confessor, Archbishop of Constantinople." // full title of day
-meCommemoration2.text = "Memory of our Father among the Saints Methodios the Confessor, Archbishop of Constantinople." // full title of day
+meCommemoration.text = "Memory of the Holy Prophet Elisha; and our Father among the Saints Methodius the Confessor, Archbishop of Constantinople." // full title of day
+meCommemoration2.text = "Memory of our Father among the Saints Methodius the Confessor, Archbishop of Constantinople." // full title of day
 meShortCommemoration1.text = "Memory of the Holy Prophet Elisha"
 meCom1.title = ""
 meCom2.title = ""
-meInsert1 = "and the holy Prophet Elisha," // for use in petitions and dismissal
+meInsert1 = "and the holy Prophet Elisha, and our Father among the Saints Methodius, Archbishop of Constantinople," // for use in petitions and dismissal
 meInsert2 = "whose memory we observe," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Holy Prophet Elissaios (Elisha)."
-meLE.commemoration2 = "Saint Methodios, Archbishop of Constantinople."
+meLE.commemoration2 = "Saint Methodius, Archbishop of Constantinople."
 meHO.number = ""
 meHO.rank = ""
 meHO.commemorations = ""
@@ -59,7 +59,7 @@ meVE.SticStavrotheotokion.text = ""
 meVE.Aposticha4.poet = poets_en_US_dedes.FotiouPatriarchou
 meVE.Aposticha4.mode = misc_en_US_dedes.Mode4
 meVE.Aposticha4.melody = misc_en_US_dedes.Idiomelon
-meVE.Aposticha4.text = ""
+meVE.Aposticha4.text = "The Church is happily decorated today, and with great joy she sings, \"My beauty has been enhanced, more than any city. For behold, that great gem of a Hierarch, glorious Methodius, has made his way to heaven.\" So come, all you Orthodox Christians and fans of the Church's feasts: let us stand at attention around his sacred casket, that we may receive a flood of cures from it. And let us entreat our Saint to pray to Christ our God, to deliver the whole world from every heresy."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
 meVE.AposGlory.melody = ""
@@ -79,7 +79,7 @@ meVE.Apolytikion1.text = me.m07.d20_en_US_dedes.meVE.Apolytikion1.text
 
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode8
 meVE.Apolytikion2.melody = he.ga_en_US_dedes.OrthodoxiasOdigeH.name
-meVE.GeneralApolytikion2.name = "O Father and Hierarch Methodios," // name of saint for General Apolytikia
+meVE.GeneralApolytikion2.name = "Methodius," // name of saint for General Apolytikia
 
 meMA.C1Poet = poets_en_US_dedes.IoannouMonachou
 meMA.C1Acrostic.text = ""
@@ -315,16 +315,16 @@ meMA.Ode6H.text = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode8
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.TiYpermacho.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "Since you received the Spirit's grace in double measure, * you have appeared to all as wonderful Prophet, * for you rescue out of danger those who sing your praises, * and give out gifts of miracles you do by grace * to the people who rely on it with ardent faith, * and who salute you and say, \"Rejoice, O Prophet inspired by God!\""
 
-meMA.Oikos1.text = ""
-meMA.Oikos12.text = ""
-meMA.Oikos13.text = ""
-meMA.Oikos14.text = ""
-meMA.Oikos15.text = ""
-meMA.Oikos16.text = ""
-meMA.Oikos17.text = ""
-meMA.Oikos18.text = ""
+meMA.Oikos1.text = "When the Sun of Righteous brightly shone in your illumined soul, it dispelled from it all the mist of sin, and He showed you to be a most brilliant Prophet. And ever since, we raise our voices and salute you."
+meMA.Oikos12.text = "Rejoice! You preferred nothing over God. Rejoice! You slaughtered the yoke of oxen."
+meMA.Oikos13.text = "Rejoice! You left behind your entire life. Rejoice! You acquired a secure wealth of grace."
+meMA.Oikos14.text = "Rejoice! You followed God when He called you. Rejoice! You now enjoy the gifts He gave you"
+meMA.Oikos15.text = "Rejoice! You obtained the Elijah's mantle. Rejoice! You at once parted the river."
+meMA.Oikos16.text = "Rejoice! You crossed the water without getting wet. Rejoice! You are the guardian of many souls."
+meMA.Oikos17.text = "Rejoice! You were given the knowledge of secrets. Rejoice! Dead or alive, you still oversee us."
+meMA.Oikos18.text = "Rejoice, O Prophet inspired by God!"
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
@@ -462,7 +462,7 @@ meMA.Exaposteilarion1.text = "You went from being a plower * to a prophet, O Eli
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.TonMathitonOrontonSe.name
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.text = "Like the rising sun, you shone forth with brilliance; * having won the contest, you set as in evening. * And you still enlighten the entire world * by the wise teachings you left behind. * O Methodius, God-bearing father, * pray to the Lord to save us."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.TonMathitonOrontonSe.name
@@ -471,7 +471,7 @@ meMA.ExapTheotokion.text = da.d7_en_US_dedes.daMA.ExapTheotokion2.text
 meMA.AposGlory.poet = poets_en_US_dedes.FotiouPatriarchou
 meMA.AposGlory.mode = misc_en_US_dedes.Mode6
 meMA.AposGlory.melody = misc_en_US_dedes.Idiomelon
-meMA.AposGlory.text = ""
+meMA.AposGlory.text = "The great Hierarch Methodius rose as a star of Orthodoxy from where the visible sun sets; he dispelled the mist of the heretics, and he reposed in the true orient of the rising of the Sun of Righteousness, Christ our God. And there, he is in the company of bodiless hosts, and he stands near the throne of the Trinity, as a Monastic, as a Martyr, as a Priest, and as a Patriarch, in the active life and in contemplation; and he prays that great mercy be given to us who in faith observe his sacred memory."
 
 meMA.AposTheotokion.mode = misc_en_US_dedes.Mode6
 meMA.AposTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
