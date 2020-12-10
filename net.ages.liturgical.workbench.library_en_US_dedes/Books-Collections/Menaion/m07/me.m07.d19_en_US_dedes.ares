@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = me.m07.d19_en_US_dedes
 
 meDate.text = "July 19"
-meCommemoration.text = "Memory of Devout St. Makrina, the sister of St. Basil the Great; and also Memory of our Devout Father Dios." //full title of day
-meShortCommemoration1.text = "Memory of Sts. Makrina and Dios."
-meCom1.title = "For St. Makrina."
-meCom2.title = "For St. Dios."
+meCommemoration.text = "Memory of Devout St. Macrina, the sister of St. Basil the Great; and also Memory of our Devout Father Dius." //full title of day
+meShortCommemoration1.text = "Memory of Sts. Macrina and Dius."
+meCom1.title = "For St. Macrina."
+meCom2.title = "For St. Dius."
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
 meNote.text = ""
@@ -18,27 +18,27 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.text = "Living philosophically, you demonstrated the soul to be * both immortal and self-propelled. * You therefore worked hard to be * wholly undefiled * by the stains of sin, and you cleansed yourself of every spot * and freed yourself from all bodily restraints, * so that having no stain nor wrinkle, you might stand near your Bridegroom Christ, * chaste and blameless in every way, O Macrina, inspired by God."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.text = "By leading a life of chastity, you kept your virginity * wholly spotless and undefiled, * distributing all your wealth, * and thereby fulfilling * the divine commandment of Christ. And then leaving behind * the earth and all things mundane, you followed Him. * And therefore He has granted you heaven and everything heavenly, * in His love for humanity, the Lord Jesus who saves our souls."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = "When you died, your face was shining with a glow that was luminous, * O Macrina, all-lauded Saint, * for Christ glorified you as one of His wise virgins. * You were very god-like, a cheerful giver of your alms, * and sympathetic; you spoke the word of God. * You emulated angels in the way you led your own life on earth. * You were pleasing to God through your most illustrious way of life."
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera04.text = ""
+meVE.Stichera04.text = "We extol you, O blessed Saint, * for you rose in the firmament * of the Church of Christ as a universal star * that shines on all with noetic light. * We honor your luminous * day each year, and we receive * illumination in soul and mind, * from the most divine * emanations of light that ever come from you, the priest and wonder-worker, * the pride and joy of monastics all."
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode4
 meVE.Stichera05.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera05.text = ""
+meVE.Stichera05.text = "When your staff blossomed wondrously * once you planted it in the ground, * you became like Aaron, a holy priest of God. * O devout father, like Moses did, * you drew water from a rock. * Like Elias, by your prayers * you raised up someone who had died. * Godly-minded Saint, * blessed Dius, the Lord has glorified you, working many signs and wonders * through you and made you illustrious."
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera06.text = ""
+meVE.Stichera06.text = "When the Spirit of God indeed * had illumined your mind and heart, * you drove out the spirits of evil from the place * a monastery was built for you, * wherein you instructed souls, * and where multitudes are saved * every day, as they honor your memory, O Saint, * and in faith they extol your manly struggles and extraordinary wonders, * Dius, the pride of the fathers all."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
@@ -62,8 +62,8 @@ meMA.C1Acrostic.text = ""
 
 meMA.C2Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_US_dedes.KanonTisAgias
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -85,8 +85,8 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode4
@@ -297,13 +297,13 @@ meMA.Ode6H.text = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
 meMA.Kontakion1.poet = poets_en_US_dedes.Gerasimou
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode4
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "You were filled with light divine; you were a model * of uprightness and a guide * for all in virtue and good deeds. * Therefore we faithfully say to you: * Rejoice, Macrina, the jewel of virginity!"
 
 meMA.Kontakion2.mode = misc_en_US_dedes.Mode2
 meMA.Kontakion2.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
-meMA.Kontakion2.text = ""
+meMA.Kontakion2.text = "By arming your soul with godliness and chastity, * and wielding the sharpened sword of unceasing noetic prayer, * St. Dius, you mightily * cut your way through the lines of demonic hosts. * Wonder-working father, we pray, * unceasingly intercede on behalf of us all."
 
-meMA.Oikos2.text = ""
+meMA.Oikos2.text = "How can I, the wretch, extol your struggles, O devout father? How shall I declare the ocean of your tears? You led a distinguished life, and you attained the chorus of the Angels. O wise Saint, you put to death virtually all the passions; you made your flesh a servant and subordinated it to the spirit. With prayer as your sword, you defeated the prince of darkness. And now you intercede on behalf of us all."
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
