@@ -1,11 +1,11 @@
 A_Resource_Whose_Name = me.m12.d27_en_US_dedes
 
 meDate.text = "December 27" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Holy Proto-martyr and Archdeacon Stephen, and of our Devout Father and Confessor Theodore the Inscribed, brother of Theophanes the Hymnographer." // full title of day
-meShortCommemoration1.text = "Memory of the Holy Proto-martyr Stephen."
+meCommemoration.text = "Memory of the Holy Protomartyr and Archdeacon Stephen, and of our Devout Father and Confessor Theodore the Inscribed, brother of Theophanes the Hymnographer." // full title of day
+meShortCommemoration1.text = "Memory of the Holy Protomartyr Stephen."
 meCom1.title = ""
 meCom2.title = ""
-meInsert1 = "and the holy Proto-martyr and Archdeacon Stephen," // for use in petitions and dismissal
+meInsert1 = "and the holy Protomartyr and Archdeacon Stephen," // for use in petitions and dismissal
 meInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
 meNote.text = ""
 meLE.commemoration1 = "The Holy Protomartyr Stephen the Archdeacon."
@@ -46,7 +46,7 @@ meVE.Stichera06.text = "Now in place of affliction, praise, * and enjoyment inst
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "To the King and Master of all, who was born on earth, Stephen is presented as a splendid crown that is decorated, not with jewels, but with his own blood. Come, you fans of the Martyrs, let us take up songs like pennants, and let us wave them above our heads; and as we sing our hymns, let us say to him: \"Your soul was adorned with wisdom and grace, O Proto-Martyr of Christ God. Pray for us, that we may receive peace and great mercy.\""
+meVE.SticGlory.text = "To the King and Master of all, who was born on earth, Stephen is presented as a splendid crown that is decorated, not with jewels, but with his own blood. Come, you fans of the Martyrs, let us take up songs like pennants, and let us wave them above our heads; and as we sing our hymns, let us say to him: \"Your soul was adorned with wisdom and grace, O Protomartyr of Christ God. Pray for us, that we may receive peace and great mercy.\""
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode2
 meVE.SticBoth.melody = ""
@@ -303,7 +303,7 @@ meMA.Ode6C12.text = "O Christ our Master, St. Stephen became the excellent imita
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_dedes.Mode5
 meMA.Ode6C13.melody = he.h.m5_en_US_dedes.MainomeninKlydoni.notmetered
-meMA.Ode6C13.text = "O Christ, preserve us who sing the Proto-Martyr's praises from any blood-guilty deed, but rather make them worthy of his lot, since You are compassionate."
+meMA.Ode6C13.text = "O Christ, preserve us who sing the Protomartyr's praises from any blood-guilty deed, but rather make them worthy of his lot, since You are compassionate."
 
 meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1T.mode = misc_en_US_dedes.Mode5
@@ -503,12 +503,12 @@ meMA.Lauds5.text = "Glorious Stephen, citizen of heaven, blessed servant of Chri
 
 meMA.Lauds6.mode = misc_en_US_dedes.Mode4
 meMA.Lauds6.melody = misc_en_US_dedes.Idiomelon
-meMA.Lauds6.text = "Stephen, the fine first-fruit of the Martyrs, full of grace and power, did great wonders and signs among the people. And he was stoned by those who broke the Law. But he shined like an angel, and he saw the glory of You who were incarnate for us and who were standing at the right hand of the Power; and by the Spirit of grace he was taken into heaven. He therefore dwells with the choirs of Angels, and he intercedes for the salvation of our souls."
+meMA.Lauds6.text = me.m08.d02_en_US_dedes.meMA.LaudsGlory.text
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Kyprianou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
 meMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
-meMA.LaudsGlory.text = "O Protomartyr, Apostle and first Deacon, you are the gateway of Martyrs, the glory of the Righteous, and the pride and joy of the Apostles. When you stood trial, You saw the heavens opened and the Son of God standing at the right hand of the invisible Father. Your face shone like an Angel. And with joy you cried on behalf of those who were stoning you, \"Do not hold this sin against them.\" So now, pray for us who lovingly sing your praises, that we may receive forgiveness of sins and great mercy."
+meMA.LaudsGlory.text = me.m08.d02_en_US_dedes.meMA.AposGlory.text
 
 meMA.LaudsBoth.poet = poets_en_US_dedes.IoannouMonachou
 meMA.LaudsBoth.mode = misc_en_US_dedes.Mode5
