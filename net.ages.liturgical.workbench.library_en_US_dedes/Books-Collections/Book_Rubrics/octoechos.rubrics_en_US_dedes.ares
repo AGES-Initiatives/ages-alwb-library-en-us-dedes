@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = oc.m1.d1.rubrics_en_US_dedes
+A_Resource_Whose_Name = octoechos.rubrics_en_US_dedes
 
 ocSV.R001 = "At,"
 ocSV.R002 = "Lord, I have cried,"
@@ -7,7 +7,14 @@ ocSV.R004 = "Theotokion, so-called the Dogmatic."
 ocSV.R005 = "After,"
 ocSV.R006 = " \"O Lord, keep us this evening...\""
 ocSV.R007 = "we sing the Resurrectional Sticheron,"
-ocVE.Aposticha1.incipit = "By your Passion...,"
+ocVE.Aposticha1.incipit1 = "By your Passion...," //HC
+ocVE.Aposticha1.incipit2 = "Your resurrection, O Christ our Savior..." //HC
+ocVE.Aposticha1.incipit3 = ""
+ocVE.Aposticha1.incipit4 = ""
+ocVE.Aposticha1.incipit5 = ""
+ocVE.Aposticha1.incipit6 = ""
+ocVE.Aposticha1.incipit7 = ""
+ocVE.Aposticha1.incipit8 = ""
 ocSV.R008 = "and then the following Prosomoia:"
 
 ocVE.R001 = "After the introductory Psalm and the first Kathisma of the Psalter, at"
@@ -22,6 +29,9 @@ ocVE.R009 = "and after the Exclamation, we sing the Idiomelon of the Saint of th
 ocVE.R010 = "Additional Aposticha by St. John of Damascus. These hymns and the Resurrectional Aposticha of the other modes have as an acrostic the Greek alphabet. The eight Theotokia have a separate acrostic in Greek, \"By John. Amen.\""
 ocVE.R011 = "for the Saint, if there is one. Otherwise,"
 ocVE.R012 = "And the rest of the vigil."
+ocVE.R013 = "And the Dismissal."
+ocVE.R014 = "On days when Alleluia will be sung at Matins, at Vespers the hymns for the Martyrs are sung at \"Lord, I have cried\"; at the Aposticha, we sing the first hymn for the Martyrs and two idiomela for the Dead; we split the verse and for the second verse we use:"
+ocVE.R015 = "The Aposticha, which in Greek have the Alphabet as acrostic. By St. John of Damascus."
 
 ocMO.R001 = "The Megalynaria to the Trinity, and the rest of the Midnight Office and Dismissal."
 
@@ -31,7 +41,11 @@ ocMA.R003 = "After \"O God, save your people...\" and the Exclamation, we begin 
 ocMA.R004 = "We sing the appointed Eothinon Exaposteilarion and its Theotokion."
 ocMA.R005 = "We sing, \"Let everything that breathes...\" We use 8 verses, and we sing the 4 Resurrectional Stichera and the 4 by Anatolius. However, if it be a feast of the Theotokos or a Saint that would have a doxology, then after the 4 Resurrectional Stichera we omit the 4 by Anatolius and instead sing 4 for the feast or the Saint."
 ocMA.R006 = "Then, the Great Doxology; and after that, the following Troparion:"
-
-
+ocMA.R007 = "After the Six Psalms, we sing \"God is the Lord...\" with its verses and the Apolytikion of the Saint of the day. During Lent, we sing \"Alleluia,\" with its verses, and the Triadic hymns in the mode of the week. Then, after the first Psalter reading, we sing the following Kathismata."
+ocMA.R008 = "And after Psalm 50, we sing the following Canons."
+ocMA.R009 = "When Alleluia is sung at Matins, we sing the foregoing hymns for the Martyrs as Lauds; for the Aposticha of Lauds we sing the following Prosomoia by St. Theophanis, which, together with the corresponding Prosomoia in the other modes, create an Acrostic in Greek, \"O Christ, enroll Your servants in the book of the living.\""
+ocMA.R010 = "\"Let everything that breathes...\" The appointed Sunday Matins Gospel. Then, \"Having beheld the Resurrection of Christ...\" Psalm 50, and the rest (as laid out before). Then we sing the Canons."
+ocMA.R011 = "The appointed Eothinon Exaposteilarion."
+ocMA.R012 = "When Alleluia is sung at Matins, we sing the foregoing hymns for the Martyrs as Lauds, and the following Aposticha."
 
 
