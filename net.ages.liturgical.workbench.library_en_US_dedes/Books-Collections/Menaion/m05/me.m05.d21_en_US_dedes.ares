@@ -17,15 +17,15 @@ meHO.note1 = rubrical_en_US_dedes.HolidayWineOil
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
-meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meVE.Stichera01.text = "You gave to our Emperor Your precious Cross as the mightiest * plate of armor, O Christ our God, * by which he has reigned on earth in a righteous manner, * shining with the true faith. * You made him worthy to receive * the rule of heaven, in Your own tender love. * Almighty Jesus, Savior of our souls, with him we extol the plan * for salvation that You, O Lord, * have fulfilled in Your love for man."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meVE.Stichera02.text = "You who love humanity gave to Your servant, Saint Constantine, * the good judgment of Solomon, * and also the gentleness of the Prophet David, * and the Orthodoxy of the Apostles, as You are * the King of kings and the Lord of those who lord. * O Jesus the almighty Savior of our souls, we extol the plan * for salvation that You, O Lord, * have fulfilled in Your love for man."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meVE.Stichera03.text = "You were first, O ever-memorable Emperor, to submit * the imperium willingly * to Christ, knowing Him as God, universal Sovereign, * the world's Benefactor, Giver of victories, who is * above all power and all authority. * Then Jesus, as the Savior of our souls, O Christ-loving Constantine, * was from that time the guiding force * of your reign, in His love for man."
 
 meVE.MM.Stichera1123as78910.text = properties_en_US_dedes.media.key
@@ -69,15 +69,15 @@ meVE.LityBoth.melody = ""
 meVE.LityBoth.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.Aposticha1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
 meVE.Aposticha1.text = "You, O holy Constantine, were first * of the Christian Emperors to receive the scepter from God. * For the saving symbol that was hid beneath the earth * did appear in the sky to you. * By it you subjected * all the nations, bringing them under the Roman rule, * having as invincible armor * the life-giving Cross of the Master, * by which you were led to God, O blessed one."
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha2.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.Aposticha2.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
 meVE.Aposticha2.text = "Truly blessed is your mother's womb; * sanctified indeed is the belly of her that carried you; * for you did become the Ruler who was loved by the world, * crowned by God, O Saint Constantine, * the glory of all Kings. * You become for orphans and for widows wealth and defense; * shelter of the poor and the lowly; * truly the reversal of troubles, * and the safe return of captive prisoners."
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha3.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.Aposticha3.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
 meVE.Aposticha3.text = "Urged on by her longing and her love * for the Master Christ went the Mother of that most sweet royal son. * Hastening she came to Holy Zion and she arrived * at the sacred and holy place * upon which our Savior * willingly was crucified for the salvation of all. * There she found the Cross and she took it; * joyfully she cried aloud, Glory * to Him who gave me what I was hoping for."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
@@ -93,11 +93,11 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Your Apostle among the Rulers, St. Constantine, who once beheld in the sky the image of Your Cross, and who like Paul received his calling not from man, once entrusted the Ruling City into Your hand. We entreat You to restore it in peace forever, at the intercession of the Theotokos, O Lord who loves humanity."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode3
-meMA.Kathisma11.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
+meMA.Kathisma11.melody = he.a.m3_en_US_dedes.TheiasPisteos.incipit
 meMA.Kathisma11.text = "You became a new David in manner. * You received the oil of the kingdom, * as an honor from heaven, upon your head. * The Lord and Logos transcending all essences * anointed you with the Spirit, O glorious one. * Therefore you received the scepter to rule, as one most wise. * And you entreat that we obtain the great mercy."
 
 meMA.Kathisma1T.mode = misc_en_US_dedes.Mode3
-meMA.Kathisma1T.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
+meMA.Kathisma1T.melody = he.a.m3_en_US_dedes.TheiasPisteos.incipit
 meMA.Kathisma1T.text = ""
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode6
@@ -106,19 +106,19 @@ meMA.Kathisma21.text = "The Maker of the sun and all creation was led once to th
 
 //use the following three keys for the options in the back
 meMA.Kathisma2T.mode = misc_en_US_dedes.Mode6
-meMA.Kathisma2T.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.name
+meMA.Kathisma2T.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.incipit
 meMA.Kathisma2T.text = oc.m6.d2_en_US_dedes.ocMA.Kathisma13.text
 
 alt1.meMA.Kathisma21.mode = misc_en_US_dedes.Mode1
-alt1.meMA.Kathisma21.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+alt1.meMA.Kathisma21.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.incipit
 alt1.meMA.Kathisma21.text = ""
 
 alt1.meMA.Kathisma2T.mode = misc_en_US_dedes.Mode1
-alt1.meMA.Kathisma2T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+alt1.meMA.Kathisma2T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.incipit
 alt1.meMA.Kathisma2T.text = ""
 
 meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
-meMA.Kathisma31.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meMA.Kathisma31.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
 meMA.Kathisma31.text = "Your dignified memory has shone upon us today. * It brightens the universe with light of knowledge divine, * O God-inspired Constantine. * You among kings and rulers showed yourself to be pious, * for you obeyed the laws of the King of the heavens. * Therefore by your entreaties, from trials deliver us."
 
 meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
@@ -142,46 +142,46 @@ meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C11.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+meMA.Ode1C11.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
 meMA.Ode1C11.text = "O Master and only heavenly King, * earnestly I beg You to deliver my humble soul * from the reign of sin that now constrains it, * at the entreaties of Your faithful servant kings."
 
 meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C12.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+meMA.Ode1C12.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
 meMA.Ode1C12.text = "Becoming a lover of the divine * kingdom of the heavens, you believed in the King of all * and Master with purest mind and reason, * O blessed Constantine; therefore you worshiped Him."
 
 meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C13.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C13.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+meMA.Ode1C13.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
 meMA.Ode1C13.text = "When you were illumined with the divine * light, O godly Helen, you decidedly left behind * the darkness of ignorance, and truly * unto the King of ages you ministered."
 
 meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1T.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C1T.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+meMA.Ode1C1T.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
 meMA.Ode1C1T.text = "As you are the gateway of the divine * Orient, O Lady Theotokos, open for me * the gates of repentance and deliver me * by your entreaties from the deadly gates of sin."
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C11.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+meMA.Ode3C11.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
 meMA.Ode3C11.text = "You made haste to obtain heavenly rewards for yourself. * Hence you followed after the One who called you and left behind * the darkness and the error of your forebears, becoming * a light by the Holy Spirit, O godly-minded one."
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C12.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+meMA.Ode3C12.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
 meMA.Ode3C12.text = "O all-modest Saint Helen, clinging to Christ you had placed * all your hope on Him when you traveled unto the Holy Lands, * where the supremely good Master, becoming incarnate, * suffered His immaculate Passion to save the world."
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C13.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+meMA.Ode3C13.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
 meMA.Ode3C13.text = "All aflame with divine love, O woman blessed of God, * you unearthed the wood of the precious Cross of our Savior Christ, * the hope of Christians all, the saving weapon and trophy * that cannot be broken, that through envy was concealed."
 
 meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C1T.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+meMA.Ode3C1T.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
 meMA.Ode3C1T.text = "I have fallen, O Pure one, from a divine way of life, * and I have become like the cattle. And therefore I am now * condemned in every way. But you the just Judge's mother, * save me and deliver me from condemnation all."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
-meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.incipit
 meMA.Ode3Kathisma1.text = "When you lifted your senses toward the heights * and you studied the beauty of all the stars, * by them you were introduced to the Lord of the universe. * For the shield of the Cross shone resplendently in their midst; * there inscribed was the message, \"In this be victorious.\" * Therefore as the vision of your soul was awakened, * you read what was spelled out there, and you learned what you ought to do. * All-august St. Constantine, * intercede with Christ our God, * that He grant forgiveness of offences * to us who celebrate your holy memory with faith and love."
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode8
@@ -254,7 +254,7 @@ meMA.Ode6C1T.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.notmetered
 meMA.Ode6C1T.text = "Heal my heart, O Maiden, for it is incurably sick and seriously wounded by the poison sting of the evil one. Grant me the cure that you have, O immaculate one; and save me, by your intercessions, for I have put my hope in you."
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode3
-meMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
+meMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.incipit
 meMA.Kontakion1.text = "On this day does Constantine along with Helen his mother * show the holy Cross, that tree worthy of all veneration. * Raised on high, it is a shame for all the Judeans, * but a shield against the enemy for faithful rulers; * and for us it has been shown forth to be a great sign, * inspiring awe in war."
 
 meMA.Oikos1.text = "O believers, let us honor Constantine and Helen his mother; for, hearing the words of the Prophet, they recognized in the cedar, the pine and the cypress, the tri-composite Cross, by which the saving Passion came to pass. And they roused all the Jews, to be prepared to display before the people the great justification, hidden because of their hatred and jealousy. And when they found the Cross, they put it on display. Therefore, they were revealed to all as victors, bearing the unassailable shield, a great sign, inspiring awe in war."
@@ -301,46 +301,46 @@ meMA.Ode8C1T.text = "O Theotokos, the eyes of my soul have become blind because 
 
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C11.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+meMA.Ode9C11.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.incipit
 meMA.Ode9C11.text = "The tomb wherein your sacred and precious corpse * lies, O Constantine, surges continually with divine * lightning flashes and the resplendent rays * of cures for every malady unto all who draw near with ardent faith. * It drives away the darkness; * and by its never-setting * luster illumines those who sing your praise."
 
 meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C12.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+meMA.Ode9C12.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.incipit
 meMA.Ode9C12.text = "In saintliness you finished your earthly life. * You have now gone to dwell with the other saints, for you abound * with illumination and holiness. * And therefore you continually * overflow with rivers of cures for all. * You wash away the passions, * O blessed Saint Eleni, * and you refresh our souls with holy drink."
 
 meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C13.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C13.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+meMA.Ode9C13.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.incipit
 meMA.Ode9C13.text = "Eternally beginningless sovereign King, * You have granted to Saint Helen and to Constantine the Great * kingly rule in heaven, as in the past * You once permitted them to reign * as Orthodox Emperors on the earth, * for they sincerely loved You. * And by their intercessions * on all have mercy, O immortal Lord."
 
 meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1T.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C1T.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+meMA.Ode9C1T.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.incipit
 meMA.Ode9C1T.text = "O Virgin, you conceived the immortal King * and Creator of all, and gave birth to Him. And now behold, * you stand at His right hand, even as Queen * such as you are. And therefore, O pure one, importunely do I entreat: * Redeem me from the portion * on the left, and include me * among the right-hand sheep on Judgement Day."
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.incipit
 meMA.Exaposteilarion1.text = "The great and holy Constantine * with his mother St. Helen * did not receive imperial * rule and dominion from men * but by divine grace from heaven. * He is the one who witnessed * the divine trophy of the Cross * shining above, and by it he crushed the foes, * ending the deceptive ruse of the idols; * and he confirmed the Orthodox * faith as a world religion."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
-meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.incipit
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode8
-meMA.Lauds1.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meMA.Lauds1.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
 meMA.Lauds1.text = "Full of wisdom, Constantine, rejoice! * The well of Orthodox Faith, * that has watered in every age * the entire universe * with its waters most sweet, rejoice! * Glorious root, out of which has burgeoned forth * the fruit that feeds the entire Church of Christ, * you are the pride and joy * of the fathers; O rejoice! You are the first * of all Christian emperors. * Rejoice, believers' joy!"
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode8
-meMA.Lauds2.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meMA.Lauds2.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
 meMA.Lauds2.text = "He who rules over creation all, * O all-wise Ruler, foresaw * the obedience of your heart, * and through reason captured you * when unreason was ruling you; * and He illumined your thoughts and reasoning * with certain knowledge of Orthodox belief; * glorious Constantine, * to the world He showed you as a shining sun, * radiating brilliant beams * of godly words and deeds."
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode8
-meMA.Lauds3.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meMA.Lauds3.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
 meMA.Lauds3.text = "Full of wisdom, Helen, praised by all, when you accepted the Lord's * saving teachings, like chosen earth * you abundantly produced * many fruits of your virtuous deeds. * And by displaying a holy way of life * for imitation, you thereby feed our minds. * Therefore we celebrate * your divine memorial, O royal Saint, * festively observing it today with heightened joy."
 
 meMA.Lauds4.mode = misc_en_US_dedes.Mode8
-meMA.Lauds4.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meMA.Lauds4.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
 meMA.Lauds4.text = "You anointed paradoxically * with oil of gladness, O Christ, * holy Constantine and devout * Helen who advanced Your work, * for they hated idolatry, * and rather longingly loved Your handsomeness, * O Word, and therefore You made them worthy of * heavenly rule with You; * for they previously ruled upon the earth * with the utmost piety, at Your divine behest."
 
 meMA.MM.Lauds123as456.text = properties_en_US_dedes.media.key

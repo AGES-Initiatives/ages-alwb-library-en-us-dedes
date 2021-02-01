@@ -17,27 +17,27 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode8
-meVE.Stichera01.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
+meVE.Stichera01.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.incipit
 meVE.Stichera01.text = "Martyr Athlete, you are a gem that shines * with the brilliance of the Spirit in the Kingdom of our Christ. * For you steadfastly contested for the sake of faith in Him, * and vanquished godless forces turning them to flight, * against them claiming overwhelming victory. * We therefore honor and glorify * you as a soldier invincible. * Entreat the Lord to have mercy and to save our souls."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode8
-meVE.Stichera02.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
+meVE.Stichera02.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.incipit
 meVE.Stichera02.text = "Martyr and God-bearer St. Hyacinth, * you traversed the waves of error being piloted by Christ's * all-invincible right hand, O holy Athlete of the Lord, * and moored in the noetic harbor safe and sound, * enjoying the tranquility that never ends, * and granted glory that never fades, * in exultation forevermore. * Entreat the Lord to have mercy and to save our souls."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode8
-meVE.Stichera03.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
+meVE.Stichera03.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.incipit
 meVE.Stichera03.text = "With your body's members you glorified * the immortal God, for you were put to death confessing Him. * Thus, O Martyr, He has given you divine, immortal gifts. * And each day, by the signs and wonders you perform * in His name, * you are glorified by Him, O Saint. * Indeed your tomb has become a spring * of divine blessings, O Hyacinth. * Entreat the Lord to have mercy and to save our souls."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode8
-meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
+meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.incipit
 meVE.SticTheotokion.text = "Wretched soul, to whom shall I liken you, * insubordinate and wholly unrepentant as you are, * and persistent in your vices, unafraid of hell and fire? * Arise now, cry out to the Mother of our God, * for only she can come to help you speedily, * \"O pure one, cease not to intercede * with Christ, your Son and our God, I pray, * to rescue me * from the traps the devil lays for me.\"" //similar to me.m06.d18_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode8
-meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.name
+meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.TiYmasKalesomen.incipit
 meVE.SticStavrotheotokion.text = me.m06.d18_en_US_dedes.meVE.SticStavrotheotokion.text
 
-meMA.C1Poet = poets_en_US_dedes.Theofanous
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_dedes.Theofanous
+meMA.C1.acrostic = ""
 
 meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
@@ -83,15 +83,15 @@ meMA.Ode3H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode3H.text = he.h.m8_en_US_dedes.SyEiToStereoma.text
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode3
-meMA.Ode3Kathisma1.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
+meMA.Ode3Kathisma1.melody = he.a.m3_en_US_dedes.TheiasPisteos.incipit
 meMA.Ode3Kathisma1.text = "You are guarded in the vaults of heaven, * O most glorious, all-lauded Martyr, * as a very precious stone of the Church of Christ. * You castigated the worshipers of the stones, * and then you gladly drank the cup of martyrdom. * O St. Hyacinth, to Christ our God pray fervently, * entreating Him to grant us the great mercy."
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode3
-meMA.Ode3KathismaT.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
+meMA.Ode3KathismaT.melody = he.a.m3_en_US_dedes.TheiasPisteos.incipit
 meMA.Ode3KathismaT.text = oc.m3.d2_en_US_dedes.ocMA.Kathisma23.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode3
-meMA.Ode3KathismaSt.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
+meMA.Ode3KathismaSt.melody = he.a.m3_en_US_dedes.TheiasPisteos.incipit
 meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4

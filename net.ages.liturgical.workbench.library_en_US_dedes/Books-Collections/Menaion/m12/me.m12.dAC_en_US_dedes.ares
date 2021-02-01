@@ -18,15 +18,15 @@ meHO.note2 = ""
 meDismissal = dismissals_en_US_dedes.dis00.christmas
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode1
-meVE.Stichera01.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.Stichera01.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode1
-meVE.Stichera02.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.Stichera02.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode1
-meVE.Stichera03.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.Stichera03.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meVE.Stichera03.text = ""
 
 meVE.MM.Stichera123as567.text = properties_en_US_dedes.media.key
@@ -48,9 +48,9 @@ meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Annunciate the miracles to David the ancestor of God, O Joseph. You saw the Virgin pregnant. You glorified with the shepherds. You worshipped with the Magi. And you were warned by an Angel. Entreat Christ God to save our souls."
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
-meMA.C2Poet = poets_en_US_dedes.KosmaMonachou
+meMA.C2.poet = poets_en_US_dedes.KosmaMonachou
 
 meMA.C1.title = "Canon for Joseph the Betrothed."
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
@@ -80,27 +80,27 @@ meMA.C2.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C21.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.name
+meMA.Ode1C21.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.incipit
 meMA.Ode1C21.text = ""
 
 meMA.Ode1C22.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C22.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C22.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.name
+meMA.Ode1C22.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.incipit
 meMA.Ode1C22.text = ""
 
 meMA.Ode1C23.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C23.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C23.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.name
+meMA.Ode1C23.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.incipit
 meMA.Ode1C23.text = ""
 
 meMA.Ode1C24.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C24.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C24.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.name
+meMA.Ode1C24.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.incipit
 meMA.Ode1C24.text = ""
 
 meMA.Ode1C25.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C25.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C25.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.name
+meMA.Ode1C25.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.incipit
 meMA.Ode1C25.text = ""
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
@@ -120,32 +120,32 @@ meMA.Ode3C13.text = "O wise Joseph, the supernal mystery, which was not revealed
 
 meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_dedes.NotMetered //misc_en_US_dedes.Mode1
-meMA.Ode3C1T.melody = he.h.m1_en_US_dedes.ToProTonAionon.name
+meMA.Ode3C1T.melody = he.h.m1_en_US_dedes.ToProTonAionon.incipit
 meMA.Ode3C1T.text = "O pure Virgin, righteous Joseph looked at you Son, who took flesh from your pure blood, and who was born in a cave and laid in a manger; and he magnified with hymns who appeared like us."
 
 meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C21.mode = misc_en_US_dedes.Mode4
-meMA.Ode3C21.melody = he.h.m4_en_US_dedes.ToStereoma.name
+meMA.Ode3C21.melody = he.h.m4_en_US_dedes.ToStereoma.incipit
 meMA.Ode3C21.text = ""
 
 meMA.Ode3C22.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C22.mode = misc_en_US_dedes.Mode4
-meMA.Ode3C22.melody = he.h.m4_en_US_dedes.ToStereoma.name
+meMA.Ode3C22.melody = he.h.m4_en_US_dedes.ToStereoma.incipit
 meMA.Ode3C22.text = ""
 
 meMA.Ode3C23.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C23.mode = misc_en_US_dedes.Mode4
-meMA.Ode3C23.melody = he.h.m4_en_US_dedes.ToStereoma.name
+meMA.Ode3C23.melody = he.h.m4_en_US_dedes.ToStereoma.incipit
 meMA.Ode3C23.text = ""
 
 meMA.Ode3C24.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C24.mode = misc_en_US_dedes.Mode4
-meMA.Ode3C24.melody = he.h.m4_en_US_dedes.ToStereoma.name
+meMA.Ode3C24.melody = he.h.m4_en_US_dedes.ToStereoma.incipit
 meMA.Ode3C24.text = ""
 
 meMA.Ode3C25.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C25.mode = misc_en_US_dedes.Mode4
-meMA.Ode3C25.melody = he.h.m4_en_US_dedes.ToStereoma.name
+meMA.Ode3C25.melody = he.h.m4_en_US_dedes.ToStereoma.incipit
 meMA.Ode3C25.text = ""
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode1
@@ -178,27 +178,27 @@ meMA.Ode4C1T.text = "The invisible Archangel came to you visibly to dispel every
 
 meMA.Ode4C21.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C21.mode = misc_en_US_dedes.Mode4
-meMA.Ode4C21.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.name
+meMA.Ode4C21.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.incipit
 meMA.Ode4C21.text = ""
 
 meMA.Ode4C22.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C22.mode = misc_en_US_dedes.Mode4
-meMA.Ode4C22.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.name
+meMA.Ode4C22.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.incipit
 meMA.Ode4C22.text = ""
 
 meMA.Ode4C23.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C23.mode = misc_en_US_dedes.Mode4
-meMA.Ode4C23.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.name
+meMA.Ode4C23.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.incipit
 meMA.Ode4C23.text = ""
 
 meMA.Ode4C24.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C24.mode = misc_en_US_dedes.Mode4
-meMA.Ode4C24.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.name
+meMA.Ode4C24.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.incipit
 meMA.Ode4C24.text = ""
 
 meMA.Ode4C2T.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C2T.mode = misc_en_US_dedes.Mode4
-meMA.Ode4C2T.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.name
+meMA.Ode4C2T.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.incipit
 meMA.Ode4C2T.text = ""
 
 meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
@@ -223,32 +223,32 @@ meMA.Ode5C1T.text = "AS the Prophet said, a virgin conceived God Emmanuel in her
 
 meMA.Ode5C21.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C21.mode = misc_en_US_dedes.Mode4
-meMA.Ode5C21.melody = he.h.m4_en_US_dedes.OAnateilasToFos.name
+meMA.Ode5C21.melody = he.h.m4_en_US_dedes.OAnateilasToFos.incipit
 meMA.Ode5C21.text = ""
 
 meMA.Ode5C22.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C22.mode = misc_en_US_dedes.Mode4
-meMA.Ode5C22.melody = he.h.m4_en_US_dedes.OAnateilasToFos.name
+meMA.Ode5C22.melody = he.h.m4_en_US_dedes.OAnateilasToFos.incipit
 meMA.Ode5C22.text = ""
 
 meMA.Ode5C23.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C23.mode = misc_en_US_dedes.Mode4
-meMA.Ode5C23.melody = he.h.m4_en_US_dedes.OAnateilasToFos.name
+meMA.Ode5C23.melody = he.h.m4_en_US_dedes.OAnateilasToFos.incipit
 meMA.Ode5C23.text = ""
 
 meMA.Ode5C24.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C24.mode = misc_en_US_dedes.Mode4
-meMA.Ode5C24.melody = he.h.m4_en_US_dedes.OAnateilasToFos.name
+meMA.Ode5C24.melody = he.h.m4_en_US_dedes.OAnateilasToFos.incipit
 meMA.Ode5C24.text = ""
 
 meMA.Ode5C25.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C25.mode = misc_en_US_dedes.Mode4
-meMA.Ode5C25.melody = he.h.m4_en_US_dedes.OAnateilasToFos.name
+meMA.Ode5C25.melody = he.h.m4_en_US_dedes.OAnateilasToFos.incipit
 meMA.Ode5C25.text = ""
 
 meMA.Ode5C2T.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C2T.mode = misc_en_US_dedes.Mode4
-meMA.Ode5C2T.melody = he.h.m4_en_US_dedes.OAnateilasToFos.name
+meMA.Ode5C2T.melody = he.h.m4_en_US_dedes.OAnateilasToFos.incipit
 meMA.Ode5C2T.text = ""
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
@@ -273,36 +273,36 @@ meMA.Ode6C1T.text = "O all-lauded Joseph, you saw on earth Him who is beyond per
 
 meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C21.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C21.melody = he.h.m4_en_US_dedes.EvoiseProtypon.name
+meMA.Ode6C21.melody = he.h.m4_en_US_dedes.EvoiseProtypon.incipit
 meMA.Ode6C21.text = ""
 
 meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C22.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C22.melody = he.h.m4_en_US_dedes.EvoiseProtypon.name
+meMA.Ode6C22.melody = he.h.m4_en_US_dedes.EvoiseProtypon.incipit
 meMA.Ode6C22.text = ""
 
 meMA.Ode6C23.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C23.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C23.melody = he.h.m4_en_US_dedes.EvoiseProtypon.name
+meMA.Ode6C23.melody = he.h.m4_en_US_dedes.EvoiseProtypon.incipit
 meMA.Ode6C23.text = ""
 
 meMA.Ode6C24.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C24.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C24.melody = he.h.m4_en_US_dedes.EvoiseProtypon.name
+meMA.Ode6C24.melody = he.h.m4_en_US_dedes.EvoiseProtypon.incipit
 meMA.Ode6C24.text = ""
 
 meMA.Ode6C25.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C25.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C25.melody = he.h.m4_en_US_dedes.EvoiseProtypon.name
+meMA.Ode6C25.melody = he.h.m4_en_US_dedes.EvoiseProtypon.incipit
 meMA.Ode6C25.text = ""
 
 meMA.Ode6C2T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C2T.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C2T.melody = he.h.m4_en_US_dedes.EvoiseProtypon.name
+meMA.Ode6C2T.melody = he.h.m4_en_US_dedes.EvoiseProtypon.incipit
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode3
-meMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
+meMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.incipit
 meMA.Kontakion1.text = "Filled with joy of heart today is the divine Prophet David; Joseph and Iakovos together offer up praises. They received the crown of kinship with Christ the Savior and rejoice. To Him ineffably born on earth they cry out and extol Him without ceasing, * O Lord of mercy, save us who honor You."
 
 meMA.Oikos1.text = "By the ineffable will, born in the flesh is the fleshless One. In body now circumscribed is the Uncircumscribed, immutably preserving both essences. An origin receives He who in nature is unoriginate and alone transcends time. As an infant is perceived He who transcends perfection. Borne in arms is He who bears the universe. Therefore as God, by His birth He crowns those who have the honor of being His kin; whom we glorify with faith, as we cry without ceasing, * O Lord of mercy, save us who honor You."
@@ -334,32 +334,32 @@ meMA.Ode7C1T.text = "O pure Maid full of the grace of God, Joseph the Righteous 
 
 meMA.Ode7C21.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C21.mode = misc_en_US_dedes.Mode4
-meMA.Ode7C21.melody = he.h.m4_en_US_dedes.AvramiaioiPote.name
+meMA.Ode7C21.melody = he.h.m4_en_US_dedes.AvramiaioiPote.incipit
 meMA.Ode7C21.text = ""
 
 meMA.Ode7C22.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C22.mode = misc_en_US_dedes.Mode4
-meMA.Ode7C22.melody = he.h.m4_en_US_dedes.AvramiaioiPote.name
+meMA.Ode7C22.melody = he.h.m4_en_US_dedes.AvramiaioiPote.incipit
 meMA.Ode7C22.text = ""
 
 meMA.Ode7C23.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C23.mode = misc_en_US_dedes.Mode4
-meMA.Ode7C23.melody = he.h.m4_en_US_dedes.AvramiaioiPote.name
+meMA.Ode7C23.melody = he.h.m4_en_US_dedes.AvramiaioiPote.incipit
 meMA.Ode7C23.text = ""
 
 meMA.Ode7C24.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C24.mode = misc_en_US_dedes.Mode4
-meMA.Ode7C24.melody = he.h.m4_en_US_dedes.AvramiaioiPote.name
+meMA.Ode7C24.melody = he.h.m4_en_US_dedes.AvramiaioiPote.incipit
 meMA.Ode7C24.text = ""
 
 meMA.Ode7C25.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C25.mode = misc_en_US_dedes.Mode4
-meMA.Ode7C25.melody = he.h.m4_en_US_dedes.AvramiaioiPote.name
+meMA.Ode7C25.melody = he.h.m4_en_US_dedes.AvramiaioiPote.incipit
 meMA.Ode7C25.text = ""
 
 meMA.Ode7C2T.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C2T.mode = misc_en_US_dedes.Mode4
-meMA.Ode7C2T.melody = he.h.m4_en_US_dedes.AvramiaioiPote.name
+meMA.Ode7C2T.melody = he.h.m4_en_US_dedes.AvramiaioiPote.incipit
 meMA.Ode7C2T.text = ""
 
 meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
@@ -384,27 +384,27 @@ meMA.Ode8C1T.text = "O wise Joseph, you saw the shadows of the Law dispersed whe
 
 meMA.Ode8C21.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C21.mode = misc_en_US_dedes.Mode4
-meMA.Ode8C21.melody = he.h.m4_en_US_dedes.TonVasileaChriston.name
+meMA.Ode8C21.melody = he.h.m4_en_US_dedes.TonVasileaChriston.incipit
 meMA.Ode8C21.text = ""
 
 meMA.Ode8C22.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C22.mode = misc_en_US_dedes.Mode4
-meMA.Ode8C22.melody = he.h.m4_en_US_dedes.TonVasileaChriston.name
+meMA.Ode8C22.melody = he.h.m4_en_US_dedes.TonVasileaChriston.incipit
 meMA.Ode8C22.text = ""
 
 meMA.Ode8C23.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C23.mode = misc_en_US_dedes.Mode4
-meMA.Ode8C23.melody = he.h.m4_en_US_dedes.TonVasileaChriston.name
+meMA.Ode8C23.melody = he.h.m4_en_US_dedes.TonVasileaChriston.incipit
 meMA.Ode8C23.text = ""
 
 meMA.Ode8C24.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C24.mode = misc_en_US_dedes.Mode4
-meMA.Ode8C24.melody = he.h.m4_en_US_dedes.TonVasileaChriston.name
+meMA.Ode8C24.melody = he.h.m4_en_US_dedes.TonVasileaChriston.incipit
 meMA.Ode8C24.text = ""
 
 meMA.Ode8C2T.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C2T.mode = misc_en_US_dedes.Mode4
-meMA.Ode8C2T.melody = he.h.m4_en_US_dedes.TonVasileaChriston.name
+meMA.Ode8C2T.melody = he.h.m4_en_US_dedes.TonVasileaChriston.incipit
 meMA.Ode8C2T.text = ""
 
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
@@ -434,36 +434,36 @@ meMA.Ode9C1T.text = "O God-bearing Joseph, you protected the pure Maiden, who ke
 
 meMA.Ode9C21.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C21.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C21.melody = he.h.m4_en_US_dedes.MoysisEnToOrei.name
+meMA.Ode9C21.melody = he.h.m4_en_US_dedes.MoysisEnToOrei.incipit
 meMA.Ode9C21.text = ""
 
 meMA.Ode9C22.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C22.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C22.melody = he.h.m4_en_US_dedes.MoysisEnToOrei.name
+meMA.Ode9C22.melody = he.h.m4_en_US_dedes.MoysisEnToOrei.incipit
 meMA.Ode9C22.text = ""
 
 meMA.Ode9C23.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C23.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C23.melody = he.h.m4_en_US_dedes.MoysisEnToOrei.name
+meMA.Ode9C23.melody = he.h.m4_en_US_dedes.MoysisEnToOrei.incipit
 meMA.Ode9C23.text = ""
 
 meMA.Ode9C24.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C24.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C24.melody = he.h.m4_en_US_dedes.MoysisEnToOrei.name
+meMA.Ode9C24.melody = he.h.m4_en_US_dedes.MoysisEnToOrei.incipit
 meMA.Ode9C24.text = ""
 
 meMA.Ode9C25.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C25.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C25.melody = he.h.m4_en_US_dedes.MoysisEnToOrei.name
+meMA.Ode9C25.melody = he.h.m4_en_US_dedes.MoysisEnToOrei.incipit
 meMA.Ode9C25.text = ""
 
 meMA.Ode9C2T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C2T.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C2T.melody = he.h.m4_en_US_dedes.MoysisEnToOrei.name
+meMA.Ode9C2T.melody = he.h.m4_en_US_dedes.MoysisEnToOrei.incipit
 meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.incipit
 meMA.Exaposteilarion1.text = "Let us extol the memory * of God's ancestor David, * and the renowned Iakovos* Brother-of-God, and Joseph * the Theotokos' divine Betrothed. * For they rendered their service * worthy of God in Bethlehem * at the divine Nativity of the Christ, * together with Angels, Magi and shepherds * singing a hymn of praise to Him* as to their God and Master."
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode4

@@ -17,15 +17,15 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
-meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meVE.Stichera01.text = "When the Lord enlightened you and filled your intellect with divine * understanding, He rescued you * from ignorance and profound darkness, O Christina, * for He is the Savior and Sun of Righteousness indeed, * O holy Martyr beatified by God. * And then you smashed the pagan idols with your own hands, discarding them, * and you mirrored the sufferings * of our Christ with great fortitude."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meVE.Stichera02.text = "When you had with fortitude endured the physical pain, O Saint, * with great joy you were taken to * enjoyment that has no pain, O holy Christina. * Now that you are there and adorned as a distinguished bride * of Christ the King, O all-lauded martyr Saint, * to Him remember us who faithfully observe your memorial, * that to us He be merciful * and He save us from all distress."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meVE.Stichera03.text = "Blessed one, you wear the pieces of your flesh that were torn away * like a bride wears her jewelry, * your wedding dress brightly dyed * purple in your own blood; * and you are adorned in divine resplendence as you stand * now in the company of the Bridegroom Christ, * Christina, and you joyously enjoy the blessings of theosis, * now and ever, together with * holy Virgins and Martyr Saints."
 
 meVE.MM.Stichera1123as78910.text = properties_en_US_dedes.media.key
@@ -40,7 +40,7 @@ meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = ho.s23_en_US_dedes.hoCA.Troparion31.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode2
-meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
 meVE.SticStavrotheotokion.text = me.m06.d01_en_US_dedes.meVE.SticStavrotheotokion.text
 
 meVE.AposGlory.poet = poets_en_US_dedes.Georgiou
@@ -49,19 +49,19 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode2
-meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode2
-meVE.AposStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.AposStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
 meVE.AposStavrotheotokion.text = oc.m2.d4_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode5
-meVE.Apolytikion1.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
+meVE.Apolytikion1.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.incipit
 meVE.Apolytikion1.text = ""
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
 meMA.C1.title = titles_en_US_dedes.KanonTisAgias
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintW.text
@@ -268,11 +268,11 @@ meMA.Ode9H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode9H.text = he.h.m8_en_US_dedes.KyriosTheotokon.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
-meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.incipit
 meMA.Exaposteilarion1.text = "We dutifully honor you, * holy Martyr Christina, * for you became the Master's * useful and precious vessel. * And also for the martyrs all * truly you were pride and joy, * the glory of virgin maidens; * you were also shown to be * a great healer sent from God * for innocent babes and infants."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
-meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
+meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.incipit
 meMA.ExapTheotokion.text = "The orders of the Bodiless * gaily honor your childbirth. * For among women only you * filled the earth with rejoicing. * We faithful therefore glorify * you the pure and blameless maid; * with hymns we sing your glory; * for to those in the darkness * you shone forth the light of day, * yourself shining like the morning."
 
 meMA.Lauds1.poet = poets_en_US_dedes.Vyzantiou
@@ -303,7 +303,7 @@ meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meMA.LaudsStavrotheotokion.mode = misc_en_US_dedes.Mode5
-meMA.LaudsStavrotheotokion.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meMA.LaudsStavrotheotokion.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.incipit
 meMA.LaudsStavrotheotokion.text = ""
 
 meMA.AposGlory.poet = poets_en_US_dedes.Kyprianou
@@ -316,7 +316,7 @@ meMA.AposTheotokion.melody = ""
 meMA.AposTheotokion.text = oc.m1.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meMA.AposStavrotheotokion.mode = misc_en_US_dedes.Mode1
-meMA.AposStavrotheotokion.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+meMA.AposStavrotheotokion.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.incipit
 meMA.AposStavrotheotokion.text = oc.m1.d4_en_US_dedes.ocVE.AposTheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode

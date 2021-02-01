@@ -17,15 +17,15 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
-meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 meVE.Stichera01.text = "Now the Archangel Gabriel * is entrusted the mystery * which even to Angels was hidden and unknown. * And he shall presently come to you, * the dove that alone is fair * and completely undefiled, * restoration of humankind, * and shall say to you: * \"Rejoice, O all-holy one! Make ready through a word to grant admission * into your womb unto God the Word.\""
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 meVE.Stichera02.text = "A most radiant palace has * been prepared just for You, O Lord, * in the undefiled womb of the Maid of God. * Come down and enter it, pitying * Your creature. For he endured * envious hostilities; * he is held in the bondage of * the avenging foe; * he has utterly lost his former beauty, but he anxiously is waiting * for his salvation through Your descent."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 meVE.Stichera03.text = "O all-blameless one, presently * shall the Archangel Gabriel * come to you perceptibly and shall say to you, * \"Rejoice, deliverance from the curse, * the raising of fallen man! * O rejoice! For only you * among women are rightly called * chosen one of God. * Living cloud of the Sun, rejoice, and welcome in your womb the Uncontainable, * Whose perfect will is to dwell therein.\""
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
@@ -38,7 +38,7 @@ meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Today is the prelude of the joy of the universe, and it incites us to sing the forefestal hymns. For behold, Gabriel is coming, and he will say to the Virgin: Rejoice, Maiden full of grace; the Lord is with you."
 
-meMA.C1Poet = poets_en_US_dedes.Georgiou //οἱ δὲ Θεοφάνους
+meMA.C1.poet = poets_en_US_dedes.Georgiou //οἱ δὲ Θεοφάνους
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
@@ -94,7 +94,7 @@ meMA.Ode3C14.melody = he.h.m4_en_US_dedes.OukEnSofia.notmetered
 meMA.Ode3C14.text = "O Virgin, receive the fire of the Godhead, like the golden lamp. It will shine through you and give light to the world; and it will disperse the darkness of our evils."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode3
-meMA.Ode3Kathisma1.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+meMA.Ode3Kathisma1.melody = he.a.m3_en_US_dedes.TinOraiotita.incipit
 meMA.Ode3Kathisma1.text = "Today creation all exults with greatest joy, * for the Archangel came and said to you, \"Rejoice! * Blessed are you, O purest Maid, immaculate Mother of Christ.\" * And today the insolence * of the serpent is mortified. * The fetters of the curse once laid * on our forefather now are loosed. * And so with all the world we cry out to you: * Rejoice, O Maiden full of grace."
 
 meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
@@ -173,7 +173,7 @@ meMA.Ode6C14.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C14.text = "O Mother of God, the King of Peace shall come upon you, to bring peace to those are beleaguered and defeated by the evil counsel of the serpent."
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode4
-meMA.Kontakion1.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+meMA.Kontakion1.melody = he.a.m4_en_US_dedes.EpefanisSimeron.incipit
 meMA.Kontakion1.text = "The Archangel spoke to you, * O Theotokos, * and the Holy Spirit came * on you and thus you did conceive * the Father's Son, who is one in throne * and one in essence. * Through you, thus, was Adam recalled."
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
@@ -254,7 +254,7 @@ meMA.Ode9C14.text = "O pure Virgin, you are like unsown ground. By a word receiv
 meMA.MM.Mar25Sv123asLauds345.text = properties_en_US_dedes.media.key
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.incipit
 meMA.Exaposteilarion1.text = "O Virgin pure, we bring to you * the virtues as pre-festal gifts: * the love for the poor like riches, * and chastity and self-restraint,* our sacred hymns and prayers tears, * our fasting and humility. * Please help us all to do these works, * and watch over us, O Lady * compassionate Theotokos."
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode4

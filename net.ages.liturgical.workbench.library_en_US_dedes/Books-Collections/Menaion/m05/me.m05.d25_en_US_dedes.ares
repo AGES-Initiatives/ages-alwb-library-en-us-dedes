@@ -19,15 +19,15 @@ meHO.note2 = ""
 meR001 = "The memory of the Forerunner is moved to May 26."
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode8
-meVE.Stichera01.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meVE.Stichera01.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
 meVE.Stichera01.text = "Blessed Baptist John the Forerunner, your skull came up from the earth, * and it shone forth most brilliantly, * even brighter than the sun. * It illumined the faithful all. * We have it now as a treasure sent from God; * from it we draw the abundant gifts of grace, * and we are sanctified * thoroughly, in soul and body and in thought; * and we call you blessed as we hold your feast today."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode8
-meVE.Stichera02.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meVE.Stichera02.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
 meVE.Stichera02.text = "Blessed Baptist John, your sacred head, ever exuding grace, * had been hidden, O Forerunner. * Its location was disclosed * to a godly and pious priest, * who, unaware, was convinced by faith and grace; * and he arranged for this third discovery. * Thus he was sanctified, * as were all the godly-minded people there, * and the reigning emperor, who held the Orthodox Faith."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode8
-meVE.Stichera03.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+meVE.Stichera03.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
 meVE.Stichera03.text = "Forerunner of Christ, we celebrate the Third Discovery * of your all-precious head, which was * for your godly zeal cut off, * and on which has the Trinity * bestowed a halo. And now that it was found, * the ranks of Angels and hosts of Martyr Saints, * Prophets, and the divine * Apostles rejoice in heaven. Join them all * and remember us in prayer always, O glorious John."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
@@ -39,15 +39,15 @@ meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.Aposticha1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
 meVE.Aposticha1.text = me.m02.d25_en_US_dedes.meVE.Stichera01.text
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha2.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.Aposticha2.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
 meVE.Aposticha2.text = "Just as gold extracted from a mine, * so the precious head of the Forerunner from the earth shines forth, * beaming in a vessel there, it still distinctly cries out * and rebukes the adultery and murder by Herod. * Glowing with the light of heaven, it illumines our minds. * Come, today in faith let us sing hymns, * as we venerate it with honor, * for it intercedes with God on our behalf." // similar to me.m02.d25_en_US_dedes.meVE.Stichera02.text
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha3.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.Aposticha3.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
 meVE.Aposticha3.text = "Years passed since the venerable head * of St. John the Baptist was hid in a vessel underground. * Then the day came when it was revealed to all the world, * like a treasure that gushes forth * a well spring of healing, * curing all diseases and illuminating souls. * Therefore, as we now are enjoying * grace from it that brings divine gladness, * let us sing its praises with solemnity." // similar to me.m02.d25_en_US_dedes.meVE.Stichera03.text
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode2
@@ -59,19 +59,19 @@ meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = oc.m2.d2_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
 meVE.Apolytikion1.text = me.m02.d24_en_US_dedes.meMA.Kathisma11.text
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
-meMA.Kathisma11.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meMA.Kathisma11.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
 meMA.Kathisma11.text = me.m02.d24_en_US_dedes.meVE.Apolytikion1.text
 
 meMA.Kathisma1T.mode = misc_en_US_dedes.Mode4
-meMA.Kathisma1T.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meMA.Kathisma1T.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
 meMA.Kathisma1T.text = me.m05.d18_en_US_dedes.meMA.Ode3KathismaT.text
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
-meMA.Kathisma21.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Kathisma21.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
 meMA.Kathisma21.text = me.m02.d24_en_US_dedes.meMA.Kathisma21.text
 
 meMA.Kathisma2T.mode = misc_en_US_dedes.Mode4
@@ -79,11 +79,11 @@ meMA.Kathisma2T.melody = ""
 meMA.Kathisma2T.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
 
 meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
-meMA.Kathisma31.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+meMA.Kathisma31.melody = he.a.m4_en_US_dedes.EpefanisSimeron.incipit
 meMA.Kathisma31.text = me.m02.d24_en_US_dedes.meMA.Kathisma31.text
 
 meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
-meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.EpefanisSimeron.incipit
 meMA.Kathisma3T.text = me.m01.d30_en_US_dedes.meMA.Kathisma3T.text
 
 meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
@@ -100,7 +100,7 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = me.m02.d24_en_US_dedes.meVE.AposGlory.text
 
-meMA.C1Poet = poets_en_US_dedes.Tarasiou
+meMA.C1.poet = poets_en_US_dedes.Tarasiou
 
 meMA.C1.title = titles_en_US_dedes.KanonTouProdromou
 meMA.C1.verse = prayers_en_US_dedes.verse_Baptist.text
@@ -127,176 +127,176 @@ meMA.Ode1C1T.text = "All-lauded John, you blossomed from a barren womb, and you 
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C11.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+meMA.Ode3C11.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
 meMA.Ode3C11.text = "O Forerunner, your sacred head was given as a reward for a lewd dance, and it was placed in the hands of that woman. But now it is brought with ceremony to the church, held in the hands of a devout priest."
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C12.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+meMA.Ode3C12.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
 meMA.Ode3C12.text = "O glorious Forerunner, the assembly of the faithful reverently meets you, together with the priest and the emperor, singing joyous songs and with longing preceding you, and all are sanctified by your presence."
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C13.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+meMA.Ode3C13.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
 meMA.Ode3C13.text = "O Prophet and Forerunner of Christ, your most sacred head has risen, like a shining sun, from secret sanctuaries, and it has illumined the entire world with resplendent rays of divine light."
 
 meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C1T.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+meMA.Ode3C1T.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
 meMA.Ode3C1T.text = "You, O Baptist, came from a barren womb, shining like a gleaming star that precedes the glorious Sun, Who rose from a Virgin, as from a cloud, and ended the night of polytheism."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
-meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.EpefanisSimeron.incipit
 meMA.Ode3Kathisma1.text = "On this day the head appeared * of John the Baptist * from the caverns of the  earth, * like gold extracted from the mines, * and to the faithful it is returned, * fervently praying to Christ that He save our souls."
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.EpefanisSimeron.incipit
 meMA.Ode3KathismaT.text = meMA.Kathisma3T.text
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C11.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+meMA.Ode4C11.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
 meMA.Ode4C11.text = "O blessed Forerunner, you are superior to the other Prophets, for you were counted worthy to see Him of whom you prophesied, and to go before Him in the power of Elijah."
 
 meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C12.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+meMA.Ode4C12.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
 meMA.Ode4C12.text = "O Baptist John, this is now the third time you revealed your renowned head, which overflows with fragrant oils of healings, and drives away the foul smelling passions."
 
 meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C13.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C13.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+meMA.Ode4C13.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
 meMA.Ode4C13.text = "Come one and all, draw the never-failing cures from this spring, namely the precious head of the Forerunner of Christ."
 
 meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C1T.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C1T.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+meMA.Ode4C1T.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
 meMA.Ode4C1T.text = "O all-pure Virgin, you gave birth to Him who exalted our humbled nature. I pray you, make me humble and save me, for I am living pretentiously."
 
 meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C11.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C11.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C11.melody = he.h.m8_en_US_dedes.InaTiMeAposo.incipit
 meMA.Ode5C11.text = "O blessed Forerunner, you were in between the New and Old Covenants of God. We pray you make our oldness new, as we celebrate that your sacred head has been revealed anew."
 
 meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C12.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C12.melody = he.h.m8_en_US_dedes.InaTiMeAposo.incipit
 meMA.Ode5C12.text = "O Forerunner, today you relocate your head from Comana to the Queen of Cities, and with it you bring the grace of healings. The multitude of believers applauds this, as they are filled with undefiled enlightenment."
 
 meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C13.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C13.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C13.melody = he.h.m8_en_US_dedes.InaTiMeAposo.incipit
 meMA.Ode5C13.text = "O Forerunner, the emperor delights in the arrival of your head more than in his imperial robes. And the holy priest, who bears the name of the God-bearer, holds it in his hands, and as he blesses the faithful he himself is also blessed."
 
 meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C1T.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C1T.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+meMA.Ode5C1T.melody = he.h.m8_en_US_dedes.InaTiMeAposo.incipit
 meMA.Ode5C1T.text = "O all-blameless Maiden, you gave birth to the Master, and thus you became higher than the hosts on high, for you contributed to the deification of human nature. Therefore, O Virgin, we the faithful, with soul and tongue, glorify you as the true Theotokos."
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C11.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+meMA.Ode6C11.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.incipit
 meMA.Ode6C11.text = "O Christ, when the head of Your Baptist came up from the earth, like the truth, it drove away falsehood, it ended the bitter winter of heresy, and it illumined the world."
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C12.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+meMA.Ode6C12.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.incipit
 meMA.Ode6C12.text = "Come, all believers, draw illumination and God's grace and mercy. And with faith be sanctified in soul and head, as you touch the head of the Baptist, who touched the Head of God in the river."
 
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C13.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+meMA.Ode6C13.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.incipit
 meMA.Ode6C13.text = "O Forerunner, pray that the heads of our enemies be crushed beneath the feet of our leaders, as we lovingly honor your precious head that had castigated Herod of old."
 
 meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1T.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C1T.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.name
+meMA.Ode6C1T.melody = he.h.m8_en_US_dedes.IlasthitiMoiSotir.incipit
 meMA.Ode6C1T.text = "O blessed Forerunner, you proclaimed to those in Hades that the Light was coming, yes the Lord, who was clothed in flesh from a Virgin's blood and became man, for the good of humanity."
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode6
-meMA.Kontakion1.melody = he.a.m6_en_US_dedes.TinYperImon.name
+meMA.Kontakion1.melody = he.a.m6_en_US_dedes.TinYperImon.incipit
 meMA.Kontakion1.text = "In the world is he a divine and brilliant pillar; he is the noetic Sun's lamp and Forerunner. And today having shown his divine and light-bearing head to the furthest reaches of the earth, he makes holy those who faithfully venerate it and who cry to him, \"O wise Baptist of Christ, we pray you, save us all.\""
 
 meMA.Oikos1.text = "From the earth, like a spring of Paradise the Forerunner's head - beloved of God--pours out streams of grace; and it provides a flow of miracles to those who need them. So let us all approach, and eagerly draw from it the divine streams of cures. For it refreshes our souls with abundant gifts, and washes away our bodily aches, and readily takes away every disease. Therefore let us sing in honor of this head, and kiss it in faith, and embrace it with respect; and with songs for crowns let us crown it, O Faithful. Let us go ahead and cleanse ourselves of spiritual stains, and adorn our souls with godly virtues, and steadily cry out, \"O wise Baptist of Christ, we pray you, save us all.\""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C11.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+meMA.Ode7C11.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
 meMA.Ode7C11.text = "O Forerunner, you became the radiant lamp of the glorious Sun. Hence you drive away the cloud of error, and you illumine those who cry with faith: O God of our Fathers, You are blessed."
 
 meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C12.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+meMA.Ode7C12.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
 meMA.Ode7C12.text = "O Forerunner, the holy Church annually holds a magnificent celebration, in honor of your head, and she cries out, as is her practice: O God of our Fathers, You are blessed."
 
 meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C13.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C13.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+meMA.Ode7C13.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
 meMA.Ode7C13.text = "O Prophet, of old you signaled the awesome advent of the Logos, by leaping in the womb; and now you signal the discovery of your head, by the truthful mouth of the priest and pastor who ardently loved you."
 
 meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1T.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C1T.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+meMA.Ode7C1T.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
 meMA.Ode7C1T.text = "O Theotokos, virginity and childbirth coincided in you in a manner transcending nature and reason; for you ineffably gave birth to God incarnate. And we sing to Him: O God of our Fathers, You are blessed."
 
 meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C11.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C11.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+meMA.Ode8C11.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.incipit
 meMA.Ode8C11.text = "The Baptist and Forerunner, that Angel on earth and unerring indictor of transgression, of old at the Jordan perceived the manifestation of the Trinity. Now, for the third time, he manifests his head to all who with longing sing: O you priests, bless Christ; O you people, exalt Him beyond measure, unto the ages."
 
 meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C12.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+meMA.Ode8C12.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.incipit
 meMA.Ode8C12.text = "O all-lauded John, the most serene Emperor joins the Christ-loving people, and they eagerly welcome you. And the first among hierarchs stretches out his arms to you; and clutching you to his breast, he is exultant and joyful, and he cries with thanksgiving: O you people, exalt Christ beyond measure, unto the ages."
 
 meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C13.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C13.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+meMA.Ode8C13.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.incipit
 meMA.Ode8C13.text = "O Forerunner, your head, shining brighter than gold, was kept as a treasure in a silver vessel. Now it is given to the Queen of Cities as precious asset, enriching her with divine gifts as she eagerly sings: O you priests, bless Christ; O you people, exalt Him beyond measure, unto the ages."
 
 meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1T.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C1T.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+meMA.Ode8C1T.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.incipit
 meMA.Ode8C1T.text = "O blessed and all-lauded John, concealed in the barren womb, you joyfully worshiped Him who was held in a womb and yet held the whole world. When He was born of the holy Virgin, you declared Him to be the Lamb of God, and you piously cried out: O you people, exalt Christ beyond measure, unto the ages."
 
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C11.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.name
+meMA.Ode9C11.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.incipit
 meMA.Ode9C11.text = "The holy offspring of the one * who was barren is the greatest of everyone * born of a woman, the great * John the Forerunner, the soldier of Christ the King. * He is the Prophet who proclaimed * the Lamb who takes away the sins * of the entire world. * Let us praise him, singing sacred melodic hymns."
 
 meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C12.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C12.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.name
+meMA.Ode9C12.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.incipit
 meMA.Ode9C12.text = "Mingling an abundance of wine, * with a loud proclamation you now invite * the Church of Christ to come * for the discovery of your sacred head. * O holy Forerunner, you cry, * \"O come and enjoy the delights * that I prepared for you, * as you magnify the Lord who created man.\""
 
 meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C13.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C13.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.name
+meMA.Ode9C13.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.incipit
 meMA.Ode9C13.text = "Angel and messenger of God, * now with joy the angelónymous emperor * receives you into his courts, * being assisted in this most capably * by the chief shepherd of the flock, * who clearly is in name and grace * exalted piously, * being sacred, Godly-minded and God-bearing."
 
 meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1T.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C1T.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.name
+meMA.Ode9C1T.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.incipit
 meMA.Ode9C1T.text = "Spare me, O Savior, when You sit * to pass judgment on my actions, and overlook * all my iniquities * and sinful deeds, O my Lord compassionate, * merciful Lover of mankind, * benevolent, who at Your birth * preserved Your Mother pure * incorrupt even after she gave birth to You."
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.incipit
 meMA.Exaposteilarion1.text = "Now the Christ-loving emperor, * is gladdened by the finding * of your all-precious Head today, * more than by his imperial purple robes, O Forerunner. * Empower him from heaven, * and reward him with victories. * And by your prayers, O all-lauded Baptist John, * guard us from all enemies and protect us, * who celebrate you joyfully * and honor you with longing."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
-meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.incipit
 meMA.ExapTheotokion.text = me.m05.d21_en_US_dedes.meMA.ExapTheotokion.text
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode5
-meMA.Lauds1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meMA.Lauds1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.incipit
 meMA.Lauds1.text = "Rejoice, O sacred Head of St. John. * You are resplendent, and revered by angelic hosts. * Of old you were by a sword cut, for by your cutting reproofs * you cut off the shame of immorality. * O wellspring of miracles, you refresh the believers all. * The saving advent of the Savior you heralded. * And in former times you observed as the Spirit flew * down at the baptism of Christ, and how It remained on Him. * You mediated between both the Old and New Testament of grace. * To Christ pray intently, * and beseech that His great mercy be granted to our souls."
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode5
-meMA.Lauds2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meMA.Lauds2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.incipit
 meMA.Lauds2.text = "Hidden inside a silver case * for many years, the sacred head of the Forerunner * was manifestly recovered out of the bowels of the earth, * and it gushes forth with streams of miracles. * Indeed in the Jordan's streams he had baptized the head of Christ, * the Lord who showers God's forgiveness on mortal man, * and who covers lofts with the waters, as David said, * Therefore let us proclaim as blest this truly all-lauded head, * and let us joyfully keep feast and celebrate its discovery, * as it now entreats Christ * and beseeches Him to grant His great mercy to the world."
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode5
-meMA.Lauds3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+meMA.Lauds3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.incipit
 meMA.Lauds3.text = "Here is the holy Forerunner's head * that had announced the Lamb of God in the flesh appeared. * By means of divine instructions that it proclaimed, it affirmed * the salvific ways of repentance to all. * Because it had formerly censured Herod's iniquity, * this head was cut off from the body of Prophet John, * and it then endured being hidden for many years. * Later it rose up like a sun and shone forth its light on us, * and once again it is crying, Repent, and come and submit yourselves, * with heartfelt compunction, * to the Lord who is bestowing great mercy on the world."
 
 meMA.MM.Lauds123as456.text = properties_en_US_dedes.media.key
@@ -306,7 +306,7 @@ meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = me.m02.d24_en_US_dedes.meMA.LaudsGlory.text
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode6
-meMA.LaudsTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.name
+meMA.LaudsTheotokion.melody = he.o_en_US_dedes.TheotokeSyEi.incipit
 meMA.LaudsTheotokion.text = he.o_en_US_dedes.TheotokeSyEiProdromou.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode

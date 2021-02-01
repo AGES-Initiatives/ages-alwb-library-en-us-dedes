@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = oc.m6.d7_en_US_dedes
 
 ocVE.Stichera1.mode = misc_en_US_dedes.Mode6
-ocVE.Stichera1.melody = he.a.m6_en_US_dedes.IApegnosmeni.name
+ocVE.Stichera1.melody = he.a.m6_en_US_dedes.IApegnosmeni.incipit
 ocVE.Stichera1.text = "Save me from perdition which has been laid up. * O most righteous Judge, rescue me the convict * from the everlasting fire; O Master, I beseech You. * Make me impervious to surgings * against me, O Word of God. * Mis’rable that I am, I shudder * when I stop and consider * the multitude of my offenses, * and I fall down to You with tears and a contrite heart * humbly requesting Your mercy, O Lord."
 
 ocVE.Stichera2.mode = misc_en_US_dedes.Mode6
-ocVE.Stichera2.melody = he.a.m6_en_US_dedes.IApegnosmeni.name
+ocVE.Stichera2.melody = he.a.m6_en_US_dedes.IApegnosmeni.incipit
 ocVE.Stichera2.text = "Who would not lament me who from my lack of * self-control have broken the Lord’s commandment; * for me who instead of Paradise inhabit Hades? * Food sweet to me in its appearance * has turned into bitterness. * Unto Your glory and to Angels * have I become a stranger. * Sympathetic God, as I repent now * accept me, since You are humane and very merciful, * because of Your great mercy, O Lord."
 
 ocVE.Stichera3.mode = misc_en_US_dedes.Mode6
-ocVE.Stichera3.melody = he.a.m6_en_US_dedes.IApegnosmeni.name
+ocVE.Stichera3.melody = he.a.m6_en_US_dedes.IApegnosmeni.incipit
 ocVE.Stichera3.text = ""
 
 ocVE.Stichera4.mode = misc_en_US_dedes.Mode6
@@ -41,7 +41,7 @@ ocVE.Aposticha3.melody = ""
 ocVE.Aposticha3.text = "Of old in Eden, the eating of the fruit turned out to be painful, when the serpent spat out his venom. Through Adam, death entered, and it devoured the entire human race. Then the Master came and put the dragon down, and He granted us rest. Let us shout to Him, \"Spare us, O Savior; and to those whom You have taken grant repose with Your elect.\""
 
 ocVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
-ocVE.AposTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
+ocVE.AposTheotokion.melody = he.a.m6_en_US_dedes.TriimerosAnestis.incipit
 ocVE.AposTheotokion.text = "O Christ, at the entreaties of her * who bore You, and of all the Saints, * of your Martyrs, * your Apostles, Hierarchs, * monastic Saints and Prophets, * together with the Righteous, * repose Your servants who have fallen asleep."
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_dedes.Mode6
@@ -51,7 +51,7 @@ ocVE.ApolTheotokionVM.text = oc.m6.d1_en_US_dedes.ocVE.ApolTheotokionVM.text
 ocMA.MM.Alleluia.text = properties_en_US_dedes.media.key
 
 ocMA.Kathisma11.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma11.melody = he.a.m6_en_US_dedes.AngelikaiDynameis.name
+ocMA.Kathisma11.melody = he.a.m6_en_US_dedes.AngelikaiDynameis.incipit
 ocMA.Kathisma11.text = oc.m6.d3_en_US_dedes.ocMA.Kathisma32.text
 
 ocMA.Kathisma12.mode = misc_en_US_dedes.Mode6
@@ -75,12 +75,12 @@ ocMA.Kathisma22.melody = ""
 ocMA.Kathisma22.text = "Everything is truly vanity, and earthly life is a shadow and a dream. Every man stirs himself up in vain, as the Scripture says. Once we gain the world, then we attain the grave, where kings and poor dwell together. Therefore, O Christ God, grant rest to those who have passed away, since You love humanity. "
 
 ocMA.Kathisma23.mode = misc_en_US_dedes.Mode6
-ocMA.Kathisma23.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.name
+ocMA.Kathisma23.melody = he.a.m6_en_US_dedes.ElpisTouKosmouAgathi.incipit
 ocMA.Kathisma23.text = "You are for us who are on earth * a powerful protection, * as the one who in time gave birth * in the flesh to the timeless * Son and Logos of God, O Mary Mother of God. * Now as His Mother pray * to Him in earnest with the saints, * the Martyrs and the Prophets * and the ascetic Saints, * to save those who have departed."
 
-ocMA.C1Acrostic.text = ""
+ocMA.C1.acrostic = ""
 
-ocMA.C2Acrostic.text = ""
+ocMA.C2.acrostic = ""
 
 ocMA.OdeW1C1H.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW1C1H.ode = misc_en_US_dedes.Ode1
@@ -89,47 +89,47 @@ ocMA.OdeW1C1H.text = he.h.m6_en_US_dedes.OAisthitosFarao.text
 
 ocMA.OdeW1C11.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW1C11.ode = misc_en_US_dedes.Ode1
-ocMA.OdeW1C11.melody = he.h.m6_en_US_dedes.OAisthitosFarao.name
+ocMA.OdeW1C11.melody = he.h.m6_en_US_dedes.OAisthitosFarao.incipit
 ocMA.OdeW1C11.text = ""
 
 ocMA.OdeW1C12.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW1C12.ode = misc_en_US_dedes.Ode1
-ocMA.OdeW1C12.melody = he.h.m6_en_US_dedes.OAisthitosFarao.name
+ocMA.OdeW1C12.melody = he.h.m6_en_US_dedes.OAisthitosFarao.incipit
 ocMA.OdeW1C12.text = ""
 
 ocMA.OdeW1C13.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW1C13.ode = misc_en_US_dedes.Ode1
-ocMA.OdeW1C13.melody = he.h.m6_en_US_dedes.OAisthitosFarao.name
+ocMA.OdeW1C13.melody = he.h.m6_en_US_dedes.OAisthitosFarao.incipit
 ocMA.OdeW1C13.text = ""
 
 ocMA.OdeW1C14.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW1C14.ode = misc_en_US_dedes.Ode1
-ocMA.OdeW1C14.melody = he.h.m6_en_US_dedes.OAisthitosFarao.name
+ocMA.OdeW1C14.melody = he.h.m6_en_US_dedes.OAisthitosFarao.incipit
 ocMA.OdeW1C14.text = ""
 
 ocMA.OdeW1C1T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW1C1T.ode = misc_en_US_dedes.Ode1
-ocMA.OdeW1C1T.melody = he.h.m6_en_US_dedes.OAisthitosFarao.name
+ocMA.OdeW1C1T.melody = he.h.m6_en_US_dedes.OAisthitosFarao.incipit
 ocMA.OdeW1C1T.text = ""
 
 ocMA.OdeW1C21.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW1C21.ode = misc_en_US_dedes.Ode1
-ocMA.OdeW1C21.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+ocMA.OdeW1C21.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.incipit
 ocMA.OdeW1C21.text = "In the celestial chambers forevermore, * the courageous martyr saints importunely pray to You: * Grant the faithful whom You have transferred * from the earth, that they obtain eternal goods, O Christ."
 
 ocMA.OdeW1C22.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW1C22.ode = misc_en_US_dedes.Ode1
-ocMA.OdeW1C22.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+ocMA.OdeW1C22.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.incipit
 ocMA.OdeW1C22.text = "After adorning with order all things, O Lord, * You made me the human being a composite animal * between greatness and humility. * Thus, O Savior, grant repose unto Your servants’ souls."
 
 ocMA.OdeW1C23.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW1C23.ode = misc_en_US_dedes.Ode1
-ocMA.OdeW1C23.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+ocMA.OdeW1C23.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.incipit
 ocMA.OdeW1C23.text = "In the beginning You ordered that I should be * a citizen of Paradise and its tiller. But when I * disobeyed, then You evicted me. * Thus, O Savior, grant repose unto Your servants’ souls."
 
 ocMA.OdeW1C2T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW1C2T.ode = misc_en_US_dedes.Ode1
-ocMA.OdeW1C2T.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+ocMA.OdeW1C2T.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.incipit
 ocMA.OdeW1C2T.text = "He who of old formed our own primal mother Eve * from a rib of Adam now has arrayed himself in flesh * taken from your undefiled womb, * O pure Lady. Thereby He dissolved the might of death."
 
 ocMA.OdeW3C1H.mode = misc_en_US_dedes.Mode6
@@ -139,47 +139,47 @@ ocMA.OdeW3C1H.text = he.h.m6_en_US_dedes.EnTiSterraTisPisteos.text
 
 ocMA.OdeW3C11.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW3C11.ode = misc_en_US_dedes.Ode3
-ocMA.OdeW3C11.melody = he.h.m6_en_US_dedes.EnTiSterraTisPisteos.name
+ocMA.OdeW3C11.melody = he.h.m6_en_US_dedes.EnTiSterraTisPisteos.incipit
 ocMA.OdeW3C11.text = ""
 
 ocMA.OdeW3C12.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW3C12.ode = misc_en_US_dedes.Ode3
-ocMA.OdeW3C12.melody = he.h.m6_en_US_dedes.EnTiSterraTisPisteos.name
+ocMA.OdeW3C12.melody = he.h.m6_en_US_dedes.EnTiSterraTisPisteos.incipit
 ocMA.OdeW3C12.text = ""
 
 ocMA.OdeW3C13.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW3C13.ode = misc_en_US_dedes.Ode3
-ocMA.OdeW3C13.melody = he.h.m6_en_US_dedes.EnTiSterraTisPisteos.name
+ocMA.OdeW3C13.melody = he.h.m6_en_US_dedes.EnTiSterraTisPisteos.incipit
 ocMA.OdeW3C13.text = ""
 
 ocMA.OdeW3C14.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW3C14.ode = misc_en_US_dedes.Ode3
-ocMA.OdeW3C14.melody = he.h.m6_en_US_dedes.EnTiSterraTisPisteos.name
+ocMA.OdeW3C14.melody = he.h.m6_en_US_dedes.EnTiSterraTisPisteos.incipit
 ocMA.OdeW3C14.text = ""
 
 ocMA.OdeW3C1T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW3C1T.ode = misc_en_US_dedes.Ode3
-ocMA.OdeW3C1T.melody = he.h.m6_en_US_dedes.EnTiSterraTisPisteos.name
+ocMA.OdeW3C1T.melody = he.h.m6_en_US_dedes.EnTiSterraTisPisteos.incipit
 ocMA.OdeW3C1T.text = ""
 
 ocMA.OdeW3C21.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW3C21.ode = misc_en_US_dedes.Ode3
-ocMA.OdeW3C21.melody = he.h.m6_en_US_dedes.OukEstinAgios.name
+ocMA.OdeW3C21.melody = he.h.m6_en_US_dedes.OukEstinAgios.incipit
 ocMA.OdeW3C21.text = "Your martyr athletes did compete * lawfully, O Life-giver. * And adorned with the crowns of the victory by You, * from You they ask the eternal redemption for the faithful passed away."
 
 ocMA.OdeW3C22.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW3C22.ode = misc_en_US_dedes.Ode3
-ocMA.OdeW3C22.melody = he.h.m6_en_US_dedes.OukEstinAgios.name
+ocMA.OdeW3C22.melody = he.h.m6_en_US_dedes.OukEstinAgios.incipit
 ocMA.OdeW3C22.text = "With many portents and with signs * in the past You chastised me * who was wand’ring in error. * In these latter days, O Lord, * You emptied yourself, and thus sought and found and saved me, O compassionate One."
 
 ocMA.OdeW3C23.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW3C23.ode = misc_en_US_dedes.Ode3
-ocMA.OdeW3C23.melody = he.h.m6_en_US_dedes.OukEstinAgios.name
+ocMA.OdeW3C23.melody = he.h.m6_en_US_dedes.OukEstinAgios.incipit
 ocMA.OdeW3C23.text = "O Good One, justify by faith * and by grace those who parted * from the unstable motion of things in flux unto You, * and count them worthy to dwell in eternal habitations pleasantly."
 
 ocMA.OdeW3C2T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW3C2T.ode = misc_en_US_dedes.Ode3
-ocMA.OdeW3C2T.melody = he.h.m6_en_US_dedes.OukEstinAgios.name
+ocMA.OdeW3C2T.melody = he.h.m6_en_US_dedes.OukEstinAgios.incipit
 ocMA.OdeW3C2T.text = "No one is free of blame like you, * O all-pure Theotokos. * You alone of all women in your womb ever conceived * without a man and gave birth to the true God * who destroyed the power of death."
 
 ocMA.OdeW4C1H.mode = misc_en_US_dedes.Mode6
@@ -189,47 +189,47 @@ ocMA.OdeW4C1H.text = he.h.m6_en_US_dedes.AkikoaKyrieTinAkoin.text
 
 ocMA.OdeW4C11.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW4C11.ode = misc_en_US_dedes.Ode4
-ocMA.OdeW4C11.melody = he.h.m6_en_US_dedes.AkikoaKyrieTinAkoin.name
+ocMA.OdeW4C11.melody = he.h.m6_en_US_dedes.AkikoaKyrieTinAkoin.incipit
 ocMA.OdeW4C11.text = ""
 
 ocMA.OdeW4C12.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW4C12.ode = misc_en_US_dedes.Ode4
-ocMA.OdeW4C12.melody = he.h.m6_en_US_dedes.AkikoaKyrieTinAkoin.name
+ocMA.OdeW4C12.melody = he.h.m6_en_US_dedes.AkikoaKyrieTinAkoin.incipit
 ocMA.OdeW4C12.text = ""
 
 ocMA.OdeW4C13.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW4C13.ode = misc_en_US_dedes.Ode4
-ocMA.OdeW4C13.melody = he.h.m6_en_US_dedes.AkikoaKyrieTinAkoin.name
+ocMA.OdeW4C13.melody = he.h.m6_en_US_dedes.AkikoaKyrieTinAkoin.incipit
 ocMA.OdeW4C13.text = ""
 
 ocMA.OdeW4C14.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW4C14.ode = misc_en_US_dedes.Ode4
-ocMA.OdeW4C14.melody = he.h.m6_en_US_dedes.AkikoaKyrieTinAkoin.name
+ocMA.OdeW4C14.melody = he.h.m6_en_US_dedes.AkikoaKyrieTinAkoin.incipit
 ocMA.OdeW4C14.text = ""
 
 ocMA.OdeW4C1T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW4C1T.ode = misc_en_US_dedes.Ode4
-ocMA.OdeW4C1T.melody = he.h.m6_en_US_dedes.AkikoaKyrieTinAkoin.name
+ocMA.OdeW4C1T.melody = he.h.m6_en_US_dedes.AkikoaKyrieTinAkoin.incipit
 ocMA.OdeW4C1T.text = ""
 
 ocMA.OdeW4C21.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW4C21.ode = misc_en_US_dedes.Ode4
-ocMA.OdeW4C21.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.name
+ocMA.OdeW4C21.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.incipit
 ocMA.OdeW4C21.text = "You put the choruses of martyrs with the hosts * of the angels and showed thus the tokens of * superior wisdom and Your superexcellent goodness * with regard to gifts, O sovereign Lord."
 
 ocMA.OdeW4C22.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW4C22.ode = misc_en_US_dedes.Ode4
-ocMA.OdeW4C22.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.name
+ocMA.OdeW4C22.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.incipit
 ocMA.OdeW4C22.text = "That they who were translated unto You attain * Your ineffable glory, vouchsafe, O Christ, * wherein is the dwelling place of those who truly rejoice * and the sound of pure exultant joy."
 
 ocMA.OdeW4C23.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW4C23.ode = misc_en_US_dedes.Ode4
-ocMA.OdeW4C23.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.name
+ocMA.OdeW4C23.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.incipit
 ocMA.OdeW4C23.text = "Accept them praising Your divine and sovereign rule, * whom from earth You have taken unto yourself, * making them children of light and also purifying them * from the gloom of sin, merciful Lord."
 
 ocMA.OdeW4C2T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW4C2T.ode = misc_en_US_dedes.Ode4
-ocMA.OdeW4C2T.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.name
+ocMA.OdeW4C2T.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.incipit
 ocMA.OdeW4C2T.text = "The Lord selected you, O Damsel, for himself, * as an all-spotless temple, all-holy ark, * immaculate vessel and the beauty of Jacob, * and the virgin place of holiness."
 
 ocMA.OdeW5C1H.mode = misc_en_US_dedes.Mode6
@@ -239,42 +239,42 @@ ocMA.OdeW5C1H.text = he.h.m6_en_US_dedes.OToFosAnatellon.text
 
 ocMA.OdeW5C11.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW5C11.ode = misc_en_US_dedes.Ode5
-ocMA.OdeW5C11.melody = he.h.m6_en_US_dedes.OToFosAnatellon.name
+ocMA.OdeW5C11.melody = he.h.m6_en_US_dedes.OToFosAnatellon.incipit
 ocMA.OdeW5C11.text = ""
 
 ocMA.OdeW5C12.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW5C12.ode = misc_en_US_dedes.Ode5
-ocMA.OdeW5C12.melody = he.h.m6_en_US_dedes.OToFosAnatellon.name
+ocMA.OdeW5C12.melody = he.h.m6_en_US_dedes.OToFosAnatellon.incipit
 ocMA.OdeW5C12.text = ""
 
 ocMA.OdeW5C13.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW5C13.ode = misc_en_US_dedes.Ode5
-ocMA.OdeW5C13.melody = he.h.m6_en_US_dedes.OToFosAnatellon.name
+ocMA.OdeW5C13.melody = he.h.m6_en_US_dedes.OToFosAnatellon.incipit
 ocMA.OdeW5C13.text = ""
 
 ocMA.OdeW5C1T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW5C1T.ode = misc_en_US_dedes.Ode5
-ocMA.OdeW5C1T.melody = he.h.m6_en_US_dedes.OToFosAnatellon.name
+ocMA.OdeW5C1T.melody = he.h.m6_en_US_dedes.OToFosAnatellon.incipit
 ocMA.OdeW5C1T.text = ""
 
 ocMA.OdeW5C21.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW5C21.ode = misc_en_US_dedes.Ode5
-ocMA.OdeW5C21.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.name
+ocMA.OdeW5C21.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.incipit
 ocMA.OdeW5C21.text = "The martyr saints have been offered up * even as a sacred whole-burnt offering and as the first-fruits of * human nature unto the glorified God, * and thus for our salvation they ever arbitrate."
 
 ocMA.OdeW5C22.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW5C22.ode = misc_en_US_dedes.Ode5
-ocMA.OdeW5C22.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.name
+ocMA.OdeW5C22.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.incipit
 ocMA.OdeW5C22.text = "Bestow the heavenly way of life, * sovereign Master, and the distribution of Your charismatic gifts * on Your faithful servants who have before us gone to sleep, * according them redemption from their offences all."
 
 ocMA.OdeW5C23.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW5C23.ode = misc_en_US_dedes.Ode5
-ocMA.OdeW5C23.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.name
+ocMA.OdeW5C23.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.incipit
 ocMA.OdeW5C23.text = "Vouchsafe to those who are now deceased * Your heavenly rule, Master compassionate, only immortal Lord, * who alone by nature are the Creator of life, * the sea of benevolence truly unsearchable."
 
 ocMA.OdeW5C2T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW5C2T.ode = misc_en_US_dedes.Ode5
-ocMA.OdeW5C2T.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.name
+ocMA.OdeW5C2T.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.incipit
 ocMA.OdeW5C2T.text = "O sovereign Lady of all the world, * the Lord who was born from you became the strength and song and salvation of * those who were perishing, and He delivered from the gates * of Hades those who faithfully pronounce you blest."
 
 ocMA.OdeW6C1H.mode = misc_en_US_dedes.Mode6
@@ -284,47 +284,47 @@ ocMA.OdeW6C1H.text = he.h.m6_en_US_dedes.ToKiteiKatapotheis.text
 
 ocMA.OdeW6C11.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW6C11.ode = misc_en_US_dedes.Ode6
-ocMA.OdeW6C11.melody = he.h.m6_en_US_dedes.ToKiteiKatapotheis.name
+ocMA.OdeW6C11.melody = he.h.m6_en_US_dedes.ToKiteiKatapotheis.incipit
 ocMA.OdeW6C11.text = ""
 
 ocMA.OdeW6C12.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW6C12.ode = misc_en_US_dedes.Ode6
-ocMA.OdeW6C12.melody = he.h.m6_en_US_dedes.ToKiteiKatapotheis.name
+ocMA.OdeW6C12.melody = he.h.m6_en_US_dedes.ToKiteiKatapotheis.incipit
 ocMA.OdeW6C12.text = ""
 
 ocMA.OdeW6C13.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW6C13.ode = misc_en_US_dedes.Ode6
-ocMA.OdeW6C13.melody = he.h.m6_en_US_dedes.ToKiteiKatapotheis.name
+ocMA.OdeW6C13.melody = he.h.m6_en_US_dedes.ToKiteiKatapotheis.incipit
 ocMA.OdeW6C13.text = ""
 
 ocMA.OdeW6C14.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW6C14.ode = misc_en_US_dedes.Ode6
-ocMA.OdeW6C14.melody = he.h.m6_en_US_dedes.ToKiteiKatapotheis.name
+ocMA.OdeW6C14.melody = he.h.m6_en_US_dedes.ToKiteiKatapotheis.incipit
 ocMA.OdeW6C14.text = ""
 
 ocMA.OdeW6C1T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW6C1T.ode = misc_en_US_dedes.Ode6
-ocMA.OdeW6C1T.melody = he.h.m6_en_US_dedes.ToKiteiKatapotheis.name
+ocMA.OdeW6C1T.melody = he.h.m6_en_US_dedes.ToKiteiKatapotheis.incipit
 ocMA.OdeW6C1T.text = ""
 
 ocMA.OdeW6C21.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW6C21.ode = misc_en_US_dedes.Ode6
-ocMA.OdeW6C21.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+ocMA.OdeW6C21.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.incipit
 ocMA.OdeW6C21.text = "O good One, upon the cross being nailed, You gathered thus * unto yourself the martyr saints * imitating Your passion, O only Lord. * And therefore we pray to You: * Grant repose unto those translated unto You."
 
 ocMA.OdeW6C22.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW6C22.ode = misc_en_US_dedes.Ode6
-ocMA.OdeW6C22.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+ocMA.OdeW6C22.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.incipit
 ocMA.OdeW6C22.text = "From earth You have taken Your faithful servants to yourself, * Redeemer who are awesome in * Your ineffable glory. Be now well pleased * that they meet You cheerfully on the clouds, * when You come again to judge the world."
 
 ocMA.OdeW6C23.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW6C23.ode = misc_en_US_dedes.Ode6
-ocMA.OdeW6C23.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+ocMA.OdeW6C23.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.incipit
 ocMA.OdeW6C23.text = "The fountain of life are You who in manliness divine, * O Master, brought out those who were * bound in fetters. O Lord, cause Your servants who have faithfully passed away * unto You, to settle in paradisal delight."
 
 ocMA.OdeW6C2T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW6C2T.ode = misc_en_US_dedes.Ode6
-ocMA.OdeW6C2T.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.name
+ocMA.OdeW6C2T.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.incipit
 ocMA.OdeW6C2T.text = "To earth we were sent again for transgressing the divine * command of our Creator God. * But through you unto heaven were we from earth * exalted, O Virgin Maid, * having shaken off the corruption of death."
 
 ocMA.OdeW7C1H.mode = misc_en_US_dedes.Mode6
@@ -334,47 +334,47 @@ ocMA.OdeW7C1H.text = he.h.m6_en_US_dedes.OTonOsionSouPaidon.text
 
 ocMA.OdeW7C11.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW7C11.ode = misc_en_US_dedes.Ode7
-ocMA.OdeW7C11.melody = he.h.m6_en_US_dedes.OTonOsionSouPaidon.name
+ocMA.OdeW7C11.melody = he.h.m6_en_US_dedes.OTonOsionSouPaidon.incipit
 ocMA.OdeW7C11.text = ""
 
 ocMA.OdeW7C12.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW7C12.ode = misc_en_US_dedes.Ode7
-ocMA.OdeW7C12.melody = he.h.m6_en_US_dedes.OTonOsionSouPaidon.name
+ocMA.OdeW7C12.melody = he.h.m6_en_US_dedes.OTonOsionSouPaidon.incipit
 ocMA.OdeW7C12.text = ""
 
 ocMA.OdeW7C13.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW7C13.ode = misc_en_US_dedes.Ode7
-ocMA.OdeW7C13.melody = he.h.m6_en_US_dedes.OTonOsionSouPaidon.name
+ocMA.OdeW7C13.melody = he.h.m6_en_US_dedes.OTonOsionSouPaidon.incipit
 ocMA.OdeW7C13.text = ""
 
 ocMA.OdeW7C14.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW7C14.ode = misc_en_US_dedes.Ode7
-ocMA.OdeW7C14.melody = he.h.m6_en_US_dedes.OTonOsionSouPaidon.name
+ocMA.OdeW7C14.melody = he.h.m6_en_US_dedes.OTonOsionSouPaidon.incipit
 ocMA.OdeW7C14.text = ""
 
 ocMA.OdeW7C1T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW7C1T.ode = misc_en_US_dedes.Ode7
-ocMA.OdeW7C1T.melody = he.h.m6_en_US_dedes.OTonOsionSouPaidon.name
+ocMA.OdeW7C1T.melody = he.h.m6_en_US_dedes.OTonOsionSouPaidon.incipit
 ocMA.OdeW7C1T.text = ""
 
 ocMA.OdeW7C21.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW7C21.ode = misc_en_US_dedes.Ode7
-ocMA.OdeW7C21.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+ocMA.OdeW7C21.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.incipit
 ocMA.OdeW7C21.text = "Lord, the Martyrs were redeemed from the primordial * transgression by Your holy blood. * Being sprinkled now with their own blood clearly they portray * the slaughter You willingly endured. * And they cry out: O God of the fathers, blessed are You."
 
 ocMA.OdeW7C22.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW7C22.ode = misc_en_US_dedes.Ode7
-ocMA.OdeW7C22.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+ocMA.OdeW7C22.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.incipit
 ocMA.OdeW7C22.text = "O supremely life-originating Word of God, * You put insolent death to death. * In Your love for man, do receive now those who fell asleep * believing, O Christ, and who extol * and sing to You: O God of the fathers, blessed are You."
 
 ocMA.OdeW7C23.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW7C23.ode = misc_en_US_dedes.Ode7
-ocMA.OdeW7C23.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+ocMA.OdeW7C23.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.incipit
 ocMA.OdeW7C23.text = "O divinely sovereign Master who by Your divine * breath animated me the man, * in Your mercy, account worthy of Your kingly rule * Your servants who passed away, O Christ, * to sing to You: O God of the fathers, blessed are You."
 
 ocMA.OdeW7C2T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW7C2T.ode = misc_en_US_dedes.Ode7
-ocMA.OdeW7C2T.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.name
+ocMA.OdeW7C2T.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.incipit
 ocMA.OdeW7C2T.text = "You became exalted higher than creation all, * O blameless one, conceiving our God * who has shattered the gates of death and crushed the bars thereof. * And therefore we faithful offer hymns * extolling you, O pure one, as the Mother of our God."
 
 ocMA.OdeW8C1H.mode = misc_en_US_dedes.Mode6
@@ -384,42 +384,42 @@ ocMA.OdeW8C1H.text = he.h.m6_en_US_dedes.OiOsioiSouPaides.text
 
 ocMA.OdeW8C11.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW8C11.ode = misc_en_US_dedes.Ode8
-ocMA.OdeW8C11.melody = he.h.m6_en_US_dedes.OiOsioiSouPaides.name
+ocMA.OdeW8C11.melody = he.h.m6_en_US_dedes.OiOsioiSouPaides.incipit
 ocMA.OdeW8C11.text = ""
 
 ocMA.OdeW8C12.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW8C12.ode = misc_en_US_dedes.Ode8
-ocMA.OdeW8C12.melody = he.h.m6_en_US_dedes.OiOsioiSouPaides.name
+ocMA.OdeW8C12.melody = he.h.m6_en_US_dedes.OiOsioiSouPaides.incipit
 ocMA.OdeW8C12.text = ""
 
 ocMA.OdeW8C13.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW8C13.ode = misc_en_US_dedes.Ode8
-ocMA.OdeW8C13.melody = he.h.m6_en_US_dedes.OiOsioiSouPaides.name
+ocMA.OdeW8C13.melody = he.h.m6_en_US_dedes.OiOsioiSouPaides.incipit
 ocMA.OdeW8C13.text = ""
 
 ocMA.OdeW8C1T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW8C1T.ode = misc_en_US_dedes.Ode8
-ocMA.OdeW8C1T.melody = he.h.m6_en_US_dedes.OiOsioiSouPaides.name
+ocMA.OdeW8C1T.melody = he.h.m6_en_US_dedes.OiOsioiSouPaides.incipit
 ocMA.OdeW8C1T.text = ""
 
 ocMA.OdeW8C21.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW8C21.ode = misc_en_US_dedes.Ode8
-ocMA.OdeW8C21.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+ocMA.OdeW8C21.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.incipit
 ocMA.OdeW8C21.text = "Demonstrating yourselves to be steadfast in the feats * of the contest, O Martyrs of Christ, you were adorned * with the crown of victory, O Prize-winners, crying out: * Unto all the ages, supremely we exalt You."
 
 ocMA.OdeW8C22.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW8C22.ode = misc_en_US_dedes.Ode8
-ocMA.OdeW8C22.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+ocMA.OdeW8C22.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.incipit
 ocMA.OdeW8C22.text = "Those believers who sacredly have departed life * and to You, sovereign Master, have passed do now accept * graciously, compassionate Lord, and grant rest to them. * Unto all the ages, supremely they exalt You."
 
 ocMA.OdeW8C23.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW8C23.ode = misc_en_US_dedes.Ode8
-ocMA.OdeW8C23.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+ocMA.OdeW8C23.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.incipit
 ocMA.OdeW8C23.text = "Be well pleased, O our Savior, that those who fell asleep * before us should abide now in the land of the meek, * having justified them by grace and by faith in You. * Unto all the ages, supremely they exalt You."
 
 ocMA.OdeW8C2T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW8C2T.ode = misc_en_US_dedes.Ode8
-ocMA.OdeW8C2T.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.name
+ocMA.OdeW8C2T.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.incipit
 ocMA.OdeW8C2T.text = "O all-blessed and pure one, we all pronounce you blest, * as the woman who gave birth unto the Word of God * who is truly blest, and became flesh for our sake. * Unto all the ages, supremely we exalt Him."
 
 ocMA.OdeW9C1H.mode = misc_en_US_dedes.Mode6
@@ -429,47 +429,47 @@ ocMA.OdeW9C1H.text = he.h.m6_en_US_dedes.IToChaireDiAngelou.text
 
 ocMA.OdeW9C11.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW9C11.ode = misc_en_US_dedes.Ode9
-ocMA.OdeW9C11.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+ocMA.OdeW9C11.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.incipit
 ocMA.OdeW9C11.text = ""
 
 ocMA.OdeW9C12.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW9C12.ode = misc_en_US_dedes.Ode9
-ocMA.OdeW9C12.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+ocMA.OdeW9C12.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.incipit
 ocMA.OdeW9C12.text = ""
 
 ocMA.OdeW9C13.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW9C13.ode = misc_en_US_dedes.Ode9
-ocMA.OdeW9C13.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+ocMA.OdeW9C13.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.incipit
 ocMA.OdeW9C13.text = ""
 
 ocMA.OdeW9C14.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW9C14.ode = misc_en_US_dedes.Ode9
-ocMA.OdeW9C14.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+ocMA.OdeW9C14.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.incipit
 ocMA.OdeW9C14.text = ""
 
 ocMA.OdeW9C1T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW9C1T.ode = misc_en_US_dedes.Ode9
-ocMA.OdeW9C1T.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+ocMA.OdeW9C1T.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.incipit
 ocMA.OdeW9C1T.text = ""
 
 ocMA.OdeW9C21.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW9C21.ode = misc_en_US_dedes.Ode9
-ocMA.OdeW9C21.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+ocMA.OdeW9C21.melody = he.h.m6_en_US_dedes.TheonAnthropois.incipit
 ocMA.OdeW9C21.text = "The hope of blessings to come intensified * the choirs of the martyr saints, and towards ardent love for You * it incited them, being for them a clear * foretoken of the truly unshakeable repose; * which to the departed faithful grant, since You are good, O Lord."
 
 ocMA.OdeW9C22.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW9C22.ode = misc_en_US_dedes.Ode9
-ocMA.OdeW9C22.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+ocMA.OdeW9C22.melody = he.h.m6_en_US_dedes.TheonAnthropois.incipit
 ocMA.OdeW9C22.text = "O Christ, deem worthy of Your divine and bright * illumination those who have in faith been translated hence; * and as You alone are very merciful, * grant them repose within the bosom of Abraham; * and account them worthy of Your own eternal blessedness."
 
 ocMA.OdeW9C23.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW9C23.ode = misc_en_US_dedes.Ode9
-ocMA.OdeW9C23.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+ocMA.OdeW9C23.melody = he.h.m6_en_US_dedes.TheonAnthropois.incipit
 ocMA.OdeW9C23.text = "Since You are gracious and all-compassionate * by nature, and delight in steadfast love and are an abyss * of compassion, O Savior, to those whom You * translated from this place of punishment and from the * shadow of death, wherein shines Your light assign a place, O Lord."
 
 ocMA.OdeW9C2T.mode = misc_en_US_dedes.Mode6
 ocMA.OdeW9C2T.ode = misc_en_US_dedes.Ode9
-ocMA.OdeW9C2T.melody = he.h.m6_en_US_dedes.TheonAnthropois.name
+ocMA.OdeW9C2T.melody = he.h.m6_en_US_dedes.TheonAnthropois.incipit
 ocMA.OdeW9C2T.text = "O pure one, we know you as the tablet of * the law of grace, the holy tabernacle and sacred ark. * For through you to those who have been justified * by the blood of the One who became incarnate from * your womb has been given absolution, O all-blameless one."
 
 ocMA.LaudsRubric1.text = oc.m1.d7_en_US_dedes.ocMA.LaudsRubric1.text
@@ -495,19 +495,19 @@ ocMA.LaudsTheotokion.melody = ""
 ocMA.LaudsTheotokion.text = "You are our God, who in wisdom creates and fills all things. O Christ, You sent Prophets to prophesy Your coming, and Apostles to proclaim Your mighty works. The former prophesied Your coming, and the latter illumined the nations through baptism. Martyrs suffered and attained what they longed for; and all these, together with Your Mother, intercede with You. O God, grant rest to the souls that You have taken to yourself, and also count us worthy of Your kingdom. You are the one who endured the Cross for me who am condemned, O my Redeemer and God."
 
 ocMA.Aposticha1.mode = misc_en_US_dedes.Mode6
-ocMA.Aposticha1.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+ocMA.Aposticha1.melody = he.a.m6_en_US_dedes.OlinApothemenoi.incipit
 ocMA.Aposticha1.text = "Since incomprehensible is Your compassion towards us, * and abundant is the well of divine benevolence, Lord most merciful, * we entreat on behalf of Your faithful servants * who have died and passed away to You: * let them dwell in the land * of the living, in most beloved and * longed for dwellings, giving them * a possession which is forevermore. * You, O Christ our Savior, * have shed Your holy blood for all mankind, * and thus You ransomed the whole world * for a price that gave us life."
 
 ocMA.Aposticha2.mode = misc_en_US_dedes.Mode6
-ocMA.Aposticha2.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+ocMA.Aposticha2.melody = he.a.m6_en_US_dedes.OlinApothemenoi.incipit
 ocMA.Aposticha2.text = "Willingly You underwent * life-giving death, as our Savior, * and became the well of life, * and to the believers gave eternal delight, * all by Your most divine * tender-love, O Master, * only sinless and compassionate. * We now entreat You for * those who have reposed in the faith and hope * of resurrection, to forgive * all their sins and place them in Your delight; * thus in every manner Your name might be extolled, O Christ our God, * and being saved we might glorify * Your love for humanity."
 
 ocMA.Aposticha3.mode = misc_en_US_dedes.Mode6
-ocMA.Aposticha3.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+ocMA.Aposticha3.melody = he.a.m6_en_US_dedes.OlinApothemenoi.incipit
 ocMA.Aposticha3.text = "Christ, we know that You are Lord * of both the dead and the living, * and You rule by Your divine * power and authority. * Hence we pray to You * and entreat on behalf * of Your faithful servants, * who have died and passed away to You, * that You will grant them rest * with all Your elect, only Friend of man, * where they will be refreshed indeed, * in the brilliant splendor of all Your Saints. * You delight in mercy, * our God and benefactor, and You save * those whom You formed in Your image, O only very merciful Lord."
 
 ocMA.AposTheotokion.mode = misc_en_US_dedes.Mode6
-ocMA.AposTheotokion.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+ocMA.AposTheotokion.melody = he.a.m6_en_US_dedes.OlinApothemenoi.incipit
 ocMA.AposTheotokion.text = "You became a dwelling place that was for God most befitting; * in your body You held God, * and also gave birth to God, holy Virgin Maid. * He was seen by mankind, * as our Lord and Savior, * in one person and two essences. * Earnestly pray to Him, * your firstborn and only beloved Son, * who after being born kept you * spotless and preserved your virginity. * Ask Him to grant rest to the souls of those who fell asleep in faith, * that they may dwell in the light and pure * splendor and in blessedness."
 
 ocMA.ApolTheotokion.mode = misc_en_US_dedes.Mode6
@@ -515,27 +515,27 @@ ocMA.ApolTheotokion.melody = ""
 ocMA.ApolTheotokion.text = oc.m6.d4_en_US_dedes.ocMA.ApolTheotokion.text
 
 ocLI.Beatitudes1.mode = misc_en_US_dedes.Mode6
-ocLI.Beatitudes1.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+ocLI.Beatitudes1.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.incipit
 ocLI.Beatitudes1.text = oc.m6.d1_en_US_dedes.ocLI.Beatitudes1.text
 
 ocLI.Beatitudes2.mode = misc_en_US_dedes.Mode6
-ocLI.Beatitudes2.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+ocLI.Beatitudes2.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.incipit
 ocLI.Beatitudes2.text = "You have glorified the Prophets and the Teachers, * the Devout and the Righteous, O gracious Lord. * By their entreaties, save us in Your love for man."
 
 ocLI.Beatitudes3.mode = misc_en_US_dedes.Mode6
-ocLI.Beatitudes3.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+ocLI.Beatitudes3.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.incipit
 ocLI.Beatitudes3.text = "Holy Martyrs, you did not succumb to fire, * sword, and combing, nor even to wild beasts, * glorious athletes, and you obtained eternal life."
 
 ocLI.Beatitudes4.mode = misc_en_US_dedes.Mode6
-ocLI.Beatitudes4.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+ocLI.Beatitudes4.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.incipit
 ocLI.Beatitudes4.text = "Place the souls of those whom You, O Logos, transferred * from this temporal life, there with all the Saints * and Righteous, so that we may glorify You, O Lord."
 
 ocLI.BeatitudesTr.mode = misc_en_US_dedes.Mode6
-ocLI.BeatitudesTr.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+ocLI.BeatitudesTr.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.incipit
 ocLI.BeatitudesTr.text = "Holy Trinity, extolled as the almighty * single God: in the bosom of Abraham * place the believers whom You have from earth transferred."
 
 ocLI.BeatitudesT.mode = misc_en_US_dedes.Mode6
-ocLI.BeatitudesT.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.name
+ocLI.BeatitudesT.melody = he.h.m6_en_US_dedes.IToChaireDiAngelou.incipit
 ocLI.BeatitudesT.text = "You ineffably gave birth unto the truly * blessed God, O immaculate Maid, and thus * all generations know you to be truly blest."
 
 ocLI.MM.Beatitudes1234TrTas78910GB.text = properties_en_US_dedes.media.key

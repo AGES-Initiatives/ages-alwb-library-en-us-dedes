@@ -17,23 +17,23 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode1
-meVE.Stichera01.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.Stichera01.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meVE.Stichera01.text = "Even before emigrating * in deed, you did so at heart, * later in deed confirming what your heart had intended. * O blessed one, you exited from the vain * easy life that is pleasurable, * and as a foreigner traveled the narrow way * of the virtues and its hard ascent."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode1
-meVE.Stichera02.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.Stichera02.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meVE.Stichera02.text = "You were secure in the harbor and in the isthmus of God, * and thus you safely weathered * worldly storms and confusion. * O modest Maid, the waves of the pleasures did not * overwhelm the ship of your soul, * but you protected from damage and harm the whole * mystical freight that you were carrying."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode1
-meVE.Stichera03.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.Stichera03.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meVE.Stichera03.text = "Your name, O Xenia, means foreign; and to a foreign land * you went and lived, unknown to * your relations, but well known * to pious folks, O wise one, and thus you indeed * imitate God, who from the heights * came down to us who had fallen, to raise us up. * Now you ever pray to Him for all."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode1
-meVE.SticTheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.SticTheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meVE.SticTheotokion.text = oc.m1.d1_en_US_dedes.ocSV.Aposticha1.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode1
-meVE.SticStavrotheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.SticStavrotheotokion.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meVE.SticStavrotheotokion.text = oc.m1.d6_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
@@ -97,7 +97,7 @@ meMA.Ode3KathismaT.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaT.text = "I have fallen among many kinds of temptations from both seen and unseen enemies. I am tossed about by the tempest of my countless offences. I run to the harbor of your goodness for earnest help and protection, O immaculate Lady. O all-holy Virgin, entreat Him, who became incarnate from you without seed, on behalf of all your servants, who never cease to extol you, all-immaculate Theotokos; and intercede with Him fervently that He grant forgiveness of offences to those who piously worship the all-holy Child you bore."
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode8
-meMA.Ode3KathismaSt.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+meMA.Ode3KathismaSt.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.incipit
 meMA.Ode3KathismaSt.text = "When the Ewe-lamb beheld hanging on the Cross * the Redeemer and Shepherd and Lamb of God, * she wept and she wailed with grief, * and she bitterly cried aloud, * \"Now the world is receiving its redemption, and it leaps for joy; * whereas I see You crucified, and my heart burns inside of me. * In your tender mercy You endure crucifixion, * O Master, longsuffering, as the ocean of mercy and the well of benevolence, * I pray You show compassion and grant * to Your servants the forgiveness of their sins, * as they with faith are extolling Your divine Passion, O Lord.\""
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
@@ -166,7 +166,7 @@ meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m8_en_US_dedes.IlasthitiMoiSotir.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
-meMA.Kontakion1.melody = he.a.m2_en_US_dedes.ToisTonAimatonSou.name
+meMA.Kontakion1.melody = he.a.m2_en_US_dedes.ToisTonAimatonSou.incipit
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = "O famous Xenia, implore Christ who was born of a Virgin in a strange manner, to be merciful to us, who dutifully come to you with pure souls and hearts, and who endeavor to reverently extol your memory, which all the Powers of heaven worthily honored, as a luminous and blameless and holy festival. O glorious Saint, ever pray to Him on our behalf."
@@ -247,11 +247,11 @@ meMA.Ode9H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode9H.text = he.h.m3_en_US_dedes.EvlogitosKyrios.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.incipit
 meMA.Exaposteilarion1.text = "Your name means hospitality. * You longed to be received on high. * O Xenia, your name means stranger, * and you were estranged from family * and riches for the love of God. * And gladly you took up your cross * and ran after Christ the Savior, * who strangely was born of a Virgin, * for the salvation of mankind."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
-meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.incipit
 meMA.ExapTheotokion.text = "You physically gave birth to God, the Maker of the universe, * and therefore you are the highest * of everything He created. * Now godly women strengthened by His Cross have actively excelled * in feats of holy martyrdom, * and with them we all extol you, * O blessed and Virgin Mary."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode

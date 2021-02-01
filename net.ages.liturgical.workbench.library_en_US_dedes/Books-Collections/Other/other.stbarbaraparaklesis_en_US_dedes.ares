@@ -9,54 +9,54 @@ hoCA.Insert1 = "the holy and glorious Great Martyr Barbara,"
 hoCA.media.text = "" // for complete music
 
 hoCA.Apolytikion1.mode = misc_en_US_dedes.Mode4
-hoCA.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+hoCA.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
 hoCA.Apolytikion1.text = "You are the Savior's famous prize-winning Martyr * and our helper in adverse circumstances, * an ever-flowing fount of holy miracles. * With undoubting faith and love * we entreat you, O Barb'ra. * Be there when we need you most, * and protect us from danger, * and keep us safe from illness and disease, * from every hazard, disaster and dire straits."
 
 hoCA.Apolytikion2.mode = ho.s23_en_US_dedes.hoCA.Apolytikion2.mode
 hoCA.Apolytikion2.melody = ho.s23_en_US_dedes.hoCA.Apolytikion2.melody
 hoCA.Apolytikion2.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
 
-hoCA.Acrostic.text = ""
+hoCA.acrostic = ""
 hoCA.verse = prayers_en_US_dedes.verse_SaintW.text
 
 hoCA.Ode11.ode = misc_en_US_dedes.Ode1
 hoCA.Ode11.mode = misc_en_US_dedes.Mode8
-hoCA.Ode11.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+hoCA.Ode11.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
 hoCA.Ode11.text = "A fountain of cures gushes forth from you, * who treat every illness of the body and soul alike * of those who with ardent faith and longing * seek your protection, O Great Martyr Barbara."
 
 hoCA.Ode12.ode = misc_en_US_dedes.Ode1
 hoCA.Ode12.mode = misc_en_US_dedes.Mode8
-hoCA.Ode12.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+hoCA.Ode12.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
 hoCA.Ode12.text = "O Barb'ra, you glow with martyric light, * dispelling the darkness of unclean spirits, while you shine * on us in the dark night of our troubles, * giving us health, grace divine, and encouragement."
 
 hoCA.Ode13.ode = misc_en_US_dedes.Ode1
 hoCA.Ode13.mode = misc_en_US_dedes.Mode8
-hoCA.Ode13.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+hoCA.Ode13.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
 hoCA.Ode13.text = "Since you are with God now forevermore, * unceasingly pray Him with the candor afforded you * because of your martyrdom, to save us * from life's calamities, perils and suffering."
 
 hoCA.Ode1T.ode = misc_en_US_dedes.Ode1
 hoCA.Ode1T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode1T.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+hoCA.Ode1T.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
 hoCA.Ode1T.text = "O Mother of God, Lady full of grace, * physically you bore without corruption the Lord of all, * who delivered Adam from corruption, * I pray you free me from thoughts that corrupt my soul."
 
 hoCA.Ode31.ode = misc_en_US_dedes.Ode3
 hoCA.Ode31.mode = misc_en_US_dedes.Mode8
-hoCA.Ode31.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+hoCA.Ode31.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
 hoCA.Ode31.text = "You received the divine grace of cures and healings from Christ. * Therefore I entreat you, O Martyr, to treat my brokenness * and my incessant pain. * And change my soul's grief and sorrow * into joy and happiness, glorious Barbara."
 
 hoCA.Ode32.ode = misc_en_US_dedes.Ode3
 hoCA.Ode32.mode = misc_en_US_dedes.Mode8
-hoCA.Ode32.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+hoCA.Ode32.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
 hoCA.Ode32.text = "You, O Martyr St. Barb'ra, famously finished the race * on the track of martyrdom. Therefore direct us on the straight * and narrow path of God's * divine commandments, away from * shortcuts to perdition, by your providential grace. "
 
 hoCA.Ode33.ode = misc_en_US_dedes.Ode3
 hoCA.Ode33.mode = misc_en_US_dedes.Mode8
-hoCA.Ode33.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+hoCA.Ode33.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
 hoCA.Ode33.text = "I am now being tested with most acute suffering * and with a most serious illness, because of all my sins. * Therefore I pray you, all-lauded Martyr, to help me. * By the grace you have from God, relieve the crippling pain."
 
 hoCA.Ode3T.ode = misc_en_US_dedes.Ode3
 hoCA.Ode3T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode3T.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+hoCA.Ode3T.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
 hoCA.Ode3T.text = "Having done what is not right, I am polluted by sin, * dulling and effacing the beauty of my immortal soul. * O Lady, free me from my reprehensible habit. * Let the light of saving repentance shine on me."
 
 hoCA.Troparion31.mode = misc_en_US_dedes.Mode8
@@ -68,67 +68,67 @@ hoCA.Troparion32.melody = ""
 hoCA.Troparion32.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
 
 hoCA.Kathisma11.mode = misc_en_US_dedes.Mode2
-hoCA.Kathisma11.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
+hoCA.Kathisma11.melody = he.a.m2_en_US_dedes.TaAnoZiton.incipit
 hoCA.Kathisma11.text = "You pour out the streams of miracles, O Barbara. * You speedily come to help us when we pray to you * and invoke your holy name. * So we cry out to you who are our patron Saint: * Drive away epidemics from us, * and keep us safe from contagious disease."
 
 hoCA.Ode41.ode = misc_en_US_dedes.Ode4
 hoCA.Ode41.mode = misc_en_US_dedes.Mode8
-hoCA.Ode41.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+hoCA.Ode41.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
 hoCA.Ode41.text = "Holy Martyr, thwart the plans * of the dragon fiend to attack us suddenly. * By your swift assistance keep us safe * from all harm and injury he intends for us."
 
 hoCA.Ode42.ode = misc_en_US_dedes.Ode4
 hoCA.Ode42.mode = misc_en_US_dedes.Mode8
-hoCA.Ode42.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+hoCA.Ode42.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
 hoCA.Ode42.text = "I have saddened forbearing Christ, * and now many troubles and woes encompass me. * So I soulfully cry out to you: * O St. Barb'ra, drive away despondency."
 
 hoCA.Ode43.ode = misc_en_US_dedes.Ode4
 hoCA.Ode43.mode = misc_en_US_dedes.Mode8
-hoCA.Ode43.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+hoCA.Ode43.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
 hoCA.Ode43.text = "As we sing now and honor you, * pray for our salvation, O noble Barbara, * and entreat the Lord to keep us safe * from all illness and to grant us mercy and peace."
 
 hoCA.Ode4T.ode = misc_en_US_dedes.Ode4
 hoCA.Ode4T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode4T.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+hoCA.Ode4T.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
 hoCA.Ode4T.text = "In your goodness, O Virgin pure, * heal the pain and suffering of my sorry soul. * By the brightness of your providence, * save me from the darkness that the passions bring."
 
 hoCA.Ode51.ode = misc_en_US_dedes.Ode5
 hoCA.Ode51.mode = misc_en_US_dedes.Mode8
-hoCA.Ode51.melody = he.h.m8_en_US_dedes.FotisonImas.name
+hoCA.Ode51.melody = he.h.m8_en_US_dedes.FotisonImas.incipit
 hoCA.Ode51.text = "May your godly aid * come to us like a refreshing breeze * that extinguishes the burning and the heat * of temptations and afflictions, O all-honored Saint."
 
 hoCA.Ode52.ode = misc_en_US_dedes.Ode5
 hoCA.Ode52.mode = misc_en_US_dedes.Mode8
-hoCA.Ode52.melody = he.h.m8_en_US_dedes.FotisonImas.name
+hoCA.Ode52.melody = he.h.m8_en_US_dedes.FotisonImas.incipit
 hoCA.Ode52.text = "Barbara, we pray * and entreat you to protect us from * epidemics and from terrorist attacks, * from disaster and catastrophe and urgent need."
 
 hoCA.Ode53.ode = misc_en_US_dedes.Ode5
 hoCA.Ode53.mode = misc_en_US_dedes.Mode8
-hoCA.Ode53.melody = he.h.m8_en_US_dedes.FotisonImas.name
+hoCA.Ode53.melody = he.h.m8_en_US_dedes.FotisonImas.incipit
 hoCA.Ode53.text = "Be for us in life * an impregnable defensive shield, * helping us and reconciling us to Christ, * holy virgin Martyr Barb'ra, as our patron Saint."
 
 hoCA.Ode5T.ode = misc_en_US_dedes.Ode5
 hoCA.Ode5T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode5T.melody = he.h.m8_en_US_dedes.FotisonImas.name
+hoCA.Ode5T.melody = he.h.m8_en_US_dedes.FotisonImas.incipit
 hoCA.Ode5T.text = "Free our intellect * from the passionate attachment to * things material, and raise it to the heights * of the holy love of God, all-holy Virgin pure."
 
 hoCA.Ode61.ode = misc_en_US_dedes.Ode6
 hoCA.Ode61.mode = misc_en_US_dedes.Mode8
-hoCA.Ode61.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode61.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
 hoCA.Ode61.text = "Deliver us * and preserve us free of harm * from all serious and chronic diseases, * which you can cure by the grace of the Savior, * as you watch over us, Great Martyr Barbara. * With our Creator intercede * that He grant us forgiveness of all our sins."
 
 hoCA.Ode62.ode = misc_en_US_dedes.Ode6
 hoCA.Ode62.mode = misc_en_US_dedes.Mode8
-hoCA.Ode62.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode62.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
 hoCA.Ode62.text = "O Saint, accept * the entreaties of my soul * as a sweet smelling incense, O Barb'ra, * and cleanse my heart, which is sadly polluted * by sinful passions that wreak of impurity. * And when my mind is led astray, * I entreat you to set it aright again."
 
 hoCA.Ode63.ode = misc_en_US_dedes.Ode6
 hoCA.Ode63.mode = misc_en_US_dedes.Mode8
-hoCA.Ode63.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode63.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
 hoCA.Ode63.text = "O Barbara, * I entreat you fervently * that each day you pray to Jesus your Bridegroom * on my behalf, that by your intercession * I be delivered from hazards of every kind, * and from the hardships of this life, * and from sorrow and gloom that afflict my soul."
 
 hoCA.Ode6T.ode = misc_en_US_dedes.Ode6
 hoCA.Ode6T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode6T.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode6T.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
 hoCA.Ode6T.text = "O Virgin pure, * by your mystical action * heal my soul, for it is grievously ailing, * and stop the crippling pain in my body; * obtain forgiveness for me for my trespasses. * For I am safe counting on you, * as my ardent protectress and patroness."
 
 hoCA.Troparion61.mode = misc_en_US_dedes.Mode8
@@ -140,7 +140,7 @@ hoCA.Troparion62.melody = ""
 hoCA.Troparion62.text = ho.s23_en_US_dedes.hoCA.Troparion62.text
 
 hoCA.Kontakion.mode = misc_en_US_dedes.Mode2
-hoCA.Kontakion.melody = he.a.m2_en_US_dedes.ToisTonAimatonSou.name
+hoCA.Kontakion.melody = he.a.m2_en_US_dedes.ToisTonAimatonSou.incipit
 hoCA.Kontakion.text = "You are illustrious, working many miracles, * you take away the burning heat of diseases all, * and every day you grant health to the suffering, * O virgin-martyr, our Patron Saint Barbara. * How great is this grace that you have from God!"
 
 hoCA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
@@ -152,104 +152,104 @@ hoCA.PostGospelBoth.melody = ""
 hoCA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 hoCA.PostGospelHymn1.mode = misc_en_US_dedes.Mode6
-hoCA.PostGospelHymn1.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+hoCA.PostGospelHymn1.melody = he.a.m6_en_US_dedes.OlinApothemenoi.incipit
 hoCA.PostGospelHymn1.text = "Shining with virginity, O godly-minded St. Barb'ra, * and aglow with mighty feats * of your holy martyrdom, * truly you became * the all-pure sacred bride * of the King of glory. * Now with faith we pray to you each day, * seeking your ardent aid * as our Patron Saint, and we say to you: * Preserve us from the obstacles * and from the assaults of the evil one. * Keep us all uninjured * and safe from any terrorist attacks, * from bad infections and from disease, * by the grace that God gave you."
 
 hoCA.Ode71.ode = misc_en_US_dedes.Ode7
 hoCA.Ode71.mode = misc_en_US_dedes.Mode8
-hoCA.Ode71.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+hoCA.Ode71.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
 hoCA.Ode71.text = "Never cease from providing * your assistance to those who are suffering in pain * or grievous circumstances; * and by your intercession, * O St. Barbara, bride of Christ, * get the forgiveness of sins * for us who sing your praises."
 
 hoCA.Ode72.ode = misc_en_US_dedes.Ode7
 hoCA.Ode72.mode = misc_en_US_dedes.Mode8
-hoCA.Ode72.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+hoCA.Ode72.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
 hoCA.Ode72.text = "You were given divine grace. * Even more than the sun, it extends to everyone * the rays of your protection, * it drives away the dark night * of the passions and rescues us * from life's adversities, * O lovely Martyr Barb'ra."
 
 hoCA.Ode73.ode = misc_en_US_dedes.Ode7
 hoCA.Ode73.mode = misc_en_US_dedes.Mode8
-hoCA.Ode73.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+hoCA.Ode73.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
 hoCA.Ode73.text = "I am dead in my vices * and am worn out by so many pains and illnesses. * I pray you, holy Martyr: * If you will now exhibit * from on high your benevolence, * then I in no time will be * delivered from my hardships."
 
 hoCA.Ode74.ode = misc_en_US_dedes.Ode7
 hoCA.Ode74.mode = misc_en_US_dedes.Mode8
-hoCA.Ode74.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+hoCA.Ode74.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
 hoCA.Ode74.text = "Bride of Christ, Martyr Barb'ra, * set us free from impurities that defile our souls, * incurable diseases, * and from the sinful passions, * and obtain joy and happiness * and an abundance of goods, * for us who sing your praises."
 
 hoCA.Ode7T.ode = misc_en_US_dedes.Ode7
 hoCA.Ode7T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode7T.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+hoCA.Ode7T.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
 hoCA.Ode7T.text = "Lady, you have been likened * to a rain cloud for bearing the rain that saves the world. * With spiritual rivers * of your maternal goodness * irrigate now my intellect, * that I may magnify you, * O ever-blessed Virgin."
 
 hoCA.Ode81.ode = misc_en_US_dedes.Ode8
 hoCA.Ode81.mode = misc_en_US_dedes.Mode8
-hoCA.Ode81.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
+hoCA.Ode81.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.incipit
 hoCA.Ode81.text = "Put out the fire * of sinful passions that burn us * with the holy waters of your keen protection, * so that we may honor you, blessed Martyr Barb'ra."
 
 hoCA.Ode82.ode = misc_en_US_dedes.Ode8
 hoCA.Ode82.mode = misc_en_US_dedes.Mode8
-hoCA.Ode82.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
+hoCA.Ode82.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.incipit
 hoCA.Ode82.text = "Great Martyr Barb'ra, * in time of need be my refuge, * and my help in life's distresses and sorrows, * and a mighty fortress protecting me from danger."
 
 hoCA.Ode83.ode = misc_en_US_dedes.Ode8
 hoCA.Ode83.mode = misc_en_US_dedes.Mode8
-hoCA.Ode83.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
+hoCA.Ode83.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.incipit
 hoCA.Ode83.text = "Having, O Martyr, * the grace of God in abundance, * you are known to work miraculous healings; * and from harm and danger you rescue us who pray you."
 
 hoCA.Ode84.ode = misc_en_US_dedes.Ode8
 hoCA.Ode84.mode = misc_en_US_dedes.Mode8
-hoCA.Ode84.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
+hoCA.Ode84.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.incipit
 hoCA.Ode84.text = "O holy Martyr, * in streams of spiritual water, * wash away my sorry soul's wounds and lesions, * and restore my health, for I suffer now in much pain."
 
 hoCA.Ode8T.ode = misc_en_US_dedes.Ode8
 hoCA.Ode8T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode8T.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
+hoCA.Ode8T.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.incipit
 hoCA.Ode8T.text = "All-holy Virgin, * since you are pure, make my soul pure, * and illuminate my mind with your glory, * so that I may shake off the apathy of error."
 
 hoCA.Ode91.ode = misc_en_US_dedes.Ode9
 hoCA.Ode91.mode = misc_en_US_dedes.Mode8
-hoCA.Ode91.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+hoCA.Ode91.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
 hoCA.Ode91.text = "For those who run for refuge * unto your protection * you cure their bodily illnesses every day * and their incurable ailments, O Martyr Barbara."
 
 hoCA.Ode92.ode = misc_en_US_dedes.Ode9
 hoCA.Ode92.mode = misc_en_US_dedes.Mode8
-hoCA.Ode92.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+hoCA.Ode92.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
 hoCA.Ode92.text = "O medal-winner Barb'ra, * crush the devil's power * and mighty influence over us, and entreat * the Lord our God to forgive us * our sins and trespasses."
 
 hoCA.Ode93.ode = misc_en_US_dedes.Ode9
 hoCA.Ode93.mode = misc_en_US_dedes.Mode8
-hoCA.Ode93.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+hoCA.Ode93.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
 hoCA.Ode93.text = "Your grace is great, O Barb'ra, * glorious Great Martyr, * for you are there for us when we invoke your name. * To those who suffer in pain you extend a helping hand."
 
 hoCA.Ode94.ode = misc_en_US_dedes.Ode9
 hoCA.Ode94.mode = misc_en_US_dedes.Mode8
-hoCA.Ode94.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+hoCA.Ode94.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
 hoCA.Ode94.text = "I pray you, O St. Barb'ra, * that you pull me out of * the pit of error and put me upon the straight * and narrow path of salvation, * and crush the devil's plots."
 
 hoCA.Ode9T.ode = misc_en_US_dedes.Ode9
 hoCA.Ode9T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode9T.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+hoCA.Ode9T.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
 hoCA.Ode9T.text = "O highly favored Maiden, * throne of the Most High God, * in your benevolence raise me up from the depths * and from the dunghill of passions to virtue's soaring heights."
 
 hoCA.Meg00.text = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = misc_en_US_dedes.Heirmos
 hoCA.Meg01.text = he.h.m6_en_US_dedes.TinTimioteran.text
-hoCA.Meg02.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg02.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
 hoCA.Meg02.text = "We salute you, Barb'ra, and say, Rejoice, * renowned medal-winner, and the glory of virgins maids, * pride and joy of Martyrs, and ever-flowing fountain * of cures and healings, famous * bride of the Savior Christ."
-hoCA.Meg03.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg03.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
 hoCA.Meg03.text = "From a root of thorns did you blossom forth * like a fragrant flower, graceful maiden, and you emit * to the world the fragrance of Christ's divine aroma, * by virtue of your contests, Great Martyr Barbara."
-hoCA.Meg04.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg04.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
 hoCA.Meg04.text = "You forsook your father's impious faith * and became a Christian and a bride of the Savior Christ, * bringing to the Bridegroom the labors of your contests * as an expensive dowry, glorious Barbara."
-hoCA.Meg05.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg05.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
 hoCA.Meg05.text = "Wisely you abandoned prestige and wealth * as being temporal, while despising the spring of youth. * And thus you loved Christ God with all your heart, O Barb'ra, * and by martyric contests offered yourself to Him."
-hoCA.Meg06.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg06.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
 hoCA.Meg06.text = "You received extraordinary grace from Christ, * to treat chronic illness and to cure serious disease, * and to drive away epidemics and contagion. * From these will you protect us, Great Martyr Barbara."
-hoCA.Meg07.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg07.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
 hoCA.Meg07.text = "Everyone who comes to your church and prays * receives grace and mercy and a quick answer to his prayer. * Therefore we implore you, receive our supplications * and grant us our petitions, Barb'ra our Patron Saint."
-hoCA.Meg0F.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg0F.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
 hoCA.Meg0F.text = ho.s23_en_US_dedes.hoCA.Meg0F.text
 
 hoCA.Troparion1.mode = misc_en_US_dedes.Mode2
-hoCA.Troparion1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+hoCA.Troparion1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
 hoCA.Troparion1.text = "Godly-minded virgin martyr saint, * admirable, glorious Barb'ra, the medaled athlete of Christ, * earnestly we seek your aid, and we entreat you and pray: * Keep us safe from calamity, * from danger and trouble, * and from all adversity we may encounter in life. * For we count on you to assist us, * and to intercede with the Master * for us who extol you as our patron Saint."
 
 hoCA.Troparion2.mode = misc_en_US_dedes.Mode2

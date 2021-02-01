@@ -17,27 +17,27 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode1
-meVE.Stichera01.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.Stichera01.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode1
-meVE.Stichera02.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.Stichera02.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode1
-meVE.Stichera03.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.Stichera03.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode1
-meVE.Stichera04.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.Stichera04.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meVE.Stichera04.text = "You found a most blessed end, O devout Evdokimos. * Your name denotes approval: * you lived up to it fully * in godly virtue. For you did not succumb * to the trickery of the world, * but even brighter than rays of the sun you shone * and illumined the believers all."
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode1
-meVE.Stichera05.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.Stichera05.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meVE.Stichera05.text = "Everyone, let us extol now devout Evdokimos, * whose heart was full of mercy, * that protector of orphans, * that shelter of the homeless and poor, and the lamp * radiating the love of God. * He was a statue of chastity, and he kept * the commandments of the Lord in full."
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode1
-meVE.Stichera06.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meVE.Stichera06.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meVE.Stichera06.text = "In your most pure heart you sought God, O St. Evdokimos, * and you abhorred the pleasures * that the world has to offer. * O godly-minded man, thus you rightly received * the reward for your labors all * from righteous God, in accordance with your own faith, * in the end, as it was clearly revealed."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode2
@@ -53,15 +53,15 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.text = me.m09.d14_en_US_dedes.meMA.PostGospelIdiomelon.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
 meVE.Apolytikion1.text = "The Master who called you to eternal mansions on high * preserves incorrupt your body even after you died, * O holy Evdokimos; * for you had led a lifestyle of self-restraint and decorum, * never staining your flesh; and therefore truly you are blessed. * With confidence intercede with Christ to save our souls."
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode1
-meVE.Apolytikion2.melody = he.a.m1_en_US_dedes.ChorosAngelikos.name
+meVE.Apolytikion2.melody = he.a.m1_en_US_dedes.ChorosAngelikos.incipit
 meVE.Apolytikion2.text = ""
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
 meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
@@ -275,11 +275,11 @@ meMA.Ode9H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode9H.text = he.h.m2_en_US_dedes.AnarchouGennitoros.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
-meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.incipit
 meMA.Exaposteilarion1.text = "Against all kinds of passions * you were well tested when alive; * and even now you continue * to be a well of miracles, * by which our souls and bodies * are purified of the passions."
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
-meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.incipit
 meMA.Exaposteilarion2.text = "As we prepare to celebrate * the Cross, the world is sanctified. * The ranks of Angels have joined us * rejoicing and celebrating. * They sing their hymns of praise to Him, * who for our sakes was crucified, * using the words that David sang: * God our King has worked salvation * in the midst of the earth, as Master."
 
 meLI.Kontakion1.mode = ""

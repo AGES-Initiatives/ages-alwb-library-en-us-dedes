@@ -31,15 +31,15 @@ meVE.Stichera03.melody = ""
 meVE.Stichera03.text = me.m01.d06_en_US_dedes.meVE.Stichera03.text
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode1
-meVE.Stichera04.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+meVE.Stichera04.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.incipit
 meVE.Stichera04.text = "O Baptist and Forerunner of Christ, * God-inspired and praised by all, we call you blest, and so doing we are glorifying Christ, * who in River Jordan * bowed His holy head to you, * and sanctified the nature of humankind. Now pray to Him for us, * and entreat Him that surpassing peace * and great mercy * be upon our souls bestowed."
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode1
-meVE.Stichera05.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+meVE.Stichera05.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.incipit
 meVE.Stichera05.text = "O wise John the Forerunner of Christ, * you beheld the Father's  ineffable glory from heaven, and you saw His only Son * standing in the water, * and the Spirit as a dove * which came upon Him, and which does purify and sanctify the world. * Thus, O mystic of the Trinity, we extol you, * and honor your sacred feast."
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode1
-meVE.Stichera06.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+meVE.Stichera06.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.incipit
 meVE.Stichera06.text = "By Christ's grace divine you were made strong, * Forerunner and Baptist John, and thus you showed us the Lamb of God who takes away the sins * of the world. And back then * on this day you joyfully did send those two disciples to follow Him. Now pray to Him for us, * and entreat Him that surpassing peace * and great mercy * be upon our souls bestowed."
 
 meVE.SticGlory.poet = poets_en_US_dedes.Vyzantiou
@@ -53,15 +53,15 @@ meVE.SticBoth.melody = ""
 meVE.SticBoth.text = me.m01.d06_en_US_dedes.meMA.PostGospelIdiomelon.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode4
-meVE.Aposticha1.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Aposticha1.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meVE.Aposticha1.text = ""
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode4
-meVE.Aposticha2.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Aposticha2.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meVE.Aposticha2.text = ""
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode4
-meVE.Aposticha3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Aposticha3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.Vyzantos
@@ -79,15 +79,15 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = me.m08.d29_en_US_dedes.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
-meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TouLithouSfragisthentos.name
+meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TouLithouSfragisthentos.incipit
 meMA.Kathisma11.text = "When Jesus, who was born of the holy Virgin Mary, * was being baptized by John in the River Jordan, * the Spirit descended on Him, * appearing in the form of a dove. * And therefore the Prophet cried out and said * together with the Angels: * Glory to Your advent, O Christ; * glory to Your kingdom; * glory to Your dispensation, only One who loves mankind."
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
-meMA.Kathisma21.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+meMA.Kathisma21.melody = he.a.m4_en_US_dedes.EpefanisSimeron.incipit
 meMA.Kathisma21.text = "When he saw You in the streams * of River Jordan * being baptized willingly, * the great Forerunner cried aloud * to You, O Christ, and with gladness said: * You came and shone forth, O Light unapproachable."
 
-meMA.C1Poet = poets_en_US_dedes.Theofanous
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_dedes.Theofanous
+meMA.C1.acrostic = ""
 
 meMA.C1.title = titles_en_US_dedes.KanonTouProdromou
 meMA.C1.verse = prayers_en_US_dedes.verse_Baptist.text
@@ -263,26 +263,26 @@ meMA.Ode8C1T.text = "O all-pure Virgin, you ineffably conceived the pre-eternal 
 
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_dedes.Mode2
-meMA.Ode9C11.melody = he.h.m2_en_US_dedes.ITonProIliouFostira.name
+meMA.Ode9C11.melody = he.h.m2_en_US_dedes.ITonProIliouFostira.incipit
 meMA.Ode9C11.text = "Coming from the desert, the Forerunner's voice to all points out the Word who for our sake has visited us bodily; full of joy he prepares himself to baptize Him who has arrived, the One who purifies our souls from the ancestral sin through faith in Him."
 
 meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C12.mode = misc_en_US_dedes.Mode2
-meMA.Ode9C12.melody = he.h.m2_en_US_dedes.ITonProIliouFostira.name
+meMA.Ode9C12.melody = he.h.m2_en_US_dedes.ITonProIliouFostira.incipit
 meMA.Ode9C12.text = "Grace and Law do clearly promote you, holy John, as intermediate, in that you seal the Law and inaugurate Grace; and the Word honored you himself above the other Prophets all. You now surpass things visible, all-venerable Forerunner."
 
 meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C13.mode = misc_en_US_dedes.Mode2
-meMA.Ode9C13.melody = he.h.m2_en_US_dedes.ITonProIliouFostira.name
+meMA.Ode9C13.melody = he.h.m2_en_US_dedes.ITonProIliouFostira.incipit
 meMA.Ode9C13.text = "He who demonstrated a life that emulates the incorporeal rejoices now together with angelic hosts; he is full of exultant joy as he stands beside the Master's throne; forgiveness and salvation he requests for us and all who sing his praise."
 
 meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1T.mode = misc_en_US_dedes.Mode2
-meMA.Ode9C1T.melody = he.h.m2_en_US_dedes.ITonProIliouFostira.name
+meMA.Ode9C1T.melody = he.h.m2_en_US_dedes.ITonProIliouFostira.incipit
 meMA.Ode9C1T.text = "Exceeding compassion, the Savior and Redeemer of the universe becomes a man and accepts to be born in the flesh, in His love for the human race, since He by nature is humane; He came forth from your virgin womb, all-blessed Maiden who gave birth to God."
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.incipit
 meMA.Exaposteilarion1.text = "The Master once referred to you * as Prophet and superior * to all the Prophets and greater * than all who were born to women; * for all the Prophets and the Law * announced the coming of the Christ, * but you have seen Him in the flesh, * and more than all you were honored * when you, O Saint John, baptized Him."
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode3

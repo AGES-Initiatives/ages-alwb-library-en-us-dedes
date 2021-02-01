@@ -11,50 +11,50 @@ hoCA.Insert1 = "our Father among the Saints Nicholas the Wonder-worker, Archbish
 hoCA.media.text = ""
 
 hoCA.Apolytikion1.mode = misc_en_US_dedes.Mode4
-hoCA.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+hoCA.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
 hoCA.Apolytikion1.text = "Let us now venerate the all-holy Icon * of Bishop Nicholas, our Saint, O believers, * and all of us who wallow in so many sins, and pray, * \"Quickly come, O Hierarch of the Lord, and protect us; * make us safe from terror and the threat of destruction, * and from infectious diseases keep us free, * by your entreaties to God who loves humanity.\""
 
-hoCA.Acrostic.text = "Acrostic of the Theotokia: \"Seraphim.\""
+hoCA.acrostic = "Acrostic of the Theotokia: \"Seraphim.\""
 hoCA.verse = prayers_en_US_dedes.verse_SaintM.text
 
 hoCA.Ode11.ode = misc_en_US_dedes.Ode1
 hoCA.Ode11.mode = misc_en_US_dedes.Mode8
-hoCA.Ode11.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+hoCA.Ode11.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.incipit
 hoCA.Ode11.text = "By your entreaties, as you pray to God for all, O sacred Nicholas, * drive away the dark cloud of despair that covers me, * for you are filled abundantly with divine joy and gladness * because you stand in the presence of * Christ the King of all, O all-blessed Saint."
 
 hoCA.Ode12.ode = misc_en_US_dedes.Ode1
 hoCA.Ode12.mode = misc_en_US_dedes.Mode8
-hoCA.Ode12.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+hoCA.Ode12.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.incipit
 hoCA.Ode12.text = "The sinful passions, like a perfect storm, on every side encompass me, * and my soul is rattled by the tempest of my thoughts. * I pray you steer me to the calm port of doing what Christ wills, * by your entreaties, O Nicholas, * so that I may glorify you, O Saint."
 
 hoCA.Ode13.ode = misc_en_US_dedes.Ode1
 hoCA.Ode13.mode = misc_en_US_dedes.Mode8
-hoCA.Ode13.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+hoCA.Ode13.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.incipit
 hoCA.Ode13.text = "All-blessed Nicholas, you truly dwell together with Apostles and Saints. * You are always filled with brilliant light that comes from God. * Grant us who venerate today your sublime holy Icon * to be partakers of that divine * uncreated light, by your holy prayers."
 
 hoCA.Ode1T.ode = misc_en_US_dedes.Ode1
 hoCA.Ode1T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode1T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
+hoCA.Ode1T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.incipit
 hoCA.Ode1T.text = "Save me, O Lady, from eternal fire of hell, I now implore you with faith, * immaculate Virgin, who received within your womb * the unbearable fire of God. By your welcome entreaties, * free me from imminent punishment, * which is well deserved for my many sins."
 
 hoCA.Ode31.ode = misc_en_US_dedes.Ode3
 hoCA.Ode31.mode = misc_en_US_dedes.Mode8
-hoCA.Ode31.melody = he.h.m8_en_US_dedes.SyEiToStereoma.name
+hoCA.Ode31.melody = he.h.m8_en_US_dedes.SyEiToStereoma.incipit
 hoCA.Ode31.text = "Blessed father Nicholas, * by your entreaties, may we receive the peace of God, * so that we may duly * glorify you and honor you."
 
 hoCA.Ode32.ode = misc_en_US_dedes.Ode3
 hoCA.Ode32.mode = misc_en_US_dedes.Mode8
-hoCA.Ode32.melody = he.h.m8_en_US_dedes.SyEiToStereoma.name
+hoCA.Ode32.melody = he.h.m8_en_US_dedes.SyEiToStereoma.incipit
 hoCA.Ode32.text = "Grant that we may find relief * and even cures for the illnesses afflicting us, * by your intercessions, we entreat you, St. Nicholas."
 
 hoCA.Ode33.ode = misc_en_US_dedes.Ode3
 hoCA.Ode33.mode = misc_en_US_dedes.Mode8
-hoCA.Ode33.melody = he.h.m8_en_US_dedes.SyEiToStereoma.name
+hoCA.Ode33.melody = he.h.m8_en_US_dedes.SyEiToStereoma.incipit
 hoCA.Ode33.text = "Many dangers threaten me, * and passions tempt me on every side. Deliver me, * by your intercessions; O St. Nicholas, rescue me."
 
 hoCA.Ode3T.ode = misc_en_US_dedes.Ode3
 hoCA.Ode3T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode3T.melody = he.h.m8_en_US_dedes.SyEiToStereoma.name
+hoCA.Ode3T.melody = he.h.m8_en_US_dedes.SyEiToStereoma.incipit
 hoCA.Ode3T.text = "Even when the evils of * this life befall me, I do not fear, for I have you, * O all-spotless Virgin, * to protect me and shelter me."
 
 hoCA.Troparion31.mode = misc_en_US_dedes.Mode8
@@ -66,68 +66,68 @@ hoCA.Troparion32.melody = ""
 hoCA.Troparion32.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
 
 hoCA.Kathisma11.mode = misc_en_US_dedes.Mode2
-hoCA.Kathisma11.melody =  he.a.m2_en_US_dedes.ToisTonAimatonSou.name
+hoCA.Kathisma11.melody = he.a.m2_en_US_dedes.ToisTonAimatonSou.incipit
 hoCA.Kathisma11.text = "With dazzling rays of your wonderful miracles, * you have illumined and cheered the entire earth, * dispelling the gloom of calamity, * and repelling attacks that endanger us, * O fervent protector, St. Nicholas."
 
 hoCA.Ode41.ode = misc_en_US_dedes.Ode4
 hoCA.Ode41.mode = misc_en_US_dedes.Mode8
-hoCA.Ode41.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+hoCA.Ode41.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
 hoCA.Ode41.text = "I have fallen into a host * of sins and transgressions, and I am very sick. * O St. Nicholas, deliver me, * by your supplications to our Lord and God."
 
 hoCA.Ode42.ode = misc_en_US_dedes.Ode4
 hoCA.Ode42.mode = misc_en_US_dedes.Mode8
-hoCA.Ode42.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+hoCA.Ode42.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
 hoCA.Ode42.text = "You once rescued from imminent * execution three men, for they were innocent. * I entreat you now to rescue me * 
 from eternal punishment, O Nicholas."
 
 hoCA.Ode43.ode = misc_en_US_dedes.Ode4
 hoCA.Ode43.mode = misc_en_US_dedes.Mode8
-hoCA.Ode43.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+hoCA.Ode43.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
 hoCA.Ode43.text = "I have lived my life recklessly. * It is right that I, the delinquent, be condemned. * Pray I find my way to godliness, * through sincere repentance, O St. Nicholas."
 
 hoCA.Ode4T.ode = misc_en_US_dedes.Ode4
 hoCA.Ode4T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode4T.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+hoCA.Ode4T.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
 hoCA.Ode4T.text = "Resurrect me, since I am dead, * Lady Theotokos, for you gave birth to Him * who revived the dead, O Virgin pure. * I entreat you, cleanse me of impurity."
 
 hoCA.Ode51.ode = misc_en_US_dedes.Ode5
 hoCA.Ode51.mode = misc_en_US_dedes.Mode8
-hoCA.Ode51.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+hoCA.Ode51.melody = he.h.m8_en_US_dedes.InaTiMeAposo.incipit
 hoCA.Ode51.text = "Your attention was focused * on the Lord in heaven, to whom you did ascend, * and who had equipped you * with His grace to do marvelous miracles. * Therefore we entreat you, O blessed Nicholas, to save us * from disasters and serious illnesses."
 
 hoCA.Ode52.ode = misc_en_US_dedes.Ode5
 hoCA.Ode52.mode = misc_en_US_dedes.Mode8
-hoCA.Ode52.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+hoCA.Ode52.melody = he.h.m8_en_US_dedes.InaTiMeAposo.incipit
 hoCA.Ode52.text = "All the clergy and people * celebrate your memory, O father Nicholas. * They receive your blessings, * and with joy they delight in your miracles; * and, when it is proper, they join the choirs and extol you, * and they call you their fabulous Patron Saint."
 
 hoCA.Ode53.ode = misc_en_US_dedes.Ode5
 hoCA.Ode53.mode = misc_en_US_dedes.Mode8
-hoCA.Ode53.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+hoCA.Ode53.melody = he.h.m8_en_US_dedes.InaTiMeAposo.incipit
 hoCA.Ode53.text = "Once your heart was illumined * by the light of God, it was indeed like Paradise, * for you had within it * Christ the Lord, who is truly the tree of life. * Pray to Him, O Father, that we your servants may be granted * the delight and the glory of Paradise."
 
 hoCA.Ode5T.ode = misc_en_US_dedes.Ode5
 hoCA.Ode5T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode5T.melody = he.h.m8_en_US_dedes.InaTiMeAposo.name
+hoCA.Ode5T.melody = he.h.m8_en_US_dedes.InaTiMeAposo.incipit
 hoCA.Ode5T.text = "All-immaculate Virgin, * I have put my every hope of being saved in you. * Now as I am drowning * in a sea of misfortune, I pray to you. * Please do not ignore me, rather extend your hand and save me, * as your Son did to Peter, and rescue me."
 
 hoCA.Ode61.ode = misc_en_US_dedes.Ode6
 hoCA.Ode61.mode = misc_en_US_dedes.Mode8
-hoCA.Ode61.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode61.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
 hoCA.Ode61.text = "The risks of life, like a storm on the high seas, * cannot sink my ship, O all-blessed Father. * I am so glad that I have you as pilot, * to steer me safely to calm havens and repose. * O Bishop Nicholas, through you * I shall make it to heaven forevermore."
 
 hoCA.Ode62.ode = misc_en_US_dedes.Ode6
 hoCA.Ode62.mode = misc_en_US_dedes.Mode8
-hoCA.Ode62.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode62.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
 hoCA.Ode62.text = "All-blessed Saint, sympathize with your servants, * and with brotherly affection assist us, * and give us good health, since you are good-natured. * O godly-minded St. Nicholas, pray for us, * and by your holy prayers to God, * from all hardships and troubles deliver us."
 
 hoCA.Ode63.ode = misc_en_US_dedes.Ode6
 hoCA.Ode63.mode = misc_en_US_dedes.Mode8
-hoCA.Ode63.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode63.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
 hoCA.Ode63.text = "Of old you saved those three innocent generals, * by appearing to the Emperor, O Father. * Likewise now save us from every disaster * and from diseases, O all-holy Nicholas, * by your entreaties to the Lord, * and with love we shall honor your memory."
 
 hoCA.Ode6T.ode = misc_en_US_dedes.Ode6
 hoCA.Ode6T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode6T.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode6T.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
 hoCA.Ode6T.text = "Pray fervently for your servant, O Lady. * My indifference to matters of the spirit * has made me drowsy. So rouse me, and let not * my eyes succumb to the sleep and the death of sin. * For I have chosen you to be * my protectress to guide me throughout my life."
 
 hoCA.Troparion61.mode = misc_en_US_dedes.Mode8
@@ -139,7 +139,7 @@ hoCA.Troparion62.melody = ""
 hoCA.Troparion62.text = ho.s23_en_US_dedes.hoCA.Troparion62.text
 
 hoCA.Kontakion.mode = misc_en_US_dedes.Mode3
-hoCA.Kontakion.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
+hoCA.Kontakion.melody = he.a.m3_en_US_dedes.IParthenosSimeron.incipit
 hoCA.Kontakion.text = me.m12.d06_en_US_dedes.meMA.Kontakion1.text
 
 hoCA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
@@ -151,85 +151,85 @@ hoCA.PostGospelBoth.melody = ""
 hoCA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 hoCA.PostGospelHymn1.mode = misc_en_US_dedes.Mode6
-hoCA.PostGospelHymn1.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
+hoCA.PostGospelHymn1.melody = he.a.m6_en_US_dedes.OlinApothemenoi.incipit
 hoCA.PostGospelHymn1.text = "I have led my life till now in carefree ease and indifference. * I am near the end of it, and I find myself devoid of spiritual fruit. * All I have is the load of my sinful actions. * O good Lord who loves humanity, * take my unbearable burdens in an act of mercy to me. * And grant compunction and sincere repentance to me that I might be saved, * by the intercessions of Nicholas, which you gladly accept * when I invoke them, and by the prayers * of Your holy Mother, O God."
 
 hoCA.Ode71.ode = misc_en_US_dedes.Ode7
 hoCA.Ode71.mode = misc_en_US_dedes.Mode8
-hoCA.Ode71.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+hoCA.Ode71.melody = he.h.m8_en_US_dedes.PaidesEvraion.incipit
 hoCA.Ode71.text = "Nicholas, you are known for saving * those who sail the seas, and for defending widows, * subsidizing the poor, and looking after orphans. * Now by your intercessions for us, * keep us safe from any danger."
 
 hoCA.Ode72.ode = misc_en_US_dedes.Ode7
 hoCA.Ode72.mode = misc_en_US_dedes.Mode8
-hoCA.Ode72.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+hoCA.Ode72.melody = he.h.m8_en_US_dedes.PaidesEvraion.incipit
 hoCA.Ode72.text = "You work extraordinary wonders, * far away at sea and everywhere on dry land. * When invoked you are there for passengers and patients, * O Nicholas, delivering them * from their illnesses and perils."
 
 hoCA.Ode73.ode = misc_en_US_dedes.Ode7
 hoCA.Ode73.mode = misc_en_US_dedes.Mode8
-hoCA.Ode73.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+hoCA.Ode73.melody = he.h.m8_en_US_dedes.PaidesEvraion.incipit
 hoCA.Ode73.text = "Nicholas, you are a physician, * for you cure every life-threatening condition. * Now I pray you to heal my spiritual illness, * and make my soul be healthy and strong, * by your godly intercessions."
 
 hoCA.Ode7T.ode = misc_en_US_dedes.Ode7
 hoCA.Ode7T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode7T.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+hoCA.Ode7T.melody = he.h.m8_en_US_dedes.PaidesEvraion.incipit
 hoCA.Ode7T.text = "Hands lifted, pray for us, O Virgin, * to our God and King, whose mercy is unending, * and deliver us from diseases and disasters, * from all attacks and threats on our lives, * by your mighty intercessions."
 
 hoCA.Ode81.ode = misc_en_US_dedes.Ode8
 hoCA.Ode81.mode = misc_en_US_dedes.Mode8
-hoCA.Ode81.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
+hoCA.Ode81.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.incipit
 hoCA.Ode81.text = "By your entreaties * to God, O Nicholas, save us * who are trapped in a hole of temptations. * Earnestly we pray you to rescue us, O Father."
 
 hoCA.Ode82.ode = misc_en_US_dedes.Ode8
 hoCA.Ode82.mode = misc_en_US_dedes.Mode8
-hoCA.Ode82.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
+hoCA.Ode82.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.incipit
 hoCA.Ode82.text = "O blessed Father, * as you are living in comfort, * and enjoying the glory of heaven, * by your intercessions, protect us who extol you."
 
 hoCA.Ode83.ode = misc_en_US_dedes.Ode8
 hoCA.Ode83.mode = misc_en_US_dedes.Mode8
-hoCA.Ode83.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
+hoCA.Ode83.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.incipit
 hoCA.Ode83.text = "You were illumined * by uncreated divine light. * Now you brighten the souls of the troubled, * dispelling the gloom of temptations, holy Father."
 
 hoCA.Ode8T.ode = misc_en_US_dedes.Ode8
 hoCA.Ode8T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode8T.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.name
+hoCA.Ode8T.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.incipit
 hoCA.Ode8T.text = "I now rely on * the mighty help you can give me, * holy Virgin, who gave birth to the Savior * of the world, the Lord, who is merciful and mighty."
 
 hoCA.Ode91.ode = misc_en_US_dedes.Ode9
 hoCA.Ode91.mode = misc_en_US_dedes.Mode8
-hoCA.Ode91.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+hoCA.Ode91.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
 hoCA.Ode91.text = "O Nicholas, thrice-blessed, * you are very famous * throughout the world for your virtues and miracles. * We all rejoice and proclaim you to be our Patron Saint."
 
 hoCA.Ode92.ode = misc_en_US_dedes.Ode9
 hoCA.Ode92.mode = misc_en_US_dedes.Mode8
-hoCA.Ode92.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+hoCA.Ode92.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
 hoCA.Ode92.text = "When we may be in danger, * we pray you to save us, * who glorify you with faith, O praiseworthy Saint, * who imitated the Savior, all-blessed Nicholas."
 
 hoCA.Ode93.ode = misc_en_US_dedes.Ode9
 hoCA.Ode93.mode = misc_en_US_dedes.Mode8
-hoCA.Ode93.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+hoCA.Ode93.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
 hoCA.Ode93.text = "Delighting in celestial * flashes of divine light, * O Father Nicholas, you have been blessed by God. * May we find safety and shelter in your protective care."
 
 hoCA.Ode9T.ode = misc_en_US_dedes.Ode9
 hoCA.Ode9T.mode = misc_en_US_dedes.Mode8
-hoCA.Ode9T.melody = he.h.m8_en_US_dedes.KyriosTheotokon.name
+hoCA.Ode9T.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
 hoCA.Ode9T.text = "My soul is sick and hurting, * suffering from sinning. * O Lady, bless me that I may experience * eternal blessings in heaven, * O Mary Mother of God."
 
 hoCA.Meg00.text = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = misc_en_US_dedes.Heirmos
 hoCA.Meg01.text = he.h.m6_en_US_dedes.TinTimioteran.text
-hoCA.Meg02.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg02.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
 hoCA.Meg02.text = "Blessed Father Nicholas, come to us * now and when we need you to protect us and keep us safe. * Rescue us from perils on land and sea, and save us * who fervently invoke you, and who extol your name."
-hoCA.Meg03.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg03.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
 hoCA.Meg03.text = "You are the consistently good repute * of the holy fathers, and the Trinity's pure abode. * You defend the faithful, you comfort the afflicted; * and therefore we salute you, O Father Nicholas."
-hoCA.Meg04.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg04.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
 hoCA.Meg04.text = "You are our physician when we are ill; * you take care of orphans; you give rich blessings to the poor. * Rescuer and and savior of travelers in danger, * you hearten those in trouble, wise Father Nicholas!"
-hoCA.Meg05.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg05.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
 hoCA.Meg05.text = "We are proud to call you our Patron Saint, * for you rescue captives and you save travelers at sea, * you support the poor, you defend widows and orphans, * and also feed the hungry, all-blessed Nicholas."
-hoCA.Meg0F.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg0F.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
 hoCA.Meg0F.text = ho.s23_en_US_dedes.hoCA.Meg0F.text
 
 hoCA.Troparion1.mode = misc_en_US_dedes.Mode2
-hoCA.Troparion1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+hoCA.Troparion1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
 hoCA.Troparion1.text = oc.m2.d5_en_US_dedes.ocVE.Stichera6.text
 
 hoCA.Troparion2.mode = misc_en_US_dedes.Mode2

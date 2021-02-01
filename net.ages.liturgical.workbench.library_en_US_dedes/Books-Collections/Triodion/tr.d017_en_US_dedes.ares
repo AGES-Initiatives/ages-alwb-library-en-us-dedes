@@ -25,16 +25,16 @@ trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.text = "Let us reverently extol the glorious and immaculate true Theotokos, the Mother of God; and let us salute her, as did the Angel, \"Rejoice, holy Mother of the incarnate Son of God! Rejoice, dwelling place of the Holy Spirit! You are the one who always intercedes on our behalf, for the salvation of our souls.\""
 
 trMA.Kathisma21.mode = misc_en_US_dedes.Mode8
-trMA.Kathisma21.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+trMA.Kathisma21.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.incipit
 trMA.Kathisma21.text = "With the Father and Spirit, O divine Word, * You created all things, both unseen and seen, * with wisdom ineffable, and transcendent benevolence. * In Your mercy, grant us to finish successfully * the cheerful Lenten season with joy and profoundest peace. * Undo bitter sin and its related deception, * and grant us compunction and healing tears, and forgiveness of all our sins, O compassionate Lord, * so that with a confident soul and a willing spirit we may keep the fast, * and may thus join the Angels in praising Your omnipotence."
 
 trMA.Kathisma22.mode = misc_en_US_dedes.Mode8
 trMA.Kathisma22.melody = misc_en_US_dedes.Automelon
 trMA.Kathisma22.text = he.a.m8_en_US_dedes.TinSofianKaiLogon.text
 
-trMA.C1Poet = poets_en_US_dedes.KyriouIosif
+trMA.C1.poet = poets_en_US_dedes.KyriouIosif
 
-trMA.C2Poet = poets_en_US_dedes.KyriouIosif
+trMA.C2.poet = poets_en_US_dedes.KyriouIosif
 
 trMA.Ode2C1H.ode = misc_en_US_dedes.Ode2
 trMA.Ode2C1H.mode = misc_en_US_dedes.Mode3
@@ -83,7 +83,7 @@ trMA.Ode2C2Tr.text = "Let us glorify God, the Trinity in Monad, inseparable, unc
 
 trMA.Ode2C2T.ode = misc_en_US_dedes.Ode2
 trMA.Ode2C2T.mode = misc_en_US_dedes.Mode2
-trMA.Ode2C2T.melody = he.h.m2_en_US_dedes.ProsecheteLaosMou.name
+trMA.Ode2C2T.melody = he.h.m2_en_US_dedes.ProsecheteLaosMou.incipit
 trMA.Ode2C2T.text = "O pure Virgin Mother, He who was incarnate from you is the Logos and human. We pray you implore Him to save us your servants from danger."
 
 trMA.Ode2C2H.ode = misc_en_US_dedes.Ode2

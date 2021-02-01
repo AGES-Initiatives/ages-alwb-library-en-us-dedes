@@ -18,15 +18,15 @@ meHO.note2 = ""
 meDismissal = dismissals_en_US_dedes.dis00.meeting
 
 meSV.Stichera1.mode = misc_en_US_dedes.Mode1
-meSV.Stichera1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meSV.Stichera1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meSV.Stichera1.text = "Uncircumscribed is the Logos; super-essential is He; * upborne by Thrones of heaven, * He is carried in glory. * The same is now embraced within Symeon's arms, * and the Elder cries out in joy: * \"Let me depart now, according to Your word, O Lord, * the believers' salvation and repose.\""
 
 meSV.Stichera2.mode = misc_en_US_dedes.Mode1
-meSV.Stichera2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meSV.Stichera2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meSV.Stichera2.text = "Amazing Symeon saw You, * the pre-eternal Word, * begotten of the Father, * now an infant, and cried out, * \"Fearfully I shudder as I embrace * You, O Lord, in my aged arms. * I pray You, now let Your servant depart in peace * as You promised, O compassionate God.\""
 
 meSV.Stichera3.mode = misc_en_US_dedes.Mode1
-meSV.Stichera3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+meSV.Stichera3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 meSV.Stichera3.text = "Let heaven's gate now be opened. Behold the Word who is God, * begotten of the Father * in a manner outside time, * has taken human flesh and was physically born * of a Virgin, in His desire * that fallen nature of man be restored and set * at the Father's right; for He is good."
 
 meSV.SticGlory.poet = poets_en_US_dedes.AndreouKritis
@@ -35,19 +35,19 @@ meSV.SticGlory.melody = ""
 meSV.SticGlory.text = meVE.Lity8.text
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
-meSV.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meSV.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
 meSV.Aposticha1.text = "In the Temple of God * today, the Savior Jesus * is offered as an infant, * and Symeon the Elder receives Him in his aged arms."
 
 meSV.Aposticha2.mode = misc_en_US_dedes.Mode2
-meSV.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meSV.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
 meSV.Aposticha2.text = "Christ is the burning coal * foreseen once by Isaiah. * And now the Theotokos, * with hands instead of tongs, gives Him to the Elder Symeon."
 
 meSV.Aposticha3.mode = misc_en_US_dedes.Mode2
-meSV.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meSV.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
 meSV.Aposticha3.text = "Holding with fear and joy * the Lord in his embraces, * Symeon blessed and lauded * the Mother of the Savior, and asked to be released from life."
 
 meSV.AposGlory.mode = misc_en_US_dedes.Mode2
-meSV.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meSV.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
 meSV.AposGlory.text = "\"Take now into your arms * this babe, the Lord of glory, * who is the world's salvation.\" * So said the all-pure Mother of God to Elder Symeon."
 
 meVE.Stichera01.poet = poets_en_US_dedes.GermanouPatriarchou
@@ -149,11 +149,11 @@ meMA.Kathisma11.melody = misc_en_US_dedes.Automelon
 meMA.Kathisma11.text = he.a.m1_en_US_dedes.ChorosAngelikos.text
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode1
-meMA.Kathisma21.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+meMA.Kathisma21.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.incipit
 meMA.Kathisma21.text = "The One who is upon the holy throne with the Father, * has come upon the earth and was born of a Virgin. * An infant has He become who by years is uncircumscribed. * And when Symeon in his embraces received Him, * he rejoiced and said, You made me glad, now release me, * Your servant, O compassionate Lord."
 
 meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
-meMA.Kathisma31.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Kathisma31.melody = he.a.m4_en_US_dedes.KateplagiIosif.incipit
 meMA.Kathisma31.text = "Now the Ancient of Days becomes an infant for me. * And the most pure God now shares purification with me, * to show that truly He assumed my flesh from the Virgin. * And Symeon was led to know the mystery * and recognized as God the one he saw in the flesh. * And he embraced and kissed Him as life itself, * and he rejoiced as an elder and cried aloud, * Let me depart now, for I have seen You, * O Lord, the life of all things."
 
 meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
@@ -172,8 +172,8 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.SticGlory.text
 
-meMA.C1Poet = poets_en_US_dedes.KosmaMonachou
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_dedes.KosmaMonachou
+meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode3
@@ -185,17 +185,17 @@ meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode3
-meMA.Ode1C11.melody = he.h.m3_en_US_dedes.ChersonAvyssotokon.name
+meMA.Ode1C11.melody = he.h.m3_en_US_dedes.ChersonAvyssotokon.incipit
 meMA.Ode1C11.text = ""
 
 meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C12.mode = misc_en_US_dedes.Mode3
-meMA.Ode1C12.melody = he.h.m3_en_US_dedes.ChersonAvyssotokon.name
+meMA.Ode1C12.melody = he.h.m3_en_US_dedes.ChersonAvyssotokon.incipit
 meMA.Ode1C12.text = ""
 
 meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C13.mode = misc_en_US_dedes.Mode3
-meMA.Ode1C13.melody = he.h.m3_en_US_dedes.ChersonAvyssotokon.name
+meMA.Ode1C13.melody = he.h.m3_en_US_dedes.ChersonAvyssotokon.incipit
 meMA.Ode1C13.text = ""
 
 meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
@@ -205,21 +205,21 @@ meMA.Ode3C1H.text = he.h.m3_en_US_dedes.ToStereoma.text
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode3
-meMA.Ode3C11.melody = he.h.m3_en_US_dedes.ToStereoma.name
+meMA.Ode3C11.melody = he.h.m3_en_US_dedes.ToStereoma.incipit
 meMA.Ode3C11.text = ""
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode3
-meMA.Ode3C12.melody = he.h.m3_en_US_dedes.ToStereoma.name
+meMA.Ode3C12.melody = he.h.m3_en_US_dedes.ToStereoma.incipit
 meMA.Ode3C12.text = ""
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_dedes.Mode3
-meMA.Ode3C13.melody = he.h.m3_en_US_dedes.ToStereoma.name
+meMA.Ode3C13.melody = he.h.m3_en_US_dedes.ToStereoma.incipit
 meMA.Ode3C13.text = ""
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
-meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.KateplagiIosif.incipit
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
@@ -229,17 +229,17 @@ meMA.Ode4C1H.text = he.h.m3_en_US_dedes.EkalypsenOuranous.text
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_dedes.Mode3
-meMA.Ode4C11.melody = he.h.m3_en_US_dedes.EkalypsenOuranous.name
+meMA.Ode4C11.melody = he.h.m3_en_US_dedes.EkalypsenOuranous.incipit
 meMA.Ode4C11.text = ""
 
 meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C12.mode = misc_en_US_dedes.Mode3
-meMA.Ode4C12.melody = he.h.m3_en_US_dedes.EkalypsenOuranous.name
+meMA.Ode4C12.melody = he.h.m3_en_US_dedes.EkalypsenOuranous.incipit
 meMA.Ode4C12.text = ""
 
 meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C13.mode = misc_en_US_dedes.Mode3
-meMA.Ode4C13.melody = he.h.m3_en_US_dedes.EkalypsenOuranous.name
+meMA.Ode4C13.melody = he.h.m3_en_US_dedes.EkalypsenOuranous.incipit
 meMA.Ode4C13.text = ""
 
 meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
@@ -249,17 +249,17 @@ meMA.Ode5C1H.text = he.h.m3_en_US_dedes.OsEidenIsaias.text
 
 meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C11.mode = misc_en_US_dedes.Mode3
-meMA.Ode5C11.melody = he.h.m3_en_US_dedes.OsEidenIsaias.name
+meMA.Ode5C11.melody = he.h.m3_en_US_dedes.OsEidenIsaias.incipit
 meMA.Ode5C11.text = ""
 
 meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C12.mode = misc_en_US_dedes.Mode3
-meMA.Ode5C12.melody = he.h.m3_en_US_dedes.OsEidenIsaias.name
+meMA.Ode5C12.melody = he.h.m3_en_US_dedes.OsEidenIsaias.incipit
 meMA.Ode5C12.text = ""
 
 meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C13.mode = misc_en_US_dedes.Mode3
-meMA.Ode5C13.melody = he.h.m3_en_US_dedes.OsEidenIsaias.name
+meMA.Ode5C13.melody = he.h.m3_en_US_dedes.OsEidenIsaias.incipit
 meMA.Ode5C13.text = ""
 
 meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
@@ -269,17 +269,17 @@ meMA.Ode6C1H.text = he.h.m3_en_US_dedes.EvoiseSoi.text
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode3
-meMA.Ode6C11.melody = he.h.m3_en_US_dedes.EvoiseSoi.name
+meMA.Ode6C11.melody = he.h.m3_en_US_dedes.EvoiseSoi.incipit
 meMA.Ode6C11.text = ""
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode3
-meMA.Ode6C12.melody = he.h.m3_en_US_dedes.EvoiseSoi.name
+meMA.Ode6C12.melody = he.h.m3_en_US_dedes.EvoiseSoi.incipit
 meMA.Ode6C12.text = ""
 
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_dedes.Mode3
-meMA.Ode6C13.melody = he.h.m3_en_US_dedes.EvoiseSoi.name
+meMA.Ode6C13.melody = he.h.m3_en_US_dedes.EvoiseSoi.incipit
 meMA.Ode6C13.text = ""
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode1
@@ -295,17 +295,17 @@ meMA.Ode7C1H.text = he.h.m3_en_US_dedes.SeTonEnPyri.text
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode3
-meMA.Ode7C11.melody = he.h.m3_en_US_dedes.SeTonEnPyri.name
+meMA.Ode7C11.melody = he.h.m3_en_US_dedes.SeTonEnPyri.incipit
 meMA.Ode7C11.text = ""
 
 meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C12.mode = misc_en_US_dedes.Mode3
-meMA.Ode7C12.melody = he.h.m3_en_US_dedes.SeTonEnPyri.name
+meMA.Ode7C12.melody = he.h.m3_en_US_dedes.SeTonEnPyri.incipit
 meMA.Ode7C12.text = ""
 
 meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C13.mode = misc_en_US_dedes.Mode3
-meMA.Ode7C13.melody = he.h.m3_en_US_dedes.SeTonEnPyri.name
+meMA.Ode7C13.melody = he.h.m3_en_US_dedes.SeTonEnPyri.incipit
 meMA.Ode7C13.text = ""
 
 meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
@@ -315,17 +315,17 @@ meMA.Ode8C1H.text = he.h.m3_en_US_dedes.AstektoPyri.text
 
 meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C11.mode = misc_en_US_dedes.Mode3
-meMA.Ode8C11.melody = he.h.m3_en_US_dedes.AstektoPyri.name
+meMA.Ode8C11.melody = he.h.m3_en_US_dedes.AstektoPyri.incipit
 meMA.Ode8C11.text = ""
 
 meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C12.mode = misc_en_US_dedes.Mode3
-meMA.Ode8C12.melody = he.h.m3_en_US_dedes.AstektoPyri.name
+meMA.Ode8C12.melody = he.h.m3_en_US_dedes.AstektoPyri.incipit
 meMA.Ode8C12.text = ""
 
 meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C13.mode = misc_en_US_dedes.Mode3
-meMA.Ode8C13.melody = he.h.m3_en_US_dedes.AstektoPyri.name
+meMA.Ode8C13.melody = he.h.m3_en_US_dedes.AstektoPyri.incipit
 meMA.Ode8C13.text = ""
 
 meMA.Ode9C1M01.text = ""
@@ -352,17 +352,17 @@ meMA.Ode9C1H.text = he.h.m3_en_US_dedes.EnNomoSkia.text
 
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_dedes.Mode3
-meMA.Ode9C11.melody = he.h.m3_en_US_dedes.EnNomoSkia.name
+meMA.Ode9C11.melody = he.h.m3_en_US_dedes.EnNomoSkia.incipit
 meMA.Ode9C11.text = "A pair of doves or young pigeons was required* of old. Now instead of these, the divine Elder* and the chaste Anna, the prophetess,* minister to the Father's progeny,* who was born of the Virgin, and who was brought by her* to the Temple. And Him they magnified."
 
 meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C12.mode = misc_en_US_dedes.Mode3
-meMA.Ode9C12.melody = he.h.m3_en_US_dedes.EnNomoSkia.name
+meMA.Ode9C12.melody = he.h.m3_en_US_dedes.EnNomoSkia.incipit
 meMA.Ode9C12.text = "O Master Christ, You restored to me the joy * of Your salvation, cried Symeon the Elder in the Temple.* And now receive me Your servant,* who is weary of the shadow,* and yet a new initiate and preacher of Your grace,* and who praises You and magnifies."
 
 meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C13.mode = misc_en_US_dedes.Mode3
-meMA.Ode9C13.melody = he.h.m3_en_US_dedes.EnNomoSkia.name
+meMA.Ode9C13.melody = he.h.m3_en_US_dedes.EnNomoSkia.incipit
 meMA.Ode9C13.text = "The chaste and devout and elderly * Anna was openly professing the divine will* in the Temple; and with sacred reverence* she gave thanks to the Master.* And to all who were there * she proclaimed the Theotokos, whom she magnified."
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
@@ -370,15 +370,15 @@ meMA.Exaposteilarion1.melody = misc_en_US_dedes.Automelon
 meMA.Exaposteilarion1.text = he.a.m3_en_US_dedes.EnPnevmatiToIero.text
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode4
-meMA.Lauds1.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meMA.Lauds1.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meMA.Lauds1.text = "He who loves humanity fulfills the Law that was writ of old* and is brought to the Temple now.* And elderly Symeon heartily receives Him* in his old embraces,* and cries, You now let me depart* unto the blessedness of eternity.* Today I laid my eyes on You who now have put on our mortal flesh,* and I know You, O Lord my God,* as the Master of life and death."
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode4
-meMA.Lauds2.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meMA.Lauds2.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meMA.Lauds2.text = "Light for revelation of the Gentiles, You have appeared, O Lord,* even sitting upon a swift* and light cloud, the virgin Maid,* as the Sun of Justice,* and You thus completed* the shadow of the Law of old* and manifested the start of the new grace.* And therefore elder Symeon, when he beheld You, cried out and said,* From corruption release me now,* for today I have seen You, Lord."
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode4
-meMA.Lauds3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meMA.Lauds3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meMA.Lauds3.text = "Never separated from the Father's bosom in divinity,* and incarnated as You willed,* and held in the holy arms * of the Ever-Virgin,* You who hold all things in Your hand were given to the hands* of the divine God-receiver Symeon.* And therefore full of joy he cried to You, O Master, With my own eyes,* I Your servant have seen You, Lord;* now You let me depart in peace."
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Germanou

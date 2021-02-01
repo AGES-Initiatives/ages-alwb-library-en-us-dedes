@@ -17,31 +17,31 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
-meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
-meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meVE.SticTheotokion.text = oc.m4.d4_en_US_dedes.ocVE.Stichera5.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode4
-meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
 meVE.SticStavrotheotokion.text = me.m02.d03_en_US_dedes.meVE.SticStavrotheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode5
-meVE.Apolytikion1.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
+meVE.Apolytikion1.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.incipit
 meVE.Apolytikion1.text = ""
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode2
@@ -97,11 +97,11 @@ meMA.Ode3C1T.melody = he.h.m2_en_US_dedes.ExinthisenIErimos.notmetered
 meMA.Ode3C1T.text = "I pray you, O all-pure Maiden, heal the wounds of my soul, and direct the movements of my mind to the will of Him who was incarnate of you. "
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
-meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
 meMA.Ode3Kathisma1.text = "All blessed St. Hilary, you consecrated your life * to God, O all-sacred man, and thus you truly became * an excellent priest of Christ. * After you shed uncounted tears and sweat of your labors, * joyfully you were transferred to the heavenly mansions. * And now you are a fountain that gushes forth cures for us."
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
 meMA.Ode3KathismaT.text = "Be swift to accept our fervent prayers, O Lady and Queen, * and take them, all-blameless Maiden, and present them for us * before your own Son and God. * Rescue from every trouble * those who run to your shelter. * Frustrate the machinations and humble the boldness * of the godless who against your servants have taken arms."
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode4

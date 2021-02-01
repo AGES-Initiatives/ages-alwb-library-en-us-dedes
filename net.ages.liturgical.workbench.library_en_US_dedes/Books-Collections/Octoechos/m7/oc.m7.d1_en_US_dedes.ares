@@ -15,7 +15,7 @@ ocSV.Dogmatic.melody = ""
 ocSV.Dogmatic.text = ""
 
 ocSV.Aposticha1.mode = misc_en_US_dedes.Mode7
-ocSV.Aposticha1.melody = he.a.m7_en_US_dedes.KatafronisantesPanton.name
+ocSV.Aposticha1.melody = he.a.m7_en_US_dedes.KatafronisantesPanton.incipit
 ocSV.Aposticha1.text = ""
 
 ocSV.Aposticha2.mode = misc_en_US_dedes.Mode7
@@ -96,109 +96,109 @@ ocVE.ApolTheotokionVM.mode = misc_en_US_dedes.Mode7
 ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = "O all-praised Lady, our resurrection's treasury, do from the pit and the deep of offences draw us up, as we have put our trust in you. For you have saved us who were liable for sin, by giving birth unto our salvation. Virgin prior to bearing; and in bearing, a Virgin; and after bearing, still a Virgin."
 
-ocMO.Poet = poets_en_US_dedes.MitrofanousSmirnis
-ocMO.Acrostic.text = ""
+ocMO.poet = poets_en_US_dedes.MitrofanousSmirnis
+ocMO.acrostic = ""
 
 ocMO.Ode11.mode = misc_en_US_dedes.Mode7
 ocMO.Ode11.ode = misc_en_US_dedes.Ode1
-ocMO.Ode11.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.name
+ocMO.Ode11.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.incipit
 ocMO.Ode11.text = ""
 
 ocMO.Ode12.mode = misc_en_US_dedes.Mode7
 ocMO.Ode12.ode = misc_en_US_dedes.Ode1
-ocMO.Ode12.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.name
+ocMO.Ode12.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.incipit
 ocMO.Ode12.text = ""
 
 ocMO.Ode13.mode = misc_en_US_dedes.Mode7
 ocMO.Ode13.ode = misc_en_US_dedes.Ode1
-ocMO.Ode13.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.name
+ocMO.Ode13.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.incipit
 ocMO.Ode13.text = ""
 
 ocMO.Ode1T.mode = misc_en_US_dedes.Mode7
 ocMO.Ode1T.ode = misc_en_US_dedes.Ode1
-ocMO.Ode1T.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.name
+ocMO.Ode1T.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.incipit
 ocMO.Ode1T.text = ""
 
 ocMO.Ode31.mode = misc_en_US_dedes.Mode7
 ocMO.Ode31.ode = misc_en_US_dedes.Ode3
-ocMO.Ode31.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.name
+ocMO.Ode31.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.incipit
 ocMO.Ode31.text = ""
 
 ocMO.Ode32.mode = misc_en_US_dedes.Mode7
 ocMO.Ode32.ode = misc_en_US_dedes.Ode3
-ocMO.Ode32.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.name
+ocMO.Ode32.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.incipit
 ocMO.Ode32.text = ""
 
 ocMO.Ode33.mode = misc_en_US_dedes.Mode7
 ocMO.Ode33.ode = misc_en_US_dedes.Ode3
-ocMO.Ode33.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.name
+ocMO.Ode33.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.incipit
 ocMO.Ode33.text = ""
 
 ocMO.Ode3T.mode = misc_en_US_dedes.Mode7
 ocMO.Ode3T.ode = misc_en_US_dedes.Ode3
-ocMO.Ode3T.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.name
+ocMO.Ode3T.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.incipit
 ocMO.Ode3T.text = ""
 
 ocMO.Kathisma11.mode = misc_en_US_dedes.Mode7
-ocMO.Kathisma11.melody = he.a.m7_en_US_dedes.ODiEmeAnaschomenos.name
+ocMO.Kathisma11.melody = he.a.m7_en_US_dedes.ODiEmeAnaschomenos.incipit
 ocMO.Kathisma11.text = ""
 
 ocMO.Kathisma12.mode = misc_en_US_dedes.Mode7
-ocMO.Kathisma12.melody = he.a.m7_en_US_dedes.ODiEmeAnaschomenos.name
+ocMO.Kathisma12.melody = he.a.m7_en_US_dedes.ODiEmeAnaschomenos.incipit
 ocMO.Kathisma12.text = ""
 
 ocMO.Ode41.mode = misc_en_US_dedes.Mode7
 ocMO.Ode41.ode = misc_en_US_dedes.Ode4
-ocMO.Ode41.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.name
+ocMO.Ode41.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.incipit
 ocMO.Ode41.text = ""
 
 ocMO.Ode42.mode = misc_en_US_dedes.Mode7
 ocMO.Ode42.ode = misc_en_US_dedes.Ode4
-ocMO.Ode42.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.name
+ocMO.Ode42.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.incipit
 ocMO.Ode42.text = ""
 
 ocMO.Ode43.mode = misc_en_US_dedes.Mode7
 ocMO.Ode43.ode = misc_en_US_dedes.Ode4
-ocMO.Ode43.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.name
+ocMO.Ode43.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.incipit
 ocMO.Ode43.text = ""
 
 ocMO.Ode4T.mode = misc_en_US_dedes.Mode7
 ocMO.Ode4T.ode = misc_en_US_dedes.Ode4
-ocMO.Ode4T.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.name
+ocMO.Ode4T.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.incipit
 ocMO.Ode4T.text = ""
 
 ocMO.Ode51.mode = misc_en_US_dedes.Mode7
 ocMO.Ode51.ode = misc_en_US_dedes.Ode5
-ocMO.Ode51.melody = he.h.m7_en_US_dedes.OiOrthrizontesLoge.name
+ocMO.Ode51.melody = he.h.m7_en_US_dedes.OiOrthrizontesLoge.incipit
 ocMO.Ode51.text = ""
 
 ocMO.Ode52.mode = misc_en_US_dedes.Mode7
 ocMO.Ode52.ode = misc_en_US_dedes.Ode5
-ocMO.Ode52.melody = he.h.m7_en_US_dedes.OiOrthrizontesLoge.name
+ocMO.Ode52.melody = he.h.m7_en_US_dedes.OiOrthrizontesLoge.incipit
 ocMO.Ode52.text = ""
 
 ocMO.Ode5T.mode = misc_en_US_dedes.Mode7
 ocMO.Ode5T.ode = misc_en_US_dedes.Ode5
-ocMO.Ode5T.melody = he.h.m7_en_US_dedes.OiOrthrizontesLoge.name
+ocMO.Ode5T.melody = he.h.m7_en_US_dedes.OiOrthrizontesLoge.incipit
 ocMO.Ode5T.text = ""
 
 ocMO.Ode61.mode = misc_en_US_dedes.Mode7
 ocMO.Ode61.ode = misc_en_US_dedes.Ode6
-ocMO.Ode61.melody = he.h.m7_en_US_dedes.NaftionToSalo.name
+ocMO.Ode61.melody = he.h.m7_en_US_dedes.NaftionToSalo.incipit
 ocMO.Ode61.text = ""
 
 ocMO.Ode62.mode = misc_en_US_dedes.Mode7
 ocMO.Ode62.ode = misc_en_US_dedes.Ode6
-ocMO.Ode62.melody = he.h.m7_en_US_dedes.NaftionToSalo.name
+ocMO.Ode62.melody = he.h.m7_en_US_dedes.NaftionToSalo.incipit
 ocMO.Ode62.text = ""
 
 ocMO.Ode6T.mode = misc_en_US_dedes.Mode7
 ocMO.Ode6T.ode = misc_en_US_dedes.Ode6
-ocMO.Ode6T.melody = he.h.m7_en_US_dedes.NaftionToSalo.name
+ocMO.Ode6T.melody = he.h.m7_en_US_dedes.NaftionToSalo.incipit
 ocMO.Ode6T.text = ""
 
 ocMO.Kathisma21.mode = misc_en_US_dedes.Mode7
-ocMO.Kathisma21.melody = he.a.m7_en_US_dedes.PyrosFoteinoteron.name
+ocMO.Kathisma21.melody = he.a.m7_en_US_dedes.PyrosFoteinoteron.incipit
 ocMO.Kathisma21.text = ""
 
 ocMO.Kathisma22.mode = misc_en_US_dedes.Mode7
@@ -207,57 +207,57 @@ ocMO.Kathisma22.text = he.a.m7_en_US_dedes.PyrosFoteinoteron.text
 
 ocMO.Ode71.mode = misc_en_US_dedes.Mode7
 ocMO.Ode71.ode = misc_en_US_dedes.Ode7
-ocMO.Ode71.melody = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.name
+ocMO.Ode71.melody = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.incipit
 ocMO.Ode71.text = ""
 
 ocMO.Ode72.mode = misc_en_US_dedes.Mode7
 ocMO.Ode72.ode = misc_en_US_dedes.Ode7
-ocMO.Ode72.melody = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.name
+ocMO.Ode72.melody = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.incipit
 ocMO.Ode72.text = ""
 
 ocMO.Ode7T.mode = misc_en_US_dedes.Mode7
 ocMO.Ode7T.ode = misc_en_US_dedes.Ode7
-ocMO.Ode7T.melody = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.name
+ocMO.Ode7T.melody = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.incipit
 ocMO.Ode7T.text = ""
 
 ocMO.Ode81.mode = misc_en_US_dedes.Mode7
 ocMO.Ode81.ode = misc_en_US_dedes.Ode8
-ocMO.Ode81.melody = he.h.m7_en_US_dedes.AflektosPyri.name
+ocMO.Ode81.melody = he.h.m7_en_US_dedes.AflektosPyri.incipit
 ocMO.Ode81.text = ""
 
 ocMO.Ode82.mode = misc_en_US_dedes.Mode7
 ocMO.Ode82.ode = misc_en_US_dedes.Ode8
-ocMO.Ode82.melody = he.h.m7_en_US_dedes.AflektosPyri.name
+ocMO.Ode82.melody = he.h.m7_en_US_dedes.AflektosPyri.incipit
 ocMO.Ode82.text = ""
 
 ocMO.Ode83.mode = misc_en_US_dedes.Mode7
 ocMO.Ode83.ode = misc_en_US_dedes.Ode8
-ocMO.Ode83.melody = he.h.m7_en_US_dedes.AflektosPyri.name
+ocMO.Ode83.melody = he.h.m7_en_US_dedes.AflektosPyri.incipit
 ocMO.Ode83.text = ""
 
 ocMO.Ode8T.mode = misc_en_US_dedes.Mode7
 ocMO.Ode8T.ode = misc_en_US_dedes.Ode8
-ocMO.Ode8T.melody = he.h.m7_en_US_dedes.AflektosPyri.name
+ocMO.Ode8T.melody = he.h.m7_en_US_dedes.AflektosPyri.incipit
 ocMO.Ode8T.text = ""
 
 ocMO.Ode91.mode = misc_en_US_dedes.Mode7
 ocMO.Ode91.ode = misc_en_US_dedes.Ode9
-ocMO.Ode91.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.name
+ocMO.Ode91.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.incipit
 ocMO.Ode91.text = ""
 
 ocMO.Ode92.mode = misc_en_US_dedes.Mode7
 ocMO.Ode92.ode = misc_en_US_dedes.Ode9
-ocMO.Ode92.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.name
+ocMO.Ode92.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.incipit
 ocMO.Ode92.text = ""
 
 ocMO.Ode93.mode = misc_en_US_dedes.Mode7
 ocMO.Ode93.ode = misc_en_US_dedes.Ode9
-ocMO.Ode93.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.name
+ocMO.Ode93.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.incipit
 ocMO.Ode93.text = ""
 
 ocMO.Ode9T.mode = misc_en_US_dedes.Mode7
 ocMO.Ode9T.ode = misc_en_US_dedes.Ode9
-ocMO.Ode9T.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.name
+ocMO.Ode9T.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.incipit
 ocMO.Ode9T.text = ""
 
 ocMA.MM.GodIsTheLord.text = properties_en_US_dedes.media.key
@@ -330,9 +330,9 @@ ocMA.Antiphon33.text = "In the Holy Spirit is an abyss of divine gifts, a wealth
 
 ocMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 
-ocMA.C2Poet = poets_en_US_dedes.Kosma
+ocMA.C2.poet = poets_en_US_dedes.Kosma
 
-ocMA.C3Acrostic.text = ""
+ocMA.C3.acrostic = ""
 
 ocMA.OdeS1C1H.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS1C1H.ode = misc_en_US_dedes.Ode1
@@ -341,47 +341,47 @@ ocMA.OdeS1C1H.text = he.h.m7_en_US_dedes.NefseiSouProsGeodi.text
 
 ocMA.OdeS1C11.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS1C11.ode = misc_en_US_dedes.Ode1
-ocMA.OdeS1C11.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.name
+ocMA.OdeS1C11.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.incipit
 ocMA.OdeS1C11.text = "Death’s tyranny was judged by means of a cross made of timber * when You were condemned unto an undeserved death, O Lord. * Hence was the ruler of darkness * rightly ousted, for he could not overpower You."
 
 ocMA.OdeS1C12.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS1C12.ode = misc_en_US_dedes.Ode1
-ocMA.OdeS1C12.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.name
+ocMA.OdeS1C12.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.incipit
 ocMA.OdeS1C12.text = "Hades, when it approached You and with its teeth was unable, * O Savior, to triturate  Your body, then did break its jaws. * And having thus loosed the pangs of * death, You on the third day arose from the dead, O Lord."
 
 ocMA.OdeS1C1T.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS1C1T.ode = misc_en_US_dedes.Ode1
-ocMA.OdeS1C1T.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.name
+ocMA.OdeS1C1T.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.incipit
 ocMA.OdeS1C1T.text = "Birth pangs of Eve the primal mother have now been abol-ished. * For though you evaded them, you still gave birth ungamically. * Therefore we all glorify you * knowing you to be Theotokos, O all pure one."
 
 ocMA.OdeS1C21.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS1C21.ode = misc_en_US_dedes.Ode1
-ocMA.OdeS1C21.melody = he.h.m7_en_US_dedes.PontoEkalypse.name
+ocMA.OdeS1C21.melody = he.h.m7_en_US_dedes.PontoEkalypse.incipit
 ocMA.OdeS1C21.text = "When He was on the Cross, * two life-bearing springs for us * did the Savior pour out from His side that with a lance was pierced. * Let us sing to Him, for He is glorified."
 
 ocMA.OdeS1C22.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS1C22.ode = misc_en_US_dedes.Ode1
-ocMA.OdeS1C22.melody = he.h.m7_en_US_dedes.PontoEkalypse.name
+ocMA.OdeS1C22.melody = he.h.m7_en_US_dedes.PontoEkalypse.incipit
 ocMA.OdeS1C22.text = "Christ, dwelling in the tomb * and in three days rising, gave * mortals the expectation of incorruptibility. * Let us sing to Him, for He is glorified."
 
 ocMA.OdeS1C2T.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS1C2T.ode = misc_en_US_dedes.Ode1
-ocMA.OdeS1C2T.melody = he.h.m7_en_US_dedes.PontoEkalypse.name
+ocMA.OdeS1C2T.melody = he.h.m7_en_US_dedes.PontoEkalypse.incipit
 ocMA.OdeS1C2T.text = "Only you proved to be * virgin after childbirth; * for you bore the incarnate Creator of the universe. * Therefore unto to you we all cry out: Rejoice."
 
 ocMA.OdeS1C31.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS1C31.ode = misc_en_US_dedes.Ode1
-ocMA.OdeS1C31.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.name
+ocMA.OdeS1C31.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.incipit
 ocMA.OdeS1C31.text = "Virgin, since you gave birth unto the abyss of compassion, * illumine my soul, I pray, with your light-bearing radiance, * that the abyss of your wondrous * marvels I may worthily praise and extol in song."
 
 ocMA.OdeS1C32.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS1C32.ode = misc_en_US_dedes.Ode1
-ocMA.OdeS1C32.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.name
+ocMA.OdeS1C32.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.incipit
 ocMA.OdeS1C32.text = "Seeing us whom the arrows of sin had wounded, the Logos, * divine and beyond divine, as Benefactor pitied us. * Hence to the flesh He received from you does He unite, O all pure one, ineffably."
 
 ocMA.OdeS1C33.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS1C33.ode = misc_en_US_dedes.Ode1
-ocMA.OdeS1C33.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.name
+ocMA.OdeS1C33.melody = he.h.m7_en_US_dedes.NefseiSouProsGeodi.incipit
 ocMA.OdeS1C33.text = "Once death had gained possession of human nature, O pure one, * it rendered it mortal and susceptible unto decay. * But now since you have conceived life, * you have raised it up from corruption to life again."
 
 ocMA.OdeS3C1H.mode = misc_en_US_dedes.Mode7
@@ -391,47 +391,47 @@ ocMA.OdeS3C1H.text = he.h.m7_en_US_dedes.OKatArchasTousOuranous.text
 
 ocMA.OdeS3C11.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS3C11.ode = misc_en_US_dedes.Ode3
-ocMA.OdeS3C11.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.name
+ocMA.OdeS3C11.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.incipit
 ocMA.OdeS3C11.text = "In being lifted on the cross, * O most compassionate Savior, * willingly You suffer pain for us. * And the wound, producing for the faithful all * peace and salvation, You endure. * Through it, O merciful Master, * unto Your Begetter we were reconciled."
 
 ocMA.OdeS3C12.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS3C12.ode = misc_en_US_dedes.Ode3
-ocMA.OdeS3C12.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.name
+ocMA.OdeS3C12.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.incipit
 ocMA.OdeS3C12.text = "O Christ, You cleansed me of my wound, * for by the bite of the serpent * I was sorely wounded in my soul; * and You showed the light to me who in the darkness and corruption dwelt of old, * for You descended to Hades * through the Cross, and with yourself You raised me up."
 
 ocMA.OdeS3C1T.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS3C1T.ode = misc_en_US_dedes.Ode3
-ocMA.OdeS3C1T.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.name
+ocMA.OdeS3C1T.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.incipit
 ocMA.OdeS3C1T.text = "Grant peace, O Savior, to the world * at the maternal en-treaties * of Your Mother who did not know man. * And unto the Emperor give victory over the hostile foreign foes. * Of Your ineffable glory * count us worthy singing Your doxologies."
 
 ocMA.OdeS3C21.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS3C21.ode = misc_en_US_dedes.Ode3
-ocMA.OdeS3C21.melody = he.h.m7_en_US_dedes.OOuranousToLogo.name
+ocMA.OdeS3C21.melody = he.h.m7_en_US_dedes.OOuranousToLogo.incipit
 ocMA.OdeS3C21.text = "You who upon the Cross endured the Passion, * as Benefactor and as God, and opened * Paradise unto the thief, * O Lord, establish my mind * to perform Your will, O only Lover of man."
 
 ocMA.OdeS3C22.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS3C22.ode = misc_en_US_dedes.Ode3
-ocMA.OdeS3C22.melody = he.h.m7_en_US_dedes.OOuranousToLogo.name
+ocMA.OdeS3C22.melody = he.h.m7_en_US_dedes.OOuranousToLogo.incipit
 ocMA.OdeS3C22.text = "You resurrected from the tomb in three days, * and You made life to rise upon the whole world, * as the Life-giver and as God. * O Lord, establish my mind * to perform Your will, O only Lover of man."
 
 ocMA.OdeS3C2T.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS3C2T.ode = misc_en_US_dedes.Ode3
-ocMA.OdeS3C2T.melody = he.h.m7_en_US_dedes.OOuranousToLogo.name
+ocMA.OdeS3C2T.melody = he.h.m7_en_US_dedes.OOuranousToLogo.incipit
 ocMA.OdeS3C2T.text = "O Virgin Mother Mary, you without seed * conceived and carried God, and you have freed Eve * the primal mother from the curse. * And therefore earnestly pray * God who is incarnate from you to save your flock."
 
 ocMA.OdeS3C31.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS3C31.ode = misc_en_US_dedes.Ode3
-ocMA.OdeS3C31.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.name
+ocMA.OdeS3C31.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.incipit
 ocMA.OdeS3C31.text = "The creeping serpent tempting me * to long for deification * tossed me out of Paradise to earth. * He who is by nature sympathetic and merciful pitied me and dwelt * within your womb, Virgin Mother, * and became like me and now makes me divine."
 
 ocMA.OdeS3C32.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS3C32.ode = misc_en_US_dedes.Ode3
-ocMA.OdeS3C32.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.name
+ocMA.OdeS3C32.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.incipit
 ocMA.OdeS3C32.text = "The fruit, O Virgin, of your womb * is blessed, O Theotokos, * you who are the universal joy. * You have given birth for the entire world truly to happiness and joy * that makes the sorrow that sin brings * dissipate, all-holy one and Bride of God."
 
 ocMA.OdeS3C33.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS3C33.ode = misc_en_US_dedes.Ode3
-ocMA.OdeS3C33.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.name
+ocMA.OdeS3C33.melody = he.h.m7_en_US_dedes.OKatArchasTousOuranous.incipit
 ocMA.OdeS3C33.text = "O Virgin Mother of our God, * for us to life everlasting * you have given birth, and unto light, * and unto the peace that does by faith and by the true acknowledgement of grace * abate the war that the old man * waged against his God and Father formerly."
 
 ocMA.OdeS4C1H.mode = misc_en_US_dedes.Mode7
@@ -441,47 +441,47 @@ ocMA.OdeS4C1H.text = he.h.m7_en_US_dedes.OPatrikousKolpous.text
 
 ocMA.OdeS4C11.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS4C11.ode = misc_en_US_dedes.Ode4
-ocMA.OdeS4C11.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.name
+ocMA.OdeS4C11.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.incipit
 ocMA.OdeS4C11.text = ""
 
 ocMA.OdeS4C12.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS4C12.ode = misc_en_US_dedes.Ode4
-ocMA.OdeS4C12.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.name
+ocMA.OdeS4C12.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.incipit
 ocMA.OdeS4C12.text = ""
 
 ocMA.OdeS4C1T.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS4C1T.ode = misc_en_US_dedes.Ode4
-ocMA.OdeS4C1T.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.name
+ocMA.OdeS4C1T.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.incipit
 ocMA.OdeS4C1T.text = ""
 
 ocMA.OdeS4C21.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS4C21.ode = misc_en_US_dedes.Ode4
-ocMA.OdeS4C21.melody = he.h.m7_en_US_dedes.KatanoonOProfitis.name
+ocMA.OdeS4C21.melody = he.h.m7_en_US_dedes.KatanoonOProfitis.incipit
 ocMA.OdeS4C21.text = ""
 
 ocMA.OdeS4C22.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS4C22.ode = misc_en_US_dedes.Ode4
-ocMA.OdeS4C22.melody = he.h.m7_en_US_dedes.KatanoonOProfitis.name
+ocMA.OdeS4C22.melody = he.h.m7_en_US_dedes.KatanoonOProfitis.incipit
 ocMA.OdeS4C22.text = ""
 
 ocMA.OdeS4C2T.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS4C2T.ode = misc_en_US_dedes.Ode4
-ocMA.OdeS4C2T.melody = he.h.m7_en_US_dedes.KatanoonOProfitis.name
+ocMA.OdeS4C2T.melody = he.h.m7_en_US_dedes.KatanoonOProfitis.incipit
 ocMA.OdeS4C2T.text = ""
 
 ocMA.OdeS4C31.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS4C31.ode = misc_en_US_dedes.Ode4
-ocMA.OdeS4C31.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.name
+ocMA.OdeS4C31.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.incipit
 ocMA.OdeS4C31.text = ""
 
 ocMA.OdeS4C32.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS4C32.ode = misc_en_US_dedes.Ode4
-ocMA.OdeS4C32.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.name
+ocMA.OdeS4C32.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.incipit
 ocMA.OdeS4C32.text = ""
 
 ocMA.OdeS4C33.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS4C33.ode = misc_en_US_dedes.Ode4
-ocMA.OdeS4C33.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.name
+ocMA.OdeS4C33.melody = he.h.m7_en_US_dedes.OPatrikousKolpous.incipit
 ocMA.OdeS4C33.text = ""
 
 ocMA.OdeS5C1H.mode = misc_en_US_dedes.Mode7
@@ -491,47 +491,47 @@ ocMA.OdeS5C1H.text = he.h.m7_en_US_dedes.NyxAfengis.text
 
 ocMA.OdeS5C11.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS5C11.ode = misc_en_US_dedes.Ode5
-ocMA.OdeS5C11.melody = he.h.m7_en_US_dedes.NyxAfengis.name
+ocMA.OdeS5C11.melody = he.h.m7_en_US_dedes.NyxAfengis.incipit
 ocMA.OdeS5C11.text = ""
 
 ocMA.OdeS5C12.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS5C12.ode = misc_en_US_dedes.Ode5
-ocMA.OdeS5C12.melody = he.h.m7_en_US_dedes.NyxAfengis.name
+ocMA.OdeS5C12.melody = he.h.m7_en_US_dedes.NyxAfengis.incipit
 ocMA.OdeS5C12.text = ""
 
 ocMA.OdeS5C1T.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS5C1T.ode = misc_en_US_dedes.Ode5
-ocMA.OdeS5C1T.melody = he.h.m7_en_US_dedes.NyxAfengis.name
+ocMA.OdeS5C1T.melody = he.h.m7_en_US_dedes.NyxAfengis.incipit
 ocMA.OdeS5C1T.text = ""
 
 ocMA.OdeS5C21.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS5C21.ode = misc_en_US_dedes.Ode5
-ocMA.OdeS5C21.melody = he.h.m7_en_US_dedes.KyrieOTheosMou.name
+ocMA.OdeS5C21.melody = he.h.m7_en_US_dedes.KyrieOTheosMou.incipit
 ocMA.OdeS5C21.text = ""
 
 ocMA.OdeS5C22.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS5C22.ode = misc_en_US_dedes.Ode5
-ocMA.OdeS5C22.melody = he.h.m7_en_US_dedes.KyrieOTheosMou.name
+ocMA.OdeS5C22.melody = he.h.m7_en_US_dedes.KyrieOTheosMou.incipit
 ocMA.OdeS5C22.text = ""
 
 ocMA.OdeS5C2T.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS5C2T.ode = misc_en_US_dedes.Ode5
-ocMA.OdeS5C2T.melody = he.h.m7_en_US_dedes.KyrieOTheosMou.name
+ocMA.OdeS5C2T.melody = he.h.m7_en_US_dedes.KyrieOTheosMou.incipit
 ocMA.OdeS5C2T.text = ""
 
 ocMA.OdeS5C31.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS5C31.ode = misc_en_US_dedes.Ode5
-ocMA.OdeS5C31.melody = he.h.m7_en_US_dedes.KyrieOTheosMou.name
+ocMA.OdeS5C31.melody = he.h.m7_en_US_dedes.KyrieOTheosMou.incipit
 ocMA.OdeS5C31.text = ""
 
 ocMA.OdeS5C32.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS5C32.ode = misc_en_US_dedes.Ode5
-ocMA.OdeS5C32.melody = he.h.m7_en_US_dedes.KyrieOTheosMou.name
+ocMA.OdeS5C32.melody = he.h.m7_en_US_dedes.KyrieOTheosMou.incipit
 ocMA.OdeS5C32.text = ""
 
 ocMA.OdeS5C33.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS5C33.ode = misc_en_US_dedes.Ode5
-ocMA.OdeS5C33.melody = he.h.m7_en_US_dedes.KyrieOTheosMou.name
+ocMA.OdeS5C33.melody = he.h.m7_en_US_dedes.KyrieOTheosMou.incipit
 ocMA.OdeS5C33.text = ""
 
 ocMA.OdeS6C1H.mode = misc_en_US_dedes.Mode7
@@ -541,51 +541,51 @@ ocMA.OdeS6C1H.text = he.h.m7_en_US_dedes.NaftionToSalo.text
 
 ocMA.OdeS6C11.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS6C11.ode = misc_en_US_dedes.Ode6
-ocMA.OdeS6C11.melody = he.h.m7_en_US_dedes.NaftionToSalo.name
+ocMA.OdeS6C11.melody = he.h.m7_en_US_dedes.NaftionToSalo.incipit
 ocMA.OdeS6C11.text = ""
 
 ocMA.OdeS6C12.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS6C12.ode = misc_en_US_dedes.Ode6
-ocMA.OdeS6C12.melody = he.h.m7_en_US_dedes.NaftionToSalo.name
+ocMA.OdeS6C12.melody = he.h.m7_en_US_dedes.NaftionToSalo.incipit
 ocMA.OdeS6C12.text = ""
 
 ocMA.OdeS6C1T.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS6C1T.ode = misc_en_US_dedes.Ode6
-ocMA.OdeS6C1T.melody = he.h.m7_en_US_dedes.NaftionToSalo.name
+ocMA.OdeS6C1T.melody = he.h.m7_en_US_dedes.NaftionToSalo.incipit
 ocMA.OdeS6C1T.text = ""
 
 ocMA.OdeS6C21.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS6C21.ode = misc_en_US_dedes.Ode6
-ocMA.OdeS6C21.melody = he.h.m7_en_US_dedes.OIonasEkKoilias.name
+ocMA.OdeS6C21.melody = he.h.m7_en_US_dedes.OIonasEkKoilias.incipit
 ocMA.OdeS6C21.text = ""
 
 ocMA.OdeS6C22.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS6C22.ode = misc_en_US_dedes.Ode6
-ocMA.OdeS6C22.melody = he.h.m7_en_US_dedes.OIonasEkKoilias.name
+ocMA.OdeS6C22.melody = he.h.m7_en_US_dedes.OIonasEkKoilias.incipit
 ocMA.OdeS6C22.text = ""
 
 ocMA.OdeS6C2T.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS6C2T.ode = misc_en_US_dedes.Ode6
-ocMA.OdeS6C2T.melody = he.h.m7_en_US_dedes.OIonasEkKoilias.name
+ocMA.OdeS6C2T.melody = he.h.m7_en_US_dedes.OIonasEkKoilias.incipit
 ocMA.OdeS6C2T.text = ""
 
 ocMA.OdeS6C31.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS6C31.ode = misc_en_US_dedes.Ode6
-ocMA.OdeS6C31.melody = he.h.m7_en_US_dedes.NaftionToSalo.name
+ocMA.OdeS6C31.melody = he.h.m7_en_US_dedes.NaftionToSalo.incipit
 ocMA.OdeS6C31.text = ""
 
 ocMA.OdeS6C32.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS6C32.ode = misc_en_US_dedes.Ode6
-ocMA.OdeS6C32.melody = he.h.m7_en_US_dedes.NaftionToSalo.name
+ocMA.OdeS6C32.melody = he.h.m7_en_US_dedes.NaftionToSalo.incipit
 ocMA.OdeS6C32.text = ""
 
 ocMA.OdeS6C33.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS6C33.ode = misc_en_US_dedes.Ode6
-ocMA.OdeS6C33.melody = he.h.m7_en_US_dedes.NaftionToSalo.name
+ocMA.OdeS6C33.melody = he.h.m7_en_US_dedes.NaftionToSalo.incipit
 ocMA.OdeS6C33.text = ""
 
 ocMA.Kontakion.mode = misc_en_US_dedes.Mode7
-ocMA.Kontakion.melody = he.a.m7_en_US_dedes.OuketiFloginiRomfaia.name
+ocMA.Kontakion.melody = he.a.m7_en_US_dedes.OuketiFloginiRomfaia.incipit
 ocMA.Kontakion.text = "No longer will death's dominion have power to detain mortal men. For Christ went down and smashed and destroyed its powers. Now Hades is bound, and the Prophets in unison exult and declare: The Savior has appeared to those with faith. Come out, you faithful, to the Resurrection."
 
 ocMA.Oikos.mode = misc_en_US_dedes.Mode7
@@ -598,47 +598,47 @@ ocMA.OdeS7C1H.text = he.h.m7_en_US_dedes.KaminonPaides.text
 
 ocMA.OdeS7C11.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS7C11.ode = misc_en_US_dedes.Ode7
-ocMA.OdeS7C11.melody = he.h.m7_en_US_dedes.KaminonPaides.name
+ocMA.OdeS7C11.melody = he.h.m7_en_US_dedes.KaminonPaides.incipit
 ocMA.OdeS7C11.text = ""
 
 ocMA.OdeS7C12.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS7C12.ode = misc_en_US_dedes.Ode7
-ocMA.OdeS7C12.melody = he.h.m7_en_US_dedes.KaminonPaides.name
+ocMA.OdeS7C12.melody = he.h.m7_en_US_dedes.KaminonPaides.incipit
 ocMA.OdeS7C12.text = ""
 
 ocMA.OdeS7C1T.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS7C1T.ode = misc_en_US_dedes.Ode7
-ocMA.OdeS7C1T.melody = he.h.m7_en_US_dedes.KaminonPaides.name
+ocMA.OdeS7C1T.melody = he.h.m7_en_US_dedes.KaminonPaides.incipit
 ocMA.OdeS7C1T.text = ""
 
 ocMA.OdeS7C21.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS7C21.ode = misc_en_US_dedes.Ode7
-ocMA.OdeS7C21.melody = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.name
+ocMA.OdeS7C21.melody = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.incipit
 ocMA.OdeS7C21.text = ""
 
 ocMA.OdeS7C22.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS7C22.ode = misc_en_US_dedes.Ode7
-ocMA.OdeS7C22.melody = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.name
+ocMA.OdeS7C22.melody = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.incipit
 ocMA.OdeS7C22.text = ""
 
 ocMA.OdeS7C2T.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS7C2T.ode = misc_en_US_dedes.Ode7
-ocMA.OdeS7C2T.melody = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.name
+ocMA.OdeS7C2T.melody = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.incipit
 ocMA.OdeS7C2T.text = ""
 
 ocMA.OdeS7C31.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS7C31.ode = misc_en_US_dedes.Ode7
-ocMA.OdeS7C31.melody = he.h.m7_en_US_dedes.KaminonPaides.name
+ocMA.OdeS7C31.melody = he.h.m7_en_US_dedes.KaminonPaides.incipit
 ocMA.OdeS7C31.text = ""
 
 ocMA.OdeS7C32.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS7C32.ode = misc_en_US_dedes.Ode7
-ocMA.OdeS7C32.melody = he.h.m7_en_US_dedes.KaminonPaides.name
+ocMA.OdeS7C32.melody = he.h.m7_en_US_dedes.KaminonPaides.incipit
 ocMA.OdeS7C32.text = ""
 
 ocMA.OdeS7C33.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS7C33.ode = misc_en_US_dedes.Ode7
-ocMA.OdeS7C33.melody = he.h.m7_en_US_dedes.KaminonPaides.name
+ocMA.OdeS7C33.melody = he.h.m7_en_US_dedes.KaminonPaides.incipit
 ocMA.OdeS7C33.text = ""
 
 ocMA.OdeS8C1H.mode = misc_en_US_dedes.Mode7
@@ -648,47 +648,47 @@ ocMA.OdeS8C1H.text = he.h.m7_en_US_dedes.AflektosPyri.text
 
 ocMA.OdeS8C11.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS8C11.ode = misc_en_US_dedes.Ode8
-ocMA.OdeS8C11.melody = he.h.m7_en_US_dedes.AflektosPyri.name
+ocMA.OdeS8C11.melody = he.h.m7_en_US_dedes.AflektosPyri.incipit
 ocMA.OdeS8C11.text = ""
 
 ocMA.OdeS8C12.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS8C12.ode = misc_en_US_dedes.Ode8
-ocMA.OdeS8C12.melody = he.h.m7_en_US_dedes.AflektosPyri.name
+ocMA.OdeS8C12.melody = he.h.m7_en_US_dedes.AflektosPyri.incipit
 ocMA.OdeS8C12.text = ""
 
 ocMA.OdeS8C1T.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS8C1T.ode = misc_en_US_dedes.Ode8
-ocMA.OdeS8C1T.melody = he.h.m7_en_US_dedes.AflektosPyri.name
+ocMA.OdeS8C1T.melody = he.h.m7_en_US_dedes.AflektosPyri.incipit
 ocMA.OdeS8C1T.text = ""
 
 ocMA.OdeS8C21.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS8C21.ode = misc_en_US_dedes.Ode8
-ocMA.OdeS8C21.melody = he.h.m7_en_US_dedes.TonMononAnarchon.name
+ocMA.OdeS8C21.melody = he.h.m7_en_US_dedes.TonMononAnarchon.incipit
 ocMA.OdeS8C21.text = ""
 
 ocMA.OdeS8C22.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS8C22.ode = misc_en_US_dedes.Ode8
-ocMA.OdeS8C22.melody = he.h.m7_en_US_dedes.TonMononAnarchon.name
+ocMA.OdeS8C22.melody = he.h.m7_en_US_dedes.TonMononAnarchon.incipit
 ocMA.OdeS8C22.text = ""
 
 ocMA.OdeS8C2T.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS8C2T.ode = misc_en_US_dedes.Ode8
-ocMA.OdeS8C2T.melody = he.h.m7_en_US_dedes.TonMononAnarchon.name
+ocMA.OdeS8C2T.melody = he.h.m7_en_US_dedes.TonMononAnarchon.incipit
 ocMA.OdeS8C2T.text = ""
 
 ocMA.OdeS8C31.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS8C31.ode = misc_en_US_dedes.Ode8
-ocMA.OdeS8C31.melody = he.h.m7_en_US_dedes.AflektosPyri.name
+ocMA.OdeS8C31.melody = he.h.m7_en_US_dedes.AflektosPyri.incipit
 ocMA.OdeS8C31.text = ""
 
 ocMA.OdeS8C32.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS8C32.ode = misc_en_US_dedes.Ode8
-ocMA.OdeS8C32.melody = he.h.m7_en_US_dedes.AflektosPyri.name
+ocMA.OdeS8C32.melody = he.h.m7_en_US_dedes.AflektosPyri.incipit
 ocMA.OdeS8C32.text = ""
 
 ocMA.OdeS8C33.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS8C33.ode = misc_en_US_dedes.Ode8
-ocMA.OdeS8C33.melody = he.h.m7_en_US_dedes.AflektosPyri.name
+ocMA.OdeS8C33.melody = he.h.m7_en_US_dedes.AflektosPyri.incipit
 ocMA.OdeS8C33.text = ""
 
 ocMA.OdeS9C1H.mode = misc_en_US_dedes.Mode7
@@ -698,47 +698,47 @@ ocMA.OdeS9C1H.text = he.h.m7_en_US_dedes.MiTisFthoras.text
 
 ocMA.OdeS9C11.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS9C11.ode = misc_en_US_dedes.Ode9
-ocMA.OdeS9C11.melody = he.h.m7_en_US_dedes.MiTisFthoras.name
+ocMA.OdeS9C11.melody = he.h.m7_en_US_dedes.MiTisFthoras.incipit
 ocMA.OdeS9C11.text = "All you professors of doctrines extraneous to the truth * who to the Godhead attribute suffering, shut your mouths! * He is the Lord of glory, crucified in body, * but not in divine nature. And Him, as in two natures one hypostasis, do we magnify."
 
 ocMA.OdeS9C12.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS9C12.ode = misc_en_US_dedes.Ode9
-ocMA.OdeS9C12.melody = he.h.m7_en_US_dedes.MiTisFthoras.name
+ocMA.OdeS9C12.melody = he.h.m7_en_US_dedes.MiTisFthoras.incipit
 ocMA.OdeS9C12.text = "Go to Christ’s sepulcher, you that reject the doctrine of * the resurrection of bodies, and be instructed there. * See how the flesh had truly died of the Life-giver, * and how it was again raised, confirming thus the final resurrection, for which we surely hope."
 
 ocMA.OdeS9C1Tr.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS9C1Tr.ode = misc_en_US_dedes.Ode9
-ocMA.OdeS9C1Tr.melody = he.h.m7_en_US_dedes.MiTisFthoras.name
+ocMA.OdeS9C1Tr.melody = he.h.m7_en_US_dedes.MiTisFthoras.incipit
 ocMA.OdeS9C1Tr.text = "Not in a Triad of godheads but of hypostases, * not in a Monad of persons but of Divinity: * thus we believe. We cut off those that would divide It, * and we confound those daring to attribute confusion to Trinity, which we magnify."
 
 ocMA.OdeS9C21.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS9C21.ode = misc_en_US_dedes.Ode9
-ocMA.OdeS9C21.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.name
+ocMA.OdeS9C21.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.incipit
 ocMA.OdeS9C21.text = "Christ as the light that from light shone timelessly * and as the radiance of His Father’s glory, illumined * the darkness of the life of humankind. * And He dispelled the pursuing darkness. * And Him do we believers all unceasingly magnify."
 
 ocMA.OdeS9C22.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS9C22.ode = misc_en_US_dedes.Ode9
-ocMA.OdeS9C22.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.name
+ocMA.OdeS9C22.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.incipit
 ocMA.OdeS9C22.text = "Seeing in Christ both the flesh’s sufferings * and the Divinity’s might, let those affirming the doctrine * of the one compound nature be ashamed. * For the same Person both died as a human being, * and as Maker of the universe rose again."
 
 ocMA.OdeS9C2T.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS9C2T.ode = misc_en_US_dedes.Ode9
-ocMA.OdeS9C2T.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.name
+ocMA.OdeS9C2T.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.incipit
 ocMA.OdeS9C2T.text = "No other God do I know except for You * who from the unbelieving nations chose me as Your own bride. * So does the Church cry out to You, O Lord. * Give the believers salvation, O Logos, * by Your Mother’s intercessions, as One compassionate."
 
 ocMA.OdeS9C31.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS9C31.ode = misc_en_US_dedes.Ode9
-ocMA.OdeS9C31.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.name
+ocMA.OdeS9C31.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.incipit
 ocMA.OdeS9C31.text = "O ever-virginal Damsel, you became * for us the agent of happiness and joy everlasting, * for you gave birth to Him who ransomed us, * and who in truth and in Spirit divine re-deems all those who honor Him * as God, and who worship Him."
 
 ocMA.OdeS9C32.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS9C32.ode = misc_en_US_dedes.Ode9
-ocMA.OdeS9C32.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.name
+ocMA.OdeS9C32.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.incipit
 ocMA.OdeS9C32.text = "David your forefather in his psalmody * calls you the Ark of the holiness of God, O all-pure one, * wondrously capable of holding Him * who sits above in the Fatherly bosom, and whom we believers all * unceasingly magnify."
 
 ocMA.OdeS9C33.mode = misc_en_US_dedes.Mode7
 ocMA.OdeS9C33.ode = misc_en_US_dedes.Ode9
-ocMA.OdeS9C33.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.name
+ocMA.OdeS9C33.melody = he.h.m7_en_US_dedes.MitirTheouKaiParthenos.incipit
 ocMA.OdeS9C33.text = "You have in truth now become superior * to all creation, O Damsel, for you physically gave birth * to the Creator of all things for us. * Thus as the Mother of the only Master you have the ascendancy * commandingly over all."
 
 ocMA.Magnificat.mode = misc_en_US_dedes.Mode7

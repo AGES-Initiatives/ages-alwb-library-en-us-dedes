@@ -17,15 +17,15 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
-meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 meVE.Stichera01.text = "O most valorous martyr saints, * as physicians whom God approved, * blessed John and Cyrus renowned throughout the world, * you once destroyed the ungodly pride of tyrants, so therefore now * shatter the unruly thoughts * that oppress me tyrannically, * also heal my soul * of its passions, and rescue me from future condemnation by your prayers * on my behalf to the Savior Christ."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 meVE.Stichera02.text = "I entreat you to rescue me * from the storm now besetting me * and from the confusion of trials troubling me; * assuage the aches of my bodily afflictions, O blessed Saints, * and the woes that vex my soul, * which assail it both visibly * and invisibly, * so that I may with faith and love extol you, the august and holy duo * that stood and died for the Trinity."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 meVE.Stichera03.text = "Holy Cyrus and John, you were * gorgeous temples God, and thus * you have made your temple and shrine to be a source * of cures and healings; and therefore now * I go to it and I pray * that you grant me to be free * of diseases of any kind, * and that you bring peace * to my soul, which has woefully submitted to immoral thoughts and actions, * and now is vexed by the enemy."
 
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
@@ -34,7 +34,7 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode8
-meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.OiMartyresSouKyrie.name
+meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.OiMartyresSouKyrie.incipit
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode8
@@ -47,11 +47,11 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode2
-meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
 meVE.AposTheotokion.text = "You are for us Christians everywhere * helper and protection and mighty shelter, O Mother of God. * Never cease to vigilantly pray and intercede * with the Savior on our behalf, * both now and forever, * that He rescue us your servants from all evils and woes. * Lady, after God, all we Christians * have you as our holy protection; * and in all our troubles we rely on you."
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode2
-meVE.AposStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
+meVE.AposStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
 meVE.AposStavrotheotokion.text = oc.m2.d4_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode5
@@ -107,15 +107,15 @@ meMA.Ode3H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode3H.text = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.text
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
-meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
 meMA.Ode3Kathisma1.text = "When you had trampled down the grovelling pleasures, * you were both manifestly raised up, O athletes, * by grace unto the godly height of martyrdom, * O you universal lights, * blessed John and wise Cyrus. * Wherefore, we entreat you now, * rescue us from the darkness * of sin and of our maladies, we pray, * through your entreaties with God, Who is over all."
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
 meMA.Ode3KathismaT.text = "Wretch that I am, O you all-pure Theotokos, * after my God, I flee to your divine shelter, * while begging you: Have mercy, I entreat of you; * for my sins are risen up * past my head, O my Lady, * and I tremble sore with fear * as I think on the torments. * I pray you, make entreaty with your Son * that He deliver me from them, O modest one."
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Ode3KathismaSt.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
 meMA.Ode3KathismaSt.text = "You who were born of the beginningless Father, * as she that bare You in the flesh in these last times * beheld You hanging on the Cross, O Christ, she cried: * Woe is me! How is it You, * O belov'd Son, my Jesus, * willingly are crucified * by iniquitous mortals, * You Whom the Angels glorify as God? * I sing Your praises, O greatly forbearing Lord."
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
@@ -189,7 +189,7 @@ meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode3
-meMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
+meMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.incipit
 meMA.Kontakion1.text = "You, O Saints of God, received * from grace divine the sublime gift * of performing miracles, * which you perform without ceasing. * You remove all of our passions of soul and body * mystically with unseen treatments and operations. * You are truly godly-minded, * divine physicians, * O blessed Cyrus and John."
 
 meMA.Oikos1.text = "O Saints, you dedicated yourselves to God. You experienced all kinds of torture, and you willingly died for Him, as brave Martyrs. Since your death, you are an abundant wellspring of divine gifts of grace, curing people who have various diseases and who bear the trials of many evils. I, the wretch, am one of these myself; for I am afflicted with trauma of body and soul. So with faith I pray to you: Heal me, for you are truly godly-minded, divine physicians, O blessed Cyrus and John."
@@ -265,27 +265,27 @@ meMA.Ode9H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode9H.text = he.h.m4_en_US_dedes.LithosAcheirotmitos.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.incipit
 meMA.Exaposteilarion1.text = "You are leaders among the ranks * of the Unmercenaries * and divine stars throughout the world, * champions of divine truth, * all-lauded, god-bearing Martyrs. * From God you have been given * a sympathetic attitude. * You treat the ailments of our bodies and souls * mystically. And therefore with joy we honor * your most luminous memory, * blessed Saints John and Cyrus."
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode3
-meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.incipit
 meMA.Exaposteilarion2.text = "O holy luminaries, * wonder-workers John and Cyrus, * since you received from the Master * the grace to do cures and healings, * we pray you to cure the ailments * of both our souls and our bodies."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
-meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
+meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.incipit
 meMA.ExapTheotokion.text = "You are the strong protection * that all we sinners now possess, * all-laudable Theotokos. * We pray that you will make your Son * to be placable towards us, * O Maiden full of grace divine."
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode4
-meMA.Lauds1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meMA.Lauds1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 meMA.Lauds1.text = "Let us honor in song today * John and Cyrus the martyr Saints, * that duo with the light of the Holy Trinity; * those firm foundations of Christian faith, and flowers exhaling sweet * fragrance of the sure and true * sacred knowledge of God to all. * Let us worthily * all extol them as great unmercenaries, who for us ever entreat Christ, * the Lord who loves all humanity."
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode4
-meMA.Lauds2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meMA.Lauds2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 meMA.Lauds2.text = "You, all-blessed men, were indeed * the physicians of those in need, * the unsetting stars of the sacred Christian Faith, * and you confessed it in word and deed, you witnessed with martyr saints, * and you truly have received * from the Lord crowns of victory, * glorious and wise * John and Cyrus. And now you are unceasing and persistent in entreating * the Lord and Savior on our behalf."
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode4
-meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 meMA.Lauds3.text = "With the two godly-minded men, * John and Cyrus the martyr saints, * do those fairest virgins of Christ exult today, * as they participate in their light and glory resplendently, * and they magnify the Lord * who encouraged and strengthened them, * and they intercede * that He free from corruption and from danger those who loyally observe now * their ever-ven'rable memory."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode4
@@ -293,11 +293,11 @@ meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode4
-meMA.LaudsTheotokion.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
+meMA.LaudsTheotokion.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.incipit
 meMA.LaudsTheotokion.text = ""
 
 meMA.LaudsStavrotheotokion.mode = misc_en_US_dedes.Mode4
-meMA.LaudsStavrotheotokion.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
+meMA.LaudsStavrotheotokion.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.incipit
 meMA.LaudsStavrotheotokion.text = oc.m4.d6_en_US_dedes.ocVE.AposTheotokion.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key

@@ -17,82 +17,82 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
-meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
-meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 meVE.SticTheotokion.text = oc.m4.d5_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode4
-meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 meVE.SticStavrotheotokion.text = "When Your Mother the Virgin pure * saw You hanging upon the Cross, * she was overwhelmed with astonishment, O Lord. * And with laments she cried out to You, * \"My God and Creator, how * limitless is Your restraint! * How, as if but a criminal, * You have been condemned * by condemned people who lawlessly sentenced You to death; and of Your own will * You have endured awful suffering!\""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
-meVE.Apolytikion1.melody = he.ga_en_US_dedes.TouProfitouSou.name
+meVE.Apolytikion1.melody = he.ga_en_US_dedes.TouProfitouSou.incipit
 meVE.GeneralApolytikion1.name = "Habakkuk,"
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion2.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meVE.Apolytikion2.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
 meVE.Apolytikion2.text = ""
 
 meVE.Apolytikion3.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion3.mode = misc_en_US_dedes.Mode4
-meVE.Apolytikion3.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meVE.Apolytikion3.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
 meVE.Apolytikion3.text = ""
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
 meMA.C1.title = titles_en_US_dedes.KanonTouProfitou
 meMA.C1.verse = prayers_en_US_dedes.verse_Prophet.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C11.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.name
+meMA.Ode1C11.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.incipit
 meMA.Ode1C11.text = ""
 
 meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C12.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.name
+meMA.Ode1C12.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.incipit
 meMA.Ode1C12.text = ""
 
 meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C13.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.name
+meMA.Ode1C13.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.incipit
 meMA.Ode1C13.text = ""
 
 meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.name
+meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.AsomaiSoiKyrie.incipit
 meMA.Ode1C1T.text = ""
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode3C11.melody = he.h.m4_en_US_dedes.ToxonDynatonIsthenise.name
+meMA.Ode3C11.melody = he.h.m4_en_US_dedes.ToxonDynatonIsthenise.incipit
 meMA.Ode3C11.text = ""
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode3C12.melody = he.h.m4_en_US_dedes.ToxonDynatonIsthenise.name
+meMA.Ode3C12.melody = he.h.m4_en_US_dedes.ToxonDynatonIsthenise.incipit
 meMA.Ode3C12.text = ""
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode3C13.melody = he.h.m4_en_US_dedes.ToxonDynatonIsthenise.name
+meMA.Ode3C13.melody = he.h.m4_en_US_dedes.ToxonDynatonIsthenise.incipit
 meMA.Ode3C13.text = ""
 
 meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode3C1T.melody = he.h.m4_en_US_dedes.ToxonDynatonIsthenise.name
+meMA.Ode3C1T.melody = he.h.m4_en_US_dedes.ToxonDynatonIsthenise.incipit
 meMA.Ode3C1T.text = ""
 
 meMA.Ode3H.ode = misc_en_US_dedes.Ode3
@@ -101,75 +101,75 @@ meMA.Ode3H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode3H.text = he.h.m4_en_US_dedes.ToxonDynatonIsthenise.text
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
-meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
 meMA.Ode3KathismaT.text = ""
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Ode3KathismaSt.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
 meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode4C11.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.name
+meMA.Ode4C11.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.incipit
 meMA.Ode4C11.text = ""
 
 meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode4C12.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.name
+meMA.Ode4C12.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.incipit
 meMA.Ode4C12.text = ""
 
 meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode4C13.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.name
+meMA.Ode4C13.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.incipit
 meMA.Ode4C13.text = ""
 
 meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode4C1T.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.name
+meMA.Ode4C1T.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.incipit
 meMA.Ode4C1T.text = ""
 
 meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode5C11.melody = he.h.m4_en_US_dedes.OAnateilasToFos.name
+meMA.Ode5C11.melody = he.h.m4_en_US_dedes.OAnateilasToFos.incipit
 meMA.Ode5C11.text = ""
 
 meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode5C12.melody = he.h.m4_en_US_dedes.OAnateilasToFos.name
+meMA.Ode5C12.melody = he.h.m4_en_US_dedes.OAnateilasToFos.incipit
 meMA.Ode5C12.text = ""
 
 meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode5C13.melody = he.h.m4_en_US_dedes.OAnateilasToFos.name
+meMA.Ode5C13.melody = he.h.m4_en_US_dedes.OAnateilasToFos.incipit
 meMA.Ode5C13.text = ""
 
 meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode5C1T.melody = he.h.m4_en_US_dedes.OAnateilasToFos.name
+meMA.Ode5C1T.melody = he.h.m4_en_US_dedes.OAnateilasToFos.incipit
 meMA.Ode5C1T.text = ""
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C11.melody = he.h.m4_en_US_dedes.EvoiseProtypon.name
+meMA.Ode6C11.melody = he.h.m4_en_US_dedes.EvoiseProtypon.incipit
 meMA.Ode6C11.text = ""
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C12.melody = he.h.m4_en_US_dedes.EvoiseProtypon.name
+meMA.Ode6C12.melody = he.h.m4_en_US_dedes.EvoiseProtypon.incipit
 meMA.Ode6C12.text = ""
 
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C13.melody = he.h.m4_en_US_dedes.EvoiseProtypon.name
+meMA.Ode6C13.melody = he.h.m4_en_US_dedes.EvoiseProtypon.incipit
 meMA.Ode6C13.text = ""
 
 meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C1T.melody = he.h.m4_en_US_dedes.EvoiseProtypon.name
+meMA.Ode6C1T.melody = he.h.m4_en_US_dedes.EvoiseProtypon.incipit
 meMA.Ode6C1T.text = ""
 
 meMA.Ode6H.ode = misc_en_US_dedes.Ode6
@@ -178,42 +178,42 @@ meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
 meMA.Ode6H.text = he.h.m4_en_US_dedes.EvoiseProtypon.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode4
-meMA.Kontakion1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meMA.Kontakion1.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
 meMA.Kontakion1.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode7C11.melody = he.h.m4_en_US_dedes.AvramiaioiPote.name
+meMA.Ode7C11.melody = he.h.m4_en_US_dedes.AvramiaioiPote.incipit
 meMA.Ode7C11.text = ""
 
 meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode7C12.melody = he.h.m4_en_US_dedes.AvramiaioiPote.name
+meMA.Ode7C12.melody = he.h.m4_en_US_dedes.AvramiaioiPote.incipit
 meMA.Ode7C12.text = ""
 
 meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode7C1T.melody = he.h.m4_en_US_dedes.AvramiaioiPote.name
+meMA.Ode7C1T.melody = he.h.m4_en_US_dedes.AvramiaioiPote.incipit
 meMA.Ode7C1T.text = ""
 
 meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode8C11.melody = he.h.m4_en_US_dedes.PantaTaErgaTouTheou.name
+meMA.Ode8C11.melody = he.h.m4_en_US_dedes.PantaTaErgaTouTheou.incipit
 meMA.Ode8C11.text = ""
 
 meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode8C12.melody = he.h.m4_en_US_dedes.PantaTaErgaTouTheou.name
+meMA.Ode8C12.melody = he.h.m4_en_US_dedes.PantaTaErgaTouTheou.incipit
 meMA.Ode8C12.text = ""
 
 meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode8C13.melody = he.h.m4_en_US_dedes.PantaTaErgaTouTheou.name
+meMA.Ode8C13.melody = he.h.m4_en_US_dedes.PantaTaErgaTouTheou.incipit
 meMA.Ode8C13.text = ""
 
 meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode8C1T.melody = he.h.m4_en_US_dedes.PantaTaErgaTouTheou.name
+meMA.Ode8C1T.melody = he.h.m4_en_US_dedes.PantaTaErgaTouTheou.incipit
 meMA.Ode8C1T.text = ""
 
 meMA.Ode8H.ode = misc_en_US_dedes.Ode8
@@ -223,22 +223,22 @@ meMA.Ode8H.text = he.h.m4_en_US_dedes.PantaTaErgaTouTheou.text
 
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C11.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.name
+meMA.Ode9C11.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.incipit
 meMA.Ode9C11.text = ""
 
 meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C12.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.name
+meMA.Ode9C12.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.incipit
 meMA.Ode9C12.text = ""
 
 meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C13.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.name
+meMA.Ode9C13.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.incipit
 meMA.Ode9C13.text = ""
 
 meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C1T.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.name
+meMA.Ode9C1T.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.incipit
 meMA.Ode9C1T.text = ""
 
 meMA.Ode9H.ode = misc_en_US_dedes.Ode9
@@ -271,19 +271,19 @@ alt1.meDismissal = ""
 alt1.mePoet = ""
 
 alt1.meSV.Stichera1.mode = misc_en_US_dedes.Mode1
-alt1.meSV.Stichera1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+alt1.meSV.Stichera1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 alt1.meSV.Stichera1.text = "It is the feast of the mem'ry * of St. Porphyrios. * O fans of monk saints, come now, * let us all go together * and celebrate. For he crushed the bitter darts * of the demons and won the crown * of godly chastity and of obedience * and invincible humility."
 
 alt1.meSV.Stichera2.mode = misc_en_US_dedes.Mode1
-alt1.meSV.Stichera2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+alt1.meSV.Stichera2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 alt1.meSV.Stichera2.text = "You proved to be the adornment * of pious priests indeed, * the glory of monastics, * the defense of the faithful. * O devout Porphyrios, save us, we pray, * who for refuge now run to you, * For great indeed is your confidence with the Lord * when you intercede for us, O Saint."
 
 alt1.meSV.Stichera3.mode = misc_en_US_dedes.Mode1
-alt1.meSV.Stichera3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+alt1.meSV.Stichera3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 alt1.meSV.Stichera3.text = "You were an animate vessel * of the divine Paraclete, * a famous priest and prophet * with great gifts of the Spirit. * Privy to ineffable myst'ries were you. * By your miracles you proclaimed *  that the sweet fragrance of Christ and His glory dwell * in His saints, even as Scripture says."
 
 alt1.meSV.Stichera4.mode = misc_en_US_dedes.Mode1
-alt1.meSV.Stichera4.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+alt1.meSV.Stichera4.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 alt1.meSV.Stichera4.text = "Protect the various places where you had lived in Greece. * Protect your monastery * and the nuns who abide there. * Give to them relief from the troubles of life, * from temptations and every woe. * To all grant progress in virtue, good health as well, * and the grace of Christ our Savior and God."
 
 alt1.meSV.SticGlory.mode = misc_en_US_dedes.Mode5
@@ -295,47 +295,47 @@ alt1.meSV.SticBoth.melody =
 alt1.meSV.SticBoth.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 alt1.meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
-alt1.meSV.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+alt1.meSV.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
 alt1.meSV.Aposticha1.text = "Boast of the Orthodox, * rejoice, thrice-blessed father * Porphyrios, the godly * instructor of ascetics * and spring of many miracles!"
 
 alt1.meSV.Aposticha2.mode = misc_en_US_dedes.Mode2
-alt1.meSV.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+alt1.meSV.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
 alt1.meSV.Aposticha2.text = "Humbly you ministered * to multitudes of faithful * who came to you, O father, * and all the while you practiced * unceasing prayer and  vigilance."
 
 alt1.meSV.Aposticha3.mode = misc_en_US_dedes.Mode2
-alt1.meSV.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+alt1.meSV.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
 alt1.meSV.Aposticha3.text = "Witnessing how you saw * the sacred Revelation * again as John of old did, * the holy Isle of Patmos * was shaken with astonishment."
 
 alt1.meSV.AposGlory.mode = misc_en_US_dedes.Mode2
-alt1.meSV.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+alt1.meSV.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
 alt1.meSV.AposGlory.text = "In uncreated Light, * Porphyrios the godly * saw God, as once did Moses, * for he was filled with grace of the One God in Trinity."
 
 alt1.meSV.AposBoth.mode = misc_en_US_dedes.Mode2
-alt1.meSV.AposBoth.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+alt1.meSV.AposBoth.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
 alt1.meSV.AposBoth.text = "Virgin, with grace from you, * Porphyrios did struggle * as a monk on Mt. Athos; * and he became a prophet * and had the gift of second sight."
 
 alt1.meVE.Stichera01.mode = misc_en_US_dedes.Mode4
-alt1.meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+alt1.meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 alt1.meVE.Stichera01.text = "O you lovers of feasts in Greece, * godly-minded throughout the world, * let us come together today and all extol * truly divine St. Porphyrios, * who lived an angelic life. * He was shown to be indeed * a true prophet, who being rich * in the Spirit's grace * humbly served all and thus became a mystic of the Trinity, and rightly * the pride and joy of the Orthodox."
 
 alt1.meVE.Stichera02.mode = misc_en_US_dedes.Mode4
-alt1.meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+alt1.meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 alt1.meVE.Stichera02.text = "In the bloom of your youth you went * to Mt. Athos and blossomed there * like a fragrant flower. And thus your fragrant words * in their simplicity brought great joy * to many. And with divine * gentleness you pacified * troubled souls, and you guided them * to the quiet port * of the one holy Church of Christ, the Savior, where indeed there is salvation * and the enjoyment of Paradise."
 
 alt1.meVE.Stichera03.mode = misc_en_US_dedes.Mode4
-alt1.meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+alt1.meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 alt1.meVE.Stichera03.text = "Out of Evia you shone forth * like a luminous star, O Saint, * shining on the whole earth, and giving light to all * with brilliant rays of the gifts of grace * and all of that splendid glow * of the holy life you led, * O Porphyrios, pride and joy * of monastic saints. * You became the embodiment of love, for all the model of forgiveness, * patient endurance and simplicity."
 
 alt1.meVE.Stichera04.mode = misc_en_US_dedes.Mode4
-alt1.meVE.Stichera04.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+alt1.meVE.Stichera04.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 alt1.meVE.Stichera04.text = "O devout St. Porphyrios, * from a young age you loved the Lord, * and you served His Church with profound humility. * And to the sick and infirm you gave miraculous remedies. * The all-holy Spirit's gifts * of discernment and second sight * were given to you, * and the grace to foresee events unfolding in the world before they happened, * which are to us imperceptible."
 
 alt1.meVE.Stichera05.mode = misc_en_US_dedes.Mode4
-alt1.meVE.Stichera05.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+alt1.meVE.Stichera05.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 alt1.meVE.Stichera05.text = "You descended into the depth * of the Savior's humility, * and you were exalted to the ineffable * secrets of Christ's divine mysteries. * In these, O Porphyrios, * you delighted, and you saw * things to come, being thunderstruck * like St. John of old * was on Patmos, beholding revelations by the Spirit's lumination, * O most devout holy priest of God."
 
 alt1.meVE.Stichera06.mode = misc_en_US_dedes.Mode4
-alt1.meVE.Stichera06.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+alt1.meVE.Stichera06.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
 alt1.meVE.Stichera06.text = "Having put on the porphyrous * robe of virtue, Porphyrios, * you now stand completely illumined in the choir * of holy angels, among your peers. * You join them and joyfully * praise the glory of the Tri- * solar Godhead, in heaven and * sing angelic hymns. * And you fervently pray to Christ in earnest, * that He give the joy and blessing * of true repentance to everyone."
 
 alt1.meVE.SticGlory.mode = misc_en_US_dedes.Mode6
@@ -371,15 +371,15 @@ alt1.meVE.LityBoth.melody =
 alt1.meVE.LityBoth.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
 
 alt1.meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
-alt1.meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+alt1.meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.incipit
 alt1.meVE.Aposticha1.text = "Rejoice, beauty and fineness of monks, * the sacred dignity of priests, known throughout the world; * the Church's distinguished glory, the highly purified mind, * mystic of dispassion irreproachable; * the model of gentleness, the cocoon of humility, * a manic lover of unceasing noetic prayer, * and a marvelous emulation of holiness; * flower that blooms in Paradise, and white rose of chastity, * emitting spiritual fragrance to Christ's Church, O Porphyrios. * To Christ pray in earnest, * and entreat Him that great mercy be granted to the world."
 
 alt1.meVE.Aposticha2.mode = misc_en_US_dedes.Mode5
-alt1.meVE.Aposticha2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+alt1.meVE.Aposticha2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.incipit
 alt1.meVE.Aposticha2.text = "Rejoice, veteran priest of the Church, * most sacred offspring of the island of Evia, * the fountain of love and mercy and of forgiveness to all, * and most holy dwelling of the Paraclete; * the star that with miracles shines its light over all the earth; * unerring guide that leads the errant back to the Lord; * golden eagle soaring to heights of prophetic sight; * lamp that most radiantly shines the light of divinity, * showing us heavenly secrets, revealing spiritual mysteries. * To Christ pray in earnest, * and entreat Him that great mercy be granted to the world."
 
 alt1.meVE.Aposticha3.mode = misc_en_US_dedes.Mode5
-alt1.meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
+alt1.meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.incipit
 alt1.meVE.Aposticha3.text = "You were devoted wholly to Christ, * as an ascetic on Mt. Athos from childhood, * becoming a peer of angels; and while residing on earth * you became a dwelling of the Paraclete. * You fought the demonic hosts, neutralizing their brash assaults. * You cured diseases of all kinds, for you had become * an expert physician by grace, O Porphyrios. * Living embodiment of Christ, * a heavenly man were you, * truly an ocean of pity, a place of refuge for sinners all. * O father, implore Christ, * and entreat Him that great mercy be granted to the world."
 
 alt1.meVE.AposGlory.mode = misc_en_US_dedes.Mode6
@@ -391,7 +391,7 @@ alt1.meVE.AposBoth.melody =
 alt1.meVE.AposBoth.text = oc.m6.d5_en_US_dedes.ocVE.AposTheotokion.text
 
 alt1.meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
-alt1.meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.TisErimouPolitis.name
+alt1.meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.TisErimouPolitis.incipit
 alt1.meVE.Apolytikion1.text = "That offspring of Evia and Elder of all of Greece, * the mystic of theology and genuine friend of Christ, * Porphyrios, was filled with gifts of grace * from childhood. So let us honor him. * He delivers those oppressed by demons, he cures the sick who shout with faith and gratitude: * \"Glory to Him who gave you His might; * glory to Him who sanctified you; * glory to Him who through you is working cures for all.\""
 
 alt1.meVE.Apolytikion2.mode = 
@@ -403,27 +403,27 @@ alt1.meVE.Apolytikion3.melody =
 alt1.meVE.Apolytikion3.text = ""
 
 alt1.meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
-alt1.meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+alt1.meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.incipit
 alt1.meMA.Kathisma11.text = "Once you received the gifts of the Spirit on Athos, * you shined within the world like a bright star, O father. * By word and example both you enlightened and guided all; * by your miracles you glorified the all-holy * Church of Christ, and you revealed to us divine mysteries. * And therefore we honor you."
 
 alt1.meMA.Kathisma1T.mode = misc_en_US_dedes.Mode1
-alt1.meMA.Kathisma1T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+alt1.meMA.Kathisma1T.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.incipit
 alt1.meMA.Kathisma1T.text = "The treasure chest of gifts of the Spirit, O Virgin, * the joy of angels all, and the mystical lily * of Paradise, all-pure Maid: intercede with your Son and God, * to forgive the sins of all who worthily honor * St. Porphyrios, and keep his feast and remember * his ardor and love for Christ."
 
 alt1.meMA.Kathisma21.mode = misc_en_US_dedes.Mode5
-alt1.meMA.Kathisma21.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
+alt1.meMA.Kathisma21.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.incipit
 alt1.meMA.Kathisma21.text = "O devout and wise father, you are the ornament * of devout saints who lived in society, where you * spread the dew of Athos, ministering humbly to the sick. * Performing miracles, O Saint, you became unerring as * a physician who cures diseases. * You were a peer of the angels * in the world, and a lover of Christ."
 
 alt1.meMA.Kathisma2T.mode = misc_en_US_dedes.Mode5
-alt1.meMA.Kathisma2T.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
+alt1.meMA.Kathisma2T.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.incipit
 alt1.meMA.Kathisma2T.text = "Holy Virgin, we pray you, the Mother of our God, * at the prayers of Porphyrios, alleviate the pain * and the suffering of those who request with pain of soul. * And intercede with your Son that He preserve from every harm * those who faithfully revere you, * and that He grant to us who pray you, * O Lady, the joys of Paradise."
 
 alt1.meMA.Kathisma31.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Kathisma31.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+alt1.meMA.Kathisma31.melody = he.a.m4_en_US_dedes.EpefanisSimeron.incipit
 alt1.meMA.Kathisma31.text = "Of ascetics in the world * you were the highest, * marvelous Porphyrios, * living a life identical * to that of angels. Therefore we now * extol your love and your utmost humility."
 
 alt1.meMA.Kathisma3T.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
+alt1.meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.EpefanisSimeron.incipit
 alt1.meMA.Kathisma3T.text = "At the intercessions, Lord, * of Your pure Mother * and of St. Porphyrios, * Your humble servant, grant to all * the true enjoyment of Your divine * heavenly kingdom, * we pray You, O Christ our God."
 
 alt1.meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
@@ -440,120 +440,120 @@ alt1.meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 alt1.meMA.PostGospelIdiomelon.melody = 
 alt1.meMA.PostGospelIdiomelon.text = "You renounced the worldly delights, O wise St. Porphyrios, and from Christ God you have received the heavenly delights, as a reward for your labors. Indeed you were an emulator of the saints, and you led your life in purity of heart and profound humility. With the gentleness, for which you were known, you led many people to Christ, and in Him you shined like the sun, to the glory of God who glorified you splendidly."
 
-alt1.meMA.C1Acrostic.text = ""
+alt1.meMA.C1.acrostic = ""
 alt1.meMA.C1.title = titles_en_US_dedes.KanonTouOsiou
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode1C11.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+alt1.meMA.Ode1C11.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.incipit
 alt1.meMA.Ode1C11.text = "O Comforter, grant to me the words of wisdom and grace divine, * to honor Porphyrios, Evia's favorite son, * who became a monk at Kafsokalyvia, * receiving the grace from You of spiritual sight."
 
 alt1.meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C12.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode1C12.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+alt1.meMA.Ode1C12.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.incipit
 alt1.meMA.Ode1C12.text = "You led a devout existence in the Athonite wilderness, * obeying your elders in all things with joy and respect; * for your heart received humility, O father, * as you were enveloped in the Holy Spirit's grace."
 
 alt1.meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C13.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode1C13.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+alt1.meMA.Ode1C13.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.incipit
 alt1.meMA.Ode1C13.text = "Father, you were shown to be a fragrant rose of the grace of God, * emitting the scent of heaven to the faithful all, * namely gentleness and meekness and forbearance * and love and humility and great simplicity."
 
 alt1.meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
+alt1.meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.incipit
 alt1.meMA.Ode1C1T.text = "Your childbirth, O virgin Mother, brightly cheers the entire world. * By it has corruption, the result of sin, disappeared. * Thus you give the joy * of heaven to the faithful. * And we all together now * joyfully sing your praise."
 
 alt1.meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 alt1.meMA.Ode3C11.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode3C11.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+alt1.meMA.Ode3C11.melody = he.h.m4_en_US_dedes.TousSousYmnologous.incipit
 alt1.meMA.Ode3C11.text = "By curing diseases and foretelling * the future, O venerable Saint, * and exorcising demons from * their victims by your holy prayers, * you evidenced the grace of God, * being a temple of the Paraclete."
 
 alt1.meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 alt1.meMA.Ode3C12.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode3C12.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+alt1.meMA.Ode3C12.melody = he.h.m4_en_US_dedes.TousSousYmnologous.incipit
 alt1.meMA.Ode3C12.text = "O thrice-blessed father, in the river * of prayers that you pour out to the Lord, * we ask that you will wash away * the sins of those who govern us, * and thus restore tranquility * unto our weary society."
 
 alt1.meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 alt1.meMA.Ode3C13.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode3C13.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+alt1.meMA.Ode3C13.melody = he.h.m4_en_US_dedes.TousSousYmnologous.incipit
 alt1.meMA.Ode3C13.text = "O father, you evidenced the patience * of Job in the suffering and pain * of your various illnesses. * And while you healed your fellow man, * you never sought the remedy * of your own ailments, all-blessed Saint."
 
 alt1.meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 alt1.meMA.Ode3C1T.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode3C1T.melody = he.h.m4_en_US_dedes.TousSousYmnologous.name
+alt1.meMA.Ode3C1T.melody = he.h.m4_en_US_dedes.TousSousYmnologous.incipit
 alt1.meMA.Ode3C1T.text = "The Savior and helper of the whole world, * assuming His human flesh in you, * O Virgin, from your most pure blood, * O Maiden all-immaculate, * redeemed the world, proclaiming you * the queen of heaven, O Lady pure."
 
 alt1.meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+alt1.meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
 alt1.meMA.Ode3Kathisma1.text = "You were observed to be a faucet of healings, * treas'ry of gifts of grace, an equal to angels, * a model most exemplary and faithful guide of priests, * paramount of those who strive in the desert for virtue, * prominent of those who thrive in world as ascetics. * O holy father, now in heaven as you stand * near Christ the Savior, entreat Him to save our souls."
 
 alt1.meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+alt1.meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
 alt1.meMA.Ode3KathismaT.text = oc.m4.d3_en_US_dedes.ocVE.ApolTheotokionVM.text
 
 alt1.meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 alt1.meMA.Ode4C11.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode4C11.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+alt1.meMA.Ode4C11.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.incipit
 alt1.meMA.Ode4C11.text = "The innumerable healings * of diverse ailments done by you, * O Saint, in Malakasa, * where the monastery you founded is, * proclaim to all the tremendous and divine gift of grace * you received from God, * being adorned with humility."
 
 alt1.meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 alt1.meMA.Ode4C12.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode4C12.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+alt1.meMA.Ode4C12.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.incipit
 alt1.meMA.Ode4C12.text = "As a temple of dispassion * and a treasure of chastity, * you, O Saint, were lifted * up to heaven, where you experienced * truly divine revelations, thus becoming adept * in Theology, * which you had learned by experience."
 
 alt1.meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
 alt1.meMA.Ode4C13.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode4C13.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+alt1.meMA.Ode4C13.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.incipit
 alt1.meMA.Ode4C13.text = "Uncreated light surrounded * your all-venerable head, O Saint, * granting lumination * brighter than the sun's light, O blessed one, * to you; which made you a theologian taught by God, * and endowed you with * clairvoyant insight and prophecy."
 
 alt1.meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
 alt1.meMA.Ode4C1T.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode4C1T.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.name
+alt1.meMA.Ode4C1T.melody = he.h.m4_en_US_dedes.OKathimenosEnDoxi.incipit
 alt1.meMA.Ode4C1T.text = "We extol and glorify you * as a well-spring of grace divine, * jar of divine manna, * fleece that was bedewed by the Most High God, * fountain of mercy, and alabaster jar of nard, * O unwedded Maid, * O Virgin Mother and Bride of God."
 
 alt1.meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 alt1.meMA.Ode5C11.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode5C11.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+alt1.meMA.Ode5C11.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.incipit
 alt1.meMA.Ode5C11.text = "From dangers deliver us, and cure us of our illnesses, * O devout Porphyrios; and give us * your holy blessing that we sanctified, * and that in the heavens we may find * absolution of our sins, * and enjoyment of Paradise."
 
 alt1.meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
 alt1.meMA.Ode5C12.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode5C12.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+alt1.meMA.Ode5C12.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.incipit
 alt1.meMA.Ode5C12.text = "Devout one, you blossomed like a flower from a famous root, * as a son of Evia, O father. * And to the Savior you dedicated yourself * from childhood, and thus became a peer * of the angels and the boast * of ascetics and elders all."
 
 alt1.meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
 alt1.meMA.Ode5C13.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode5C13.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+alt1.meMA.Ode5C13.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.incipit
 alt1.meMA.Ode5C13.text = "The angels were all amazed beholding you, all-wondrous Saint, * circulating in the midst of heaven, * while you were still in the flesh and physical, * and witnessing new and foreign sights, * hearing things ineffable * and to men unapproachable."
 
 alt1.meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
 alt1.meMA.Ode5C1T.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode5C1T.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.name
+alt1.meMA.Ode5C1T.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.incipit
 alt1.meMA.Ode5C1T.text = "The Logos took flesh from your all-holy blood and visited * mankind here on earth, all-blameless Maiden. * He made corruption of death to disappear * and granted us everlasting life, * making us inheritors * of the kingdom and rule of God."
 
 alt1.meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 alt1.meMA.Ode6C11.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode6C11.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+alt1.meMA.Ode6C11.melody = he.h.m4_en_US_dedes.TinTheianTaftin.incipit
 alt1.meMA.Ode6C11.text = "With all your soul you sincerely loved * the Savior of the world; and enabled by His grace you ministered * to Him, O father Porphyrios, * as priest in all humility and simplicity."
 
 alt1.meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 alt1.meMA.Ode6C12.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode6C12.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+alt1.meMA.Ode6C12.melody = he.h.m4_en_US_dedes.TinTheianTaftin.incipit
 alt1.meMA.Ode6C12.text = "Beholding secrets, O holy one, * by means of second sight and prognostication that you had by grace, * you would foretell what was suitable, * confirming all who came to you in their faith in Christ."
 
 alt1.meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 alt1.meMA.Ode6C13.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode6C13.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+alt1.meMA.Ode6C13.melody = he.h.m4_en_US_dedes.TinTheianTaftin.incipit
 alt1.meMA.Ode6C13.text = "To Christ, our Lord God and Savior, pray * unceasingly that all we who love you, O Porphyrios, be saved. * And keep the Convent you founded safe, * O father, from the traps of the one who wars with us."
 
 alt1.meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 alt1.meMA.Ode6C1T.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode6C1T.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
+alt1.meMA.Ode6C1T.melody = he.h.m4_en_US_dedes.TinTheianTaftin.incipit
 alt1.meMA.Ode6C1T.text = "Behold, O Lady, your servants now * are sighing in their pain and their suffering, and therefore we entreat: * From pain and troubles deliver us, * O pure one, by the prayers of our St. Porphyrios."
 
 alt1.meMA.Kontakion1.mode = misc_en_US_dedes.Mode8
-alt1.meMA.Kontakion1.melody = he.a.m8_en_US_dedes.TiYpermacho.name
+alt1.meMA.Kontakion1.melody = he.a.m8_en_US_dedes.TiYpermacho.incipit
 alt1.meMA.Kontakion1.text = "Let us extol him, St. Porphyrios, wholeheartedly, * that consecrated holy temple of the Comforter * and beloved of the pure Lady Theotokos. * For he loves all people, curing and protecting us, * and he prays for us, that we attain to theosis. * So we shout to him: \"Rejoice, father Porphyrios!\""
 
 alt1.meMA.Oikos1.text = "All-blessed Porphyrios, you appeared to the people as an angel and messenger of God's love. As the beauty and fineness of monks, and the dignified decorum of priest as well, to the world you ministered; and now it shouts to you such salutations:"
@@ -567,86 +567,86 @@ alt1.meMA.Oikos18.text = "Rejoice, father Porphyrios!"
 
 alt1.meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 alt1.meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode7C11.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+alt1.meMA.Ode7C11.melody = he.h.m4_en_US_dedes.OukElatrefsan.incipit
 alt1.meMA.Ode7C11.text = "Who can rightly extol * your wondrous feats and victories in the ascetic life! * For you subjected your flesh * to fasting and rigorous ascetic discipline; * day and night you maintained * the Jesus prayer in your heart, * O devout and holy father."
 
 alt1.meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 alt1.meMA.Ode7C12.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode7C12.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+alt1.meMA.Ode7C12.melody = he.h.m4_en_US_dedes.OukElatrefsan.incipit
 alt1.meMA.Ode7C12.text = "You were sent from God * O father, as a doctor treating the incurable * diseases as well as ills * of soul, even from afar, providing remedies * by your blessings, O Saint, * for you employed your second sight * for a perfect diagnosis."
 
 alt1.meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
 alt1.meMA.Ode7C13.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode7C13.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+alt1.meMA.Ode7C13.melody = he.h.m4_en_US_dedes.OukElatrefsan.incipit
 alt1.meMA.Ode7C13.text = "By the Spirit's grace * your heart was pricked with love for Christ, O wise Porphyrios; * and that is why you went off * to Athos's wilderness, so you could be with Him, * praying night and day * and living in humility, * O thrice-blessed holy father."
 
 alt1.meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
 alt1.meMA.Ode7C1T.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode7C1T.melody = he.h.m4_en_US_dedes.OukElatrefsan.name
+alt1.meMA.Ode7C1T.melody = he.h.m4_en_US_dedes.OukElatrefsan.incipit
 alt1.meMA.Ode7C1T.text = "In you womb you held * the Logos who is Most High God, and you gave birth to Him, * without it injuring you; * for He is the Savior of mankind, O Virgin pure. * Therefore worthily * we call you blessed as is right, * and we honor you, O Lady."
 
 alt1.meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 alt1.meMA.Ode8C11.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode8C11.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+alt1.meMA.Ode8C11.melody = he.h.m4_en_US_dedes.PaidasEvageis.incipit
 alt1.meMA.Ode8C11.text = "In anticipation of the kingdom * to come, you considered everything mundane to be * rubbish; and the eye of your soul * was ever looking up to the heights. * You hastened to the Savior, and you strove in every way, * O father, to attain his divine love * and to be consumed by His most exalted eros."
 
 alt1.meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 alt1.meMA.Ode8C12.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode8C12.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+alt1.meMA.Ode8C12.melody = he.h.m4_en_US_dedes.PaidasEvageis.incipit
 alt1.meMA.Ode8C12.text = "Elder of the elders, and of thousands * the spiritual father and a trusted guide were you; * for the Spirit dwelt in you, * making you a treasury * of grace, a spring of miracles, from which the cures pour forth. * O father, you revealed hidden secrets, * and people were amazed by your gift of second vision."
 
 alt1.meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
 alt1.meMA.Ode8C13.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode8C13.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+alt1.meMA.Ode8C13.melody = he.h.m4_en_US_dedes.PaidasEvageis.incipit
 alt1.meMA.Ode8C13.text = "Through ascetic discipline and holy * humility you, O wise one, purified yourself, * hence you were illumined, O Saint, * and you were surrounded by light. * Thus changed by God and deified, for people you performed * ineffable and strange cures and wonders. * Therefore, blessed father, we marvel and extol you."
 
 alt1.meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
 alt1.meMA.Ode8C1T.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode8C1T.melody = he.h.m4_en_US_dedes.PaidasEvageis.name
+alt1.meMA.Ode8C1T.melody = he.h.m4_en_US_dedes.PaidasEvageis.incipit
 alt1.meMA.Ode8C1T.text = "You gladdened the world, O Theotokos, * all fragrant with the perfume of your virginity. * And by giving birth unto * the Lord who is the fragrant rose, * you sent a holy fragrance into all the universe. * We therefore all rejoice and extol you, * O all-holy Maiden, and seek your intercession."
 
 alt1.meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 alt1.meMA.Ode9C11.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode9C11.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+alt1.meMA.Ode9C11.melody = he.h.m4_en_US_dedes.ApasGigenis.incipit
 alt1.meMA.Ode9C11.text = "Shining like a star, * with sanctity you illumined everyone, O Saint; * also by your miracles * you truly brought glory to the Church of Christ. * Your convent was distinguished as a new Siloam pool * of divine grace, O devout Porphyrios, * for the cures and the healings you did therein."
 
 alt1.meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 alt1.meMA.Ode9C12.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode9C12.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+alt1.meMA.Ode9C12.melody = he.h.m4_en_US_dedes.ApasGigenis.incipit
 alt1.meMA.Ode9C12.text = "O Porphyrios, * a garden of grace and an oasis of delight * was your speech. It brought great joy * to the believers, as it exalted them * to mansions in the heavens, making their anxiety * disappear, and strengthened and encouraged them * in their spiritual contests and victories."
 
 alt1.meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 alt1.meMA.Ode9C13.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode9C13.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+alt1.meMA.Ode9C13.melody = he.h.m4_en_US_dedes.ApasGigenis.incipit
 alt1.meMA.Ode9C13.text = "O Porphyrios, * we honor your memory by singing sacred hymns. * We entreat you, grant to all * peace and repentance; and by hour holy prayers * to Christ the Savior, may we all become participants * in the bliss of Paradise. And give us your * blessing, which is a fountain of grace divine."
 
 alt1.meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 alt1.meMA.Ode9C1T.mode = misc_en_US_dedes.Mode4
-alt1.meMA.Ode9C1T.melody = he.h.m4_en_US_dedes.ApasGigenis.name
+alt1.meMA.Ode9C1T.melody = he.h.m4_en_US_dedes.ApasGigenis.incipit
 alt1.meMA.Ode9C1T.text = "Virgin Bride of God, * we all offer hymns to you, the all-immaculate, * for you have accounted us * worthy to honor devout Porphyrios, * the faithful servant of your Son. Now with angelic hosts * he rejoices and sends up unceasing hymns, * ever worshiping Christ our immortal God."
 
 alt1.meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
-alt1.meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+alt1.meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.incipit
 alt1.meMA.Exaposteilarion1.text = "O Saint, you loved humility * and exercised obedience. * For this you were filled with graces * and gifts of the Holy Spirit, * and you became a reservoir * of many cures and miracles *  for those who are sick and pray to you * for help, O all-blessed father. * And therefore we now extol you."
 
 alt1.meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
-alt1.meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+alt1.meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.incipit
 alt1.meMA.ExapTheotokion.text = "O Virgin pure, we honor you * and pray you to be merciful * to us, at the intercessions * of your divine Son's true servant * Porphyrios. And we entreat, * protect our nation from attack, * and grant to all its citizens * repentance and peace in all things, * O Mother of Christ the Savior."
 
 alt1.meMA.Lauds1.mode = misc_en_US_dedes.Mode8
-alt1.meMA.Lauds1.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+alt1.meMA.Lauds1.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
 alt1.meMA.Lauds1.text = "What a paradoxal miracle! * On Athos while yet a boy, * like a man you brought down the pride * of the devil's insolence, * and for this you were crowned with grace. * While yet a boy you evinced the elders' ken * and imitated the angels' way of life. * Then you received divine * gifts as if a spiritual porphyrous robe, * O beloved by God devout father Porphyrios."
 
 alt1.meMA.Lauds2.mode = misc_en_US_dedes.Mode8
-alt1.meMA.Lauds2.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+alt1.meMA.Lauds2.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
 alt1.meMA.Lauds2.text = "What a paradoxal miracle! * By your clairvoyance, O Saint, * you perceived what was hid from men; as a prophet you foresaw * and foretold of events to come. * With many miracles you astounded all, * and you exposed diabolical deceit. * Curing all illnesses, * you became a refuge for the sick and weak, * a support for the disturbed, O father, graced by God."
 
 alt1.meMA.Lauds3.mode = misc_en_US_dedes.Mode8
-alt1.meMA.Lauds3.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+alt1.meMA.Lauds3.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
 alt1.meMA.Lauds3.text = "What a paradoxal miracle! * How you attained to the heights * that the great son of thunder did, * and like him received divine * revelations of things to come! * You served humility like a sacrament, * and learned the knowledge proper to Cherubim. * You had many divine * visitations, O all-blessed and devout * father, glowing on your death bed with a splendid light."
 
 alt1.meMA.Lauds4.mode = misc_en_US_dedes.Mode8
-alt1.meMA.Lauds4.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+alt1.meMA.Lauds4.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
 alt1.meMA.Lauds4.text = "What a paradoxal miracle! * Once you astonishingly * did partake of the mysteries, * the body and blood of Christ, * even though you were far from church; * by hands of angels you truly did receive * the divine ember, consuming it indeed. * Those who were with you then, * O devout and holy father, were amazed * by your mystical communion and gave glory to God."
 
 alt1.meMA.MM.Lauds1234as5678.text = properties_en_US_dedes.media.key

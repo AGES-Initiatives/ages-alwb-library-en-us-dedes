@@ -14,15 +14,15 @@ peHO.note2 = ""
 peDismissal = dismissals_en_US_dedes.dis00.resurrection
 
 peSV.Stichera1.mode = misc_en_US_dedes.Mode1
-peSV.Stichera1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+peSV.Stichera1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 peSV.Stichera1.text = ""
 
 peSV.Stichera2.mode = misc_en_US_dedes.Mode1
-peSV.Stichera2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+peSV.Stichera2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 peSV.Stichera2.text = "The disbelief of St. Thomas in fact confirms the truth * that Christ is truly risen * from the caverns of Hades * as God and man and Logos. More daring than this, * with his hand Thomas scrutinized * the Savior's wounds and the marks on His hands and feet, * and by this he has assured the world."
 
 peSV.Stichera3.mode = misc_en_US_dedes.Mode1
-peSV.Stichera3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
+peSV.Stichera3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
 peSV.Stichera3.text = ""
 
 peSV.SticGlory.mode = misc_en_US_dedes.Mode2
@@ -30,19 +30,19 @@ peSV.SticGlory.melody = misc_en_US_dedes.Idiomelon
 peSV.SticGlory.text = ""
 
 peSV.Aposticha1.mode = misc_en_US_dedes.Mode2
-peSV.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+peSV.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
 peSV.Aposticha1.text = "Joining the Angels, come, * O human beings, with pure lips * extol Him who has risen * from the tomb on the third day * and with himself has raised the world. "
 
 peSV.Aposticha2.mode = misc_en_US_dedes.Mode2
-peSV.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+peSV.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
 peSV.Aposticha2.text = "Though the doors were locked shut, * You appeared to Your sacred * Apostles, O our Savior, * renewing Your divine Holy Spirit in us through them."
 
 peSV.Aposticha3.mode = misc_en_US_dedes.Mode2
-peSV.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+peSV.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
 peSV.Aposticha3.text = "Seeing You, not with eyes * but with our heart's deep longing, * and verily believing * that You are God, we praise You * and magnify You, King of all."
 
 peSV.AposGlory.mode = misc_en_US_dedes.Mode2
-peSV.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+peSV.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
 peSV.AposGlory.text = ""
 
 peVE.Stichera01.poet = poets_en_US_dedes.IoannouMonachou
@@ -108,15 +108,15 @@ peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.text = oc.m7.d1_en_US_dedes.ocMA.Kathisma21.text
 
 peMA.Kathisma11.mode = misc_en_US_dedes.Mode1
-peMA.Kathisma11.melody = he.a.m1_en_US_dedes.TouLithouSfragisthentos.name
+peMA.Kathisma11.melody = he.a.m1_en_US_dedes.TouLithouSfragisthentos.incipit
 peMA.Kathisma11.text = "For fear of the Jews, the Disciples were in hiding,* having congregated in Zion. You came to them, O Good One,* the doors being shut, and You stood * among them, and You caused them to rejoice.* And You showed them the wounds on Your hands* and immaculate side, saying* unto the disbelieving Disciple,* \"Put out your hand and examine Me,* for it is I, who for you became passible.\""
 
 peMA.Kathisma21.mode = misc_en_US_dedes.Mode1
-peMA.Kathisma21.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+peMA.Kathisma21.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.incipit
 peMA.Kathisma21.text = "The doors were shut and locked. You appeared to Your hiding * Disciples, as the Life, O my Christ, and You showed them * Your wounded side and hands and feet, * thus confirming Your resurrection* from the sepulcher. However Thomas was absent; * hence he said to them, \"If I myself do not see Him, * I will not believe your words.\""
 
 peMA.Kathisma31.mode = misc_en_US_dedes.Mode1
-peMA.Kathisma31.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+peMA.Kathisma31.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.incipit
 peMA.Kathisma31.text = "\"Since You have seen my side and the punctures the nails made, * no longer disbelieve in My rising, O Thomas,\" * the Lord said when He appeared to His Disciples ineffably, * after He had risen from the tomb on the third day. * Then the Twin believed and cried aloud to the Creator, * \"My Lord and my God are You.\""
 
 peMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
@@ -133,7 +133,7 @@ peMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode2
 peMA.PostGospelIdiomelon.melody = misc_en_US_dedes.Idiomelon
 peMA.PostGospelIdiomelon.text = ho.s03_en_US_dedes.hoMA.SunPostGospelIdiomelon.text
 
-peMA.C1Poet = poets_en_US_dedes.IoannouMonachou
+peMA.C1.poet = poets_en_US_dedes.IoannouMonachou
 
 peMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C1H.mode = misc_en_US_dedes.Mode1
@@ -145,17 +145,17 @@ peMA.C1.verse = prayers_en_US_dedes.verse_Resurrection.text
 
 peMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C11.mode = misc_en_US_dedes.Mode1
-peMA.Ode1C11.melody = he.h.m1_en_US_dedes.AsomenPantesLaoi.name
+peMA.Ode1C11.melody = he.h.m1_en_US_dedes.AsomenPantesLaoi.incipit
 peMA.Ode1C11.text = "" 
 
 peMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C12.mode = misc_en_US_dedes.Mode1
-peMA.Ode1C12.melody = he.h.m1_en_US_dedes.AsomenPantesLaoi.name
+peMA.Ode1C12.melody = he.h.m1_en_US_dedes.AsomenPantesLaoi.incipit
 peMA.Ode1C12.text = "" 
 
 peMA.Ode1C13.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C13.mode = misc_en_US_dedes.Mode1
-peMA.Ode1C13.melody = he.h.m1_en_US_dedes.AsomenPantesLaoi.name
+peMA.Ode1C13.melody = he.h.m1_en_US_dedes.AsomenPantesLaoi.incipit
 peMA.Ode1C13.text = "" 
 
 peMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
@@ -165,17 +165,17 @@ peMA.Ode3C1H.text = he.h.m1_en_US_dedes.StereosonMeChriste.text
 
 peMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 peMA.Ode3C11.mode = misc_en_US_dedes.Mode1
-peMA.Ode3C11.melody = he.h.m1_en_US_dedes.StereosonMeChriste.name
+peMA.Ode3C11.melody = he.h.m1_en_US_dedes.StereosonMeChriste.incipit
 peMA.Ode3C11.text = "" 
 
 peMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 peMA.Ode3C12.mode = misc_en_US_dedes.Mode1
-peMA.Ode3C12.melody = he.h.m1_en_US_dedes.StereosonMeChriste.name
+peMA.Ode3C12.melody = he.h.m1_en_US_dedes.StereosonMeChriste.incipit
 peMA.Ode3C12.text = "" 
 
 peMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 peMA.Ode3C13.mode = misc_en_US_dedes.Mode1
-peMA.Ode3C13.melody = he.h.m1_en_US_dedes.StereosonMeChriste.name
+peMA.Ode3C13.melody = he.h.m1_en_US_dedes.StereosonMeChriste.incipit
 peMA.Ode3C13.text = "" 
 
 peMA.Hypakoe.mode = misc_en_US_dedes.Mode6
@@ -189,22 +189,22 @@ peMA.Ode4C1H.text = he.h.m1_en_US_dedes.MegaToMystirion.text
 
 peMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 peMA.Ode4C11.mode = misc_en_US_dedes.Mode1
-peMA.Ode4C11.melody = he.h.m1_en_US_dedes.MegaToMystirion.name
+peMA.Ode4C11.melody = he.h.m1_en_US_dedes.MegaToMystirion.incipit
 peMA.Ode4C11.text = "" 
 
 peMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 peMA.Ode4C12.mode = misc_en_US_dedes.Mode1
-peMA.Ode4C12.melody = he.h.m1_en_US_dedes.MegaToMystirion.name
+peMA.Ode4C12.melody = he.h.m1_en_US_dedes.MegaToMystirion.incipit
 peMA.Ode4C12.text = "" 
 
 peMA.Ode4C13.ode = misc_en_US_dedes.Ode4
 peMA.Ode4C13.mode = misc_en_US_dedes.Mode1
-peMA.Ode4C13.melody = he.h.m1_en_US_dedes.MegaToMystirion.name
+peMA.Ode4C13.melody = he.h.m1_en_US_dedes.MegaToMystirion.incipit
 peMA.Ode4C13.text = "" 
 
 peMA.Ode4C14.ode = misc_en_US_dedes.Ode4
 peMA.Ode4C14.mode = misc_en_US_dedes.Mode1
-peMA.Ode4C14.melody = he.h.m1_en_US_dedes.MegaToMystirion.name
+peMA.Ode4C14.melody = he.h.m1_en_US_dedes.MegaToMystirion.incipit
 peMA.Ode4C14.text = "" 
 
 peMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
@@ -214,17 +214,17 @@ peMA.Ode5C1H.text = he.h.m1_en_US_dedes.EkNyktosOrthrizontes.text
 
 peMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 peMA.Ode5C11.mode = misc_en_US_dedes.Mode1
-peMA.Ode5C11.melody = he.h.m1_en_US_dedes.EkNyktosOrthrizontes.name
+peMA.Ode5C11.melody = he.h.m1_en_US_dedes.EkNyktosOrthrizontes.incipit
 peMA.Ode5C11.text = "" 
 
 peMA.Ode5C12.ode = misc_en_US_dedes.Ode5
 peMA.Ode5C12.mode = misc_en_US_dedes.Mode1
-peMA.Ode5C12.melody = he.h.m1_en_US_dedes.EkNyktosOrthrizontes.name
+peMA.Ode5C12.melody = he.h.m1_en_US_dedes.EkNyktosOrthrizontes.incipit
 peMA.Ode5C12.text = "" 
 
 peMA.Ode5C13.ode = misc_en_US_dedes.Ode5
 peMA.Ode5C13.mode = misc_en_US_dedes.Mode1
-peMA.Ode5C13.melody = he.h.m1_en_US_dedes.EkNyktosOrthrizontes.name
+peMA.Ode5C13.melody = he.h.m1_en_US_dedes.EkNyktosOrthrizontes.incipit
 peMA.Ode5C13.text = "" 
 
 peMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
@@ -234,17 +234,17 @@ peMA.Ode6C1H.text = he.h.m1_en_US_dedes.TonProfitinDiesosas.text
 
 peMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 peMA.Ode6C11.mode = misc_en_US_dedes.Mode1
-peMA.Ode6C11.melody = he.h.m1_en_US_dedes.TonProfitinDiesosas.name
+peMA.Ode6C11.melody = he.h.m1_en_US_dedes.TonProfitinDiesosas.incipit
 peMA.Ode6C11.text = "" 
 
 peMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 peMA.Ode6C12.mode = misc_en_US_dedes.Mode1
-peMA.Ode6C12.melody = he.h.m1_en_US_dedes.TonProfitinDiesosas.name
+peMA.Ode6C12.melody = he.h.m1_en_US_dedes.TonProfitinDiesosas.incipit
 peMA.Ode6C12.text = "" 
 
 peMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 peMA.Ode6C13.mode = misc_en_US_dedes.Mode1
-peMA.Ode6C13.melody = he.h.m1_en_US_dedes.TonProfitinDiesosas.name
+peMA.Ode6C13.melody = he.h.m1_en_US_dedes.TonProfitinDiesosas.incipit
 peMA.Ode6C13.text = "" 
 
 peMA.Kontakion1.mode = misc_en_US_dedes.Mode8
@@ -280,22 +280,22 @@ peMA.Ode7C1H.text = he.h.m1_en_US_dedes.EikoniLatrevein.text
 
 peMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C11.mode = misc_en_US_dedes.Mode1
-peMA.Ode7C11.melody = he.h.m1_en_US_dedes.EikoniLatrevein.name
+peMA.Ode7C11.melody = he.h.m1_en_US_dedes.EikoniLatrevein.incipit
 peMA.Ode7C11.text = "" 
 
 peMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C12.mode = misc_en_US_dedes.Mode1
-peMA.Ode7C12.melody = he.h.m1_en_US_dedes.EikoniLatrevein.name
+peMA.Ode7C12.melody = he.h.m1_en_US_dedes.EikoniLatrevein.incipit
 peMA.Ode7C12.text = "" 
 
 peMA.Ode7C13.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C13.mode = misc_en_US_dedes.Mode1
-peMA.Ode7C13.melody = he.h.m1_en_US_dedes.EikoniLatrevein.name
+peMA.Ode7C13.melody = he.h.m1_en_US_dedes.EikoniLatrevein.incipit
 peMA.Ode7C13.text = "" 
 
 peMA.Ode7C14.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C14.mode = misc_en_US_dedes.Mode1
-peMA.Ode7C14.melody = he.h.m1_en_US_dedes.EikoniLatrevein.name
+peMA.Ode7C14.melody = he.h.m1_en_US_dedes.EikoniLatrevein.incipit
 peMA.Ode7C14.text = "" 
 
 peMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
@@ -305,17 +305,17 @@ peMA.Ode8C1H.text = he.h.m1_en_US_dedes.TonEnFlogiPyros.text
 
 peMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 peMA.Ode8C11.mode = misc_en_US_dedes.Mode1
-peMA.Ode8C11.melody = he.h.m1_en_US_dedes.TonEnFlogiPyros.name
+peMA.Ode8C11.melody = he.h.m1_en_US_dedes.TonEnFlogiPyros.incipit
 peMA.Ode8C11.text = "" 
 
 peMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 peMA.Ode8C12.mode = misc_en_US_dedes.Mode1
-peMA.Ode8C12.melody = he.h.m1_en_US_dedes.TonEnFlogiPyros.name
+peMA.Ode8C12.melody = he.h.m1_en_US_dedes.TonEnFlogiPyros.incipit
 peMA.Ode8C12.text = "" 
 
 peMA.Ode8C13.ode = misc_en_US_dedes.Ode8
 peMA.Ode8C13.mode = misc_en_US_dedes.Mode1
-peMA.Ode8C13.melody = he.h.m1_en_US_dedes.TonEnFlogiPyros.name
+peMA.Ode8C13.melody = he.h.m1_en_US_dedes.TonEnFlogiPyros.incipit
 peMA.Ode8C13.text = "" 
 
 peMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
@@ -325,37 +325,37 @@ peMA.Ode9C1H.text = he.h.m1_en_US_dedes.SeTinFaeinin.text
 
 peMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 peMA.Ode9C11.mode = misc_en_US_dedes.Mode1
-peMA.Ode9C11.melody =he.h.m1_en_US_dedes.SeTinFaeinin.name 
+peMA.Ode9C11.melody = he.h.m1_en_US_dedes.SeTinFaeinin.incipit 
 peMA.Ode9C11.text = "This is now Your brightly shining and most splendid day, O Christ, * the grace that is full of light; * on this day You appeared to Your Disciples * very handsome, and we magnify it." 
 
 peMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 peMA.Ode9C12.mode = misc_en_US_dedes.Mode1
-peMA.Ode9C12.melody = he.h.m1_en_US_dedes.SeTinFaeinin.name
+peMA.Ode9C12.melody = he.h.m1_en_US_dedes.SeTinFaeinin.incipit
 peMA.Ode9C12.text = "You allowed a hand of flesh to touch Your side, and scorched it not * with the fire immaterial of divine essence. * We sing Your praise and magnify You." 
 
 peMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 peMA.Ode9C13.mode = misc_en_US_dedes.Mode1
-peMA.Ode9C13.melody = he.h.m1_en_US_dedes.SeTinFaeinin.name
+peMA.Ode9C13.melody = he.h.m1_en_US_dedes.SeTinFaeinin.incipit
 peMA.Ode9C13.text = "You arose from the grave as God, O Christ.* We have not seen You with our eyes, but have believed in You with longing of heart.* We sing Your praise and magnify You." 
 
 peMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
-peMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
+peMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.incipit
 peMA.Exaposteilarion1.text = "When you examine fully * My body's wounds with your own hand, * Thomas, be not disbelieving * in Me who suffered wounds for you. * With the Disciple have one mind * and proclaim Me the living God."
 
 peMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode3
-peMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
+peMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.incipit
 peMA.Exaposteilarion2.text = "Today it smells like springtime, * and new creation is dancing. * Today the locks are removed * from the doors and the disbelief * of Thomas the friend who cries out, * \"You are my Lord and my God.\""
 
 peMA.Lauds1.mode = misc_en_US_dedes.Mode1
-peMA.Lauds1.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+peMA.Lauds1.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.incipit
 peMA.Lauds1.text = "O Giver-of-Life, You did not break * the seals that secured Your tomb. * And likewise after Your awesome rising from the sepulcher, * You unhindered entered * the room where Your glorious * Apostles were, the doors being shut, O Christ, and caused them to rejoice. * And You granted them Your governing* Holy Spirit,* for mercy immeasurable."
 
 peMA.Lauds2.mode = misc_en_US_dedes.Mode1
-peMA.Lauds2.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+peMA.Lauds2.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.incipit
 peMA.Lauds2.text = "Thomas, who was also called the Twin, * was not there when You appeared * to the Disciples, O Lord, and therefore he did not believe * that You resurrected. * Thus emphatically he cried* aloud to those who saw You, \"Unless I put my finger in His side * and the wounds created by the nails, * I will not believe that He indeed arose.\""
 
 peMA.Lauds3.mode = misc_en_US_dedes.Mode1
-peMA.Lauds3.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
+peMA.Lauds3.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.incipit
 peMA.Lauds3.text = "\"O Thomas, according to your wish, * handle Me,\" said Christ to him. * \"Put out your hand, and be cognizant that I have flesh and bones, * and an earthen body. * Be not one who disbelieves. * But rather with the others be confident.\" And he in turn cried out, * \"You, O Jesus, are my Lord and God, * and my Savior. * Glory to Your resurrection.\""
 
 peMA.MM.Lauds123as123.text = properties_en_US_dedes.media.key
