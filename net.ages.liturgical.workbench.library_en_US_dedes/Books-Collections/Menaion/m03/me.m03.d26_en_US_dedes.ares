@@ -20,24 +20,29 @@ meDismissal = dismissals_en_US_dedes.dis00.annunciation
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode1
 meVE.Stichera01.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.incipit
+meVE.Stichera01.incipit = "Gabriel, that Godlike and sublime"
 meVE.Stichera01.text = "Gabriel, that Godlike and sublime * spiritual intellect, brilliant and heavenly, with the host of hierarchies on high, * seeing and perceiving * the tri-solar light of God, * was sent to the pure Virgin; and he announced the awesome and divine * holy mys'try of the plan of God. * And he prays now, * interceding for our souls."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode1
 meVE.Stichera02.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.incipit
+meVE.Stichera02.incipit = "The mystery of the plan"
 meVE.Stichera02.text = "The mystery of the plan of God, * which was hidden for all time and was unknown to the Angels, was made known to you alone, * Gabriel; and you went * to Nazareth, and alone * to Mary, the pure virgin, confided it. Together pray to Christ, * interceding that surpassing peace * and great mercy * be upon our souls bestowed."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode1
 meVE.Stichera03.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.incipit
+meVE.Stichera03.incipit = "O Gabriel, you are ever"
 meVE.Stichera03.text = "O Gabriel, you are ever full * of the light of God, the Ruler over all, and you do His will, obeying His commands. * Marvelous Archangel, * Chief of the angelic hosts, * protect us who with longing now honor you, and ever pray to Christ, * interceding that surpassing peace * and great mercy * be upon our souls bestowed."
 
 meVE.SticGlory.poet = poets_en_US_dedes.IoannouMonachou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
+meVE.SticGlory.incipit = me.m03.d25_en_US_dedes.meVE.SticGlory.incipit
 meVE.SticGlory.text = me.m03.d25_en_US_dedes.meVE.SticGlory.text
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
+meVE.Apolytikion1.incipit = ""
 meVE.Apolytikion1.text = ""
 
 meMA.C1.acrostic = ""
@@ -45,6 +50,7 @@ meMA.C1.acrostic = ""
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode1C1H.incipit = he.h.m4_en_US_dedes.AnoixoToStomaMou.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_dedes.AnoixoToStomaMou.text
 
 meMA.C1.title = titles_en_US_dedes.KanonTouArchangelou
@@ -53,218 +59,262 @@ meMA.C1.verse = prayers_en_US_dedes.verse_Archangel.text
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C11.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.notmetered
+meMA.Ode1C11.incipit = "O Archangel, you are a"
 meMA.Ode1C11.text = "O Archangel, you are a light through immaterial participation in that most lofty, divine, and immaterial Light: I entreat you, by your intercessions, enlighten my mind, so that I may extol you."
 
 meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C12.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.notmetered
+meMA.Ode1C12.incipit = "That foremost of the bodiless"
 meMA.Ode1C12.text = "That foremost of the bodiless minds declared the ineffable joy coming into the world because of goodness. Let us form inspired choirs today to honor him joyfully. "
 
 meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C13.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.notmetered
+meMA.Ode1C13.incipit = "O Gabriel, we your fans"
 meMA.Ode1C13.text = "O Gabriel, we your fans have you as our great advocate and helper before God, and a wall and support. You rescue us from perils and from the harm of the serpent, and for this we sing your praise."
 
 meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.notmetered
+meMA.Ode1C1T.incipit = "O Lady who knew not"
 meMA.Ode1C1T.text = "O Lady who knew not wedlock, when Gabriel saw you, so pure and blameless, he radiantly said to you, \"Rejoice!\" You are the boast and magnificence of the Angels and the salvation of mortals. "
 
 meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3C1H.incipit = he.h.m4_en_US_dedes.TousSousYmnologous.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_dedes.TousSousYmnologous.text
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode3C11.melody = he.h.m4_en_US_dedes.TousSousYmnologous.notmetered
+meMA.Ode3C11.incipit = "O Gabriel, you are immaterial,"
 meMA.Ode3C11.text = "O Gabriel, you are immaterial, and immaterially illumined by participation in that most immaterial Light; you are known as a secondary light, ever enlightening material mortals who extol you."
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode3C12.melody = he.h.m4_en_US_dedes.TousSousYmnologous.notmetered
+meMA.Ode3C12.incipit = "O great among Angels, you"
 meMA.Ode3C12.text = "O great among Angels, you were granted very great glory, since you revealed to us the great mystery, by which we who of earth have been lifted to the great height. And for this we greatly honor you."
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode3C13.melody = he.h.m4_en_US_dedes.TousSousYmnologous.notmetered
+meMA.Ode3C13.incipit = "O Chief Commander Gabriel, we"
 meMA.Ode3C13.text = "O Chief Commander Gabriel, we ever seek you with longing. Come down from heaven and appear to us, and calm the storm of trials and afflictions that has risen against us. "
 
 meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode3C1T.melody = he.h.m4_en_US_dedes.TousSousYmnologous.notmetered
+meMA.Ode3C1T.incipit = "O Maiden, Gabriel disclosed the"
 meMA.Ode3C1T.text = "O Maiden, Gabriel disclosed the mystery that had been hidden of old, when he cried out to you: \"Rejoice, O palace of God! In His compassion, He will dwell in you, and He will deify all mortals."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode1
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.incipit
+meMA.Ode3Kathisma1.incipit = "That leader of the hosts"
 meMA.Ode3Kathisma1.text = "That leader of the hosts of the Angels, great Gabriel, * with exultation joins them in unceasingly shouting * the thrice-holy hymn in praise of the all-holy Trinity. * Come, believers all, let us with faith now extol him * with uplifted voice, and let us honor him gaily * with minds that are purified."
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
+meMA.Ode3KathismaT.incipit = "You are the chief among"
 meMA.Ode3KathismaT.text = "You are the chief among the bodiless ministers, * Gabriel, and as such to you was entrusted * that truly awesome mystery ordained before all time, * yes, the secret childbirth of the all-holy Virgin. * You called out \"Rejoice\" to her, the Maiden highly favored. * We the believers therefore rightfully * ever extol you and joyfully honor you."
 
 meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode4C1H.incipit = he.h.m4_en_US_dedes.TinAnexichniaston.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_dedes.TinAnexichniaston.text
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode4C11.melody = he.h.m4_en_US_dedes.TinAnexichniaston.notmetered
+meMA.Ode4C11.incipit = "O praiseworthy Gabriel, in times"
 meMA.Ode4C11.text = "O praiseworthy Gabriel, in times of old, you stood by the Prophet Daniel, and you filled his spirit with the revelation of unknown things, and thus gladded him with participation in the Divine Sovereignty."
 
 meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode4C12.melody = he.h.m4_en_US_dedes.TinAnexichniaston.notmetered
+meMA.Ode4C12.incipit = "O Gabriel, we joyfully praise"
 meMA.Ode4C12.text = "O Gabriel, we joyfully praise you, even with our mouths of clay. You are fiery by nature. Rescue us from the eternal fire, by your divine intercessions. "
 
 meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode4C13.melody = he.h.m4_en_US_dedes.TinAnexichniaston.notmetered
+meMA.Ode4C13.incipit = "O Commander of the angelic"
 meMA.Ode4C13.text = "O Commander of the angelic hosts, you stand with joy near the King of heaven, and you wear a divine garment that flashes with ineffable glory brighter than the sun."
 
 meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode4C1T.melody = he.h.m4_en_US_dedes.TinAnexichniaston.notmetered
+meMA.Ode4C1T.incipit = "O all-blameless Virgin, Gabriel perceived"
 meMA.Ode4C1T.text = "O all-blameless Virgin, Gabriel perceived how you wholly purified by the Holy Spirit, and he cried out to you: \"Rejoice! You are the redemption from the curse and the restoration of the forefathers.\""
 
 meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode5C1H.incipit = he.h.m4_en_US_dedes.ExestiTaSympanta.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_dedes.ExestiTaSympanta.text
 
 meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode5C11.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.notmetered
+meMA.Ode5C11.incipit = "As you are illumined by"
 meMA.Ode5C11.text = "As you are illumined by participation in the First Mind, we say you are a second light. With the countless hosts of the Angels you cry out: \"Holy is the omnific Father, the co-unoriginate Son, and the Spirit who shares the throne with Them.\""
 
 meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode5C12.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.notmetered
+meMA.Ode5C12.incipit = "O great Gabriel, leader of"
 meMA.Ode5C12.text = "O great Gabriel, leader of the divine bodiless hosts and adornment of all who faithfully extol you, great is your glory, your form is fiery, and your beauty is exceptional, astonishing every mind. "
 
 meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode5C13.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.notmetered
+meMA.Ode5C13.incipit = "O Chief Commander Gabriel, the"
 meMA.Ode5C13.text = "O Chief Commander Gabriel, the godly Zacharias of old saw you standing before him at the time of incense. He became speechless, for he did not believe the awesome message that you did delivered to him."
 
 meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode5C1T.melody = he.h.m4_en_US_dedes.ExestiTaSympanta.notmetered
+meMA.Ode5C1T.incipit = "O all-blameless Maiden, you are"
 meMA.Ode5C1T.text = "O all-blameless Maiden, you are a temple of sanctification. At the voice of Archangel Gabriel, you conceived the All-holy God, who rests in the saints, sanctifies all, and delivers us from evil."
 
 meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6C1H.incipit = he.h.m4_en_US_dedes.TinTheianTaftin.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_dedes.TinTheianTaftin.text
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode6C11.melody = he.h.m4_en_US_dedes.TinTheianTaftin.notmetered
+meMA.Ode6C11.incipit = "O brilliant, celestial Mind, you"
 meMA.Ode6C11.text = "O brilliant, celestial Mind, you are illumined by the divine rays that transcend mind and speech. Our human tongues are unable to honor you."
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode6C12.melody = he.h.m4_en_US_dedes.TinTheianTaftin.notmetered
+meMA.Ode6C12.incipit = "By your luminous prayers to"
 meMA.Ode6C12.text = "By your luminous prayers to the Master, snatch from the darkness of passions those who extol you, O bright ray of the Sun and Chief Commander of His fiery ministers.  "
 
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode6C13.melody = he.h.m4_en_US_dedes.TinTheianTaftin.notmetered
+meMA.Ode6C13.incipit = "O Archangel, by your supplications"
 meMA.Ode6C13.text = "O Archangel, by your supplications to the Creator of all, frustrate the plans of the heathen, strengthen the Orthodox Faith, and end the schisms in the Church. "
 
 meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode6C1T.melody = he.h.m4_en_US_dedes.TinTheianTaftin.notmetered
+meMA.Ode6C1T.incipit = "O pure Virgin, you accepted"
 meMA.Ode6C1T.text = "O pure Virgin, you accepted Gabriel's godly words, and you conceived in the flesh the Logos, who exists before the ages, and who rescues the world from irrationality."
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode7C1H.incipit = he.h.m4_en_US_dedes.OukElatrefsan.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_dedes.OukElatrefsan.text
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode7C11.melody = he.h.m4_en_US_dedes.OukElatrefsan.notmetered
+meMA.Ode7C11.incipit = "O glorious Gabriel, of old"
 meMA.Ode7C11.text = "O glorious Gabriel, of old in the Temple of God, you announced the birth of John to Zacharias, as he was singing to our Redeemer and God: \"Blessed are You, O exceedingly praised Lord and God of our Fathers.\""
 
 meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode7C12.melody = he.h.m4_en_US_dedes.OukElatrefsan.notmetered
+meMA.Ode7C12.incipit = "O Gabriel, the glorious majesty"
 meMA.Ode7C12.text = "O Gabriel, the glorious majesty of your house sanctifies the souls of the faithful, and it urges them to sing in a loud voice: \"Blessed are You, O exceedingly praised Lord and God of our Fathers.\""
 
 meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode7C13.melody = he.h.m4_en_US_dedes.OukElatrefsan.notmetered
+meMA.Ode7C13.incipit = "O Chief Commander, you are"
 meMA.Ode7C13.text = "O Chief Commander, you are mystically illumined by participation in the First Light, and thus you are known as a second light, ever illumining those who sing: \"Blessed are You, O exceedingly praised Lord and God of our Fathers.\""
 
 meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode7C1T.melody = he.h.m4_en_US_dedes.OukElatrefsan.notmetered
+meMA.Ode7C1T.incipit = "O pure Virgin Mother, the"
 meMA.Ode7C1T.text = "O pure Virgin Mother, the Chief Commander Gabriel was sent to announce to you the joy, by which sorrow has ceased, and the curse is truly reversed, and blessing has blossomed for the faithful, unto all the ages."
 
 meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8C1H.incipit = he.h.m4_en_US_dedes.PaidasEvageis.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_dedes.PaidasEvageis.text
 
 meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode8C11.melody = he.h.m4_en_US_dedes.PaidasEvageis.notmetered
+meMA.Ode8C11.incipit = "O Archangel, the sacred people"
 meMA.Ode8C11.text = "O Archangel, the sacred people joyously extols you with sacred words of sacred speech; for to the Virgin, one of us, you announced the Logos, the cause of all, who became flesh like us, in a manner past understanding and speech. We therefore honour you, unto all the ages."
 
 meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode8C12.melody = he.h.m4_en_US_dedes.PaidasEvageis.notmetered
+meMA.Ode8C12.incipit = "O Archangel, you are united"
 meMA.Ode8C12.text = "O Archangel, you are united immaterially to the great and primordial Mind. You sing with fiery mouth the awe-inspiring hymn, which all the choirs of Angels sing: \"O all you works, praise the Lord, and exalt Him beyond measure unto the ages.\""
 
 meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode8C13.melody = he.h.m4_en_US_dedes.PaidasEvageis.notmetered
+meMA.Ode8C13.incipit = "O Gabriel, first leader of"
 meMA.Ode8C13.text = "O Gabriel, first leader of the Angels, you are adorned with divine glory, and you go throughout heaven and earth, doing the holy will of Christ, the God of all. You are the boast of all who ever extol you with faith."
 
 meMA.Ode8C14.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C14.mode = misc_en_US_dedes.Mode4
 meMA.Ode8C14.melody = he.h.m4_en_US_dedes.PaidasEvageis.notmetered
+meMA.Ode8C14.incipit = "O sacred Gabriel, the Logos,"
 meMA.Ode8C14.text = "O sacred Gabriel, the Logos, who chose to dwell among men in the flesh in His own Person, sent you ahead to prepare the sacred palace. And you sang: \"Praise the Lord, and exalt Him beyond measure unto all the ages.\""
 
 meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode8C1T.melody = he.h.m4_en_US_dedes.PaidasEvageis.notmetered
+meMA.Ode8C1T.incipit = "Let us extol the blessed"
 meMA.Ode8C1T.text = "Let us extol the blessed Virgin. She is the delightful throne of the King; she is superior to all creation, for she alone gave being to Him who transcends being. Through a strange and ineffable birth, He has deified mortals with a more excellent union."
 
 meMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9C1H.incipit = he.h.m4_en_US_dedes.ApasGigenis.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_dedes.ApasGigenis.text
 
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C11.melody = he.h.m4_en_US_dedes.ApasGigenis.notmetered
+meMA.Ode9C11.incipit = "O sacred Gabriel, you stand"
 meMA.Ode9C11.text = "O sacred Gabriel, you stand awesomely at the throne of grace, ministering and flashing with incomprehensible effusions of light. You are sacredly deified, appearing as a light. And by your mediations you illumine those who faithful honor you. "
 
 meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C12.melody = he.h.m4_en_US_dedes.ApasGigenis.notmetered
+meMA.Ode9C12.incipit = "O Gabriel, you are as"
 meMA.Ode9C12.text = "O Gabriel, you are as a starry heaven, shining with divine rays. As a commander, you carry a supremely bright scepter, and you run throughout all the earth, doing the will of the Master; and you deliver the faithful from evil."
 
 meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C13.melody = he.h.m4_en_US_dedes.ApasGigenis.notmetered
+meMA.Ode9C13.incipit = "O Gabriel, by your fervent"
 meMA.Ode9C13.text = "O Gabriel, by your fervent protection, calm the terrible storm continually raised up against your servants by foreign enemies; end the schisms in the Church; obtain forgiveness of sins for those who honor you; and grant success to our elected officials."
 
 meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C14.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C14.melody = he.h.m4_en_US_dedes.ApasGigenis.notmetered
+meMA.Ode9C14.incipit = "O most handsome and glorious"
 meMA.Ode9C14.text = "O most handsome and glorious duo, Michael and Gabriel, since you are our defenders who imitate the Master's goodness in all things, stand near the throne of the divine glory, and pray that we all may receive forgiveness of sins and deliverance from evil."
 
 meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C1T.melody = he.h.m4_en_US_dedes.ApasGigenis.notmetered
+meMA.Ode9C1T.incipit = "O all-pure Birthgiver of God,"
 meMA.Ode9C1T.text = "O all-pure Birthgiver of God, the brilliance of your childbirth has shone forth and illumined the entire world; it has destroyed the champion of darkness. You are the boast of the Angels and the salvation of all people, who with unceasingly sing your praise."
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
+meLI.Kontakion1.incipit = ""
 meLI.Kontakion1.text = ""
 
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key

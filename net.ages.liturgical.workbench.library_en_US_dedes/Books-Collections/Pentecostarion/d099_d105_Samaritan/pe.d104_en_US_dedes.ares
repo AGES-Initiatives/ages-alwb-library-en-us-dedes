@@ -15,85 +15,106 @@ peDismissal = dismissals_en_US_dedes.dis00.resurrection
 
 peVE.Stichera01.mode = misc_en_US_dedes.Mode4
 peVE.Stichera01.melody = he.a.m4_en_US_dedes.KyrieAnelthonEnToStavro.incipit
+peVE.Stichera01.incipit = "\"Come see Jesus, the Messiah,"
 peVE.Stichera01.text = "\"Come see Jesus, the Messiah, now on earth. * This is He, of whom the Prophet Moses had said would come, * and which he wrote in the Torah. * In His compassion, He was sitting as mortal man * at the well, and He spoke with me. He is truly the Savior. * He is Christ, who has come to redeem the world.\" * Thus to those in Sychar said the woman of Samaria."
 
 peVE.Stichera02.mode = misc_en_US_dedes.Mode4
 peVE.Stichera02.melody = he.a.m4_en_US_dedes.KyrieAnelthonEnToStavro.incipit
+peVE.Stichera02.incipit = "When they heard what the"
 peVE.Stichera02.text = "When they heard what the woman had to say, * which was like sweet water that gushed forth from her pleasant mouth, * those in the city imbibed it. * And then they hastened to go up quickly to the well * that abundantly overflowed with the water they desired, * and to see for themselves the perpetual * Source that gives refreshment to souls that are parched and dry. "
 
 peVE.Stichera03.mode = misc_en_US_dedes.Mode4
 peVE.Stichera03.melody = he.a.m4_en_US_dedes.KyrieAnelthonEnToStavro.incipit
+peVE.Stichera03.incipit = "When they saw for themselves"
 peVE.Stichera03.text = "When they saw for themselves that the Source * shared our human nature and our form, then the residents * of the city told the woman, * \"It is no longer because of your words that we believe, * for we have heard for ourselves, and we know that this is truly * the Messiah and the Savior of the world. * He is the eternal redemption of humanity.\""
 
 peVE.SticGlory.mode = misc_en_US_dedes.Mode6
 peVE.SticGlory.melody = pe.d099_en_US_dedes.peVE.SticGlory.melody
+peVE.SticGlory.incipit = pe.d099_en_US_dedes.peVE.SticGlory.incipit
 peVE.SticGlory.text = pe.d099_en_US_dedes.peVE.SticGlory.text
 
 peVE.Aposticha1.mode = misc_en_US_dedes.Mode4
 peVE.Aposticha1.melody = ""
+peVE.Aposticha1.incipit = oc.m4.d6_en_US_dedes.ocVE.Aposticha2.incipit
 peVE.Aposticha1.text = oc.m4.d6_en_US_dedes.ocVE.Aposticha2.text
 
 peVE.Aposticha2.mode = misc_en_US_dedes.Mode4
 peVE.Aposticha2.melody = oc.m4.d1_en_US_dedes.ocVE.Aposticha1.melody
+peVE.Aposticha2.incipit = oc.m4.d1_en_US_dedes.ocVE.Aposticha1.incipit
 peVE.Aposticha2.text = oc.m4.d1_en_US_dedes.ocVE.Aposticha1.text
 
 peVE.Aposticha3.mode = misc_en_US_dedes.Mode4
 peVE.Aposticha3.melody = ""
+peVE.Aposticha3.incipit = oc.m4.d5_en_US_dedes.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m4.d5_en_US_dedes.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = misc_en_US_dedes.Mode6
 peVE.AposGlory.melody = pe.d099_en_US_dedes.peMA.Lauds8.melody
+peVE.AposGlory.incipit = pe.d099_en_US_dedes.peMA.Lauds8.incipit
 peVE.AposGlory.text = pe.d099_en_US_dedes.peMA.Lauds8.text
 
 peMA.Kathisma11.mode = misc_en_US_dedes.Mode4
 peMA.Kathisma11.melody = oc.m4.d6_en_US_dedes.ocMA.Kathisma22.melody
+peMA.Kathisma11.incipit = oc.m4.d6_en_US_dedes.ocMA.Kathisma22.incipit
 peMA.Kathisma11.text = oc.m4.d6_en_US_dedes.ocMA.Kathisma22.text
 
 peMA.Kathisma12.mode = misc_en_US_dedes.Mode4
 peMA.Kathisma12.melody = oc.m4.d1_en_US_dedes.ocMA.Kathisma21.melody
+peMA.Kathisma12.incipit = oc.m4.d1_en_US_dedes.ocMA.Kathisma21.incipit
 peMA.Kathisma12.text = oc.m4.d1_en_US_dedes.ocMA.Kathisma21.text
 
 peMA.Kathisma13.mode = misc_en_US_dedes.Mode4
 peMA.Kathisma13.melody = oc.m4.d5_en_US_dedes.ocMA.Kathisma32.melody
+peMA.Kathisma13.incipit = oc.m4.d5_en_US_dedes.ocMA.Kathisma32.incipit
 peMA.Kathisma13.text = oc.m4.d5_en_US_dedes.ocMA.Kathisma32.text
 
 peMA.Kathisma1T.mode = misc_en_US_dedes.Mode4
 peMA.Kathisma1T.melody = oc.m4.d6_en_US_dedes.ocMA.Kathisma33.melody
+peMA.Kathisma1T.incipit = oc.m4.d6_en_US_dedes.ocMA.Kathisma33.incipit
 peMA.Kathisma1T.text = oc.m4.d6_en_US_dedes.ocMA.Kathisma33.text
 
 peMA.Kathisma21.mode = misc_en_US_dedes.Mode4
 peMA.Kathisma21.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
+peMA.Kathisma21.incipit = "The woman of Samaria came"
 peMA.Kathisma21.text = "The woman of Samaria came as she typically did * to draw from the old and perishable well, but instead * living water is what she drew. * For at the site of Jacob's * well and fountain she found Him * sitting there, namely Jesus, the Well of living water, * who gives refreshment and relief from the world's scorching heat."
 
 peMA.Lauds1.mode = misc_en_US_dedes.Mode4
 peMA.Lauds1.melody = oc.m4.d6_en_US_dedes.ocMA.Aposticha2.melody
+peMA.Lauds1.incipit = oc.m4.d6_en_US_dedes.ocMA.Aposticha2.incipit
 peMA.Lauds1.text = oc.m4.d6_en_US_dedes.ocMA.Aposticha2.text
 
 peMA.Lauds2.mode = misc_en_US_dedes.Mode4
 peMA.Lauds2.melody = ""
+peMA.Lauds2.incipit = oc.m4.d1_en_US_dedes.ocMA.Lauds3.incipit
 peMA.Lauds2.text = oc.m4.d1_en_US_dedes.ocMA.Lauds3.text
 
 peMA.Lauds3.mode = misc_en_US_dedes.Mode4
 peMA.Lauds3.melody = ""
+peMA.Lauds3.incipit = oc.m4.d5_en_US_dedes.ocMA.Aposticha3.incipit
 peMA.Lauds3.text = oc.m4.d5_en_US_dedes.ocMA.Aposticha3.text
 
 peMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
 peMA.LaudsGlory.melody = pe.d099_en_US_dedes.peMA.LaudsGlory.melody
+peMA.LaudsGlory.incipit = pe.d099_en_US_dedes.peMA.LaudsGlory.incipit
 peMA.LaudsGlory.text = pe.d099_en_US_dedes.peMA.LaudsGlory.text
 
 peMA.Aposticha1.mode = misc_en_US_dedes.Mode4
 peMA.Aposticha1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
+peMA.Aposticha1.incipit = "Having come with her water"
 peMA.Aposticha1.text = "Having come with her water jar * to the well, the Samaritan * woman left it empty of water, and she went * into the city and cried aloud * to all that she had indeed * found the effervescent source * that abundantly gushes forth everlasting life. * Hence she drank of this water of salvation, and her heart, which from the passions * was parched and dry, was refreshed indeed."
 
 peMA.Aposticha2.mode = misc_en_US_dedes.Mode4
 peMA.Aposticha2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
+peMA.Aposticha2.incipit = "\"You are right when you"
 peMA.Aposticha2.text = "\"You are right when you say that you * have no husband, for you have had * five before, and he whom you now live with is not * your lawful husband,\" the Savior said * to the woman who had come * from Samaria to draw * from the well. And she left her jar, * and she went away * to the city and said to all the people, * \"I have seen a man who told me * all that I ever did privately.\""
 
 peMA.Aposticha3.mode = misc_en_US_dedes.Mode4
 peMA.Aposticha3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
+peMA.Aposticha3.incipit = "The Samaritan woman who *"
 peMA.Aposticha3.text = "The Samaritan woman who * was accustomed to drawing up * perishable and earthly water from the well * found there instead the celestial well, a different life-giving stream, * and she drew from it and drank, * and this other water became in her heart a spring * that was new, for it welled up to eternal life and gave her heart refreshment * from all the passions' oppressive heat."
 
 peMA.AposGlory.mode = misc_en_US_dedes.Mode8
 peMA.AposGlory.melody = pe.d099_en_US_dedes.peVE.AposGlory.melody
+peMA.AposGlory.incipit = pe.d099_en_US_dedes.peVE.AposGlory.incipit
 peMA.AposGlory.text = pe.d099_en_US_dedes.peVE.AposGlory.text
 

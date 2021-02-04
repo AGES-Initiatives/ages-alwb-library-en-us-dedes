@@ -18,27 +18,33 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.incipit
+meVE.Stichera01.incipit = "Once you were clearly ablaze"
 meVE.Stichera01.text = "Once you were clearly ablaze with the appearance * of the Holy Spirit's light, blessed Paramonus, * fully renouncing the darkness of polytheism, * then you courageously at a fitting time * of your own accord went forth to the martyric feats * that lay ahead, O all-honored Saint; * and you defeated * the prideful enemy of the human race, * and you were shown to be victorious, * as you magnified Christ our Lord and God; * to Whom pray now in earnest * to illumine us and save our souls."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.incipit
+meVE.Stichera02.incipit = "As you observed how a"
 meVE.Stichera02.text = "As you observed how a multitude of people * were slaughtered for worshiping the God and King of all, * O St. Paramonus, you were filled * with a divine zeal, * and thus inspired you raised your voice and said, * \"Know this, O unlawful tyrants, that forevermore * I am a true servant of my Christ. * And here I am now * much like a blameless lamb to be sacrificed. * Do not delay, for I am anxious now * to become an acceptable sacrifice * for the One who for me was * in the flesh willingly sacrificed.\""
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.incipit
+meVE.Stichera03.incipit = "The host of three-hundred seventy"
 meVE.Stichera03.text = "The host of three-hundred seventy all-lauded * medal-winning martyr saints demolished the untrue * polytheistic delusion of the lawless tyrants * by their unwavering faith in Christ our God. * You, O St. Paramonus, were also crowned with them, * for you competed courageously; and now rejoicing * you have been numbered with the angelic choirs. * Along with them pray for us earnestly * that we who purely extol you and call you blest * may be freed from temptations * and distress and tribulations all."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.incipit
+meVE.SticTheotokion.incipit = "Wretch that I am, I"
 meVE.SticTheotokion.text = "Wretch that I am, I do not conceal my evils, * for I have acquired everything hateful to God, * I have polluted my flesh and soul * and mind with shameful * images, words and unlawful works and deeds. * With my tongue I have condemned other men who have sinned, * even though I have committed worse. O Theotokos, * grant me correction of all my sinful ways, * that having washed away my very bad * habits, I may fall prostrate and cry about * all the sins I committed * for the rest of my earthly life."
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.incipit
+meVE.SticStavrotheotokion.incipit = oc.m4.d6_en_US_dedes.ocVE.AposTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m4.d6_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
+meVE.Apolytikion1.incipit = ""
 meVE.Apolytikion1.text = ""
 
 meMA.C1.acrostic = ""
@@ -49,207 +55,249 @@ meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C11.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.notmetered
+meMA.Ode1C11.incipit = "O Martyr Paramonus, whose name"
 meMA.Ode1C11.text = "O Martyr Paramonus, whose name means abidance, as I extol your radiant memory, illumine my heart with the brilliant rays of the Spirit, and empower me to abide in the laws of God."
 
 meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C12.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.notmetered
+meMA.Ode1C12.incipit = "We faithfully call you blessed,"
 meMA.Ode1C12.text = "We faithfully call you blessed, O Paramonus, for you are famously rich with martyric honor and beauty, and adorned with your fair wounds."
 
 meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C13.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.notmetered
+meMA.Ode1C13.incipit = "O glorious Martyr, since you"
 meMA.Ode1C13.text = "O glorious Martyr, since you were filled with the life-giving streams of the Spirit, you sprinkled with dew those who withered in the dread heat of godlessness, and you directed them to the still water of rest."
 
 meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.notmetered
+meMA.Ode1C1T.incipit = "O pure Maiden, you bore"
 meMA.Ode1C1T.text = "O pure Maiden, you bore in time the Lord who is beyond time, when He became human.  Fervently pray to your Son to heal my soul’s chronic passions, O all-blameless Lady."
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode3C11.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.notmetered
+meMA.Ode3C11.incipit = "You cut the ranks of"
 meMA.Ode3C11.text = "You cut the ranks of the foe to pieces with the sword of endurance, and you smashed his pride when you were humbled for Christ’s sake."
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode3C12.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.notmetered
+meMA.Ode3C12.incipit = "O champion Paramonus, neutralizing the"
 meMA.Ode3C12.text = "O champion Paramonus, neutralizing the evil counsel against our Faith, you competed with endurance."
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode3C13.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.notmetered
+meMA.Ode3C13.incipit = "O Martyr, you disdained vicious"
 meMA.Ode3C13.text = "O Martyr, you disdained vicious tortures as a dream, since you were armed as a mighty warrior with grace divine."
 
 meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode3C1T.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.notmetered
+meMA.Ode3C1T.incipit = "Firmly establish my mind, which"
 meMA.Ode3C1T.text = "Firmly establish my mind, which is all turned around by many passions, O all-pure Mother of God, so that I might duly glorify you."
 
 meMA.Ode3H.ode = misc_en_US_dedes.Ode3
 meMA.Ode3H.mode = misc_en_US_dedes.Mode4
 meMA.Ode3H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3H.incipit = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.incipit
 meMA.Ode3H.text = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.text
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
+meMA.Ode3Kathisma1.incipit = "The Martyr Paramonus, inspired by"
 meMA.Ode3Kathisma1.text = "The Martyr Paramonus, inspired by God, did endure * the contest, and in the puddles of his blood he put out * the fire of idolatry. * Therefore he has been given * grace divine to work healings; * he drives out demonic spirits and he cures diseases. * O Christ, through his intercessions, we pray You to save our souls."
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
+meMA.Ode3KathismaT.incipit = "Come all, let us now"
 meMA.Ode3KathismaT.text = "Come all, let us now extol the grace that God has bestowed * on Mary, the Theotokos. For the nature of all * humanity found through her * forgiveness of the transgression, * which forgiveness engenders * joy for the world; and therefore we rejoice as we cry out: * O Lord, by her intercessions, from hardships deliver us."
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
+meMA.Ode3KathismaSt.incipit = "O Lady, as you beheld"
 meMA.Ode3KathismaSt.text = "O Lady, as you beheld your Son and God on the Cross, * you wept and extolled Him, O all-lauded Virgin most pure, * and tearfully said to Him, * \"Glory to You, O Logos, and to Your plan for salvation. * Willingly You were put to death, O Life of the whole world, * and thus You deliver it from corruption, O Lord most good.\""
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode4C11.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.notmetered
+meMA.Ode4C11.incipit = "O glorious Martyr of Christ,"
 meMA.Ode4C11.text = "O glorious Martyr of Christ, you considered the many tortures to be like children’s darts, since your heart was fortified with manliness and blazing with boldness."
 
 meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode4C12.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.notmetered
+meMA.Ode4C12.incipit = "The Martyr Paramonus, seeing the"
 meMA.Ode4C12.text = "The Martyr Paramonus, seeing the athletes put to death at the decree of the tyrant, obtained divine zeal like theirs and went forth of his own accord to martyrdom."
 
 meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode4C13.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.notmetered
+meMA.Ode4C13.incipit = "O blessed Paramonus, you destroyed"
 meMA.Ode4C13.text = "O blessed Paramonus, you destroyed the schemes of the foe when you were violently stretched out and pitilessly pierced with lances. For this reason, O Martyr, you were crowned by Christ, the Judge of the contest."
 
 meMA.Ode4C14.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C14.mode = misc_en_US_dedes.Mode4
 meMA.Ode4C14.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.notmetered
+meMA.Ode4C14.incipit = "O glorious Paramonus, since you"
 meMA.Ode4C14.text = "O glorious Paramonus, since you were amazed by the endurance of the Martyrs, and awed by their perfect death, you became a participant in their most-honorable contest, and their love for the Faith."
 
 meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode4C1T.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.notmetered
+meMA.Ode4C1T.incipit = "The transgression condemned humanity to"
 meMA.Ode4C1T.text = "The transgression condemned humanity to death, but your life-bearing childbirth renewed everyone. Therefore, we glorify and bless you, O Virgin Mary, and as God ordained we call you blessed."
 
 meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode5C11.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.notmetered
+meMA.Ode5C11.incipit = "O adornment of Martyrs, when"
 meMA.Ode5C11.text = "O adornment of Martyrs, when you competed and won victory over error, you gave yourself to your Creator as a prized gift."
 
 meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode5C12.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.notmetered
+meMA.Ode5C12.incipit = "O wise Paramonus, you smashed"
 meMA.Ode5C12.text = "O wise Paramonus, you smashed the temples and statues of the demons, since your mind was established on the rock of divine faith."
 
 meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode5C13.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.notmetered
+meMA.Ode5C13.incipit = "We call you blessed, O"
 meMA.Ode5C13.text = "We call you blessed, O noble-minded Athlete, since you manfully wounded the demonic hosts in the wounding of your own flesh."
 
 meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode5C1T.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.notmetered
+meMA.Ode5C1T.incipit = "O pure Lady, from your"
 meMA.Ode5C1T.text = "O pure Lady, from your pure blood, the Lord took on flesh, becoming a mortal. He is equal in honor with the Father and Spirit."
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode6C11.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C11.incipit = "You received crowns of glory,"
 meMA.Ode6C11.text = "You received crowns of glory, for you did not become lethargic at the time of your trials, but rather you were roused and strengthened all the more for the divine contest."
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode6C12.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C12.incipit = "O celebrated Paramonus, you zealously"
 meMA.Ode6C12.text = "O celebrated Paramonus, you zealously joined the assembly of the Martyrs who went to perfection before you; and you were counted worthy to join them in wedding hall of salvation."
 
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode6C13.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C13.incipit = "O Martyr, the lances made"
 meMA.Ode6C13.text = "O Martyr, the lances made you an imitator of the Savior; for when you were pierced, you put those senseless men to death with the swords of your endurance, and thus crowned you flew up to Christ."
 
 meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode6C1T.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C1T.incipit = "I am a captive in"
 meMA.Ode6C1T.text = "I am a captive in the darkest night of inappropriate thoughts, and I am continually darkened by the wickedness of the foe. Deliver me from life’s scandals, O all-immaculate Maiden."
 
 meMA.Ode6H.ode = misc_en_US_dedes.Ode6
 meMA.Ode6H.mode = misc_en_US_dedes.Mode4
 meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6H.incipit = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.text
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode7C11.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.notmetered
+meMA.Ode7C11.incipit = "O wise Martyr, God made"
 meMA.Ode7C11.text = "O wise Martyr, God made you famously rich with the grace of cures and wonders. And so you heal those who shout: Blessed are You, O Lord, in the temple of Your glory!"
 
 meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode7C12.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.notmetered
+meMA.Ode7C12.incipit = "O Martyr worthy of admiration,"
 meMA.Ode7C12.text = "O Martyr worthy of admiration, you disdained the tormenter’s devices which were before you, since all your thoughts were in Heaven, and you shouted, saying: Blessed are You, O Lord, in the temple of Your glory!"
 
 meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode7C13.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.notmetered
+meMA.Ode7C13.incipit = "O glorious Paramonus, the fire"
 meMA.Ode7C13.text = "O glorious Paramonus, the fire of your blood has consumed the kindling of wicked godlessness; and on those in the burning heat of tribulations, you sprinkle the dew of your miracles. "
 
 meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode7C1T.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.notmetered
+meMA.Ode7C1T.incipit = "Rejoice, O Lady immaculate, who"
 meMA.Ode7C1T.text = "Rejoice, O Lady immaculate, who alone gave birth to the joy of all men! Rejoice, O heaven, and Cherubic throne, and all-glorious palace of Him who reigns forever."
 
 meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode8C11.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C11.incipit = "O long-suffering Martyr, you extinguish"
 meMA.Ode8C11.text = "O long-suffering Martyr, you extinguish all demonic visions, the savage waves of the flesh, and the storms of thoughts.  Therefore, we are rich, since you are the unsleeping protector of the faithful, who cry out: O all you works, extol the Lord."
 
 meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode8C12.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C12.incipit = "O blessed Martyr, in the"
 meMA.Ode8C12.text = "O blessed Martyr, in the puddles of your sacred blood, you dyed for yourself a purple robe that will never get old; and you were made brilliantly beautiful, and you dwell in the heavens, and shout: O all you works of the Lord, bless the Lord."
 
 meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode8C13.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C13.incipit = "O wise Martyr, you were"
 meMA.Ode8C13.text = "O wise Martyr, you were a blameless whole-burnt offering on the coals of the sacred contest as a pure victim, and an auspicious sacrifice to Christ, the Setter of the Contest, as you chanted, saying: O all you works of the Lord, bless the Lord."
 
 meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode8C1T.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C1T.incipit = "O Pure Virgin, full of"
 meMA.Ode8C1T.text = "O Pure Virgin, full of the grace of God, the august preaching of the Prophets and the shadows of the Law declared of old that you would be the one to ineffably bear God, to whom we all sing: O all you works of the Lord, bless the Lord."
 
 meMA.Ode8H.ode = misc_en_US_dedes.Ode8
 meMA.Ode8H.mode = misc_en_US_dedes.Mode4
 meMA.Ode8H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8H.incipit = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.incipit
 meMA.Ode8H.text = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.text
 
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C11.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.notmetered
+meMA.Ode9C11.incipit = "Look, the radiant memory of"
 meMA.Ode9C11.text = "Look, the radiant memory of the brilliant Prize-Winner shining bright, illumining the hearts of all the faithful with the divine Spirit.  Let us faithfully call him blest, as we dance for joy."
 
 meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C12.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.notmetered
+meMA.Ode9C12.incipit = "O Martyr of Christ, since"
 meMA.Ode9C12.text = "O Martyr of Christ, since your body lies with the three hundred and seventy invincible Martyrs, and you are numbered with them, join them interceding for our salvation."
 
 meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C13.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.notmetered
+meMA.Ode9C13.incipit = "O crown-bearing Martyrs, you now"
 meMA.Ode9C13.text = "O crown-bearing Martyrs, you now walk in heaven, since you completed the course filled with many diverse pains, you have brilliantly overcome with Christ, who overcame the world."
 
 meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C14.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C14.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.notmetered
+meMA.Ode9C14.incipit = "O Paramonus, you were taken"
 meMA.Ode9C14.text = "O Paramonus, you were taken up from earth, and received the rewards of your contests; and now you pour out rivers of miracles for us who honor you and piously celebrate your memory."
 
 meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C1T.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.notmetered
+meMA.Ode9C1T.incipit = "O all-pure Lady, the eyes"
 meMA.Ode9C1T.text = "O all-pure Lady, the eyes of my soul are black with the blindness of destructive sin; enlighten them, for you are the help and illumination of the faithful, O immaculate Virgin who gave birth to God."
 
 meMA.Ode9H.ode = misc_en_US_dedes.Ode9
 meMA.Ode9H.mode = misc_en_US_dedes.Mode4
 meMA.Ode9H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9H.incipit = he.h.m4_en_US_dedes.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_dedes.LithosAcheirotmitos.text
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
+meLI.Kontakion1.incipit = ""
 meLI.Kontakion1.text = ""
 
 meMegalynarion.text = ""

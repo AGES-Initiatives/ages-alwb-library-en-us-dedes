@@ -18,27 +18,33 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode8
 meVE.Stichera01.melody = he.a.m8_en_US_dedes.OiMartyresSouKyrie.incipit
+meVE.Stichera01.incipit = "Eupsychios the very wise was"
 meVE.Stichera01.text = "Eupsychios the very wise was struck and executed with a broadsword, * and caused that vain and arrogant oppressor * to feel a sense of greatest shame. * Therefore he was numbered with the heavenly * armies, and he felt a sense of greatest joy. * O Savior, we entreat You, grant to us all great mercy, at the request of Your Saint."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode8
 meVE.Stichera02.melody = he.a.m8_en_US_dedes.OiMartyresSouKyrie.incipit
+meVE.Stichera02.incipit = "Eupsychios the glorious became a"
 meVE.Stichera02.text = "Eupsychios the glorious became a pillar of the Church, and tower * of Orthodoxy, sturdy and unshaken, * and a destroyer of the foe. * Like a fountain he pours out to all the sick * cures and healings when they turn to him with faith. * O loving Lord, we pray You, grant to us all great mercy, at the request of Your Saint."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode8
 meVE.Stichera03.melody = he.a.m8_en_US_dedes.OiMartyresSouKyrie.incipit
+meVE.Stichera03.incipit = "O Martyr, like a lily"
 meVE.Stichera03.text = "O Martyr, like a lily you have sweetened every mind with fragrant perfume * of your martyric feats, O brave and wise Saint. * And you reduced the awful stench * of deceptive error, and you brilliantly * shone forth like another sun throughout the world. * And now you intercede that great mercy and salvation be granted unto all."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.OiMartyresSouKyrie.incipit
+meVE.SticTheotokion.incipit = "O pure one, who gave"
 meVE.SticTheotokion.text = "O pure one, who gave birth to God, the Son and Logos, for our salvation, * rescue your servants from ordeals and trials * and all the enemy's assaults; * illumine our senses with the grace of God, * and direct our steps on the saving paths, * O Lady, we entreat you, * that we may glorify you, O Virgin, faithfully."
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.OiMartyresSouKyrie.incipit
+meVE.SticStavrotheotokion.incipit = oc.m8.d4_en_US_dedes.ocVE.AposTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m8.d4_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
 meVE.Apolytikion1.melody = he.a.m3_en_US_dedes.TinOraiotita.incipit
+meVE.Apolytikion1.incipit = ""
 meVE.Apolytikion1.text = ""
 
 meMA.C1.poet = poets_en_US_dedes.Iosif
@@ -47,6 +53,7 @@ meMA.C1.acrostic = ""
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode1C1H.incipit = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_dedes.YgranDiodefsas.text
 
 meMA.C1.title = titles_en_US_dedes.KanonTouMartyros
@@ -55,222 +62,267 @@ meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C11.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
+meMA.Ode1C11.incipit = "O blessed Martyr Eupsychios, with"
 meMA.Ode1C11.text = "O blessed Martyr Eupsychios, with elation I extol your contests, and I entreat you, who have access to the Lord: Rescue my soul from the hold of the sinful passions."
 
 meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C12.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C12.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
+meMA.Ode1C12.incipit = "O blessed Eupsychios, your mind"
 meMA.Ode1C12.text = "O blessed Eupsychios, your mind became beautiful, for it inclined toward God, declined from life's delights, and it ruled over the passions."
 
 meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C13.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C13.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
+meMA.Ode1C13.incipit = "O Eupsychios, with noble deeds"
 meMA.Ode1C13.text = "O Eupsychios, with noble deeds you wove a garment for yourself, and in martyrdom you dyed it red. Handsomely dressed in it, you went up and stood near the Lord."
 
 meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1T.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
+meMA.Ode1C1T.incipit = "O Maiden, the Lord made"
 meMA.Ode1C1T.text = "O Maiden, the Lord made mortals to be heavenly, for when He was born of you in the likeness of the flesh, He renewed our nature, which had grown old."
 
 meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3C1H.incipit = he.h.m8_en_US_dedes.SyEiToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m8_en_US_dedes.SyEiToStereoma.text
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode8
 meMA.Ode3C11.melody = he.h.m8_en_US_dedes.SyEiToStereoma.incipit
+meMA.Ode3C11.incipit = "O Saint, you were sensible,"
 meMA.Ode3C11.text = "O Saint, you were sensible, but senseless men betrayed you to the wicked emperor who senselessly served demons."
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode8
 meMA.Ode3C12.melody = he.h.m8_en_US_dedes.SyEiToStereoma.incipit
+meMA.Ode3C12.incipit = "O triumphant Eupsychios, an Angel"
 meMA.Ode3C12.text = "O triumphant Eupsychios, an Angel appeared to you and encouraged you, during your martyrdom."
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_dedes.Mode8
 meMA.Ode3C13.melody = he.h.m8_en_US_dedes.SyEiToStereoma.incipit
+meMA.Ode3C13.incipit = "Wise Martyr Eupsychios, you had"
 meMA.Ode3C13.text = "Wise Martyr Eupsychios, you had a bold spirit throughout your martyrdom. You were truly filled with all joy, and you sang to the Lord."
 
 meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_dedes.Mode8
 meMA.Ode3C1T.melody = he.h.m8_en_US_dedes.SyEiToStereoma.incipit
+meMA.Ode3C1T.incipit = "O venerable Maiden, the chorus"
 meMA.Ode3C1T.text = "O venerable Maiden, the chorus  of martyr athletes were victorious by your guidance. They sing to you a hymn of thanksgiving. "
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode1
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.incipit
+meMA.Ode3Kathisma1.incipit = "With greatness of your soul,"
 meMA.Ode3Kathisma1.text = "With greatness of your soul, you completed the good fight, * and roundly you defeated the warring opponent. * From God you received the grace to do miracles as your prize. * The entire Church of faithful Christians extols you, * and in unison today we all call you blessed, * O Martyr Eupsychios."
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.incipit
+meMA.Ode3KathismaT.incipit = "Humanity, rejoice with the Lord's"
 meMA.Ode3KathismaT.text = "Humanity, rejoice with the Lord's holy Mother; * and sing in praise of her, all you hosts of the heavens. * And all you who rule on earth, glorify the immaculate Maid. * Come, all you who love the Church's all-sacred feast-days, * let us say, \"Rejoice!\" to the august Theotokos, * and faithfully celebrate."
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.incipit
+meMA.Ode3KathismaSt.incipit = oc.m1.d4_en_US_dedes.ocMA.Kathisma23.incipit
 meMA.Ode3KathismaSt.text = oc.m1.d4_en_US_dedes.ocMA.Kathisma23.text
 
 meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode4C1H.incipit = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_US_dedes.EisakikoaKyrie.text
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_dedes.Mode8
 meMA.Ode4C11.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
+meMA.Ode4C11.incipit = "O Martyr Eupsychios, joyfully you"
 meMA.Ode4C11.text = "O Martyr Eupsychios, joyfully you distributed your possessions to the poor, exchanging them for the secure riches of martyrdom and the joy that never grows old."
 
 meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C12.mode = misc_en_US_dedes.Mode8
 meMA.Ode4C12.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
+meMA.Ode4C12.incipit = "O Saint, enlightened by grace,"
 meMA.Ode4C12.text = "O Saint, enlightened by grace, you censured the darkness of the ungodly who attempted to force you to submit to superstitious error."
 
 meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C13.mode = misc_en_US_dedes.Mode8
 meMA.Ode4C13.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
+meMA.Ode4C13.incipit = "O Martyr, nothing was able"
 meMA.Ode4C13.text = "O Martyr, nothing was able to separate you from the love of your Creator, not hunger, nor death, nor the enjoyment of present delights."
 
 meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C1T.mode = misc_en_US_dedes.Mode8
 meMA.Ode4C1T.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
+meMA.Ode4C1T.incipit = "O Virgin, you are above"
 meMA.Ode4C1T.text = "O Virgin, you are above the heavenly hosts. Therefore, I pray you set my mind above carnal passions."
 
 meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode5C1H.incipit = he.h.m8_en_US_dedes.FotisonImas.incipit
 meMA.Ode5C1H.text = he.h.m8_en_US_dedes.FotisonImas.text
 
 meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C11.mode = misc_en_US_dedes.Mode8
 meMA.Ode5C11.melody = he.h.m8_en_US_dedes.FotisonImas.incipit
+meMA.Ode5C11.incipit = "O Martyr Eupsychios, you endured"
 meMA.Ode5C11.text = "O Martyr Eupsychios, you endured the bodily tortures with great fortitude, splayed in imitation of the Lord of all creation."
 
 meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C12.mode = misc_en_US_dedes.Mode8
 meMA.Ode5C12.melody = he.h.m8_en_US_dedes.FotisonImas.incipit
+meMA.Ode5C12.incipit = "O Martyr, as your body"
 meMA.Ode5C12.text = "O Martyr, as your body was scraped and your skin was flayed, with the endurance of a most valorous mind, you sang hymns to Christ. "
 
 meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C13.mode = misc_en_US_dedes.Mode8
 meMA.Ode5C13.melody = he.h.m8_en_US_dedes.FotisonImas.incipit
+meMA.Ode5C13.incipit = "O Martyr, with the wisdom"
 meMA.Ode5C13.text = "O Martyr, with the wisdom of your words, you made fools out of those  who spoke eloquently in deception, and you dispelled the mist of falsehood with truth."
 
 meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C1T.mode = misc_en_US_dedes.Mode8
 meMA.Ode5C1T.melody = he.h.m8_en_US_dedes.FotisonImas.incipit
+meMA.Ode5C1T.incipit = "O Lady, never cease interceding"
 meMA.Ode5C1T.text = "O Lady, never cease interceding for all who hope in you, that you will deliver us from future condemnation."
 
 meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6C1H.incipit = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
 meMA.Ode6C1H.text = he.h.m8_en_US_dedes.TinDeisinEkcheo.text
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode8
 meMA.Ode6C11.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
+meMA.Ode6C11.incipit = "O blessed Eupsychios, the waves"
 meMA.Ode6C11.text = "O blessed Eupsychios, the waves of torture tossed you, but could not sink you; for Christ God guided you to the calm haven of His Kingdom, as your Pilot and Defender."
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode8
 meMA.Ode6C12.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
+meMA.Ode6C12.incipit = "O Martyr, you showed your"
 meMA.Ode6C12.text = "O Martyr, you showed your opponents the maturity of your soul, and you appeared fearsome to them, frustrating their wickedness by your patience. And for your contests, you have received the medals of victory from Christ."
 
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_dedes.Mode8
 meMA.Ode6C13.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
+meMA.Ode6C13.incipit = "O glorious Martyr, the tyrant"
 meMA.Ode6C13.text = "O glorious Martyr, the tyrant cunningly attempted to undermine you, by undoing your resolve with gifts and various tortures, thinking to steal you soul's treasure. But you mightily endured and were the winner."
 
 meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1T.mode = misc_en_US_dedes.Mode8
 meMA.Ode6C1T.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
+meMA.Ode6C1T.incipit = "O Mother of the Savior"
 meMA.Ode6C1T.text = "O Mother of the Savior and Lord of all,  I have opened the door to the passions, and I have fallen down. I pray you stand me up again, lead me to the entrances of repentance, and save me, by your good mediation."
 
 meMA.Kontakion1.poet = poets_en_US_dedes.Gerasimou
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode2
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.ToisTonAimatonSou.incipit
+meMA.Kontakion1.incipit = ""
 meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode7C1H.incipit = he.h.m8_en_US_dedes.PaidesEvraion.incipit
 meMA.Ode7C1H.text = he.h.m8_en_US_dedes.PaidesEvraion.text
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
 meMA.Ode7C11.melody = he.h.m8_en_US_dedes.PaidesEvraion.incipit
+meMA.Ode7C11.incipit = "O thrice-blessed Athlete of Christ,"
 meMA.Ode7C11.text = "O thrice-blessed Athlete of Christ, you gave no thought to physical suffering. Through grace, you greatly triumphed. Now you have joined the chorus of the Godlike bodiless hosts and the ranks of the Martyrs. "
 
 meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C12.mode = misc_en_US_dedes.Mode8
 meMA.Ode7C12.melody = he.h.m8_en_US_dedes.PaidesEvraion.incipit
+meMA.Ode7C12.incipit = "O wise Eupsychios, you made"
 meMA.Ode7C12.text = "O wise Eupsychios, you made a good transaction. You traded a handful of blood for the kingdom on high, where you now sing: \"O Lord our God, blessed are You unto the ages.\""
 
 meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C13.mode = misc_en_US_dedes.Mode8
 meMA.Ode7C13.melody = he.h.m8_en_US_dedes.PaidesEvraion.incipit
+meMA.Ode7C13.incipit = "O thrice-blessed Martyr, when you"
 meMA.Ode7C13.text = "O thrice-blessed Martyr, when you were beheaded with the sword, Heaven's gates opened to you, and as you ascended, choirs of Angels met you and sang: \"O Lord our God, blessed are You unto the ages.\""
 
 meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1T.mode = misc_en_US_dedes.Mode8
 meMA.Ode7C1T.melody = he.h.m8_en_US_dedes.PaidesEvraion.incipit
+meMA.Ode7C1T.incipit = "O Virgin, the Prophet Daniel"
 meMA.Ode7C1T.text = "O Virgin, the Prophet Daniel was inspired by God when he called you a mountain, from which a stone was cut without hands, and which smashed the idols of deception. And that stone was Christ."
 
 meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8C1H.incipit = he.h.m8_en_US_dedes.NikitaiTyrannou.incipit
 meMA.Ode8C1H.text = he.h.m8_en_US_dedes.NikitaiTyrannou.text
 
 meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C11.mode = misc_en_US_dedes.Mode8
 meMA.Ode8C11.melody = he.h.m8_en_US_dedes.NikitaiTyrannou.incipit
+meMA.Ode8C11.incipit = "O glorious Eupsychios, you were"
 meMA.Ode8C11.text = "O glorious Eupsychios, you were victorious over tyrants and unclean spirits. Now you illumine the hearts of believers. Therefore we gratefully extol you, and we all bless Christ unto the ages."
 
 meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C12.mode = misc_en_US_dedes.Mode8
 meMA.Ode8C12.melody = he.h.m8_en_US_dedes.NikitaiTyrannou.incipit
+meMA.Ode8C12.incipit = "O godly-minded Martyr, your miracles"
 meMA.Ode8C12.text = "O godly-minded Martyr, your miracles flow like a river, and by grace they cure the ailments diseases of soul and body. Therefore we believers glorify your memory, and we extol Christ unto the ages."
 
 meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C13.mode = misc_en_US_dedes.Mode8
 meMA.Ode8C13.melody = he.h.m8_en_US_dedes.NikitaiTyrannou.incipit
+meMA.Ode8C13.incipit = "O Martyr, with valor you"
 meMA.Ode8C13.text = "O Martyr, with valor you endured the race of your contests, and you received the crowns of victory. You were wholly unyielding and unshakeable, even as you were scraped to your bones and internal organs."
 
 meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1T.mode = misc_en_US_dedes.Mode8
 meMA.Ode8C1T.melody = he.h.m8_en_US_dedes.NikitaiTyrannou.incipit
+meMA.Ode8C1T.incipit = "O Virgin, as the Mother"
 meMA.Ode8C1T.text = "O Virgin, as the Mother of the most sympathetic Logos, you are sympathetic. Take pity on me, though I am not sympathetic, but rather pathetic, and guilty of countless transgressions, for which I have not repented, but rather have wasted my life in indifference."
 
 meMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9C1H.incipit = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
 meMA.Ode9C1H.text = he.h.m8_en_US_dedes.KyriosTheotokon.text
 
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_dedes.Mode8
 meMA.Ode9C11.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
+meMA.Ode9C11.incipit = "O Martyr Eupsychios, you were"
 meMA.Ode9C11.text = "O Martyr Eupsychios, you were hanged on a scaffold, depicting the Passion of the passionless Lord, who in His compassion alleviates the passions of the faithful."
 
 meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C12.mode = misc_en_US_dedes.Mode8
 meMA.Ode9C12.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
+meMA.Ode9C12.incipit = "O Martyr, a great miracle"
 meMA.Ode9C12.text = "O Martyr, a great miracle occurred when you died. Instead of blood, milk and water flowed, when your head was cut off."
 
 meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C13.mode = misc_en_US_dedes.Mode8
 meMA.Ode9C13.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
+meMA.Ode9C13.incipit = "O blessed Martyr, you have"
 meMA.Ode9C13.text = "O blessed Martyr, you have now joined the heavenly armies. You wear your crown, and you celebrate with the orders of Martyrs. We pray that you will protect us."
 
 meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C14.mode = misc_en_US_dedes.Mode8
 meMA.Ode9C14.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
+meMA.Ode9C14.incipit = "O Martyr Eupsychios, remember us"
 meMA.Ode9C14.text = "O Martyr Eupsychios, remember us in your intercessions with God, as we remember you and keep your sacred feast."
 
 meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1T.mode = misc_en_US_dedes.Mode8
 meMA.Ode9C1T.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
+meMA.Ode9C1T.incipit = "O Virgin, I am in"
 meMA.Ode9C1T.text = "O Virgin, I am in a night of sin, darkened and surrounded by the mist of indifference. I implore you, shine the light of repentance on me."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key

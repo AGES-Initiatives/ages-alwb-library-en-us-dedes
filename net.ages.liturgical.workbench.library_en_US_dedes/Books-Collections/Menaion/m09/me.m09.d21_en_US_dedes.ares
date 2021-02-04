@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = me.m09.d21_en_US_dedes 
+A_Resource_Whose_Name = me.m09.d21_en_US_dedes
 
 meDate.text = "September 21"
 meCommemoration.text = "Leave-taking of the Feast of the Elevation of the Holy Cross." //full title of day
@@ -18,7 +18,9 @@ meHO.note2 = ""
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
+meLI.Kontakion1.incipit = ""
 meLI.Kontakion1.text = ""
 
 meLI.TheotokosHymn.mode = me.m09.d14_en_US_dedes.meMA.Ode9C2H.mode
+meLI.TheotokosHymn.incipit = me.m09.d14_en_US_dedes.meMA.Ode9C2H.incipit
 meLI.TheotokosHymn.text = me.m09.d14_en_US_dedes.meMA.Ode9C2H.text

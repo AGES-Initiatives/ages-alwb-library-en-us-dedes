@@ -18,27 +18,33 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode8
 meVE.Stichera01.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
+meVE.Stichera01.incipit = "Holy father John, as one"
 meVE.Stichera01.text = "Holy father John, as one devout, * the exaltations of God * were at all times the property * of your throat in very truth, * as you studied and practiced well * the God-inspired sayings, as one all wise. * You were enriched in your soul by the divine * grace welling up from them. * And becoming blessed you fully destroyed * the malicious purposes * of all impious men."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode8
 meVE.Stichera02.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
+meVE.Stichera02.incipit = "Holy father John, most glorious,"
 meVE.Stichera02.text = "Holy father John, most glorious, * you shed a well-spring of tears, * and your soul thus was purified; * you propitiated God * by your standing in prayer all night. * Thus given wings, you ascended to His love * and to His beauty, all blessed as you are; * which now you worthily * are enjoying endlessly as you rejoice * with your fellow athlete-monks, * O godly-minded Saint."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode8
 meVE.Stichera03.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
+meVE.Stichera03.incipit = "Holy father John, as one"
 meVE.Stichera03.text = "Holy father John, as one devout, * when you had lifted your mind * unto God on the wings of faith * you despised the turbulence * of the world and its transience. * And on your shoulders you took up your own Cross * and followed after the Lord who sees all things. * Then the unruly flesh * you subordinated to your pious thought, * through ascetic exercise, * by the divine Spirit's might."
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
+meVE.SticTheotokion.incipit = me.m03.d12_en_US_dedes.meVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = me.m03.d12_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
+meVE.SticStavrotheotokion.incipit = me.m03.d12_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m03.d12_en_US_dedes.meVE.SticStavrotheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
 meVE.Apolytikion1.melody = he.a.m3_en_US_dedes.TheiasPisteos.incipit
+meVE.Apolytikion1.incipit = ""
 meVE.Apolytikion1.text = ""
 
 meMA.C1.acrostic = ""
@@ -46,6 +52,7 @@ meMA.C1.acrostic = ""
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode1C1H.incipit = he.h.m1_en_US_dedes.OdinEpinikion.incipit
 meMA.Ode1C1H.text = he.h.m1_en_US_dedes.OdinEpinikion.text
 
 meMA.C1.title = titles_en_US_dedes.KanonTouOsiou
@@ -54,227 +61,273 @@ meMA.C1.verse = prayers_en_US_dedes.verse_DevoutMan.text
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C11.melody = he.h.m1_en_US_dedes.OdinEpinikion.notmetered
+meMA.Ode1C11.incipit = "O most wise John, you"
 meMA.Ode1C11.text = "O most wise John, you rightly abhorred the world below, and thus you received the world on high. You teach us that by fleeing from the world, we draw close to God."
 
 meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C12.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C12.melody = he.h.m1_en_US_dedes.OdinEpinikion.notmetered
+meMA.Ode1C12.incipit = "O blessed Saint, and were"
 meMA.Ode1C12.text = "O blessed Saint, and were crowned by Christ God with the awards of dispassion, for you chased away sickness, by your attachment to hunger, and bound the prince of the passions with the chains of your ascetic struggles."
 
 meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C13.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C13.melody = he.h.m1_en_US_dedes.OdinEpinikion.notmetered
+meMA.Ode1C13.incipit = "O godly-minded and all-blessed John,"
 meMA.Ode1C13.text = "O godly-minded and all-blessed John, you now dwell in the immaterial mansions, for you adopted a frame of mind in every way angelic, and you did cut your yourself off from this earthly and corrupt world. "
 
 meMA.Ode1C14.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C14.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C14.melody = he.h.m1_en_US_dedes.OdinEpinikion.notmetered
+meMA.Ode1C14.incipit = "O blessed and all-wise John,"
 meMA.Ode1C14.text = "O blessed and all-wise John,  in order to lead them up by your teachings from the earth to the blessed life, you authored your long treatise for those who would listen."
 
 meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1T.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C1T.melody = he.h.m1_en_US_dedes.OdinEpinikion.notmetered
+meMA.Ode1C1T.incipit = "O Virgin Bride of God,"
 meMA.Ode1C1T.text = "O Virgin Bride of God, the Church proclaims your Child,  an Orthodox mouth and divine doctrines, and it honors the symbols of your Son's flesh."
 
 meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1H.mode = misc_en_US_dedes.Mode1
 meMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3C1H.incipit = he.h.m1_en_US_dedes.LithonOnApedokimasan.incipit
 meMA.Ode3C1H.text = he.h.m1_en_US_dedes.LithonOnApedokimasan.text
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode1
 meMA.Ode3C11.melody = he.h.m1_en_US_dedes.LithonOnApedokimasan.notmetered
+meMA.Ode3C11.incipit = "O godly John, you removed"
 meMA.Ode3C11.text = "O godly John, you removed the foul smell of wrath from deep within your soul, you experienced freedom from anger to be like redolent incense. Therefore, pray the Redeemer now to forgive us our sins."
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode1
 meMA.Ode3C12.melody = he.h.m1_en_US_dedes.LithonOnApedokimasan.notmetered
+meMA.Ode3C12.incipit = "O blessed Father, burning up"
 meMA.Ode3C12.text = "O blessed Father, burning up all thought of rancor with the fire of Christ's love, you faithfully shone with the rays of love for your brother; and by describing what it is not to have resentment, you indicated to all an easy path to salvation."
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_dedes.Mode1
 meMA.Ode3C13.melody = he.h.m1_en_US_dedes.LithonOnApedokimasan.notmetered
+meMA.Ode3C13.incipit = "You received the grace of"
 meMA.Ode3C13.text = "You received the grace of ascetic practice from on high. You stop slanderous lips by your wise teachings, by which you guide us on the path of virtue. May we be attain such virtue."
 
 meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_dedes.Mode1
 meMA.Ode3C1T.melody = he.h.m1_en_US_dedes.LithonOnApedokimasan.notmetered
+meMA.Ode3C1T.incipit = "O pure one, the Prophet"
 meMA.Ode3C1T.text = "O pure one, the Prophet of old knew that you would give birth in time to the Timeless One, Christ our God, One of the Trinity, in virginity and beyond mind and speech. Pray that He be merciful to us who extol you."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
+meMA.Ode3Kathisma1.incipit = "You set the virtues like"
 meMA.Ode3Kathisma1.text = "You set the virtues like a ladder to heaven, * and you ascended it devoutly and wisely, * attaining contemplation's unfathomable depth. * By your writings you exposed every scheme of the demons, * and from harm did you preserve all the faithful who read you. * O veritable ladder of the virtues, devout John, * pray to the Savior to save all who honor you."
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
+meMA.Ode3KathismaT.incipit = ho.s23_en_US_dedes.hoCA.Apolytikion2.incipit
 meMA.Ode3KathismaT.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.notmetered
+meMA.Ode3KathismaSt.incipit = ""
 meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C1H.mode = misc_en_US_dedes.Mode1
 meMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode4C1H.incipit = he.h.m1_en_US_dedes.EnPnevmatiProvlepon.incipit
 meMA.Ode4C1H.text = he.h.m1_en_US_dedes.EnPnevmatiProvlepon.text
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_dedes.Mode1
 meMA.Ode4C11.melody = he.h.m1_en_US_dedes.EnPnevmatiProvlepon.notmetered
+meMA.Ode4C11.incipit = "O wise John, by fasting"
 meMA.Ode4C11.text = "O wise John, by fasting you bridled the violence of the tongue, and so you led your life in silence. Once you tasted the grace of the Most High as though it were the fragrance of fire, you avoided garrulousness like the gloom of sin, and you worshiped God blamelessly."
 
 meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C12.mode = misc_en_US_dedes.Mode1
 meMA.Ode4C12.melody = he.h.m1_en_US_dedes.EnPnevmatiProvlepon.notmetered
+meMA.Ode4C12.incipit = "O divinely speaking John, you"
 meMA.Ode4C12.text = "O divinely speaking John, you sweetened your soul with truth, and you fled from the bitter taste of falsehood. Therefore, bringing those things that serve the demons into servitude to godly asceticism, you became an unerring guide of monastics."
 
 meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C13.mode = misc_en_US_dedes.Mode1
 meMA.Ode4C13.melody = he.h.m1_en_US_dedes.EnPnevmatiProvlepon.notmetered
+meMA.Ode4C13.incipit = "O wise Father, you were"
 meMA.Ode4C13.text = "O wise Father, you were hardened by the rigor of ascetic discipline. You mightily destroyed the paralysis of apathy, and slew the power of depression with the spear of eagerness. Now you intercede with God to grant us all forgiveness of sins."
 
 meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C1T.mode = misc_en_US_dedes.Mode1
 meMA.Ode4C1T.melody = he.h.m1_en_US_dedes.EnPnevmatiProvlepon.notmetered
+meMA.Ode4C1T.incipit = "O pure and all-extolled Virgin,"
 meMA.Ode4C1T.text = "O pure and all-extolled Virgin, blessed is the nation that honors your childbirth faithfully, and that makes manifest the Incarnation of your Son in Orthodoxy, in doctrines, in deeds, and in symbols of the truth."
 
 meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C1H.mode = misc_en_US_dedes.Mode1
 meMA.Ode5C1H.melody = misc_en_US_dedes.HeirmosNotMetered
+meMA.Ode5C1H.incipit = he.h.m1_en_US_dedes.NyxPeriescheMeSotir.incipit
 meMA.Ode5C1H.text = he.h.m1_en_US_dedes.NyxPeriescheMeSotir.text
 
 meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C11.mode = misc_en_US_dedes.Mode1
 meMA.Ode5C11.melody = he.h.m1_en_US_dedes.NyxPeriescheMeSotir.notmetered
+meMA.Ode5C11.incipit = "You did not partake of"
 meMA.Ode5C11.text = "You did not partake of pleasurable foods, but you fattend your mind with the delicacies of abstinence. With hunger you strangled the passions and shamed the demons. For, as you said, he who afflicts the stomach slays the pleasures."
 
 meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C12.mode = misc_en_US_dedes.Mode1
 meMA.Ode5C12.melody = he.h.m1_en_US_dedes.NyxPeriescheMeSotir.notmetered
+meMA.Ode5C12.incipit = "O Saint, you were a"
 meMA.Ode5C12.text = "O Saint, you were a lover of chastity and a hater of lust. You escaped the moonless night of the passions, by the light of truthful confession. For he who would cleanse body and mind must triumph over the hidden things of darkness, as you said."
 
 meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C13.mode = misc_en_US_dedes.Mode1
 meMA.Ode5C13.melody = he.h.m1_en_US_dedes.NyxPeriescheMeSotir.notmetered
+meMA.Ode5C13.incipit = "You truly became a lover"
 meMA.Ode5C13.text = "You truly became a lover of God and not a lover of money. You served  the Trinity in mind, soul, and body. You who in mercy were a lover of the poor, even in scarcity of necessities, utterly rejected the worship of idols. "
 
 meMA.Ode5C14.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C14.mode = misc_en_US_dedes.Mode1
 meMA.Ode5C14.melody = he.h.m1_en_US_dedes.NyxPeriescheMeSotir.notmetered
+meMA.Ode5C14.incipit = "O Father, while on the"
 meMA.Ode5C14.text = "O Father, while on the earth, you devoutly threw off the burden of matter. You soared up to things immaterial with the wings of your freedom from possessions. Therefore, as you stand immaterially and faithfully near Christ with the bodiless hosts, pray Him to forgive our souls."
 
 meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C1T.mode = misc_en_US_dedes.Mode1
 meMA.Ode5C1T.melody = he.h.m1_en_US_dedes.NyxPeriescheMeSotir.notmetered
+meMA.Ode5C1T.incipit = "O Ever-virgin, they who will"
 meMA.Ode5C1T.text = "O Ever-virgin, they who will not venerate the icons of you and of your Son are our enemies and are accursed, since they refuse to obey the ancient divine doctrines of the Fathers."
 
 meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1H.mode = misc_en_US_dedes.Mode1
 meMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6C1H.incipit = he.h.m1_en_US_dedes.TonProfitinIonan.incipit
 meMA.Ode6C1H.text = he.h.m1_en_US_dedes.TonProfitinIonan.text
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode1
 meMA.Ode6C11.melody = he.h.m1_en_US_dedes.TonProfitinIonan.notmetered
+meMA.Ode6C11.incipit = "O Father John, you drove"
 meMA.Ode6C11.text = "O Father John, you drove from your soul the insensibility of the passions, with the force of chaste sobriety and your efforts in prayer; and proved to be wholly sober. "
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode1
 meMA.Ode6C12.melody = he.h.m1_en_US_dedes.TonProfitinIonan.notmetered
+meMA.Ode6C12.incipit = " O God-inspired Saint, in"
 meMA.Ode6C12.text = " O God-inspired Saint, in vigilant prayer you manfully subdued the sleep-loving foe, and you became a vigilant shepherd of Christ's flock and a luminary of teachers."
 
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_dedes.Mode1
 meMA.Ode6C13.melody = he.h.m1_en_US_dedes.TonProfitinIonan.notmetered
+meMA.Ode6C13.incipit = "O Saint, you foresaw the"
 meMA.Ode6C13.text = "O Saint, you foresaw the divine beauty of blessed delight, for you piously cleanse the eye of your mind and tirelessly served Christ at all times."
 
 meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1T.mode = misc_en_US_dedes.Mode1
 meMA.Ode6C1T.melody = he.h.m1_en_US_dedes.TonProfitinIonan.notmetered
+meMA.Ode6C1T.incipit = "O Virgin, the unlawful are"
 meMA.Ode6C1T.text = "O Virgin, the unlawful are nauseated now in the tossing sea of bitter unbelief, as they see the hosts of the Orthodox devoutly venerating your holy icon."
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1H.mode = misc_en_US_dedes.Mode1
 meMA.Ode7C1H.melody = misc_en_US_dedes.HeirmosNotMetered
+meMA.Ode7C1H.incipit = he.h.m1_en_US_dedes.TousEnKaminoPaidas.incipit
 meMA.Ode7C1H.text = he.h.m1_en_US_dedes.TousEnKaminoPaidas.text
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
 meMA.Ode7C11.melody = he.h.m1_en_US_dedes.TousEnKaminoPaidas.notmetered
+meMA.Ode7C11.incipit = "You were stern and ferocious"
 meMA.Ode7C11.text = "You were stern and ferocious to all the unclean spirits. You struck down the impudence of childish cowardice with the sword of manly courage. Blessed is God, who made you wondrous."
 
 meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C12.mode = misc_en_US_dedes.Mode1
 meMA.Ode7C12.melody = he.h.m1_en_US_dedes.TousEnKaminoPaidas.notmetered
+meMA.Ode7C12.incipit = "O St. John, you were"
 meMA.Ode7C12.text = "O St. John, you were obedient to the divine law of Christ. Like your namesake, you trampled vainglory underfoot, and you offered the labor of constant ascetic practice to God alone. He is in secret, and in return gives rewards openly."
 
 meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C13.mode = misc_en_US_dedes.Mode1
 meMA.Ode7C13.melody = he.h.m1_en_US_dedes.TousEnKaminoPaidas.notmetered
+meMA.Ode7C13.incipit = "You waged war against the"
 meMA.Ode7C13.text = "You waged war against the invisible hosts of the sinful passions, and you became a victor, for you were humble in mind and hear. Thus did you mortally wound the high-minded and boastful foe."
 
 meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1T.mode = misc_en_US_dedes.Mode1
 meMA.Ode7C1T.melody = he.h.m1_en_US_dedes.TousEnKaminoPaidas.notmetered
+meMA.Ode7C1T.incipit = "O Christ, I worship the"
 meMA.Ode7C1T.text = "O Christ, I worship the union and the likeness Your incarnation in a godly manner. Thus I honor Your incarnation: that, being God pre-eternally, You, without confusion, perfect in both Your divinity and Your humanity, became a mortal from a Virgin."
 
 meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1H.mode = misc_en_US_dedes.Mode1
 meMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8C1H.incipit = he.h.m1_en_US_dedes.OnFrittousinAngeloi.incipit
 meMA.Ode8C1H.text = he.h.m1_en_US_dedes.OnFrittousinAngeloi.text
 
 meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C11.mode = misc_en_US_dedes.Mode1
 meMA.Ode8C11.melody = he.h.m1_en_US_dedes.OnFrittousinAngeloi.notmetered
+meMA.Ode8C11.incipit = "O godly-minded John, you did"
 meMA.Ode8C11.text = "O godly-minded John, you did rid yourself of hypocrisy, by your unaffected manners, and you fled from it in all integrity, because it was not useful. You indeed dwell in the land of the meek and gentle, since you lived as one meek and gentle. "
 
 meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C12.mode = misc_en_US_dedes.Mode1
 meMA.Ode8C12.melody = he.h.m1_en_US_dedes.OnFrittousinAngeloi.notmetered
+meMA.Ode8C12.incipit = "As a wise architect, you"
 meMA.Ode8C12.text = "As a wise architect, you set divine humility as the foundation for divine ascent. You described it for us as the mother and guardian of all virtue. "
 
 meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C13.mode = misc_en_US_dedes.Mode1
 meMA.Ode8C13.melody = he.h.m1_en_US_dedes.OnFrittousinAngeloi.notmetered
+meMA.Ode8C13.incipit = "O St. John, you clearly"
 meMA.Ode8C13.text = "O St. John, you clearly partook of the Spirit's grace. You have filled all people with divine illumination, by teaching us in deeds and instructing us in words, concerning perfect discernment."
 
 meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1T.mode = misc_en_US_dedes.Mode1
 meMA.Ode8C1T.melody = he.h.m1_en_US_dedes.OnFrittousinAngeloi.notmetered
+meMA.Ode8C1T.incipit = "O blind heretics, stop speaking"
 meMA.Ode8C1T.text = "O blind heretics, stop speaking lies. I depict not the divinity; for that is simple, invisible, without form; but recording the form of His flesh, I venerate it, and with faith I glorify the Virgin who gave birth to Him."
 
 meMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1H.mode = misc_en_US_dedes.Mode1
 meMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9C1H.incipit = he.h.m1_en_US_dedes.TinZoodochonPigin.incipit
 meMA.Ode9C1H.text = he.h.m1_en_US_dedes.TinZoodochonPigin.text
 
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_dedes.Mode1
 meMA.Ode9C11.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.notmetered
+meMA.Ode9C11.incipit = "O St. John, on an"
 meMA.Ode9C11.text = "O St. John, on an immaterial mind you flew up to immaterial things, and you reached a depth of visions. Through fervent prayer, you obtained the grace of the Holy Spirit, and you were granted to foresee revelations of things to come."
 
 meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C12.mode = misc_en_US_dedes.Mode1
 meMA.Ode9C12.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.notmetered
+meMA.Ode9C12.incipit = "O most righteous Father, most"
 meMA.Ode9C12.text = "O most righteous Father, most wise and godly-minded John, you did consume the material mind with the flame of prayer; you became wholly fire. Therefore, you were changed with the good change, when you were piously outside yourself in divine visions.  "
 
 meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C13.mode = misc_en_US_dedes.Mode1
 meMA.Ode9C13.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.notmetered
+meMA.Ode9C13.incipit = "O righteous Father, you mortified"
 meMA.Ode9C13.text = "O righteous Father, you mortified the sinful passions by your ascetic practice, and you swiftly ascended to the perfection of dispassion. We pray you now, supplicate God for world peace and for the salvation of us who honor you."
 
 meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C14.mode = misc_en_US_dedes.Mode1
 meMA.Ode9C14.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.notmetered
+meMA.Ode9C14.incipit = "O our Father, by faith"
 meMA.Ode9C14.text = "O our Father, by faith you received strength, and by love you were given wings. You ran to the ladder of virtues, wherein is the fulness of all things desired; and you powerfully climbed it for the love of Christ. "
 
 meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1T.mode = misc_en_US_dedes.Mode1
 meMA.Ode9C1T.melody = he.h.m1_en_US_dedes.TinZoodochonPigin.notmetered
+meMA.Ode9C1T.incipit = "O pure Virgin, we are"
 meMA.Ode9C1T.text = "O pure Virgin, we are rightly filled with Orthodox belief, for we venerate the marvel of your childbirth as portrayed in icons, and we reverence the deed and we honor the image, confessing the truth in both."
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
+meLI.Kontakion1.incipit = ""
 meLI.Kontakion1.text = ""
 
 meMegalynarion.text = ""

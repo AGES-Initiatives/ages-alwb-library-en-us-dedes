@@ -15,84 +15,105 @@ peDismissal = dismissals_en_US_dedes.dis00.resurrection
 
 peVE.Stichera01.mode = misc_en_US_dedes.Mode5
 peVE.Stichera01.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.incipit
+peVE.Stichera01.incipit = "Savior, nailed to the Cross,"
 peVE.Stichera01.text = "Savior, nailed to the Cross, you erased * the curse incurred at the tree through another tree. * You died and were truly buried, and by your power as God * resurrected those who from all time had died. * We sing out and glorify Your dominion with sacred hymns. * You are the brightness of the Father, our very life, * O almighty Jesus, our Pascha and Passover. * Therefore the heavens now exult together with us on earth, * singing the hymns of Your triumph, triumphant Logos and Word of God, * O Christ, and the Ruler * over all, who is bestowing great mercy on the world."
 
 peVE.Stichera02.mode = misc_en_US_dedes.Mode5
 peVE.Stichera02.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.incipit
+peVE.Stichera02.incipit = "\"Say now, has Life gone"
 peVE.Stichera02.text = "\"Say now, has Life gone down to the dead? * Is He, the never-setting Sun, still beneath the earth, * below in the nether regions?\" So did the Myrrh-bearers speak, * as they mourned and cried out, \"Come and let us go * with haste to His holy tomb, so that we might observe again.\" * And on arriving, they beheld in the sepulcher * a resplendent Angel, and they were very amazed. * He changed their mourning and lament to joy when he said to them, * \"O pious women, the Giver of Life has risen! Be not afraid. * And He reigns forever, as the Lord who is bestowing great mercy on the world.\""
 
 peVE.Stichera03.mode = misc_en_US_dedes.Mode5
 peVE.Stichera03.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.incipit
+peVE.Stichera03.incipit = "Early on Sunday morning, the"
 peVE.Stichera03.text = "Early on Sunday morning, the host * of pious women sought the Sun, who before the sun * existed, and who had now set within the tomb. And they heard * the resplendent Angel say, \"Arisen is * the Light that went down and shined on the dead who in darkness slept. * To the Disciples go announce and proclaim to them. * Put away your grief and replace it with utter joy. * Joyfully celebrate in hearts unwavering that indeed * the world is granted salvation, this joyous Pascha and Passover. * For Christ has arisen, as the Lord who is bestowing great mercy on the world.\""
 
 peVE.SticGlory.mode = misc_en_US_dedes.Mode1
 peVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
+peVE.SticGlory.incipit = pe.d085_en_US_dedes.peVE.Lity1.incipit
 peVE.SticGlory.text = pe.d085_en_US_dedes.peVE.Lity1.text
 
 peVE.Aposticha1.mode = misc_en_US_dedes.Mode2
 peVE.Aposticha1.melody = ""
+peVE.Aposticha1.incipit = oc.m2.d1_en_US_dedes.ocVE.Stichera1.incipit
 peVE.Aposticha1.text = oc.m2.d1_en_US_dedes.ocVE.Stichera1.text
 
 peVE.Aposticha2.mode = misc_en_US_dedes.Mode2
 peVE.Aposticha2.melody = ""
+peVE.Aposticha2.incipit = oc.m2.d2_en_US_dedes.ocVE.Aposticha1.incipit
 peVE.Aposticha2.text = oc.m2.d2_en_US_dedes.ocVE.Aposticha1.text
 
 peVE.Aposticha3.mode = misc_en_US_dedes.Mode2
 peVE.Aposticha3.melody = ""
+peVE.Aposticha3.incipit = oc.m2.d2_en_US_dedes.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m2.d2_en_US_dedes.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = misc_en_US_dedes.Mode1
 peVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
+peVE.AposGlory.incipit = pe.d085_en_US_dedes.peVE.Lity2.incipit
 peVE.AposGlory.text = pe.d085_en_US_dedes.peVE.Lity2.text
 
 peMA.Kathisma11.mode = misc_en_US_dedes.Mode2
 peMA.Kathisma11.melody = ""
+peMA.Kathisma11.incipit = oc.m2.d1_en_US_dedes.ocMA.Kathisma21.incipit
 peMA.Kathisma11.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma21.text
 
 peMA.Kathisma12.mode = misc_en_US_dedes.Mode2
 peMA.Kathisma12.melody = ""
+peMA.Kathisma12.incipit = oc.m2.d2_en_US_dedes.ocMA.Kathisma11.incipit
 peMA.Kathisma12.text = oc.m2.d2_en_US_dedes.ocMA.Kathisma11.text
 
 peMA.Kathisma13.mode = misc_en_US_dedes.Mode2
 peMA.Kathisma13.melody = ""
+peMA.Kathisma13.incipit = oc.m2.d2_en_US_dedes.ocMA.Kathisma32.incipit
 peMA.Kathisma13.text = oc.m2.d2_en_US_dedes.ocMA.Kathisma32.text
 
 peMA.Kathisma1T.mode = misc_en_US_dedes.Mode2
 peMA.Kathisma1T.melody = ""
+peMA.Kathisma1T.incipit = oc.m2.d2_en_US_dedes.ocMA.Kathisma13.incipit
 peMA.Kathisma1T.text = oc.m2.d2_en_US_dedes.ocMA.Kathisma13.text
 
 peMA.Kathisma21.mode = misc_en_US_dedes.Mode2
 peMA.Kathisma21.melody = pe.d085_en_US_dedes.peMA.Ode3Kathisma1.melody
+peMA.Kathisma21.incipit = pe.d085_en_US_dedes.peMA.Ode3Kathisma1.incipit
 peMA.Kathisma21.text = pe.d085_en_US_dedes.peMA.Ode3Kathisma1.text
 
 peMA.Lauds1.mode = misc_en_US_dedes.Mode2
 peMA.Lauds1.melody = ""
+peMA.Lauds1.incipit = oc.m2.d1_en_US_dedes.ocMA.Lauds1.incipit
 peMA.Lauds1.text = oc.m2.d1_en_US_dedes.ocMA.Lauds1.text
 
 peMA.Lauds2.mode = misc_en_US_dedes.Mode2
 peMA.Lauds2.melody = ""
+peMA.Lauds2.incipit = oc.m2.d2_en_US_dedes.ocMA.Aposticha1.incipit
 peMA.Lauds2.text = oc.m2.d2_en_US_dedes.ocMA.Aposticha1.text
 
 peMA.Lauds3.mode = misc_en_US_dedes.Mode2
 peMA.Lauds3.melody = ""
+peMA.Lauds3.incipit = oc.m2.d2_en_US_dedes.ocMA.Aposticha3.incipit
 peMA.Lauds3.text = oc.m2.d2_en_US_dedes.ocMA.Aposticha3.text
 
 peMA.LaudsGlory.mode = misc_en_US_dedes.Mode1
 peMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
+peMA.LaudsGlory.incipit = pe.d085_en_US_dedes.peVE.Lity3.incipit
 peMA.LaudsGlory.text = pe.d085_en_US_dedes.peVE.Lity3.text
 
 peMA.Aposticha1.mode = misc_en_US_dedes.Mode6
 peMA.Aposticha1.melody = he.a.m6_en_US_dedes.TriimerosAnestis.incipit
+peMA.Aposticha1.incipit = "O people, like the Psalm"
 peMA.Aposticha1.text = "O people, like the Psalm says, begin, * and joyfully sing praises to Christ. * The Life-giver * Christ has risen from the tomb * and shined on us this holy * great Passover and Pascha, * as the Redeemer of creation all."
 
 peMA.Aposticha2.mode = misc_en_US_dedes.Mode6
 peMA.Aposticha2.melody = he.a.m6_en_US_dedes.TriimerosAnestis.incipit
+peMA.Aposticha2.incipit = "You said to the Myrrh-bearers,"
 peMA.Aposticha2.text = "You said to the Myrrh-bearers, Rejoice, * and thus undid the curse on Eve, * namely sorrow, * and instead you gave them joy. * Having risen, You sent Your * Disciples to announce Your * third-day arising from the sepulcher."
 
 peMA.Aposticha3.mode = misc_en_US_dedes.Mode6
 peMA.Aposticha3.melody = he.a.m6_en_US_dedes.TriimerosAnestis.incipit
+peMA.Aposticha3.incipit = "Now Christ has shined the"
 peMA.Aposticha3.text = "Now Christ has shined the light of His * divine and holy Passover * on us all. Come, * let our souls brilliantly shine. * Behold now has arisen * the day of holy Pascha. * Let us with joy and gladness celebrate."
 
 peMA.AposGlory.mode = misc_en_US_dedes.Mode2
 peMA.AposGlory.melody = misc_en_US_dedes.Idiomelon
+peMA.AposGlory.incipit = oc.m2.d1_en_US_dedes.ocMA.Lauds5.incipit
 peMA.AposGlory.text = oc.m2.d1_en_US_dedes.ocMA.Lauds5.text

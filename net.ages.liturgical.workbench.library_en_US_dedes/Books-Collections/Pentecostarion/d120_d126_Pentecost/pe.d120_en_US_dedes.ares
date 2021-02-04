@@ -15,34 +15,42 @@ peDismissal = dismissals_en_US_dedes.dis00.pentecost
 
 peVE.Stichera01.mode = misc_en_US_dedes.Mode1
 peVE.Stichera01.melody = misc_en_US_dedes.Idiomelon
+peVE.Stichera01.incipit = "We are celebrating Pentecost, and"
 peVE.Stichera01.text = "We are celebrating Pentecost, and the coming of the Spirit: the appointed time of the promise, and the fulfillment of our hope. How great is the mystery? Great indeed and venerable! Therefore we cry to You, O Creator of all: Glory to You, O Lord!"
 
 peVE.Stichera02.mode = misc_en_US_dedes.Mode1
 peVE.Stichera02.melody = misc_en_US_dedes.Idiomelon
+peVE.Stichera02.incipit = "You renewed Your Disciples, O"
 peVE.Stichera02.text = "You renewed Your Disciples, O Christ, with foreign languages, so that they might use them to proclaim You, the immortal Logos and God, who grants to our souls the great mercy."
 
 peVE.Stichera03.mode = misc_en_US_dedes.Mode1
 peVE.Stichera03.melody = misc_en_US_dedes.Idiomelon
+peVE.Stichera03.incipit = "The Holy Spirit supplies all"
 peVE.Stichera03.text = "The Holy Spirit supplies all things: He pours out prophecies, He perfects priests; He taught wisdom to the unlettered, He showed fishermen to be theologians; He welds together the whole institution of the Church. \"O Comforter, You who share the same essence and throne with the Father and the Son, glory to You!\""
 
 peVE.Stichera04.mode = misc_en_US_dedes.Mode2
 peVE.Stichera04.melody = misc_en_US_dedes.Idiomelon
+peVE.Stichera04.incipit = "We have seen the true"
 peVE.Stichera04.text = "We have seen the true light; we have received the heavenly Spirit. We have found the true Faith, worshipping the undivided Trinity; for this has saved us."
 
 peVE.Stichera05.mode = misc_en_US_dedes.Mode2
 peVE.Stichera05.melody = misc_en_US_dedes.Idiomelon
+peVE.Stichera05.incipit = "In the Prophets You announced"
 peVE.Stichera05.text = "In the Prophets You announced to us the way of salvation; and now the grace of Your Spirit has shined in Your Apostles, our Savior. You are God, the first and the last; and to the ages You are our God."
 
 peVE.Stichera06.mode = misc_en_US_dedes.Mode2
 peVE.Stichera06.melody = misc_en_US_dedes.Idiomelon
+peVE.Stichera06.incipit = "In Your courts, I will"
 peVE.Stichera06.text = "In Your courts, I will sing praise to You, the Savior of the world; and on bended knee I will worship Your invincible power. And I will bless You, O Lord, in the evening and the morning, in the middle of the day, and at every time."
 
 peVE.Stichera07.mode = misc_en_US_dedes.Mode2
 peVE.Stichera07.melody = misc_en_US_dedes.Idiomelon
+peVE.Stichera07.incipit = "In Your courts, O Lord,"
 peVE.Stichera07.text = "In Your courts, O Lord, we the faithful bend the knee of soul and body, and we extol You, the unoriginate Father, and the Son who is also without beginning, and the co-eternal and all-holy Spirit, which illumines and sanctifies our souls."
 
 peVE.Stichera08.mode = misc_en_US_dedes.Mode2
 peVE.Stichera08.melody = misc_en_US_dedes.Idiomelon
+peVE.Stichera08.incipit = "Let us sing hymns of"
 peVE.Stichera08.text = "Let us sing hymns of praise to the consubstantial Trinity: Father, Son and Holy Spirit. For this is what was proclaimed by the Prophets and Apostles and the Martyrs."
 
 peVE.MM.Stichera1234as3456.text = properties_en_US_dedes.media.key
@@ -50,68 +58,84 @@ peVE.MM.Stichera1234as3456.text = properties_en_US_dedes.media.key
 peVE.SticGlory.poet = poets_en_US_dedes.LeontosDespotou
 peVE.SticGlory.mode = misc_en_US_dedes.Mode8
 peVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
+peVE.SticGlory.incipit = "Come, all people, let us"
 peVE.SticGlory.text = "Come, all people, let us worship the one God in three hypostases: the Son in the Father and the Holy Spirit. The Father, outside of time, begat the Son, co-eternal and sharing the throne, and the Holy Spirit was in the Father, glorified with the Son. One power, one essence, one Godhead, which we all worship and we say: \"Holy God, You created all things through the Son by the cooperation of the Holy Spirit. Holy Mighty, through You we came to know the Father and the Holy Spirit came to the world. Holy Immortal, the Comforter Spirit, You proceed from the Father and rest in the Son. O Holy Trinity, glory to You!\""
 
 peVE.Lity1.mode = misc_en_US_dedes.Mode2
 peVE.Lity1.melody = misc_en_US_dedes.Idiomelon
+peVE.Lity1.incipit = peVE.Stichera05.incipit
 peVE.Lity1.text = peVE.Stichera05.text
 
 peVE.Lity2.mode = misc_en_US_dedes.Mode2
 peVE.Lity2.melody = misc_en_US_dedes.Idiomelon
+peVE.Lity2.incipit = peVE.Stichera06.incipit
 peVE.Lity2.text = peVE.Stichera06.text
 
 peVE.Lity3.mode = misc_en_US_dedes.Mode2
 peVE.Lity3.melody = misc_en_US_dedes.Idiomelon
+peVE.Lity3.incipit = peVE.Stichera07.incipit
 peVE.Lity3.text = peVE.Stichera07.text
 
 peVE.LityGlory.mode = misc_en_US_dedes.Mode8
 peVE.LityGlory.melody = misc_en_US_dedes.Idiomelon
+peVE.LityGlory.incipit = "Lord, when You sent down"
 peVE.LityGlory.text = "Lord, when You sent down Your Spirit to the Apostles as they were sitting, the descendants of the Hebrews who witnessed it were bewildered and amazed; for they heard them speaking in other tongues and foreign languages, as the Spirit gave them utterance. Previously simple men, they were made wise; and with captivating speech, they told the mighty works of God, as they captured the Gentiles alive for the Faith. And we, for our part, now sing to You, \"O Lord, You appeared on earth and You saved us from delusion. Glory to You!\""
 
 peVE.Aposticha1.mode = misc_en_US_dedes.Mode6
 peVE.Aposticha1.melody = misc_en_US_dedes.Idiomelon
+peVE.Aposticha1.incipit = "The Gentiles were unaware of"
 peVE.Aposticha1.text = "The Gentiles were unaware of the mighty work of the all-holy Spirit that was done in Your Apostles, O Lord, and so they thought that the alternation of languages was caused by drunkenness. But we have been strengthened by them, and so we say, \"Do not take Your Holy Spirit from us, we pray, O Lover of humanity.\""
 
 peVE.Aposticha2.mode = misc_en_US_dedes.Mode6
 peVE.Aposticha2.melody = misc_en_US_dedes.Idiomelon
+peVE.Aposticha2.incipit = "O Lord, the coming of"
 peVE.Aposticha2.text = "O Lord, the coming of the Holy Spirit filled Your Apostles and enabled them to speak in other languages. The unbelievers thought this strange occurrence was mere intoxication, but for the believers it was the means of salvation. Count us also worthy of that illumination, we pray, O Lover of humanity."
 
 peVE.Aposticha3.mode = misc_en_US_dedes.Mode6
 peVE.Aposticha3.melody = misc_en_US_dedes.Idiomelon
+peVE.Aposticha3.incipit = "Heavenly King, Comforter, Spirit of"
 peVE.Aposticha3.text = "Heavenly King, Comforter, Spirit of Truth, present in all places and filling all things, treasury of good things and giver of life: come; take Your abode in us; cleanse us of every stain, and save our souls, O Good one."
 
 peVE.AposGlory.mode = misc_en_US_dedes.Mode8
 peVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
+peVE.AposGlory.incipit = "Tongues were confused once because"
 peVE.AposGlory.text = "Tongues were confused once because people dared to build the Tower. Tongues now obtain skill, for the glory of divine knowledge. There, God condemned the impious for their transgression; here, by the Spirit, Christ illumined the fishermen. Then, discord was contrived as penalization; now a new concord has arrived, for the salvation of our souls."
 
 peVE.Apolytikion1.mode = misc_en_US_dedes.Mode8
 peVE.Apolytikion1.melody = ""
+peVE.Apolytikion1.incipit = "Blessed are You, O Christ"
 peVE.Apolytikion1.text = "Blessed are You, O Christ our God. You made the fishermen all-wise, by sending down upon them the Holy Spirit, and through them You drew the world into Your net. O Lover of mankind, glory to You."
 
 peMA.Kathisma11.mode = misc_en_US_dedes.Mode4
 peMA.Kathisma11.melody = he.a.m4_en_US_dedes.KateplagiIosif.incipit
+peMA.Kathisma11.incipit = "Let us celebrate with joy"
 peMA.Kathisma11.text = "Let us celebrate with joy this final post-festal feast, * O believers; for it is the feast of Pentecost today, * and the fulfillment of the promise and the appointed time. * For on this day the fire of the Paraclete * descended to the earth immediately, * as in the form of tongues, and illumined the Disciples * and made them initiates of heaven. * The holy light of the Holy Spirit * has appeared and illumined the world."
 
 peMA.Kathisma21.mode = misc_en_US_dedes.Mode4
 peMA.Kathisma21.melody = he.a.m4_en_US_dedes.KateplagiIosif.incipit
+peMA.Kathisma21.incipit = "When the well-spring of the"
 peMA.Kathisma21.text = "When the well-spring of the grace of the divine Spirit came * down to those upon the earth and into fire-bearing streams * parted noetically, it refreshed the Apostles * and led them to the light. The fire became for them * a dewy cloud and rainy flame illumining them. * And we in turn through them received divine grace * by means of fire and water. * The holy light of the Holy Spirit * has appeared and illumined the world."
 
 peMA.Kathisma31.mode = misc_en_US_dedes.Mode8
 peMA.Kathisma31.melody = he.a.m8_en_US_dedes.ToProstachthen.incipit
+peMA.Kathisma31.incipit = "After Your rising from the"
 peMA.Kathisma31.text = "After Your rising from the sepulcher, O Savior, * and Your divine Ascension to the heights of heaven, * You sent down on Your Disciples Your glory, O Good One, * renewing an upright Spirit in them, O Christ. * And therefore those men who saw God proclaimed to all * Your sayings and Your economy, as if melodious guitars * that mystically are played with the pick * of the Spirit, O merciful Lord."
 
 peMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 
 peMA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 peMA.PostGospelGlory.melody = ""
+peMA.PostGospelGlory.incipit = ho.s03_en_US_dedes.hoMA.PostGospelApostles.incipit
 peMA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelApostles.text
 
 peMA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
 peMA.PostGospelBoth.melody = ""
+peMA.PostGospelBoth.incipit = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.incipit
 peMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 peMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 peMA.PostGospelIdiomelon.melody = misc_en_US_dedes.Idiomelon
+peMA.PostGospelIdiomelon.incipit = peVE.Aposticha3.incipit
 peMA.PostGospelIdiomelon.text = peVE.Aposticha3.text
 
 peMA.C1.poet = poets_en_US_dedes.KosmaMonachou
@@ -128,6 +152,7 @@ peMA.C2.Acrostic5.acrostic = ""
 peMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C1H.mode = misc_en_US_dedes.Mode7
 peMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode1C1H.incipit = he.h.m7_en_US_dedes.PontoEkalypse.incipit
 peMA.Ode1C1H.text = he.h.m7_en_US_dedes.PontoEkalypse.text
 
 peMA.C1.title = titles_en_US_dedes.KanonATisEortis
@@ -135,22 +160,30 @@ peMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 peMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C11.mode = misc_en_US_dedes.Mode7
-peMA.Ode1C11.melody = he.h.m7_en_US_dedes.PontoEkalypse.incipit 
-peMA.Ode1C11.text = "" 
+peMA.Ode1C11.melody = he.h.m7_en_US_dedes.PontoEkalypse.incipit
+peMA.Ode1C11.incipit = ""
+peMA.Ode1C11.text = ""
 
 peMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C12.mode = misc_en_US_dedes.Mode7
 peMA.Ode1C12.melody = he.h.m7_en_US_dedes.PontoEkalypse.incipit
-peMA.Ode1C12.text = "" 
+peMA.Ode1C12.incipit = ""
+peMA.Ode1C12.text = ""
 
 peMA.Ode1C2H.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C2H.mode = misc_en_US_dedes.Mode4
 peMA.Ode1C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode1C2H.incipit = he.h.m4_en_US_dedes.TheioKalyftheis.incipit
 peMA.Ode1C2H.text = he.h.m4_en_US_dedes.TheioKalyftheis.text
+peMA.Ode1C2H1.incipit = he.h.m4_en_US_dedes.TheioKalyftheis1.incipit
 peMA.Ode1C2H1.text = he.h.m4_en_US_dedes.TheioKalyftheis1.text
+peMA.Ode1C2H2.incipit = he.h.m4_en_US_dedes.TheioKalyftheis2.incipit
 peMA.Ode1C2H2.text = he.h.m4_en_US_dedes.TheioKalyftheis2.text
+peMA.Ode1C2H3.incipit = he.h.m4_en_US_dedes.TheioKalyftheis3.incipit
 peMA.Ode1C2H3.text = he.h.m4_en_US_dedes.TheioKalyftheis3.text
+peMA.Ode1C2H4.incipit = he.h.m4_en_US_dedes.TheioKalyftheis4.incipit
 peMA.Ode1C2H4.text = he.h.m4_en_US_dedes.TheioKalyftheis4.text
+peMA.Ode1C2H5.incipit = he.h.m4_en_US_dedes.TheioKalyftheis5.incipit
 peMA.Ode1C2H5.text = he.h.m4_en_US_dedes.TheioKalyftheis5.text
 
 peMA.C2.title = titles_en_US_dedes.KanonBTisEortis
@@ -159,204 +192,304 @@ peMA.C2.verse = prayers_en_US_dedes.verse_God.text
 peMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C21.mode = misc_en_US_dedes.Mode4
 peMA.Ode1C21.melody = he.h.m4_en_US_dedes.TheioKalyftheis.incipit
-peMA.Ode1C21.text = "" 
+peMA.Ode1C21.incipit = ""
+peMA.Ode1C21.text = ""
+peMA.Ode1C211.incipit = ""
 peMA.Ode1C211.text = ""
+peMA.Ode1C212.incipit = ""
 peMA.Ode1C212.text = ""
+peMA.Ode1C213.incipit = ""
 peMA.Ode1C213.text = ""
+peMA.Ode1C214.incipit = ""
 peMA.Ode1C214.text = ""
+peMA.Ode1C215.incipit = ""
 peMA.Ode1C215.text = ""
 
 peMA.Ode1C22.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C22.mode = misc_en_US_dedes.Mode4
 peMA.Ode1C22.melody = he.h.m4_en_US_dedes.TheioKalyftheis.incipit
-peMA.Ode1C22.text = "" 
+peMA.Ode1C22.incipit = ""
+peMA.Ode1C22.text = ""
+peMA.Ode1C221.incipit = ""
 peMA.Ode1C221.text = ""
+peMA.Ode1C222.incipit = ""
 peMA.Ode1C222.text = ""
+peMA.Ode1C223.incipit = ""
 peMA.Ode1C223.text = ""
+peMA.Ode1C224.incipit = ""
 peMA.Ode1C224.text = ""
+peMA.Ode1C225.incipit = ""
 peMA.Ode1C225.text = ""
 
 peMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
 peMA.Ode3C1H.mode = misc_en_US_dedes.Mode7
 peMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode3C1H.incipit = he.h.m7_en_US_dedes.TinExYpsousDynamin.incipit
 peMA.Ode3C1H.text = he.h.m7_en_US_dedes.TinExYpsousDynamin.text
 
 peMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 peMA.Ode3C11.mode = misc_en_US_dedes.Mode7
 peMA.Ode3C11.melody = he.h.m7_en_US_dedes.TinExYpsousDynamin.incipit
-peMA.Ode3C11.text = "" 
+peMA.Ode3C11.incipit = ""
+peMA.Ode3C11.text = ""
 
 peMA.Ode3C2H.ode = misc_en_US_dedes.Ode3
 peMA.Ode3C2H.mode = misc_en_US_dedes.Mode4
 peMA.Ode3C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode3C2H.incipit = he.h.m4_en_US_dedes.ErrixeGastros.incipit
 peMA.Ode3C2H.text = he.h.m4_en_US_dedes.ErrixeGastros.text
+peMA.Ode3C2H1.incipit = he.h.m4_en_US_dedes.ErrixeGastros1.incipit
 peMA.Ode3C2H1.text = he.h.m4_en_US_dedes.ErrixeGastros1.text
+peMA.Ode3C2H2.incipit = he.h.m4_en_US_dedes.ErrixeGastros2.incipit
 peMA.Ode3C2H2.text = he.h.m4_en_US_dedes.ErrixeGastros2.text
+peMA.Ode3C2H3.incipit = he.h.m4_en_US_dedes.ErrixeGastros3.incipit
 peMA.Ode3C2H3.text = he.h.m4_en_US_dedes.ErrixeGastros3.text
+peMA.Ode3C2H4.incipit = he.h.m4_en_US_dedes.ErrixeGastros4.incipit
 peMA.Ode3C2H4.text = he.h.m4_en_US_dedes.ErrixeGastros4.text
+peMA.Ode3C2H5.incipit = he.h.m4_en_US_dedes.ErrixeGastros5.incipit
 peMA.Ode3C2H5.text = he.h.m4_en_US_dedes.ErrixeGastros5.text
 
 peMA.Ode3C21.ode = misc_en_US_dedes.Ode3
 peMA.Ode3C21.mode = misc_en_US_dedes.Mode4
 peMA.Ode3C21.melody = he.h.m4_en_US_dedes.ErrixeGastros.incipit
-peMA.Ode3C21.text = "" 
+peMA.Ode3C21.incipit = ""
+peMA.Ode3C21.text = ""
+peMA.Ode3C211.incipit = ""
 peMA.Ode3C211.text = ""
+peMA.Ode3C212.incipit = ""
 peMA.Ode3C212.text = ""
+peMA.Ode3C213.incipit = ""
 peMA.Ode3C213.text = ""
+peMA.Ode3C214.incipit = ""
 peMA.Ode3C214.text = ""
+peMA.Ode3C215.incipit = ""
 peMA.Ode3C215.text = ""
 
 peMA.Ode3C22.ode = misc_en_US_dedes.Ode3
 peMA.Ode3C22.mode = misc_en_US_dedes.Mode4
 peMA.Ode3C22.melody = he.h.m4_en_US_dedes.ErrixeGastros.incipit
-peMA.Ode3C22.text = "" 
+peMA.Ode3C22.incipit = ""
+peMA.Ode3C22.text = ""
+peMA.Ode3C221.incipit = ""
 peMA.Ode3C221.text = ""
+peMA.Ode3C222.incipit = ""
 peMA.Ode3C222.text = ""
+peMA.Ode3C223.incipit = ""
 peMA.Ode3C223.text = ""
+peMA.Ode3C224.incipit = ""
 peMA.Ode3C224.text = ""
+peMA.Ode3C225.incipit = ""
 peMA.Ode3C225.text = ""
 
 peMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
 peMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.ToProstachthen.incipit
+peMA.Ode3Kathisma1.incipit = ""
 peMA.Ode3Kathisma1.text = ""
 
 peMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
 peMA.Ode4C1H.mode = misc_en_US_dedes.Mode7
 peMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode4C1H.incipit = he.h.m7_en_US_dedes.KatanoonOProfitis.incipit
 peMA.Ode4C1H.text = he.h.m7_en_US_dedes.KatanoonOProfitis.text
 
 peMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 peMA.Ode4C11.mode = misc_en_US_dedes.Mode7
 peMA.Ode4C11.melody = he.h.m7_en_US_dedes.KatanoonOProfitis.incipit
-peMA.Ode4C11.text = "" 
+peMA.Ode4C11.incipit = ""
+peMA.Ode4C11.text = ""
 
 peMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 peMA.Ode4C12.mode = misc_en_US_dedes.Mode7
 peMA.Ode4C12.melody = he.h.m7_en_US_dedes.KatanoonOProfitis.incipit
-peMA.Ode4C12.text = "" 
+peMA.Ode4C12.incipit = ""
+peMA.Ode4C12.text = ""
 
 peMA.Ode4C2H.ode = misc_en_US_dedes.Ode4
 peMA.Ode4C2H.mode = misc_en_US_dedes.Mode4
 peMA.Ode4C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode4C2H.incipit = he.h.m4_en_US_dedes.AnaxAnakton.incipit
 peMA.Ode4C2H.text = he.h.m4_en_US_dedes.AnaxAnakton.text
+peMA.Ode4C2H1.incipit = he.h.m4_en_US_dedes.AnaxAnakton1.incipit
 peMA.Ode4C2H1.text = he.h.m4_en_US_dedes.AnaxAnakton1.text
+peMA.Ode4C2H2.incipit = he.h.m4_en_US_dedes.AnaxAnakton2.incipit
 peMA.Ode4C2H2.text = he.h.m4_en_US_dedes.AnaxAnakton2.text
+peMA.Ode4C2H3.incipit = he.h.m4_en_US_dedes.AnaxAnakton3.incipit
 peMA.Ode4C2H3.text = he.h.m4_en_US_dedes.AnaxAnakton3.text
+peMA.Ode4C2H4.incipit = he.h.m4_en_US_dedes.AnaxAnakton4.incipit
 peMA.Ode4C2H4.text = he.h.m4_en_US_dedes.AnaxAnakton4.text
+peMA.Ode4C2H5.incipit = he.h.m4_en_US_dedes.AnaxAnakton5.incipit
 peMA.Ode4C2H5.text = he.h.m4_en_US_dedes.AnaxAnakton5.text
 
 peMA.Ode4C21.ode = misc_en_US_dedes.Ode4
 peMA.Ode4C21.mode = misc_en_US_dedes.Mode4
 peMA.Ode4C21.melody = he.h.m4_en_US_dedes.AnaxAnakton.incipit
-peMA.Ode4C21.text = "" 
+peMA.Ode4C21.incipit = ""
+peMA.Ode4C21.text = ""
+peMA.Ode4C211.incipit = ""
 peMA.Ode4C211.text = ""
+peMA.Ode4C212.incipit = ""
 peMA.Ode4C212.text = ""
+peMA.Ode4C213.incipit = ""
 peMA.Ode4C213.text = ""
+peMA.Ode4C214.incipit = ""
 peMA.Ode4C214.text = ""
+peMA.Ode4C215.incipit = ""
 peMA.Ode4C215.text = ""
 
 peMA.Ode4C22.ode = misc_en_US_dedes.Ode4
 peMA.Ode4C22.mode = misc_en_US_dedes.Mode4
 peMA.Ode4C22.melody = he.h.m4_en_US_dedes.AnaxAnakton.incipit
-peMA.Ode4C22.text = "" 
+peMA.Ode4C22.incipit = ""
+peMA.Ode4C22.text = ""
+peMA.Ode4C221.incipit = ""
 peMA.Ode4C221.text = ""
+peMA.Ode4C222.incipit = ""
 peMA.Ode4C222.text = ""
+peMA.Ode4C223.incipit = ""
 peMA.Ode4C223.text = ""
+peMA.Ode4C224.incipit = ""
 peMA.Ode4C224.text = ""
+peMA.Ode4C225.incipit = ""
 peMA.Ode4C225.text = ""
 
 peMA.Ode4C23.ode = misc_en_US_dedes.Ode4
 peMA.Ode4C23.mode = misc_en_US_dedes.Mode4
 peMA.Ode4C23.melody = he.h.m4_en_US_dedes.AnaxAnakton.incipit
+peMA.Ode4C23.incipit = "All you worshipers of the"
 peMA.Ode4C23.text = "All you worshipers of the triple-shining essence * Be perfected by the supremely ruling Godhead. * For Christ, supernaturally as Benefactor, * Perfects His servants and lights the way to salvation, * As He supplies all the grace of the Spirit."  //added by SD
+peMA.Ode4C231.incipit = "All you worshipers of the"
 peMA.Ode4C231.text = "All you worshipers of the triple-shining essence"
+peMA.Ode4C232.incipit = "Be perfected by the supremely"
 peMA.Ode4C232.text = "Be perfected by the supremely ruling Godhead."
 peMA.Ode4C233.text = "For Christ, supernaturally as Benefactor,"
+peMA.Ode4C234.incipit = "Perfects His servants and lights"
 peMA.Ode4C234.text = "Perfects His servants and lights the way to salvation,"
-peMA.Ode4C235.text = "As He supplies all the grace of the Spirit." 
+peMA.Ode4C235.incipit = "As He supplies all the"
+peMA.Ode4C235.text = "As He supplies all the grace of the Spirit."
 
 peMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
 peMA.Ode5C1H.mode = misc_en_US_dedes.Mode7
 peMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode5C1H.incipit = he.h.m7_en_US_dedes.ToDiaTonFovonSou.incipit
 peMA.Ode5C1H.text = he.h.m7_en_US_dedes.ToDiaTonFovonSou.text
 
 peMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 peMA.Ode5C11.mode = misc_en_US_dedes.Mode7
 peMA.Ode5C11.melody = he.h.m7_en_US_dedes.ToDiaTonFovonSou.incipit
-peMA.Ode5C11.text = "" 
+peMA.Ode5C11.incipit = ""
+peMA.Ode5C11.text = ""
 
 peMA.Ode5C2H.ode = misc_en_US_dedes.Ode5
 peMA.Ode5C2H.mode = misc_en_US_dedes.Mode4
 peMA.Ode5C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode5C2H.incipit = he.h.m4_en_US_dedes.LytirionKatharsin.incipit
 peMA.Ode5C2H.text = he.h.m4_en_US_dedes.LytirionKatharsin.text
+peMA.Ode5C2H1.incipit = he.h.m4_en_US_dedes.LytirionKatharsin1.incipit
 peMA.Ode5C2H1.text = he.h.m4_en_US_dedes.LytirionKatharsin1.text
+peMA.Ode5C2H2.incipit = he.h.m4_en_US_dedes.LytirionKatharsin2.incipit
 peMA.Ode5C2H2.text = he.h.m4_en_US_dedes.LytirionKatharsin2.text
+peMA.Ode5C2H3.incipit = he.h.m4_en_US_dedes.LytirionKatharsin3.incipit
 peMA.Ode5C2H3.text = he.h.m4_en_US_dedes.LytirionKatharsin3.text
+peMA.Ode5C2H4.incipit = he.h.m4_en_US_dedes.LytirionKatharsin4.incipit
 peMA.Ode5C2H4.text = he.h.m4_en_US_dedes.LytirionKatharsin4.text
+peMA.Ode5C2H5.incipit = he.h.m4_en_US_dedes.LytirionKatharsin5.incipit
 peMA.Ode5C2H5.text = he.h.m4_en_US_dedes.LytirionKatharsin5.text
 
 peMA.Ode5C21.ode = misc_en_US_dedes.Ode5
 peMA.Ode5C21.mode = misc_en_US_dedes.Mode4
 peMA.Ode5C21.melody = he.h.m4_en_US_dedes.LytirionKatharsin.incipit
-peMA.Ode5C21.text = "" 
+peMA.Ode5C21.incipit = ""
+peMA.Ode5C21.text = ""
+peMA.Ode5C211.incipit = ""
 peMA.Ode5C211.text = ""
+peMA.Ode5C212.incipit = ""
 peMA.Ode5C212.text = ""
+peMA.Ode5C213.incipit = ""
 peMA.Ode5C213.text = ""
+peMA.Ode5C214.incipit = ""
 peMA.Ode5C214.text = ""
+peMA.Ode5C215.incipit = ""
 peMA.Ode5C215.text = ""
 
 peMA.Ode5C22.ode = misc_en_US_dedes.Ode5
 peMA.Ode5C22.mode = misc_en_US_dedes.Mode4
 peMA.Ode5C22.melody = he.h.m4_en_US_dedes.LytirionKatharsin.incipit
-peMA.Ode5C22.text = "" 
+peMA.Ode5C22.incipit = ""
+peMA.Ode5C22.text = ""
+peMA.Ode5C221.incipit = ""
 peMA.Ode5C221.text = ""
+peMA.Ode5C222.incipit = ""
 peMA.Ode5C222.text = ""
+peMA.Ode5C223.incipit = ""
 peMA.Ode5C223.text = ""
+peMA.Ode5C224.incipit = ""
 peMA.Ode5C224.text = ""
+peMA.Ode5C225.incipit = ""
 peMA.Ode5C225.text = ""
 
 peMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
 peMA.Ode6C1H.mode = misc_en_US_dedes.Mode7
 peMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode6C1H.incipit = he.h.m7_en_US_dedes.NaftionToSalo.incipit
 peMA.Ode6C1H.text = he.h.m7_en_US_dedes.NaftionToSalo.text
 
 peMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 peMA.Ode6C11.mode = misc_en_US_dedes.Mode7
 peMA.Ode6C11.melody = he.h.m7_en_US_dedes.NaftionToSalo.incipit
-peMA.Ode6C11.text = "" 
+peMA.Ode6C11.incipit = ""
+peMA.Ode6C11.text = ""
 
 peMA.Ode6C2H.ode = misc_en_US_dedes.Ode6
 peMA.Ode6C2H.mode = misc_en_US_dedes.Mode4
 peMA.Ode6C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode6C2H.incipit = he.h.m4_en_US_dedes.IlasmosIminChriste.incipit
 peMA.Ode6C2H.text = he.h.m4_en_US_dedes.IlasmosIminChriste.text
+peMA.Ode6C2H1.incipit = he.h.m4_en_US_dedes.IlasmosIminChriste1.incipit
 peMA.Ode6C2H1.text = he.h.m4_en_US_dedes.IlasmosIminChriste1.text
+peMA.Ode6C2H2.incipit = he.h.m4_en_US_dedes.IlasmosIminChriste2.incipit
 peMA.Ode6C2H2.text = he.h.m4_en_US_dedes.IlasmosIminChriste2.text
+peMA.Ode6C2H3.incipit = he.h.m4_en_US_dedes.IlasmosIminChriste3.incipit
 peMA.Ode6C2H3.text = he.h.m4_en_US_dedes.IlasmosIminChriste3.text
+peMA.Ode6C2H4.incipit = he.h.m4_en_US_dedes.IlasmosIminChriste4.incipit
 peMA.Ode6C2H4.text = he.h.m4_en_US_dedes.IlasmosIminChriste4.text
+peMA.Ode6C2H5.incipit = he.h.m4_en_US_dedes.IlasmosIminChriste5.incipit
 peMA.Ode6C2H5.text = he.h.m4_en_US_dedes.IlasmosIminChriste5.text
 
 peMA.Ode6C21.ode = misc_en_US_dedes.Ode6
 peMA.Ode6C21.mode = misc_en_US_dedes.Mode4
 peMA.Ode6C21.melody = he.h.m4_en_US_dedes.IlasmosIminChriste.incipit
-peMA.Ode6C21.text = "" 
+peMA.Ode6C21.incipit = ""
+peMA.Ode6C21.text = ""
+peMA.Ode6C211.incipit = ""
 peMA.Ode6C211.text = ""
+peMA.Ode6C212.incipit = ""
 peMA.Ode6C212.text = ""
+peMA.Ode6C213.incipit = ""
 peMA.Ode6C213.text = ""
+peMA.Ode6C214.incipit = ""
 peMA.Ode6C214.text = ""
+peMA.Ode6C215.incipit = ""
 peMA.Ode6C215.text = ""
 
 peMA.Ode6C22.ode = misc_en_US_dedes.Ode6
 peMA.Ode6C22.mode = misc_en_US_dedes.Mode4
 peMA.Ode6C22.melody = he.h.m4_en_US_dedes.IlasmosIminChriste.incipit
-peMA.Ode6C22.text = "" 
+peMA.Ode6C22.incipit = ""
+peMA.Ode6C22.text = ""
+peMA.Ode6C221.incipit = ""
 peMA.Ode6C221.text = ""
+peMA.Ode6C222.incipit = ""
 peMA.Ode6C222.text = ""
+peMA.Ode6C223.incipit = ""
 peMA.Ode6C223.text = ""
+peMA.Ode6C224.incipit = ""
 peMA.Ode6C224.text = ""
+peMA.Ode6C225.incipit = ""
 peMA.Ode6C225.text = ""
 
 peMA.Kontakion1.mode = misc_en_US_dedes.Mode8
 peMA.Kontakion1.melody = ""
+peMA.Kontakion1.incipit = "When the Most High God"
 peMA.Kontakion1.text = "When the Most High God came down and confused the tongues, * He divided the nations. * When He distributed the tongues of fire, * He called all to unity. * And with one voice we glorify the all-holy Spirit."
 
 peMA.Oikos1.text = ""
@@ -385,182 +518,263 @@ peMA.Synaxarion.lastline.text = "By the intercessions of the holy Apostles, O Ch
 peMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C1H.mode = misc_en_US_dedes.Mode7
 peMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode7C1H.incipit = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.incipit
 peMA.Ode7C1H.text = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.text
 
 peMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C11.mode = misc_en_US_dedes.Mode7
 peMA.Ode7C11.melody = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.incipit
-peMA.Ode7C11.text = "" 
+peMA.Ode7C11.incipit = ""
+peMA.Ode7C11.text = ""
 
 peMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C12.mode = misc_en_US_dedes.Mode7
 peMA.Ode7C12.melody = he.h.m7_en_US_dedes.OiEnKaminoTouPyros.incipit
-peMA.Ode7C12.text = "" 
+peMA.Ode7C12.incipit = ""
+peMA.Ode7C12.text = ""
 
 peMA.Ode7C2H.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C2H.mode = misc_en_US_dedes.Mode4
 peMA.Ode7C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode7C2H.incipit = he.h.m4_en_US_dedes.SymfononEthroisen.incipit
 peMA.Ode7C2H.text = he.h.m4_en_US_dedes.SymfononEthroisen.text
+peMA.Ode7C2H1.incipit = he.h.m4_en_US_dedes.SymfononEthroisen1.incipit
 peMA.Ode7C2H1.text = he.h.m4_en_US_dedes.SymfononEthroisen1.text
+peMA.Ode7C2H2.incipit = he.h.m4_en_US_dedes.SymfononEthroisen2.incipit
 peMA.Ode7C2H2.text = he.h.m4_en_US_dedes.SymfononEthroisen2.text
+peMA.Ode7C2H3.incipit = he.h.m4_en_US_dedes.SymfononEthroisen3.incipit
 peMA.Ode7C2H3.text = he.h.m4_en_US_dedes.SymfononEthroisen3.text
+peMA.Ode7C2H4.incipit = he.h.m4_en_US_dedes.SymfononEthroisen4.incipit
 peMA.Ode7C2H4.text = he.h.m4_en_US_dedes.SymfononEthroisen4.text
+peMA.Ode7C2H5.incipit = he.h.m4_en_US_dedes.SymfononEthroisen5.incipit
 peMA.Ode7C2H5.text = he.h.m4_en_US_dedes.SymfononEthroisen5.text
 
 peMA.Ode7C21.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C21.mode = misc_en_US_dedes.Mode4
 peMA.Ode7C21.melody = he.h.m4_en_US_dedes.SymfononEthroisen.incipit
-peMA.Ode7C21.text = "" 
+peMA.Ode7C21.incipit = ""
+peMA.Ode7C21.text = ""
+peMA.Ode7C211.incipit = ""
 peMA.Ode7C211.text = ""
+peMA.Ode7C212.incipit = ""
 peMA.Ode7C212.text = ""
+peMA.Ode7C213.incipit = ""
 peMA.Ode7C213.text = ""
+peMA.Ode7C214.incipit = ""
 peMA.Ode7C214.text = ""
+peMA.Ode7C215.incipit = ""
 peMA.Ode7C215.text = ""
 
 peMA.Ode7C22.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C22.mode = misc_en_US_dedes.Mode4
 peMA.Ode7C22.melody = he.h.m4_en_US_dedes.SymfononEthroisen.incipit
-peMA.Ode7C22.text = "" 
+peMA.Ode7C22.incipit = ""
+peMA.Ode7C22.text = ""
+peMA.Ode7C221.incipit = ""
 peMA.Ode7C221.text = ""
+peMA.Ode7C222.incipit = ""
 peMA.Ode7C222.text = ""
+peMA.Ode7C223.incipit = ""
 peMA.Ode7C223.text = ""
+peMA.Ode7C224.incipit = ""
 peMA.Ode7C224.text = ""
+peMA.Ode7C225.incipit = ""
 peMA.Ode7C225.text = ""
 
 peMA.Ode7C23.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C23.mode = misc_en_US_dedes.Mode4
 peMA.Ode7C23.melody = he.h.m4_en_US_dedes.SymfononEthroisen.incipit
-peMA.Ode7C23.text = "" 
+peMA.Ode7C23.incipit = ""
+peMA.Ode7C23.text = ""
+peMA.Ode7C231.incipit = ""
 peMA.Ode7C231.text = ""
+peMA.Ode7C232.incipit = ""
 peMA.Ode7C232.text = ""
+peMA.Ode7C233.incipit = ""
 peMA.Ode7C233.text = ""
+peMA.Ode7C234.incipit = ""
 peMA.Ode7C234.text = ""
+peMA.Ode7C235.incipit = ""
 peMA.Ode7C235.text = ""
 
 peMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
 peMA.Ode8C1H.mode = misc_en_US_dedes.Mode7
 peMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode8C1H.incipit = he.h.m7_en_US_dedes.AflektosPyri.incipit
 peMA.Ode8C1H.text = he.h.m7_en_US_dedes.AflektosPyri.text
 
 peMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 peMA.Ode8C11.mode = misc_en_US_dedes.Mode7
 peMA.Ode8C11.melody = he.h.m7_en_US_dedes.AflektosPyri.incipit
-peMA.Ode8C11.text = "" 
+peMA.Ode8C11.incipit = ""
+peMA.Ode8C11.text = ""
 
 peMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 peMA.Ode8C12.mode = misc_en_US_dedes.Mode7
 peMA.Ode8C12.melody = he.h.m7_en_US_dedes.AflektosPyri.incipit
-peMA.Ode8C12.text = "" 
+peMA.Ode8C12.incipit = ""
+peMA.Ode8C12.text = ""
 
 peMA.Ode8C2H.ode = misc_en_US_dedes.Ode8
 peMA.Ode8C2H.mode = misc_en_US_dedes.Mode4
 peMA.Ode8C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode8C2H.incipit = he.h.m4_en_US_dedes.LyeiTaDesma.incipit
 peMA.Ode8C2H.text = he.h.m4_en_US_dedes.LyeiTaDesma.text
+peMA.Ode8C2H1.incipit = he.h.m4_en_US_dedes.LyeiTaDesma1.incipit
 peMA.Ode8C2H1.text = he.h.m4_en_US_dedes.LyeiTaDesma1.text
+peMA.Ode8C2H2.incipit = he.h.m4_en_US_dedes.LyeiTaDesma2.incipit
 peMA.Ode8C2H2.text = he.h.m4_en_US_dedes.LyeiTaDesma2.text
+peMA.Ode8C2H3.incipit = he.h.m4_en_US_dedes.LyeiTaDesma3.incipit
 peMA.Ode8C2H3.text = he.h.m4_en_US_dedes.LyeiTaDesma3.text
+peMA.Ode8C2H4.incipit = he.h.m4_en_US_dedes.LyeiTaDesma4.incipit
 peMA.Ode8C2H4.text = he.h.m4_en_US_dedes.LyeiTaDesma4.text
+peMA.Ode8C2H5.incipit = he.h.m4_en_US_dedes.LyeiTaDesma5.incipit
 peMA.Ode8C2H5.text = he.h.m4_en_US_dedes.LyeiTaDesma5.text
 
 peMA.Ode8C21.ode = misc_en_US_dedes.Ode8
 peMA.Ode8C21.mode = misc_en_US_dedes.Mode4
 peMA.Ode8C21.melody = he.h.m4_en_US_dedes.LyeiTaDesma.incipit
-peMA.Ode8C21.text = "" 
+peMA.Ode8C21.incipit = ""
+peMA.Ode8C21.text = ""
+peMA.Ode8C211.incipit = ""
 peMA.Ode8C211.text = ""
+peMA.Ode8C212.incipit = ""
 peMA.Ode8C212.text = ""
+peMA.Ode8C213.incipit = ""
 peMA.Ode8C213.text = ""
+peMA.Ode8C214.incipit = ""
 peMA.Ode8C214.text = ""
+peMA.Ode8C215.incipit = ""
 peMA.Ode8C215.text = ""
 
 peMA.Ode8C22.ode = misc_en_US_dedes.Ode8
 peMA.Ode8C22.mode = misc_en_US_dedes.Mode4
 peMA.Ode8C22.melody = he.h.m4_en_US_dedes.LyeiTaDesma.incipit
-peMA.Ode8C22.text = "" 
+peMA.Ode8C22.incipit = ""
+peMA.Ode8C22.text = ""
+peMA.Ode8C221.incipit = ""
 peMA.Ode8C221.text = ""
+peMA.Ode8C222.incipit = ""
 peMA.Ode8C222.text = ""
+peMA.Ode8C223.incipit = ""
 peMA.Ode8C223.text = ""
+peMA.Ode8C224.incipit = ""
 peMA.Ode8C224.text = ""
+peMA.Ode8C225.incipit = ""
 peMA.Ode8C225.text = ""
 
 peMA.Ode8C23.ode = misc_en_US_dedes.Ode8
 peMA.Ode8C23.mode = misc_en_US_dedes.Mode4
 peMA.Ode8C23.melody = he.h.m4_en_US_dedes.LyeiTaDesma.incipit
-peMA.Ode8C23.text = "" 
+peMA.Ode8C23.incipit = ""
+peMA.Ode8C23.text = ""
+peMA.Ode8C231.incipit = ""
 peMA.Ode8C231.text = ""
+peMA.Ode8C232.incipit = ""
 peMA.Ode8C232.text = ""
+peMA.Ode8C233.incipit = ""
 peMA.Ode8C233.text = ""
+peMA.Ode8C234.incipit = ""
 peMA.Ode8C234.text = ""
+peMA.Ode8C235.incipit = ""
 peMA.Ode8C235.text = ""
 
 peMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
 peMA.Ode9C1H.mode = misc_en_US_dedes.Mode7
 peMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode9C1H.incipit = he.h.m7_en_US_dedes.MiTisFthoras.incipit
 peMA.Ode9C1H.text = he.h.m7_en_US_dedes.MiTisFthoras.text
 
 peMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 peMA.Ode9C11.mode = misc_en_US_dedes.Mode7
 peMA.Ode9C11.melody = he.h.m7_en_US_dedes.MiTisFthoras.incipit
-peMA.Ode9C11.text = "Of old the fire breathing zealot Elias joyfully * mounted and rode on a seething and fiery chariot. * Thus he prefigured the descent now of the Spirit * from heav'n on the Apostles; * by which being illumined, unto all they made known the Trinity." 
+peMA.Ode9C11.incipit = "Of old the fire breathing"
+peMA.Ode9C11.text = "Of old the fire breathing zealot Elias joyfully * mounted and rode on a seething and fiery chariot. * Thus he prefigured the descent now of the Spirit * from heav'n on the Apostles; * by which being illumined, unto all they made known the Trinity."
 
 peMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 peMA.Ode9C12.mode = misc_en_US_dedes.Mode7
 peMA.Ode9C12.melody = he.h.m7_en_US_dedes.MiTisFthoras.incipit
-peMA.Ode9C12.text = "A strange event that defied nature's law was audible. * As every single voice of the Disciples rang out * by the Spirit's grace, the peoples, tribes and tongues heard * the mighty works of God, and were initiated into knowledge of the Trinity." 
+peMA.Ode9C12.incipit = "A strange event that defied"
+peMA.Ode9C12.text = "A strange event that defied nature's law was audible. * As every single voice of the Disciples rang out * by the Spirit's grace, the peoples, tribes and tongues heard * the mighty works of God, and were initiated into knowledge of the Trinity."
 
 peMA.Ode9C2H.ode = misc_en_US_dedes.Ode9
 peMA.Ode9C2H.mode = misc_en_US_dedes.Mode4
 peMA.Ode9C2H.melody = misc_en_US_dedes.Heirmos
+peMA.Ode9C2H.incipit = he.h.m4_en_US_dedes.ChairoisAnassa.incipit
 peMA.Ode9C2H.text = he.h.m4_en_US_dedes.ChairoisAnassa.text
+peMA.Ode9C2H1.incipit = he.h.m4_en_US_dedes.ChairoisAnassa1.incipit
 peMA.Ode9C2H1.text = he.h.m4_en_US_dedes.ChairoisAnassa1.text
+peMA.Ode9C2H2.incipit = he.h.m4_en_US_dedes.ChairoisAnassa2.incipit
 peMA.Ode9C2H2.text = he.h.m4_en_US_dedes.ChairoisAnassa2.text
+peMA.Ode9C2H3.incipit = he.h.m4_en_US_dedes.ChairoisAnassa3.incipit
 peMA.Ode9C2H3.text = he.h.m4_en_US_dedes.ChairoisAnassa3.text
+peMA.Ode9C2H4.incipit = he.h.m4_en_US_dedes.ChairoisAnassa4.incipit
 peMA.Ode9C2H4.text = he.h.m4_en_US_dedes.ChairoisAnassa4.text
+peMA.Ode9C2H5.incipit = he.h.m4_en_US_dedes.ChairoisAnassa5.incipit
 peMA.Ode9C2H5.text = he.h.m4_en_US_dedes.ChairoisAnassa5.text
 
 peMA.Ode9C21.ode = misc_en_US_dedes.Ode9
 peMA.Ode9C21.mode = misc_en_US_dedes.Mode4
 peMA.Ode9C21.melody = he.h.m4_en_US_dedes.ChairoisAnassa.incipit
-peMA.Ode9C21.text = "It is right to tell of the Maiden who produced life; * she alone concealed within her womb the Logos, * who remedied mortal nature that was ailing. * And being now on the right hand of the Father * enthroned, He has sent the grace of the Spirit." 
+peMA.Ode9C21.incipit = "It is right to tell"
+peMA.Ode9C21.text = "It is right to tell of the Maiden who produced life; * she alone concealed within her womb the Logos, * who remedied mortal nature that was ailing. * And being now on the right hand of the Father * enthroned, He has sent the grace of the Spirit."
+peMA.Ode9C211.incipit = "It is right to tell"
 peMA.Ode9C211.text = "It is right to tell of the Maiden who produced life;"
+peMA.Ode9C212.incipit = "She alone concealed within her"
 peMA.Ode9C212.text = "She alone concealed within her womb the Logos,"
+peMA.Ode9C213.incipit = "Who remedied mortal nature that"
 peMA.Ode9C213.text = "Who remedied mortal nature that was ailing."
+peMA.Ode9C214.incipit = "And being now on the"
 peMA.Ode9C214.text = "And being now on the right hand of the Father"
+peMA.Ode9C215.incipit = "Enthroned, He has sent the"
 peMA.Ode9C215.text = "Enthroned, He has sent the grace of the Spirit."
 
 peMA.Ode9C22.ode = misc_en_US_dedes.Ode9
 peMA.Ode9C22.mode = misc_en_US_dedes.Mode4
 peMA.Ode9C22.melody = he.h.m4_en_US_dedes.ChairoisAnassa.incipit
-peMA.Ode9C22.text = "We on whom has breathed grace that flows from the Godhead, * dazzling and resplendent now for undergoing * a strange and most majestical transformation, * know that the wise, indivisible, tri-shining * Essence is equipotent; Which we glorify." 
+peMA.Ode9C22.incipit = "We on whom has breathed"
+peMA.Ode9C22.text = "We on whom has breathed grace that flows from the Godhead, * dazzling and resplendent now for undergoing * a strange and most majestical transformation, * know that the wise, indivisible, tri-shining * Essence is equipotent; Which we glorify."
+peMA.Ode9C221.incipit = "We on whom has breathed"
 peMA.Ode9C221.text = "We on whom has breathed grace that flows from the Godhead,"
+peMA.Ode9C222.incipit = "Dazzling and resplendent now for"
 peMA.Ode9C222.text = "Dazzling and resplendent now for undergoing"
+peMA.Ode9C223.incipit = "A strange and most majestical"
 peMA.Ode9C223.text = "A strange and most majestical transformation,"
+peMA.Ode9C224.incipit = "Know that the wise, indivisible,"
 peMA.Ode9C224.text = "Know that the wise, indivisible, tri-shining"
+peMA.Ode9C225.incipit = "Essence is equipotent; Which we"
 peMA.Ode9C225.text = "Essence is equipotent; Which we glorify."
 
 peMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
 peMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.incipit
+peMA.Exaposteilarion1.incipit = "O all-holy Spirit * who"
 peMA.Exaposteilarion1.text = "O all-holy Spirit * who from the Father issues forth, * and through the Son was indwelling * in the unlettered Disciples, * sanctify all who acknowledge * You to be God, and save us."
 
 peMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode3
 peMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.incipit
+peMA.Exaposteilarion2.incipit = "Light is the Father, light"
 peMA.Exaposteilarion2.text = "Light is the Father, light the Logos; * light is the Holy Spirit, * which was sent to the Apostles * in the form of fiery tongues, * and through which the entire world is guided by the light * to worship the Holy Trinity."
 
 peMA.Lauds1.mode = misc_en_US_dedes.Mode4
 peMA.Lauds1.melody = ""
+peMA.Lauds1.incipit = "Today, all the nations in"
 peMA.Lauds1.text = "Today, all the nations in the city of David saw paradoxical things, when the Holy Spirit descended in fiery tongues, according to the utterance of Luke the theologian. For he said, when the Disciples of Christ were gathered together, a sound came like the rush of a mighty wind, and it filled all the house where they were sitting. And they all began to speak with strange words, strange dogmas, strange teachings of the Holy Trinity."
 
 peMA.Lauds2.mode = misc_en_US_dedes.Mode4
 peMA.Lauds2.melody = ""
+peMA.Lauds2.incipit = "The Holy Spirit forever was,"
 peMA.Lauds2.text = "The Holy Spirit forever was, and is and will be, never beginning, never ending, but forever ranked and numbered with the Father and the Son. He is life and life-giving, light and giver of light; goodness itself and the source of goodness; through whom the Father is known and the Son is glorified, and by all is known the one power, one order, one worship of the Holy Trinity."
 
 peMA.Lauds3.mode = misc_en_US_dedes.Mode4
 peMA.Lauds3.melody = ""
+peMA.Lauds3.incipit = "The Holy Spirit is light"
 peMA.Lauds3.text = "The Holy Spirit is light and life, and a living noetic fount. Spirit of wisdom, Spirit of understanding; good, upright, noetic, ruling, purging offences; God and deifying; He is fire issuing from fire, uttering, inciting, distributing the gifts of grace. Through Him the Prophets and the Apostles of God and the Martyrs all were crowned. Strange to hear, strange to see, fire distributed for the apportioning of gifts."
 
 peMA.MM.Lauds123as123.text = properties_en_US_dedes.media.key
 
 peMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
 peMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
+peMA.LaudsGlory.incipit = peVE.Aposticha3.incipit
 peMA.LaudsGlory.text = peVE.Aposticha3.text
 
 peLI.Antiphon2.text = "Save us, O good Comforter."
@@ -570,12 +784,15 @@ peLI.MM.EntranceHymnAF.text = properties_en_US_dedes.media.key
 
 peLI.Kontakion1.mode = peMA.Kontakion1.mode
 peLI.Kontakion1.melody = peMA.Kontakion1.melody
+peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
 peLI.Kontakion1.text = peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = peMA.Ode9C1H.mode
+peLI.TheotokosHymn.incipit = peMA.Ode9C1H.incipit
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text
 
 peLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 peLI.AfterCommunion.mode = peVE.Apolytikion1.mode
+peLI.AfterCommunion.incipit = peVE.Apolytikion1.incipit
 peLI.AfterCommunion.text = peVE.Apolytikion1.text

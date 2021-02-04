@@ -15,85 +15,106 @@ peDismissal = dismissals_en_US_dedes.dis00.resurrection
 
 peVE.Stichera01.mode = misc_en_US_dedes.Mode5
 peVE.Stichera01.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.incipit
+peVE.Stichera01.incipit = "Shining as with the light"
 peVE.Stichera01.text = "Shining as with the light of midday * is this delightful splendid middle of Eastertide, * the all-holy Resurrection of God our Savior today, * flashing with divine grace over all the earth. * It shines with the miracles of the rising of Jesus Christ; * it glows with symbols of true life incorruptible; * and it foretokens the Ascension into the heights, * pointing to the Spirit's descent and coming, for which we long, * which is the upcoming feast-day of all-divine holy Pentecost. * And thus it is granting * the surpassing peace of God and great mercy to our souls."
 
 peVE.Stichera02.mode = misc_en_US_dedes.Mode5
 peVE.Stichera02.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.incipit
+peVE.Stichera02.incipit = "Midway into the feast now,"
 peVE.Stichera02.text = "Midway into the feast now, the Lord, * who is a veritable river of glory divine, * is granting to all the streams of His tender mercies, and says, * \"Come all you who thirst and draw a drink from me.\" * For He is indeed a deep sea of mercy and sympathy, * and He is pouring out forgiveness on all the world, * cleansing us of illnesses, washing away our sins. * He rescues those who keep the feast of Pascha and celebrate * His resurrection, and honor the coming day of His glorious * Ascension with longing; * and He grants surpassing peace and great mercy to your souls."
 
 peVE.Stichera03.mode = misc_en_US_dedes.Mode5
 peVE.Stichera03.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.incipit
+peVE.Stichera03.incipit = "Standing inside the temple was"
 peVE.Stichera03.text = "Standing inside the temple was Christ, * as Lord and God, uncircumscribable as He was, * for He was divine in nature, for us now human as well, * circumscribed in body, visible as man. * To all who gave heed to Him He poured out His life-giving words. * To all He uttered, saying, \"All of you, wash your souls, * and enjoy relief from the passions' oppressive heat. * People, let no one be deprived of my vivifying drink, * for I am granting divine grace of the immortal, superior, * and heavenly Kingdom. * If you join me, the Creator, you will be glorified.\""
 
 peVE.SticGlory.mode = misc_en_US_dedes.Mode6
 peVE.SticGlory.melody = misc_en_US_dedes.Idiomelon
+peVE.SticGlory.incipit = pe.d095_en_US_dedes.peVE.SticGlory.incipit
 peVE.SticGlory.text = pe.d095_en_US_dedes.peVE.SticGlory.text
 
 peVE.Aposticha1.mode = misc_en_US_dedes.Mode3
 peVE.Aposticha1.melody = ""
+peVE.Aposticha1.incipit = oc.m3.d6_en_US_dedes.ocVE.Aposticha2.incipit
 peVE.Aposticha1.text = oc.m3.d6_en_US_dedes.ocVE.Aposticha2.text
 
 peVE.Aposticha2.mode = misc_en_US_dedes.Mode3
 peVE.Aposticha2.melody = ""
+peVE.Aposticha2.incipit = oc.m3.d1_en_US_dedes.ocVE.Stichera1.incipit
 peVE.Aposticha2.text = oc.m3.d1_en_US_dedes.ocVE.Stichera1.text
 
 peVE.Aposticha3.mode = misc_en_US_dedes.Mode3
 peVE.Aposticha3.melody = oc.m3.d6_en_US_dedes.ocVE.Aposticha3.melody
+peVE.Aposticha3.incipit = oc.m3.d6_en_US_dedes.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m3.d6_en_US_dedes.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = misc_en_US_dedes.Mode8
 peVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
+peVE.AposGlory.incipit = pe.d096_en_US_dedes.peMA.AposGlory.incipit
 peVE.AposGlory.text = pe.d096_en_US_dedes.peMA.AposGlory.text
 
 peMA.Kathisma11.mode = misc_en_US_dedes.Mode3
 peMA.Kathisma11.melody = oc.m3.d6_en_US_dedes.ocMA.Kathisma22.melody
+peMA.Kathisma11.incipit = oc.m3.d6_en_US_dedes.ocMA.Kathisma22.incipit
 peMA.Kathisma11.text = oc.m3.d6_en_US_dedes.ocMA.Kathisma22.text
 
 peMA.Kathisma12.mode = misc_en_US_dedes.Mode3
 peMA.Kathisma12.melody = oc.m3.d1_en_US_dedes.ocMA.Kathisma22.melody
+peMA.Kathisma12.incipit = oc.m3.d1_en_US_dedes.ocMA.Kathisma22.incipit
 peMA.Kathisma12.text = oc.m3.d1_en_US_dedes.ocMA.Kathisma22.text
 
 peMA.Kathisma13.mode = misc_en_US_dedes.Mode3
 peMA.Kathisma13.melody = ""
+peMA.Kathisma13.incipit = oc.m3.d6_en_US_dedes.ocMA.Kathisma32.incipit
 peMA.Kathisma13.text = oc.m3.d6_en_US_dedes.ocMA.Kathisma32.text
 
 peMA.Kathisma1T.mode = misc_en_US_dedes.Mode3
 peMA.Kathisma1T.melody = ""
+peMA.Kathisma1T.incipit = oc.m3.d6_en_US_dedes.ocVE.ApolTheotokionVM.incipit
 peMA.Kathisma1T.text = oc.m3.d6_en_US_dedes.ocVE.ApolTheotokionVM.text
 
 peMA.Kathisma21.mode = misc_en_US_dedes.Mode8
 peMA.Kathisma21.melody = pe.d095_en_US_dedes.peMA.Ode3Kathisma2.melody
+peMA.Kathisma21.incipit = pe.d095_en_US_dedes.peMA.Ode3Kathisma2.incipit
 peMA.Kathisma21.text = pe.d095_en_US_dedes.peMA.Ode3Kathisma2.text
 
 peMA.Lauds1.mode = misc_en_US_dedes.Mode3
 peMA.Lauds1.melody = ""
+peMA.Lauds1.incipit = oc.m3.d6_en_US_dedes.ocMA.Aposticha2.incipit
 peMA.Lauds1.text = oc.m3.d6_en_US_dedes.ocMA.Aposticha2.text
 
 peMA.Lauds2.mode = misc_en_US_dedes.Mode3
 peMA.Lauds2.melody = ""
+peMA.Lauds2.incipit = oc.m3.d1_en_US_dedes.ocMA.Lauds1.incipit
 peMA.Lauds2.text = oc.m3.d1_en_US_dedes.ocMA.Lauds1.text
 
 peMA.Lauds3.mode = misc_en_US_dedes.Mode3
 peMA.Lauds3.melody = ""
+peMA.Lauds3.incipit = oc.m3.d6_en_US_dedes.ocMA.Aposticha3.incipit
 peMA.Lauds3.text = oc.m3.d6_en_US_dedes.ocMA.Aposticha3.text
 
 peMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
 peMA.LaudsGlory.melody = misc_en_US_dedes.Idiomelon
+peMA.LaudsGlory.incipit = "On this mid-Paschal holiday, we"
 peMA.LaudsGlory.text = "On this mid-Paschal holiday, we remember that You, our Savior, went up to the Temple; You stood in the midst of the crowd, and You taught them publicly and said, \"I am the light of the world. Whoever follows Me will not walk in the darkness, but will have the light of immortal life.\""
 
 peMA.Aposticha1.mode = misc_en_US_dedes.Mode2
 peMA.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
+peMA.Aposticha1.incipit = "Logos, wholly with God, *"
 peMA.Aposticha1.text = "Logos, wholly with God, * You wished to lift me, fallen * in sins, and so united * yourself to me completely, O Lord who loves humanity."
 
 peMA.Aposticha2.mode = misc_en_US_dedes.Mode2
 peMA.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
+peMA.Aposticha2.incipit = "Now has the shadow ceased."
 peMA.Aposticha2.text = "Now has the shadow ceased. * Behold how the Messiah * is standing in the middle * of the feast and is shining with grace like a bright morning star."
 
 peMA.Aposticha3.mode = misc_en_US_dedes.Mode2
 peMA.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
+peMA.Aposticha3.incipit = "\"Come obediently * and drink"
 peMA.Aposticha3.text = "\"Come obediently * and drink my grace, all you who * long to drink living water; * and celebrate in spirit.\" * So did my Savior cry aloud."
 
 peMA.AposGlory.mode = misc_en_US_dedes.Mode8
 peMA.AposGlory.melody = misc_en_US_dedes.Idiomelon
+peMA.AposGlory.incipit = "Let us purify our inner"
 peMA.AposGlory.text = "Let us purify our inner selves of intrusive thoughts, and let us peer through the polished lenses of our soul; and we shall behold Christ, our Life, as He goes to the temple, in His surpassing goodness, to triumph over the enemy and to save the human race, through suffering on the Cross and the Resurrection. And let us sing to Him, \"O incomprehensible Lord, glory to You!\""
 

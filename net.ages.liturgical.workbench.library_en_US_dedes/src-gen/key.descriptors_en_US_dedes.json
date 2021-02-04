@@ -1,0 +1,2252 @@
+{'id_' : 'key|descriptors_en_US_dedes|eo|Exaposteilarion|des', 'text' : 'Eothinon Exaposteilarion'}
+{'id_' : 'key|descriptors_en_US_dedes|eo|Theotokion|des', 'text' : 'Eothinon ExapTheotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|eo|Doxasticon|des', 'text' : 'Eothinon Doxasticon'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Stichera01|des', 'text' : 'ME:VE:Sticheron 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Stichera02|des', 'text' : 'ME:VE:Sticheron 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Stichera03|des', 'text' : 'ME:VE:Sticheron 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Stichera04|des', 'text' : 'ME:VE:Sticheron 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Stichera05|des', 'text' : 'ME:VE:Sticheron 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Stichera06|des', 'text' : 'ME:VE:Sticheron 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Stichera07|des', 'text' : 'ME:VE:Sticheron 7'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Stichera08|des', 'text' : 'ME:VE:Sticheron 8'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Stichera09|des', 'text' : 'ME:VE:Sticheron 9'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Stichera10|des', 'text' : 'ME:VE:Sticheron 10'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|SticGlory|des', 'text' : 'ME:VE:Glory of Vespers'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|SticBoth|des', 'text' : 'ME:VE:Both now of Vespers'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|SticTheotokion|des', 'text' : 'ME:VE:Vespers Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|SticStavrotheotokion|des', 'text' : 'ME:VE:Vespers Stavrotheotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|SticTheotokion2|des', 'text' : 'ME:VE:Alt Vespers Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|SticStavrotheotokion2|des', 'text' : 'ME:VE:Alt Vespers Stavrotheotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Lity1|des', 'text' : 'ME:VE:Lity Sticheron 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Lity2|des', 'text' : 'ME:VE:Lity Sticheron 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Lity3|des', 'text' : 'ME:VE:Lity Sticheron 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Lity4|des', 'text' : 'ME:VE:Lity Sticheron 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Lity5|des', 'text' : 'ME:VE:Lity Sticheron 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Lity6|des', 'text' : 'ME:VE:Lity Sticheron 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Lity7|des', 'text' : 'ME:VE:Lity Sticheron 7'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Lity8|des', 'text' : 'ME:VE:Lity Sticheron 8'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|LityGlory|des', 'text' : 'ME:VE:Glory of the Lity'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|LityBoth|des', 'text' : 'ME:VE:Both now of the Lity'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Aposticha1a|des', 'text' : 'ME:VE:Alt Aposticha Sticheron 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Aposticha2a|des', 'text' : 'ME:VE:Alt Aposticha Sticheron 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Aposticha3a|des', 'text' : 'ME:VE:Alt Aposticha Sticheron 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Aposticha1|des', 'text' : 'ME:VE:Aposticha Sticheron 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Aposticha2|des', 'text' : 'ME:VE:Aposticha Sticheron 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Aposticha3|des', 'text' : 'ME:VE:Aposticha Sticheron 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Aposticha4|des', 'text' : 'ME:VE:Aposticha Sticheron 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|AposGlory|des', 'text' : 'ME:VE:Glory of the Aposticha'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|AposBoth|des', 'text' : 'ME:VE:Both now of the Aposticha'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|AposTheotokion|des', 'text' : 'ME:VE:Theotokion of the Aposticha'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|AposStavrotheotokion|des', 'text' : 'ME:VE:Stavrotheotokion of the Aposticha'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Apolytikion1|des', 'text' : 'ME:Apolytikion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Apolytikion2|des', 'text' : 'ME:Apolytikion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|Apolytikion3|des', 'text' : 'ME:Apolytikion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Kathisma11|des', 'text' : 'ME:MA:Kathisma 1:1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Kathisma12|des', 'text' : 'ME:MA:Kathisma 1:2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Kathisma13|des', 'text' : 'ME:MA:Kathisma 1:3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Kathisma1T|des', 'text' : 'ME:MA:Kathisma 1 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Kathisma1St|des', 'text' : 'ME:MA:Kathisma 1 Stavrotheotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Kathisma21|des', 'text' : 'ME:MA:Kathisma 2:1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Kathisma22|des', 'text' : 'ME:MA:Kathisma 2:2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Kathisma23|des', 'text' : 'ME:MA:Kathisma 2:3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Kathisma2T|des', 'text' : 'ME:MA:Kathisma 2 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Kathisma31|des', 'text' : 'ME:MA:Kathisma 3:1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Kathisma32|des', 'text' : 'ME:MA:Kathisma 3:2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Kathisma3T|des', 'text' : 'ME:MA:Kathisma 3 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|MM|Prokeimenon|des', 'text' : 'Media Key'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|PostGospelGlory|des', 'text' : 'ME:MA:Post-Gospel Glory'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|PostGospelBoth|des', 'text' : 'ME:MA:Post-Gospel Both now'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|PostGospelIdiomelon|des', 'text' : 'ME:MA:Post-Gospel Idiomelon'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|C1Poet|des', 'text' : 'ME:MA:Poet of Canon 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|C1Acrostic|des', 'text' : 'ME:MA:Acrostic of Canon 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|C2Poet|des', 'text' : 'ME:MA:Poet of Canon 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|C2Acrostic|des', 'text' : 'ME:MA:Acrostic of Canon 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|C3Poet|des', 'text' : 'ME:MA:Poet of Canon 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|C3Acrostic|des', 'text' : 'ME:MA:Acrostic of Canon 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C1H|des', 'text' : 'ME:MA:ME:MA:Canon 1 Ode 1 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C11|des', 'text' : 'ME:MA:ME:MA:Canon 1 Ode 1 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C12|des', 'text' : 'ME:MA:Canon 1 Ode 1 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C13|des', 'text' : 'ME:MA:Canon 1 Ode 1 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C14|des', 'text' : 'ME:MA:Canon 1 Ode 1 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C15|des', 'text' : 'ME:MA:Canon 1 Ode 1 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C1Tr|des', 'text' : 'ME:MA:Canon 1 Ode 1 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C1T|des', 'text' : 'ME:MA:Canon 1 Ode 1 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C2H|des', 'text' : 'ME:MA:Canon 2 Ode 1 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C21|des', 'text' : 'ME:MA:Canon 2 Ode 1 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C22|des', 'text' : 'ME:MA:Canon 2 Ode 1 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C23|des', 'text' : 'ME:MA:Canon 2 Ode 1 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C24|des', 'text' : 'ME:MA:Canon 2 Ode 1 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C25|des', 'text' : 'ME:MA:Canon 2 Ode 1 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C26|des', 'text' : 'ME:MA:Canon 2 Ode 1 Troparion 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C2Tr|des', 'text' : 'ME:MA:Canon 2 Ode 1 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C2T|des', 'text' : 'ME:MA:Canon 2 Ode 1 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C31|des', 'text' : 'ME:MA:Canon 3 Ode 1 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C32|des', 'text' : 'ME:MA:Canon 3 Ode 1 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C33|des', 'text' : 'ME:MA:Canon 3 Ode 1 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C34|des', 'text' : 'ME:MA:Canon 3 Ode 1 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C3Tr|des', 'text' : 'ME:MA:Canon 3 Ode 1 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C3T|des', 'text' : 'ME:MA:Canon 3 Ode 1 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1K|des', 'text' : 'ME:MA:Ode 1 Katavasia'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C1H|des', 'text' : 'ME:MA:Canon 1 Ode 3 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C11|des', 'text' : 'ME:MA:Canon 1 Ode 3 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C12|des', 'text' : 'ME:MA:Canon 1 Ode 3 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C13|des', 'text' : 'ME:MA:Canon 1 Ode 3 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C14|des', 'text' : 'ME:MA:Canon 1 Ode 3 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C15|des', 'text' : 'ME:MA:Canon 1 Ode 3 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C1Tr|des', 'text' : 'ME:MA:Canon 1 Ode 3 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C1T|des', 'text' : 'ME:MA:Canon 1 Ode 3 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C2H|des', 'text' : 'ME:MA:Canon 2 Ode 3 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C21|des', 'text' : 'ME:MA:Canon 2 Ode 3 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C22|des', 'text' : 'ME:MA:Canon 2 Ode 3 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C23|des', 'text' : 'ME:MA:Canon 2 Ode 3 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C24|des', 'text' : 'ME:MA:Canon 2 Ode 3 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C25|des', 'text' : 'ME:MA:Canon 2 Ode 3 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C26|des', 'text' : 'ME:MA:Canon 2 Ode 3 Troparion 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C27|des', 'text' : 'ME:MA:Canon 2 Ode 3 Troparion 7'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C2Tr|des', 'text' : 'ME:MA:Canon 2 Ode 3 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C2T|des', 'text' : 'ME:MA:Canon 2 Ode 3 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C31|des', 'text' : 'ME:MA:Canon 3 Ode 3 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C32|des', 'text' : 'ME:MA:Canon 3 Ode 3 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C33|des', 'text' : 'ME:MA:Canon 3 Ode 3 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C34|des', 'text' : 'ME:MA:Canon 3 Ode 3 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C3Tr|des', 'text' : 'ME:MA:Canon 3 Ode 3 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C3T|des', 'text' : 'ME:MA:Canon 3 Ode 3 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3H|des', 'text' : 'ME:MA:Ode 3 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3K|des', 'text' : 'ME:MA:Ode 3 Katavasia'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Hypakoe|des', 'text' : 'ME:MA:Hypakoe'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3Kathisma1|des', 'text' : 'ME:MA:Mid-Ode Kathisma 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3Kathisma2|des', 'text' : 'ME:MA:Mid-Ode Kathisma 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3Kathisma3|des', 'text' : 'ME:MA:Mid-Ode Kathisma 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3KathismaT|des', 'text' : 'ME:MA:Mid-Ode Kathisma Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3KathismaSt|des', 'text' : 'ME:MA:Mid-Ode Kathisma Stavrotheotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C1H|des', 'text' : 'ME:MA:Canon 1 Ode 4 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C11|des', 'text' : 'ME:MA:Canon 1 Ode 4 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C12|des', 'text' : 'ME:MA:Canon 1 Ode 4 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C13|des', 'text' : 'ME:MA:Canon 1 Ode 4 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C14|des', 'text' : 'ME:MA:Canon 1 Ode 4 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C15|des', 'text' : 'ME:MA:Canon 1 Ode 4 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C1Tr|des', 'text' : 'ME:MA:Canon 1 Ode 4 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C1T|des', 'text' : 'ME:MA:Canon 1 Ode 4 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C2H|des', 'text' : 'ME:MA:Canon 2 Ode 4 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C21|des', 'text' : 'ME:MA:Canon 2 Ode 4 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C22|des', 'text' : 'ME:MA:Canon 2 Ode 4 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C23|des', 'text' : 'ME:MA:Canon 2 Ode 4 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C24|des', 'text' : 'ME:MA:Canon 2 Ode 4 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C25|des', 'text' : 'ME:MA:Canon 2 Ode 4 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C26|des', 'text' : 'ME:MA:Canon 2 Ode 4 Troparion 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C27|des', 'text' : 'ME:MA:Canon 2 Ode 4 Troparion 7'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C2Tr|des', 'text' : 'ME:MA:Canon 2 Ode 4 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C2T|des', 'text' : 'ME:MA:Canon 2 Ode 4 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C31|des', 'text' : 'ME:MA:Canon 3 Ode 4 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C32|des', 'text' : 'ME:MA:Canon 3 Ode 4 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C33|des', 'text' : 'ME:MA:Canon 3 Ode 4 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C34|des', 'text' : 'ME:MA:Canon 3 Ode 4 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C3Tr|des', 'text' : 'ME:MA:Canon 3 Ode 4 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C3T|des', 'text' : 'ME:MA:Canon 3 Ode 4 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4K|des', 'text' : 'ME:MA:Ode 4 Katavasia'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C1H|des', 'text' : 'ME:MA:Canon 1 Ode 5 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C11|des', 'text' : 'ME:MA:Canon 1 Ode 5 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C12|des', 'text' : 'ME:MA:Canon 1 Ode 5 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C13|des', 'text' : 'ME:MA:Canon 1 Ode 5 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C14|des', 'text' : 'ME:MA:Canon 1 Ode 5 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C15|des', 'text' : 'ME:MA:Canon 1 Ode 5 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C1Tr|des', 'text' : 'ME:MA:Canon 1 Ode 5 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C1T|des', 'text' : 'ME:MA:Canon 1 Ode 5 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C2H|des', 'text' : 'ME:MA:Canon 2 Ode 5 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C21|des', 'text' : 'ME:MA:Canon 2 Ode 5 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C22|des', 'text' : 'ME:MA:Canon 2 Ode 5 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C23|des', 'text' : 'ME:MA:Canon 2 Ode 5 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C24|des', 'text' : 'ME:MA:Canon 2 Ode 5 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C25|des', 'text' : 'ME:MA:Canon 2 Ode 5 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C26|des', 'text' : 'ME:MA:Canon 2 Ode 5 Troparion 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C2Tr|des', 'text' : 'ME:MA:Canon 2 Ode 5 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C2T|des', 'text' : 'ME:MA:Canon 2 Ode 5 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C31|des', 'text' : 'ME:MA:Canon 3 Ode 5 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C32|des', 'text' : 'ME:MA:Canon 3 Ode 5 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C33|des', 'text' : 'ME:MA:Canon 3 Ode 5 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C34|des', 'text' : 'ME:MA:Canon 3 Ode 5 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C3Tr|des', 'text' : 'ME:MA:Canon 3 Ode 5 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C3T|des', 'text' : 'ME:MA:Canon 3 Ode 5 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5K|des', 'text' : 'ME:MA:Ode 5 Katavasia'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C1H|des', 'text' : 'ME:MA:Canon 1 Ode 6 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C11|des', 'text' : 'ME:MA:Canon 1 Ode 6 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C12|des', 'text' : 'ME:MA:Canon 1 Ode 6 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C13|des', 'text' : 'ME:MA:Canon 1 Ode 6 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C14|des', 'text' : 'ME:MA:Canon 1 Ode 6 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C15|des', 'text' : 'ME:MA:Canon 1 Ode 6 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C1Tr|des', 'text' : 'ME:MA:Canon 1 Ode 6 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C1T|des', 'text' : 'ME:MA:Canon 1 Ode 6 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C2H|des', 'text' : 'ME:MA:Canon 2 Ode 6 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C21|des', 'text' : 'ME:MA:Canon 2 Ode 6 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C22|des', 'text' : 'ME:MA:Canon 2 Ode 6 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C23|des', 'text' : 'ME:MA:Canon 2 Ode 6 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C24|des', 'text' : 'ME:MA:Canon 2 Ode 6 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C25|des', 'text' : 'ME:MA:Canon 2 Ode 6 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C26|des', 'text' : 'ME:MA:Canon 2 Ode 6 Troparion 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C2Tr|des', 'text' : 'ME:MA:Canon 2 Ode 6 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C2T|des', 'text' : 'ME:MA:Canon 2 Ode 6 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C31|des', 'text' : 'ME:MA:Canon 3 Ode 6 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C32|des', 'text' : 'ME:MA:Canon 3 Ode 6 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C33|des', 'text' : 'ME:MA:Canon 3 Ode 6 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C34|des', 'text' : 'ME:MA:Canon 3 Ode 6 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C3Tr|des', 'text' : 'ME:MA:Canon 3 Ode 6 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C3T|des', 'text' : 'ME:MA:Canon 3 Ode 6 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6H|des', 'text' : 'ME:MA:Ode 6 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6K|des', 'text' : 'ME:MA:Ode 6 Katavasia'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Kontakion1|des', 'text' : 'ME:MA:Kontakion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Oikos1|des', 'text' : 'ME:MA:Oikos 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Kontakion2|des', 'text' : 'ME:MA:Kontakion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Oikos2|des', 'text' : 'ME:MA:Oikos 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C1H|des', 'text' : 'ME:MA:Canon 1 Ode 7 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C11|des', 'text' : 'ME:MA:Canon 1 Ode 7 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C12|des', 'text' : 'ME:MA:Canon 1 Ode 7 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C13|des', 'text' : 'ME:MA:Canon 1 Ode 7 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C14|des', 'text' : 'ME:MA:Canon 1 Ode 7 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C15|des', 'text' : 'ME:MA:Canon 1 Ode 7 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C1Tr|des', 'text' : 'ME:MA:Canon 1 Ode 7 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C1T|des', 'text' : 'ME:MA:Canon 1 Ode 7 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C2H|des', 'text' : 'ME:MA:Canon 2 Ode 7 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C21|des', 'text' : 'ME:MA:Canon 2 Ode 7 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C22|des', 'text' : 'ME:MA:Canon 2 Ode 7 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C23|des', 'text' : 'ME:MA:Canon 2 Ode 7 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C24|des', 'text' : 'ME:MA:Canon 2 Ode 7 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C25|des', 'text' : 'ME:MA:Canon 2 Ode 7 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C26|des', 'text' : 'ME:MA:Canon 2 Ode 7 Troparion 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C2Tr|des', 'text' : 'ME:MA:Canon 2 Ode 7 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C2T|des', 'text' : 'ME:MA:Canon 2 Ode 7 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C31|des', 'text' : 'ME:MA:Canon 3 Ode 7 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C32|des', 'text' : 'ME:MA:Canon 3 Ode 7 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C33|des', 'text' : 'ME:MA:Canon 3 Ode 7 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C34|des', 'text' : 'ME:MA:Canon 3 Ode 7 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C3Tr|des', 'text' : 'ME:MA:Canon 3 Ode 7 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C3T|des', 'text' : 'ME:MA:Canon 3 Ode 7 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7K|des', 'text' : 'ME:MA:Ode 7 Katavasia'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C1H|des', 'text' : 'ME:MA:Canon 1 Ode 8 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C11|des', 'text' : 'ME:MA:Canon 1 Ode 8 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C12|des', 'text' : 'ME:MA:Canon 1 Ode 8 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C13|des', 'text' : 'ME:MA:Canon 1 Ode 8 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C14|des', 'text' : 'ME:MA:Canon 1 Ode 8 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C15|des', 'text' : 'ME:MA:Canon 1 Ode 8 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C16|des', 'text' : 'ME:MA:Canon 1 Ode 8 Troparion 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C1Tr|des', 'text' : 'ME:MA:Canon 1 Ode 8 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C1T|des', 'text' : 'ME:MA:Canon 1 Ode 8 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C2H|des', 'text' : 'ME:MA:Canon 2 Ode 8 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C21|des', 'text' : 'ME:MA:Canon 2 Ode 8 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C22|des', 'text' : 'ME:MA:Canon 2 Ode 8 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C23|des', 'text' : 'ME:MA:Canon 2 Ode 8 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C24|des', 'text' : 'ME:MA:Canon 2 Ode 8 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C25|des', 'text' : 'ME:MA:Canon 2 Ode 8 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C26|des', 'text' : 'ME:MA:Canon 2 Ode 8 Troparion 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C2Tr|des', 'text' : 'ME:MA:Canon 2 Ode 8 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C2T|des', 'text' : 'ME:MA:Canon 2 Ode 8 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C31|des', 'text' : 'ME:MA:Canon 3 Ode 8 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C32|des', 'text' : 'ME:MA:Canon 3 Ode 8 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C33|des', 'text' : 'ME:MA:Canon 3 Ode 8 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C34|des', 'text' : 'ME:MA:Canon 3 Ode 8 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C3Tr|des', 'text' : 'ME:MA:Canon 3 Ode 8 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C3T|des', 'text' : 'ME:MA:Canon 3 Ode 8 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8H|des', 'text' : 'ME:MA:Ode 8 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8K|des', 'text' : 'ME:MA:Ode 8 Katavasia'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1M01|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1M02|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1M03|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1M04|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1M05|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1M06|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1M07|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion 7'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1M08|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion 8'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1M09|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion 9'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1M10|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion 10'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1M11|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion 11'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1M12|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion 12'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1M13|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion 13'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1M14|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion 14'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1MTr|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1MTh|des', 'text' : 'ME:MA:Ode 9 Canon 1 Megalynarion Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2M01|des', 'text' : 'ME:MA:Ode 9 Canon 2 Megalynarion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2M02|des', 'text' : 'ME:MA:Ode 9 Canon 2 Megalynarion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2M03|des', 'text' : 'ME:MA:Ode 9 Canon 2 Megalynarion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2M04|des', 'text' : 'ME:MA:Ode 9 Canon 2 Megalynarion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2M05|des', 'text' : 'ME:MA:Ode 9 Canon 2 Megalynarion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2M06|des', 'text' : 'ME:MA:Ode 9 Canon 2 Megalynarion 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2MTr|des', 'text' : 'ME:MA:Ode 9 Canon 2 Megalynarion Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2MTh|des', 'text' : 'ME:MA:Ode 9 Canon 2 Megalynarion Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C3M01|des', 'text' : 'ME:MA:Ode 9 Canon 3 Megalynarion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C3M02|des', 'text' : 'ME:MA:Ode 9 Canon 3 Megalynarion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C3MTr|des', 'text' : 'ME:MA:Ode 9 Canon 3 Megalynarion Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C3MTh|des', 'text' : 'ME:MA:Ode 9 Canon 3 Megalynarion Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1H|des', 'text' : 'ME:MA:Canon 1 Ode 9 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C11|des', 'text' : 'ME:MA:Canon 1 Ode 9 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C12|des', 'text' : 'ME:MA:Canon 1 Ode 9 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C13|des', 'text' : 'ME:MA:Canon 1 Ode 9 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C14|des', 'text' : 'ME:MA:Canon 1 Ode 9 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C15|des', 'text' : 'ME:MA:Canon 1 Ode 9 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C16|des', 'text' : 'ME:MA:Canon 1 Ode 9 Troparion 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1Tr|des', 'text' : 'ME:MA:Canon 1 Ode 9 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C1T|des', 'text' : 'ME:MA:Canon 1 Ode 9 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2H|des', 'text' : 'ME:MA:Canon 2 Ode 9 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C21|des', 'text' : 'ME:MA:Canon 2 Ode 9 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C22|des', 'text' : 'ME:MA:Canon 2 Ode 9 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C23|des', 'text' : 'ME:MA:Canon 2 Ode 9 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C24|des', 'text' : 'ME:MA:Canon 2 Ode 9 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C25|des', 'text' : 'ME:MA:Canon 2 Ode 9 Troparion 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C26|des', 'text' : 'ME:MA:Canon 2 Ode 9 Troparion 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C27|des', 'text' : 'ME:MA:Canon 2 Ode 9 Troparion 7'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2Tr|des', 'text' : 'ME:MA:Canon 2 Ode 9 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2T|des', 'text' : 'ME:MA:Canon 2 Ode 9 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C31|des', 'text' : 'ME:MA:Canon 3 Ode 9 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C32|des', 'text' : 'ME:MA:Canon 3 Ode 9 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C33|des', 'text' : 'ME:MA:Canon 3 Ode 9 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C34|des', 'text' : 'ME:MA:Canon 3 Ode 9 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C3Tr|des', 'text' : 'ME:MA:Canon 3 Ode 9 Triadic'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C3T|des', 'text' : 'ME:MA:Canon 3 Ode 9 Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9H|des', 'text' : 'ME:MA:Ode 9 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9K|des', 'text' : 'ME:MA:Ode 9 Katavasia'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Exaposteilarion1|des', 'text' : 'ME:MA:Exaposteilarion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Exaposteilarion2|des', 'text' : 'ME:MA:Exaposteilarion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Exaposteilarion3|des', 'text' : 'ME:MA:Exaposteilarion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Exaposteilarion4|des', 'text' : 'ME:MA:Exaposteilarion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|ExapTheotokion|des', 'text' : 'ME:MA:Exaposteilarion Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|ExapStavrotheotokion|des', 'text' : 'ME:MA:Exaposteilarion Stavrotheotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Lauds1|des', 'text' : 'ME:MA:Lauds Sticheron 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Lauds2|des', 'text' : 'ME:MA:Lauds Sticheron 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Lauds3|des', 'text' : 'ME:MA:Lauds Sticheron 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Lauds4|des', 'text' : 'ME:MA:Lauds Sticheron 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Lauds5|des', 'text' : 'ME:MA:Lauds Sticheron 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Lauds6|des', 'text' : 'ME:MA:Lauds Sticheron 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Lauds7|des', 'text' : 'ME:MA:Lauds Sticheron 7'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Lauds8|des', 'text' : 'ME:MA:Lauds Sticheron 8'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|MM|Lauds123as456|des', 'text' : 'Media Key'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|LaudsGlory|des', 'text' : 'ME:MA:Lauds Glory'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|LaudsBoth|des', 'text' : 'ME:MA:Lauds Both now'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|LaudsTheotokion|des', 'text' : 'ME:MA:Lauds Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|LaudsStavrotheotokion|des', 'text' : 'ME:MA:Lauds Stavrotheotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|MM|LaudsSunday|des', 'text' : 'Media Key'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Aposticha1|des', 'text' : 'ME:MA:Aposticha Sticheron 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Aposticha2|des', 'text' : 'ME:MA:Aposticha Sticheron 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Aposticha3|des', 'text' : 'ME:MA:Aposticha Sticheron 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Aposticha4|des', 'text' : 'ME:MA:Aposticha Sticheron 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|AposGlory|des', 'text' : 'ME:MA:Aposticha Glory'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|AposBoth|des', 'text' : 'ME:MA:Aposticha Both now'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|AposTheotokion|des', 'text' : 'ME:MA:Aposticha Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|AposStavrotheotokion|des', 'text' : 'ME:MA:Aposticha Stavrotheotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|AdditionalIdiomelon1|des', 'text' : 'ME:MA:Additional Idiomelon 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|AdditionalIdiomelon2|des', 'text' : 'ME:MA:Additional Idiomelon 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|AdditionalIdiomelon3|des', 'text' : 'ME:MA:Additional Idiomelon 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|AdditionalIdiomelon4|des', 'text' : 'ME:MA:Additional Idiomelon 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|AdditionalIdiomelon5|des', 'text' : 'ME:MA:Additional Idiomelon 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|AdditionalIdiomelon6|des', 'text' : 'ME:MA:Additional Idiomelon 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|AdditionalIdiomelonGlory|des', 'text' : 'ME:MA:Additional Idiomelon Glory'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|AdditionalIdiomelonBoth|des', 'text' : 'ME:MA:Additional Idiomelon Both now'}
+{'id_' : 'key|descriptors_en_US_dedes|meLI|Antiphon2|des', 'text' : 'ME:LI:Antiphon 2 refrain'}
+{'id_' : 'key|descriptors_en_US_dedes|meLI|MM|EntranceHymn|des', 'text' : 'Media Key'}
+{'id_' : 'key|descriptors_en_US_dedes|meLI|Kontakion1|des', 'text' : 'ME:LI:Kontakion'}
+{'id_' : 'key|descriptors_en_US_dedes|meLI|TheotokosHymn|des', 'text' : 'ME:LI:Hymn to the Theotokos'}
+{'id_' : 'key|descriptors_en_US_dedes|meLI|MM|CommunionHymn|des', 'text' : 'Media Key'}
+{'id_' : 'key|descriptors_en_US_dedes|meLI|AfterCommunion|des', 'text' : 'ME:LI:Hymn After Communion'}
+{'id_' : 'key|descriptors_en_US_dedes|meMegalynarion|des', 'text' : 'ME:Megalynarion'}
+{'id_' : 'key|descriptors_en_US_dedes|meCoupletv1|des', 'text' : 'ME:Service Poet's Couplet verse 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meCoupletv2|des', 'text' : 'ME:Service Poet's Couplet verse 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMegalynarion2|des', 'text' : 'ME:Megalynarion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meMegalynarion3|des', 'text' : 'ME:Megalynarion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meSV|Stichera1|des', 'text' : 'ME:SV:Sticheron 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meSV|Stichera2|des', 'text' : 'ME:SV:Sticheron 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meSV|Stichera3|des', 'text' : 'ME:SV:Sticheron 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meSV|Stichera4|des', 'text' : 'ME:SV:Sticheron 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meSV|Stichera5|des', 'text' : 'ME:SV:Sticheron 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meSV|Stichera6|des', 'text' : 'ME:SV:Sticheron 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meSV|SticGlory|des', 'text' : 'ME:SV:Glory of Small Vespers'}
+{'id_' : 'key|descriptors_en_US_dedes|meSV|SticBoth|des', 'text' : 'ME:SV:Both Now of Small Vespers '}
+{'id_' : 'key|descriptors_en_US_dedes|meSV|Aposticha1|des', 'text' : 'ME:SV:Aposticha Sticheron 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meSV|Aposticha2|des', 'text' : 'ME:SV:Aposticha Sticheron 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meSV|Aposticha3|des', 'text' : 'ME:SV:Aposticha Sticheron 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meSV|AposGlory|des', 'text' : 'ME:SV:Glory of Aposticha'}
+{'id_' : 'key|descriptors_en_US_dedes|meSV|AposBoth|des', 'text' : 'ME:SV:Both now Aposticha'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|SticGlory1|des', 'text' : 'ME:VE:Eight-mode Glory part 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|SticGlory2|des', 'text' : 'ME:VE:Eight-mode Glory part 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|SticGlory3|des', 'text' : 'ME:VE:Eight-mode Glory part 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|SticGlory4|des', 'text' : 'ME:VE:Eight-mode Glory part 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|SticGlory5|des', 'text' : 'ME:VE:Eight-mode Glory part 5'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|SticGlory6|des', 'text' : 'ME:VE:Eight-mode Glory part 6'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|SticGlory7|des', 'text' : 'ME:VE:Eight-mode Glory part 7'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|SticGlory8|des', 'text' : 'ME:VE:Eight-mode Glory part 8'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|SticGlory9|des', 'text' : 'ME:VE:Eight-mode Glory part 9'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|ProphecyTroparion1|des', 'text' : 'ME:VE:Prophecy Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|ProphecyTroparion1Refrain|des', 'text' : 'ME:VE:Refrain of Prophecy Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|ProphecyTroparion2|des', 'text' : 'ME:VE:Prophecy Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|ProphecyTroparion2Refrain|des', 'text' : 'ME:VE:Refrain of Prophecy Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|GeneralApolytikion1|des', 'text' : 'ME:General Apolytikion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|GeneralApolytikion1|name|des', 'text' : 'ME:Name used in General Apolytikion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|GeneralApolytikion2|des', 'text' : 'ME:General Apolytikion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|GeneralApolytikion2|name|des', 'text' : 'ME:Name used in General Apolytikion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|GeneralApolytikion3|des', 'text' : 'ME:General Apolytikion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|GeneralApolytikion3|name|des', 'text' : 'ME:Name used in General Apolytikion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|C1Acrostic|des', 'text' : 'ME:CO:Canon 1 Acrostic'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|C2Acrostic|des', 'text' : 'ME:CO:Canon 2 Acrostic'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode1C1H|des', 'text' : 'ME:CO:Canon 1 Ode 1 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode1C11|des', 'text' : 'ME:CO:Canon 1 Ode 1 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode1C12|des', 'text' : 'ME:CO:Canon 1 Ode 1 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode1C13|des', 'text' : 'ME:CO:Canon 1 Ode 1 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode1C14|des', 'text' : 'ME:CO:Canon 1 Ode 1 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode3C1H|des', 'text' : 'ME:CO:Canon 1 Ode 3 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode3C11|des', 'text' : 'ME:CO:Canon 1 Ode 3 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode3C12|des', 'text' : 'ME:CO:Canon 1 Ode 3 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode3C13|des', 'text' : 'ME:CO:Canon 1 Ode 3 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode3C14|des', 'text' : 'ME:CO:Canon 1 Ode 3 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Kathisma11|des', 'text' : 'ME:CO:Ode 3 Kathisma 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Kathisma12|des', 'text' : 'ME:CO:Ode 3 Kathisma 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode4C1H|des', 'text' : 'ME:CO:Canon 1 Ode 4 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode4C11|des', 'text' : 'ME:CO:Canon 1 Ode 4 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode4C12|des', 'text' : 'ME:CO:Canon 1 Ode 4 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode4C13|des', 'text' : 'ME:CO:Canon 1 Ode 4 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode4C14|des', 'text' : 'ME:CO:Canon 1 Ode 4 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode5C1H|des', 'text' : 'ME:CO:Canon 1 Ode 5 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode5C11|des', 'text' : 'ME:CO:Canon 1 Ode 5 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode5C12|des', 'text' : 'ME:CO:Canon 1 Ode 5 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode5C13|des', 'text' : 'ME:CO:Canon 1 Ode 5 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode5C14|des', 'text' : 'ME:CO:Canon 1 Ode 5 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode5C2H|des', 'text' : 'ME:CO:Canon 2 Ode 5 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode5C21|des', 'text' : 'ME:CO:Canon 2 Ode 5 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode5C22|des', 'text' : 'ME:CO:Canon 2 Ode 5 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode6C1H|des', 'text' : 'ME:CO:Canon 1 Ode 6 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode6C11|des', 'text' : 'ME:CO:Canon 1 Ode 6 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode6C12|des', 'text' : 'ME:CO:Canon 1 Ode 6 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode6C13|des', 'text' : 'ME:CO:Canon 1 Ode 6 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode6C14|des', 'text' : 'ME:CO:Canon 1 Ode 6 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Kathisma21|des', 'text' : 'ME:CO:Ode 6 Kathisma 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Kathisma22|des', 'text' : 'ME:CO:Ode 6 Kathisma 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode7C1H|des', 'text' : 'ME:CO:Canon 1 Ode 7 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode7C11|des', 'text' : 'ME:CO:Canon 1 Ode 7 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode7C12|des', 'text' : 'ME:CO:Canon 1 Ode 7 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode7C13|des', 'text' : 'ME:CO:Canon 1 Ode 7 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode7C14|des', 'text' : 'ME:CO:Canon 1 Ode 7 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode8C1H|des', 'text' : 'ME:CO:Canon 1 Ode 8 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode8C11|des', 'text' : 'ME:CO:Canon 1 Ode 8 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode8C12|des', 'text' : 'ME:CO:Canon 1 Ode 8 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode8C13|des', 'text' : 'ME:CO:Canon 1 Ode 8 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode8C14|des', 'text' : 'ME:CO:Canon 1 Ode 8 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode8C21|des', 'text' : 'ME:CO:Canon 2 Ode 8 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode8C22|des', 'text' : 'ME:CO:Canon 2 Ode 8 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode8C23|des', 'text' : 'ME:CO:Canon 2 Ode 8 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode8C24|des', 'text' : 'ME:CO:Canon 2 Ode 8 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode8C2H|des', 'text' : 'ME:CO:Canon 2 Ode 8 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode9C1H|des', 'text' : 'ME:CO:Canon 1 Ode 9 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode9C11|des', 'text' : 'ME:CO:Canon 1 Ode 9 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode9C12|des', 'text' : 'ME:CO:Canon 1 Ode 9 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode9C13|des', 'text' : 'ME:CO:Canon 1 Ode 9 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode9C14|des', 'text' : 'ME:CO:Canon 1 Ode 9 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode9C21|des', 'text' : 'ME:CO:Canon 2 Ode 9 Troparion 1'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode9C22|des', 'text' : 'ME:CO:Canon 2 Ode 9 Troparion 2'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode9C23|des', 'text' : 'ME:CO:Canon 2 Ode 9 Troparion 3'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode9C24|des', 'text' : 'ME:CO:Canon 2 Ode 9 Troparion 4'}
+{'id_' : 'key|descriptors_en_US_dedes|meCO|Ode9C2H|des', 'text' : 'ME:CO:Canon 2 Ode 9 Heirmos'}
+{'id_' : 'key|descriptors_en_US_dedes|meH|title', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH|translation', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH1|title', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH1|Troparion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH1|Idiomelon1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH1|Idiomelon2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH1|Idiomelon3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH1|Kontakion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH3|title', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH3|Troparion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH3|Idiomelon1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH3|Idiomelon2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH3|Idiomelon3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH3|Kontakion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH6|title', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH6|Troparion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH6|Idiomelon1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH6|Idiomelon2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH6|Idiomelon3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH6|Kontakion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH9|title', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH9|Troparion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH9|Idiomelon1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH9|Idiomelon2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH9|Idiomelon3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meH9|Kontakion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|TheotokosHymn|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meVE|MM|CommunionHymn|des', 'text' : 'For media only.'}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|C2Acrostic1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|C2Acrostic2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|C2Acrostic3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|C2Acrostic4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|C2Acrostic5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C2H1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C2H2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C2H3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C2H4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C2H5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C211|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C212|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C213|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C214|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C215|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C221|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C222|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C223|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C224|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode1C225|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C2H1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C2H2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C2H3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C2H4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C2H5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C211|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C212|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C213|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C214|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C215|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C221|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C222|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C223|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C224|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode3C225|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C2H1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C2H2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C2H3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C2H4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C2H5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C211|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C212|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C213|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C214|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C215|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C221|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C222|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C223|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C224|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C225|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C231|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C232|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C233|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C234|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode4C235|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C2H1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C2H2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C2H3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C2H4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C2H5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C211|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C212|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C213|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C214|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C215|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C221|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C222|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C223|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C224|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode5C225|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C2H1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C2H2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C2H3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C2H4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C2H5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C211|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C212|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C213|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C214|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C215|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C221|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C222|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C223|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C224|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode6C225|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C2H1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C2H2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C2H3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C2H4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C2H5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C211|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C212|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C213|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C214|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C215|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C221|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C222|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C223|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C224|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C225|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C231|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C232|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C233|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C234|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode7C235|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C2H1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C2H2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C2H3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C2H4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C2H5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C211|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C212|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C213|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C214|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C215|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C221|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C222|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C223|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C224|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode8C225|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2H1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2H2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2H3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2H4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C2H5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C211|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C212|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C213|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C214|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C215|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C221|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C222|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C223|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C224|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meMA|Ode9C225|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Idiomelon1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Idiomelon2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Idiomelon3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|IdiomelonGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Prophecy1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Prophecy2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Prophecy3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Prokeimenon|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|ProkeimenonVerse|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Epistle|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Alleluia|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|AlleluiaVerse1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|AlleluiaVerse2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R01|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R01', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Prayer1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R02|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R02', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Prayer2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R03|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R03', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Prayer3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R04|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R04', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Prayer4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R05|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R05', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Prayer5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R06|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R06', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Apolytikion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R07|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R07', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R08|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R08', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|Idiomelon4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R09|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|meGW|R09', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|mePL|Glory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|mePL|Theotokion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocGE|MM|GlorySticheraric|des', 'text' : 'For media only.'}
+{'id_' : 'key|descriptors_en_US_dedes|ocGE|MM|BothSticheraric|des', 'text' : 'For media only.'}
+{'id_' : 'key|descriptors_en_US_dedes|ocGE|MM|GloryHeirmologic|des', 'text' : 'For media only.'}
+{'id_' : 'key|descriptors_en_US_dedes|ocGE|MM|BothHeirmologic|des', 'text' : 'For media only.'}
+{'id_' : 'key|descriptors_en_US_dedes|ocSV|Dogmatic|des', 'text' : 'OC:SV:Dogmatic'}
+{'id_' : 'key|descriptors_en_US_dedes|ocSV|Aposticha1|des', 'text' : 'OC:SV:Aposticha 1'}
+{'id_' : 'key|descriptors_en_US_dedes|ocSV|Aposticha2|des', 'text' : 'OC:SV:Aposticha 2'}
+{'id_' : 'key|descriptors_en_US_dedes|ocSV|Aposticha3|des', 'text' : 'OC:SV:Aposticha 3'}
+{'id_' : 'key|descriptors_en_US_dedes|ocSV|AposDogmatic|des', 'text' : 'OC:SV:Aposticha Dogmatic'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|MM|LIHC1|des', 'text' : 'For media only.'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|MM|LIHC2|des', 'text' : 'For media only.'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|Stichera1|des', 'text' : 'OC:VE:Sticheron 1'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|Stichera2|des', 'text' : 'OC:VE:Sticheron 2'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|Stichera3|des', 'text' : 'OC:VE:Sticheron 3'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|Stichera4|des', 'text' : 'OC:VE:Sticheron 4'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|Stichera5|des', 'text' : 'OC:VE:Sticheron 5'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|Stichera6|des', 'text' : 'OC:VE:Sticheron 6'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|Stichera7|des', 'text' : 'OC:VE:Sticheron 7'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|SticTheotokion|des', 'text' : 'OC:VE:Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|Aposticha1|des', 'text' : 'OC:VE:Aposticha 1'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|Aposticha2|des', 'text' : 'OC:VE:Aposticha 2'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|Aposticha3|des', 'text' : 'OC:VE:Aposticha 3'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|Aposticha4|des', 'text' : 'OC:VE:Aposticha 4'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|AposTheotokion|des', 'text' : 'OC:VE:Aposticha Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|Apolytikion|des', 'text' : 'OC:VE:Apolytikion'}
+{'id_' : 'key|descriptors_en_US_dedes|ocVE|ApolTheotokionVM|des', 'text' : 'OC:VE:Apolytikion-Theotokikon'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode33|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode3T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Kathisma11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Kathisma12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode41|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode42|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode43|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode4T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode51|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode52|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode53|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode5T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode61|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode62|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode63|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode6T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Kathisma21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Kathisma22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode71|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode72|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode73|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode7T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode81|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode82|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode83|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode8T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode91|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode92|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode93|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMO|Ode9T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|MM|GodIsTheLord|des', 'text' : 'For media only.'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|MM|Alleluia|des', 'text' : 'For media only.'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Kathisma11|des', 'text' : 'OC:MA:Kathisma 1.1'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Kathisma12|des', 'text' : 'OC:MA:Kathisma 1.2'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Kathisma13|des', 'text' : 'OC:MA:Kathisma 1.3'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Kathisma14|des', 'text' : 'OC:MA:Kathisma 1.4'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Kathisma21|des', 'text' : 'OC:MA:Kathisma 2.1'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Kathisma22|des', 'text' : 'OC:MA:Kathisma 2.2'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Kathisma23|des', 'text' : 'OC:MA:Kathisma 2.3'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Kathisma24|des', 'text' : 'OC:MA:Kathisma 2.4'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Kathisma31|des', 'text' : 'OC:MA:Kathisma 3.1'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Kathisma32|des', 'text' : 'OC:MA:Kathisma 3.2'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Kathisma33|des', 'text' : 'OC:MA:Kathisma 3.3'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Hypakoe|des', 'text' : 'OC:MA:Hypakoe'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Antiphon11|des', 'text' : 'OC:MA:Antiphon 1'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Antiphon12|des', 'text' : 'OC:MA:Antiphon 1.2'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Antiphon13|des', 'text' : 'OC:MA:Antiphon 1.3'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Antiphon21|des', 'text' : 'OC:MA:Antiphon 2'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Antiphon22|des', 'text' : 'OC:MA:Antiphon 2.2'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Antiphon23|des', 'text' : 'OC:MA:Antiphon 2.3'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Antiphon31|des', 'text' : 'OC:MA:Antiphon 3.1'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Antiphon32|des', 'text' : 'OC:MA:Antiphon 3.2'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Antiphon33|des', 'text' : 'OC:MA:Antiphon 3.3'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Antiphon41|des', 'text' : 'OC:MA:Antiphon 4.1'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Antiphon42|des', 'text' : 'OC:MA:Antiphon 4.2'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Antiphon43|des', 'text' : 'OC:MA:Antiphon 4.3'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|MM|Prokeimenon|des', 'text' : 'For media only.'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS1C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS1C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS1C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS1C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS1C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS1C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS1C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS1C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS1C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS1C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS1C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS1C33|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS1C34|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS3C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS3C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS3C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS3C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS3C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS3C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS3C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS3C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS3C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS3C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS3C33|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS3C34|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS4C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS4C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS4C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS4C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS4C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS4C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS4C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS4C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS4C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS4C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS4C33|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS4C34|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS5C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS5C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS5C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS5C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS5C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS5C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS5C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS5C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS5C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS5C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS5C33|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS6C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS6C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS6C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS6C1Talias', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS6C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS6C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS6C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS6C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS6C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS6C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS6C33|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Kontakion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Oikos|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C33|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C34|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS7C3Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS8C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS8C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS8C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS8C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS8C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS8C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS8C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS8C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS8C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS8C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS8C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS8C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS8C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS8C33|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS8C34|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS9C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS9C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS9C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS9C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS9C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS9C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS9C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS9C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS9C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS9C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS9C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS9C33|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeS9C34|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW1C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW1C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW1C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW1C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW1C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW1C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW1C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW1C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW1C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW1C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW1C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW3C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW3C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW3C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW3C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW3C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW3C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW3C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW3C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW3C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW3C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW3C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW4C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW4C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW4C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW4C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW4C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW4C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW4C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW4C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW4C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW4C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW4C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW4C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW5C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW5C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW5C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW5C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW5C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW5C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW5C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW5C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW5C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW5C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW5C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW6C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW6C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW6C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW6C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW6C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW6C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW6C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW6C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW6C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW6C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW6C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW6C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW7C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW7C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW7C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW7C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW7C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW7C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW7C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW7C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW7C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW7C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW7C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW7C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW7C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW7C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW8C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW8C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW8C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW8C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW8C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW8C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW8C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW8C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW8C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW8C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW8C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW8C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW8C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW9C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW9C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW9C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW9C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW9C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW9C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW9C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW9C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW9C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW9C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|OdeW9C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Magnificat|des', 'text' : 'OC:MA:Magnificat'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|MM|Lauds01|des', 'text' : 'For media only.'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|MM|Lauds02|des', 'text' : 'For media only.'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|MM|LaudsHeirmologic01|des', 'text' : 'For media only.'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|MM|LaudsHeirmologic02|des', 'text' : 'For media only.'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Lauds1|des', 'text' : 'OC:MA:Lauds Sticheron 1'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Lauds2|des', 'text' : 'OC:MA:Lauds Sticheron 2'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Lauds3|des', 'text' : 'OC:MA:Lauds Sticheron 3'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Lauds4|des', 'text' : 'OC:MA:Lauds Sticheron 4'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Lauds5|des', 'text' : 'OC:MA:Lauds Sticheron 5'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Lauds6|des', 'text' : 'OC:MA:Lauds Sticheron 6'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Lauds7|des', 'text' : 'OC:MA:Lauds Sticheron 7'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Lauds8|des', 'text' : 'OC:MA:Lauds Sticheron 8'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|LaudsGlory|des', 'text' : 'OC:MA:Lauds Glory'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|LaudsTheotokion|des', 'text' : 'OC:MA:Lauds Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Aposticha1|des', 'text' : 'OC:MA:Apostichon 1'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Aposticha2|des', 'text' : 'OC:MA:Apostichon 2'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Aposticha3|des', 'text' : 'OC:MA:Apostichon 3'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|Aposticha4|des', 'text' : 'OC:MA:Apostichon 4'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|AposTheotokion|des', 'text' : 'OC:MA:Aposticha Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|ocMA|ApolTheotokion|des', 'text' : 'OC:MA:Apolytikion-Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|ocLI|Beatitudes1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocLI|Beatitudes2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocLI|Beatitudes3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocLI|Beatitudes4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocLI|Beatitudes5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocLI|Beatitudes6|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocLI|BeatitudesTr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocLI|BeatitudesT|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|ocLI|MM|Beatitudes1234TrTas78910GB|text', 'text' : 'For media only.'}
+{'id_' : 'key|descriptors_en_US_dedes|octrVE|Stichera1|des', 'text' : 'OCTR:VE:Sticheron 1'}
+{'id_' : 'key|descriptors_en_US_dedes|octrVE|Stichera2|des', 'text' : 'OCTR:VE:Sticheron 2'}
+{'id_' : 'key|descriptors_en_US_dedes|octrVE|Stichera3|des', 'text' : 'OCTR:VE:Sticheron 3'}
+{'id_' : 'key|descriptors_en_US_dedes|octrVE|Stichera4|des', 'text' : 'OCTR:VE:Sticheron 4'}
+{'id_' : 'key|descriptors_en_US_dedes|octrVE|SticGlory|des', 'text' : 'OCTR:VE:Glory'}
+{'id_' : 'key|descriptors_en_US_dedes|octrVE|SticBoth|des', 'text' : 'OCTR:VE:Both'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Triadic1|des', 'text' : 'OCTR:MA:Triadic 1'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Triadic2|des', 'text' : 'OCTR:MA:Triadic 2'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Triadic3|des', 'text' : 'OCTR:MA:Triadic 3'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Kathisma11|des', 'text' : 'OCTR:MA:Kathisma 1.1'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Kathisma12|des', 'text' : 'OCTR:MA:Kathisma 1.2'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Kathisma13|des', 'text' : 'OCTR:MA:Kathisma 1.3'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Kathisma14|des', 'text' : 'OCTR:MA:Kathisma 1.4'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Kathisma1T|des', 'text' : 'OCTR:MA:Kathisma 1.Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Ode7Martyricon|des', 'text' : 'OCTR:MA:Martyricon'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Photagogic|des', 'text' : 'OCTR:MA:Photogogic'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Lauds1|des', 'text' : 'OCTR:MA:Lauds Sticheron 1'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Lauds2|des', 'text' : 'OCTR:MA:Lauds Sticheron 2'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Lauds3|des', 'text' : 'OCTR:MA:Lauds Sticheron 3'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Lauds4|des', 'text' : 'OCTR:MA:Lauds Sticheron 4'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|LaudsGlory|des', 'text' : 'OCTR:MA:Lauds Glory'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|LaudsTheotokion|des', 'text' : 'OCTR:MA:Lauds Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Aposticha1|des', 'text' : 'OCTR:MA:Apostichon 1'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Aposticha2|des', 'text' : 'OCTR:MA:Apostichon 2'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|Aposticha3|des', 'text' : 'OCTR:MA:Apostichon 3'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|AposGlory|des', 'text' : 'OCTR:MA:Aposticha Glory'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|AposTheotokion|des', 'text' : 'OCTR:MA:Aposticha Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|octrMA|ApolTheotokion|des', 'text' : 'OCTR:MA:Apolytikion-Theotokion'}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|ComeReceiveTheLight|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|ChristIsRisen|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode1T1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode1T2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode3H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode3T1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode3T2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Hypakoe|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode4H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode41|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode42|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode43|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode4T1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode4T2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode5H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode51|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode52|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode5T1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode5T2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode6H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode61|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode62|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode6T1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode6T2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Kontakion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode7H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode71|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode72|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode73|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode7T1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode7T2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode8H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode81|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode82|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode83|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode8T1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode8T2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode9H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode91|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode92|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode9T1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode9T2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Ode9K|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Exap|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Stichera1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Stichera2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Stichera3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|Stichera4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|pePA|SticGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peSV|Stichera1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peSV|Stichera2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peSV|Stichera3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peSV|Stichera4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peSV|SticGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peSV|Aposticha1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peSV|Aposticha2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peSV|Aposticha3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peSV|Aposticha4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peSV|AposGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peSV|AposBoth|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Stichera01|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Stichera02|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Stichera03|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Stichera04|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Stichera05|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Stichera06|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Stichera07|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Stichera08|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Stichera09|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Stichera10|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|SticGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|SticBoth|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|GreatProkeimenon|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Lity1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Lity2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Lity3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Lity4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Lity5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Lity6|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|LityGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|LityBoth|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Aposticha1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Aposticha2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Aposticha3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Aposticha4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|AposGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|AposBoth|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Apolytikion1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Apolytikion2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|Apolytikion3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peVE|ApolTheotokion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Kathisma11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Kathisma12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Kathisma13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Kathisma14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Kathisma1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Kathisma21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Kathisma22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Kathisma23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Kathisma31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Hypakoe|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|PostGospelGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|PostGospelBoth|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|PostGospelIdiomelon|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C1F1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C1F2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C27|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode1C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C1F1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C1F2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C27|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Hypakoe|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3Kathisma1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3Kathisma2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode3Kathisma3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C1F1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C1F2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C27|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode4C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C1F1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C1F2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C27|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode5C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C1F1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C1F2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C27|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode6C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Kontakion1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Kontakion2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C1F1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C1F2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C27|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode7C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C1F1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C1F2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C27|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode8C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C1F1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C1F2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C27|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Ode9C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Exaposteilarion1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Exaposteilarion2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Exaposteilarion3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|ExapTheotokion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Lauds1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Lauds2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Lauds3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Lauds4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Lauds5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Lauds6|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Lauds7|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Lauds8|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|LaudsGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|LaudsBoth|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Aposticha1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Aposticha2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Aposticha3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|Aposticha4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|AposGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peMA|AposTheotokion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peLI|TheotokosHymn|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|peLI|AfterCommunion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Stichera01|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Stichera02|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Stichera03|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Stichera04|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Stichera05|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Stichera06|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Stichera07|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Stichera08|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Stichera09|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Stichera10|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|SticGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|SticTheotokion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Lity1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Lity2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Lity3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Lity4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Lity5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|LityGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|LityBoth|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|AposIdiomelon1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|AposIdiomelon2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|AposMartyric|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Aposticha1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Aposticha2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Aposticha3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Aposticha4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|AposGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|AposTheotokion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|AposBoth|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Apolytikion1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Apolytikion2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|Apolytikion3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trVE|ApolTheotokion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Kathisma11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Kathisma12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Kathisma13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Kathisma21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Kathisma22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Kathisma23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Kathisma31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Kathisma32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Kathisma33|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|PostGospelGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|PostGospelBoth|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|PostGospelIdiomelon|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C1M|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C2A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C2A2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C3Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C3T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C3A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1C3H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode1K|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C1M|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C2A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C2A2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C3Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C3T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C3A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2C3H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode2K|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C1M|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C2A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C2A2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C3Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C3T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C3A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3C3H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3K|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Hypakoe|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3Kathisma1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3Kathisma2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3Kathisma3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3Kathisma4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode3Kathisma5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C1M|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C2A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C2A2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C3Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C3T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C3A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4C3H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode4K|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C1M|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C2A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C2A2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C3Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C3T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C3A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5C3H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode5K|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C1M|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C2A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C2A2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C3Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C3T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C3A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C3A2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6C3H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode6K|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Kontakion1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C1M|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C2A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C2A2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C3Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C3T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C3A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C3A2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7C3H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode7K|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C1M|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C2A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C2A2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C3Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C3T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C3A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C3A2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8C3H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode8K|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C1M|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C26|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C2A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C2A2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C3Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C3T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C3A1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9C3H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Ode9K|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Exaposteilarion1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Exaposteilarion2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|ExapTheotokion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Lauds1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Lauds2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Lauds3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Lauds4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Lauds5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Lauds6|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Lauds7|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Lauds8|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|LaudsGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|LaudsBoth|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|LaudsTheotokion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|LaudsStavrotheotokion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Aposticha1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Aposticha2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Aposticha3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|Aposticha4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|AposGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|AposTheotokion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|AposBoth|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|AposIdiomelon1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|AposIdiomelon2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trMA|AposMartyric|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trTE|Troparion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trSV|Stichera1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trSV|Stichera2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trSV|Stichera3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trSV|Stichera4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trSV|SticGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trSV|Aposticha1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trSV|Aposticha2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trSV|Aposticha3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trSV|AposGlory|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trLI|Prokeimenon|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trLI|Alleluia|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trLI|TheotokosHymn|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trLI|AfterCommunion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trAK|Apolytikion1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trAK|Kontakion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Troparion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Troparion2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Troparion3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|NiptirIdiomelon2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|NiptirIdiomelon3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|NiptirIdiomelon4|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|NiptirIdiomelon5|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|NiptirIdiomelon6|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon011|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon012|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon013|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon01T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon021|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon022|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon02T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon031|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon032|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon033|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon034|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon035|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon036|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon03T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon03Kathisma|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon041|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon042|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon043|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon04T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon051|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon052|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon05T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon061|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon062|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon063|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon06T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon06Kathisma|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon071|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon072|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon07T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon081|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon082|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon08T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon091|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon092|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon09T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon09Kathisma|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon101|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon102|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon10T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon111|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon112|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon113|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon11T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon121|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon122|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon123|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon12T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon12Kathisma|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon131|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon132|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon13T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon141|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon142|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon14T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon151|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon152|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon153|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon15T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Antiphon15Kathisma|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Apolytikion1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH1|Troparion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH1|Theotokion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH1|Idiomelon1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH1|Idiomelon2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH1|Idiomelon3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH1|Kontakion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH3|Troparion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH3|Theotokion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH3|Idiomelon1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH3|Idiomelon2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH3|Idiomelon3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH3|Kontakion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH6|Troparion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH6|Theotokion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH6|Idiomelon1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH6|Idiomelon2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH6|Idiomelon3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH6|Kontakion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH9|Troparion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH9|Theotokion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH9|Idiomelon1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH9|Idiomelon2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH9|Idiomelon3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trH9|Kontakion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Alleluia|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|Encomia300|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|SaturdayHymnPlural|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trHW|SaturdayArise|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode31|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode32|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode33|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode34|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode35|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode36|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode37|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode3Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode3T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode41|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode42|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode43|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode44|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode45|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode46|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode47|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode4Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode4T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode51|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode52|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode53|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode54|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode55|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode56|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode57|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode5Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode5T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode61|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode62|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode63|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode64|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode65|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode66|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode67|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode6Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode6T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Kontakion|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode71|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode72|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode73|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode74|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode75|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode76|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode77|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode7Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode7T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode81|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode82|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode83|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode84|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode85|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode86|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode87|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode8Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode8T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode91|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode92|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode93|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode94|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode95|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode96|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode97|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode9Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode9T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Ode9H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Troparion1|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Troparion2|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCA|Troparion3|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode1C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode1C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode1C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode1C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode1C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode1C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode1C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode1C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode1C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode1C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C25|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode2C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode3C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode3C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode3C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode3C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode3C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode3C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode3C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode3C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode3C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode3C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Kathisma11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode4C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode4C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode4C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode4C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode4C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode4C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode4C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode4C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode4C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode4C19|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode4C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode4C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode5C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode5C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode5C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode5C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode5C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode5C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode5C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode5C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode5C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode6C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode6C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode6C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode6C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode6C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode6C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode6C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode6C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode6C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode7C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode7C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode7C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode7C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode7C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode7C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode7C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode7C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode7C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode7C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode8C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode8C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode8C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode8C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode8C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode8C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode8C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode8C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode8C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode8C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode8C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode9C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode9C11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode9C12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode9C13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode9C14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode9C15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode9C16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode9C17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode9C18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode9C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trCO|Ode9C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera01|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera02|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera03|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera04|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera05|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera06|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera07|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera08|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera09|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera10|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera11|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera12|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera13|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera14|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera15|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera16|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera17|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera18|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera19|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera20|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera21|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera22|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera23|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Stichera24|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|SticheraT|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C101|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C102|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C103|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C104|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C105|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C106|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C107|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C108|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C109|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C110|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C111|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C112|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C113|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C114|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C115|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C116|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C117|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C118|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C119|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C120|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C121|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C122|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C123|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C201|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C202|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C203|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode1C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C101|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C102|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C103|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C104|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C105|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C106|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C107|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C108|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C109|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C110|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C111|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C112|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C113|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C114|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C115|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C116|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C117|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C118|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C119|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C120|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C121|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C122|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C123|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C124|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C125|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C126|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C127|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C128|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C201|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C202|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C203|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C204|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C205|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C206|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C207|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C208|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C209|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C210|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C211|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C212|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C213|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode2C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C101|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C102|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C103|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C104|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C105|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C106|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C107|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C1Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C1T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C201|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C202|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C203|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C204|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C205|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C206|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C207|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C208|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C209|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C210|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C211|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C212|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C213|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C214|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C215|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C216|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C217|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C218|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C219|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C220|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode3C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C101|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C102|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C103|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C104|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C105|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C106|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C107|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C108|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C109|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C110|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C111|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C112|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C113|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C114|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C115|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C116|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C117|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C118|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C119|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C120|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C121|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C122|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C123|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C124|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C125|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C126|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C127|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C201|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C202|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C203|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode4C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C101|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C102|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C103|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C104|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C105|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C106|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C107|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C108|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C109|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C110|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C111|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C112|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C113|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C114|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C115|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C116|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C117|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C118|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C119|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C120|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C121|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C201|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C202|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C203|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode5C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C101|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C102|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C103|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C104|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C105|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C106|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C107|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C108|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C109|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C110|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C111|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C112|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C113|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C114|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C115|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C201|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C202|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C203|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode6C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C101|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C102|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C103|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C104|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C105|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C106|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C107|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C108|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C109|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C110|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C111|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C112|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C113|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C114|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C115|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C116|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C117|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C118|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C119|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C120|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C201|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C202|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C203|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode7C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C101|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C102|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C103|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C104|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C105|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C106|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C107|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C108|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C109|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C110|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C111|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C112|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C113|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C114|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C115|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C116|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C117|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C118|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C119|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C120|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C201|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C202|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C203|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode8C2H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C1H|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C101|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C102|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C103|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C104|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C105|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C106|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C107|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C108|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C109|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C110|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C111|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C112|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C113|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C114|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C115|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C116|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C117|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C118|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C119|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C120|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C121|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C122|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C123|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C124|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C125|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C201|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C202|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C203|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C2Tr|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C2T|des', 'text' : ''}
+{'id_' : 'key|descriptors_en_US_dedes|trGC|Ode9C2H|des', 'text' : ''}

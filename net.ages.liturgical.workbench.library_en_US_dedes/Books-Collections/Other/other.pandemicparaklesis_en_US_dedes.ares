@@ -11,10 +11,12 @@ hoCA.media.text = "" // for complete music
 
 hoCA.Apolytikion1.mode = misc_en_US_dedes.Mode4
 hoCA.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
+hoCA.Apolytikion1.incipit = "As the physician of the"
 hoCA.Apolytikion1.text = "As the physician of the sick and the suffering, * and as the helper of the faithful who hope in You, * O gracious Lord, who wills that all humanity be saved, * from Your throne of majesty, look upon us with mercy; * hear our voice out of the depths, as we cry to You saying: * We all entreat You, free us from the threat * of this pandemic, O God most compassionate."
 
 hoCA.Apolytikion2.mode = misc_en_US_dedes.Mode4
 hoCA.Apolytikion2.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
+hoCA.Apolytikion2.incipit = ho.s23_en_US_dedes.hoCA.Apolytikion2.incipit
 hoCA.Apolytikion2.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
 
 hoCA.acrostic = "which has as an Acrostic, using the Theotokion of each Ode: \"Seraphim.\""
@@ -23,223 +25,275 @@ hoCA.verse = prayers_en_US_dedes.verse_Trinity.text
 hoCA.Ode11.ode = misc_en_US_dedes.Ode1
 hoCA.Ode11.mode = misc_en_US_dedes.Mode8
 hoCA.Ode11.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
+hoCA.Ode11.incipit = "O all-holy Trinity, our one"
 hoCA.Ode11.text = "O all-holy Trinity, our one God, * show Your great compassion towards us who have been debased. * Drive away the awful scourge that found us, * and end the deadly pandemic afflicting us."
 
 hoCA.Ode12.ode = misc_en_US_dedes.Ode1
 hoCA.Ode12.mode = misc_en_US_dedes.Mode8
 hoCA.Ode12.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
+hoCA.Ode12.incipit = "Compassionate Master, the current plague"
 hoCA.Ode12.text = "Compassionate Master, the current plague * suddenly assailed us; it afflicts us in heart and soul. * Come quickly, deliver us and save us. * We are Your people, whose hope rests in You alone."
 
 hoCA.Ode13.ode = misc_en_US_dedes.Ode1
 hoCA.Ode13.mode = misc_en_US_dedes.Mode8
 hoCA.Ode13.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
+hoCA.Ode13.incipit = "Hear the prayers of God-bearing"
 hoCA.Ode13.text = "Hear the prayers of God-bearing Hierarchs * Apostles and Prophets, holy Martyrs and the Devout, * and save us Your people from the dangers * of the pandemic, O merciful Lord of all."
 
 hoCA.Ode1T.ode = misc_en_US_dedes.Ode1
 hoCA.Ode1T.mode = misc_en_US_dedes.Mode8
 hoCA.Ode1T.melody = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
+hoCA.Ode1T.incipit = "Sweet refuge are you for"
 hoCA.Ode1T.text = "Sweet refuge are you for us in despair, * Lady Theotokos. Blessed Virgin, we pray to you: * Comfort us as we are now enduring * the current plague and pandemic afflicting us."
 
 hoCA.Ode31.ode = misc_en_US_dedes.Ode3
 hoCA.Ode31.mode = misc_en_US_dedes.Mode8
 hoCA.Ode31.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
+hoCA.Ode31.incipit = "We Your servants are weeping"
 hoCA.Ode31.text = "We Your servants are weeping within our hearts. Hear our sighs, * in Your tender love and great mercy, Lord, most compassionate. * Obliterate the threat of the pandemic and virus * quickly from the cities of Your children everywhere."
 
 hoCA.Ode32.ode = misc_en_US_dedes.Ode3
 hoCA.Ode32.mode = misc_en_US_dedes.Mode8
 hoCA.Ode32.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
+hoCA.Ode32.incipit = "Holy Trinity, one God, O"
 hoCA.Ode32.text = "Holy Trinity, one God, O most benevolent Lord, * faithfully we fall to our knees and implore You earnestly. * Come to us, whom you made, in Your compassion have mercy. * Free us from the injury and hardship of the plague."
 
 hoCA.Ode33.ode = misc_en_US_dedes.Ode3
 hoCA.Ode33.mode = misc_en_US_dedes.Mode8
 hoCA.Ode33.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
+hoCA.Ode33.incipit = "You behold now Your servants'"
 hoCA.Ode33.text = "You behold now Your servants' humiliation, O Lord. * Hear us as we pray, and forgive us our many trespasses. * O Master, in Your great and most abundant compassion, * rescue all humanity from this calamity."
 
 hoCA.Ode3T.ode = misc_en_US_dedes.Ode3
 hoCA.Ode3T.mode = misc_en_US_dedes.Mode8
 hoCA.Ode3T.melody = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
+hoCA.Ode3T.incipit = "Ever keep us the faithful,"
 hoCA.Ode3T.text = "Ever keep us the faithful, who pray to you earnestly, * safe from all disease and the virus that plagues us even now. * You are the most extolled Virgin who bore God our Savior, * who has borne the weaknesses and ills of all mankind."
 
 hoCA.Troparion31.mode = misc_en_US_dedes.Mode8
 hoCA.Troparion31.melody = ""
+hoCA.Troparion31.incipit = "Deliver us, O Holy Trinity."
 hoCA.Troparion31.text = "Deliver us, O Holy Trinity. Save us, O Lord of mercy, * from the distress and affliction the plague has caused, * for in Your love for humanity You wish to save all."
 
 hoCA.Troparion32.mode = misc_en_US_dedes.Mode8
 hoCA.Troparion32.melody = ""
+hoCA.Troparion32.incipit = ho.s23_en_US_dedes.hoCA.Troparion32.incipit
 hoCA.Troparion32.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
 
 hoCA.Kathisma11.mode = misc_en_US_dedes.Mode2
 hoCA.Kathisma11.melody = he.a.m2_en_US_dedes.TaAnoZiton.incipit
+hoCA.Kathisma11.incipit = "Our one God and Lord,"
 hoCA.Kathisma11.text = "Our one God and Lord, O all-holy Trinity, * this deadly pandemic has spread throughout the world. * We Your people pray to You: * Rescue us, and make everyone well again. * For Your mercy abounds throughout the earth, * and we worship only You, O almighty God."
 
 hoCA.Ode41.ode = misc_en_US_dedes.Ode4
 hoCA.Ode41.mode = misc_en_US_dedes.Mode8
 hoCA.Ode41.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
+hoCA.Ode41.incipit = "O compassionate Lord and God,"
 hoCA.Ode41.text = "O compassionate Lord and God, * as an inexhaustible sea of tender love, * please do not allow humanity * to languish and perish from contagious disease."
 
 hoCA.Ode42.ode = misc_en_US_dedes.Ode4
 hoCA.Ode42.mode = misc_en_US_dedes.Mode8
 hoCA.Ode42.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
+hoCA.Ode42.incipit = "Now we tearfully pray to"
 hoCA.Ode42.text = "Now we tearfully pray to You: * Savior, have compassion on our society, * and eventually change the grief * of this deadly outbreak of disease to joy."
 
 hoCA.Ode43.ode = misc_en_US_dedes.Ode4
 hoCA.Ode43.mode = misc_en_US_dedes.Mode8
 hoCA.Ode43.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
+hoCA.Ode43.incipit = "In Your love for humanity,"
 hoCA.Ode43.text = "In Your love for humanity, * take pity on us, Lord, and hear us when we pray. * Being merciful, deliver us * from the great distress that has befallen us."
 
 hoCA.Ode4T.ode = misc_en_US_dedes.Ode4
 hoCA.Ode4T.mode = misc_en_US_dedes.Mode8
 hoCA.Ode4T.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
+hoCA.Ode4T.incipit = "Reinvigorate everyone * during this"
 hoCA.Ode4T.text = "Reinvigorate everyone * during this pandemic, and make us strong again, * O pure Maiden, as we turn to you * for protection, ever-virgin Mother of God."
 
 hoCA.Ode51.ode = misc_en_US_dedes.Ode5
 hoCA.Ode51.mode = misc_en_US_dedes.Mode8
 hoCA.Ode51.melody = he.h.m8_en_US_dedes.FotisonImas.incipit
+hoCA.Ode51.incipit = "Earnestly we pray, * O"
 hoCA.Ode51.text = "Earnestly we pray, * O our Savior very merciful: * Straight away avert the spread of the disease, * for we know no other God and Lord except for You."
 
 hoCA.Ode52.ode = misc_en_US_dedes.Ode5
 hoCA.Ode52.mode = misc_en_US_dedes.Mode8
 hoCA.Ode52.melody = he.h.m8_en_US_dedes.FotisonImas.incipit
+hoCA.Ode52.incipit = "Shelter us, we pray, *"
 hoCA.Ode52.text = "Shelter us, we pray, * in the shelter of Your wings, O Lord, * and preserve our life in happiness and health, * in the wealth of Your compassion, O almighty God."
 
 hoCA.Ode53.ode = misc_en_US_dedes.Ode5
 hoCA.Ode53.mode = misc_en_US_dedes.Mode8
 hoCA.Ode53.melody = he.h.m8_en_US_dedes.FotisonImas.incipit
+hoCA.Ode53.incipit = "Righteous are You, Lord, *"
 hoCA.Ode53.text = "Righteous are You, Lord, * and Your judgment is upright as well. * Yet, we pray You quickly rescue all mankind, * which You love, from the pandemic that is killing us."
 
 hoCA.Ode5T.ode = misc_en_US_dedes.Ode5
 hoCA.Ode5T.mode = misc_en_US_dedes.Mode8
 hoCA.Ode5T.melody = he.h.m8_en_US_dedes.FotisonImas.incipit
+hoCA.Ode5T.incipit = "All-immaculate, * virgin Maiden, kindly"
 hoCA.Ode5T.text = "All-immaculate, * virgin Maiden, kindly look on us, * and preserve our life, and grant that we escape * the impending threat of deadly virus and disease."
 
 hoCA.Ode61.ode = misc_en_US_dedes.Ode6
 hoCA.Ode61.mode = misc_en_US_dedes.Mode8
 hoCA.Ode61.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
+hoCA.Ode61.incipit = "Ineffable is Your love for"
 hoCA.Ode61.text = "Ineffable is Your love for humankind, * whereby You took our infirmities, O Savior. * We now entreat You, O good One, to free us * from the pandemic and thoughts of complete despair * that we inevitably have; * and we pray You forgive our offenses all."
 
 hoCA.Ode62.ode = misc_en_US_dedes.Ode6
 hoCA.Ode62.mode = misc_en_US_dedes.Mode8
 hoCA.Ode62.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
+hoCA.Ode62.incipit = "The marvelous signs and wonders"
 hoCA.Ode62.text = "The marvelous signs and wonders that You do * are innumerable, merciful Master. * We pray You stop the onset of pandemic * as You rebuked winds and sea and You calmed the storm; * and navigate us back to health, * like a ship to a calm port and anchorage."
 
 hoCA.Ode63.ode = misc_en_US_dedes.Ode6
 hoCA.Ode63.mode = misc_en_US_dedes.Mode8
 hoCA.Ode63.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
+hoCA.Ode63.incipit = "Confronted with the likelihood of"
 hoCA.Ode63.text = "Confronted with the likelihood of widespread death * from the current epidemic, O Savior, * we turn to You, and with tears we implore You * with hands uplifted, and cry out, O loving Lord, * as Your disciples did of old, * \"Master, help us, for now we are perishing!\""
 
 hoCA.Ode6T.ode = misc_en_US_dedes.Ode6
 hoCA.Ode6T.mode = misc_en_US_dedes.Mode8
 hoCA.Ode6T.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
+hoCA.Ode6T.incipit = "Protect us, who accurately glorify"
 hoCA.Ode6T.text = "Protect us, who accurately glorify * Christ as God, whom you ineffably mothered. * Being maternal in love and affection, * O Theotokos, convince Him to pity us * and to deliver from the plague * all your people, for whom He became a man."
 
 hoCA.Troparion61.mode = misc_en_US_dedes.Mode8
 hoCA.Troparion61.melody = ""
+hoCA.Troparion61.incipit = hoCA.Troparion31.incipit
 hoCA.Troparion61.text = hoCA.Troparion31.text
 
 hoCA.Troparion62.mode = misc_en_US_dedes.Mode8
 hoCA.Troparion62.melody = ""
+hoCA.Troparion62.incipit = ho.s23_en_US_dedes.hoCA.Troparion62.incipit
 hoCA.Troparion62.text = ho.s23_en_US_dedes.hoCA.Troparion62.text
 
 hoCA.Kontakion.mode = misc_en_US_dedes.Mode2
 hoCA.Kontakion.melody = he.a.m2_en_US_dedes.ToisTonAimatonSou.incipit
+hoCA.Kontakion.incipit = "Almighty Lord, we entreat You"
 hoCA.Kontakion.text = "Almighty Lord, we entreat You to demonstrate * that Your great love for mankind is indeed immense. * Be merciful, save us and pity us, * Your faithful people who sing prayerful hymns to You, * and free us from plague and calamity."
 
 hoCA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
 hoCA.PostGospelGlory.melody = ""
+hoCA.PostGospelGlory.incipit = ho.s03_en_US_dedes.hoMA.PostGospelTrinity.incipit
 hoCA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelTrinity.text
 
 hoCA.PostGospelBoth.mode = misc_en_US_dedes.Mode2
 hoCA.PostGospelBoth.melody = ""
+hoCA.PostGospelBoth.incipit = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.incipit
 hoCA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 hoCA.PostGospelHymn1.mode = misc_en_US_dedes.Mode6
 hoCA.PostGospelHymn1.melody = he.a.m6_en_US_dedes.OlinApothemenoi.incipit
+hoCA.PostGospelHymn1.incipit = "Loving Lord, whose will it"
 hoCA.PostGospelHymn1.text = "Loving Lord, whose will it is that all be saved, O humane God, * You came that we may have life, * and have it abundantly. * You do not want death. * We, who are wretched now, * often have provoked You; * but we worship You exclusively. * We hope in You alone; * we have no protector except for You. * And so we run to You for help. * Praying in repentance, we cry to You: * Loving Lord, be gracious to us who have committed many sins, * and save Your people, and rescue us, * from the storm of deadly plague."
 
 hoCA.Ode71.ode = misc_en_US_dedes.Ode7
 hoCA.Ode71.mode = misc_en_US_dedes.Mode8
 hoCA.Ode71.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
+hoCA.Ode71.incipit = "We entrust to You only"
 hoCA.Ode71.text = "We entrust to You only * every hope of salvation, O Lord who gives us life. * We pray that You will save us * from this deadly pandemic, * in Your mercy, as we cry out * and say: \"O blessed are You * the God of our fathers.\""
 
 hoCA.Ode72.ode = misc_en_US_dedes.Ode7
 hoCA.Ode72.mode = misc_en_US_dedes.Mode8
 hoCA.Ode72.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
+hoCA.Ode72.incipit = "You have worked many wonders"
 hoCA.Ode72.text = "You have worked many wonders * for the sake of mankind, Lord who loves humanity. * We pray You now deliver * Your people from this current * epidemic, as we cry out * and sing: \"O blessed are You * the God of our fathers.\""
 
 hoCA.Ode73.ode = misc_en_US_dedes.Ode7
 hoCA.Ode73.mode = misc_en_US_dedes.Mode8
 hoCA.Ode73.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
+hoCA.Ode73.incipit = "Under threat of a deadly"
 hoCA.Ode73.text = "Under threat of a deadly * epidemic, we find ourselves in profound distress. * We pray to You: Have mercy, * O Life-Giver, and save us! * We Your people cry out to You * and say: \"O blessed are You * the God of our fathers.\""
 
 hoCA.Ode7T.ode = misc_en_US_dedes.Ode7
 hoCA.Ode7T.mode = misc_en_US_dedes.Mode8
 hoCA.Ode7T.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
+hoCA.Ode7T.incipit = "Having borne the Redeemer *"
 hoCA.Ode7T.text = "Having borne the Redeemer * of humanity, Virgin most pure, ineffably, * entreat Him to inhibit * the spread of the pandemic * that has plagued the entire world; * and with your motherly grace, * give us your calming comfort."
 
 hoCA.Ode81.ode = misc_en_US_dedes.Ode8
 hoCA.Ode81.mode = misc_en_US_dedes.Mode8
 hoCA.Ode81.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.incipit
+hoCA.Ode81.incipit = "Merciful Savior, * we hope"
 hoCA.Ode81.text = "Merciful Savior, * we hope and trust in You only, * and we pray to You and earnestly implore You: * Save us from the harm of the deadly epidemic."
 
 hoCA.Ode82.ode = misc_en_US_dedes.Ode8
 hoCA.Ode82.mode = misc_en_US_dedes.Mode8
 hoCA.Ode82.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.incipit
+hoCA.Ode82.incipit = "Arise, O Master, * and"
 hoCA.Ode82.text = "Arise, O Master, * and save mankind from this crisis * that befell us. You, O Savior, are the only * hope of those who suffer from illness and misfortune."
 
 hoCA.Ode83.ode = misc_en_US_dedes.Ode8
 hoCA.Ode83.mode = misc_en_US_dedes.Mode8
 hoCA.Ode83.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.incipit
+hoCA.Ode83.incipit = "Grant us forgiveness * of"
 hoCA.Ode83.text = "Grant us forgiveness * of sins, O Lord and Life-giver, * and take pity on us now humiliated. * Grant to us, your people, Your grace as health insurance."
 
 hoCA.Ode8T.ode = misc_en_US_dedes.Ode8
 hoCA.Ode8T.mode = misc_en_US_dedes.Mode8
 hoCA.Ode8T.melody = he.h.m8_en_US_dedes.TonVasileaTonOuranon.incipit
+hoCA.Ode8T.incipit = "In this pandemic, * which"
 hoCA.Ode8T.text = "In this pandemic, * which like a storm has disturbed us, * may the grace of your divine intercession * be for us haven of calm, O Theotokos."
 
 hoCA.Ode91.ode = misc_en_US_dedes.Ode9
 hoCA.Ode91.mode = misc_en_US_dedes.Mode8
 hoCA.Ode91.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
+hoCA.Ode91.incipit = "O Savior, hear our voices"
 hoCA.Ode91.text = "O Savior, hear our voices * when we call upon You; * for we Your servants are troubled and cry to You. * Deliver us from the danger of a contagious disease."
 
 hoCA.Ode92.ode = misc_en_US_dedes.Ode9
 hoCA.Ode92.mode = misc_en_US_dedes.Mode8
 hoCA.Ode92.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
+hoCA.Ode92.incipit = "O Lord, display the ocean"
 hoCA.Ode92.text = "O Lord, display the ocean * of Your love for mankind, * and let Your mercies, O Savior, be magnified; * and from the plague and contagious diseases rescue us."
 
 hoCA.Ode93.ode = misc_en_US_dedes.Ode9
 hoCA.Ode93.mode = misc_en_US_dedes.Mode8
 hoCA.Ode93.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
+hoCA.Ode93.incipit = "Haralambos the Martyr * is"
 hoCA.Ode93.text = "Haralambos the Martyr * is known for combating * the plague. O Lord, by his prayers rescue us from it, * and we shall sing, glorifying your mighty power, O God."
 
 hoCA.Ode9T.ode = misc_en_US_dedes.Ode9
 hoCA.Ode9T.mode = misc_en_US_dedes.Mode8
 hoCA.Ode9T.melody = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
+hoCA.Ode9T.incipit = "My Lady, Virgin Mary, *"
 hoCA.Ode9T.text = "My Lady, Virgin Mary, * full of grace and most pure, * you are the ready assistance for all mankind. * We pray you grant perfect health to those who are suffering."
 
+hoCA.Meg00.incipit = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.incipit
 hoCA.Meg00.text = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = misc_en_US_dedes.Heirmos
+hoCA.Meg01.incipit = he.h.m6_en_US_dedes.TinTimioteran.incipit
 hoCA.Meg01.text = he.h.m6_en_US_dedes.TinTimioteran.text
 hoCA.Meg02.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
+hoCA.Meg02.incipit = "Physician of bodies and souls"
 hoCA.Meg02.text = "Physician of bodies and souls alike, * compassionate Master, we implore You and we entreat, * forgive and remit every sin of ours, O Savior, * and rescue us Your servants from the pandemic's wrath."
 hoCA.Meg03.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
+hoCA.Meg03.incipit = "Fear of the pandemic has"
 hoCA.Meg03.text = "Fear of the pandemic has gripped the hearts * of all of Your servants, O compassionate Lord and God. * Quickly come and save us, we earnestly entreat You, * invoking Your great mercy, Savior most merciful."
 hoCA.Meg04.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
+hoCA.Meg04.incipit = "Savior, we will all never"
 hoCA.Meg04.text = "Savior, we will all never cease to be * the sheep of Your pasture, even though we have many sins. * Please do not despise or ignore our supplication; * end, rather, the upheaval caused by the current plague."
 hoCA.Meg05.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
+hoCA.Meg05.incipit = "Truly from the ages, O"
 hoCA.Meg05.text = "Truly from the ages, O gracious God, * and unto the ages is Your mercy and love for man. * Therefore, now, according to its abundance, rescue * a multitude of people from the impending plague."
 hoCA.Meg06.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
+hoCA.Meg06.incipit = "Lord, do not ignore us"
 hoCA.Meg06.text = "Lord, do not ignore us in our distress, * anxious as we are now, and beside ourselves with the fear * of catching a painful disease that may be fatal. * We pray You quickly save us from this calamity."
 hoCA.Meg0F.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
+hoCA.Meg0F.incipit = ho.s23_en_US_dedes.hoCA.Meg0F.incipit
 hoCA.Meg0F.text = ho.s23_en_US_dedes.hoCA.Meg0F.text
 
 hoCA.Troparion1.mode = misc_en_US_dedes.Mode2
 hoCA.Troparion1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
+hoCA.Troparion1.incipit = "Hold us, O our tender-loving"
 hoCA.Troparion1.text = "Hold us, O our tender-loving God, * in this time when we are unsettled for fear of threatening plague. * Be there for us, as our Lord who loves humanity, * and protect us according to Your great and rich mercy. * Graciously accept our voices as we sing these prayers. * And give heed to helping Your people, * in the wealth of Your tender-mercies; * for with ardent faith we put our hope in You."
 
 hoCA.Troparion2.mode = misc_en_US_dedes.Mode2
 hoCA.Troparion2.melody = ""
+hoCA.Troparion2.incipit = ho.s23_en_US_dedes.hoCA.Troparion6.incipit
 hoCA.Troparion2.text = ho.s23_en_US_dedes.hoCA.Troparion6.text
 
 hoCA.Troparion3.mode = misc_en_US_dedes.Mode2
 hoCA.Troparion3.melody = ""
+hoCA.Troparion3.incipit = ho.s23_en_US_dedes.hoCA.Troparion7.incipit
 hoCA.Troparion3.text = ho.s23_en_US_dedes.hoCA.Troparion7.text

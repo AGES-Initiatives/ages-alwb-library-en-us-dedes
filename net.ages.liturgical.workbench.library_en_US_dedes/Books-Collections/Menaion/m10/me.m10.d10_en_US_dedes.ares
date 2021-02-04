@@ -18,44 +18,54 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
+meVE.Stichera01.incipit = ""
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
+meVE.Stichera02.incipit = ""
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
+meVE.Stichera03.incipit = ""
 meVE.Stichera03.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.IoannouMonachou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode4
 meVE.SticGlory.melody = ""
+meVE.SticGlory.incipit = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
+meVE.SticTheotokion.incipit = ""
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
+meVE.SticStavrotheotokion.incipit = ""
 meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode4
 meVE.AposGlory.melody = ""
+meVE.AposGlory.incipit = ""
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_dedes.Mode4
 meVE.AposTheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
+meVE.AposTheotokion.incipit = oc.m4.d6_en_US_dedes.ocVE.Stichera4.incipit
 meVE.AposTheotokion.text = oc.m4.d6_en_US_dedes.ocVE.Stichera4.text
 
 meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode4
 meVE.AposStavrotheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
+meVE.AposStavrotheotokion.incipit = ""
 meVE.AposStavrotheotokion.text = ""
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
 meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.incipit
+meVE.Apolytikion1.incipit = ""
 meVE.Apolytikion1.text = ""
 
 meMA.C1.acrostic = ""
@@ -66,132 +76,159 @@ meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode6
 meMA.Ode1C11.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.incipit
+meMA.Ode1C11.incipit = "O medaled Martyrs, illumined by"
 meMA.Ode1C11.text = "O medaled Martyrs, illumined by very bright * rays of the tri-solar light * of the Trinity, entreat * that enlightenment be given us, * who are honoring today your festive memory."
 
 meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C12.mode = misc_en_US_dedes.Mode6
 meMA.Ode1C12.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.incipit
+meMA.Ode1C12.incipit = "The august and magnificent sacred"
 meMA.Ode1C12.text = "The august and magnificent sacred feast * of the Martyrs splendidly * shines with bursts of sunny light. * By the Spirit's power mystically * it continually illumines all the ends of the earth."
 
 meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C13.mode = misc_en_US_dedes.Mode6
 meMA.Ode1C13.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.incipit
+meMA.Ode1C13.incipit = "O blessed Martyr, though physically"
 meMA.Ode1C13.text = "O blessed Martyr, though physically you were young, * you did mighty battle with * evil's ruler from of old. * You endured excruciating pain * from the torture and the fire, O St. Eulampius."
 
 meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1T.mode = misc_en_US_dedes.Mode6
 meMA.Ode1C1T.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.incipit
+meMA.Ode1C1T.incipit = "We were released from the"
 meMA.Ode1C1T.text = "We were released from the ancestral curse indeed, * Virgin all-immaculate, * by your holy childbirth. * Now and ever singing sacred hymns, * we the faithful call you blessed as the Mother of God."
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode6
 meMA.Ode3C11.melody = he.h.m6_en_US_dedes.OukEstinAgios.incipit
+meMA.Ode3C11.incipit = "With perseverance you endured *"
 meMA.Ode3C11.text = "With perseverance you endured * bitter torments and torture, * and you finished the contests, * being strengthened by your hopes * that blessings were sure to come * from the Lord, O glorious Eulampius."
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode6
 meMA.Ode3C12.melody = he.h.m6_en_US_dedes.OukEstinAgios.incipit
+meMA.Ode3C12.incipit = "When she beheld the cheerful"
 meMA.Ode3C12.text = "When she beheld the cheerful glow * of the martyrs surrounding * you, O Martyr, your sister * Eulampia volunteered * to be tortured for her faith * in Christ, for she shared a kindred spirit with you."
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_dedes.Mode6
 meMA.Ode3C13.melody = he.h.m6_en_US_dedes.OukEstinAgios.incipit
+meMA.Ode3C13.incipit = "O Athlete, since you longed"
 meMA.Ode3C13.text = "O Athlete, since you longed for Christ, * and you counted as nothing * all things seen, you were able * to withstand and overcome * the tyrants' vicious attacks * by your faith, O Martyr St. Eulampius."
 
 meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_dedes.Mode6
 meMA.Ode3C1T.melody = he.h.m6_en_US_dedes.OukEstinAgios.incipit
+meMA.Ode3C1T.incipit = "O all-pure Mother of our"
 meMA.Ode3C1T.text = "O all-pure Mother of our God, * pray for us who extol you, * to be rescued from every * vicious onset of our foes, * from every danger and woe, * and from sinful passions that destroy our souls."
 
 meMA.Ode3H.ode = misc_en_US_dedes.Ode3
 meMA.Ode3H.mode = misc_en_US_dedes.Mode6
 meMA.Ode3H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode3H.incipit = he.h.m6_en_US_dedes.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m6_en_US_dedes.OukEstinAgios.text
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.incipit
+meMA.Ode3Kathisma1.incipit = "With endurance you looked beyond"
 meMA.Ode3Kathisma1.text = "With endurance you looked beyond all the clouds * of the horrible tortures, O Martyr Saints, * and shone brightly like the sun, by the grace of the Savior. * Sharing the sibling bond and affection inspired by God, * your labors were alike; you were splendidly glorified. * Therefore, after dying, you received the divine grace * from heaven that never stops curing illnesses and disease, * O victorious sibling Saints. * Intercede with Christ our God * that He grant forgiveness of offences * to those who with longing observe your holy memory."
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.incipit
+meMA.Ode3KathismaT.incipit = "Holy Virgin, you see that"
 meMA.Ode3KathismaT.text = "Holy Virgin, you see that my humble soul * like a ship with no pilot is in the storm * of life, O all-blameless one, with temptations as turbulence, * and it is taking water because of the weight of sins; * and it is now in danger of entering the depth of Hell. * Come, O Theotokos, with your strong intercession, * and save me, and steer the ship of my soul to your calm port, * that with faith I may sing to you: * With your Son and God intercede, * that He grant to me forgiveness of my sins. * I your servant, O Lady, have you as my only hope."
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode8
 meMA.Ode3KathismaSt.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.incipit
+meMA.Ode3KathismaSt.incipit = oc.m8.d4_en_US_dedes.ocMA.Kathisma13.incipit
 meMA.Ode3KathismaSt.text = oc.m8.d4_en_US_dedes.ocMA.Kathisma13.text
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_dedes.Mode6
 meMA.Ode4C11.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.incipit
+meMA.Ode4C11.incipit = "You shut the gaping mouths"
 meMA.Ode4C11.text = "You shut the gaping mouths of wild animals * by divine invocations, being adorned * with angelic glory and aglow with rays of sacred light * that accompanied your martyrdom."
 
 meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C12.mode = misc_en_US_dedes.Mode6
 meMA.Ode4C12.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.incipit
+meMA.Ode4C12.incipit = "The Holy Spirit's grace was"
 meMA.Ode4C12.text = "The Holy Spirit's grace was dwelling in your soul, * O wise Martyr Eulampius, which you made * an all-holy, living temple. By Him strengthened you destroyed * pagan temples of idolatry."
 
 meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C13.mode = misc_en_US_dedes.Mode6
 meMA.Ode4C13.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.incipit
+meMA.Ode4C13.incipit = "O Eulampia, you are praised"
 meMA.Ode4C13.text = "O Eulampia, you are praised throughout the world; * for as Christ gave you strength, you were unafraid, * as you faced your martyrdom; you were unshaken and unmoved * by the threats of pain and suffering."
 
 meMA.Ode4C14.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C14.mode = misc_en_US_dedes.Mode6
 meMA.Ode4C14.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.incipit
+meMA.Ode4C14.incipit = "With blood of Martyrs you"
 meMA.Ode4C14.text = "With blood of Martyrs you adorned yourselves, O Saints. * You remained of the same mind and Christian faith. * By your sibling loyalty and love, together you repelled * the persecutors' nefarious plans."
 
 meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C1T.mode = misc_en_US_dedes.Mode6
 meMA.Ode4C1T.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.incipit
+meMA.Ode4C1T.incipit = "Habbakuk long ago perceived emphatically"
 meMA.Ode4C1T.text = "Habbakuk long ago perceived emphatically * as a prophet, O Virgin, and he declared * you to be a mountain that is dense with virtue, and from which * God appeared to illumine our souls."
 
 meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C11.mode = misc_en_US_dedes.Mode6
 meMA.Ode5C11.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.incipit
+meMA.Ode5C11.incipit = "You glow majestically like dawn,"
 meMA.Ode5C11.text = "You glow majestically like dawn, * truly like a daystar in the sky, and like the sun very radiant, * shining on the faithful with rays of martyrdom and signs * that God performs through you, O Martyr Eulampius."
 
 meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C12.mode = misc_en_US_dedes.Mode6
 meMA.Ode5C12.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.incipit
+meMA.Ode5C12.incipit = "The pains that you patiently"
 meMA.Ode5C12.text = "The pains that you patiently endured * were excruciating and prolonged; but you, O Martyr Eulampius, * counted all the torments to be most pleasant delights. * And now, having received your divine rewards, you rejoice."
 
 meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C13.mode = misc_en_US_dedes.Mode6
 meMA.Ode5C13.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.incipit
+meMA.Ode5C13.incipit = "All-lauded Martyr, since you poured"
 meMA.Ode5C13.text = "All-lauded Martyr, since you poured out * rivers of your blood, you have received abundant rivers of true delight, * and the never-fading eternal glory on high, * and the delight of Eden, O St. Eulampia."
 
 meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C1T.mode = misc_en_US_dedes.Mode6
 meMA.Ode5C1T.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.incipit
+meMA.Ode5C1T.incipit = "Now all the swords of"
 meMA.Ode5C1T.text = "Now all the swords of our hostile foe * have completely vanished, O all-pure, all-blameless, and all-immaculate * Virgin, ever since you gave birth to the God of all, * who by means of the Cross brought down his insolence."
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode6
 meMA.Ode6C11.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.incipit
+meMA.Ode6C11.incipit = "Although you were brutally mutilated"
 meMA.Ode6C11.text = "Although you were brutally mutilated and were thrown * to wild beast to be devoured * and dismembered and cast into furnace fire, * O Martyrs yet you refused * to renounce your unblemished faith in Christ our God."
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode6
 meMA.Ode6C12.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.incipit
+meMA.Ode6C12.incipit = "The tortures administered at the"
 meMA.Ode6C12.text = "The tortures administered at the judge's firm decree * were swelling like tsunami waves; * but they could not submerge the steadfast resolve * of the holy Martyr Saints; * for the hand of Lord our God was strengthening them."
 
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_dedes.Mode6
 meMA.Ode6C13.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.incipit
+meMA.Ode6C13.incipit = "The blood that you shed,"
 meMA.Ode6C13.text = "The blood that you shed, O Saints, like the Red Sea has submerged * infernal Pharaoh and his hosts, * O invincible Martyrs, and like the rain * it watered that Church of Christ, * which is thriving and blossoming in faith divine."
 
 meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1T.mode = misc_en_US_dedes.Mode6
 meMA.Ode6C1T.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.incipit
+meMA.Ode6C1T.incipit = "Into your all-holy womb, Lady,"
 meMA.Ode6C1T.text = "Into your all-holy womb, Lady, God emptied himself, * in tender-love ineffable. * From the abundant river of His delight * He gave drink to everyone; * and He renewed creation which had been destroyed."
 
 meMA.Ode6H.ode = misc_en_US_dedes.Ode6
 meMA.Ode6H.mode = misc_en_US_dedes.Mode6
 meMA.Ode6H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode6H.incipit = he.h.m6_en_US_dedes.TouViouTinThalassan.incipit
 meMA.Ode6H.text = he.h.m6_en_US_dedes.TouViouTinThalassan.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode3
 meMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.incipit
+meMA.Kontakion1.incipit = "We extol Eulampius, * the"
 meMA.Kontakion1.text = "We extol Eulampius, * the brave and wise, with his sister, * the devout Eulampia. * They both were valorous Martyrs. * For they put to shame the schemes of the persecutors, * by the might of Christ the crucified Lord and Savior. * They were shown to be the glory, * the pride and joy of the holy Martyr Saints."
 
 meMA.Oikos1.text = "O believers, today let us extol that duo of medaled Saints, with sacred songs and hymns. They brought down the deceptive error of idolatry, they extinguished the fire of pagan worship, and they shamed the demons. They were not frightened by the anger of the tyrants, they did not cower before the sword and the fire, nor the fierceness of the wild animals, but they competed well. Glorious Eulampius and holy Eulampia were siblings, fellow athletes, the pride and joy of the holy Martyr Saints."
@@ -199,93 +236,112 @@ meMA.Oikos1.text = "O believers, today let us extol that duo of medaled Saints, 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode6
 meMA.Ode7C11.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.incipit
+meMA.Ode7C11.incipit = "Imitating those three Youths of"
 meMA.Ode7C11.text = "Imitating those three Youths of old in Babylon, * you trampled on the fire by grace, * and then refreshed by the Spirit's immaterial fire, * O Martyrs, and you sang aloud to Christ, * \"O God of our fathers, blessed are You.\""
 
 meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C12.mode = misc_en_US_dedes.Mode6
 meMA.Ode7C12.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.incipit
+meMA.Ode7C12.incipit = "Even as the Martyrs' flesh"
 meMA.Ode7C12.text = "Even as the Martyrs' flesh was being ripped, their love * for the Maker of all prevailed; * for the Saints had directed all their attention to God. * With faith, being deified, they sang, * \"O God of our fathers, blessed are You.\""
 
 meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C13.mode = misc_en_US_dedes.Mode6
 meMA.Ode7C13.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.incipit
+meMA.Ode7C13.incipit = "By divine ascents, O Martyr,"
 meMA.Ode7C13.text = "By divine ascents, O Martyr, you were propping up * the movements of your heart, O Saint. * Medaled Athlete Eulampius, never bending you stood * on the unshaken rock of life and sang, * \"O God of our fathers, blessed are You.\""
 
 meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1T.mode = misc_en_US_dedes.Mode6
 meMA.Ode7C1T.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.incipit
+meMA.Ode7C1T.incipit = "When the furnace once did"
 meMA.Ode7C1T.text = "When the furnace once did not consume the three young men, * it prefigured your childbirth; * for the divine fire dwelt in you, but consumed you not, * enlightening everyone to sing, * \"O God of our fathers, blessed are You.\""
 
 meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C11.mode = misc_en_US_dedes.Mode6
 meMA.Ode8C11.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.incipit
+meMA.Ode8C11.incipit = "You appeared to be handsome"
 meMA.Ode8C11.text = "You appeared to be handsome in body and in soul, * even as you were buried in torments as in snow; * but you were in no way defeated, Martyr Saint. * Now and to the ages you sing to Christ the Master."
 
 meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C12.mode = misc_en_US_dedes.Mode6
 meMA.Ode8C12.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.incipit
+meMA.Ode8C12.incipit = "While declaring the word of"
 meMA.Ode8C12.text = "While declaring the word of the Lord with eloquence, * the devout sibling Martyrs of God the King of all * earnestly disparaged the judge's godless decree, * for they had both natural and spiritual kinship."
 
 meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C13.mode = misc_en_US_dedes.Mode6
 meMA.Ode8C13.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.incipit
+meMA.Ode8C13.incipit = "On the heavenly altar you"
 meMA.Ode8C13.text = "On the heavenly altar you offered up yourselves * as divine whole-burnt offerings, and as spotless lambs, * voluntarily, an acceptable sacrifice, * to the only true God, O medaled martyr Athletes."
 
 meMA.Ode8C14.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C14.mode = misc_en_US_dedes.Mode6
 meMA.Ode8C14.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.incipit
+meMA.Ode8C14.incipit = "We the faithful have known"
 meMA.Ode8C14.text = "We the faithful have known you, O St. Eulampius, * as a star that shining resplendently on us, * brightening our souls with the rays of your miracles; * for which we extol you, O Martyr, to the ages."
 
 meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1T.mode = misc_en_US_dedes.Mode6
 meMA.Ode8C1T.melody = he.h.m6_en_US_dedes.EkFlogosToisOsiois.incipit
+meMA.Ode8C1T.incipit = "We salute you, Rejoice, O"
 meMA.Ode8C1T.text = "We salute you, Rejoice, O all-blameless Virgin Maid! * Bride of God, for the storm-tossed you are the port. Rejoice! * You effect forgiveness for those who have sinned. Rejoice! * We sing out, Rejoice! You gave birth to God incarnate."
 
 meMA.Ode8H.ode = misc_en_US_dedes.Ode8
 meMA.Ode8H.mode = misc_en_US_dedes.Mode6
 meMA.Ode8H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode8H.incipit = he.h.m6_en_US_dedes.EkFlogosToisOsiois.incipit
 meMA.Ode8H.text = he.h.m6_en_US_dedes.EkFlogosToisOsiois.text
 
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_dedes.Mode6
 meMA.Ode9C11.melody = he.h.m6_en_US_dedes.TheonAnthropois.incipit
+meMA.Ode9C11.incipit = "O Martyr, longing to see"
 meMA.Ode9C11.text = "O Martyr, longing to see the glory and * extraordinary handsomeness of Christ the Ruler of all, * you ignored the inglorious things in life, * and you endure ignoble * death, which produced for you * everlasting glory, O all-glorious Eulampius."
 
 meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C12.mode = misc_en_US_dedes.Mode6
 meMA.Ode9C12.melody = he.h.m6_en_US_dedes.TheonAnthropois.incipit
+meMA.Ode9C12.incipit = "O Athlete, blessed of God,"
 meMA.Ode9C12.text = "O Athlete, blessed of God, Eulampius, * according to your name, you shone on those in the night of life; * for they saw you as a light, as a shining lamp, * driving away the darkness * of deathly ignorance. * And the gloom of illness you dispelled with your most splendid cures."
 
 meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C13.mode = misc_en_US_dedes.Mode6
 meMA.Ode9C13.melody = he.h.m6_en_US_dedes.TheonAnthropois.incipit
+meMA.Ode9C13.incipit = "You are adorned in the"
 meMA.Ode9C13.text = "You are adorned in the garments that were stained * in your martyric blood, O Saints, both handsome and beautiful; * and you stand near the Lord with your halos on, * singing along with Angels, * unto the Trinity, * \"Holy, Holy, Holy, O almighty God, Creator of all!\""
 
 meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C14.mode = misc_en_US_dedes.Mode6
 meMA.Ode9C14.melody = he.h.m6_en_US_dedes.TheonAnthropois.incipit
+meMA.Ode9C14.incipit = "Remember all of us who"
 meMA.Ode9C14.text = "Remember all of us who observe today * your sacred and all-venerable luminous memory, * O all-holy medal-winning Martyrs of Christ, * and venerate your relics * loyally. And we pray, * rescue us the faithful from temptations and adversities."
 
 meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1T.mode = misc_en_US_dedes.Mode6
 meMA.Ode9C1T.melody = he.h.m6_en_US_dedes.TheonAnthropois.incipit
+meMA.Ode9C1T.incipit = "You are the vessel of"
 meMA.Ode9C1T.text = "You are the vessel of the immortal Light * who, being God, shone forth from you, the pure and all-blameless one. * I entreat you, illumine the eyes of my soul, * and drive away the darkness * of blinding ignorance; * make the mist of sin to disappear, all-holy Mother of God."
 
 meMA.Ode9H.ode = misc_en_US_dedes.Ode9
 meMA.Ode9H.mode = misc_en_US_dedes.Mode6
 meMA.Ode9H.melody = misc_en_US_dedes.Heirmos
+meMA.Ode9H.incipit = he.h.m6_en_US_dedes.TheonAnthropois.incipit
 meMA.Ode9H.text = he.h.m6_en_US_dedes.TheonAnthropois.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.incipit
+meMA.Exaposteilarion1.incipit = "It is our duty worthily"
 meMA.Exaposteilarion1.text = "It is our duty worthily * to hymn the heaven-minded saints * Eulampius and his sister * Eulampia, the medaled saint, * the sacred sibling martyr pair, and also to observe in song * their most splendid memorial; * for on behalf of the whole world * they both pray to God in earnest."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.incipit
+meMA.ExapTheotokion.incipit = "All-blameless Maiden, with the drops"
 meMA.ExapTheotokion.text = "All-blameless Maiden, with the drops * of tender mercy, irrigate * my wretched soul that is pining * in the heat wave of transgressions. * And lead into the light my mind, * for passions have bedarkened it; * and clearly guide it straight ahead * to spiritual contemplation * of your Son, O Theotokos."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
