@@ -16,6 +16,7 @@ R08 = ""
 R09 = ""
 hoVE.FosIlaron.title = ""
 R10 = ""
+hoVE.FosIlaron.incipit = "Gladsome light"
 hoVE.FosIlaron.text = "Gladsome light of holy glory of the holy, blessed, heavenly, immortal Father, O Jesus Christ: arriving at the hour of sunset and having seen the evening light, we praise the Father, Son, and Holy Spirit, God. It is worthy for You to be praised at all times with happy voices, O Son of God and Giver of life; * and therefore the world glorifies You."
 R11 = ""
 
@@ -63,6 +64,7 @@ hoVE.FridayAlleluia.text = "" //for possible media
 R15 = ""
 R16 = ""
 //This Prayer is also in the Small Doxology, at Matins, Compline etc. with "day" and "night"
+hoVE.Prayer_Kataxioson.incipit = ""
 hoVE.Prayer_Kataxioson.text = ""
 R17 = ""
 R18 = ""
@@ -70,7 +72,7 @@ R19 = ""
 R20 = ""
 R21 = ""
 hoVE.LentApolytikion1.mode = misc_en_US_dedes.Mode5
-hoVE.LentApolytikion1.incipit = prayers_en_US_dedes.TheotokeParthene.incipit
+hoVE.LentApolytikion1.incipit = ""
 hoVE.LentApolytikion1.text = prayers_en_US_dedes.TheotokeParthene.text
 hoVE.LentApolytikion2.mode = misc_en_US_dedes.Mode5
 hoVE.LentApolytikion2.incipit = "O Baptist of Christ, be"

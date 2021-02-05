@@ -100,7 +100,6 @@ hoMA.ResEvlog6.mode = misc_en_US_dedes.Mode5
 hoMA.ResEvlog6.incipit = "Giving birth to the Giver"
 hoMA.ResEvlog6.text = "Giving birth to the Giver of life, O Virgin, you delivered Adam from sin, and to Eve you have rendered joy in place of sorrow. He who from you became incarnate, God and man, has directed to life him who fell from it."
 hoMA.ResEvlog7.mode = misc_en_US_dedes.Mode5
-hoMA.ResEvlog7.incipit = prayers_en_US_dedes.Allilouia3Doxa.incipit
 hoMA.ResEvlog7.text = prayers_en_US_dedes.Allilouia3Doxa.text
 
 hoMA.FuneralEvlog.title1 = "Evlogetaria for the Dead."
@@ -132,7 +131,6 @@ hoMA.FuneralEvlog8.mode = ""
 hoMA.FuneralEvlog8.incipit = ""
 hoMA.FuneralEvlog8.text = ""
 hoMA.FuneralEvlog9.mode = ""
-hoMA.FuneralEvlog9.incipit = ""
 hoMA.FuneralEvlog9.text = ""
 
 //Psalm 50
@@ -282,7 +280,6 @@ hoMA.DoxologyVerse18.text = "Both now and ever and to the ages of ages. Amen."
 hoMA.DoxologyVerse19.text = "Holy Immortal, have mercy on us."
 R22 = ""
 hoMA.MM.DoxologyGreatAsmatic.text = properties_en_US_dedes.media.key
-hoMA.DoxologyVerse20.incipit = hoMA.DoxologyVerse16.incipit
 hoMA.DoxologyVerse20.text = hoMA.DoxologyVerse16.text
 R23 = ""
 hoMA.DoxologySmallIntro.text = ""
@@ -328,28 +325,49 @@ hoMA.Antiphon11.text = properties_en_US_dedes.media.key
 
 hoMA.PreGospelHymn.text = "" // for media
 
+hoMA.SunPostGospel.incipit = ""
 hoMA.SunPostGospel.text = "Having seen the Resurrection of Christ, let us worship the Holy Lord Jesus, the only sinless one. Your Cross do we worship, O Christ, and Your holy Resurrection do we hymn and glorify. For You are our God, we know no other but You, we call upon Your name. Come all the faithful, let us worship the holy Resurrection of Christ; for behold through the Cross, joy has come in all the world. Ever blessing the Lord, we extol His Resurrection. For enduring the Cross for us, He destroyed death by death."
 
+hoMA.PostGospelTrinity.incipit = ""
 hoMA.PostGospelTrinity.text = "Father, Word and Spirit, the Trinity in Union, O Lord of mercy, blot out my many offenses."
+hoMA.PostGospelApostle.incipit = ""
 hoMA.PostGospelApostle.text = "At the intercession of the Apostle, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelApostles.incipit = ""
 hoMA.PostGospelApostles.text = "At the intercession of the Apostles, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelMaleMartyr.incipit = ""
 hoMA.PostGospelMaleMartyr.text = "At the intercession of the holy Martyr, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelMartyrs.incipit = ""
 hoMA.PostGospelMartyrs.text = "At the intercession of the holy Martyrs, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelWomanMartyr.incipit = ""
 hoMA.PostGospelWomanMartyr.text = "At the intercession of the holy Martyr, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelWomenMartyrs.incipit = ""
 hoMA.PostGospelWomenMartyrs.text = "At the intercession of the holy Martyrs, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelTeacher.incipit = ""
 hoMA.PostGospelTeacher.text = "At the intercession of the holy Teacher, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelTeachers.incipit = ""
 hoMA.PostGospelTeachers.text = "At the intercession of the holy Teachers, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelMonastic.incipit = ""
 hoMA.PostGospelMonastic.text = "At the intercession of Your holy Ascetic, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelMonastics.incipit = ""
 hoMA.PostGospelMonastics.text = "At the intercession of Your holy Ascetics, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelWomanMonastic.incipit = ""
 hoMA.PostGospelWomanMonastic.text = "At the intercession of Your holy Ascetic, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelForerunner.incipit = ""
 hoMA.PostGospelForerunner.text = "At the intercession of Your Forerunner, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelTheotokos.incipit = ""
 hoMA.PostGospelTheotokos.text = "At the intercession of the Theotokos, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelAllPureLady.incipit = ""
 hoMA.PostGospelAllPureLady.text = "At the intercession of our all-pure Lady, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelProphet.incipit = ""
 hoMA.PostGospelProphet.text = "At the intercession of Your holy Prophet, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelAngels.incipit = ""
 hoMA.PostGospelAngels.text = "Keeping me protected by the bodiless Powers, O Lord of mercy blot out my many offences."
+hoMA.PostGospelHierarch.incipit = ""
 hoMA.PostGospelHierarch.text = "At the intercession of Your holy Hierarch, O Lord of mercy, blot out my many offences."
+hoMA.PostGospelMaleSaint.incipit = ""
 hoMA.PostGospelMaleSaint.text = "At the intercession of Your Saint, O Master and Lord of mercy, blot out my many offences."
 
+hoMA.SunPostGospelIdiomelon.incipit = ""
 hoMA.SunPostGospelIdiomelon.text = "Jesus, having risen from the grave as He foretold, has granted us eternal life and great mercy."
 
 hoMA.SunExapVerse1.text = properties_en_US_dedes.media.key

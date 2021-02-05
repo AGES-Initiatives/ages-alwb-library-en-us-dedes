@@ -263,17 +263,6 @@ hoCA.Kontakion.text = ho.s07_en_US_dedes.hoTY.Key0408.text
 //First Antiphon Mode 4
 
 //R11
-hoCA.Prokeimenon.incipit = ho.s23_en_US_dedes.hoCA.Prokeimenon.incipit
-hoCA.Prokeimenon.text = ho.s23_en_US_dedes.hoCA.Prokeimenon.text
-
-hoCA.ProkVerse.incipit = ho.s23_en_US_dedes.hoCA.ProkVerse.incipit
-hoCA.ProkVerse.text = ho.s23_en_US_dedes.hoCA.ProkVerse.text
-
-//Gospel
-
-hoCA.Gospel.name = " Luke"
-hoCA.Gospel.chapverse = "10:38-42, 11:27-28."
-hoCA.Gospel.text = "At that time, Jesus entered a village; and a woman named Martha received Him into her house. And she had a sister called Mary, who sat at Jesus' feet and listened to His words. But Martha was distracted with much serving; and she approached Him and said, \"Lord, do you not care that my sister has left me to serve alone? Tell her then to help me.\" But Jesus answered and said to her, \"Martha, Martha, you are anxious and troubled about many things; one thing is needful. Mary has chosen the good portion, which shall not be taken away from her.\" As He said this, a woman in the crowd raised her voice and said to Him, \"Blessed is the womb that bore you, and the breasts at which you nursed!\" And He said, \"Indeed, blessed are those who hear the word of God and keep it!\""
 
 //R12 ""
 hoCA.PostGospelGlory.mode = misc_en_US_dedes.Mode2
@@ -286,7 +275,6 @@ hoCA.PostGospelBoth.melody = ""
 hoCA.PostGospelBoth.incipit = ho.s23_en_US_dedes.hoCA.PostGospelBoth.incipit
 hoCA.PostGospelBoth.text = ho.s23_en_US_dedes.hoCA.PostGospelBoth.text
 
-hoCA.PostGospelVerse.incipit = ho.s23_en_US_dedes.hoCA.PostGospelVerse.incipit
 hoCA.PostGospelVerse.text = ho.s23_en_US_dedes.hoCA.PostGospelVerse.text
 
 hoCA.PostGospelHymn1.mode = misc_en_US_dedes.Mode6
@@ -431,7 +419,7 @@ hoCA.Troparion92.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
 
 //R14
 
-hoCA.Meg00.incipit = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.incipit
+hoCA.Meg00.incipit = ""
 hoCA.Meg00.text = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = misc_en_US_dedes.Heirmos
 hoCA.Meg01.incipit = he.h.m6_en_US_dedes.TinTimioteran.incipit
@@ -455,7 +443,7 @@ hoCA.Meg06.text = ho.s23_en_US_dedes.hoCA.Meg06.text
 //R16
 R17 = "During the feast of the Transfiguration, the following Megalynarion for that feast may be inserted here."
 hoCA.MegTrans1.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
-hoCA.MegTrans1.incipit = me.m08.d06_en_US_dedes.meMegalynarion.incipit
+hoCA.MegTrans1.incipit = ""
 hoCA.MegTrans1.text = me.m08.d06_en_US_dedes.meMegalynarion.text
 hoCA.Meg0F.melody = he.h.m6_en_US_dedes.TinTimioteran.incipit
 hoCA.Meg0F.incipit = ho.s23_en_US_dedes.hoCA.Meg0F.incipit
