@@ -1,87 +1,38 @@
 A_Resource_Whose_Name = sy.m11.d05_en_US_dedes 
 
-S01.commemoration.text = "On November 5, we commemorate the holy martyrs Galaction and Epistimi."
-S01.narration1.p01.text = "[paragraph 01]"
-S01.narration1.p02.text = "[paragraph 02]"
-S01.narration1.p03.text = "[paragraph 03]"
-S01.narration1.p04.text = "[paragraph 04]"
-S01.narration1.p05.text = "[paragraph 05]"
-S01.narration1.p06.text = "[paragraph 06]"
-S01.narration1.p07.text = "[paragraph 07]"
+syMA.commemoration01.text = "On November 5, we commemorate the holy martyrs Galaction and Epistimi."
 
-S02.commemoration.text = "On this day we also commemorate the holy Apostles of the Seventy, Hermas, Patrobas, Linus, Gaius, and Philologos."
-S02.narration1.p01.text = "[paragraph 01]"
-S02.narration1.p02.text = "[paragraph 02]"
-S02.narration1.p03.text = "[paragraph 03]"
-S02.narration1.p04.text = "[paragraph 04]"
-S02.narration1.p05.text = "[paragraph 05]"
-S02.narration1.p06.text = "[paragraph 06]"
-S02.narration1.p07.text = "[paragraph 07]"
+syMA.commemoration02.text = "On this day we also commemorate the holy Apostles of the Seventy, Hermas, Patrobas, Linus, Gaius, and Philologos."
 
-S03.commemoration.text = "On this day, St. Domninos died by fire."
+syMA.commemoration03.text = "On this day, St. Domninos died by fire."
 
-S04.commemoration.text = "On this day, Sts. Timothy, Theophilos, and Theotimos were pummeled to death. "
+syMA.commemoration04.text = "On this day, Sts. Timothy, Theophilos, and Theotimos were pummeled to death. "
 
-S05.commemoration.text = "On this day, St. Dorotheos died when he was delivered to wild animals."
+syMA.commemoration05.text = "On this day, St. Dorotheos died when he was delivered to wild animals."
 
-S06.commemoration.text = "On this day, Sts. Efpsychios and Karterios died after being castrated."
+syMA.commemoration06.text = "On this day, Sts. Efpsychios and Karterios died after being castrated."
 
-S07.commemoration.text = "On this day, St. Silvan died after he was thrown into a mine."
+syMA.commemoration07.text = "On this day, St. Silvan died after he was thrown into a mine."
 
-S08.commemoration.text = "On this day, St. Pamphilos died after he was flayed alive and imprisoned."
+syMA.commemoration08.text = "On this day, St. Pamphilos died after he was flayed alive and imprisoned."
 
-S09.commemoration.text = "On this day we commemorate our devout father Gregory the Confessor, Archbishop of Alexandria."
+syMA.commemoration09.text = "On this day we commemorate our devout father Gregory the Confessor, Archbishop of Alexandria."
 
-S10.commemoration.text = "On this day, St. Agathangelos died by the sword."
+syMA.commemoration10.text = "On this day, St. Agathangelos died by the sword."
 
-S11.commemoration.text = "On this day we commemorate the holy hieromartyr Castor the Bishop."
+syMA.commemoration11.text = "On this day we commemorate the holy hieromartyr Castor the Bishop."
 
-S99.lastline.text= "By the intercessions of Your Saints, O God, have mercy on us. Amen."
+syMA.lastline = "By the intercessions of Your Saints, O God, have mercy on us. Amen."
 
-cl.S01.commemoration.text = "[saint/com 1]"
-cl.S01.narration1.p01.text = "[paragraph 01]"
-cl.S01.narration1.p02.text = "[paragraph 02]"
-cl.S01.narration1.p03.text = "[paragraph 03]"
-cl.S01.narration1.p04.text = "[paragraph 04]"
-cl.S01.narration1.p05.text = "[paragraph 05]"
-cl.S01.narration1.p06.text = "[paragraph 06]"
-cl.S01.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration01.text = "[saint/com 1]"
 
-cl.S02.commemoration.text = "[saint/com 2]"
-cl.S02.narration1.p01.text = "[paragraph 01]"
-cl.S02.narration1.p02.text = "[paragraph 02]"
-cl.S02.narration1.p03.text = "[paragraph 03]"
-cl.S02.narration1.p04.text = "[paragraph 04]"
-cl.S02.narration1.p05.text = "[paragraph 05]"
-cl.S02.narration1.p06.text = "[paragraph 06]"
-cl.S02.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration02.text = "[saint/com 2]"
 
-cl.S03.commemoration.text = "[saint/com 3]"
-cl.S03.narration1.p01.text = "[paragraph 01]"
-cl.S03.narration1.p02.text = "[paragraph 02]"
-cl.S03.narration1.p03.text = "[paragraph 03]"
-cl.S03.narration1.p04.text = "[paragraph 04]"
-cl.S03.narration1.p05.text = "[paragraph 05]"
-cl.S03.narration1.p06.text = "[paragraph 06]"
-cl.S03.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration03.text = "[saint/com 3]"
 
-cl.S04.commemoration.text = "[saint/com 4]"
-cl.S04.narration1.p01.text = "[paragraph 01]"
-cl.S04.narration1.p02.text = "[paragraph 02]"
-cl.S04.narration1.p03.text = "[paragraph 03]"
-cl.S04.narration1.p04.text = "[paragraph 04]"
-cl.S04.narration1.p05.text = "[paragraph 05]"
-cl.S04.narration1.p06.text = "[paragraph 06]"
-cl.S04.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration04.text = "[saint/com 4]"
 
-cl.S05.commemoration.text = "[saint/com 5]"
-cl.S05.narration1.p01.text = "[paragraph 01]"
-cl.S05.narration1.p02.text = "[paragraph 02]"
-cl.S05.narration1.p03.text = "[paragraph 03]"
-cl.S05.narration1.p04.text = "[paragraph 04]"
-cl.S05.narration1.p05.text = "[paragraph 05]"
-cl.S05.narration1.p06.text = "[paragraph 06]"
-cl.S05.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration05.text = "[saint/com 5]"
 
-cl.S06.commemoration.text = "[saint/com list]"
+cl.syMA.commemoration06.text = "[saint/com list]"
 

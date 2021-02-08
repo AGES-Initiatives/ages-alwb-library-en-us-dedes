@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m03.d02_en_US_dedes
 
-meDate.text = "March 2" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Holy Martyr Hesychius the Senator" //full title of day
-meShortCommemoration1.text = "Memory of the Holy Martyr Hesychius"
-meCom1.title = "For the Saint."
-meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "March 2" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Memory of the Holy Martyr Hesychius the Senator" //full title of day
+meDA.commemoration.first = "Memory of the Holy Martyr Hesychius"
+meDA.commemoration.first_short = "Memory of the Holy Martyr Hesychius"
+meDA.commemoration.first_title = "For the Saint."
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" //for use in petitions and dismissal
+meDA.insert2 = "" //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Memory of the Holy Martyr Hesychius the Senator"
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -324,14 +325,14 @@ meMegalynarion.text = ""
 
 //----------------------
 
-alt1.meDate.text = "March 3"
-alt1.meCommemoration.text = "Memory of Devout St. Nicholas Planas the Priest" //full title of day
-alt1.meShortCommemoration1.text = "Memory of St. Nicholas Planas"
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "and St. Nicholas Planas the Priest," //for use in petitions and dismissal
-alt1.meInsert2 = "whose memory we celebrate;" //for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.date = "March 3"
+alt1.meDA.commemoration.full = "Memory of Devout St. Nicholas Planas the Priest" //full title of day
+alt1.meDA.commemoration.first_short = "Memory of St. Nicholas Planas"
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "and St. Nicholas Planas the Priest," //for use in petitions and dismissal
+alt1.meDA.insert2 = "whose memory we celebrate;" //for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""

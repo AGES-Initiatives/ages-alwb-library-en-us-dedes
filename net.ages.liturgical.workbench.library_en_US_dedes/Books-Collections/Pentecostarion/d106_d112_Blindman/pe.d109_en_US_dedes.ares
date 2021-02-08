@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = pe.d109_en_US_dedes
 
-peCommemoration.text = "" //full title of day
-peShortCommemoration1.text = "Leavetaking of Pascha"
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
-peNote.text = ""
+peDA.commemoration.full = "" //full title of day
+peDA.commemoration.short = "Leavetaking of Pascha"
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
 peHO.description2 = ""
 peHO.note1 = ""
 peHO.note2 = ""
-peDismissal = dismissals_en_US_dedes.dis00.resurrection
+peDA.dismissal = dismissals_en_US_dedes.dis00.resurrection
 
 peVE.Stichera01.mode = misc_en_US_dedes.Mode1
 peVE.Stichera01.melody = ""
@@ -78,8 +78,8 @@ peMA.Lauds4.melody = ""
 peMA.Lauds4.incipit = oc.m1.d1_en_US_dedes.ocMA.Lauds4.incipit
 peMA.Lauds4.text = oc.m1.d1_en_US_dedes.ocMA.Lauds4.text
 
-alt1.peCommemoration.text = "" //full title of day
-alt1.peShortCommemoration1.text = ""
+alt1.peDA.commemoration.full = "" //full title of day
+alt1.peDA.commemoration.short = ""
 
 alt1.peMA.C1.poet = poets_en_US_dedes.Iosif
 alt1.peMA.C1.acrostic = ""

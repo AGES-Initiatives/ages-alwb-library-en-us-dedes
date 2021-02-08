@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d14_en_US_dedes
 
-meDate.text = "August 14"
-meCommemoration.text = "Forefeast of the Dormition of the Most-holy Theotokos and Ever-virgin Mary; and Memory of the holy Prophet Micah." //full title of day
-meShortCommemoration1.text = "Forefeast of the Dormition of the Theotokos"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "August 14"
+meDA.commemoration.full = "Forefeast of the Dormition of the Most-holy Theotokos and Ever-virgin Mary; and Memory of the holy Prophet Micah." //full title of day
+meDA.commemoration.first = "Forefeast of the Dormition of the Theotokos"
+meDA.commemoration.first_short = "Forefeast of the Dormition of the Theotokos"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" //for use in petitions and dismissal
+meDA.insert2 = "" //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

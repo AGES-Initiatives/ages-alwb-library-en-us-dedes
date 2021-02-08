@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m07.d17_en_US_dedes
 
-meDate.text = "July 17"
-meCommemoration.text = "Memory of the Holy Great Martyr Marina" // full title of day
-meShortCommemoration1.text = "Memory of the Holy Great Martyr Marina"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "holy Great Martyr Marina," // for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "July 17"
+meDA.commemoration.full = "Memory of the Holy Great Martyr Marina" // full title of day
+meDA.commemoration.first = "Memory of the Holy Great Martyr Marina"
+meDA.commemoration.first_short = "Memory of the Holy Great Martyr Marina"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "holy Great Martyr Marina," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy Great Martyr Marina."
 meLE.commemoration2 = ""
 meHO.number = ""

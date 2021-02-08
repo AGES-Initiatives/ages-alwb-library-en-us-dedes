@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d05_en_US_dedes
 
-meDate.text = "August 5"
-meCommemoration.text = "The Forefeast of the Holy Transfiguration of our Lord God and Savior Jesus Christ; and Memory of the Holy Martyr Eusignius."
-meShortCommemoration1.text = "The Forefeast of the Holy Transfiguration of our Lord"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "August 5"
+meDA.commemoration.full = "The Forefeast of the Holy Transfiguration of our Lord God and Savior Jesus Christ; and Memory of the Holy Martyr Eusignius."
+meDA.commemoration.first = "The Forefeast of the Holy Transfiguration of our Lord"
+meDA.commemoration.first_short = "The Forefeast of the Holy Transfiguration of our Lord"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" //for use in petitions and dismissal
+meDA.insert2 = "" //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy Martyr Eusignios."
 meLE.commemoration2 = ""
 meHO.number = ""

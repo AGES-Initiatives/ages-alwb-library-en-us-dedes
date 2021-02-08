@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m11.d26_en_US_dedes
 
-meDate.text = "November 26"
-meCommemoration.text = "Memory of our Devout Fathers Alypios the Stylite and Nikon \"Repent\"" // full title of day
-meShortCommemoration1.text = "Memory of St. Alypios the Stylite"
-meCom1.title = "For St. Alypios."
-meCom2.title = "For St. Nikon."
-meInsert1 = "and our devout fathers Alypios the Stylite and Nikon \"Repent,\"" // for use in petitions and dismissal
-meInsert2 = "whose memory we observe," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "November 26"
+meDA.commemoration.full = "Memory of our Devout Fathers Alypios the Stylite and Nikon \"Repent\"" // full title of day
+meDA.commemoration.first = "Memory of St. Alypios the Stylite"
+meDA.commemoration.first_short = "Memory of St. Alypios the Stylite"
+meDA.commemoration.first_title = "For St. Alypios."
+meDA.commemoration.second_title = "For St. Nikon."
+meDA.insert1 = "and our devout fathers Alypios the Stylite and Nikon \"Repent,\"" // for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Our Venerable Father Alypios the Stylite."
 meLE.commemoration2 = ""
 meHO.number = ""

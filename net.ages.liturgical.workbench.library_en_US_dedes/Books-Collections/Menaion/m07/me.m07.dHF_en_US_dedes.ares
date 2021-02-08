@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m07.dHF_en_US_dedes
 
-meDate.text = "July 13-19"
-meCommemoration.text = "Sunday of the Holy Fathers of the Fourth Ecumenical Council in Chalcedon." // full title of day
-meShortCommemoration1.text = "Sunday of the Holy Fathers"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "and the Holy Fathers of the Fourth Ecumenical Council, " // for use in petitions and dismissal
-meInsert2 = "whose memory we are observing; " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "July 13-19"
+meDA.commemoration.full = "Sunday of the Holy Fathers of the Fourth Ecumenical Council in Chalcedon." // full title of day
+meDA.commemoration.first = "Sunday of the Holy Fathers"
+meDA.commemoration.first_short = "Sunday of the Holy Fathers"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "and the Holy Fathers of the Fourth Ecumenical Council, " // for use in petitions and dismissal
+meDA.insert2 = "whose memory we are observing; " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Sunday of the Holy Fathers."
 meLE.commemoration2 = ""
 meHO.number = ""

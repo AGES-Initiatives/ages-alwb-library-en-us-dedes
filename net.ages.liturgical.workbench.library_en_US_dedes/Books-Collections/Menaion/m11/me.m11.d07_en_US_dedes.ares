@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m11.d07_en_US_dedes
 
-meDate.text = "November 7"
-meCommemoration.text = "Memory of the Thirty-Three holy Martyrs in Melitene; and Memory of our Devout Father Lazarus the Wonder-worker, who lived as an Ascetic on Mt. Galesion."
-meShortCommemoration1.text = "Memory of our Devout Father Lazarus the Wonder-worker"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "and our devout father Lazarus the Wonder-worker, " // for use in petitions and dismissal
-meInsert2 = "whose memory we observe," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "November 7"
+meDA.commemoration.full = "Memory of the Thirty-Three holy Martyrs in Melitene; and Memory of our Devout Father Lazarus the Wonder-worker, who lived as an Ascetic on Mt. Galesion."
+meDA.commemoration.first = "Memory of our Devout Father Lazarus the Wonder-worker"
+meDA.commemoration.first_short = "Memory of our Devout Father Lazarus the Wonder-worker"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "and our devout father Lazarus the Wonder-worker, " // for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Thirty-Three Holy Martyrs of Melitene. Our Venerable Father Lazaros of Mount Galesion, the Wonder-worker."
 meLE.commemoration2 = ""
 meHO.number = ""

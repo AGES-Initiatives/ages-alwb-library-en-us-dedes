@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.d27_en_US_dedes
 
-meDate.text = "October 27"
-meCommemoration.text = "Memory of the Holy Martyr Nestor" //full title of day
-meShortCommemoration1.text = "Memory of the Holy Martyr Nestor"
-meCom1.title = "For St. Demetrius."
-meCom2.title = "For St. Nestor."
-meInsert1 = "and the holy and glorious Martyr Nestor," //for use in petitions and dismissal
-meInsert2 = "whose memory we observe," //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "October 27"
+meDA.commemoration.full = "Memory of the Holy Martyr Nestor" //full title of day
+meDA.commemoration.first = "Memory of the Holy Martyr Nestor"
+meDA.commemoration.first_short = "Memory of the Holy Martyr Nestor"
+meDA.commemoration.first_title = "For St. Demetrius."
+meDA.commemoration.second_title = "For St. Nestor."
+meDA.insert1 = "and the holy and glorious Martyr Nestor," //for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe," //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

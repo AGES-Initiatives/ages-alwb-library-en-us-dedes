@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m07.d02_en_US_dedes
 
-meDate.text = "July 2"
-meCommemoration.text = "Commemoration of the Placement in Blachernai of the Precious Garment of the Most Holy Theotokos" // full title of day
-meShortCommemoration1.text = "Commemoration of the Placement in Blachernai of the Precious Garment of the Most Holy Theotokos"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "the placing of whose precious Garment at Blacherai we commemorate," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "July 2"
+meDA.commemoration.full = "Commemoration of the Placement in Blachernai of the Precious Garment of the Most Holy Theotokos" // full title of day
+meDA.commemoration.first = "Commemoration of the Placement in Blachernai of the Precious Garment of the Most Holy Theotokos"
+meDA.commemoration.first_short = "Commemoration of the Placement in Blachernai of the Precious Garment of the Most Holy Theotokos"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "the placing of whose precious Garment at Blacherai we commemorate," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Placing of the Venerable Robe of the Theotokos at Blachernai."
 meLE.commemoration2 = ""
 meHO.number = ""

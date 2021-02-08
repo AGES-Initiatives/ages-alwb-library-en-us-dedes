@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m05.d25_en_US_dedes
 
-meDate.text = "May 25"
-meCommemoration.text = "Third Finding of the Head of the Prophet, Forerunner and Baptist John" // full title of day
-meShortCommemoration1.text = "Third Finding of the Forerunner's Head"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "the honorable and glorious Prophet, and Forerunner John the Baptist, "
-meInsert2 = "the Finding of whose precious Head we celebrate, "
-meNote.text = ""
+meDA.date = "May 25"
+meDA.commemoration.full = "Third Finding of the Head of the Prophet, Forerunner and Baptist John" // full title of day
+meDA.commemoration.first = "Third Finding of the Forerunner's Head"
+meDA.commemoration.first_short = "Third Finding of the Forerunner's Head"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "the honorable and glorious Prophet, and Forerunner John the Baptist, "
+meDA.insert2 = "the Finding of whose precious Head we celebrate, "
+meDA.note = ""
 meLE.commemoration1 = "The Commemoration of the Third Finding of the Venerable Head of the Forerunner John the Baptist."
 meLE.commemoration2 = ""
 meHO.number = ""

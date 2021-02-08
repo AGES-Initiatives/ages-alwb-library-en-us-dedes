@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m02.d08_en_US_dedes
 
-meDate.text = "February 8" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Holy Great Martyr Theodore the General; and the Holy Prophet Zacharias." // full title of day
-meShortCommemoration1.text = "Memory of the Holy Great Martyr Theodore the General"
-meCom1.title = "For St. Theodore."
-meCom2.title = "For Pr. Zacharias."
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "February 8" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Memory of the Holy Great Martyr Theodore the General; and the Holy Prophet Zacharias." // full title of day
+meDA.commemoration.first = "Memory of the Holy Great Martyr Theodore the General"
+meDA.commemoration.first_short = "Memory of the Holy Great Martyr Theodore the General"
+meDA.commemoration.first_title = "For St. Theodore."
+meDA.commemoration.second_title = "For Pr. Zacharias."
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy Great Martyr Theodore Stratelatos."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -15,7 +16,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_dedes.HolidayWineOil
 meHO.note2 = ""
-meDismissal = dismissals_en_US_dedes.dis00.meeting
+meDA.dismissal = dismissals_en_US_dedes.dis00.meeting
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode5
 meVE.Stichera01.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.incipit

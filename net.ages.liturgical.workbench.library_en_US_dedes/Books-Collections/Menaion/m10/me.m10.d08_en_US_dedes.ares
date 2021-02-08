@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.d08_en_US_dedes
 
-meDate.text = "October 8"
-meCommemoration.text = "Memory of our Devout Mother Pelagia" // full title of day
-meShortCommemoration1.text = "Memory of our Devout Mother Pelagia"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "our devout mother Pelagia," // for use in petitions and dismissal
-meInsert2 = "whose memory we observe," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "October 8"
+meDA.commemoration.full = "Memory of our Devout Mother Pelagia" // full title of day
+meDA.commemoration.first = "Memory of our Devout Mother Pelagia"
+meDA.commemoration.first_short = "Memory of our Devout Mother Pelagia"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "our devout mother Pelagia," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Our Venerable Mother Pelagia."
 meLE.commemoration2 = ""
 meHO.number = ""

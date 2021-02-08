@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m12.d25_en_US_dedes
 
-meDate.text = "December 25" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "The Nativity in the Flesh of our Lord God and Savior Jesus Christ" // full title of day
-meShortCommemoration1.text = "The Nativity of our Lord Jesus Christ"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "December 25" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "The Nativity in the Flesh of our Lord God and Savior Jesus Christ" // full title of day
+meDA.commemoration.first = "The Nativity of our Lord Jesus Christ"
+meDA.commemoration.first_short = "The Nativity of our Lord Jesus Christ"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Nativity of our Lord and God and Savior Jesus Christ in the Flesh."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -15,7 +16,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_dedes.HolidayChristmas
 meHO.note2 = ""
-meDismissal = dismissals_en_US_dedes.dis00.christmas
+meDA.dismissal = dismissals_en_US_dedes.dis00.christmas
 
 meVE.Stichera01.poet = poets_en_US_dedes.Germanou
 meVE.Stichera01.mode = misc_en_US_dedes.Mode2

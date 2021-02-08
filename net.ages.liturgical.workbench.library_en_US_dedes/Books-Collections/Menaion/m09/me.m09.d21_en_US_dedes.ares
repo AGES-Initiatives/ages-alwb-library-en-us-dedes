@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m09.d21_en_US_dedes
 
-meDate.text = "September 21"
-meCommemoration.text = "Leave-taking of the Feast of the Elevation of the Holy Cross." //full title of day
-meShortCommemoration1.text = "Leave-taking of the Feast."
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "September 21"
+meDA.commemoration.full = "Leave-taking of the Feast of the Elevation of the Holy Cross." //full title of day
+meDA.commemoration.first = "Leave-taking of the Feast."
+meDA.commemoration.first_short = "Leave-taking of the Feast."
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" //for use in petitions and dismissal
+meDA.insert2 = "" //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d08_en_US_dedes
 
-meDate.text = "August 8"
-meCommemoration.text = "Memory of St. Emelian, Bishop of Cyzicus" //full title of day
-meShortCommemoration1.text = "Memory of St. Emelian, Bishop of Cyzicus"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "August 8"
+meDA.commemoration.full = "Memory of St. Emelian, Bishop of Cyzicus" //full title of day
+meDA.commemoration.first = "Memory of St. Emelian, Bishop of Cyzicus"
+meDA.commemoration.first_short = "Memory of St. Emelian, Bishop of Cyzicus"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" //for use in petitions and dismissal
+meDA.insert2 = "" //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -15,7 +16,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
-meDismissal = dismissals_en_US_dedes.dis00.transfiguration
+meDA.dismissal = dismissals_en_US_dedes.dis00.transfiguration
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
@@ -364,5 +365,5 @@ meLI.Kontakion1.text = ""
 
 meMegalynarion.text = "Rightly we salute you and say, Rejoice, * Cyzicus's shepherd, godly Hierarch of the Church. * Rejoice, O defender of the most sacred icons, * support of the believers, O St. Emelian."
 
-alt1.meShortCommemoration1.text = "Memory of the holy Neomartyr Triantaphyllos"
+alt1.meDA.commemoration.first_short = "Memory of the holy Neomartyr Triantaphyllos"
 alt1.meMegalynarion.text = "We salute you, peer of martyrs of old, * as Christ's Neomartyr, Triantaphyllos, O rejoice! * You gave testimony and called yourself a Christian * before ungodly tyrants, steadfast in mind and heart."

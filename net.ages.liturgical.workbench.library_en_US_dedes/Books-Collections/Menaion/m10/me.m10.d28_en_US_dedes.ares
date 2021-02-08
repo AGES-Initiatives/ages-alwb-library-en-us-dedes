@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.d28_en_US_dedes
 
-meDate.text = "October 28"
-meCommemoration.text = "Memory of the Holy Martyrs Terence and Neonilla and their Children; and our Devout Father Stephen of St. Savas Monastery." // full title of day
-meShortCommemoration1.text = "Memory of the Holy Martyrs Terence and Neonilla and their Children"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "October 28"
+meDA.commemoration.full = "Memory of the Holy Martyrs Terence and Neonilla and their Children; and our Devout Father Stephen of St. Savas Monastery." // full title of day
+meDA.commemoration.first = "Memory of the Holy Martyrs Terence and Neonilla and their Children"
+meDA.commemoration.first_short = "Memory of the Holy Martyrs Terence and Neonilla and their Children"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -522,16 +523,16 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = ""
+alt1.meDA.date = ""
 
-alt1.meCommemoration.text = "" //full title of day
-alt1.meShortCommemoration1.text = "Holy Protection of our Most Holy Lady Theotokos"
+alt1.meDA.commemoration.full = "" //full title of day
+alt1.meDA.commemoration.first_short = "Holy Protection of our Most Holy Lady Theotokos"
 
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "" //for use in petitions and dismissal
-alt1.meInsert2 = "" //for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "" //for use in petitions and dismissal
+alt1.meDA.insert2 = "" //for use in petitions and dismissal
+alt1.meDA.note = ""
 
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""

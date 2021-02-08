@@ -1,21 +1,22 @@
 A_Resource_Whose_Name = me.m01.d06_en_US_dedes
 
-meDate.text = "January 6" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "The Holy Epiphany of our Lord God and Savior Jesus Christ." // full title of day
-meShortCommemoration1.text = "Holy Epiphany"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "January 6" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "The Holy Epiphany of our Lord God and Savior Jesus Christ." // full title of day
+meDA.commemoration.first = "Holy Epiphany"
+meDA.commemoration.first_short = "Holy Epiphany"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy Theophany of our Lord and God and Savior Jesus Christ."
 meLE.commemoration2 = ""
 meHO.number = "6."
-meHO.rank = "1"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_dedes.HolidayAll
 meHO.note2 = ""
-meDismissal = dismissals_en_US_dedes.dis00.epiphany
+meDA.dismissal = dismissals_en_US_dedes.dis00.epiphany
 
 meVE.Stichera01.poet = poets_en_US_dedes.IoannouMonachou
 meVE.Stichera01.mode = misc_en_US_dedes.Mode2

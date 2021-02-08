@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d22_en_US_dedes
 
-meDate.text = "August 22"
-meCommemoration.text = "Memory of the Holy Martyr Agathonicus and the Holy Martyr Lupus" //full title of day
-meShortCommemoration1.text = "Memory of the Holy Martyr Agathonicus"
-meCom1.title = "For St. Agathonicus."
-meCom2.title = "For St. Lupus."
-meInsert1 = "the holy and glorious Martyr Agathonicus," //for use in petitions and dismissal
-meInsert2 = "whose memory we observe," //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "August 22"
+meDA.commemoration.full = "Memory of the Holy Martyr Agathonicus and the Holy Martyr Lupus" //full title of day
+meDA.commemoration.first = "Memory of the Holy Martyr Agathonicus"
+meDA.commemoration.first_short = "Memory of the Holy Martyr Agathonicus"
+meDA.commemoration.first_title = "For St. Agathonicus."
+meDA.commemoration.second_title = "For St. Lupus."
+meDA.insert1 = "the holy and glorious Martyr Agathonicus," //for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe," //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -587,14 +588,14 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = "August 22"
-alt1.meCommemoration.text = "Synaxis of our Most Holy Lady Theotokos in Prousa" //full title of day
-alt1.meShortCommemoration1.text = "Synaxis of our Most Holy Lady Theotokos in Prousa"
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "" //for use in petitions and dismissal
-alt1.meInsert2 = "" //for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.date = "August 22"
+alt1.meDA.commemoration.full = "Synaxis of our Most Holy Lady Theotokos in Prousa" //full title of day
+alt1.meDA.commemoration.first_short = "Synaxis of our Most Holy Lady Theotokos in Prousa"
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "" //for use in petitions and dismissal
+alt1.meDA.insert2 = "" //for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
@@ -603,7 +604,7 @@ alt1.meHO.commemorations = ""
 alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
-alt1.mePoet = ""
+alt1.meDA.poet = ""
 
 alt1.meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
 alt1.meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.TisErimouPolitis.notmetered

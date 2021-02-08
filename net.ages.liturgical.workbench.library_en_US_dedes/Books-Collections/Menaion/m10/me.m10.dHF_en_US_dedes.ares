@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.dHF_en_US_dedes
 
-meDate.text = "October 11-17"
-meCommemoration.text = "Service in Honor of the Holy Fathers of the Seventh Ecumenical Council" // full title of day
-meShortCommemoration1.text = "The Holy Fathers of the 7th Council"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "and the holy Fathers of the Seventh Ecumenical Council," // for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate today;" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "October 11-17"
+meDA.commemoration.full = "Service in Honor of the Holy Fathers of the Seventh Ecumenical Council" // full title of day
+meDA.commemoration.first = "The Holy Fathers of the 7th Council"
+meDA.commemoration.first_short = "The Holy Fathers of the 7th Council"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "and the holy Fathers of the Seventh Ecumenical Council," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we celebrate today;" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Sunday of the Holy Fathers."
 meLE.commemoration2 = ""
 meHO.number = ""

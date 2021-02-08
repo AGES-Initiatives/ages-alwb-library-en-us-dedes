@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m07.d25_en_US_dedes
 
-meDate.text = "July 25"
-meCommemoration.text = "Memory of the Repose of Saint Anna, the Mother of the Most Holy Theotokos." // full title of day
-meShortCommemoration1.text = "Memory of the Repose of Saint Anna"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate, " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "July 25"
+meDA.commemoration.full = "Memory of the Repose of Saint Anna, the Mother of the Most Holy Theotokos." // full title of day
+meDA.commemoration.first = "Memory of the Repose of Saint Anna"
+meDA.commemoration.first_short = "Memory of the Repose of Saint Anna"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "whose memory we celebrate, " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Repose of Saint Anna, Mother of the Theotokos."
 meLE.commemoration2 = ""
 meHO.number = ""

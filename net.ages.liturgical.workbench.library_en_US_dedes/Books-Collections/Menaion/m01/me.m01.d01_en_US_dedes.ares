@@ -1,24 +1,22 @@
 A_Resource_Whose_Name = me.m01.d01_en_US_dedes
 
-meHO.Month.text = "JANUARY"
-meHO.DaysHours.text = "(The month has 31 days. The day has 10 hours and the night 14 hours.)"
-
-meDate.text = "January 1" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "The Circumcision of our Lord, God and Savior Jesus Christ, and Memory of our Father among the saints Basil the Great, Archbishop of Caesarea in Cappadocia" // full title of day
-meShortCommemoration1.text = "Memory of our Father among the saints Basil the Great"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "our Father among the saints Basil the Great, Archbishop of Caesarea in Cappadocia," // for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "January 1" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "The Circumcision of our Lord, God and Savior Jesus Christ, and Memory of our Father among the saints Basil the Great, Archbishop of Caesarea in Cappadocia" // full title of day
+meDA.commemoration.first = "Memory of our Father among the saints Basil the Great"
+meDA.commemoration.first_short = "Memory of our Father among the saints Basil the Great"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "our Father among the saints Basil the Great, Archbishop of Caesarea in Cappadocia," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Circumcision of our Lord Jesus Christ"
 meLE.commemoration2 = "Our Father among the saints Basil the Great"
 meHO.number = "1."
-meHO.rank = "3"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_dedes.HolidayAll
 meHO.note2 = ""
-meDismissal = dismissals_en_US_dedes.dis00.circumcision
+meDA.dismissal = dismissals_en_US_dedes.dis00.circumcision
 
 meVE.Stichera01.poet = poets_en_US_dedes.Anatoliou
 meVE.Stichera01.mode = misc_en_US_dedes.Mode8

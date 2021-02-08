@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m11.d23_en_US_dedes
 
-meDate.text = "November 23"
-meCommemoration.text = "Memory of our Fathers among the Saints Amphilochios, Bishop of Iconium, and Gregory of Agrigentum" // full title of day
-meShortCommemoration1.text = ""
-meCom1.title = "For St. Amphilochios."
-meCom2.title = "For St. Gregory."
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "November 23"
+meDA.commemoration.full = "Memory of our Fathers among the Saints Amphilochios, Bishop of Iconium, and Gregory of Agrigentum" // full title of day
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.first_title = "For St. Amphilochios."
+meDA.commemoration.second_title = "For St. Gregory."
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Our Fathers among the Saints Gregory, Bishop of Agrigentum, and Amphilochios, Bishop of Ikonion."
 meLE.commemoration2 = ""
 meHO.number = ""

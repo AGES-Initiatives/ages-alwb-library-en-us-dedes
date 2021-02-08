@@ -1,85 +1,60 @@
 A_Resource_Whose_Name = sy.m02.d08_en_US_dedes
 
-S01.commemoration.text = "On February 8 we commemorate the holy and glorious great martyr Theodore the General."
-S01.narration1.p01.text = "[paragraph 01]"
-S01.narration1.p02.text = "[paragraph 02]"
-S01.narration1.p03.text = "[paragraph 03]"
-S01.narration1.p04.text = "[paragraph 04]"
-S01.narration1.p05.text = "[paragraph 05]"
-S01.narration1.p06.text = "[paragraph 06]"
-S01.narration1.p07.text = "[paragraph 07]"
+syMA.commemoration01.text = "On February 8 we commemorate the holy and glorious great martyr Theodore the General."
+syMA.commemoration01.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration01.couplet1.verse1 = ""
+syMA.commemoration01.couplet1.verse2 = ""
+syMA.commemoration01.single1 = ""
+syMA.commemoration01.narration.p01 = ""
+syMA.commemoration01.narration.p02 = ""
+syMA.commemoration01.narration.p03 = ""
+syMA.commemoration01.narration.p04 = ""
+syMA.commemoration01.narration.p05 = ""
+syMA.commemoration01.narration.p06 = ""
 
-S02.commemoration.text = "On this day we also commemorate the holy prophet Zachariah."
-S02.narration1.p01.text = "[paragraph 01]"
-S02.narration1.p02.text = "[paragraph 02]"
-S02.narration1.p03.text = "[paragraph 03]"
-S02.narration1.p04.text = "[paragraph 04]"
-S02.narration1.p05.text = "[paragraph 05]"
-S02.narration1.p06.text = "[paragraph 06]"
-S02.narration1.p07.text = "[paragraph 07]"
+syMA.commemoration02.text = "On this day we also commemorate the holy prophet Zachariah."
+syMA.commemoration02.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration02.couplet1.verse1 = ""
+syMA.commemoration02.couplet1.verse2 = ""
+syMA.commemoration02.narration.p01 = ""
 
-S03.commemoration.text = "On this day the holy martyrs Nikephoros and Stephen died by the sword."
+syMA.commemoration03.text = "On this day the holy martyrs Nikephoros and Stephen died by the sword."
+syMA.commemoration03.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration03.couplet1.verse1 = ""
+syMA.commemoration03.couplet1.verse2 = ""
 
-S04.commemoration.text = "On this day Sts. Martha and Mary, the sisters, and the devout Lycarion the martyr, died by the sword."
+syMA.commemoration04.text = "On this day Sts. Martha and Mary, the sisters, and the devout Lycarion the martyr, died by the sword."
+syMA.commemoration04.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration04.couplet1.verse1 = ""
+syMA.commemoration04.couplet1.verse2 = ""
+syMA.commemoration04.narration.p01 = ""
 
-S05.commemoration.text = "On this day the contest of the holy martyrs Philadelphus and Polycarp."
+syMA.commemoration05.text = "On this day the contest of the holy martyrs Philadelphus and Polycarp."
+syMA.commemoration05.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration05.couplet1.verse1 = ""
+syMA.commemoration05.couplet1.verse2 = ""
 
-S06.commemoration.text = "On this day we also commemorate our devout father Makarios, Bishop of Paphos."
+syMA.commemoration06.text = "On this day we also commemorate our devout father Makarios, Bishop of Paphos."
+syMA.commemoration06.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration06.couplet1.verse1 = ""
+syMA.commemoration06.couplet1.verse2 = ""
 
-S07.commemoration.text = "On this day we also commemorate the holy martyr Pergetus."
+syMA.commemoration07.text = "On this day we also commemorate the holy martyr Pergetus."
+syMA.commemoration07.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration07.couplet1.verse1 = ""
+syMA.commemoration07.couplet1.verse2 = ""
 
-S08.commemoration.text = ""
+syMA.lastline = "By the intercessions of Your Saint, O God, have mercy on us. Amen."
 
-S09.commemoration.text = ""
+cl.syMA.commemoration01.text = "[saint/com 1]"
 
-S10.commemoration.text = ""
+cl.syMA.commemoration02.text = "[saint/com 2]"
 
-S99.lastline.text= "By the intercessions of Your Saint, O God, have mercy on us. Amen."
+cl.syMA.commemoration03.text = "[saint/com 3]"
 
-cl.S01.commemoration.text = "[saint/com 1]"
-cl.S01.narration1.p01.text = "[paragraph 01]"
-cl.S01.narration1.p02.text = "[paragraph 02]"
-cl.S01.narration1.p03.text = "[paragraph 03]"
-cl.S01.narration1.p04.text = "[paragraph 04]"
-cl.S01.narration1.p05.text = "[paragraph 05]"
-cl.S01.narration1.p06.text = "[paragraph 06]"
-cl.S01.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration04.text = "[saint/com 4]"
 
-cl.S02.commemoration.text = "[saint/com 2]"
-cl.S02.narration1.p01.text = "[paragraph 01]"
-cl.S02.narration1.p02.text = "[paragraph 02]"
-cl.S02.narration1.p03.text = "[paragraph 03]"
-cl.S02.narration1.p04.text = "[paragraph 04]"
-cl.S02.narration1.p05.text = "[paragraph 05]"
-cl.S02.narration1.p06.text = "[paragraph 06]"
-cl.S02.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration05.text = "[saint/com 5]"
 
-cl.S03.commemoration.text = "[saint/com 3]"
-cl.S03.narration1.p01.text = "[paragraph 01]"
-cl.S03.narration1.p02.text = "[paragraph 02]"
-cl.S03.narration1.p03.text = "[paragraph 03]"
-cl.S03.narration1.p04.text = "[paragraph 04]"
-cl.S03.narration1.p05.text = "[paragraph 05]"
-cl.S03.narration1.p06.text = "[paragraph 06]"
-cl.S03.narration1.p07.text = "[paragraph 07]"
-
-cl.S04.commemoration.text = "[saint/com 4]"
-cl.S04.narration1.p01.text = "[paragraph 01]"
-cl.S04.narration1.p02.text = "[paragraph 02]"
-cl.S04.narration1.p03.text = "[paragraph 03]"
-cl.S04.narration1.p04.text = "[paragraph 04]"
-cl.S04.narration1.p05.text = "[paragraph 05]"
-cl.S04.narration1.p06.text = "[paragraph 06]"
-cl.S04.narration1.p07.text = "[paragraph 07]"
-
-cl.S05.commemoration.text = "[saint/com 5]"
-cl.S05.narration1.p01.text = "[paragraph 01]"
-cl.S05.narration1.p02.text = "[paragraph 02]"
-cl.S05.narration1.p03.text = "[paragraph 03]"
-cl.S05.narration1.p04.text = "[paragraph 04]"
-cl.S05.narration1.p05.text = "[paragraph 05]"
-cl.S05.narration1.p06.text = "[paragraph 06]"
-cl.S05.narration1.p07.text = "[paragraph 07]"
-
-cl.S06.commemoration.text = "[saint/com list]"
+cl.syMA.commemoration06.text = "[saint/com list]"
 

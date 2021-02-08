@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m09.d24_en_US_dedes
 
-meDate.text = "September 24"
-meCommemoration.text = "The Synaxis in Honor of the Most Holy Theotokos, our Lady of the Myrtles; and Memory of the Holy Great Martyr Thecla, the Equal to the Apostles." // full title of day
-meShortCommemoration1.text = "Memory of the Holy Great Martyr Thecla, the Equal to the Apostles."
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "the holy Great Martyr Thecla, the Equal to the Apostles," // for use in petitions and dismissal
-meInsert2 = "whose memory we observe," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "September 24"
+meDA.commemoration.full = "The Synaxis in Honor of the Most Holy Theotokos, our Lady of the Myrtles; and Memory of the Holy Great Martyr Thecla, the Equal to the Apostles." // full title of day
+meDA.commemoration.first = "Memory of the Holy Great Martyr Thecla, the Equal to the Apostles."
+meDA.commemoration.first_short = "Memory of the Holy Great Martyr Thecla, the Equal to the Apostles."
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "the holy Great Martyr Thecla, the Equal to the Apostles," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Commemoration of the Miracle of the Theotokos at Kythera."
 meLE.commemoration2 = "The Great Martyr Thekla, Equal to the Apostles."
 meHO.number = ""
@@ -431,15 +432,15 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = "September 24"
-alt1.meCommemoration.text = "The Synaxis in Honor of the Most Holy Theotokos, our Lady of the Myrtles" //full title of day
-alt1.meShortCommemoration1.text = "The Synaxis in Honor of the Most Holy Theotokos, our Lady of the Myrtles"
+alt1.meDA.date = "September 24"
+alt1.meDA.commemoration.full = "The Synaxis in Honor of the Most Holy Theotokos, our Lady of the Myrtles" //full title of day
+alt1.meDA.commemoration.first_short = "The Synaxis in Honor of the Most Holy Theotokos, our Lady of the Myrtles"
 
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "" //for use in petitions and dismissal
-alt1.meInsert2 = "the finding of whose holy icon \"Our Lady of the Myrtles\" we commemorate," //for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "" //for use in petitions and dismissal
+alt1.meDA.insert2 = "the finding of whose holy icon \"Our Lady of the Myrtles\" we commemorate," //for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""

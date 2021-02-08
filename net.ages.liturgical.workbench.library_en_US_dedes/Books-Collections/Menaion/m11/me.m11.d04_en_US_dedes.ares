@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m11.d04_en_US_dedes
 
-meDate.text = "November 4"
-meCommemoration.text = "Memory of our Devout Father Joannicius the Great; and the Holy Hieromartyrs Nicander, Bishop of Myra, and Hermias the Priest." // full title of day
-meShortCommemoration1.text = "Memory of our Devout Father Joannicius the Great"
-meCom1.title = "For St. Joannicius."
-meCom2.title = "For St. Nicander."
-meInsert1 = "and our Devout Father Joannicius the Great," // for use in petitions and dismissal
-meInsert2 = "whose memory we are observing," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "November 4"
+meDA.commemoration.full = "Memory of our Devout Father Joannicius the Great; and the Holy Hieromartyrs Nicander, Bishop of Myra, and Hermias the Priest." // full title of day
+meDA.commemoration.first = "Memory of our Devout Father Joannicius the Great"
+meDA.commemoration.first_short = "Memory of our Devout Father Joannicius the Great"
+meDA.commemoration.first_title = "For St. Joannicius."
+meDA.commemoration.second_title = "For St. Nicander."
+meDA.insert1 = "and our Devout Father Joannicius the Great," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we are observing," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Our Venerble Father Joannicius the Great. Hieromartyrs Nicander, Bishop of Myra, and Hermias the Presbyter."
 meLE.commemoration2 = ""
 meHO.number = ""

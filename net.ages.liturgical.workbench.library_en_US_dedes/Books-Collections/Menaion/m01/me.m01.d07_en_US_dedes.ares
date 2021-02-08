@@ -1,21 +1,22 @@
 A_Resource_Whose_Name = me.m01.d07_en_US_dedes
 
-meDate.text = "January 7" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Synaxis in Honor of the Glorious Prophet, Forerunner and Baptist John" // full title of day
-meShortCommemoration1.text = "Synaxis in honor of the holy Forerunner"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "in whose honor we have congregated today;" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "January 7" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Synaxis in Honor of the Glorious Prophet, Forerunner and Baptist John" // full title of day
+meDA.commemoration.first = "Synaxis in honor of the holy Forerunner"
+meDA.commemoration.first_short = "Synaxis in honor of the holy Forerunner"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "in whose honor we have congregated today;" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Synaxis of the Honorable and Glorious Prophet and Forerunner John the Baptist."
 meLE.commemoration2 = ""
 meHO.number = "7."
-meHO.rank = "4"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_dedes.HolidayFish
 meHO.note2 = ""
-meDismissal = dismissals_en_US_dedes.dis00.epiphany
+meDA.dismissal = dismissals_en_US_dedes.dis00.epiphany
 
 meVE.Stichera01.poet = poets_en_US_dedes.IoannouMonachou
 meVE.Stichera01.mode = misc_en_US_dedes.Mode2

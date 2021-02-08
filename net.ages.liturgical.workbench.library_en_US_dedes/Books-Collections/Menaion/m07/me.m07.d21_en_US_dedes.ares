@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m07.d21_en_US_dedes
 
-meDate.text = "July 21"
-meCommemoration.text = "Memory of our Devout Fathers John and Symeon the Fool for Christ" // full title of day
-meShortCommemoration1.text = "Memory of Sts. John and Symeon the Fool for Christ"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "July 21"
+meDA.commemoration.full = "Memory of our Devout Fathers John and Symeon the Fool for Christ" // full title of day
+meDA.commemoration.first = "Memory of Sts. John and Symeon the Fool for Christ"
+meDA.commemoration.first_short = "Memory of Sts. John and Symeon the Fool for Christ"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Our Venerable Fathers Symeon, the Fool for Christ, and John the Fellow Ascetic"
 meLE.commemoration2 = ""
 meHO.number = ""

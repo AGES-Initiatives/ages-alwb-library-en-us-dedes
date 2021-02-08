@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m09.d08_en_US_dedes
 
-meDate.text = "September 8"
-meCommemoration.text = "The Nativity of our Most Holy Lady Theotokos" // full title of day
-meShortCommemoration1.text = "The Nativity of our Most Holy Lady Theotokos"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "whose nativity we celebrate; " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "September 8"
+meDA.commemoration.full = "The Nativity of our Most Holy Lady Theotokos" // full title of day
+meDA.commemoration.first = "The Nativity of our Most Holy Lady Theotokos"
+meDA.commemoration.first_short = "The Nativity of our Most Holy Lady Theotokos"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "whose nativity we celebrate; " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Nativity of our All-Holy Lady, the Theotokos and Ever-Virgin Mary."
 meLE.commemoration2 = ""
 meHO.number = ""

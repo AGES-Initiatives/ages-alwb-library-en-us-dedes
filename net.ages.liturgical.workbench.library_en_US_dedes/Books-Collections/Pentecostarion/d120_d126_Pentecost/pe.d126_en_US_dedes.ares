@@ -1,16 +1,16 @@
 A_Resource_Whose_Name = pe.d126_en_US_dedes
 
-peCommemoration.text = "Saturday after Pentecost - Leave-taking of Pentecost" //full title of day
-peShortCommemoration1.text = "Leave-taking of Pentecost"
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
-peNote.text = ""
+peDA.commemoration.full = "Saturday after Pentecost - Leave-taking of Pentecost" //full title of day
+peDA.commemoration.short = "Leave-taking of Pentecost"
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
 peHO.description2 = ""
 peHO.note1 = ""
 peHO.note2 = ""
-peDismissal = dismissals_en_US_dedes.dis00.pentecost
+peDA.dismissal = dismissals_en_US_dedes.dis00.pentecost
 
 peMA.MM.Lauds123as123.text = "" //for media

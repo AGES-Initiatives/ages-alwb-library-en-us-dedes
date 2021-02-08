@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.d20_en_US_dedes
 
-meDate.text = "October 20"
-meCommemoration.text = "Memory of the Holy Great Martyr Artemius, Devout Matrona of Chios, and our Devout and God-bearing Father Gerasimos of Kefallinia." //full title of day
-meShortCommemoration1.text = "Memory of the Holy Great Martyr Artemius"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "and the holy Great Martyr Artemius," //for use in petitions and dismissal
-meInsert2 = "whose memory we are observing," //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "October 20"
+meDA.commemoration.full = "Memory of the Holy Great Martyr Artemius, Devout Matrona of Chios, and our Devout and God-bearing Father Gerasimos of Kefallinia." //full title of day
+meDA.commemoration.first = "Memory of the Holy Great Martyr Artemius"
+meDA.commemoration.first_short = "Memory of the Holy Great Martyr Artemius"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "and the holy Great Martyr Artemius," //for use in petitions and dismissal
+meDA.insert2 = "whose memory we are observing," //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy Great Martyr Artemius. The Venerable Matrona of Chios."
 meLE.commemoration2 = "Our Venerable God-bearing Father Gerasimos of Kephallenia."
 meHO.number = ""
@@ -346,14 +347,14 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = "October 20" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-alt1.meCommemoration.text = "Memory of our Devout and God-bearing Father Gerasimos, the new Ascetic, the Wonder-worker, who lived as an ascetic in Kephallenia" //full title of day
-alt1.meShortCommemoration1.text = "Memory of our devout father Gerasimos of Kephallenia"
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "our devout and God-bearing father Gerasimos the New Ascetic," //for use in petitions and dismissal
-alt1.meInsert2 = "whose memory we celebrate," //for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.date = "October 20" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.commemoration.full = "Memory of our Devout and God-bearing Father Gerasimos, the new Ascetic, the Wonder-worker, who lived as an ascetic in Kephallenia" //full title of day
+alt1.meDA.commemoration.first_short = "Memory of our devout father Gerasimos of Kephallenia"
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "our devout and God-bearing father Gerasimos the New Ascetic," //for use in petitions and dismissal
+alt1.meDA.insert2 = "whose memory we celebrate," //for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
@@ -361,8 +362,8 @@ alt1.meHO.rank = ""
 alt1.meHO.commemorations = ""
 alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
-alt1.meDismissal = ""
-alt1.mePoet = ""
+alt1.meDA.dismissal = ""
+alt1.meDA.poet = ""
 
 alt1.meSV.Stichera1.mode = misc_en_US_dedes.Mode2
 alt1.meSV.Stichera1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit

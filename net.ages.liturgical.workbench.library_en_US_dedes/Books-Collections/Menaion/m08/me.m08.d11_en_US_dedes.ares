@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d11_en_US_dedes
 
-meDate.text = "August 11"
-meCommemoration.text = "Memory of the Holy Martyr Euplus" // full title of day
-meShortCommemoration1.text = "Memory of the Holy Martyr Euplus"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "August 11"
+meDA.commemoration.full = "Memory of the Holy Martyr Euplus" // full title of day
+meDA.commemoration.first = "Memory of the Holy Martyr Euplus"
+meDA.commemoration.first_short = "Memory of the Holy Martyr Euplus"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy Martyr Euplos the Deacon."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -15,7 +16,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
-meDismissal = dismissals_en_US_dedes.dis00.transfiguration
+meDA.dismissal = dismissals_en_US_dedes.dis00.transfiguration
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode6
 meVE.Stichera01.melody = he.a.m6_en_US_dedes.TriimerosAnestis.incipit
@@ -382,8 +383,8 @@ meLI.Kontakion1.text = ""
 
 meMegalynarion.text = ""
 
-alt1.meShortCommemoration1.text = "Memory of the Miracle of St. Spyridon on Kerkyra"
+alt1.meDA.commemoration.first_short = "Memory of the Miracle of St. Spyridon on Kerkyra"
 alt1.meMegalynarion.text = "From the storms arising on sea and land * deliver us all when we invoke your majestic name, * O great father Spyridon, by your all-holy prayers * to God who truly made you an ocean of miracles."
 
-alt2.meShortCommemoration1.text = "Memory of St. Niphon Patriarch of Constantinople"
+alt2.meDA.commemoration.first_short = "Memory of St. Niphon Patriarch of Constantinople"
 alt2.meMegalynarion.text = "Shepherd of Byzantium, O rejoice! * Shining star of Athos and of Dacia, again, Rejoice; * splendor of the Forerunner's holy monastery, * our holy father Niphon, glory or Patriarchs!"

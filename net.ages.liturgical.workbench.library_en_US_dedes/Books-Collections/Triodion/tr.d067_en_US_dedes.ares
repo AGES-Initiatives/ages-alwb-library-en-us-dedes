@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = tr.d067_en_US_dedes
 
-trCommemoration.text = "" //full title of day
-trShortCommemoration1.text = "Holy Wednesday"
-trInsert1 = "" //for use in petitions and dismissal
-trInsert2 = "" //for use in petitions and dismissal
-trNote.text = ""
+trDA.commemoration.full = "" //full title of day
+trDA.commemoration.short = "Holy Wednesday"
+trDA.insert1 = "" //for use in petitions and dismissal
+trDA.insert2 = "" //for use in petitions and dismissal
+trDA.note = ""
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
@@ -13,7 +13,7 @@ trHO.note1 = ""
 trHO.note2 = ""
 trVL.header = "Presanctified Liturgy on Holy Tuesday" //for pdf headers of presanctified and vesperal liturgies
 trEM.header = "Bridegroom Service on Tuesday Evening" //for pdf evening Matins
-trDismissal = dismissals_en_US_dedes.dis00.bridegroom
+trDA.dismissal = dismissals_en_US_dedes.dis00.bridegroom
 
 trVE.Stichera01.mode = misc_en_US_dedes.Mode1
 trVE.Stichera01.melody = misc_en_US_dedes.Idiomelon
@@ -305,25 +305,18 @@ trMA.Kontakion1.text = "More than the harlot have I transgressed, and yet no tor
 
 trMA.Oikos1.text = "The woman, once prodigal, suddenly appeared restrained, hating the works of shameful sins and physical pleasures, and reflecting on the great shame and punishment to which harlots and prodigals will be condemned. I myself am first among them, and I am afraid, yet I persist in my bad habit, mindless that I am. The harlot, on the other hand, was afraid and hastened quickly, and came crying to You the Redeemer: O Compassionate Lord who love mankind, from the mire of my sinful burdens deliver me."
 
-trMA.Synaxarion.commemoration.text = "On great and holy Wednesday, as the most divine fathers ordained, we commemorate the harlot who anointed the Lord's feet with fragrant ointment, since this occurred shortly before the saving Passion."
-trMA.Synaxarion.couplet1.title = titles_en_US_dedes.Stichoi
-trMA.Synaxarion.couplet1.verse1 = "With ointment the woman anointed the body"
-trMA.Synaxarion.couplet1.verse2 = "Of Christ, in advance of the aloes of Nikodemos."
-trMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-trMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-trMA.Synaxarion.lastline.text = "O Christ God, who were anointed with the spiritual ointment, free us from the influent passions and have mercy on us, for only You are holy and love mankind."
+trSY.commemoration.text = "On great and holy Wednesday, as the most divine fathers ordained, we commemorate the harlot who anointed the Lord's feet with fragrant ointment, since this occurred shortly before the saving Passion."
+trSY.commemoration.couplet1.title = titles_en_US_dedes.Stichoi
+trSY.commemoration.couplet1.verse1 = "With ointment the woman anointed the body"
+trSY.commemoration.couplet1.verse2 = "Of Christ, in advance of the aloes of Nikodemos."
+trSY.commemoration.narration.p01 = "[paragraph 01]"
+trSY.commemoration.narration.p02 = "[paragraph 02]"
+trSY.commemoration.narration.p03 = "[paragraph 03]"
+trSY.commemoration.narration.p04 = "[paragraph 04]"
+trSY.commemoration.narration.p05 = "[paragraph 05]"
+trSY.commemoration.narration.p06 = "[paragraph 06]"
+trSY.commemoration.narration.p07 = "[paragraph 07]"
+trSY.lastline = "O Christ God, who were anointed with the spiritual ointment, free us from the influent passions and have mercy on us, for only You are holy and love mankind."
 
 trMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
 trMA.Ode8C1H.mode = misc_en_US_dedes.Mode2

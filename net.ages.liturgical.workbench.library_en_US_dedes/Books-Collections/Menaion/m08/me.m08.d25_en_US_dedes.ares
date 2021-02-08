@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d25_en_US_dedes
 
-meDate.text = "August 25"
-meCommemoration.text = "Commemoration of the Return of the Relics of the Holy Apostle Bartholomew; and Memory of the Holy Apostle Titus." // full title of day
-meShortCommemoration1.text = "Memory of the holy Apostles Bartholomew and Titus"
-meCom1.title = "For St. Bartholomew."
-meCom2.title = "For St. Titus."
-meInsert1 = "and the holy Apostles Bartholomew and Titus," // for use in petitions and dismissal
-meInsert2 = "whose memory we observe," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "August 25"
+meDA.commemoration.full = "Commemoration of the Return of the Relics of the Holy Apostle Bartholomew; and Memory of the Holy Apostle Titus." // full title of day
+meDA.commemoration.first = "Memory of the holy Apostles Bartholomew and Titus"
+meDA.commemoration.first_short = "Memory of the holy Apostles Bartholomew and Titus"
+meDA.commemoration.first_title = "For St. Bartholomew."
+meDA.commemoration.second_title = "For St. Titus."
+meDA.insert1 = "and the holy Apostles Bartholomew and Titus," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Commemoration of the Return of the Relics of the Holy Apostles Bartholomew and Titus."
 meLE.commemoration2 = ""
 meHO.number = ""

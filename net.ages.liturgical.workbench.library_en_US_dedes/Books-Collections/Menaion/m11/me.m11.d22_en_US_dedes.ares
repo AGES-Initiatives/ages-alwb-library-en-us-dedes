@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m11.d22_en_US_dedes
 
-meDate.text = "November 22"
-meCommemoration.text = "Memory of the Holy Apostle Philemon, and those with him, Apphia, Archippus and Onesimus; and the Holy Martyr Cicely and those with her." // full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "November 22"
+meDA.commemoration.full = "Memory of the Holy Apostle Philemon, and those with him, Apphia, Archippus and Onesimus; and the Holy Martyr Cicely and those with her." // full title of day
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy Apostle Philemon and his Companions."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -627,14 +628,14 @@ meMegalynarion.text = ""
 
 //__________________
 
-alt1.meDate.text = "November 22"
-alt1.meCommemoration.text = "Memory of our Devout and God-bearing Father Iakovos, Abbot of the Holy Monastery of \"Hosios Davíd\" on Evia, Greece" // full title of day
-alt1.meShortCommemoration1.text = "Memory of St. Iakovos, Abbot of the Monastery of \"Hosios Davíd\""
-alt1.meCom1.title = "For St. Iakovos."
-alt1.meCom2.title = ""
-alt1.meInsert1 = "of our Devout and God-bearing Father Iakovos of Evia," // for use in petitions and dismissal
-alt1.meInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.date = "November 22"
+alt1.meDA.commemoration.full = "Memory of our Devout and God-bearing Father Iakovos, Abbot of the Holy Monastery of \"Hosios Davíd\" on Evia, Greece" // full title of day
+alt1.meDA.commemoration.first_short = "Memory of St. Iakovos, Abbot of the Monastery of \"Hosios Davíd\""
+alt1.meDA.commemoration.first_title = "For St. Iakovos."
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "of our Devout and God-bearing Father Iakovos of Evia," // for use in petitions and dismissal
+alt1.meDA.insert2 = "whose memory we celebrate," // for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
@@ -642,8 +643,8 @@ alt1.meHO.rank = ""
 alt1.meHO.commemorations = ""
 alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
-alt1.meDismissal = ""
-alt1.mePoet = "Translated by Fr. Seraphim Dedes"
+alt1.meDA.dismissal = ""
+alt1.meDA.poet = "Translated by Fr. Seraphim Dedes"
 
 alt1.meSV.Stichera1.mode = misc_en_US_dedes.Mode1
 alt1.meSV.Stichera1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit

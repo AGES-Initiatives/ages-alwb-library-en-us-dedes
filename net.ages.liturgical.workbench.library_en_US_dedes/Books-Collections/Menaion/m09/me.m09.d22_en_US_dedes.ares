@@ -1,14 +1,15 @@
 A_Resource_Whose_Name = me.m09.d22_en_US_dedes
 
-meDate.text = "September 22"
-meCommemoration.text = "Memory of the Holy Hieromartyr Phocas; and the Holy Apostle Quadratus." // full title of day
-meShortCommemoration1.text = "Memory of the Holy Hieromartyr Phocas"
-meShortCommemoration2.text = "Memory of the Holy Apostle Quadratus"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "the holy and glorious hieromartyr Phocas," // for use in petitions and dismissal
-meInsert2 = "whose memory we observe;" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "September 22"
+meDA.commemoration.full = "Memory of the Holy Hieromartyr Phocas; and the Holy Apostle Quadratus." // full title of day
+meDA.commemoration.first = "Memory of the Holy Hieromartyr Phocas"
+meDA.commemoration.first_short = "Memory of the Holy Hieromartyr Phocas"
+meDA.commemoration.second_short = "Memory of the Holy Apostle Quadratus"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "the holy and glorious hieromartyr Phocas," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe;" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy Hieromartyr Phokas."
 meLE.commemoration2 = ""
 meHO.number = ""

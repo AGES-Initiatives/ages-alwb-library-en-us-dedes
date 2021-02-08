@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = pe.d078_en_US_dedes
 
-peCommemoration.text = "Sunday After Pascha - Thomas' Touching of the Lord" //full title of day
-peShortCommemoration1.text = "Sunday After Pascha (Thomas Sunday)"
-peInsert1 = "the holy Apostle Thomas," //for use in petitions and dismissal
-peInsert2 = "whose touching of the Lord we celebrate," //for use in petitions and dismissal
-peNote.text = ""
+peDA.commemoration.full = "Sunday After Pascha - Thomas' Touching of the Lord" //full title of day
+peDA.commemoration.short = "Sunday After Pascha (Thomas Sunday)"
+peDA.insert1 = "the holy Apostle Thomas," //for use in petitions and dismissal
+peDA.insert2 = "whose touching of the Lord we celebrate," //for use in petitions and dismissal
+peDA.note = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
 peHO.description2 = ""
 peHO.note1 = ""
 peHO.note2 = ""
-peDismissal = dismissals_en_US_dedes.dis00.resurrection
+peDA.dismissal = dismissals_en_US_dedes.dis00.resurrection
 
 peSV.Stichera1.mode = misc_en_US_dedes.Mode1
 peSV.Stichera1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.incipit
@@ -305,25 +305,18 @@ peMA.Kontakion1.text = "With his scrutinizing right hand, Thomas examined Your l
 
 peMA.Oikos1.text = "Who kept the Disciple's hand from being burnt up, when it approached the fiery side of the Lord? Who gave it the daring, and it was able to touch the flaming bone? By all means, it was the very side that was touched. For had not the side empowered the right hand of clay, how could it have touched the wounds that shook the world above and below? This grace was given to Thomas, to be able to touch it and to cry out to Christ, \"You are my Lord and my God.\""
 
-peMA.Synaxarion.commemoration.text = "On this day, the second Sunday of Pascha, we celebrate the dedication of Christ's Resurrection, and St. Thomas' handling of the Lord's body."
-peMA.Synaxarion.couplet1.title = titles_en_US_dedes.Stichoi
-peMA.Synaxarion.couplet1.verse1 = "Locks of neither womb nor tomb impede You."
-peMA.Synaxarion.couplet1.verse2 = "So how should door locks impede Your entry, O Savior?"
-peMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-peMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-peMA.Synaxarion.lastline.text = "By the intercessions of Thomas Your Apostle, O Christ our God, have mercy on us. Amen."
+peSY.commemoration.text = "On this day, the second Sunday of Pascha, we celebrate the dedication of Christ's Resurrection, and St. Thomas' handling of the Lord's body."
+peSY.commemoration.couplet1.title = titles_en_US_dedes.Stichoi
+peSY.commemoration.couplet1.verse1 = "Locks of neither womb nor tomb impede You."
+peSY.commemoration.couplet1.verse2 = "So how should door locks impede Your entry, O Savior?"
+peSY.commemoration.narration.p01 = "[paragraph 01]"
+peSY.commemoration.narration.p02 = "[paragraph 02]"
+peSY.commemoration.narration.p03 = "[paragraph 03]"
+peSY.commemoration.narration.p04 = "[paragraph 04]"
+peSY.commemoration.narration.p05 = "[paragraph 05]"
+peSY.commemoration.narration.p06 = "[paragraph 06]"
+peSY.commemoration.narration.p07 = "[paragraph 07]"
+peSY.lastline = "By the intercessions of Thomas Your Apostle, O Christ our God, have mercy on us. Amen."
 
 peMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C1H.mode = misc_en_US_dedes.Mode1

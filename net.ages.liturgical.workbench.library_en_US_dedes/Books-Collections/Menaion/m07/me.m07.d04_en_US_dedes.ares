@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m07.d04_en_US_dedes
 
-meDate.text = "July 4"
-meCommemoration.text = "Memory of our Father among the Saints Andrew of Crete, the Jerusalemite" // full title of day
-meShortCommemoration1.text = "Memory of St. Andrew of Crete"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "July 4"
+meDA.commemoration.full = "Memory of our Father among the Saints Andrew of Crete, the Jerusalemite" // full title of day
+meDA.commemoration.first = "Memory of St. Andrew of Crete"
+meDA.commemoration.first_short = "Memory of St. Andrew of Crete"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Our Father among the Saints Andrew of Crete."
 meLE.commemoration2 = ""
 meHO.number = ""

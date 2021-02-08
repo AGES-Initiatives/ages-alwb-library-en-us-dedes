@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m02.d27_en_US_dedes
 
-meDate.text = "February 27" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Devout Father Procopius of Dekapolis" //full title of day
-meShortCommemoration1.text = "Memory of our St. Procopius of Dekapolis"
-meCom1.title = "For St. Procopius."
-meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "February 27" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Memory of our Devout Father Procopius of Dekapolis" //full title of day
+meDA.commemoration.first = "Memory of our St. Procopius of Dekapolis"
+meDA.commemoration.first_short = "Memory of our St. Procopius of Dekapolis"
+meDA.commemoration.first_title = "For St. Procopius."
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" //for use in petitions and dismissal
+meDA.insert2 = "" //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

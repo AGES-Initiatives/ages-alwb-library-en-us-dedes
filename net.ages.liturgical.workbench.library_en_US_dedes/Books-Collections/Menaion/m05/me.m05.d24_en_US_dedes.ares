@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m05.d24_en_US_dedes
 
-meDate.text = "May 24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Devout Father Symeon of Wonder Mountain" // full title of day
-meShortCommemoration1.text = "Memory of St. Symeon of Wonder Mountain"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "our devout Father Symeon of Wonder Mountain," // for use in petitions and dismissal
-meInsert2 = "whose memory we observe," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "May 24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Memory of our Devout Father Symeon of Wonder Mountain" // full title of day
+meDA.commemoration.first = "Memory of St. Symeon of Wonder Mountain"
+meDA.commemoration.first_short = "Memory of St. Symeon of Wonder Mountain"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "our devout Father Symeon of Wonder Mountain," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Our Venerable Father Symeon of Mount Thaumastos."
 meLE.commemoration2 = ""
 meHO.number = ""

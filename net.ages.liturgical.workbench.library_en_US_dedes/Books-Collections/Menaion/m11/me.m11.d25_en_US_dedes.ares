@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m11.d25_en_US_dedes
 
-meDate.text = "November 25"
-meCommemoration.text = "Memory of the Holy Great Martyr of Christ and All-Wise Catherine; and the Holy Great Martyr Mercury." // full title of day
-meShortCommemoration1.text = "Leave-taking of the Feast of the Entry, and Memory of the Holy Great Martyr Catherine"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "the holy Great Martyr and all-wise Catherine," // for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "November 25"
+meDA.commemoration.full = "Memory of the Holy Great Martyr of Christ and All-Wise Catherine; and the Holy Great Martyr Mercury." // full title of day
+meDA.commemoration.first = "Leave-taking of the Feast of the Entry, and Memory of the Holy Great Martyr Catherine"
+meDA.commemoration.first_short = "Leave-taking of the Feast of the Entry, and Memory of the Holy Great Martyr Catherine"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "the holy Great Martyr and all-wise Catherine," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy Great Martyr Catherine. The Holy Martyr Merkourios."
 meLE.commemoration2 = ""
 meHO.number = ""

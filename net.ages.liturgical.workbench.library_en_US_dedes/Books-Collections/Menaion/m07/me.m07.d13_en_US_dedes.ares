@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m07.d13_en_US_dedes
 
-meDate.text = "July 13"
-meCommemoration.text = "The Synaxis in Honor of Archangel Gabriel; and Memory of our Devout Father Stephen of St. Savas Monastery." // full title of day
-meShortCommemoration1.text = "The Synaxis in Honor of Archangel Gabriel"
-meCom1.title = "For the Archangel."
-meCom2.title = "For St. Stephen."
-meInsert1 = "the holy and glorious Archangel Gabriel," // for use in petitions and dismissal
-meInsert2 = "whose Synaxis we celebrate," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "July 13"
+meDA.commemoration.full = "The Synaxis in Honor of Archangel Gabriel; and Memory of our Devout Father Stephen of St. Savas Monastery." // full title of day
+meDA.commemoration.first = "The Synaxis in Honor of Archangel Gabriel"
+meDA.commemoration.first_short = "The Synaxis in Honor of Archangel Gabriel"
+meDA.commemoration.first_title = "For the Archangel."
+meDA.commemoration.second_title = "For St. Stephen."
+meDA.insert1 = "the holy and glorious Archangel Gabriel," // for use in petitions and dismissal
+meDA.insert2 = "whose Synaxis we celebrate," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Synaxis of the Archangel Gabriel."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -582,14 +583,14 @@ meMegalynarion.text = ""
 
 //---------------------------
 
-alt1.meDate.text = "July 13"
-alt1.meCommemoration.text = "" //full title of day
-alt1.meShortCommemoration1.text = "St. Golinduc"
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "" //for use in petitions and dismissal
-alt1.meInsert2 = "" //for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.date = "July 13"
+alt1.meDA.commemoration.full = "" //full title of day
+alt1.meDA.commemoration.first_short = "St. Golinduc"
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "" //for use in petitions and dismissal
+alt1.meDA.insert2 = "" //for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""

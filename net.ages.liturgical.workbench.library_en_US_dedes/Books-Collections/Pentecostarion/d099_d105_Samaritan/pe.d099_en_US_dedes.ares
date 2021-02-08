@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = pe.d099_en_US_dedes
 
-peCommemoration.text = "Sunday of the Samaritan Woman" //full title of day
-peShortCommemoration1.text = "Sunday of the Samaritan Woman"
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
-peNote.text = ""
+peDA.commemoration.full = "Sunday of the Samaritan Woman" //full title of day
+peDA.commemoration.short = "Sunday of the Samaritan Woman"
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
 peHO.description2 = ""
 peHO.note1 = ""
 peHO.note2 = ""
-peDismissal = dismissals_en_US_dedes.dis00.resurrection
+peDA.dismissal = dismissals_en_US_dedes.dis00.resurrection
 
 peVE.Stichera05.mode = misc_en_US_dedes.Mode4
 peVE.Stichera05.melody = he.a.m4_en_US_dedes.KyrieAnelthonEnToStavro.incipit
@@ -331,25 +331,18 @@ peMA.Kontakion1.text = "In faith came the woman of Samaria to the well and she b
 
 peMA.Oikos1.text = "Let us listen to John as he teaches us of divine mysteries that took place in Samaria: how the Lord conversed with a woman, after asking her for water, He who collected the waters in their gatherings, and who shares the throne with the Father and Spirit. For our famous Savior came seeking His image, for the kingdom on high for eternity."
 
-peMA.Synaxarion.commemoration.text = "On this day, the fifth Sunday of Pascha, we celebrate the feast of the Samaritan Woman."
-peMA.Synaxarion.couplet1.title = titles_en_US_dedes.Stichoi
-peMA.Synaxarion.couplet1.verse1 = "Coming to fetch her fleeting water, a woman"
-peMA.Synaxarion.couplet1.verse2 = "The living water draws, by which You wash her soul's sordes."
-peMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-peMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-peMA.Synaxarion.lastline.text = "By the intercessions of Your Martyr Photini, O Christ our God, have mercy on us. Amen."
+peSY.commemoration.text = "On this day, the fifth Sunday of Pascha, we celebrate the feast of the Samaritan Woman."
+peSY.commemoration.couplet1.title = titles_en_US_dedes.Stichoi
+peSY.commemoration.couplet1.verse1 = "Coming to fetch her fleeting water, a woman"
+peSY.commemoration.couplet1.verse2 = "The living water draws, by which You wash her soul's sordes."
+peSY.commemoration.narration.p01 = "[paragraph 01]"
+peSY.commemoration.narration.p02 = "[paragraph 02]"
+peSY.commemoration.narration.p03 = "[paragraph 03]"
+peSY.commemoration.narration.p04 = "[paragraph 04]"
+peSY.commemoration.narration.p05 = "[paragraph 05]"
+peSY.commemoration.narration.p06 = "[paragraph 06]"
+peSY.commemoration.narration.p07 = "[paragraph 07]"
+peSY.lastline = "By the intercessions of Your Martyr Photini, O Christ our God, have mercy on us. Amen."
 
 peMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C1H.mode = misc_en_US_dedes.Mode4

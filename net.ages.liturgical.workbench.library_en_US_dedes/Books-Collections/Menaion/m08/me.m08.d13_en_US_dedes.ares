@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d13_en_US_dedes
 
-meDate.text = "August 13"
-meCommemoration.text = "Memory of our Devout Father Maximus the Confessor" // full title of day
-meShortCommemoration1.text = "Leave-taking of the Feast of the Transfiguration"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "August 13"
+meDA.commemoration.full = "Memory of our Devout Father Maximus the Confessor" // full title of day
+meDA.commemoration.first = "Leave-taking of the Feast of the Transfiguration"
+meDA.commemoration.first_short = "Leave-taking of the Feast of the Transfiguration"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Our Venerable Father Maximos the Confessor."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -15,7 +16,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
-meDismissal = dismissals_en_US_dedes.dis00.transfiguration
+meDA.dismissal = dismissals_en_US_dedes.dis00.transfiguration
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""

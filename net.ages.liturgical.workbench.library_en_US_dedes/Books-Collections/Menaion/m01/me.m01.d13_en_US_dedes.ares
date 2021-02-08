@@ -1,15 +1,16 @@
 A_Resource_Whose_Name = me.m01.d13_en_US_dedes
 
-meDate.text = "January 13" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of the Holy Martyrs Hermylos and Stratonikos; and Memory of the Holy Ascetic Fathers who were Killed in Sinai and Raitho." // full title of day
-meCommemoration2.text = "Memory of the Holy Ascetic Fathers who were Killed in Sinai and Raitho" // full title of day
-meShortCommemoration1.text = "Memory of the Holy Martyrs Hermylos and Stratonikos"
-meShortCommemoration2.text = "Memory of the Holy Ascetic Fathers who were Killed in Sinai and Raitho"
-meCom1.title = "For the Holy Martyrs."
-meCom2.title = "For the Holy Ascetics."
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "January 13" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Memory of the Holy Martyrs Hermylos and Stratonikos; and Memory of the Holy Ascetic Fathers who were Killed in Sinai and Raitho." // full title of day
+meDA.commemoration.second = "Memory of the Holy Ascetic Fathers who were Killed in Sinai and Raitho" // full title of day
+meDA.commemoration.first = "Memory of the Holy Martyrs Hermylos and Stratonikos"
+meDA.commemoration.first_short = "Memory of the Holy Martyrs Hermylos and Stratonikos"
+meDA.commemoration.second_short = "Memory of the Holy Ascetic Fathers who were Killed in Sinai and Raitho"
+meDA.commemoration.first_title = "For the Holy Martyrs."
+meDA.commemoration.second_title = "For the Holy Ascetics."
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = "13."
@@ -17,7 +18,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
-meDismissal = dismissals_en_US_dedes.dis00.epiphany
+meDA.dismissal = dismissals_en_US_dedes.dis00.epiphany
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit

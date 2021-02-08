@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.d29_en_US_dedes
 
-meDate.text = "October 29"
-meCommemoration.text = "Memory of the holy Monastic Martyr Anastasia the Roman; and our Devout Father Abramius." //full title of day
-meShortCommemoration1.text = "Memory of the holy Monastic Martyr Anastasia the Roman."
-meCom1.title = "For St. Anastasia."
-meCom2.title = "For St. Abramius."
-meInsert1 = "the holy monastic Martyr Anastasia the Roman," //for use in petitions and dismissal
-meInsert2 = "whose memory we observe," //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "October 29"
+meDA.commemoration.full = "Memory of the holy Monastic Martyr Anastasia the Roman; and our Devout Father Abramius." //full title of day
+meDA.commemoration.first = "Memory of the holy Monastic Martyr Anastasia the Roman."
+meDA.commemoration.first_short = "Memory of the holy Monastic Martyr Anastasia the Roman."
+meDA.commemoration.first_title = "For St. Anastasia."
+meDA.commemoration.second_title = "For St. Abramius."
+meDA.insert1 = "the holy monastic Martyr Anastasia the Roman," //for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe," //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

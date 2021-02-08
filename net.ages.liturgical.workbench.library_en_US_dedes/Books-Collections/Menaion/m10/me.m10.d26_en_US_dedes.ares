@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.d26_en_US_dedes
 
-meDate.text = "October 26"
-meCommemoration.text = "Memory of the Holy Great Martyr Demetrios, the Myrrh-streamer; and Commemoration of the Earthquake." // full title of day
-meShortCommemoration1.text = "Memory of the Holy Great Martyr Demetrios, the Myrrh-streamer"
-meCom1.title = "For the Saint."
-meCom2.title = "For the Earthquake."
-meInsert1 = "the holy and glorious Great Martyr Demetrios, the Myrrh-streamer," // for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "October 26"
+meDA.commemoration.full = "Memory of the Holy Great Martyr Demetrios, the Myrrh-streamer; and Commemoration of the Earthquake." // full title of day
+meDA.commemoration.first = "Memory of the Holy Great Martyr Demetrios, the Myrrh-streamer"
+meDA.commemoration.first_short = "Memory of the Holy Great Martyr Demetrios, the Myrrh-streamer"
+meDA.commemoration.first_title = "For the Saint."
+meDA.commemoration.second_title = "For the Earthquake."
+meDA.insert1 = "the holy and glorious Great Martyr Demetrios, the Myrrh-streamer," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy and Great Martyr Demetrios, the Myrrh-streamer."
 meLE.commemoration2 = ""
 meHO.number = ""

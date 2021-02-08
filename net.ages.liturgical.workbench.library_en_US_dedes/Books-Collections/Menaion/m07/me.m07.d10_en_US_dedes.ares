@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m07.d10_en_US_dedes
 
-meDate.text = "July 10"
-meCommemoration.text = "Memory of the Forty Five Holy Martyrs in Nikopolis, Armenia." //full title of day
-meShortCommemoration1.text = "Memory of the 45 Holy Martyrs in Nikopolis"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "July 10"
+meDA.commemoration.full = "Memory of the Forty Five Holy Martyrs in Nikopolis, Armenia." //full title of day
+meDA.commemoration.first = "Memory of the 45 Holy Martyrs in Nikopolis"
+meDA.commemoration.first_short = "Memory of the 45 Holy Martyrs in Nikopolis"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" //for use in petitions and dismissal
+meDA.insert2 = "" //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = tr.d063_en_US_dedes
 
-trCommemoration.text = "Saturday before Palm Sunday: Holy and Righteous Lazarus" //full title of day
-trShortCommemoration1.text = "Saturday of Lazarus"
-trInsert1 = "" //for use in petitions and dismissal
-trInsert2 = "" //for use in petitions and dismissal
-trNote.text = ""
+trDA.commemoration.full = "Saturday before Palm Sunday: Holy and Righteous Lazarus" //full title of day
+trDA.commemoration.short = "Saturday of Lazarus"
+trDA.insert1 = "" //for use in petitions and dismissal
+trDA.insert2 = "" //for use in petitions and dismissal
+trDA.note = ""
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
@@ -12,7 +12,7 @@ trHO.description2 = ""
 trHO.note1 = ""
 trHO.note2 = ""
 trVL.header = "Presanctified Liturgy on Friday Before Palm Sunday" //for pdf headers of presanctified and vesperal liturgies
-trDismissal = dismissals_en_US_dedes.dis00.resurrection
+trDA.dismissal = dismissals_en_US_dedes.dis00.resurrection
 
 trVE.AposIdiomelon1.mode = misc_en_US_dedes.Mode8
 trVE.AposIdiomelon1.melody = misc_en_US_dedes.Idiomelon
@@ -897,25 +897,18 @@ trMA.Kontakion1.text = "The joy of all men, the Truth who is Christ our God, the
 
 trMA.Oikos1.text = ""
 
-trMA.Synaxarion.commemoration.text = "On this day, the Saturday before Palm Sunday, we celebrate the raising of the holy and righteous friend of Christ, Lazarus, who had been four days in the grave."
-trMA.Synaxarion.couplet1.title = titles_en_US_dedes.Stichoi
-trMA.Synaxarion.couplet1.verse1 = "O Jesus, You grieve: a token of mortal essence."
-trMA.Synaxarion.couplet1.verse2 = "Your friend You revive: a token of divine potence."
-trMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-trMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-trMA.Synaxarion.lastline.text = "At the intercession of Your friend Lazarus, O Christ God, have mercy on us. Amen."
+trSY.commemoration.text = "On this day, the Saturday before Palm Sunday, we celebrate the raising of the holy and righteous friend of Christ, Lazarus, who had been four days in the grave."
+trSY.commemoration.couplet1.title = titles_en_US_dedes.Stichoi
+trSY.commemoration.couplet1.verse1 = "O Jesus, You grieve: a token of mortal essence."
+trSY.commemoration.couplet1.verse2 = "Your friend You revive: a token of divine potence."
+trSY.commemoration.narration.p01 = "[paragraph 01]"
+trSY.commemoration.narration.p02 = "[paragraph 02]"
+trSY.commemoration.narration.p03 = "[paragraph 03]"
+trSY.commemoration.narration.p04 = "[paragraph 04]"
+trSY.commemoration.narration.p05 = "[paragraph 05]"
+trSY.commemoration.narration.p06 = "[paragraph 06]"
+trSY.commemoration.narration.p07 = "[paragraph 07]"
+trSY.lastline = "At the intercession of Your friend Lazarus, O Christ God, have mercy on us. Amen."
 
 trMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 trMA.Ode7C1H.mode = misc_en_US_dedes.Mode8

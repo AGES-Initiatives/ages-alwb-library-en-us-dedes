@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = tr.d070_en_US_dedes
 
-trCommemoration.text = "" //full title of day
-trShortCommemoration1.text = "Holy Saturday"
-trInsert1 = "" //for use in petitions and dismissal
-trInsert2 = "" //for use in petitions and dismissal
-trNote.text = ""
+trDA.commemoration.full = "" //full title of day
+trDA.commemoration.short = "Holy Saturday"
+trDA.insert1 = "" //for use in petitions and dismissal
+trDA.insert2 = "" //for use in petitions and dismissal
+trDA.note = ""
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
@@ -12,7 +12,7 @@ trHO.description2 = ""
 trHO.note1 = ""
 trHO.note2 = ""
 trEM.header = "The Graveside Lamentation on Friday Evening" //for pdf evening Matins
-trDismissal = dismissals_en_US_dedes.dis00.holyfriday
+trDA.dismissal = dismissals_en_US_dedes.dis00.holyfriday
 
 trHW.LIHC.text = properties_en_US_dedes.media.key
 
@@ -306,25 +306,18 @@ trMA.Oikos1.text = ""
 
 trMA.Oikos12.text = ""
 
-trMA.Synaxarion.commemoration.text = "On great and holy Saturday, we celebrate the burial of the divine Body and the descent into Hades of our Lord and Savior Jesus Christ, through which He recalled our human race from corruption and passed it over into life eternal."
-trMA.Synaxarion.couplet1.title = titles_en_US_dedes.Stichoi
-trMA.Synaxarion.couplet1.verse1 = "In vain you guard the grave, O guards."
-trMA.Synaxarion.couplet1.verse2 = "No tomb can hold Him who is life itself."
-trMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-trMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-trMA.Synaxarion.lastline.text = "By Your ineffable condescension, O Christ our God, have mercy on us. Amen."
+trSY.commemoration.text = "On great and holy Saturday, we celebrate the burial of the divine Body and the descent into Hades of our Lord and Savior Jesus Christ, through which He recalled our human race from corruption and passed it over into life eternal."
+trSY.commemoration.couplet1.title = titles_en_US_dedes.Stichoi
+trSY.commemoration.couplet1.verse1 = "In vain you guard the grave, O guards."
+trSY.commemoration.couplet1.verse2 = "No tomb can hold Him who is life itself."
+trSY.commemoration.narration.p01 = "[paragraph 01]"
+trSY.commemoration.narration.p02 = "[paragraph 02]"
+trSY.commemoration.narration.p03 = "[paragraph 03]"
+trSY.commemoration.narration.p04 = "[paragraph 04]"
+trSY.commemoration.narration.p05 = "[paragraph 05]"
+trSY.commemoration.narration.p06 = "[paragraph 06]"
+trSY.commemoration.narration.p07 = "[paragraph 07]"
+trSY.lastline = "By Your ineffable condescension, O Christ our God, have mercy on us. Amen."
 
 trMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 trMA.Ode7C1H.mode = misc_en_US_dedes.Mode6

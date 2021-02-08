@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = pe.d119_en_US_dedes
 
-peCommemoration.text = "" //full title of day
-peShortCommemoration1.text = "Soul Saturday"
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
-peNote.text = ""
+peDA.commemoration.full = "" //full title of day
+peDA.commemoration.short = "Soul Saturday"
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
@@ -302,22 +302,15 @@ peMA.Kontakion1.text = "Immortal Savior, let those who have departed from us and
 
 peMA.Oikos1.text = tr.d014_en_US_dedes.trMA.Oikos1.text
 
-peMA.Synaxarion.commemoration.text = "Our most godly Fathers ordered that on this day we remember all those who have ever reposed with correct faith and with the hope of the resurrection of life eternal."
-peMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-peMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-peMA.Synaxarion.lastline.text = "O Master Christ, assign the souls of those who have already reposed to the dwellings of the Righteous, and have mercy on us, as the only Immortal One. Amen."
+peSY.commemoration.text = "Our most godly Fathers ordered that on this day we remember all those who have ever reposed with correct faith and with the hope of the resurrection of life eternal."
+peSY.commemoration.narration.p01 = "[paragraph 01]"
+peSY.commemoration.narration.p02 = "[paragraph 02]"
+peSY.commemoration.narration.p03 = "[paragraph 03]"
+peSY.commemoration.narration.p04 = "[paragraph 04]"
+peSY.commemoration.narration.p05 = "[paragraph 05]"
+peSY.commemoration.narration.p06 = "[paragraph 06]"
+peSY.commemoration.narration.p07 = "[paragraph 07]"
+peSY.lastline = "O Master Christ, assign the souls of those who have already reposed to the dwellings of the Righteous, and have mercy on us, as the only Immortal One. Amen."
 
 peMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C1H.mode = misc_en_US_dedes.Mode6

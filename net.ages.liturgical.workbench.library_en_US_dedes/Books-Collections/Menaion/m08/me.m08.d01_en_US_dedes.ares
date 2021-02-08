@@ -1,17 +1,15 @@
 A_Resource_Whose_Name = me.m08.d01_en_US_dedes
 
-meHO.Month.text = ""
-meHO.DaysHours.text = ""
-
-meDate.text = "August 1"
-meCommemoration.text = "The Procession of the Holy Cross; and Memory of the Seven Holy Martyrs, the Maccabees, their Teacher Eleazar, and their Mother Solomone." // full title of day
-meShortCommemoration1.text = "The Procession of the Holy Cross."
+meDA.date = "August 1"
+meDA.commemoration.full = "The Procession of the Holy Cross; and Memory of the Seven Holy Martyrs, the Maccabees, their Teacher Eleazar, and their Mother Solomone." // full title of day
+meDA.commemoration.first = "The Procession of the Holy Cross."
+meDA.commemoration.first_short = "The Procession of the Holy Cross."
 meInsert0 = "the procession of which we observe;"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "the Seven Holy Martyrs, the Maccabees, their Teacher Eleazar, and their Mother Solomone," // for use in petitions and dismissal
-meInsert2 = "whose memory we observe," // for use in petitions and dismissal
-meNote.text = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "the Seven Holy Martyrs, the Maccabees, their Teacher Eleazar, and their Mother Solomone," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy Seven Children of the Maccabees, their Teacher Eleazor, and their Mother Solomone."
 meLE.commemoration2 = ""
 meHO.number = ""

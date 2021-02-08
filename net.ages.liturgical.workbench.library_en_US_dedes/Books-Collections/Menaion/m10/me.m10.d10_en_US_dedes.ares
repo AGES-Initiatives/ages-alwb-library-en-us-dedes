@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.d10_en_US_dedes
 
-meDate.text = "October 10"
-meCommemoration.text = "Memory of the Holy Martyrs Eulampius and Eulampia" // full title of day
-meShortCommemoration1.text = "Memory of the Holy Martyrs Eulampius and Eulampia"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "of the Holy Martyrs Eulampius and Eulampia," // for use in petitions and dismissal
-meInsert2 = "whose memory we observe," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "October 10"
+meDA.commemoration.full = "Memory of the Holy Martyrs Eulampius and Eulampia" // full title of day
+meDA.commemoration.first = "Memory of the Holy Martyrs Eulampius and Eulampia"
+meDA.commemoration.first_short = "Memory of the Holy Martyrs Eulampius and Eulampia"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "of the Holy Martyrs Eulampius and Eulampia," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy Martyrs Eulambios and Eulambia."
 meLE.commemoration2 = ""
 meHO.number = ""

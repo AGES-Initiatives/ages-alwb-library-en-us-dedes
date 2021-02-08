@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m09.d28_en_US_dedes
 
-meDate.text = "September 28"
-meCommemoration.text = "Memory of our Devout Father Chariton the Confessor" // full title of day
-meShortCommemoration1.text = "Memory of St. Chariton the Confessor"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "our devout and God-bearing father Chariton the Confessor, " // for use in petitions and dismissal
-meInsert2 = "whose memory we observe," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "September 28"
+meDA.commemoration.full = "Memory of our Devout Father Chariton the Confessor" // full title of day
+meDA.commemoration.first = "Memory of St. Chariton the Confessor"
+meDA.commemoration.first_short = "Memory of St. Chariton the Confessor"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "our devout and God-bearing father Chariton the Confessor, " // for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Our Venerable Father Chariton the Confessor."
 meLE.commemoration2 = ""
 meHO.number = ""

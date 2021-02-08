@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m11.d08_en_US_dedes
 
-meDate.text = "November 8"
-meCommemoration.text = "The Synaxis in Honor of the Chief Commanders Michael and Gabriel, and All the Bodiless Powers" // full title of day
-meShortCommemoration1.text = "The Synaxis in Honor of the Chief Commanders Michael and Gabriel"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "the holy and glorious Supreme Commanders Michael and Gabriel, and the other bodiless hosts," // for use in petitions and dismissal
-meInsert2 = "whose Synaxis we celebrate;" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "November 8"
+meDA.commemoration.full = "The Synaxis in Honor of the Chief Commanders Michael and Gabriel, and All the Bodiless Powers" // full title of day
+meDA.commemoration.first = "The Synaxis in Honor of the Chief Commanders Michael and Gabriel"
+meDA.commemoration.first_short = "The Synaxis in Honor of the Chief Commanders Michael and Gabriel"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "the holy and glorious Supreme Commanders Michael and Gabriel, and the other bodiless hosts," // for use in petitions and dismissal
+meDA.insert2 = "whose Synaxis we celebrate;" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Synaxis of Archangels Michael and Gabriel and of All the Heavenly Powers."
 meLE.commemoration2 = ""
 meHO.number = ""

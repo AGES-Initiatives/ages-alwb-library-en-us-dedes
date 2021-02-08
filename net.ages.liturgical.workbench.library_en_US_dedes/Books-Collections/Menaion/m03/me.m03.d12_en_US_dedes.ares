@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m03.d12_en_US_dedes
 
-meDate.text = "March 12" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Devout Father and Confessor Theophanis of Sigriani, and our Father among the Saints Gregory the Dialogist, Pope of Rome" // full title of day
-meShortCommemoration1.text = "Memory of our St. Theophanis of Sigriani"
-meCom1.title = "For St. Theophanis."
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "March 12" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Memory of our Devout Father and Confessor Theophanis of Sigriani, and our Father among the Saints Gregory the Dialogist, Pope of Rome" // full title of day
+meDA.commemoration.first = "Memory of our St. Theophanis of Sigriani"
+meDA.commemoration.first_short = "Memory of our St. Theophanis of Sigriani"
+meDA.commemoration.first_title = "For St. Theophanis."
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

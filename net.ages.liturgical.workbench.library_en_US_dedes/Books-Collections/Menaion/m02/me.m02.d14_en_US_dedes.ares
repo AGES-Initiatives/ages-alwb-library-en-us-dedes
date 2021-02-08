@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m02.d14_en_US_dedes
 
-meDate.text = "February 14" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Devout Father Afxentios" //full title of day
-meShortCommemoration1.text = "Memory of our Devout Father Afxentios"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "our devout Father Afxentios," //for use in petitions and dismissal
-meInsert2 = "whose memory we observe," //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "February 14" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Memory of our Devout Father Afxentios" //full title of day
+meDA.commemoration.first = "Memory of our Devout Father Afxentios"
+meDA.commemoration.first_short = "Memory of our Devout Father Afxentios"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "our devout Father Afxentios," //for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe," //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

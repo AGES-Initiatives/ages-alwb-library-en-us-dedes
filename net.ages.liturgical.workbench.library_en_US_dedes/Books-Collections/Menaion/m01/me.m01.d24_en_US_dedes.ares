@@ -1,17 +1,18 @@
 A_Resource_Whose_Name = me.m01.d24_en_US_dedes
 
-meDate.text = "January 24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Devout Mother Xenia" // full title of day
-meShortCommemoration1.text = "Memory of our Devout Mother Xenia"
-meCom1.title = "For St. Xenia."
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "January 24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Memory of our Devout Mother Xenia" // full title of day
+meDA.commemoration.first = "Memory of our Devout Mother Xenia"
+meDA.commemoration.first_short = "Memory of our Devout Mother Xenia"
+meDA.commemoration.first_title = "For St. Xenia."
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Our Venerable Mother Xenia."
 meLE.commemoration2 = ""
 meHO.number = "24."
-meHO.rank = "5"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""

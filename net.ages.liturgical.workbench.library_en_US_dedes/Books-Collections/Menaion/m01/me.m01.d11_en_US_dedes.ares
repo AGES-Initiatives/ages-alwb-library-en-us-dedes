@@ -1,21 +1,22 @@
 A_Resource_Whose_Name = me.m01.d11_en_US_dedes
 
-meDate.text = "January 11" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Devout Father Theodosios the Cenobiarch" // full title of day
-meShortCommemoration1.text = "Memory of St. Theodosios the Cenobiarch"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "our devout father Theodosios the Cenobiarch," // for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "January 11" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Memory of our Devout Father Theodosios the Cenobiarch" // full title of day
+meDA.commemoration.first = "Memory of St. Theodosios the Cenobiarch"
+meDA.commemoration.first_short = "Memory of St. Theodosios the Cenobiarch"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "our devout father Theodosios the Cenobiarch," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we celebrate," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Our Venerable Father Theodosios the Head of the Monasteries."
 meLE.commemoration2 = ""
 meHO.number = "11."
-meHO.rank = "3"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_dedes.WineOil
 meHO.note2 = ""
-meDismissal = dismissals_en_US_dedes.dis00.epiphany
+meDA.dismissal = dismissals_en_US_dedes.dis00.epiphany
 
 //Θεοφάνους Ὁμολογητοῦ
 meVE.Stichera01.mode = misc_en_US_dedes.Mode5

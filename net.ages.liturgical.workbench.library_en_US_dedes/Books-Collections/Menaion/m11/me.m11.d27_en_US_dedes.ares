@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m11.d27_en_US_dedes
 
-meDate.text = "November 27"
-meCommemoration.text = "Memory of the Holy Great Martyr James (Iakovos) the Persian" // full title of day
-meShortCommemoration1.text = "Memory of the Holy Great Martyr James (Iakovos) the Persian"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "and the holy Great Martyr James the Persian," // for use in petitions and dismissal
-meInsert2 = "whose memory we observe," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "November 27"
+meDA.commemoration.full = "Memory of the Holy Great Martyr James (Iakovos) the Persian" // full title of day
+meDA.commemoration.first = "Memory of the Holy Great Martyr James (Iakovos) the Persian"
+meDA.commemoration.first_short = "Memory of the Holy Great Martyr James (Iakovos) the Persian"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "and the holy Great Martyr James the Persian," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy and Great Martyr Iakovos (James) the Persian."
 meLE.commemoration2 = ""
 meHO.number = ""

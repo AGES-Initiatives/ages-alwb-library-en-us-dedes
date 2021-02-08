@@ -1,89 +1,40 @@
 A_Resource_Whose_Name = sy.m08.d07_en_US_dedes 
 
-S01.commemoration.text = "On August 7, we commemorate the devout Martyr Dometius the Persian."
-S01.narration1.p01.text = "[paragraph 01]"
-S01.narration1.p02.text = "[paragraph 02]"
-S01.narration1.p03.text = "[paragraph 03]"
-S01.narration1.p04.text = "[paragraph 04]"
-S01.narration1.p05.text = "[paragraph 05]"
-S01.narration1.p06.text = "[paragraph 06]"
-S01.narration1.p07.text = "[paragraph 07]"
+syMA.commemoration01.text = "On August 7, we commemorate the devout Martyr Dometius the Persian."
 
-S02.commemoration.text = "On this day, devout St. Or died in peace."
-S02.narration1.p01.text = "[paragraph 01]"
-S02.narration1.p02.text = "[paragraph 02]"
-S02.narration1.p03.text = "[paragraph 03]"
-S02.narration1.p04.text = "[paragraph 04]"
-S02.narration1.p05.text = "[paragraph 05]"
-S02.narration1.p06.text = "[paragraph 06]"
-S02.narration1.p07.text = "[paragraph 07]"
+syMA.commemoration02.text = "On this day, devout St. Or died in peace."
 
-S03.commemoration.text = "On this day the devout Theban ascetics died in peace."
+syMA.commemoration03.text = "On this day the devout Theban ascetics died in peace."
 
-S04.commemoration.text = "On this day the devout woman Potamia the Wonderworker died by the sword."
+syMA.commemoration04.text = "On this day the devout woman Potamia the Wonderworker died by the sword."
 
-S05.commemoration.text = "On this day St. Narcissus, Archbishop of Jerusalem, reposed in peace."
+syMA.commemoration05.text = "On this day St. Narcissus, Archbishop of Jerusalem, reposed in peace."
 
-S06.commemoration.text = "On this day devout St. Asterius the Wonderworker died by the sword."
+syMA.commemoration06.text = "On this day devout St. Asterius the Wonderworker died by the sword."
 
-S07.commemoration.text = "On this day Saint Sozon of Nicomedia died in peace after he was thrown into fire and came out uninjured."
+syMA.commemoration07.text = "On this day Saint Sozon of Nicomedia died in peace after he was thrown into fire and came out uninjured."
 
-S08.commemoration.text = "On this day Saint Hyperechius died in peace."
+syMA.commemoration08.text = "On this day Saint Hyperechius died in peace."
 
-S09.commemoration.text = "On this day we commemorate the perfect help which Christ our true God granted us, beyond all hope and reason, against our godless enemies who had surrounded us on every side by land and sea, which help came when our all-holy and immaculate Lady Theotokos and ever-virgin Mary, who without seed gave birth to Him, interceded for the salvation of the God-protected imperial City [of Constantinople]."
+syMA.commemoration09.text = "On this day we commemorate the perfect help which Christ our true God granted us, beyond all hope and reason, against our godless enemies who had surrounded us on every side by land and sea, which help came when our all-holy and immaculate Lady Theotokos and ever-virgin Mary, who without seed gave birth to Him, interceded for the salvation of the God-protected imperial City [of Constantinople]."
 
-S10.commemoration.text = "On this day the devout healer Theodosius the New died in peace."
+syMA.commemoration10.text = "On this day the devout healer Theodosius the New died in peace."
 
-S11.commemoration.text = "On this day devout St. Dometius, the worker of signs, who lived as an ascetic in the area of Philotheou Monastery [on Mt. Athos] died in peace."
+syMA.commemoration11.text = "On this day devout St. Dometius, the worker of signs, who lived as an ascetic in the area of Philotheou Monastery [on Mt. Athos] died in peace."
 
-S12.commemoration.text = "On this day devout St. Nicanor, who was illustrious on Mt. Callistratus, died in peace."
+syMA.commemoration12.text = "On this day devout St. Nicanor, who was illustrious on Mt. Callistratus, died in peace."
 
-S99.lastline.text= "By the intercessions of Your Saints, O God, have mercy on us. Amen."
+syMA.lastline = "By the intercessions of Your Saints, O God, have mercy on us. Amen."
 
-cl.S01.commemoration.text = "[saint/com 1]"
-cl.S01.narration1.p01.text = "[paragraph 01]"
-cl.S01.narration1.p02.text = "[paragraph 02]"
-cl.S01.narration1.p03.text = "[paragraph 03]"
-cl.S01.narration1.p04.text = "[paragraph 04]"
-cl.S01.narration1.p05.text = "[paragraph 05]"
-cl.S01.narration1.p06.text = "[paragraph 06]"
-cl.S01.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration01.text = "[saint/com 1]"
 
-cl.S02.commemoration.text = "[saint/com 2]"
-cl.S02.narration1.p01.text = "[paragraph 01]"
-cl.S02.narration1.p02.text = "[paragraph 02]"
-cl.S02.narration1.p03.text = "[paragraph 03]"
-cl.S02.narration1.p04.text = "[paragraph 04]"
-cl.S02.narration1.p05.text = "[paragraph 05]"
-cl.S02.narration1.p06.text = "[paragraph 06]"
-cl.S02.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration02.text = "[saint/com 2]"
 
-cl.S03.commemoration.text = "[saint/com 3]"
-cl.S03.narration1.p01.text = "[paragraph 01]"
-cl.S03.narration1.p02.text = "[paragraph 02]"
-cl.S03.narration1.p03.text = "[paragraph 03]"
-cl.S03.narration1.p04.text = "[paragraph 04]"
-cl.S03.narration1.p05.text = "[paragraph 05]"
-cl.S03.narration1.p06.text = "[paragraph 06]"
-cl.S03.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration03.text = "[saint/com 3]"
 
-cl.S04.commemoration.text = "[saint/com 4]"
-cl.S04.narration1.p01.text = "[paragraph 01]"
-cl.S04.narration1.p02.text = "[paragraph 02]"
-cl.S04.narration1.p03.text = "[paragraph 03]"
-cl.S04.narration1.p04.text = "[paragraph 04]"
-cl.S04.narration1.p05.text = "[paragraph 05]"
-cl.S04.narration1.p06.text = "[paragraph 06]"
-cl.S04.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration04.text = "[saint/com 4]"
 
-cl.S05.commemoration.text = "[saint/com 5]"
-cl.S05.narration1.p01.text = "[paragraph 01]"
-cl.S05.narration1.p02.text = "[paragraph 02]"
-cl.S05.narration1.p03.text = "[paragraph 03]"
-cl.S05.narration1.p04.text = "[paragraph 04]"
-cl.S05.narration1.p05.text = "[paragraph 05]"
-cl.S05.narration1.p06.text = "[paragraph 06]"
-cl.S05.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration05.text = "[saint/com 5]"
 
-cl.S06.commemoration.text = "[saint/com list]"
+cl.syMA.commemoration06.text = "[saint/com list]"
 

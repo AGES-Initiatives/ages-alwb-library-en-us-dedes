@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = tr.d028_en_US_dedes
 
-trCommemoration.text = "Memory of the Kolyva Miracle of the Holy Great Martyr Theodore Tyro" //full title of day
-trShortCommemoration1.text = "St. Theodore Tyro and the Kolyva Miracle."
-trInsert1 = "the Holy Great Martyr Theodore Tyro," //for use in petitions and dismissal
-trInsert2 = "whose miracle of the kolyva we celebrate;" //for use in petitions and dismissal
-trNote.text = ""
+trDA.commemoration.full = "Memory of the Kolyva Miracle of the Holy Great Martyr Theodore Tyro" //full title of day
+trDA.commemoration.short = "St. Theodore Tyro and the Kolyva Miracle."
+trDA.insert1 = "the Holy Great Martyr Theodore Tyro," //for use in petitions and dismissal
+trDA.insert2 = "whose miracle of the kolyva we celebrate;" //for use in petitions and dismissal
+trDA.note = ""
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
@@ -647,25 +647,18 @@ trMA.Kontakion1.text = "Once you had taken the Faith of Christ into your heart l
 
 trMA.Oikos1.text = "We gladly in faith extol You, who are carried on a throne of light. For You have given us a divine gift, Theodore, who was brave in the contests and thrice-blessed in his life, as being a champion of the truth. Having a pious frame of mind, he obtained You, O Christ; and against the deceiver he proved to be a mighty victor, as one invincible."
 
-trMA.Synaxarion.commemoration.text = "On this day, Saturday of the first week of Lent, we celebrate the marvelous wonder involving Kolyva by the holy and glorious Great Martyr Theodore Tyro."
-trMA.Synaxarion.couplet1.title = titles_en_US_dedes.Stichoi
-trMA.Synaxarion.couplet1.verse1 = "With Kollyva the Tyro feeds the City"
-trMA.Synaxarion.couplet1.verse2 = "And makes ineffectual the food that was defiled."
-trMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-trMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-trMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-trMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-trMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-trMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-trMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-trMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-trMA.Synaxarion.lastline.text = "By his holy intercessions, O God, have mercy on us and save us. Amen."
+trSY.commemoration.text = "On this day, Saturday of the first week of Lent, we celebrate the marvelous wonder involving Kolyva by the holy and glorious Great Martyr Theodore Tyro."
+trSY.commemoration.couplet1.title = titles_en_US_dedes.Stichoi
+trSY.commemoration.couplet1.verse1 = "With Kollyva the Tyro feeds the City"
+trSY.commemoration.couplet1.verse2 = "And makes ineffectual the food that was defiled."
+trSY.commemoration.narration.p01 = "[paragraph 01]"
+trSY.commemoration.narration.p02 = "[paragraph 02]"
+trSY.commemoration.narration.p03 = "[paragraph 03]"
+trSY.commemoration.narration.p04 = "[paragraph 04]"
+trSY.commemoration.narration.p05 = "[paragraph 05]"
+trSY.commemoration.narration.p06 = "[paragraph 06]"
+trSY.commemoration.narration.p07 = "[paragraph 07]"
+trSY.lastline = "By his holy intercessions, O God, have mercy on us and save us. Amen."
 
 trMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
 trMA.Ode7C1H.mode = misc_en_US_dedes.Mode4

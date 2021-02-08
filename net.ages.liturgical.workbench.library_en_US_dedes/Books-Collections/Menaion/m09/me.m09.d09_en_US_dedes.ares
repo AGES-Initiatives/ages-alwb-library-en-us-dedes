@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m09.d09_en_US_dedes
 
-meDate.text = "September 9"
-meCommemoration.text = "Memory of the Holy and Righteous Ancestors of God, Joachim and Anna; and the Holy Martyr Severian." // full title of day
-meShortCommemoration1.text = "Memory of the Holy and Righteous Ancestors of God, Joachim and Anna"
-meCom1.title = "For the Ancestors of God."
-meCom2.title = "For St. Severian."
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "whose memory we are observing," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "September 9"
+meDA.commemoration.full = "Memory of the Holy and Righteous Ancestors of God, Joachim and Anna; and the Holy Martyr Severian." // full title of day
+meDA.commemoration.first = "Memory of the Holy and Righteous Ancestors of God, Joachim and Anna"
+meDA.commemoration.first_short = "Memory of the Holy and Righteous Ancestors of God, Joachim and Anna"
+meDA.commemoration.first_title = "For the Ancestors of God."
+meDA.commemoration.second_title = "For St. Severian."
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "whose memory we are observing," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy and Righteous Forefathers of God Joachim and Anna."
 meLE.commemoration2 = ""
 meHO.number = ""

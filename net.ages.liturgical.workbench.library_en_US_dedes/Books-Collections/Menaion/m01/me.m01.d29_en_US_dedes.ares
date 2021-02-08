@@ -1,17 +1,18 @@
 A_Resource_Whose_Name = me.m01.d29_en_US_dedes
 
-meDate.text = "January 29" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "The Transfer of the Relics of the Holy Hieromartyr Ignatius the God-bearer" // full title of day
-meShortCommemoration1.text = "Transfer of the Relics of St. Ignatius the God-bearer"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "the holy and glorious hieromartyr Ignatius the God-bearer," // for use in petitions and dismissal
-meInsert2 = "the memory of the transfer of whose holy relic we observe;" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "January 29" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "The Transfer of the Relics of the Holy Hieromartyr Ignatius the God-bearer" // full title of day
+meDA.commemoration.first = "Transfer of the Relics of St. Ignatius the God-bearer"
+meDA.commemoration.first_short = "Transfer of the Relics of St. Ignatius the God-bearer"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "the holy and glorious hieromartyr Ignatius the God-bearer," // for use in petitions and dismissal
+meDA.insert2 = "the memory of the transfer of whose holy relic we observe;" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Translation of the Relics of the Holy Hieromartyr Ignatios the God-bearer."
 meLE.commemoration2 = ""
 meHO.number = "29."
-meHO.rank = "5"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""

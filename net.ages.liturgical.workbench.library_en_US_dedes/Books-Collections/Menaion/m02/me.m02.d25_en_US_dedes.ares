@@ -1,14 +1,15 @@
 A_Resource_Whose_Name = me.m02.d25_en_US_dedes
 
-meDate.text = "February 25" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "Memory of our Father among the Saints Tarasios, Archbishop Constantinople" //full title of day
-meShortCommemoration1.text = "Memory of St. Tarasios of Constantinople"
-meShortCommemoration2.text = "Leave-taking of the Feast of the Forerunner"
-meCom1.title = "For St. Tarasios."
-meCom2.title = "Leave-taking of the Forerunner."
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "February 25" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Memory of our Father among the Saints Tarasios, Archbishop Constantinople" //full title of day
+meDA.commemoration.first = "Memory of St. Tarasios of Constantinople"
+meDA.commemoration.first_short = "Memory of St. Tarasios of Constantinople"
+meDA.commemoration.second_short = "Leave-taking of the Feast of the Forerunner"
+meDA.commemoration.first_title = "For St. Tarasios."
+meDA.commemoration.second_title = "Leave-taking of the Forerunner."
+meDA.insert1 = "" //for use in petitions and dismissal
+meDA.insert2 = "" //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

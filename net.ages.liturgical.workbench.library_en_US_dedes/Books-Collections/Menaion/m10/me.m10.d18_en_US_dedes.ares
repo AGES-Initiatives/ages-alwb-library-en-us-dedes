@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.d18_en_US_dedes
 
-meDate.text = "October 18"
-meCommemoration.text = "Memory of the Holy Apostle and Evangelist Luke" // full title of day
-meShortCommemoration1.text = "Memory of the Holy Apostle and Evangelist Luke"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "of the holy and glorious Apostle and Evangelist Luke," // for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "October 18"
+meDA.commemoration.full = "Memory of the Holy Apostle and Evangelist Luke" // full title of day
+meDA.commemoration.first = "Memory of the Holy Apostle and Evangelist Luke"
+meDA.commemoration.first_short = "Memory of the Holy Apostle and Evangelist Luke"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "of the holy and glorious Apostle and Evangelist Luke," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy Apostle and Evangelist Luke."
 meLE.commemoration2 = ""
 meHO.number = ""

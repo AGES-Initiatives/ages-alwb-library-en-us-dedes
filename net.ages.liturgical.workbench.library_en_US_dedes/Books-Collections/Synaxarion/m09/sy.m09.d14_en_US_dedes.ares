@@ -1,85 +1,36 @@
 A_Resource_Whose_Name = sy.m09.d14_en_US_dedes
 
-S01.commemoration.text = "On September 14 is the worldwide Exaltation (i.e. Elevation) of the precious and life-giving Cross."
-S01.narration1.p01.text = "[paragraph 01]"
-S01.narration1.p02.text = "[paragraph 02]"
-S01.narration1.p03.text = "[paragraph 03]"
-S01.narration1.p04.text = "[paragraph 04]"
-S01.narration1.p05.text = "[paragraph 05]"
-S01.narration1.p06.text = "[paragraph 06]"
-S01.narration1.p07.text = "[paragraph 07]"
+syMA.commemoration01.text = "On September 14 is the worldwide Exaltation (i.e. Elevation) of the precious and life-giving Cross."
 
-S02.commemoration.text = "On this day was the repose of our father among the saints John Chrysostom, Archbishop of Constantinople. He reposed on this date, but because of the feast of the Holy Cross his feast was moved to November 13."
-S02.narration1.p01.text = "[paragraph 01]"
-S02.narration1.p02.text = "[paragraph 02]"
-S02.narration1.p03.text = "[paragraph 03]"
-S02.narration1.p04.text = "[paragraph 04]"
-S02.narration1.p05.text = "[paragraph 05]"
-S02.narration1.p06.text = "[paragraph 06]"
-S02.narration1.p07.text = "[paragraph 07]"
+syMA.commemoration02.text = "On this day was the repose of our father among the saints John Chrysostom, Archbishop of Constantinople. He reposed on this date, but because of the feast of the Holy Cross his feast was moved to November 13."
 
-S03.commemoration.text = "We also commemorate the most pious empress Placilla, the wife of emperor Theodosius the Great."
+syMA.commemoration03.text = "We also commemorate the most pious empress Placilla, the wife of emperor Theodosius the Great."
 
-S04.commemoration.text = "On this day we also commemorate our fathers among the saints who assembled at the holy Sixth Ecumenical Council, during the reign of Constantine IV Pogonatos, father of Justinian II Rhinotmetos, while Sergios led the Church of Constantinople and Agatho the Church of Rome. The Council convened in Trullo of the Palace called Ovatus, to anathematize Sergios, Pyrrhos and Peter and Paul, who had been Bishops of Constantinople, as well as Macrobios of Antioch, Cyrus of Alexandria, and Honorius of Rome, and Stephen and Polychronios and their followers. This Council convened during the reign of the above mentioned Constantine Pogonatos, but its canons were published during the reign of his son Justinian."
+syMA.commemoration04.text = "On this day we also commemorate our fathers among the saints who assembled at the holy Sixth Ecumenical Council, during the reign of Constantine IV Pogonatos, father of Justinian II Rhinotmetos, while Sergios led the Church of Constantinople and Agatho the Church of Rome. The Council convened in Trullo of the Palace called Ovatus, to anathematize Sergios, Pyrrhos and Peter and Paul, who had been Bishops of Constantinople, as well as Macrobios of Antioch, Cyrus of Alexandria, and Honorius of Rome, and Stephen and Polychronios and their followers. This Council convened during the reign of the above mentioned Constantine Pogonatos, but its canons were published during the reign of his son Justinian."
 
-S05.commemoration.text = "On this day we also commemorate the holy Martyr Papas."
+syMA.commemoration05.text = "On this day we also commemorate the holy Martyr Papas."
 
-S06.commemoration.text = "On this day the holy Martyr Theocles died by the sword."
+syMA.commemoration06.text = "On this day the holy Martyr Theocles died by the sword."
 
-S07.commemoration.text = "On this day Saint Valerian the infant died by the sword."
+syMA.commemoration07.text = "On this day Saint Valerian the infant died by the sword."
 
-S08.commemoration.text = "The holy new devout Martyr Macarius, who witnessed in Thessaloniki in the year 1527, and who had been a disciple of St. Niphon, Patriarch of Constantinople, died by the sword."
+syMA.commemoration08.text = "The holy new devout Martyr Macarius, who witnessed in Thessaloniki in the year 1527, and who had been a disciple of St. Niphon, Patriarch of Constantinople, died by the sword."
 
-S09.commemoration.text = ""
+syMA.commemoration09.text = ""
 
-S10.commemoration.text = ""
+syMA.commemoration10.text = ""
 
-S99.lastline.text= "By their holy intercessions, O God, have mercy on us. Amen."
+syMA.lastline = "By their holy intercessions, O God, have mercy on us. Amen."
 
-cl.S01.commemoration.text = "[saint/com 1]"
-cl.S01.narration1.p01.text = "[paragraph 01]"
-cl.S01.narration1.p02.text = "[paragraph 02]"
-cl.S01.narration1.p03.text = "[paragraph 03]"
-cl.S01.narration1.p04.text = "[paragraph 04]"
-cl.S01.narration1.p05.text = "[paragraph 05]"
-cl.S01.narration1.p06.text = "[paragraph 06]"
-cl.S01.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration01.text = "[saint/com 1]"
 
-cl.S02.commemoration.text = "[saint/com 2]"
-cl.S02.narration1.p01.text = "[paragraph 01]"
-cl.S02.narration1.p02.text = "[paragraph 02]"
-cl.S02.narration1.p03.text = "[paragraph 03]"
-cl.S02.narration1.p04.text = "[paragraph 04]"
-cl.S02.narration1.p05.text = "[paragraph 05]"
-cl.S02.narration1.p06.text = "[paragraph 06]"
-cl.S02.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration02.text = "[saint/com 2]"
 
-cl.S03.commemoration.text = "[saint/com 3]"
-cl.S03.narration1.p01.text = "[paragraph 01]"
-cl.S03.narration1.p02.text = "[paragraph 02]"
-cl.S03.narration1.p03.text = "[paragraph 03]"
-cl.S03.narration1.p04.text = "[paragraph 04]"
-cl.S03.narration1.p05.text = "[paragraph 05]"
-cl.S03.narration1.p06.text = "[paragraph 06]"
-cl.S03.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration03.text = "[saint/com 3]"
 
-cl.S04.commemoration.text = "[saint/com 4]"
-cl.S04.narration1.p01.text = "[paragraph 01]"
-cl.S04.narration1.p02.text = "[paragraph 02]"
-cl.S04.narration1.p03.text = "[paragraph 03]"
-cl.S04.narration1.p04.text = "[paragraph 04]"
-cl.S04.narration1.p05.text = "[paragraph 05]"
-cl.S04.narration1.p06.text = "[paragraph 06]"
-cl.S04.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration04.text = "[saint/com 4]"
 
-cl.S05.commemoration.text = "[saint/com 5]"
-cl.S05.narration1.p01.text = "[paragraph 01]"
-cl.S05.narration1.p02.text = "[paragraph 02]"
-cl.S05.narration1.p03.text = "[paragraph 03]"
-cl.S05.narration1.p04.text = "[paragraph 04]"
-cl.S05.narration1.p05.text = "[paragraph 05]"
-cl.S05.narration1.p06.text = "[paragraph 06]"
-cl.S05.narration1.p07.text = "[paragraph 07]"
+cl.syMA.commemoration05.text = "[saint/com 5]"
 
-cl.S06.commemoration.text = "[saint/com list]"
+cl.syMA.commemoration06.text = "[saint/com list]"
 

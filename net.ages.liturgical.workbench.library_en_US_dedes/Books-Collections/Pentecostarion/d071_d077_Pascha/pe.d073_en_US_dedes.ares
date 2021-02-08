@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = pe.d073_en_US_dedes
 
-peCommemoration.text = "" //full title of day
-peShortCommemoration1.text = "Bright Tuesday"
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
-peNote.text = ""
+peDA.commemoration.full = "" //full title of day
+peDA.commemoration.short = "Bright Tuesday"
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
 peHO.description2 = ""
 peHO.note1 = ""
 peHO.note2 = ""
-peDismissal = dismissals_en_US_dedes.dis00.resurrection
+peDA.dismissal = dismissals_en_US_dedes.dis00.resurrection
 
 peVE.MM.Stichera1234as3456.text = properties_en_US_dedes.media.key //for media with saint
 
@@ -84,19 +84,19 @@ peMA.Lauds4.text = oc.m3.d1_en_US_dedes.ocMA.Lauds4.text
 
 peMA.MM.Lauds1234as1234.text = properties_en_US_dedes.media.key
 
-alt1.peCommemoration.text = "Bright Tuesday. Memory of the holy, glorious, lately-appearing, and miracle-working monastic Martyrs, Raphael and Nicholas, and the holy Virgin Martyr Irene, who were in Thermi on the Island of Lesbos" //full title of day
-alt1.peShortCommemoration1.text = "Memory of Sts. Raphael, Nicholas and Irene."
+alt1.peDA.commemoration.full = "Bright Tuesday. Memory of the holy, glorious, lately-appearing, and miracle-working monastic Martyrs, Raphael and Nicholas, and the holy Virgin Martyr Irene, who were in Thermi on the Island of Lesbos" //full title of day
+alt1.peDA.commemoration.short = "Memory of Sts. Raphael, Nicholas and Irene."
 alt1.peCom1.title = "For Sts. Raphael, Nicholas and Irene."
-alt1.peInsert1 = "the holy, glorious, lately-appearing, and miracle-working monastic Martyrs Raphael, Nicholas, and Irene," //for use in petitions and dismissal
-alt1.peInsert2 = "whose memory we celebrate," //for use in petitions and dismissal
-alt1.peNote.text = ""
+alt1.peDA.insert1 = "the holy, glorious, lately-appearing, and miracle-working monastic Martyrs Raphael, Nicholas, and Irene," //for use in petitions and dismissal
+alt1.peDA.insert2 = "whose memory we celebrate," //for use in petitions and dismissal
+alt1.peDA.note = ""
 alt1.peHO.daytitle = ""
 alt1.peHO.commemorations = ""
 alt1.peHO.description1 = ""
 alt1.peHO.description2 = ""
 alt1.peHO.note1 = ""
 alt1.peHO.note2 = ""
-alt1.peDismissal = dismissals_en_US_dedes.dis00.resurrection
+alt1.peDA.dismissal = dismissals_en_US_dedes.dis00.resurrection
 
 alt1.peVE.Stichera01.mode = misc_en_US_dedes.Mode3
 alt1.peVE.Stichera01.melody = ""
@@ -406,17 +406,17 @@ alt1.peMA.Kontakion1.text = "They who had visibly competed for Christ's sake, * 
 
 alt1.peMA.Oikos1.text = "You lived together in concord as honorable clergy in the Monastery of Karyes, and there you competed as martyrs according to the rules. By the ineffable decision of the Judge of the games, the Logos and Giver of life, you remained hidden underground for many years, O most wonderful devout monastic Martyrs. But then, how amazing was your miraculous appearance, your strange discovery, and your abundant grace! For not so long ago, your relics came up from the earth, like fragrant flowers and divine treasures that are cherished throughout the world, filled with gifts and grace of martyrdom. You amazingly appear in wakeful visions and in dreams, face to face to many people near and far. When they behold your glory, glory proper to Athletes of Christ, they rejoice with greatest joy, and they proclaim to all what they have seen and heard from you. And they invite everyone to sing your praise, and in a loud voice they exclaim: \"Come all, joining voices let us earnestly extol these holy Martyrs who were wondrously revealed to us, for they deserve our praise, as wonder-workers, protectors and patron saints.\""
 
-alt1.peMA.Synaxarion.commemoration.text = "On Tuesday of Bright and Renewal Week, we celebrate the memory of the holy, glorious, newly-appearing and wonder-working devout monastic Martyrs, Raphael and Nicholas, and the holy virgin Martyr Irene, and the others who along with them endured martyrdom, on April 9, 1463, which that year was Bright Tuesday, in the ancient Monastery of Karyes, which is located near Thermi on the Greek island of Lesbos. These saints were miraculously revealed to us in the year 1959."
-alt1.peMA.Synaxarion.couplet1.title = "For Sts. Raphael and Nicholas."
-alt1.peMA.Synaxarion.couplet1.verse1 = "Raphael and Nicholas, erstwhile hidden,"
-alt1.peMA.Synaxarion.couplet1.verse2 = "as a light that is great have appeared to us lately."
-alt1.peMA.Synaxarion.couplet2.title = "For St. Irene."
-alt1.peMA.Synaxarion.couplet2.verse1 = "Irene, who was martyred along with her parents,"
-alt1.peMA.Synaxarion.couplet2.verse2 = "was lately made known to us through marvelous wonders."
-alt1.peMA.Synaxarion.couplet3.title = "For the other anonymous Saints."
-alt1.peMA.Synaxarion.couplet3.verse1 = "In Karyes Monastery of old you competed,"
-alt1.peMA.Synaxarion.couplet3.verse2 = "O Martyrs, and ascended to heavenly glory."
-alt1.peMA.Synaxarion.lastline.text = "By the intercessions of Your holy Martyrs and of all Your Saints, O Christ our God, have mercy on us and save us. Amen."
+alt1.peSY.commemoration.text = "On Tuesday of Bright and Renewal Week, we celebrate the memory of the holy, glorious, newly-appearing and wonder-working devout monastic Martyrs, Raphael and Nicholas, and the holy virgin Martyr Irene, and the others who along with them endured martyrdom, on April 9, 1463, which that year was Bright Tuesday, in the ancient Monastery of Karyes, which is located near Thermi on the Greek island of Lesbos. These saints were miraculously revealed to us in the year 1959."
+alt1.peSY.commemoration.couplet1.title = "For Sts. Raphael and Nicholas."
+alt1.peSY.commemoration.couplet1.verse1 = "Raphael and Nicholas, erstwhile hidden,"
+alt1.peSY.commemoration.couplet1.verse2 = "as a light that is great have appeared to us lately."
+alt1.peSY.commemoration.couplet2.title = "For St. Irene."
+alt1.peSY.commemoration.couplet2.verse1 = "Irene, who was martyred along with her parents,"
+alt1.peSY.commemoration.couplet2.verse2 = "was lately made known to us through marvelous wonders."
+alt1.peSY.commemoration.couplet3.title = "For the other anonymous Saints."
+alt1.peSY.commemoration.couplet3.verse1 = "In Karyes Monastery of old you competed,"
+alt1.peSY.commemoration.couplet3.verse2 = "O Martyrs, and ascended to heavenly glory."
+alt1.peSY.lastline = "By the intercessions of Your holy Martyrs and of all Your Saints, O Christ our God, have mercy on us and save us. Amen."
 
 alt1.peMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 alt1.peMA.Ode7C11.mode = misc_en_US_dedes.Mode1

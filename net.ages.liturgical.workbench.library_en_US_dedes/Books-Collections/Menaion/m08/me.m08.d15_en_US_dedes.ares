@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d15_en_US_dedes
 
-meDate.text = "August 15"
-meCommemoration.text = "Commemoration of the Dormition of our Most Holy Lady Theotokos and Ever-Virgin Mary." // full title of day
-meShortCommemoration1.text = "Dormition of our Most Holy Lady Theotokos"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "whose Dormition we celebrate," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "August 15"
+meDA.commemoration.full = "Commemoration of the Dormition of our Most Holy Lady Theotokos and Ever-Virgin Mary." // full title of day
+meDA.commemoration.first = "Dormition of our Most Holy Lady Theotokos"
+meDA.commemoration.first_short = "Dormition of our Most Holy Lady Theotokos"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "whose Dormition we celebrate," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Assumption of our All-Holy Lady the Theotokos and Ever-Virgin Mary."
 meLE.commemoration2 = ""
 meHO.number = ""

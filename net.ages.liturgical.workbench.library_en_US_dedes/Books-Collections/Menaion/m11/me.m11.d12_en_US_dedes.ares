@@ -1,17 +1,18 @@
 A_Resource_Whose_Name = me.m11.d12_en_US_dedes
 
-meDate.text = "November 12"
-meCommemoration.text = "Memory of our Father among the Saints John the Merciful; and our Devout Father Nilus." // full title of day
-meShortCommemoration1.text = "Memory of St. John the Merciful"
-meCom1.title = "For St. John."
-meCom2.title = "For St. Nilus."
-meInsert1 = "our father among the saints John the Merciful," // for use in petitions and dismissal
-meInsert2 = "whose memory we observe," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "November 12"
+meDA.commemoration.full = "Memory of our Father among the Saints John the Merciful; and our Devout Father Nilus." // full title of day
+meDA.commemoration.first = "Memory of St. John the Merciful"
+meDA.commemoration.first_short = "Memory of St. John the Merciful"
+meDA.commemoration.first_title = "For St. John."
+meDA.commemoration.second_title = "For St. Nilus."
+meDA.insert1 = "our father among the saints John the Merciful," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Our Father among the Saints John the Merciful. Our Venerable Father Nilus."
 meLE.commemoration2 = ""
 meHO.number = "12."
-meHO.rank = "5"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""

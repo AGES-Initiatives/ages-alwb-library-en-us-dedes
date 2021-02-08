@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d29_en_US_dedes
 
-meDate.text = "August 29"
-meCommemoration.text = "Commemoration of the Beheading of the Holy and Glorious Prophet, Forerunner and Baptist John." // full title of day
-meShortCommemoration1.text = "Commemoration of the Beheading of the Holy Forerunner"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate; " // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "August 29"
+meDA.commemoration.full = "Commemoration of the Beheading of the Holy and Glorious Prophet, Forerunner and Baptist John." // full title of day
+meDA.commemoration.first = "Commemoration of the Beheading of the Holy Forerunner"
+meDA.commemoration.first_short = "Commemoration of the Beheading of the Holy Forerunner"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "whose memory we celebrate; " // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Beheading of the Honorable Head of the Holy and Glorious Forerunner John the Baptist."
 meLE.commemoration2 = ""
 meHO.number = ""

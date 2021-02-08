@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m11.d21_en_US_dedes
 
-meDate.text = "November 21"
-meCommemoration.text = "The Entry of the Most Holy Theotokos into the Temple" // full title of day
-meShortCommemoration1.text = "The Entry of the Most Holy Theotokos"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "whose Entry into the Temple we celebrate," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "November 21"
+meDA.commemoration.full = "The Entry of the Most Holy Theotokos into the Temple" // full title of day
+meDA.commemoration.first = "The Entry of the Most Holy Theotokos"
+meDA.commemoration.first_short = "The Entry of the Most Holy Theotokos"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "whose Entry into the Temple we celebrate," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Entrance into the Temple of our All-holy Lady the Theotokos and Ever-Virgin Mary."
 meLE.commemoration2 = ""
 meHO.number = ""

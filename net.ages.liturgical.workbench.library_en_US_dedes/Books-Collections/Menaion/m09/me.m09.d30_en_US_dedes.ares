@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m09.d30_en_US_dedes
 
-meDate.text = "September 30"
-meCommemoration.text = "Memory of the Holy Hieromartyr Gregory of Greater Armenia" // full title of day
-meShortCommemoration1.text = "Memory of St. Gregory of Greater Armenia"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "the Holy Hieromartyr Gregory of Greater Armenia," // for use in petitions and dismissal
-meInsert2 = "whose memory we are observing," // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "September 30"
+meDA.commemoration.full = "Memory of the Holy Hieromartyr Gregory of Greater Armenia" // full title of day
+meDA.commemoration.first = "Memory of St. Gregory of Greater Armenia"
+meDA.commemoration.first_short = "Memory of St. Gregory of Greater Armenia"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "the Holy Hieromartyr Gregory of Greater Armenia," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we are observing," // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "Saint Gregory the Hieromartyr, Bishop of Greater Armenia."
 meLE.commemoration2 = ""
 meHO.number = ""

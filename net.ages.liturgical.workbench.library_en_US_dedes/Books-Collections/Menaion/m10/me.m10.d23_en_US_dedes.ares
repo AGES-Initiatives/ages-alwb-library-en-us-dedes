@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.d23_en_US_dedes
 
-meDate.text = "October 23"
-meCommemoration.text = "Memory of the Holy Hieromartyr and Apostle James (Iakovos), the Brother of God" // full title of day
-meShortCommemoration1.text = "Memory of the Holy Apostle James (Iakovos), the Brother of God"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "of the holy and glorious hieromartyr and Apostle James, the Brother of God," // for use in petitions and dismissal
-meInsert2 = "whose memory we celebrate;" // for use in petitions and dismissal
-meNote.text = "The additional materials, Lity, Kathismata, and Post Gospel Idiomelon, not found in the Menaion, were composed in Greek by St. Nikodemos of the Holy Mountain. (Systema Typikou, p. 186)."
+meDA.date = "October 23"
+meDA.commemoration.full = "Memory of the Holy Hieromartyr and Apostle James (Iakovos), the Brother of God" // full title of day
+meDA.commemoration.first = "Memory of the Holy Apostle James (Iakovos), the Brother of God"
+meDA.commemoration.first_short = "Memory of the Holy Apostle James (Iakovos), the Brother of God"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "of the holy and glorious hieromartyr and Apostle James, the Brother of God," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
+meDA.note = "The additional materials, Lity, Kathismata, and Post Gospel Idiomelon, not found in the Menaion, were composed in Greek by St. Nikodemos of the Holy Mountain. (Systema Typikou, p. 186)."
 meLE.commemoration1 = "The Holy Apostle Iakovos (James), the Brother of the Lord."
 meLE.commemoration2 = ""
 meHO.number = ""

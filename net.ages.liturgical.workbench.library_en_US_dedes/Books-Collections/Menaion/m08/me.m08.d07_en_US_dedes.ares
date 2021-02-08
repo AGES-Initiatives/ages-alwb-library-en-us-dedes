@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d07_en_US_dedes
 
-meDate.text = "August 7"
-meCommemoration.text = "Memory of the Holy Monastic Martyr Dometius" // full title of day
-meShortCommemoration1.text = "Memory of the Holy Monastic Martyr Dometius"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "August 7"
+meDA.commemoration.full = "Memory of the Holy Monastic Martyr Dometius" // full title of day
+meDA.commemoration.first = "Memory of the Holy Monastic Martyr Dometius"
+meDA.commemoration.first_short = "Memory of the Holy Monastic Martyr Dometius"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy Venerable Martyr Dometios."
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -15,7 +16,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
-meDismissal = dismissals_en_US_dedes.dis00.transfiguration
+meDA.dismissal = dismissals_en_US_dedes.dis00.transfiguration
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.incipit
@@ -362,5 +363,5 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
 
-alt1.meShortCommemoration1.text = "Memory of Devout Theodosios the New"
+alt1.meDA.commemoration.first_short = "Memory of Devout Theodosios the New"
 alt1.meMegalynarion.text = "Rightly we salute you and say, Rejoice, * holy son of Athens, and the helper of Argolis. * Rejoice, for you pour out abundant cures and healings * for those who sing your praises, St. Theodosios."

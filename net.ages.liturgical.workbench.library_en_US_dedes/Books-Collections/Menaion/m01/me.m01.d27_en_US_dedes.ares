@@ -1,17 +1,18 @@
 A_Resource_Whose_Name = me.m01.d27_en_US_dedes
 
-meDate.text = "January 27" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "The Transfer of the Relic of our Father among the Saints John Chrysostom" // full title of day
-meShortCommemoration1.text = "Transfer of the Relic of St. John Chrysostom"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "our Father among the Saints John Chrysostom, Archbishop of Constantinople," // for use in petitions and dismissal
-meInsert2 = "the memory of the transfer of whose holy relic we celebrate;" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "January 27" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "The Transfer of the Relic of our Father among the Saints John Chrysostom" // full title of day
+meDA.commemoration.first = "Transfer of the Relic of St. John Chrysostom"
+meDA.commemoration.first_short = "Transfer of the Relic of St. John Chrysostom"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "our Father among the Saints John Chrysostom, Archbishop of Constantinople," // for use in petitions and dismissal
+meDA.insert2 = "the memory of the transfer of whose holy relic we celebrate;" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Translation of the Relics of our Father among the Saints John Chrysostomos."
 meLE.commemoration2 = ""
 meHO.number = "27."
-meHO.rank = "3"
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = rubrical_en_US_dedes.HolidayWineOil
 meHO.note2 = ""

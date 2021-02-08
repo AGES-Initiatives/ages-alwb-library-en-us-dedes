@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m09.d05_en_US_dedes
 
-meDate.text = "September 5"
-meCommemoration.text = "Memory of the Holy Prophet Zacharias, Father of the Forerunner" // full title of day
-meShortCommemoration1.text = "Memory of the Holy Prophet Zacharias, Father of the Forerunner"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "September 5"
+meDA.commemoration.full = "Memory of the Holy Prophet Zacharias, Father of the Forerunner" // full title of day
+meDA.commemoration.first = "Memory of the Holy Prophet Zacharias, Father of the Forerunner"
+meDA.commemoration.first_short = "Memory of the Holy Prophet Zacharias, Father of the Forerunner"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = "The Holy Prophet Zacharias, Father of the Forerunner."
 meLE.commemoration2 = ""
 meHO.number = ""
