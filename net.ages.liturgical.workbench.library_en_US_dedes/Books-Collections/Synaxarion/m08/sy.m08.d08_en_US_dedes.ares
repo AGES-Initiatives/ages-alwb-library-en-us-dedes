@@ -1,30 +1,48 @@
 A_Resource_Whose_Name = sy.m08.d08_en_US_dedes
 
 syMA.commemoration01.text = "On August 8 we commemorate our devout Father Emilian the Confessor, Bishop of Cyzicus."
+syMA.commemoration01.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration01.couplet1.verse1 = ""
+syMA.commemoration01.couplet1.verse2 = ""
+syMA.commemoration01.single1 = ""
+syMA.commemoration01.narration.p01 = ""
 
 syMA.commemoration02.text = "On this day we commemorate Saint Myron the Wonderworker Bishop of Crete."
+syMA.commemoration02.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration02.couplet1.verse1 = ""
+syMA.commemoration02.couplet1.verse2 = ""
+syMA.commemoration02.narration.p01 = ""
+syMA.commemoration02.narration.p02 = ""
 
 syMA.commemoration03.text = "On this day we also commemorate our devout father Theodosios, Abbot of the Monastery of Orovon."
+syMA.commemoration03.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration03.couplet1.verse1 = ""
+syMA.commemoration03.couplet1.verse2 = ""
+syMA.commemoration03.narration.p01 = ""
 
 syMA.commemoration04.text = "On this day we also commemorate the holy Martyrs Eleftherios, Leonidas, and the children with them who died by fire."
+syMA.commemoration04.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration04.couplet1.verse1 = ""
+syMA.commemoration04.couplet1.verse2 = ""
 
-syMA.commemoration05.text = "On this day the two holy Martyrs from Tyre died by being dragged on the ground."
+syMA.commemoration05.text = "On this day ten holy Ascetics from Egypt died in peace."
+syMA.commemoration05.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration05.couplet1.verse1 = ""
+syMA.commemoration05.couplet1.verse2 = ""
 
-syMA.commemoration06.text = "We also commemorate the holy Neo-martyr Triandafillos from Zagora in Magnesia  who witnessed in Constantinople in the year 1680."
+syMA.commemoration06.text = "On this day the two holy Martyrs from Tyre died by being dragged on the ground."
+syMA.commemoration06.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration06.couplet1.verse1 = ""
+syMA.commemoration06.couplet1.verse2 = ""
 
-syMA.commemoration07.text = "We also commemorate the holy Neo-martyr Anastasios who witnessed in Thessaloniki in the year 1794."
+syMA.commemoration07.text = "We also commemorate the holy Neo-martyr Triandafillos from Zagora in Magnesia  who witnessed in Constantinople in the year 1680."
+syMA.commemoration07.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration07.couplet1.verse1 = ""
+syMA.commemoration07.couplet1.verse2 = ""
+
+syMA.commemoration08.text = "We also commemorate the holy Neo-martyr Anastasios who witnessed in Thessaloniki in the year 1794."
+syMA.commemoration08.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration08.couplet1.verse1 = ""
+syMA.commemoration08.couplet1.verse2 = ""
 
 syMA.lastline = "By the intercessions of Your Saints, O God, have mercy on us. Amen"
-
-cl.syMA.commemoration01.text = "[saint/com 1]"
-
-cl.syMA.commemoration02.text = "[saint/com 2]"
-
-cl.syMA.commemoration03.text = "[saint/com 3]"
-
-cl.syMA.commemoration04.text = "[saint/com 4]"
-
-cl.syMA.commemoration05.text = "[saint/com 5]"
-
-cl.syMA.commemoration06.text = "[saint/com list]"
-
