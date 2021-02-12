@@ -1,32 +1,24 @@
 A_Resource_Whose_Name = sy.m07.d22_en_US_dedes 
 
 syMA.commemoration01.text = "On July 22, we commemorate Saint Mary Magdalene, the Myrrh-bearer and Equal to the Apostles."
+syMA.commemoration01.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration01.couplet1.verse1 = "Ἀφαῖς ἀΰλοις ἅπτεταί σου, Χριστέ μου, "
+syMA.commemoration01.couplet1.verse2 = "Μή μου, πρὸς ἣν ἔφησας, ἅπτου, Μαρία. "
+syMA.commemoration01.single1 = "Δευτερίῃ Μαρίη μύσεν εἰκάδι Μαγδαληνή."
+syMA.commemoration01.narration.p01 = ""
 
 syMA.commemoration02.text = "On this day we also commemorate Saint Markella, the devout Martyr."
 syMA.commemoration02.couplet1.title = titles_en_US_dedes.Stichoi
 syMA.commemoration02.couplet1.verse1 = ""
 syMA.commemoration02.couplet1.verse2 = ""
-syMA.commemoration02.couplet2.verse1 = "Hearing David who utters the saying,"
-syMA.commemoration02.couplet2.verse2 = "Unrighteousness I have abhorred and hated,"
-syMA.commemoration02.couplet2.verse3 = "And bringing to mind the incestuous union"
-syMA.commemoration02.couplet2.verse4 = "Of Lot and the shameful affair that he suffered,"
-syMA.commemoration02.couplet2.verse5 = "And fleeing from illicit congress with her father,"
-syMA.commemoration02.couplet2.verse6 = "By his bloody sword the maiden was wounded"
-syMA.commemoration02.couplet2.verse7 = "And sustained an unjust death, O Christ my Savior."
+syMA.commemoration02.poem.verse01 = "Hearing David who utters the saying,"
+syMA.commemoration02.poem.verse02 = "Unrighteousness I have abhorred and hated,"
+syMA.commemoration02.poem.verse03 = "And bringing to mind the incestuous union"
+syMA.commemoration02.poem.verse04 = "Of Lot and the shameful affair that he suffered,"
+syMA.commemoration02.poem.verse05 = "And fleeing from illicit congress with her father,"
+syMA.commemoration02.poem.verse06 = "By his bloody sword the maiden was wounded"
+syMA.commemoration02.poem.verse07 = "And sustained an unjust death, O Christ my Savior."
 
 syMA.commemoration02.single1 = "Markella was slain by her sire, a baneful man."
 
 syMA.lastline = "By their holy intercessions, O God, have mercy on us. Amen."
-
-cl.syMA.commemoration01.text = "[saint/com 1]"
-
-cl.syMA.commemoration02.text = "[saint/com 2]"
-
-cl.syMA.commemoration03.text = "[saint/com 3]"
-
-cl.syMA.commemoration04.text = "[saint/com 4]"
-
-cl.syMA.commemoration05.text = "[saint/com 5]"
-
-cl.syMA.commemoration06.text = "[saint/com list]"
-
