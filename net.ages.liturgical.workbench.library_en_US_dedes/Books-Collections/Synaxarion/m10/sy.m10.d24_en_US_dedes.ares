@@ -1,24 +1,30 @@
 A_Resource_Whose_Name = sy.m10.d24_en_US_dedes
 
 syMA.commemoration01.text = "On October 24, we commemorate the holy Great Martyr Arethas and those with him."
+syMA.commemoration01.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration01.couplet1.verse1 = ""
+syMA.commemoration01.couplet1.verse2 = ""
+syMA.commemoration01.single1 = ""
+syMA.commemoration01.narration.p01 = ""
 
 syMA.commemoration02.text = "On this day we commemorate a mother and her infant who saw his mother in the fire and threw himself in the fire and both died."
+syMA.commemoration02.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration02.couplet1.verse1 = ""
+syMA.commemoration02.couplet1.verse2 = ""
 
 syMA.commemoration03.text = "On this day we commemorate the holy martyr Sebastiana."
+syMA.commemoration03.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration03.couplet1.verse1 = ""
+syMA.commemoration03.couplet1.verse2 = ""
+syMA.commemoration03.narration.p01 = ""
+syMA.commemoration03.narration.p02 = ""
+syMA.commemoration03.narration.p03 = ""
 
 syMA.commemoration04.text = "The holy martyrs Mark, Sotirichos and Valentinos died when they were dragged on the ground."
-
-syMA.commemoration05.text = ""
-
-syMA.commemoration06.text = ""
-
-syMA.commemoration07.text = ""
-
-syMA.commemoration08.text = ""
-
-syMA.commemoration09.text = ""
-
-syMA.commemoration10.text = ""
+syMA.commemoration04.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration04.couplet1.verse1 = ""
+syMA.commemoration04.couplet1.verse2 = ""
+syMA.note1 = ""
 
 syMA.lastline = "By the intercessions of Your Saints, O God, have mercy on us. Amen."
 
@@ -33,4 +39,3 @@ cl.syMA.commemoration04.text = "[saint/com 4]"
 cl.syMA.commemoration05.text = "[saint/com 5]"
 
 cl.syMA.commemoration06.text = "[saint/com list]"
-
