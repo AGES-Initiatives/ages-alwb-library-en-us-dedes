@@ -1,8 +1,15 @@
 A_Resource_Whose_Name = sy.m11.d08_en_US_dedes 
 
 syMA.commemoration01.text = "On November 8, we hold the Synaxis in honor of Chief Commanders Michael and Gabriel, and the other holy bodiless and celestial Orders."
-
-syMA.commemoration02.text = "Included in the Synaxis are the Nine Orders: Seraphim, Cherubim, Thrones, Dominions, Powers, Authorities, Principalities, Archangels, and Angels."
+syMA.commemoration01.couplet1.title = titles_en_US_dedes.Stichoi
+syMA.commemoration01.couplet1.verse1 = ""
+syMA.commemoration01.couplet1.verse2 = ""
+syMA.commemoration01.single1 = ""
+syMA.commemoration01.couplet2.title = "For the Synaxis are the Nine Orders: Seraphim, Cherubim, Thrones, Dominions, Powers, Authorities, Principalities, Archangels, and Angels."
+syMA.commemoration01.couplet2.verse1 = ""
+syMA.commemoration01.couplet2.verse2 = ""
+syMA.commemoration01.narration.p01 = ""
+syMA.commemoration01.narration.p02 = ""
 
 syMA.lastline = "By their holy intercessions, O God, have mercy on us. Amen."
 
@@ -17,4 +24,3 @@ cl.syMA.commemoration04.text = "[saint/com 4]"
 cl.syMA.commemoration05.text = "[saint/com 5]"
 
 cl.syMA.commemoration06.text = "[saint/com list]"
-
