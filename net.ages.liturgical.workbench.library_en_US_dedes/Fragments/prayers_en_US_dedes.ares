@@ -238,7 +238,7 @@ pet05 = "For pious and Orthodox Christians, let us pray to the Lord."
 pet06.incipit = "For our Archbishop (Name), the"
 pet06 = "For our Archbishop (Name), the honorable presbyters, the deacons in the service of Christ, and all the clergy and laity, let us pray to the Lord."
 
-pet06a.incipit = "For our" "
+pet06a.incipit = "For our"
 pet06a = "For our" // supplement with client specific rank and name
 
 pet06b.incipit = "the honorable presbyters, the deacons"
@@ -578,7 +578,7 @@ petMonastery22 = "Again we pray for the blessed and ever-memorable founders of t
 petMonastery23.incipit = "Again we pray for our"
 petMonastery23 = "Again we pray for our brethren who serve us, and for all who give us alms, help us, serve us, and have ever served us in this holy Monastery."
 
-petOrdination01a.incipit = "For our " "
+petOrdination01a.incipit = "For our "
 petOrdination01a = "For our " // supplement with client specific rank and name
 petOrdination01b.incipit = ""
 petOrdination01b = ""
@@ -1022,10 +1022,10 @@ exc28a = "For You are the One who blesses and sanctifies all things, O Christ ou
 exc29.incipit = "For You are the sanctification"
 exc29 = "For You are the sanctification of our souls and bodies, and to You we give glory, thanksgiving, and worship, together with Your eternal Father and Your all-holy, good, and life-giving Spirit, now and ever and to the ages of ages."
 
-epi01a.incipit = "The reading is from" "
+epi01a.incipit = "The reading is from"
 epi01a = "The reading is from" // "
 
-epi01b.incipit = "" "
+epi01b.incipit = ""
 epi01b = "" // leave blank in English
 
 epi02.incipit = "Peace be to you."
@@ -1055,7 +1055,7 @@ gos05 = "Peace be to you who proclaim the Gospel."
 otr01a.incipit = "The reading is from "
 otr01a = "The reading is from "
 
-otr01b.incipit = "" "
+otr01b.incipit = ""
 otr01b = "" // leave blank in English
 
 verse_Angels.incipit = "Holy Angels of God, intercede"
