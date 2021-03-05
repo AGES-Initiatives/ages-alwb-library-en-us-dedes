@@ -28,17 +28,17 @@ peVE.Stichera03.incipit = oc.m6.d4_en_US_dedes.ocVE.Aposticha3.incipit
 peVE.Stichera03.text = oc.m6.d4_en_US_dedes.ocVE.Aposticha3.text
 
 peVE.Stichera04.mode = misc_en_US_dedes.Mode8
-peVE.Stichera04.melody = he.a.m8_en_US_dedes.OEnEdemParadeisos.incipit
+peVE.Stichera04.melody = he.a.m8_en_US_dedes.OEnEdemParadeisos.name
 peVE.Stichera04.incipit = tr.d014_en_US_dedes.trVE.Stichera01.incipit
 peVE.Stichera04.text = tr.d014_en_US_dedes.trVE.Stichera01.text
 
 peVE.Stichera05.mode = misc_en_US_dedes.Mode8
-peVE.Stichera05.melody = he.a.m8_en_US_dedes.OEnEdemParadeisos.incipit
+peVE.Stichera05.melody = he.a.m8_en_US_dedes.OEnEdemParadeisos.name
 peVE.Stichera05.incipit = tr.d014_en_US_dedes.trVE.Stichera02.incipit
 peVE.Stichera05.text = tr.d014_en_US_dedes.trVE.Stichera02.text
 
 peVE.Stichera06.mode = misc_en_US_dedes.Mode8
-peVE.Stichera06.melody = he.a.m8_en_US_dedes.OEnEdemParadeisos.incipit
+peVE.Stichera06.melody = he.a.m8_en_US_dedes.OEnEdemParadeisos.name
 peVE.Stichera06.incipit = tr.d014_en_US_dedes.trVE.Stichera03.incipit
 peVE.Stichera06.text = tr.d014_en_US_dedes.trVE.Stichera03.text
 
@@ -64,7 +64,7 @@ peVE.Aposticha2.text = oc.m6.d7_en_US_dedes.ocMA.LaudsGlory.text
 
 peVE.Aposticha3.mode = misc_en_US_dedes.Mode6
 peVE.Aposticha3.melody = ""
-peVE.Aposticha3.incipit = "You planted a garden in"
+peVE.Aposticha3.incipit = "You planted a garden in…"
 peVE.Aposticha3.text = "You planted a garden in Eden, decorated with every kind of plant, and free from any sorrow and care; and You set me in it, as a partaker of divine life, a mixed being, living on earth and a peer of the angels. You did all this so that I might distinguish how much higher this life is from that of all the rest. Therefore, O Savior, give rest to Your servants, in the land of the living, where the righteous dwell."
 
 peVE.AposGlory.mode = misc_en_US_dedes.Mode6
@@ -73,7 +73,7 @@ peVE.AposGlory.incipit = oc.m6.d7_en_US_dedes.ocVE.Aposticha2.incipit
 peVE.AposGlory.text = oc.m6.d7_en_US_dedes.ocVE.Aposticha2.text
 
 peVE.AposBoth.mode = misc_en_US_dedes.Mode6
-peVE.AposBoth.melody = he.a.m6_en_US_dedes.TriimerosAnestis.incipit
+peVE.AposBoth.melody = he.a.m6_en_US_dedes.TriimerosAnestis.name
 peVE.AposBoth.incipit = oc.m6.d7_en_US_dedes.ocVE.AposTheotokion.incipit
 peVE.AposBoth.text = oc.m6.d7_en_US_dedes.ocVE.AposTheotokion.text
 
@@ -91,7 +91,7 @@ peVE.ApolTheotokion.incipit = tr.d014_en_US_dedes.trVE.ApolTheotokion.incipit
 peVE.ApolTheotokion.text = tr.d014_en_US_dedes.trVE.ApolTheotokion.text
 
 peMA.Kathisma11.mode = misc_en_US_dedes.Mode6
-peMA.Kathisma11.melody = he.a.m6_en_US_dedes.AngelikaiDynameis.incipit
+peMA.Kathisma11.melody = he.a.m6_en_US_dedes.AngelikaiDynameis.name
 peMA.Kathisma11.incipit = oc.m6.d3_en_US_dedes.ocMA.Kathisma32.incipit
 peMA.Kathisma11.text = oc.m6.d3_en_US_dedes.ocMA.Kathisma32.text
 
@@ -107,7 +107,7 @@ peMA.Kathisma13.text = oc.m6.d5_en_US_dedes.ocMA.Kathisma32.text
 
 peMA.Kathisma14.mode = misc_en_US_dedes.Mode6
 peMA.Kathisma14.melody = ""
-peMA.Kathisma14.incipit = "We pray for those who"
+peMA.Kathisma14.incipit = "We pray for those who…"
 peMA.Kathisma14.text = "We pray for those who died in true faith and whom You have taken to yourself, that You, as our placable God, place them in the dwellings of the elect and in the land of the living; fill them with Your never-setting light, and grant them Your heavenly joy."
 
 peMA.Kathisma1T.mode = misc_en_US_dedes.Mode6
@@ -143,26 +143,26 @@ peMA.Ode1C1H.text = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.text
 
 peMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C11.mode = misc_en_US_dedes.Mode6
-peMA.Ode1C11.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.incipit
-peMA.Ode1C11.incipit = "You are the Master and"
+peMA.Ode1C11.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+peMA.Ode1C11.incipit = "You are the Master and…"
 peMA.Ode1C11.text = "You are the Master and Maker, the Judge and Lord * of the souls of everyone and of everything on earth, * and the whole wide world is in Your hand. * Grant repose to those You transfered who believe in You."
 
 peMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C12.mode = misc_en_US_dedes.Mode6
-peMA.Ode1C12.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.incipit
-peMA.Ode1C12.incipit = "O Lord, for all the"
-peMA.Ode1C12.text = "O Lord, for all the deceased of the human race, * of whichever age or rank or their stature in this life, * we implore You. And we fervently entreat * on behalf of those You transferred, that You save them all. "
+peMA.Ode1C12.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+peMA.Ode1C12.incipit = "O Lord, for all the…"
+peMA.Ode1C12.text = "O Lord, for all the deceased of the human race, * of whichever age or rank or their stature in this life, * we implore You. And we fervently entreat * on behalf of those You transferred, that You save them all."
 
 peMA.Ode1C13.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C13.mode = misc_en_US_dedes.Mode6
-peMA.Ode1C13.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.incipit
-peMA.Ode1C13.incipit = "With Your immaculate hand You"
+peMA.Ode1C13.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+peMA.Ode1C13.incipit = "With Your immaculate hand You…"
 peMA.Ode1C13.text = "With Your immaculate hand You made me from earth, * O Word; by Your breath of life, You as God gave me a soul. * I implore You now, compassionate Lord, * on behalf of those You took from here, to save them all."
 
 peMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C1T.mode = misc_en_US_dedes.Mode6
-peMA.Ode1C1T.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.incipit
-peMA.Ode1C1T.incipit = "You are the refuge and"
+peMA.Ode1C1T.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
+peMA.Ode1C1T.incipit = "You are the refuge and…"
 peMA.Ode1C1T.text = "You are the refuge and champion of the world, * O all-holy Virgin pure, by your fervent prayers for all. * Intercede for us who run to you, * the impenetrable fortress in our time of need."
 
 peMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
@@ -174,34 +174,34 @@ peMA.Ode3C1H.text = he.h.m6_en_US_dedes.OukEstinAgios.text
 peMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 peMA.Ode3C11.mode = misc_en_US_dedes.Mode6
 peMA.Ode3C11.melody = he.h.m6_en_US_dedes.OukEstinAgios.notmetered
-peMA.Ode3C11.incipit = "O Christ, the one who"
+peMA.Ode3C11.incipit = "O Christ, the one who…"
 peMA.Ode3C11.text = "O Christ, the one who lifts the souls of the faithful to You as in clouds, from the ends of the earth, by the might of Your divine glory, grant rest to Your servants whom You have taken."
 
 peMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 peMA.Ode3C12.mode = misc_en_US_dedes.Mode6
 peMA.Ode3C12.melody = he.h.m6_en_US_dedes.OukEstinAgios.notmetered
-peMA.Ode3C12.incipit = "You alone are the one"
+peMA.Ode3C12.incipit = "You alone are the one…"
 peMA.Ode3C12.text = "You alone are the one who establishes kings and emperors and judges and rulers. So, O Savior, as the God of all, in Your judgment, deliver them from perdition."
 
 peMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 peMA.Ode3C13.mode = misc_en_US_dedes.Mode6
 peMA.Ode3C13.melody = he.h.m6_en_US_dedes.OukEstinAgios.notmetered
-peMA.Ode3C13.incipit = "O Christ, the Make of"
+peMA.Ode3C13.incipit = "O Christ, the Make of…"
 peMA.Ode3C13.text = "O Christ, the Make of all the earth, make worthy of eternal joy and of Your delight all those whom You have taken, including the elderly, girls and boys, and teenagers."
 
 peMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 peMA.Ode3C1T.mode = misc_en_US_dedes.Mode6
 peMA.Ode3C1T.melody = he.h.m6_en_US_dedes.OukEstinAgios.notmetered
-peMA.Ode3C1T.incipit = "O Lady Theotokos, the mighty"
+peMA.Ode3C1T.incipit = "O Lady Theotokos, the mighty…"
 peMA.Ode3C1T.text = "O Lady Theotokos, the mighty hope of the world, do not reject us who always run to you with longing; but rather by your entreaties, rescue from all troubles those who honor you."
 
 peMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
-peMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.incipit
-peMA.Ode3Kathisma1.incipit = "O Creator of all things"
+peMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
+peMA.Ode3Kathisma1.incipit = "O Creator of all things…"
 peMA.Ode3Kathisma1.text = "O Creator of all things by Your command, * we implore You, our God who is placable, * and pray You to grant repose to all Christians who died in faith, * to our relatives, forebears, our parents and grandparents, * siblings, friends, and all people, married, single, both rich and poor, * likewise kings and rulers, men and women monastics. * We pray You for their repose, that You grant them a place of rest, * where the Saints and the Righteous dwell. * Christ, You are our Master and King. On behalf of all Your servants we entreat, * that You grant them forgiveness of all their transgressions and sins."
 
 peMA.Ode3Kathisma2.mode = misc_en_US_dedes.Mode8
-peMA.Ode3Kathisma2.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.incipit
+peMA.Ode3Kathisma2.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 peMA.Ode3Kathisma2.incipit = me.m06.d29_en_US_dedes.meMA.Kathisma2T.incipit
 peMA.Ode3Kathisma2.text = me.m06.d29_en_US_dedes.meMA.Kathisma2T.text
 
@@ -214,25 +214,25 @@ peMA.Ode4C1H.text = he.h.m6_en_US_dedes.ChristosMouDynamis.text
 peMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 peMA.Ode4C11.mode = misc_en_US_dedes.Mode6
 peMA.Ode4C11.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.notmetered
-peMA.Ode4C11.incipit = "O Lord and Shepherd, You"
+peMA.Ode4C11.incipit = "O Lord and Shepherd, You…"
 peMA.Ode4C11.text = "O Lord and Shepherd, You take all believers to green pastures and lead them beside the still waters of eternal rest. O Savior, please do not send any of Your servants away from the gladness that is there."
 
 peMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 peMA.Ode4C12.mode = misc_en_US_dedes.Mode6
 peMA.Ode4C12.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.notmetered
-peMA.Ode4C12.incipit = "O Lord, place the choirs"
+peMA.Ode4C12.incipit = "O Lord, place the choirs…"
 peMA.Ode4C12.text = "O Lord, place the choirs of Your monastics and hierarchs and all Your ministers among the ranks of the Angels. For they dedicated their souls and bodies to You who love humanity."
 
 peMA.Ode4C13.ode = misc_en_US_dedes.Ode4
 peMA.Ode4C13.mode = misc_en_US_dedes.Mode6
 peMA.Ode4C13.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.notmetered
-peMA.Ode4C13.incipit = "As Lord of all, You"
+peMA.Ode4C13.incipit = "As Lord of all, You…"
 peMA.Ode4C13.text = "As Lord of all, You alone have knowledge of the onset of death, the terms of life, and the passing of every mortal. Therefore now take pity on Your servants, O God supremely good."
 
 peMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
 peMA.Ode4C1T.mode = misc_en_US_dedes.Mode6
 peMA.Ode4C1T.melody = he.h.m6_en_US_dedes.ChristosMouDynamis.notmetered
-peMA.Ode4C1T.incipit = "O all-holy Virgin, you gave"
+peMA.Ode4C1T.incipit = "O all-holy Virgin, you gave…"
 peMA.Ode4C1T.text = "O all-holy Virgin, you gave birth to the holy God of the Saints. Implore Him now, with your divine supplications, that those whom He has transferred be placed in the delightful dwellings of the Saints."
 
 peMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
@@ -244,25 +244,25 @@ peMA.Ode5C1H.text = he.h.m6_en_US_dedes.ToTheioFengeiSou.text
 peMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 peMA.Ode5C11.mode = misc_en_US_dedes.Mode6
 peMA.Ode5C11.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.notmetered
-peMA.Ode5C11.incipit = "Behold, the divine choirs of"
+peMA.Ode5C11.incipit = "Behold, the divine choirs of…"
 peMA.Ode5C11.text = "Behold, the divine choirs of Martyrs, the ranks of the Apostles and Prophets, and the hosts of the Righteous, extol You, O Savior, and they entreat You to save all whom You have taken from the world."
 
 peMA.Ode5C12.ode = misc_en_US_dedes.Ode5
 peMA.Ode5C12.mode = misc_en_US_dedes.Mode6
 peMA.Ode5C12.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.notmetered
-peMA.Ode5C12.incipit = "When at the loud sound"
+peMA.Ode5C12.incipit = "When at the loud sound…"
 peMA.Ode5C12.text = "When at the loud sound of Your trumpet the graves of the dead are opened, and the earth shakes and shudders, then place Your servants, whom You have transferred, with the sheep on Your right hand, O Christ."
 
 peMA.Ode5C13.ode = misc_en_US_dedes.Ode5
 peMA.Ode5C13.mode = misc_en_US_dedes.Mode6
 peMA.Ode5C13.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.notmetered
-peMA.Ode5C13.incipit = "We pray You grant repose"
-peMA.Ode5C13.text = "We pray You grant repose to Your believing servants who have been transferred to you, be they men or women, children or elderly, rich or poor, and save them all, as our placable God. "
+peMA.Ode5C13.incipit = "We pray You grant repose…"
+peMA.Ode5C13.text = "We pray You grant repose to Your believing servants who have been transferred to you, be they men or women, children or elderly, rich or poor, and save them all, as our placable God."
 
 peMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
 peMA.Ode5C1T.mode = misc_en_US_dedes.Mode6
 peMA.Ode5C1T.melody = he.h.m6_en_US_dedes.ToTheioFengeiSou.notmetered
-peMA.Ode5C1T.incipit = "All of us, of every"
+peMA.Ode5C1T.incipit = "All of us, of every…"
 peMA.Ode5C1T.text = "All of us, of every race and language, whether still alive or having died believing correctly, have you, immaculate Lady, as our helper. Now we pray that you intercede with the Lord, that in the next life we may attain repose."
 
 peMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
@@ -274,30 +274,30 @@ peMA.Ode6C1H.text = he.h.m6_en_US_dedes.TouViouTinThalassan.text
 peMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 peMA.Ode6C11.mode = misc_en_US_dedes.Mode6
 peMA.Ode6C11.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.notmetered
-peMA.Ode6C11.incipit = "Be merciful, O Master. Be"
+peMA.Ode6C11.incipit = "Be merciful, O Master. Be…"
 peMA.Ode6C11.text = "Be merciful, O Master. Be entreated, O Savior. Demonstrate Your mercy; demonstrate You compassion. Since You are good and You love humanity, save all whom You have transferred to yourself from all the earth."
 
 peMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 peMA.Ode6C12.mode = misc_en_US_dedes.Mode6
 peMA.Ode6C12.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.notmetered
-peMA.Ode6C12.incipit = "O only placable Lord, do"
+peMA.Ode6C12.incipit = "O only placable Lord, do…"
 peMA.Ode6C12.text = "O only placable Lord, do not overlook those who died in a tsunami or flood, or in a river, those who had a sudden death, or whose life ended in the great outdoors, on mountains or in caves."
 
 peMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 peMA.Ode6C13.mode = misc_en_US_dedes.Mode6
 peMA.Ode6C13.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.notmetered
-peMA.Ode6C13.incipit = "O Lord, You see when"
+peMA.Ode6C13.incipit = "O Lord, You see when…"
 peMA.Ode6C13.text = "O Lord, You see when people die unknown on land and sea, and those whose lives end horribly in wars and battles and calamities. Have mercy on them all, O Savior, in Your love for humanity."
 
 peMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 peMA.Ode6C1T.mode = misc_en_US_dedes.Mode6
 peMA.Ode6C1T.melody = he.h.m6_en_US_dedes.TouViouTinThalassan.notmetered
-peMA.Ode6C1T.incipit = "O all-pure Lady, for us"
+peMA.Ode6C1T.incipit = "O all-pure Lady, for us…"
 peMA.Ode6C1T.text = "O all-pure Lady, for us mortals you gave birth to the Lord and Pilot. I pray you to calm the unruly and harsh turbulence cased by my passions; and grant tranquility to my heart."
 
 peMA.Kontakion1.mode = misc_en_US_dedes.Mode8
 peMA.Kontakion1.melody = ""
-peMA.Kontakion1.incipit = "Immortal Savior, let those who"
+peMA.Kontakion1.incipit = "Immortal Savior, let those who…"
 peMA.Kontakion1.text = "Immortal Savior, let those who have departed from us and from things temporary dwell in the dwellings of the elect, and grant them to repose with the righteous. Even if as human beings they sinned on earth, will You the sinless Lord forgive their voluntary and involuntary transgressions, at the intercessions of Your Mother, the Theotokos, so that in unison we may sing on their behalf: Alleluia."
 
 peMA.Oikos1.text = tr.d014_en_US_dedes.trMA.Oikos1.text
@@ -321,26 +321,26 @@ peMA.Ode7C1H.text = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.text
 peMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C11.mode = misc_en_US_dedes.Mode6
 peMA.Ode7C11.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.notmetered
-peMA.Ode7C11.incipit = "Savior, when You come with"
+peMA.Ode7C11.incipit = "Savior, when You come with…"
 peMA.Ode7C11.text = "Savior, when You come with Your Angels, and You sit on Your throne of glory, to judge the earth, fill Your servants with Your divine joy, that they may unceasingly sing aloud: O God of our Fathers, You are blessed!"
 
 peMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C12.mode = misc_en_US_dedes.Mode6
 peMA.Ode7C12.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.notmetered
-peMA.Ode7C12.incipit = "O Savior, have mercy on"
+peMA.Ode7C12.incipit = "O Savior, have mercy on…"
 peMA.Ode7C12.text = "O Savior, have mercy on all who died by being ripped apart by wild animals, those whom fish dismembered, those buried by earthquakes, or who fell into pits or over cliffs; and deliver them from the threat of hell, O compassionate Lord."
 
 peMA.Ode7C13.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C13.mode = misc_en_US_dedes.Mode6
 peMA.Ode7C13.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.notmetered
-peMA.Ode7C13.incipit = "Pity those who were killed"
+peMA.Ode7C13.incipit = "Pity those who were killed…"
 peMA.Ode7C13.text = "Pity those who were killed by swords, dagger, fire, torture, or stoning, by robbers, or from famine or plague; and save them and grant them Your communion and joy, that they may reverently extol You, the God of our Fathers."
 
 peMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
 peMA.Ode7C1T.mode = misc_en_US_dedes.Mode6
 peMA.Ode7C1T.melody = he.h.m6_en_US_dedes.DrosovolonMenTinKaminon.notmetered
-peMA.Ode7C1T.incipit = "O pure Mother of God,"
-peMA.Ode7C1T.text = "O pure Mother of God, only you are a bridge for the world, transporting human beings to God. By your intercessions, save from all necessity and corruption, those who ended their life with hope and love for you. "
+peMA.Ode7C1T.incipit = "O pure Mother of God…"
+peMA.Ode7C1T.text = "O pure Mother of God, only you are a bridge for the world, transporting human beings to God. By your intercessions, save from all necessity and corruption, those who ended their life with hope and love for you."
 
 peMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
 peMA.Ode8C1H.mode = misc_en_US_dedes.Mode6
@@ -351,25 +351,25 @@ peMA.Ode8C1H.text = he.h.m6_en_US_dedes.EkstithiFrittonOurane.text
 peMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 peMA.Ode8C11.mode = misc_en_US_dedes.Mode6
 peMA.Ode8C11.melody = he.h.m6_en_US_dedes.EkstithiFrittonOurane.notmetered
-peMA.Ode8C11.incipit = "O Lord and Savior, our"
+peMA.Ode8C11.incipit = "O Lord and Savior, our…"
 peMA.Ode8C11.text = "O Lord and Savior, our only merciful God, grant repose to all people, of every rank and class, whom You have transported, Your faithful emperor and kings, princes and rulers and judges of the nations on the earth, governors and protectors of peoples and races, so that we may extol You, unto all the ages."
 
 peMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 peMA.Ode8C12.mode = misc_en_US_dedes.Mode6
 peMA.Ode8C12.melody = he.h.m6_en_US_dedes.EkstithiFrittonOurane.notmetered
-peMA.Ode8C12.incipit = "O Lord who love humanity,"
+peMA.Ode8C12.incipit = "O Lord who love humanity…"
 peMA.Ode8C12.text = "O Lord who love humanity, rescue from the frightful fire the servants of Your holy Church; and save the orders of monastics, the ranks of the clergy, and the choirs of godly ministers. Count them all worthy of the glory of heaven, so that we may extol You, unto all the ages."
 
 peMA.Ode8C13.ode = misc_en_US_dedes.Ode8
 peMA.Ode8C13.mode = misc_en_US_dedes.Mode6
 peMA.Ode8C13.melody = he.h.m6_en_US_dedes.EkstithiFrittonOurane.notmetered
-peMA.Ode8C13.incipit = "Save, O Master Christ, save,"
+peMA.Ode8C13.incipit = "Save, O Master Christ, save…"
 peMA.Ode8C13.text = "Save, O Master Christ, save, have mercy, and grant repose to the souls of Your people who, in every place and land, conducted their lives faithfully with trembling; and rescue them from hellfire and bitter torments, so that we may extol You, unto all the ages."
 
 peMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
 peMA.Ode8C1T.mode = misc_en_US_dedes.Mode6
 peMA.Ode8C1T.melody = he.h.m6_en_US_dedes.EkstithiFrittonOurane.notmetered
-peMA.Ode8C1T.incipit = "O immaculate Virgin, only you"
+peMA.Ode8C1T.incipit = "O immaculate Virgin, only you…"
 peMA.Ode8C1T.text = "O immaculate Virgin, only you truly reversed the curse on Eve, and you became the source of life to those on earth. Therefore, by your intercessions, make worthy of eternal life all who have departed from temporal life, so that we may extol You, unto all the ages."
 
 peMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
@@ -381,55 +381,55 @@ peMA.Ode9C1H.text = he.h.m6_en_US_dedes.AporeiPasaGlossa.text
 peMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 peMA.Ode9C11.mode = misc_en_US_dedes.Mode6
 peMA.Ode9C11.melody = he.h.m6_en_US_dedes.AporeiPasaGlossa.notmetered
-peMA.Ode9C11.incipit = "O merciful Lord, now the"
+peMA.Ode9C11.incipit = "O merciful Lord, now the…"
 peMA.Ode9C11.text = "O merciful Lord, now the choirs of Angels implore You, and the Cherubim and divine Seraphim entreat You, and the Powers, the Thrones, Principalities, and Hosts, Archangels and Dominions all pray to You, O mighty God, that You be merciful to all the souls that You have translated."
 
 peMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 peMA.Ode9C12.mode = misc_en_US_dedes.Mode6
 peMA.Ode9C12.melody = he.h.m6_en_US_dedes.AporeiPasaGlossa.notmetered
-peMA.Ode9C12.incipit = "Behold, the Prophets entreat You,"
+peMA.Ode9C12.incipit = "Behold, the Prophets entreat You…"
 peMA.Ode9C12.text = "Behold, the Prophets entreat You, the Apostles implore You, and the Patriarchs, the Martyrs and the Righteous all cry out in supplication: \"Save the souls of all Your pious servants who have died on earth, O Lord who loves humanity.\""
 
 peMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 peMA.Ode9C13.mode = misc_en_US_dedes.Mode6
 peMA.Ode9C13.melody = he.h.m6_en_US_dedes.AporeiPasaGlossa.notmetered
-peMA.Ode9C13.incipit = "You know everything, You see,"
+peMA.Ode9C13.incipit = "You know everything, You see…"
 peMA.Ode9C13.text = "You know everything, You see, and You observe, and You know all people and the span of each person's life. Give them all the forgiveness of their sins, and as the only compassionate God, grant the beauty of Paradise to all Your faithful servants, whom You have chosen."
 
 peMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 peMA.Ode9C1T.mode = misc_en_US_dedes.Mode6
 peMA.Ode9C1T.melody = he.h.m6_en_US_dedes.AporeiPasaGlossa.notmetered
-peMA.Ode9C1T.incipit = "Most holy Virgin and Lady"
+peMA.Ode9C1T.incipit = "Most holy Virgin and Lady…"
 peMA.Ode9C1T.text = "Most holy Virgin and Lady of the world, you are the shelter of all, both the living and the dead; and you are the calmness, the glory, the delight and the relief of those who have obtained you as their defender, helper, and deliverer, O good one. Therefore, save them all, by your prayers."
 
 peMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
-peMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.incipit
-peMA.Exaposteilarion1.incipit = "As we observe this memorial"
+peMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
+peMA.Exaposteilarion1.incipit = "As we observe this memorial…"
 peMA.Exaposteilarion1.text = "As we observe this memorial * of all who have reposed in Christ, * let us the faithful also * remember our own final day, * and let us always entreat Christ * for ourselves and for them as well."
 
 peMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
-peMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.incipit
+peMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
 peMA.ExapTheotokion.incipit = da.d7_en_US_dedes.daMA.ExapTheotokion1.incipit
 peMA.ExapTheotokion.text = da.d7_en_US_dedes.daMA.ExapTheotokion1.text
 
 peMA.Lauds1.mode = misc_en_US_dedes.Mode6
-peMA.Lauds1.melody = he.a.m6_en_US_dedes.IApegnosmeni.incipit
-peMA.Lauds1.incipit = "The finality of a person's"
+peMA.Lauds1.melody = he.a.m6_en_US_dedes.IApegnosmeni.name
+peMA.Lauds1.incipit = "The finality of a person's…"
 peMA.Lauds1.text = "The finality of a person's death is awful; * and the Master's judgment to come is also dreadful. * For in Hell is prepared the unquenchable fire, * there is the sleepless worm that tortures, * and the gnashing of teeth, and don't forget the outer darkness, the everlasting sentence. * Therefore let us cry out to the Savior: * \"To those You chose from what is temporal grant repose, * because of Your great mercy.\""
 
 peMA.Lauds2.mode = misc_en_US_dedes.Mode6
-peMA.Lauds2.melody = he.a.m6_en_US_dedes.IApegnosmeni.incipit
-peMA.Lauds2.incipit = "All who are engrossed in"
+peMA.Lauds2.melody = he.a.m6_en_US_dedes.IApegnosmeni.name
+peMA.Lauds2.incipit = "All who are engrossed in…"
 peMA.Lauds2.text = "All who are engrossed in mundane existence, * come and be amazed as we look within the caskets. * Behold, the illusion of the world and its deception. * Where is the beauty of the body, * and the glory of wealth, where is the pride in one's position? Truly all this is useless. * Therefore let us cry out to the Savior: * \"To those You chose from what is temporal grant repose, * because of Your great mercy.\""
 
 peMA.Lauds3.mode = misc_en_US_dedes.Mode6
-peMA.Lauds3.melody = he.a.m6_en_US_dedes.IApegnosmeni.incipit
-peMA.Lauds3.incipit = "Once upon a throne, he"
+peMA.Lauds3.melody = he.a.m6_en_US_dedes.IApegnosmeni.name
+peMA.Lauds3.incipit = "Once upon a throne, he…"
 peMA.Lauds3.text = "Once upon a throne, he is in the grave now. * Once in royal purple, he is decaying. * No longer upon a throne, but in a tomb now he is lying. * See how imperial authority has left him. * See how every person's life passes like a dream and is finished. * Therefore let us cry out to the Savior: * \"To those You chose from what is temporal grant repose, * because of Your great mercy.\""
 
 peMA.Lauds4.mode = misc_en_US_dedes.Mode6
-peMA.Lauds4.melody = he.a.m6_en_US_dedes.IApegnosmeni.incipit
-peMA.Lauds4.incipit = "Savior, we entreat You for"
+peMA.Lauds4.melody = he.a.m6_en_US_dedes.IApegnosmeni.name
+peMA.Lauds4.incipit = "Savior, we entreat You for…"
 peMA.Lauds4.text = "Savior, we entreat You for every person * who has died in whichever way and passed on * from this life in hopes of everlasting life, O Master, * people of every race and station, * of every age and stature, both men and women, youths and children, * and even newborn infants. * In Your love for humanity, place them in the bosom of Abraham, in a place of rest, * because of Your great mercy."
 
 peMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
@@ -443,7 +443,7 @@ peMA.LaudsBoth.incipit = oc.m6.d7_en_US_dedes.ocMA.LaudsTheotokion.incipit
 peMA.LaudsBoth.text = oc.m6.d7_en_US_dedes.ocMA.LaudsTheotokion.text
 
 peMA.Aposticha1.mode = misc_en_US_dedes.Mode6
-peMA.Aposticha1.melody = he.a.m6_en_US_dedes.OlinApothemenoi.incipit
+peMA.Aposticha1.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
 peMA.Aposticha1.incipit = oc.m6.d7_en_US_dedes.ocMA.Aposticha1.incipit
 peMA.Aposticha1.text = oc.m6.d7_en_US_dedes.ocMA.Aposticha1.text
 
@@ -463,7 +463,7 @@ peMA.AposGlory.incipit = oc.m6.d7_en_US_dedes.ocVE.Aposticha3.incipit
 peMA.AposGlory.text = oc.m6.d7_en_US_dedes.ocVE.Aposticha3.text
 
 peMA.AposTheotokion.mode = misc_en_US_dedes.Mode6
-peMA.AposTheotokion.melody = he.a.m6_en_US_dedes.OlinApothemenoi.incipit
+peMA.AposTheotokion.melody = he.a.m6_en_US_dedes.OlinApothemenoi.name
 peMA.AposTheotokion.incipit = oc.m6.d7_en_US_dedes.ocMA.AposTheotokion.incipit
 peMA.AposTheotokion.text = oc.m6.d7_en_US_dedes.ocMA.AposTheotokion.text
 

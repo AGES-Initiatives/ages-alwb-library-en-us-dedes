@@ -20,32 +20,32 @@ meHO.note2 = ""
 meDA.dismissal = dismissals_en_US_dedes.dis00.transfiguration
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
-meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
-meVE.Stichera01.incipit = "O courageous Martyrs, you did"
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera01.incipit = "O courageous Martyrs, you did…"
 meVE.Stichera01.text = "O courageous Martyrs, you did not recoil in fear before * burning fire or implements * of pain, or irrational anger of the one who * mindlessly condemned you. Neither did lions nor the heat * of boiling cauldrons, nor yet dismemberment * cause you to be at all afraid. The bitter death sentence famously * promised you immortality, * sending you to immortal God."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
-meVE.Stichera02.incipit = "O courageous Martyrs, you received"
+meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera02.incipit = "O courageous Martyrs, you received…"
 meVE.Stichera02.text = "O courageous Martyrs, you received the blessed demise and end, * which in all ways is venerable, * and for which the worthy long. And you have been granted * the eternal hopes. And to us you now pour out the streams * of cures and miracles, and you take away * the fever of the passions of the souls and bodies of us who keep * this your feast with solemnity * every year, O all-lauded Saints."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
-meVE.Stichera03.incipit = "Glorious St. Photius and the"
+meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera03.incipit = "Glorious St. Photius and the…"
 meVE.Stichera03.text = "Glorious St. Photius and the godly-minded Anicetus, * those two excellent Martyr Saints, * were filled with the Trinity's brightness and resplendence, * and they were adorned with the manly beauty of their scars; * and now with Angels they ever celebrate. * They give illumination, divine grace and mercy to all who keep * this most glorious, sacred feast * of their contest with faith and love."
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode4
-meVE.Stichera04.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
+meVE.Stichera04.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera04.incipit = me.m01.d21_en_US_dedes.meVE.Stichera01.incipit
 meVE.Stichera04.text = me.m01.d21_en_US_dedes.meVE.Stichera01.text
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode4
-meVE.Stichera05.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
+meVE.Stichera05.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera05.incipit = me.m01.d21_en_US_dedes.meVE.Stichera02.incipit
 meVE.Stichera05.text = me.m01.d21_en_US_dedes.meVE.Stichera02.text
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode4
-meVE.Stichera06.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
+meVE.Stichera06.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.Stichera06.incipit = me.m01.d21_en_US_dedes.meVE.Stichera03.incipit
 meVE.Stichera06.text = me.m01.d21_en_US_dedes.meVE.Stichera03.text
 
@@ -60,18 +60,18 @@ meVE.SticBoth.incipit = me.m08.d06_en_US_dedes.meSV.SticGlory.incipit
 meVE.SticBoth.text = me.m08.d06_en_US_dedes.meSV.SticGlory.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
-meVE.Aposticha1.incipit = "Eagerly let us scale *"
+meVE.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meVE.Aposticha1.incipit = "Eagerly let us scale *…"
 meVE.Aposticha1.text = "Eagerly let us scale * Mt. Tabor in the spirit * to see the holy glory * of Christ our Lord and Savior, and worship Him as King of all."
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
-meVE.Aposticha2.incipit = "Savior, when You appeared *"
+meVE.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meVE.Aposticha2.incipit = "Savior, when You appeared *…"
 meVE.Aposticha2.text = "Savior, when You appeared * together with Elijah * and Moses and Your chosen * Disciples on Mt. Tabor, You shone forth brighter than the sun."
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode2
-meVE.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
-meVE.Aposticha3.incipit = "Hearing the Father's voice *"
+meVE.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meVE.Aposticha3.incipit = "Hearing the Father's voice *…"
 meVE.Aposticha3.text = "Hearing the Father's voice * corroborate Your glory, * O Son of God and Savior, * Your three Disciples fell on their faces and were much afraid."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
@@ -86,23 +86,23 @@ meVE.AposBoth.text = me.m08.d07_en_US_dedes.meVE.AposGlory.text
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
-meVE.Apolytikion1.melody = he.a.m3_en_US_dedes.TheiasPisteos.incipit
-meVE.Apolytikion1.incipit = "You made brighter still your"
+meVE.Apolytikion1.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
+meVE.Apolytikion1.incipit = "You made brighter still your…"
 meVE.Apolytikion1.text = "You made brighter still your ties of kinship, * holy Martyrs, by your sacred contests * and the unanimity of your faith in God, * divinely blessed, invincible Anicetus, * and holy Photius, servant of Christ the Light. * We who honor your divine martyrdom entreat you now * to pray for the forgiveness of all our sins."
 
 meVE.Apolytikion2.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_dedes.Mode3
-meVE.Apolytikion2.melody = he.a.m3_en_US_dedes.TinOraiotita.incipit
-meVE.Apolytikion2.incipit = ""
+meVE.Apolytikion2.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
-meMA.Kathisma11.melody = he.a.m4_en_US_dedes.KateplagiIosif.incipit
+meMA.Kathisma11.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
 meMA.Kathisma11.incipit = me.m08.d06_en_US_dedes.meMA.Kathisma11.incipit
 meMA.Kathisma11.text = me.m08.d06_en_US_dedes.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
-meMA.Kathisma21.melody = he.a.m4_en_US_dedes.KateplagiIosif.incipit
+meMA.Kathisma21.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
 meMA.Kathisma21.incipit = me.m08.d08_en_US_dedes.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m08.d08_en_US_dedes.meMA.Kathisma21.text
 
@@ -116,26 +116,26 @@ meMA.C1.verse = ""
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C11.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.incipit
-meMA.Ode1C11.incipit = ""
+meMA.Ode1C11.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
+meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
 
 meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C12.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.incipit
-meMA.Ode1C12.incipit = ""
+meMA.Ode1C12.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
+meMA.Ode1C12.incipit = "…"
 meMA.Ode1C12.text = ""
 
 meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C13.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.incipit
-meMA.Ode1C13.incipit = ""
+meMA.Ode1C13.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
+meMA.Ode1C13.incipit = "…"
 meMA.Ode1C13.text = ""
 
 meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.incipit
-meMA.Ode1C1T.incipit = ""
+meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
+meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
 
 meMA.C2.title = ""
@@ -143,74 +143,74 @@ meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C21.melody = he.h.m8_en_US_dedes.AsomenToKyrio.incipit
-meMA.Ode1C21.incipit = ""
+meMA.Ode1C21.melody = he.h.m8_en_US_dedes.AsomenToKyrio.name
+meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
 
 meMA.Ode1C22.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C22.melody = he.h.m8_en_US_dedes.AsomenToKyrio.incipit
-meMA.Ode1C22.incipit = ""
+meMA.Ode1C22.melody = he.h.m8_en_US_dedes.AsomenToKyrio.name
+meMA.Ode1C22.incipit = "…"
 meMA.Ode1C22.text = ""
 
 meMA.Ode1C23.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C23.melody = he.h.m8_en_US_dedes.AsomenToKyrio.incipit
-meMA.Ode1C23.incipit = ""
+meMA.Ode1C23.melody = he.h.m8_en_US_dedes.AsomenToKyrio.name
+meMA.Ode1C23.incipit = "…"
 meMA.Ode1C23.text = ""
 
 meMA.Ode1C2T.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode1C2T.melody = he.h.m8_en_US_dedes.AsomenToKyrio.incipit
-meMA.Ode1C2T.incipit = ""
+meMA.Ode1C2T.melody = he.h.m8_en_US_dedes.AsomenToKyrio.name
+meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode3C11.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.incipit
-meMA.Ode3C11.incipit = ""
+meMA.Ode3C11.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.name
+meMA.Ode3C11.incipit = "…"
 meMA.Ode3C11.text = ""
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode3C12.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.incipit
-meMA.Ode3C12.incipit = ""
+meMA.Ode3C12.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.name
+meMA.Ode3C12.incipit = "…"
 meMA.Ode3C12.text = ""
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode3C13.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.incipit
-meMA.Ode3C13.incipit = ""
+meMA.Ode3C13.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.name
+meMA.Ode3C13.incipit = "…"
 meMA.Ode3C13.text = ""
 
 meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode3C1T.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.incipit
-meMA.Ode3C1T.incipit = ""
+meMA.Ode3C1T.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.name
+meMA.Ode3C1T.incipit = "…"
 meMA.Ode3C1T.text = ""
 
 meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C21.melody = he.h.m8_en_US_dedes.SyEiToStereoma.incipit
-meMA.Ode3C21.incipit = ""
+meMA.Ode3C21.melody = he.h.m8_en_US_dedes.SyEiToStereoma.name
+meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
 
 meMA.Ode3C22.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C22.melody = he.h.m8_en_US_dedes.SyEiToStereoma.incipit
-meMA.Ode3C22.incipit = ""
+meMA.Ode3C22.melody = he.h.m8_en_US_dedes.SyEiToStereoma.name
+meMA.Ode3C22.incipit = "…"
 meMA.Ode3C22.text = ""
 
 meMA.Ode3C23.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C23.melody = he.h.m8_en_US_dedes.SyEiToStereoma.incipit
-meMA.Ode3C23.incipit = ""
+meMA.Ode3C23.melody = he.h.m8_en_US_dedes.SyEiToStereoma.name
+meMA.Ode3C23.incipit = "…"
 meMA.Ode3C23.text = ""
 
 meMA.Ode3C2T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode3C2T.melody = he.h.m8_en_US_dedes.SyEiToStereoma.incipit
-meMA.Ode3C2T.incipit = ""
+meMA.Ode3C2T.melody = he.h.m8_en_US_dedes.SyEiToStereoma.name
+meMA.Ode3C2T.incipit = "…"
 meMA.Ode3C2T.text = ""
 
 meMA.Ode3H.ode = misc_en_US_dedes.Ode3
@@ -221,180 +221,180 @@ meMA.Ode3H.text = he.h.m8_en_US_dedes.SyEiToStereoma.text
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode6
 meMA.Kontakion1.melody = he.a.m6_en_US_dedes.TinYperImon.notmetered
-meMA.Kontakion1.incipit = "When the triple-shining light took"
+meMA.Kontakion1.incipit = "When the triple-shining light took…"
 meMA.Kontakion1.text = "When the triple-shining light took up residence in your soul, you became a chosen vessel, O all-blessed Saint. For you speak lucidly to all the world about things divine, and clarify the meaning of difficult concepts. O blessed Maximus, you openly declare to all, that the Trinity is super-essential and unoriginate."
 
 meMA.Oikos1.text = "Today, in his memory, marvelous St. Maximus is exhibited to the world as the pedestal of of priests, the foundation of doctrines, the trumpet of wisdom, the pinnacle of martyrs, and the support of the faithful. Everyone, arise to his radiance, and extol his candor and zeal, which he demonstrated for the Orthodox Faith. On its behalf, he mightily confronted the wolves, as a shepherd protects his sheep. He cast them down, and he was awarded the crowns of victory. He openly declare to all, that the Trinity is super-essential and unoriginate."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
-meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.incipit
-meMA.Ode3Kathisma1.incipit = ""
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = misc_en_US_dedes.Mode3
-meMA.Ode3Kathisma2.melody = he.a.m3_en_US_dedes.TinOraiotita.incipit
-meMA.Ode3Kathisma2.incipit = ""
+meMA.Ode3Kathisma2.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = misc_en_US_dedes.Mode3
-meMA.Ode3Kathisma3.melody = he.a.m3_en_US_dedes.TinOraiotita.incipit
+meMA.Ode3Kathisma3.melody = he.a.m3_en_US_dedes.TinOraiotita.name
 meMA.Ode3Kathisma3.incipit = me.m08.d08_en_US_dedes.meMA.Ode3Kathisma2.incipit
 meMA.Ode3Kathisma3.text = me.m08.d08_en_US_dedes.meMA.Ode3Kathisma2.text
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode4C11.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.incipit
-meMA.Ode4C11.incipit = ""
+meMA.Ode4C11.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.name
+meMA.Ode4C11.incipit = "…"
 meMA.Ode4C11.text = ""
 
 meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode4C12.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.incipit
-meMA.Ode4C12.incipit = ""
+meMA.Ode4C12.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.name
+meMA.Ode4C12.incipit = "…"
 meMA.Ode4C12.text = ""
 
 meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode4C13.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.incipit
-meMA.Ode4C13.incipit = ""
+meMA.Ode4C13.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.name
+meMA.Ode4C13.incipit = "…"
 meMA.Ode4C13.text = ""
 
 meMA.Ode4C14.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C14.mode = misc_en_US_dedes.Mode4
-meMA.Ode4C14.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.incipit
-meMA.Ode4C14.incipit = ""
+meMA.Ode4C14.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.name
+meMA.Ode4C14.incipit = "…"
 meMA.Ode4C14.text = ""
 
 meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode4C1T.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.incipit
-meMA.Ode4C1T.incipit = ""
+meMA.Ode4C1T.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.name
+meMA.Ode4C1T.incipit = "…"
 meMA.Ode4C1T.text = ""
 
 meMA.Ode4C21.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C21.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
-meMA.Ode4C21.incipit = ""
+meMA.Ode4C21.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
 
 meMA.Ode4C22.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C22.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
-meMA.Ode4C22.incipit = ""
+meMA.Ode4C22.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+meMA.Ode4C22.incipit = "…"
 meMA.Ode4C22.text = ""
 
 meMA.Ode4C23.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C23.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
-meMA.Ode4C23.incipit = ""
+meMA.Ode4C23.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+meMA.Ode4C23.incipit = "…"
 meMA.Ode4C23.text = ""
 
 meMA.Ode4C24.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C24.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C24.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
-meMA.Ode4C24.incipit = ""
+meMA.Ode4C24.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+meMA.Ode4C24.incipit = "…"
 meMA.Ode4C24.text = ""
 
 meMA.Ode4C2T.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode4C2T.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
-meMA.Ode4C2T.incipit = ""
+meMA.Ode4C2T.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+meMA.Ode4C2T.incipit = "…"
 meMA.Ode4C2T.text = ""
 
 meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode5C11.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.incipit
-meMA.Ode5C11.incipit = ""
+meMA.Ode5C11.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.name
+meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = ""
 
 meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode5C12.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.incipit
-meMA.Ode5C12.incipit = ""
+meMA.Ode5C12.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.name
+meMA.Ode5C12.incipit = "…"
 meMA.Ode5C12.text = ""
 
 meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode5C13.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.incipit
-meMA.Ode5C13.incipit = ""
+meMA.Ode5C13.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.name
+meMA.Ode5C13.incipit = "…"
 meMA.Ode5C13.text = ""
 
 meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode5C1T.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.incipit
-meMA.Ode5C1T.incipit = ""
+meMA.Ode5C1T.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.name
+meMA.Ode5C1T.incipit = "…"
 meMA.Ode5C1T.text = ""
 
 meMA.Ode5C21.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C21.melody = he.h.m8_en_US_dedes.OrthrizontesVoomenSoi.incipit
-meMA.Ode5C21.incipit = ""
+meMA.Ode5C21.melody = he.h.m8_en_US_dedes.OrthrizontesVoomenSoi.name
+meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
 
 meMA.Ode5C22.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C22.melody = he.h.m8_en_US_dedes.OrthrizontesVoomenSoi.incipit
-meMA.Ode5C22.incipit = ""
+meMA.Ode5C22.melody = he.h.m8_en_US_dedes.OrthrizontesVoomenSoi.name
+meMA.Ode5C22.incipit = "…"
 meMA.Ode5C22.text = ""
 
 meMA.Ode5C23.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C23.melody = he.h.m8_en_US_dedes.OrthrizontesVoomenSoi.incipit
-meMA.Ode5C23.incipit = ""
+meMA.Ode5C23.melody = he.h.m8_en_US_dedes.OrthrizontesVoomenSoi.name
+meMA.Ode5C23.incipit = "…"
 meMA.Ode5C23.text = ""
 
 meMA.Ode5C2T.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode5C2T.melody = he.h.m8_en_US_dedes.OrthrizontesVoomenSoi.incipit
-meMA.Ode5C2T.incipit = ""
+meMA.Ode5C2T.melody = he.h.m8_en_US_dedes.OrthrizontesVoomenSoi.name
+meMA.Ode5C2T.incipit = "…"
 meMA.Ode5C2T.text = ""
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C11.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.incipit
-meMA.Ode6C11.incipit = ""
+meMA.Ode6C11.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
+meMA.Ode6C11.incipit = "…"
 meMA.Ode6C11.text = ""
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C12.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.incipit
-meMA.Ode6C12.incipit = ""
+meMA.Ode6C12.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
+meMA.Ode6C12.incipit = "…"
 meMA.Ode6C12.text = ""
 
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C13.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.incipit
-meMA.Ode6C13.incipit = ""
+meMA.Ode6C13.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
+meMA.Ode6C13.incipit = "…"
 meMA.Ode6C13.text = ""
 
 meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode6C1T.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.incipit
-meMA.Ode6C1T.incipit = ""
+meMA.Ode6C1T.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
+meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = ""
 
 meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C21.melody = he.h.m8_en_US_dedes.ChitonaMoiParaschou.incipit
-meMA.Ode6C21.incipit = ""
+meMA.Ode6C21.melody = he.h.m8_en_US_dedes.ChitonaMoiParaschou.name
+meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
 
 meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C22.melody = he.h.m8_en_US_dedes.ChitonaMoiParaschou.incipit
-meMA.Ode6C22.incipit = ""
+meMA.Ode6C22.melody = he.h.m8_en_US_dedes.ChitonaMoiParaschou.name
+meMA.Ode6C22.incipit = "…"
 meMA.Ode6C22.text = ""
 
 meMA.Ode6C23.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C23.melody = he.h.m8_en_US_dedes.ChitonaMoiParaschou.incipit
-meMA.Ode6C23.incipit = ""
+meMA.Ode6C23.melody = he.h.m8_en_US_dedes.ChitonaMoiParaschou.name
+meMA.Ode6C23.incipit = "…"
 meMA.Ode6C23.text = ""
 
 meMA.Ode6C2T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode6C2T.melody = he.h.m8_en_US_dedes.ChitonaMoiParaschou.incipit
-meMA.Ode6C2T.incipit = ""
+meMA.Ode6C2T.melody = he.h.m8_en_US_dedes.ChitonaMoiParaschou.name
+meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = misc_en_US_dedes.Ode6
@@ -405,111 +405,111 @@ meMA.Ode6H.text = he.h.m8_en_US_dedes.ChitonaMoiParaschou.text
 
 meMA.Kontakion2.mode = misc_en_US_dedes.Mode2
 meMA.Kontakion2.melody = he.a.m2_en_US_dedes.TaAnoZiton.notmetered
-meMA.Kontakion2.incipit = "Come, all believers and fans"
+meMA.Kontakion2.incipit = "Come, all believers and fans…"
 meMA.Kontakion2.text = "Come, all believers and fans of Martyrs, let us extol those soldiers of God, that glorious duo of Christ. They were mighty heralds of the true Faith and genuine lovers of God. So let us crown them with hymns and songs."
 
 meMA.Oikos2.text = "O Christ my Savior, who alone love humanity, shameful and disgusting deeds and thoughts have reduced me earth and ashes, rot and worm. And so, I implore You and entreat You, to employ your compassion, as though a sponge, and wash me clean of the filth I have accumulated in deeds and words. Illumine the darkness of my mind with the rays of Your grace, so that I may worthily extol the resistance of Your Martyrs, and crown them with hymns and songs."
 
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode7C11.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.incipit
-meMA.Ode7C11.incipit = ""
+meMA.Ode7C11.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.name
+meMA.Ode7C11.incipit = "…"
 meMA.Ode7C11.text = ""
 
 meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode7C12.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.incipit
-meMA.Ode7C12.incipit = ""
+meMA.Ode7C12.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.name
+meMA.Ode7C12.incipit = "…"
 meMA.Ode7C12.text = ""
 
 meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode7C13.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.incipit
-meMA.Ode7C13.incipit = ""
+meMA.Ode7C13.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.name
+meMA.Ode7C13.incipit = "…"
 meMA.Ode7C13.text = ""
 
 meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode7C1T.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.incipit
-meMA.Ode7C1T.incipit = ""
+meMA.Ode7C1T.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.name
+meMA.Ode7C1T.incipit = "…"
 meMA.Ode7C1T.text = ""
 
 meMA.Ode7C21.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C21.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
-meMA.Ode7C21.incipit = ""
+meMA.Ode7C21.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
 
 meMA.Ode7C22.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C22.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
-meMA.Ode7C22.incipit = ""
+meMA.Ode7C22.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+meMA.Ode7C22.incipit = "…"
 meMA.Ode7C22.text = ""
 
 meMA.Ode7C23.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C23.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
-meMA.Ode7C23.incipit = ""
+meMA.Ode7C23.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+meMA.Ode7C23.incipit = "…"
 meMA.Ode7C23.text = ""
 
 meMA.Ode7C24.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C24.mode = misc_en_US_dedes.Mode8
-meMA.Ode7C24.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.incipit
-meMA.Ode7C24.incipit = ""
+meMA.Ode7C24.melody = he.h.m8_en_US_dedes.OiEkTisIoudaias.name
+meMA.Ode7C24.incipit = "…"
 meMA.Ode7C24.text = ""
 
 meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode8C11.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.incipit
-meMA.Ode8C11.incipit = ""
+meMA.Ode8C11.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.name
+meMA.Ode8C11.incipit = "…"
 meMA.Ode8C11.text = ""
 
 meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode8C12.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.incipit
-meMA.Ode8C12.incipit = ""
+meMA.Ode8C12.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.name
+meMA.Ode8C12.incipit = "…"
 meMA.Ode8C12.text = ""
 
 meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode8C13.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.incipit
-meMA.Ode8C13.incipit = ""
+meMA.Ode8C13.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.name
+meMA.Ode8C13.incipit = "…"
 meMA.Ode8C13.text = ""
 
 meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode8C1T.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.incipit
-meMA.Ode8C1T.incipit = ""
+meMA.Ode8C1T.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.name
+meMA.Ode8C1T.incipit = "…"
 meMA.Ode8C1T.text = ""
 
 meMA.Ode8C21.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C21.melody = he.h.m8_en_US_dedes.NikitaiTyrannou.incipit
-meMA.Ode8C21.incipit = ""
+meMA.Ode8C21.melody = he.h.m8_en_US_dedes.NikitaiTyrannou.name
+meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
 
 meMA.Ode8C22.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C22.melody = he.h.m8_en_US_dedes.NikitaiTyrannou.incipit
-meMA.Ode8C22.incipit = ""
+meMA.Ode8C22.melody = he.h.m8_en_US_dedes.NikitaiTyrannou.name
+meMA.Ode8C22.incipit = "…"
 meMA.Ode8C22.text = ""
 
 meMA.Ode8C23.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C23.melody = he.h.m8_en_US_dedes.NikitaiTyrannou.incipit
-meMA.Ode8C23.incipit = ""
+meMA.Ode8C23.melody = he.h.m8_en_US_dedes.NikitaiTyrannou.name
+meMA.Ode8C23.incipit = "…"
 meMA.Ode8C23.text = ""
 
 meMA.Ode8C24.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C24.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C24.melody = he.h.m8_en_US_dedes.NikitaiTyrannou.incipit
-meMA.Ode8C24.incipit = ""
+meMA.Ode8C24.melody = he.h.m8_en_US_dedes.NikitaiTyrannou.name
+meMA.Ode8C24.incipit = "…"
 meMA.Ode8C24.text = ""
 
 meMA.Ode8C2T.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode8C2T.melody = he.h.m8_en_US_dedes.NikitaiTyrannou.incipit
-meMA.Ode8C2T.incipit = ""
+meMA.Ode8C2T.melody = he.h.m8_en_US_dedes.NikitaiTyrannou.name
+meMA.Ode8C2T.incipit = "…"
 meMA.Ode8C2T.text = ""
 
 meMA.Ode8H.ode = misc_en_US_dedes.Ode8
@@ -520,62 +520,62 @@ meMA.Ode8H.text = he.h.m8_en_US_dedes.NikitaiTyrannou.text
 
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C11.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.incipit
-meMA.Ode9C11.incipit = ""
+meMA.Ode9C11.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.name
+meMA.Ode9C11.incipit = "…"
 meMA.Ode9C11.text = ""
 
 meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C12.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C12.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.incipit
-meMA.Ode9C12.incipit = ""
+meMA.Ode9C12.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.name
+meMA.Ode9C12.incipit = "…"
 meMA.Ode9C12.text = ""
 
 meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C13.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C13.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.incipit
-meMA.Ode9C13.incipit = ""
+meMA.Ode9C13.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.name
+meMA.Ode9C13.incipit = "…"
 meMA.Ode9C13.text = ""
 
 meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C14.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C14.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.incipit
-meMA.Ode9C14.incipit = ""
+meMA.Ode9C14.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.name
+meMA.Ode9C14.incipit = "…"
 meMA.Ode9C14.text = ""
 
 meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1T.mode = misc_en_US_dedes.Mode4
-meMA.Ode9C1T.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.incipit
-meMA.Ode9C1T.incipit = ""
+meMA.Ode9C1T.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.name
+meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = ""
 
 meMA.Ode9C21.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C21.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C21.melody = he.h.m8_en_US_dedes.TonProdilothenta.incipit
-meMA.Ode9C21.incipit = ""
+meMA.Ode9C21.melody = he.h.m8_en_US_dedes.TonProdilothenta.name
+meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
 
 meMA.Ode9C22.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C22.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C22.melody = he.h.m8_en_US_dedes.TonProdilothenta.incipit
-meMA.Ode9C22.incipit = ""
+meMA.Ode9C22.melody = he.h.m8_en_US_dedes.TonProdilothenta.name
+meMA.Ode9C22.incipit = "…"
 meMA.Ode9C22.text = ""
 
 meMA.Ode9C23.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C23.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C23.melody = he.h.m8_en_US_dedes.TonProdilothenta.incipit
-meMA.Ode9C23.incipit = ""
+meMA.Ode9C23.melody = he.h.m8_en_US_dedes.TonProdilothenta.name
+meMA.Ode9C23.incipit = "…"
 meMA.Ode9C23.text = ""
 
 meMA.Ode9C24.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C24.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C24.melody = he.h.m8_en_US_dedes.TonProdilothenta.incipit
-meMA.Ode9C24.incipit = ""
+meMA.Ode9C24.melody = he.h.m8_en_US_dedes.TonProdilothenta.name
+meMA.Ode9C24.incipit = "…"
 meMA.Ode9C24.text = ""
 
 meMA.Ode9C2T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C2T.mode = misc_en_US_dedes.Mode8
-meMA.Ode9C2T.melody = he.h.m8_en_US_dedes.TonProdilothenta.incipit
-meMA.Ode9C2T.incipit = ""
+meMA.Ode9C2T.melody = he.h.m8_en_US_dedes.TonProdilothenta.name
+meMA.Ode9C2T.incipit = "…"
 meMA.Ode9C2T.text = ""
 
 meMA.Ode9H.ode = misc_en_US_dedes.Ode9
@@ -585,13 +585,13 @@ meMA.Ode9H.incipit = he.h.m8_en_US_dedes.TonProdilothenta.incipit
 meMA.Ode9H.text = he.h.m8_en_US_dedes.TonProdilothenta.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.incipit
-meMA.Exaposteilarion1.incipit = "The Spirit searches out the"
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.incipit = "The Spirit searches out the…"
 meMA.Exaposteilarion1.text = "The Spirit searches out the depths * of all Your judgments, Christ our God. * As for the things of the Spirit, * O Savior, they have been searched out * by the upright philosopher * and Your confessor, Maximus; * for he proclaimed two energies * in You, as well as two natures. * Now he is splendidly honored."
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode3
-meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.FosAnalloioton.incipit
-meMA.Exaposteilarion2.incipit = "When Anicetus had vanquished *"
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.FosAnalloioton.name
+meMA.Exaposteilarion2.incipit = "When Anicetus had vanquished *…"
 meMA.Exaposteilarion2.text = "When Anicetus had vanquished * the error by being tortured, * then the martyrdom of Photius * became a light for many. * The Saints had confessed the two births * of Christ the Savior. * Let us extol them together."
 
 meMA.Exaposteilarion3.mode = misc_en_US_dedes.Mode3
@@ -600,23 +600,23 @@ meMA.Exaposteilarion3.incipit = he.a.m3_en_US_dedes.FosAnalloioton.incipit
 meMA.Exaposteilarion3.text = he.a.m3_en_US_dedes.FosAnalloioton.text
 
 meMA.Aposticha1.mode = misc_en_US_dedes.Mode2
-meMA.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
-meMA.Aposticha1.incipit = "Moses, beholding Your * divinity"
+meMA.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meMA.Aposticha1.incipit = "Moses, beholding Your * divinity…"
 meMA.Aposticha1.text = "Moses, beholding Your * divinity on Tabor, * cried out to You, O Savior, * \"The shadow has indeed passed, for now the grace of God has come.\""
 
 meMA.Aposticha2.mode = misc_en_US_dedes.Mode2
-meMA.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
-meMA.Aposticha2.incipit = "On Mt. Tabor, O Lord"
+meMA.Aposticha2.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meMA.Aposticha2.incipit = "On Mt. Tabor, O Lord…"
 meMA.Aposticha2.text = "On Mt. Tabor, O Lord * who loves mankind, Elijah * and Moses spoke with You of * Your imminent departure that You accomplished for our sakes."
 
 meMA.Aposticha3.mode = misc_en_US_dedes.Mode2
-meMA.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
-meMA.Aposticha3.incipit = "Savior, Your three select *"
+meMA.Aposticha3.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meMA.Aposticha3.incipit = "Savior, Your three select *…"
 meMA.Aposticha3.text = "Savior, Your three select * Disciples were unable * to view the lightning brightness * of Your divine appearance; they fell down on the ground in fear."
 
 meMA.AposGlory.mode = misc_en_US_dedes.Mode2
-meMA.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.incipit
-meMA.AposGlory.incipit = "Merciful King of all, *"
+meMA.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
+meMA.AposGlory.incipit = "Merciful King of all, *…"
 meMA.AposGlory.text = "Merciful King of all, * exalt the horn of pious * kings and elected leaders, * and by Your Mother's prayers, grant them success and victory."
 
 meLI.Antiphon2.text = me.m08.d06_en_US_dedes.meLI.Antiphon2.text

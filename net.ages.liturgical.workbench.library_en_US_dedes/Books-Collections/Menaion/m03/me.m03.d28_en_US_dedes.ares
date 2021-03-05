@@ -18,34 +18,34 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
-meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
-meVE.Stichera01.incipit = ""
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera01.incipit = "…"
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
-meVE.Stichera02.incipit = ""
+meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera02.incipit = "…"
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
-meVE.Stichera03.incipit = ""
+meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
+meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
-meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
+meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.SticTheotokion.incipit = oc.m4.d4_en_US_dedes.ocVE.Stichera5.incipit
 meVE.SticTheotokion.text = oc.m4.d4_en_US_dedes.ocVE.Stichera5.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode4
-meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.incipit
+meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.SticStavrotheotokion.incipit = me.m02.d03_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m02.d03_en_US_dedes.meVE.SticStavrotheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode5
-meVE.Apolytikion1.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.incipit
-meVE.Apolytikion1.incipit = ""
+meVE.Apolytikion1.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
+meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.C1.acrostic = ""
@@ -62,25 +62,25 @@ meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode2
 meMA.Ode1C11.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.notmetered
-meMA.Ode1C11.incipit = "Holy Father Hilary, through ascetic"
+meMA.Ode1C11.incipit = "Holy Father Hilary, through ascetic…"
 meMA.Ode1C11.text = "Holy Father Hilary, through ascetic discipline you became compassionate, gentle and meek, truly cheerful in spirit. By your mediations may I be counted worthy of compassion, so that I may now extol you with a cheerful heart."
 
 meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C12.mode = misc_en_US_dedes.Mode2
 meMA.Ode1C12.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.notmetered
-meMA.Ode1C12.incipit = "O Father, you were consecrated"
+meMA.Ode1C12.incipit = "O Father, you were consecrated…"
 meMA.Ode1C12.text = "O Father, you were consecrated from childhood, and you took up your cross and followed Christ. Through abstinence and earnest prayers, you dried up the bodily passions and became renowned for dispassion."
 
 meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C13.mode = misc_en_US_dedes.Mode2
 meMA.Ode1C13.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.notmetered
-meMA.Ode1C13.incipit = "O all-wise and devout Father"
+meMA.Ode1C13.incipit = "O all-wise and devout Father…"
 meMA.Ode1C13.text = "O all-wise and devout Father Hilary, you submitted to the light yoke of the Lord, and you obeyed His statutes. You cast off the heavy burden of sin, and you obtained holiness."
 
 meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1T.mode = misc_en_US_dedes.Mode2
 meMA.Ode1C1T.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.notmetered
-meMA.Ode1C1T.incipit = "O ever virgin, all-pure, and"
+meMA.Ode1C1T.incipit = "O ever virgin, all-pure, and…"
 meMA.Ode1C1T.text = "O ever virgin, all-pure, and all-blameless Lady, entreat your Son and God on my behalf, and break the chains of my offences. Vanquish the sin that tyrannizes me, so that saved, I may always honor you."
 
 meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
@@ -92,40 +92,40 @@ meMA.Ode3C1H.text = he.h.m2_en_US_dedes.ExinthisenIErimos.text
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode2
 meMA.Ode3C11.melody = he.h.m2_en_US_dedes.ExinthisenIErimos.notmetered
-meMA.Ode3C11.incipit = "O devout Saint, your life"
+meMA.Ode3C11.incipit = "O devout Saint, your life…"
 meMA.Ode3C11.text = "O devout Saint, your life shined like the sun, and its brilliant rays enlightened hosts of monastics and banished demonic darkness."
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode2
 meMA.Ode3C12.melody = he.h.m2_en_US_dedes.ExinthisenIErimos.notmetered
-meMA.Ode3C12.incipit = "O devout Saint, you were"
+meMA.Ode3C12.incipit = "O devout Saint, you were…"
 meMA.Ode3C12.text = "O devout Saint, you were cheerful in heart, humble in spirit, full of divine love, and always approachable and affable."
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_dedes.Mode2
 meMA.Ode3C13.melody = he.h.m2_en_US_dedes.ExinthisenIErimos.notmetered
-meMA.Ode3C13.incipit = "O Saint, you doused the"
+meMA.Ode3C13.incipit = "O Saint, you doused the…"
 meMA.Ode3C13.text = "O Saint, you doused the coals of sin with your teardrops. Αnd after death, even as before you died, you pour out oceans of cures and healings to those come to you in prayer."
 
 meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_dedes.Mode2
 meMA.Ode3C1T.melody = he.h.m2_en_US_dedes.ExinthisenIErimos.notmetered
-meMA.Ode3C1T.incipit = "I pray you, O all-pure"
-meMA.Ode3C1T.text = "I pray you, O all-pure Maiden, heal the wounds of my soul, and direct the movements of my mind to the will of Him who was incarnate of you. "
+meMA.Ode3C1T.incipit = "I pray you, O all-pure…"
+meMA.Ode3C1T.text = "I pray you, O all-pure Maiden, heal the wounds of my soul, and direct the movements of my mind to the will of Him who was incarnate of you."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
-meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
-meMA.Ode3Kathisma1.incipit = "All blessed St. Hilary, you"
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meMA.Ode3Kathisma1.incipit = "All blessed St. Hilary, you…"
 meMA.Ode3Kathisma1.text = "All blessed St. Hilary, you consecrated your life * to God, O all-sacred man, and thus you truly became * an excellent priest of Christ. * After you shed uncounted tears and sweat of your labors, * joyfully you were transferred to the heavenly mansions. * And now you are a fountain that gushes forth cures for us."
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.TachyProkatalave.incipit
-meMA.Ode3KathismaT.incipit = "Be swift to accept our"
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+meMA.Ode3KathismaT.incipit = "Be swift to accept our…"
 meMA.Ode3KathismaT.text = "Be swift to accept our fervent prayers, O Lady and Queen, * and take them, all-blameless Maiden, and present them for us * before your own Son and God. * Rescue from every trouble * those who run to your shelter. * Frustrate the machinations and humble the boldness * of the godless who against your servants have taken arms."
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_dedes.TachyProkatalave.notmetered
-meMA.Ode3KathismaSt.incipit = ""
+meMA.Ode3KathismaSt.incipit = "…"
 meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
@@ -137,25 +137,25 @@ meMA.Ode4C1H.text = he.h.m2_en_US_dedes.ElilythasEkParthenou.text
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_dedes.Mode2
 meMA.Ode4C11.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.notmetered
-meMA.Ode4C11.incipit = "O Saint, through divine ascents"
+meMA.Ode4C11.incipit = "O Saint, through divine ascents…"
 meMA.Ode4C11.text = "O Saint, through divine ascents you brightened your soul, and you gave wings to your mind, so that you might reflect only the extraordinary beauty of God, and be illumined by its rays."
 
 meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C12.mode = misc_en_US_dedes.Mode2
 meMA.Ode4C12.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.notmetered
-meMA.Ode4C12.incipit = "O Father Hilary, you studied"
+meMA.Ode4C12.incipit = "O Father Hilary, you studied…"
 meMA.Ode4C12.text = "O Father Hilary, you studied the divine writings, and you acquired God-inspired knowledge from from them, which you imparted to all who came to you reverently."
 
 meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C13.mode = misc_en_US_dedes.Mode2
 meMA.Ode4C13.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.notmetered
-meMA.Ode4C13.incipit = "O devout Saint, the sweetness"
+meMA.Ode4C13.incipit = "O devout Saint, the sweetness…"
 meMA.Ode4C13.text = "O devout Saint, the sweetness of your words cheered the hearts of those who came to you. You were sympathetic and people readily accepted your words, for you practised what you preached."
 
 meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C1T.mode = misc_en_US_dedes.Mode2
 meMA.Ode4C1T.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.notmetered
-meMA.Ode4C1T.incipit = "O immaculate Virgin, when the"
+meMA.Ode4C1T.incipit = "O immaculate Virgin, when the…"
 meMA.Ode4C1T.text = "O immaculate Virgin, when the Lord was incarnate of your womb, he rescued His own creature from the enemy who had mastered it, and He made you Lady and Mistress over all."
 
 meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
@@ -167,25 +167,25 @@ meMA.Ode5C1H.text = he.h.m2_en_US_dedes.MesitisTheou.text
 meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C11.mode = misc_en_US_dedes.Mode2
 meMA.Ode5C11.melody = he.h.m2_en_US_dedes.MesitisTheou.notmetered
-meMA.Ode5C11.incipit = "O devout Saint, with your"
+meMA.Ode5C11.incipit = "O devout Saint, with your…"
 meMA.Ode5C11.text = "O devout Saint, with your labors you wove yourself a garment of salvation, and you wore it; and you clothed the prince of darkness with everlasting shame."
 
 meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C12.mode = misc_en_US_dedes.Mode2
 meMA.Ode5C12.melody = he.h.m2_en_US_dedes.MesitisTheou.notmetered
-meMA.Ode5C12.incipit = "O devout Father, by exercising"
+meMA.Ode5C12.incipit = "O devout Father, by exercising…"
 meMA.Ode5C12.text = "O devout Father, by exercising self-control you dried up the carnal pleasures, and you received heavenly grace; and you cheerfully cured people of every kind of illness."
 
 meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C13.mode = misc_en_US_dedes.Mode2
 meMA.Ode5C13.melody = he.h.m2_en_US_dedes.MesitisTheou.notmetered
-meMA.Ode5C13.incipit = "O Father, your holy hands"
+meMA.Ode5C13.incipit = "O Father, your holy hands…"
 meMA.Ode5C13.text = "O Father, your holy hands were continually raised in prayer to God; they dashed the devil's schemes, and they gave health to all who were sick."
 
 meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C1T.mode = misc_en_US_dedes.Mode2
 meMA.Ode5C1T.melody = he.h.m2_en_US_dedes.MesitisTheou.notmetered
-meMA.Ode5C1T.incipit = "O immaculate Virgin, you have"
+meMA.Ode5C1T.incipit = "O immaculate Virgin, you have…"
 meMA.Ode5C1T.text = "O immaculate Virgin, you have become the strength of the faithful and the might of the devout; for through superior blessings have been poured out for all, and those who dwell on earth are proceeding to heaven."
 
 meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
@@ -197,31 +197,31 @@ meMA.Ode6C1H.text = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.text
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode2
 meMA.Ode6C11.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
-meMA.Ode6C11.incipit = "O Hilary, you had died"
+meMA.Ode6C11.incipit = "O Hilary, you had died…"
 meMA.Ode6C11.text = "O Hilary, you had died to the whole world. Now that you have been translated to heaven, you live, and you have become a perpetual source of healing energy."
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode2
 meMA.Ode6C12.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
-meMA.Ode6C12.incipit = "O all-blessed Father, you were"
-meMA.Ode6C12.text = "O all-blessed Father, you were affable, meek and gentle, incorruptible, blameless and devout, compunctious, and cheerful in spirit. "
+meMA.Ode6C12.incipit = "O all-blessed Father, you were…"
+meMA.Ode6C12.text = "O all-blessed Father, you were affable, meek and gentle, incorruptible, blameless and devout, compunctious, and cheerful in spirit."
 
 meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C13.mode = misc_en_US_dedes.Mode2
 meMA.Ode6C13.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
-meMA.Ode6C13.incipit = "O marvelous Hilary, you were"
+meMA.Ode6C13.incipit = "O marvelous Hilary, you were…"
 meMA.Ode6C13.text = "O marvelous Hilary, you were a genuine servant of God, for you were adorned with immense sympathy and ennobled with the beauty of your love for the poor."
 
 meMA.Ode6C14.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C14.mode = misc_en_US_dedes.Mode2
 meMA.Ode6C14.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
-meMA.Ode6C14.incipit = " O marvellous Hilary, how"
+meMA.Ode6C14.incipit = " O marvellous Hilary, how…"
 meMA.Ode6C14.text = " O marvellous Hilary, how reputable and blameless was your life! How fine and handsome was your manner! How awesome are the miracles that you perform every day!"
 
 meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1T.mode = misc_en_US_dedes.Mode2
 meMA.Ode6C1T.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
-meMA.Ode6C1T.incipit = "From generation to all generations,"
+meMA.Ode6C1T.incipit = "From generation to all generations…"
 meMA.Ode6C1T.text = "From generation to all generations, let us call the Theotokos blessed. She is the undefiled bridal chamber of God and the fiery throne of the almighty Ruler of all."
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
@@ -233,38 +233,38 @@ meMA.Ode7C1H.text = he.h.m2_en_US_dedes.AntitheonProstagma.text
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode2
 meMA.Ode7C11.melody = he.h.m2_en_US_dedes.AntitheonProstagma.notmetered
-meMA.Ode7C11.incipit = "O devout Saint, your ascetic"
+meMA.Ode7C11.incipit = "O devout Saint, your ascetic…"
 meMA.Ode7C11.text = "O devout Saint, your ascetic struggles were like a sword that wounded the fleshless dragon and utterly destroyed him. As a reward you have received grace to do miracles, to cure serious illnesses of soul and body."
 
 meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C12.mode = misc_en_US_dedes.Mode2
 meMA.Ode7C12.melody = he.h.m2_en_US_dedes.AntitheonProstagma.notmetered
-meMA.Ode7C12.incipit = "O blessed and devout Father,"
+meMA.Ode7C12.incipit = "O blessed and devout Father…"
 meMA.Ode7C12.text = "O blessed and devout Father, your word proceeds like refreshing dew, driving away the heatwave of depression from those who come to you with faith, who are ever enlightened by your virtuous ways."
 
 meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C13.mode = misc_en_US_dedes.Mode2
 meMA.Ode7C13.melody = he.h.m2_en_US_dedes.AntitheonProstagma.notmetered
-meMA.Ode7C13.incipit = "O wise Saint, you made"
+meMA.Ode7C13.incipit = "O wise Saint, you made…"
 meMA.Ode7C13.text = "O wise Saint, you made your mind the ruler over passions, and thus you ruled as a decorated victor. You fought against foreign enemies, and you utterly destroyed the ruinous passions of the demons."
 
 meMA.Ode7C14.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C14.mode = misc_en_US_dedes.Mode2
 meMA.Ode7C14.melody = he.h.m2_en_US_dedes.AntitheonProstagma.notmetered
-meMA.Ode7C14.incipit = "O devout Father, the winds"
+meMA.Ode7C14.incipit = "O devout Father, the winds…"
 meMA.Ode7C14.text = "O devout Father, the winds of temptations could not shake the unshakeable tower of your heart, for it was built on the rock of the love of the Lord. Firmly established on it, as you were, you became a divine support for many people."
 
 meMA.Ode7C1Tr.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1Tr.mode = misc_en_US_dedes.Mode2
 meMA.Ode7C1Tr.melody = he.h.m2_en_US_dedes.AntitheonProstagma.notmetered
-meMA.Ode7C1Tr.incipit = "O super-essential Trinity, I extol"
+meMA.Ode7C1Tr.incipit = "O super-essential Trinity, I extol…"
 meMA.Ode7C1Tr.text = "O super-essential Trinity, I extol You, three in persons, one in nature, unconfused, undivided, incomprehensible, Father, Logos, and Holy Spirit, one almighty God."
 
 meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1T.mode = misc_en_US_dedes.Mode2
 meMA.Ode7C1T.melody = he.h.m2_en_US_dedes.AntitheonProstagma.notmetered
-meMA.Ode7C1T.incipit = "O pure Virgin, through gifts"
-meMA.Ode7C1T.text = "O pure Virgin, through gifts of prophecy, the grace of the Spirit prefigured you long before in symbols, calling you rich mountain, gate of salvation, new book, and ark. "
+meMA.Ode7C1T.incipit = "O pure Virgin, through gifts…"
+meMA.Ode7C1T.text = "O pure Virgin, through gifts of prophecy, the grace of the Spirit prefigured you long before in symbols, calling you rich mountain, gate of salvation, new book, and ark."
 
 meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1H.mode = misc_en_US_dedes.Mode2
@@ -275,32 +275,32 @@ meMA.Ode8C1H.text = he.h.m2_en_US_dedes.KaminosPote.text
 meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C11.mode = misc_en_US_dedes.Mode2
 meMA.Ode8C11.melody = he.h.m2_en_US_dedes.KaminosPote.notmetered
-meMA.Ode8C11.incipit = "O Father, you left behind"
+meMA.Ode8C11.incipit = "O Father, you left behind…"
 meMA.Ode8C11.text = "O Father, you left behind this life's temporal glory and fleeting comforts, and in heaven you have received permanent fame and perpetual delight. And now you sing: \"O all you works of the Lord, bless the Lord.\""
 
 meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C12.mode = misc_en_US_dedes.Mode2
 meMA.Ode8C12.melody = he.h.m2_en_US_dedes.KaminosPote.notmetered
-meMA.Ode8C12.incipit = "O devout Saint, you spent"
+meMA.Ode8C12.incipit = "O devout Saint, you spent…"
 meMA.Ode8C12.text = "O devout Saint, you spent your entire life grieving and mourning. Therefore, you were counted worthy of beatitude and the comfort which the devout receive. As one prudent and sensible, you rejoice now as you dwell in the land of the meek."
 
 meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C13.mode = misc_en_US_dedes.Mode2
 meMA.Ode8C13.melody = he.h.m2_en_US_dedes.KaminosPote.notmetered
-meMA.Ode8C13.incipit = "O most sacred and devout"
+meMA.Ode8C13.incipit = "O most sacred and devout…"
 meMA.Ode8C13.text = "O most sacred and devout Father, your death was precious in the sight of God. You had honored His icon and endured persecution and affliction from tyrants, and thus you proved to be a Martyr."
 
 meMA.Ode8C14.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C14.mode = misc_en_US_dedes.Mode2
 meMA.Ode8C14.melody = he.h.m2_en_US_dedes.KaminosPote.notmetered
-meMA.Ode8C14.incipit = "O devout Father, most holy"
-meMA.Ode8C14.text = "O devout Father, most holy priest, God listened to your prayers, and you filled the nets of some fishermen with the catch that they had sought to no avail, and thus you relieved their vexation. "
+meMA.Ode8C14.incipit = "O devout Father, most holy…"
+meMA.Ode8C14.text = "O devout Father, most holy priest, God listened to your prayers, and you filled the nets of some fishermen with the catch that they had sought to no avail, and thus you relieved their vexation."
 
 meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1T.mode = misc_en_US_dedes.Mode2
 meMA.Ode8C1T.melody = he.h.m2_en_US_dedes.KaminosPote.notmetered
-meMA.Ode8C1T.incipit = "O immaculate Lady, graced of"
-meMA.Ode8C1T.text = "O immaculate Lady, graced of God, I pray you wash me of the filth of passions and the stain of sin, and open the doors of repentance to me, for I have slipped and fallen, and I persist in my offences and continually provoke God.  "
+meMA.Ode8C1T.incipit = "O immaculate Lady, graced of…"
+meMA.Ode8C1T.text = "O immaculate Lady, graced of God, I pray you wash me of the filth of passions and the stain of sin, and open the doors of repentance to me, for I have slipped and fallen, and I persist in my offences and continually provoke God. "
 
 meMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1H.mode = misc_en_US_dedes.Mode2
@@ -311,36 +311,36 @@ meMA.Ode9C1H.text = he.h.m2_en_US_dedes.AnarchouGennitoros.text
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_dedes.Mode2
 meMA.Ode9C11.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.notmetered
-meMA.Ode9C11.incipit = "O devout Hilary, by the"
+meMA.Ode9C11.incipit = "O devout Hilary, by the…"
 meMA.Ode9C11.text = "O devout Hilary, by the Spirit's grace, your grave gushes forth cures and healings, drying up the thunder-storms of passions, driving away the spirits of deceptive error, and illumining the hearts of all who faithfully call you blessed."
 
 meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C12.mode = misc_en_US_dedes.Mode2
 meMA.Ode9C12.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.notmetered
-meMA.Ode9C12.incipit = "O glorious Hilary, in the"
+meMA.Ode9C12.incipit = "O glorious Hilary, in the…"
 meMA.Ode9C12.text = "O glorious Hilary, in the meadow of asceticism you blossomed like a rose, a fragrant lily, and a sweet apple, and you perfume the souls and hearts of all the Orthodox, and you intercede for those who extol you."
 
 meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C13.mode = misc_en_US_dedes.Mode2
 meMA.Ode9C13.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.notmetered
-meMA.Ode9C13.incipit = "O glorious Hilary, you are"
-meMA.Ode9C13.text = "O glorious Hilary, you are the jewel of monastics; for you had sympathy, love, humility, almsgiving, an unaffected manner, genuine faith, hope, an upstanding life, and a straightforward disposition. "
+meMA.Ode9C13.incipit = "O glorious Hilary, you are…"
+meMA.Ode9C13.text = "O glorious Hilary, you are the jewel of monastics; for you had sympathy, love, humility, almsgiving, an unaffected manner, genuine faith, hope, an upstanding life, and a straightforward disposition."
 
 meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C14.mode = misc_en_US_dedes.Mode2
 meMA.Ode9C14.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.notmetered
-meMA.Ode9C14.incipit = "O Father, today your memory"
+meMA.Ode9C14.incipit = "O Father, today your memory…"
 meMA.Ode9C14.text = "O Father, today your memory has risen like the sun; for it truly illumines the hearts of the Orthodox with the splendor of your labours and the rays of your miracles. As we observe it, we pray you remember all who faithfully call you blessed."
 
 meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1T.mode = misc_en_US_dedes.Mode2
 meMA.Ode9C1T.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.notmetered
-meMA.Ode9C1T.incipit = "O Ever virgin Theotokos, we"
-meMA.Ode9C1T.text = "O Ever virgin Theotokos, we rejoice as we say to you the salutation of Gabriel: Rejoice! You are the house of the Ruler of all. Rejoice! You are the glory of the devout and the salvation of all the faithful. Through you we have been deified. "
+meMA.Ode9C1T.incipit = "O Ever virgin Theotokos, we…"
+meMA.Ode9C1T.text = "O Ever virgin Theotokos, we rejoice as we say to you the salutation of Gabriel: Rejoice! You are the house of the Ruler of all. Rejoice! You are the glory of the devout and the salvation of all the faithful. Through you we have been deified."
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
-meLI.Kontakion1.incipit = ""
+meLI.Kontakion1.incipit = "…"
 meLI.Kontakion1.text = ""
 
 meMegalynarion.text = ""

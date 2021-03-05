@@ -18,34 +18,34 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
-meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
-meVE.Stichera01.incipit = ""
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera01.incipit = "…"
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
-meVE.Stichera02.incipit = ""
+meVE.Stichera02.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera02.incipit = "…"
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
-meVE.Stichera03.incipit = ""
+meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode4
-meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
-meVE.SticTheotokion.incipit = "Lady full of the grace"
+meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
+meVE.SticTheotokion.incipit = "Lady full of the grace…"
 meVE.SticTheotokion.text = "Lady full of the grace of God, * you indeed are the luminous * palace of the Lord, and the shining cloud of light * of Him who rose as a Sun and Son * on the world, all-blameless one. * Therefore guide our souls and minds * to the light, and obliterate * all the stumbling blocks * of the crafty one, O all-blameless Maiden. By your holy intercession * confirm and strengthen our reasoning."
 
 meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode4
-meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.incipit
+meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 meVE.SticStavrotheotokion.incipit = me.m02.d11_en_US_dedes.meVE.AposStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m02.d11_en_US_dedes.meVE.AposStavrotheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode3
-meVE.Apolytikion1.melody = he.a.m3_en_US_dedes.TinOraiotita.incipit
-meVE.Apolytikion1.incipit = ""
+meVE.Apolytikion1.melody = he.a.m3_en_US_dedes.TinOraiotita.name
+meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.C1.acrostic = ""
@@ -63,25 +63,25 @@ meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C11.melody = he.h.m4_en_US_dedes.TristatasKrataious.notmetered
-meMA.Ode1C11.incipit = "O Cyril, you adorned your"
-meMA.Ode1C11.text = "O Cyril, you adorned your soul with every virtue, and thus you made it receptive of the Holy Spirit's gifts, by which you poured out an ocean of wisdom that dried up the seas of heresies. "
+meMA.Ode1C11.incipit = "O Cyril, you adorned your…"
+meMA.Ode1C11.text = "O Cyril, you adorned your soul with every virtue, and thus you made it receptive of the Holy Spirit's gifts, by which you poured out an ocean of wisdom that dried up the seas of heresies."
 
 meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C12.melody = he.h.m4_en_US_dedes.TristatasKrataious.notmetered
-meMA.Ode1C12.incipit = "O Cyril, with the fire"
-meMA.Ode1C12.text = "O Cyril, with the fire of your words you burned up the heresies, as an unsleeping beacon of the Church. For you had made your mind superior to matter, and were a companion of the bodiless hosts. "
+meMA.Ode1C12.incipit = "O Cyril, with the fire…"
+meMA.Ode1C12.text = "O Cyril, with the fire of your words you burned up the heresies, as an unsleeping beacon of the Church. For you had made your mind superior to matter, and were a companion of the bodiless hosts."
 
 meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C13.melody = he.h.m4_en_US_dedes.TristatasKrataious.notmetered
-meMA.Ode1C13.incipit = "O Cyril, wise Saint, as"
+meMA.Ode1C13.incipit = "O Cyril, wise Saint, as…"
 meMA.Ode1C13.text = "O Cyril, wise Saint, as a genuine shepherd, as the fragrance of Christ, you cast out the namesake of madness and drove away the unbearable stench of every heresy, with the sweet smell of your words."
 
 meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.TristatasKrataious.notmetered
-meMA.Ode1C1T.incipit = "O all-immaculate and all-blameless Lady,"
+meMA.Ode1C1T.incipit = "O all-immaculate and all-blameless Lady…"
 meMA.Ode1C1T.text = "O all-immaculate and all-blameless Lady, preserve all who praise your ineffable childbirth from the mire of the passions, from the waves of sinful thoughts, from the arrows of the evil one, and from every adverse assault."
 
 meMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
@@ -93,45 +93,45 @@ meMA.Ode3C1H.text = he.h.m4_en_US_dedes.OtiSteiraEteken.text
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode3C11.melody = he.h.m4_en_US_dedes.OtiSteiraEteken.notmetered
-meMA.Ode3C11.incipit = "O Father, we on earth"
+meMA.Ode3C11.incipit = "O Father, we on earth…"
 meMA.Ode3C11.text = "O Father, we on earth have been delivered from the darkness of deceptive error by the Holy Trinity, whose triple radiance you explained to us, as you were shining with beams of spiritual wisdom."
 
 meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode3C12.melody = he.h.m4_en_US_dedes.OtiSteiraEteken.notmetered
-meMA.Ode3C12.incipit = "O godly-minded Cyril, you were"
+meMA.Ode3C12.incipit = "O godly-minded Cyril, you were…"
 meMA.Ode3C12.text = "O godly-minded Cyril, you were like a harp of the All-holy Spirit, thrilling our souls, with the sounds of the teaching about the advent of Christ, whom you proclaim in two natures."
 
 meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode3C13.melody = he.h.m4_en_US_dedes.OtiSteiraEteken.notmetered
-meMA.Ode3C13.incipit = "O Saint, you soul became"
+meMA.Ode3C13.incipit = "O Saint, you soul became…"
 meMA.Ode3C13.text = "O Saint, you soul became a house of holiness. In it marvellously dwelt the Father, Son, and life-originating Spirit, to whom we sing: \"Holy are You, O Lord.\""
 
 meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode3C1T.melody = he.h.m4_en_US_dedes.OtiSteiraEteken.notmetered
-meMA.Ode3C1T.incipit = "O pure Virgin, not even"
+meMA.Ode3C1T.incipit = "O pure Virgin, not even…"
 meMA.Ode3C1T.text = "O pure Virgin, not even a celestial mind can describe your incomprehensible childbirth. In your womb you conceived the Logos of the Primal Mind, who with a word constituted all things."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.notmetered
-meMA.Ode3Kathisma1.incipit = "O hierarch Cyril, you were"
+meMA.Ode3Kathisma1.incipit = "O hierarch Cyril, you were…"
 meMA.Ode3Kathisma1.text = "O hierarch Cyril, you were enriched by the wisdom of the Logos, and you poured out the living streams of dogmas, and your irrigated every mind of the Orthodox. You shepherded the flock with a divine staff, and you fed it on the pasture of divine knowledge. Therefore we extol you as Pastor, great teacher, and champion of the Faith, and we cry out to you: Intercede with Christ our God * that He grant forgiveness of offences * to those who with longing observe your holy memory."
 
 meMA.Ode3Kathisma2.mode = misc_en_US_dedes.Mode1
-meMA.Ode3Kathisma2.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.incipit
-meMA.Ode3Kathisma2.incipit = "Your tongue, which was divinely"
+meMA.Ode3Kathisma2.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
+meMA.Ode3Kathisma2.incipit = "Your tongue, which was divinely…"
 meMA.Ode3Kathisma2.text = "Your tongue, which was divinely inspired, illumined * the people to adore the single God, undivided * in nature, and yet distinct in three persons, the Trinity. *  Now we joyously observe your all-holy mem'ry * and invoke your name as one of our intercessors * with God in our fervent prayers."
 
 meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode1
-meMA.Ode3KathismaT.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.incipit
+meMA.Ode3KathismaT.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
 meMA.Ode3KathismaT.incipit = oc.m1.d1_en_US_dedes.ocMA.Kathisma23.incipit
 meMA.Ode3KathismaT.text = oc.m1.d1_en_US_dedes.ocMA.Kathisma23.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.notmetered
-meMA.Ode3KathismaSt.incipit = "When Your immaculate Mother saw"
+meMA.Ode3KathismaSt.incipit = "When Your immaculate Mother saw…"
 meMA.Ode3KathismaSt.text = "When Your immaculate Mother saw You stretched out dead on the Cross, she cried out, \"O my Son, co-eternal with the Father and the Spirit, what is this ineffable plan, by which you saved the creation You wisely made with Your immaculate hands?\""
 
 meMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
@@ -143,25 +143,25 @@ meMA.Ode4C1H.text = he.h.m4_en_US_dedes.TousOuranousIAretiSou.text
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode4C11.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.notmetered
-meMA.Ode4C11.incipit = "O devout Cyril, you receiving"
+meMA.Ode4C11.incipit = "O devout Cyril, you receiving…"
 meMA.Ode4C11.text = "O devout Cyril, you receiving a stream of otherworldly wisdom in your heart, which gushed forth an ocean of teachings that drowned ideas of the heretics."
 
 meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode4C12.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.notmetered
-meMA.Ode4C12.incipit = "O Cyril, you proclaimed the"
+meMA.Ode4C12.incipit = "O Cyril, you proclaimed the…"
 meMA.Ode4C12.text = "O Cyril, you proclaimed the one power, and one essence and will of the Godhead of three hypostases, and thus you dried up the torrent of the error of polytheism."
 
 meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode4C13.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.notmetered
-meMA.Ode4C13.incipit = "O all-blessed one, you were"
-meMA.Ode4C13.text = "O all-blessed one, you were divinely instructed and full of understanding, and with the lighting bolts of your words you convicted and burned up the miry and deranged ideas of Manis. "
+meMA.Ode4C13.incipit = "O all-blessed one, you were…"
+meMA.Ode4C13.text = "O all-blessed one, you were divinely instructed and full of understanding, and with the lighting bolts of your words you convicted and burned up the miry and deranged ideas of Manis."
 
 meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
 meMA.Ode4C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode4C1T.melody = he.h.m4_en_US_dedes.TousOuranousIAretiSou.notmetered
-meMA.Ode4C1T.incipit = "O pure Virgin, you are"
+meMA.Ode4C1T.incipit = "O pure Virgin, you are…"
 meMA.Ode4C1T.text = "O pure Virgin, you are higher than all created things. Transcending nature, you conceived and bore the Maker of creation when He refashioned our nature."
 
 meMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
@@ -173,19 +173,19 @@ meMA.Ode5C1H.text = he.h.m4_en_US_dedes.SyKyrieMouFos.text
 meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode5C11.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.notmetered
-meMA.Ode5C11.incipit = "O blessed Hierarch. by the"
+meMA.Ode5C11.incipit = "O blessed Hierarch. by the…"
 meMA.Ode5C11.text = "O blessed Hierarch. by the water of Orthodox worship, you shepherded your flock with the staff of your divine wisdom."
 
 meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode5C12.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.notmetered
-meMA.Ode5C12.incipit = "O Cyril, your word flashed"
+meMA.Ode5C12.incipit = "O Cyril, your word flashed…"
 meMA.Ode5C12.text = "O Cyril, your word flashed with divine light in Jerusalem, and it dispelled the darkness of ignorance from whose who were illumined by it."
 
 meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode5C1T.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.notmetered
-meMA.Ode5C1T.incipit = "O all-pure one, the night"
+meMA.Ode5C1T.incipit = "O all-pure one, the night…"
 meMA.Ode5C1T.text = "O all-pure one, the night of the sinful passions and the darkness of evil cover my soul. I pray you illumine me, since you gave birth to the Giver of Light."
 
 meMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
@@ -197,25 +197,25 @@ meMA.Ode6C1H.text = he.h.m4_en_US_dedes.EvoiseProtypon.text
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode6C11.melody = he.h.m4_en_US_dedes.EvoiseProtypon.notmetered
-meMA.Ode6C11.incipit = "O Hierarch, you flowed like"
+meMA.Ode6C11.incipit = "O Hierarch, you flowed like…"
 meMA.Ode6C11.text = "O Hierarch, you flowed like a river as if out of Eden, filled with the Spirit's life-streaming waters, and you flood the furrows of the Church."
 
 meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode6C12.melody = he.h.m4_en_US_dedes.EvoiseProtypon.notmetered
-meMA.Ode6C12.incipit = "O most sacred Cyril, with"
+meMA.Ode6C12.incipit = "O most sacred Cyril, with…"
 meMA.Ode6C12.text = "O most sacred Cyril, with your words, as with  a beacon-fire, you call your people to a calm haven in Orthodoxy, and you preserve then from the storm of ungodliness."
 
 meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode6C1T.melody = he.h.m4_en_US_dedes.EvoiseProtypon.notmetered
-meMA.Ode6C1T.incipit = "O all-blameless Maiden, you made"
+meMA.Ode6C1T.incipit = "O all-blameless Maiden, you made…"
 meMA.Ode6C1T.text = "O all-blameless Maiden, you made human nature heavenly, when it had become earthly, and you made it new again, when it was corrupted. Therefore we honor you with never ceasing voices."
 
 meMA.Kontakion1.poet = poets_en_US_dedes.Gerasimou
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode3
 meMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.notmetered
-meMA.Kontakion1.incipit = ""
+meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
@@ -227,25 +227,25 @@ meMA.Ode7C1H.text = he.h.m4_en_US_dedes.NeoiTreisEnVavyloni.text
 meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode7C11.melody = he.h.m4_en_US_dedes.NeoiTreisEnVavyloni.notmetered
-meMA.Ode7C11.incipit = "O Father, you had the"
+meMA.Ode7C11.incipit = "O Father, you had the…"
 meMA.Ode7C11.text = "O Father, you had the fire of the fear of God in your mind. With it you burned up the substance of the pleasures, and you sang: \"Blessed are You, O Lord, the God of our Fathers.\""
 
 meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode7C12.melody = he.h.m4_en_US_dedes.NeoiTreisEnVavyloni.notmetered
-meMA.Ode7C12.incipit = "O blessed Cyril, with tears"
+meMA.Ode7C12.incipit = "O blessed Cyril, with tears…"
 meMA.Ode7C12.text = "O blessed Cyril, with tears you extinguished the flame of the passions, and you kept the torch of your soul lit, and you cried out: \"Blessed are You, O Lord, the God of our Fathers.\""
 
 meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode7C13.melody = he.h.m4_en_US_dedes.NeoiTreisEnVavyloni.notmetered
-meMA.Ode7C13.incipit = "O godly-minded Father, you had"
+meMA.Ode7C13.incipit = "O godly-minded Father, you had…"
 meMA.Ode7C13.text = "O godly-minded Father, you had the Spirit's grace as a living stream in your soul, and you overflowed with rivers of teachings that watered the Church, which reverently honors you."
 
 meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode7C1T.melody = he.h.m4_en_US_dedes.NeoiTreisEnVavyloni.notmetered
-meMA.Ode7C1T.incipit = "O Theotokos, He who is"
+meMA.Ode7C1T.incipit = "O Theotokos, He who is…"
 meMA.Ode7C1T.text = "O Theotokos, He who is holy took flesh of your flesh for himself, and thus He made you all-holy. He is the Lord, our God, who dwells in the holies."
 
 meMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
@@ -257,25 +257,25 @@ meMA.Ode8C1H.text = he.h.m4_en_US_dedes.LytrotaTouPantos.text
 meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode8C11.melody = he.h.m4_en_US_dedes.LytrotaTouPantos.notmetered
-meMA.Ode8C11.incipit = "O blessed Cyril, you cast"
+meMA.Ode8C11.incipit = "O blessed Cyril, you cast…"
 meMA.Ode8C11.text = "O blessed Cyril, you cast the sleep of indifference from the eyelids of your soul. Now you sleep the sleep that befits the just, and you have passed over to the day of never-setting light."
 
 meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode8C12.melody = he.h.m4_en_US_dedes.LytrotaTouPantos.notmetered
-meMA.Ode8C12.incipit = "O celebrated Cyril, you burned"
+meMA.Ode8C12.incipit = "O celebrated Cyril, you burned…"
 meMA.Ode8C12.text = "O celebrated Cyril, you burned up the heresies like dry sticks, with the lightning bolts of your words, and you enlightened the faithful to worship a Trinity of persons existing in one nature."
 
 meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode8C13.melody = he.h.m4_en_US_dedes.LytrotaTouPantos.notmetered
-meMA.Ode8C13.incipit = "O Cyril, as a godly"
+meMA.Ode8C13.incipit = "O Cyril, as a godly…"
 meMA.Ode8C13.text = "O Cyril, as a godly hierarch and minister of ineffable Mysteries, you sacrificed yourself through ascetic practice, and you offered the bloodless sacrifice to the Lord who died for you."
 
 meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode8C1T.melody = he.h.m4_en_US_dedes.LytrotaTouPantos.notmetered
-meMA.Ode8C1T.incipit = "O blessed Lady and glorious"
+meMA.Ode8C1T.incipit = "O blessed Lady and glorious…"
 meMA.Ode8C1T.text = "O blessed Lady and glorious Virgin, the pure Mother of God, through you we were redeemed from the curse of our first mother Eve. We bless and worship your All-holy Son."
 
 meMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
@@ -287,25 +287,25 @@ meMA.Ode9C1H.text = he.h.m4_en_US_dedes.EvaMenToTisParakois.text
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C11.melody = he.h.m4_en_US_dedes.EvaMenToTisParakois.notmetered
-meMA.Ode9C11.incipit = "O Hierarch, you desired to"
+meMA.Ode9C11.incipit = "O Hierarch, you desired to…"
 meMA.Ode9C11.text = "O Hierarch, you desired to see the ineffable glory of Christ, so you were diligently put to death the soul-corrupting passions and made your heart a vessel of the superior and higher wisdom. Therefore, we faithfully call you blessed."
 
 meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C12.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C12.melody = he.h.m4_en_US_dedes.EvaMenToTisParakois.notmetered
-meMA.Ode9C12.incipit = "O devout Cyril, Christ, the"
+meMA.Ode9C12.incipit = "O devout Cyril, Christ, the…"
 meMA.Ode9C12.text = "O devout Cyril, Christ, the Sun, put you in the height of the Church as a bright star, to illuminate with the rays of holy doctrines the hearts of those who faithfully keep your luminous memory."
 
 meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C13.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C13.melody = he.h.m4_en_US_dedes.EvaMenToTisParakois.notmetered
-meMA.Ode9C13.incipit = "O Father, you led your"
+meMA.Ode9C13.incipit = "O Father, you led your…"
 meMA.Ode9C13.text = "O Father, you led your life on earth as if bodiless, and thus you became a companion and fellow minister of the Angels. You were also a fellow communicant with the righteous and a peer of the holy hierarchs. As you join their chorus, remember us."
 
 meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C1T.melody = he.h.m4_en_US_dedes.EvaMenToTisParakois.notmetered
-meMA.Ode9C1T.incipit = "O all-immaculate Virgin Theotokos, by"
+meMA.Ode9C1T.incipit = "O all-immaculate Virgin Theotokos, by…"
 meMA.Ode9C1T.text = "O all-immaculate Virgin Theotokos, by the will of Him Who created all things by His command, you were born of a barren woman. my heart is barren of divine virtues, so I pray you to make it fruitful, so that I may extol you, who are extolled by all."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode

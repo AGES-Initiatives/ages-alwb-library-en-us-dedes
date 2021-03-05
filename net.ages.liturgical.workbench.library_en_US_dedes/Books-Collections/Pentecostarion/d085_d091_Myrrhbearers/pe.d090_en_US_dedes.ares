@@ -14,18 +14,18 @@ peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_dedes.dis00.resurrection
 
 peVE.Stichera01.mode = misc_en_US_dedes.Mode8
-peVE.Stichera01.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
-peVE.Stichera01.incipit = ""
+peVE.Stichera01.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+peVE.Stichera01.incipit = "…"
 peVE.Stichera01.text = ""
 
 peVE.Stichera02.mode = misc_en_US_dedes.Mode8
-peVE.Stichera02.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
-peVE.Stichera02.incipit = ""
+peVE.Stichera02.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+peVE.Stichera02.incipit = "…"
 peVE.Stichera02.text = ""
 
 peVE.Stichera03.mode = misc_en_US_dedes.Mode8
-peVE.Stichera03.melody = he.a.m8_en_US_dedes.OTouParadoxou.incipit
-peVE.Stichera03.incipit = ""
+peVE.Stichera03.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
+peVE.Stichera03.incipit = "…"
 peVE.Stichera03.text = ""
 
 peVE.SticGlory.mode = misc_en_US_dedes.Mode2
@@ -65,7 +65,7 @@ peMA.Kathisma12.text = oc.m2.d1_en_US_dedes.ocMA.Kathisma21.text
 
 peMA.Kathisma13.mode = misc_en_US_dedes.Mode2
 peMA.Kathisma13.melody = ""
-peMA.Kathisma13.incipit = "When the Martyrs of the"
+peMA.Kathisma13.incipit = "When the Martyrs of the…"
 peMA.Kathisma13.text = "When the Martyrs of the Lord competed in the contests, then through their faith the audacity of the ungodly was dimmed. Also, when inspired by God they brought an end to the error of idolatry, then they received the crowns of victory from on high. And now they intercede on behalf of our souls."
 
 peMA.Kathisma1T.mode = misc_en_US_dedes.Mode2
@@ -74,8 +74,8 @@ peMA.Kathisma1T.incipit = oc.m2.d4_en_US_dedes.ocMA.Kathisma13.incipit
 peMA.Kathisma1T.text = oc.m2.d4_en_US_dedes.ocMA.Kathisma13.text
 
 peMA.Kathisma21.mode = misc_en_US_dedes.Mode2
-peMA.Kathisma21.melody = he.a.m2_en_US_dedes.TaAnoZiton.incipit
-peMA.Kathisma21.incipit = "The Women with zeal brought"
+peMA.Kathisma21.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
+peMA.Kathisma21.incipit = "The Women with zeal brought…"
 peMA.Kathisma21.text = "The Women with zeal brought spices to Your sepulcher. * Their souls leapt for joy beholding the Angel's dazzling light. * And they boldly proclaimed You the King of all; * and said to the Disciples, * \"Truly the Life of all has risen from the grave.\""
 
 peMA.Lauds1.mode = misc_en_US_dedes.Mode2
@@ -99,17 +99,17 @@ peMA.LaudsGlory.incipit = pe.d085_en_US_dedes.peVE.Lity1.incipit
 peMA.LaudsGlory.text = pe.d085_en_US_dedes.peVE.Lity1.text
 
 peMA.Aposticha1.mode = misc_en_US_dedes.Mode2
-peMA.Aposticha1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
+peMA.Aposticha1.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 peMA.Aposticha1.incipit = pe.d088_en_US_dedes.peVE.Stichera01.incipit
 peMA.Aposticha1.text = pe.d088_en_US_dedes.peVE.Stichera01.text
 
 peMA.Aposticha2.mode = misc_en_US_dedes.Mode2
-peMA.Aposticha2.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
+peMA.Aposticha2.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 peMA.Aposticha2.incipit = pe.d088_en_US_dedes.peVE.Stichera03.incipit
 peMA.Aposticha2.text = pe.d088_en_US_dedes.peVE.Stichera03.text
 
 peMA.Aposticha3.mode = misc_en_US_dedes.Mode2
-peMA.Aposticha3.melody = he.a.m2_en_US_dedes.OteEkTouXylou.incipit
+peMA.Aposticha3.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 peMA.Aposticha3.incipit = pe.d088_en_US_dedes.peVE.Stichera03.incipit
 peMA.Aposticha3.text = pe.d088_en_US_dedes.peVE.Stichera03.text
 
