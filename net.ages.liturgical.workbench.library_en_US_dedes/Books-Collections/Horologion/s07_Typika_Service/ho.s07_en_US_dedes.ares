@@ -22,7 +22,7 @@ hoTY.Key0217.text = "Pardon, remit, forgive, O God, our offences, both voluntary
 //0400-0408
 
 hoTY.Key0408.mode = misc_en_US_dedes.Mode2
-hoTY.Key0408.incipit = "O Protection of Christians that…"
+hoTY.Key0408.incipit = "O Protection of Christians…"
 hoTY.Key0408.text = "O Protection of Christians that never falls, intercession with the Creator that never fails, we sinners beg you, do not ignore the voices of our prayers. O good Lady, we implore you, quickly come unto our aid, when we cry out to you with faith. Hurry to intercession, and hasten to supplication, O Theotokos who protect now and ever those who honor you."
 
 hoTY.Key0501.incipit = "All-Holy Trinity, the consubstantial dominion…"
@@ -33,16 +33,20 @@ hoLI.Antiphon1.text = "Through the intercessions of the Theotokos, Savior, save 
 
 hoLI.Antiphon21.text = "Save us, O Son of God,"
 hoLI.Antiphon22.text = "We sing to You, Alleluia."
+hoLI.Antiphon2s.incipit = "who arose from the dead…"
 hoLI.Antiphon2s.text = "who arose from the dead."
+hoLI.Antiphon2w.incipit = "who are wondrous in the saints…"
 hoLI.Antiphon2w.text = "who are wondrous in the saints."
 
+hoLI.EntranceHymn.incipit = "Come let us worship…"
 hoLI.EntranceHymn.text = "Come let us worship and bow down before Christ." //in the template add parts of Antiphon 2
-hoLI.EntranceHymn2s.incipit = "…"
+hoLI.EntranceHymn2s.incipit = hoLI.Antiphon2s.incipit
 hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
-hoLI.EntranceHymn2w.incipit = "…"
+hoLI.EntranceHymn2w.incipit = hoLI.Antiphon2w.incipit
 hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
 
 hoLI.TrisagiosHymn.title = "TRISAGIOS HYMN"
+hoLI.TrisagiosHymn.incipit = "Holy God…"
 hoLI.TrisagiosHymn.text = "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
 hoLI.TrisagiosHymn1.text = "Holy God."
 hoLI.TrisagiosHymn2.text = "Holy Mighty."
@@ -55,6 +59,7 @@ hoLI.MM.TrisagiosHymnBimatos.text = properties_en_US_dedes.media.key
 hoLI.TrisagiosHymnDynamis.text = "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
 
 hoLI.OsoiEisChriston.title = "INSTEAD OF HOLY GOD"
+hoLI.OsoiEisChriston.incipit = "As many of you…"
 hoLI.OsoiEisChriston.text = "As many of you as were baptized into Christ have put on Christ. Alleluia."
 hoLI.OsoiEisChriston1.text = "As many of you"
 hoLI.OsoiEisChriston2.text = "as were baptized into Christ"
@@ -64,6 +69,7 @@ hoLI.MM.OsoiEisChristonBimatos.text = properties_en_US_dedes.media.key
 hoLI.OsoiEisChristonDynamis.text = "As many of you as were baptized into Christ have put on Christ. Alleluia."
 
 hoLI.TonStavronSou.title = "INSTEAD OF HOLY GOD"
+hoLI.TonStavronSou.incipit = "Before Your Cross…"
 hoLI.TonStavronSou.text = "Before Your Cross, we bow down, O Master, and Your holy resurrection we glorify."
 hoLI.TonStavronSou1.text = "Before Your Cross, we bow down,"
 hoLI.TonStavronSou2.text = "O Master,"
