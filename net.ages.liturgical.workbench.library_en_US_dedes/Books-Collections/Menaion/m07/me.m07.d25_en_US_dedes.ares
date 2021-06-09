@@ -4,7 +4,7 @@ meDA.date = "July 25"
 meDA.commemoration.full = "Memory of the Repose of Saint Anna, the Mother of the Most Holy Theotokos." // full title of day
 meDA.commemoration.first = "Memory of the Repose of Saint Anna"
 meDA.commemoration.first_short = "Memory of the Repose of Saint Anna"
-meDA.commemoration.first_title = ""
+meDA.commemoration.first_title = "For St. Anna."
 meDA.commemoration.second_title = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "whose memory we celebrate," // for use in petitions and dismissal
@@ -19,12 +19,12 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode1
 meVE.Stichera01.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera01.incipit = "Holding the feast of the…"
+meVE.Stichera01.incipit = "Holding the feast of the righteous…"
 meVE.Stichera01.text = "Holding the feast of the righteous * and blessed Grandparents of Christ, * Joachim and Anna, * who are happy and holy, * we glorify the Lord with our mystical songs, * for in His love He appointed them * to intercede for us constantly and to pray * for the welfare and salvation of all."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode1
 meVE.Stichera02.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera02.incipit = "Anna, the formerly childless and…"
+meVE.Stichera02.incipit = "Anna, the formerly childless…"
 meVE.Stichera02.text = "Anna, the formerly childless and barren woman, produced * the one initiating * humanity's salvation. * Today she was transported to life on high, * where she constantly prays to Christ, * that He forgive the offenses of those who sing * hymns of praise to Him with faith and love."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode1
@@ -44,7 +44,7 @@ meVE.Stichera05.text = "Marvel at the wondrous paradox! * Now transported to lif
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode1
 meVE.Stichera06.melody = he.a.m1_en_US_dedes.OTouParadoxouThavmatos.name
-meVE.Stichera06.incipit = "Solemnly we faithful congregate *…"
+meVE.Stichera06.incipit = "Solemnly we faithful congregate…"
 meVE.Stichera06.text = "Solemnly we faithful congregate * for the feast in honor * of your dignified repose. * And moved by the Holy Spirit, we observe it with joy. * This holiday also shines * with cures and healing, the gifts of the grace of God. * It burns up and drives away * airborne malevolent spirits afflicting us; * it illumines the believers' * hearts and minds, as they extol * your distinguished translation, * O St. Anna, who are worthy of praise."
 
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
@@ -55,12 +55,12 @@ meVE.SticGlory.text = "That blameless and holy couple, Joachim and Anna, from th
 
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
 meVE.Lity1.melody = ""
-meVE.Lity1.incipit = "Anna, that all-venerable woman who…"
+meVE.Lity1.incipit = "Anna, that all-venerable woman…"
 meVE.Lity1.text = "Anna, that all-venerable woman who gave birth to Mary, the beginning of our salvation, is festively translated from the earth today. Come now, all you fans of the Church's feasts and lovers of Christ: let us bring her songs as if flowers, and let us sing to her. \"O temperate Anna, blessed is your womb, for it carried the Mother of God the Logos; and beautiful are your breasts that nursed her. Since she gave birth without seed to the Giver of life, she has been grated to reign with Him. And now He has translated you to life, unending and divine, and has granted you to live with His Mother, and to rejoice with her. We, who faithfully celebrate your memory, implore you to join her interceding for the salvation of our souls.\""
 
 meVE.Lity2.mode = misc_en_US_dedes.Mode2
 meVE.Lity2.melody = ""
-meVE.Lity2.incipit = "Come, all you fans of…"
+meVE.Lity2.incipit = "Come, all you fans of virginity…"
 meVE.Lity2.text = "Come, all you fans of virginity and admirers of chastity. Come, let us celebrate St. Anna's dignified repose. She is the one who amazingly gave birth to the fountain of life, to Mary, who in turn gave birth to a Child who is God, our Redeemer, who illumines and sanctifies our souls."
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode2
@@ -70,12 +70,12 @@ meVE.Lity3.text = "What a crowd of congregants, who have reverently assembled in
 
 meVE.Lity4.mode = misc_en_US_dedes.Mode4
 meVE.Lity4.melody = ""
-meVE.Lity4.incipit = "Come all believers, let us…"
+meVE.Lity4.incipit = "Come all believers…"
 meVE.Lity4.text = "Come all believers, let us splendidly celebrate today the memory of the righteous Joachim and Anna, the Grandparents of God. They produced Mary, the spotless Mother of our Savior. So let us call out to them, \"O couple selected by God, holy husband and wife honored by God, entreat Christ God, who sprang from your loins, to have mercy on our souls.\""
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode5
 meVE.LityGlory.melody = ""
-meVE.LityGlory.incipit = "O blessed couple! You have…"
+meVE.LityGlory.incipit = "O blessed couple!…"
 meVE.LityGlory.text = "O blessed couple! You have been exalted above all parents, for you produced a daughter who exceeds all creation. You are truly blessed, O Joachim, as the father of such a child. And Anna, blessed is your womb, for it produced the Mother of our life. Blessed also are your breasts, at which you nursed her who would in turn nurse the One who feeds everything that breathes. We entreat you, O all blessed Saints, to implore Him to have mercy on our souls."
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
@@ -105,7 +105,7 @@ meVE.Apolytikion1.text = "You carried within your womb her who was pregnant with
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode3
 meMA.Kathisma11.melody = he.a.m3_en_US_dedes.TinOraiotita.name
-meMA.Kathisma11.incipit = "The most illustrious, praiseworthy, God-inspired…"
+meMA.Kathisma11.incipit = "The most illustrious…"
 meMA.Kathisma11.text = "The most illustrious, praiseworthy, God-inspired * and ever-ven'rable Anna is lifted up, * from the temporal life on earth and taken to life immortal, * living in eternity, joining chorus with hosts on high, * interceding ceaselessly with her daughter, the undefiled * Theotokos, for the salvation * of those who call her blessed with faith and love."
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode1
@@ -121,7 +121,7 @@ meMA.C1.verse = prayers_en_US_dedes.verse_SaintW.text
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C11.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
-meMA.Ode1C11.incipit = "All-lauded St. Anna, pray for…"
+meMA.Ode1C11.incipit = "All-lauded St. Anna, pray for me…"
 meMA.Ode1C11.text = "All-lauded St. Anna, pray for me today as I celebrate * your luminous memory, that all my sins be absolved, * that I might receive divine illumination, * be rescued from evils, and that I correct my life."
 
 meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
@@ -168,7 +168,7 @@ meMA.Ode3C1T.text = "O Theotokos, * we have you for protection and strong suppor
 
 meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
-meMA.Ode3Kathisma1.incipit = "Having strictly abided by the…"
+meMA.Ode3Kathisma1.incipit = "Having strictly abided…"
 meMA.Ode3Kathisma1.text = "Having strictly abided by the commands * of the Lord and Creator, O all-renowned * Anna, you thus became the mother of His mother. * And therefore when you died you were truly transported to * immortal life on high, and indeed never-setting light. * Therefore we are always filled with light in the Spirit, * whenever we celebrate your splendid holy memory. * All together we sing to you: * Intercede with Christ our God, that He grant forgiveness of offenses * to us who keep your all-holy memory with faith and love."
 
 meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
@@ -330,22 +330,22 @@ meMA.Ode9C1T.text = "Mary, I implore you, Lady of the universe, * that you free 
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion1.incipit = "Of righteous Anna, called by…"
+meMA.Exaposteilarion1.incipit = "Of righteous Anna, called by God…"
 meMA.Exaposteilarion1.text = "Of righteous Anna, called by God, * let us duly sing praises. * For she conceived beyond all hope * and bore the Virgin Mary, * the most-holy Theotokos; * and in so doing she was * shone forth to be the kin of Christ * our Redeemer; and He has today as God * taken her to join Him on high in heaven. * She intercedes on our behalf * and for the sake of world peace."
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode1
 meMA.Lauds1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meMA.Lauds1.incipit = "Holding this happy observance, we…"
+meMA.Lauds1.incipit = "Holding this happy observance…"
 meMA.Lauds1.text = "Holding this happy observance, we sing Your praises, O Christ; * for from this life that passes * You wondrously translated * to unending glory Anna who bore * Your own Mother, the Virgin Maid, * and Theotokos who seedlessly would conceive * and ineffably give birth to You."
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode1
 meMA.Lauds2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meMA.Lauds2.incipit = "Holding the feast of the…"
+meMA.Lauds2.incipit = "Holding the feast of the righteous…"
 meMA.Lauds2.text = "Holding the feast of the righteous * and blessed Grandparents of Christ, * Joachim and Anna, * who were saintly and blameless, * we glorify our merciful Savior and Lord and Redeemer unceasingly, * who from this life that is fleeting translated them * to immortal life that ages not."
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode1
 meMA.Lauds3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meMA.Lauds3.incipit = "To immaterial choirs, to where…"
+meMA.Lauds3.incipit = "To immaterial choirs…"
 meMA.Lauds3.text = "To immaterial choirs, to where the Just reside, * wherein angelic orders and the saints all assemble, * are taken now the spirits of Joachim * and of Anna, that righteous pair, * to celebration and joy. As we sing their praise, * let us call them blessed reverently."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode2
