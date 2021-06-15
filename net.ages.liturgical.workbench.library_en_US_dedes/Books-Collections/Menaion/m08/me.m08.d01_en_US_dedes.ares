@@ -17,6 +17,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
+meTY.note1 = "According to the notes in the Typikon (TME, 1 Aug. § 2, p. 295) and the Menaion, wherever the procession and veneration of the Holy Cross is held – using the order of the Third Sunday of Lent – at the end of the ceremony, sing, \"Save, O Lord, Your people...\" and at the Divine Liturgy use the Antiphons of the Third Sunday of Lent. Also, instead of the Trisagion, sing, \"We venerate Your Cross...\""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
@@ -56,7 +57,7 @@ meVE.SticGlory.text = ""
 
 meVE.SticBoth.mode = misc_en_US_dedes.Mode8
 meVE.SticBoth.melody = ""
-meVE.SticBoth.incipit = "Long ago, Moses prefigured Your…"
+meVE.SticBoth.incipit = "Long ago, Moses prefigured…"
 meVE.SticBoth.text = "Long ago, Moses prefigured Your precious Cross in himself, and he defeated Amalek and put them to flight. And David, that musician, called it a footstool and decreed that we worship You there, O Christ God. Today, as we sinners with unworthy lips kiss the Cross and worship You, who accepted to be nailed to it, we extol You and pray: Lord, as You did for the Robber, count us worthy of Your kingdom" // similar/same as me.m09.d14_en_US_dedes.meVE.AposGlory.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
@@ -98,7 +99,7 @@ meVE.Apolytikion2.text = me.m09.d14_en_US_dedes.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
 meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-meMA.Kathisma11.incipit = "All mortal nature, come, celebrate…"
+meMA.Kathisma11.incipit = "All mortal nature…"
 meMA.Kathisma11.text = "All mortal nature, come, celebrate all together * and mystically exult; for today is presented * the wood of the precious Cross, as a free source of cures and health, * unto those who run to it with reverence and longing * and give glory to the Master crucified on it, * to Christ who loves humanity."
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
@@ -733,12 +734,12 @@ meMA.Exaposteilarion2.text = me.m09.d14_en_US_dedes.meMA.Exaposteilarion1.text
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode4
 meMA.Lauds1.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meMA.Lauds1.incipit = "Let us shout with exultant…"
+meMA.Lauds1.incipit = "Let us shout with exultant joy…"
 meMA.Lauds1.text = "Let us shout with exultant joy, and in odes let us magnify * the all-precious Cross and salute it with a kiss. * And let us cry out to it and say, * \"O Cross ever-ven'rable, by the power you possess, * sanctify us in every way, soul and body too. * From all manner of injury arising from our enemies preserve us * who venerate you in piety.\""
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode4
 meMA.Lauds2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meMA.Lauds2.incipit = "Come, believers, and faithfully *…"
+meMA.Lauds2.incipit = "Come, believers, and faithfully…"
 meMA.Lauds2.text = "Come, believers, and faithfully * draw the waters that never fail, * issuing abundantly by the Cross's grace, * as we behold set before us now * the wood of the holy tree, * yes, the wellspring of the gifts * of the Spirit, which is itself * watered by the blood * and the water that issued from the Master who was willingly exalted * thereon, exalting humanity."
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode4
@@ -768,7 +769,7 @@ meMA.LaudsGlory.text = ""
 
 meMA.LaudsBoth.mode = misc_en_US_dedes.Mode4
 meMA.LaudsBoth.melody = ""
-meMA.LaudsBoth.incipit = "O Lord, you fought as…"
+meMA.LaudsBoth.incipit = "O Lord, you fought as an ally…"
 meMA.LaudsBoth.text = "O Lord, you fought as an ally of David, the most meek king, to subdue the Philistine. Will you now likewise fight for our faithful leader; and subdue our enemies, with the weapon of the Cross. Demonstrate on us the mercy you showed in times past, O compassionate Lord; and let them surely know that you are God, and that we are victorious because we have trusted in you, and because your immaculate Mother intercedes that you give us your great mercy."
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
