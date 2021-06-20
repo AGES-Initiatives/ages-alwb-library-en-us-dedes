@@ -4,8 +4,8 @@ meDA.date = "August 6"
 meDA.commemoration.full = "Commemoration of the Holy Transfiguration of our Lord God and Savior Jesus Christ." // full title of day
 meDA.commemoration.first = "Commemoration of the Transfiguration of our Savior"
 meDA.commemoration.first_short = "Commemoration of the Transfiguration of our Savior"
-meDA.commemoration.first_title = "For the Transfiguration."
-meDA.commemoration.second_title = ""
+meDA.commemoration.first_title = "For the feast."
+meDA.commemoration.second_title = "For the Transfiguration."
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
@@ -35,12 +35,12 @@ meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = misc_en_US_dedes.Mode8
 meSV.SticGlory.melody = ""
-meSV.SticGlory.incipit = "The dark cloud, spoken of…"
+meSV.SticGlory.incipit = "The dark cloud…"
 meSV.SticGlory.text = "The dark cloud, spoken of in the Old Testament, has been replaced by the bright cloud of the Transfiguration, within which Moses and Elias appeared; and they were granted that super-luminous glory, and they said to God, \"You are our God, the King of the ages!\""
 
 meSV.Aposticha1.mode = misc_en_US_dedes.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meSV.Aposticha1.incipit = "Christ our Savior today *…"
+meSV.Aposticha1.incipit = "Christ our Savior today…"
 meSV.Aposticha1.text = "Christ our Savior today * ascended Tabor Mountain, * and there transfigured Adam's * impaired and darkened nature. He deified and brightened it."
 
 meSV.Aposticha2.mode = misc_en_US_dedes.Mode2
@@ -55,7 +55,7 @@ meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = misc_en_US_dedes.Mode2
 meSV.AposGlory.melody = he.a.m2_en_US_dedes.OikosTouEfratha.name
-meSV.AposGlory.incipit = "On Mount Tabor today *…"
+meSV.AposGlory.incipit = "On Mount Tabor today…"
 meSV.AposGlory.text = "On Mount Tabor today * did Moses and Elijah * see God, who was incarnate * of the all-holy Virgin to free and save humanity."
 
 meVE.Stichera01.poet = poets_en_US_dedes.KosmaMonachou
@@ -66,17 +66,17 @@ meVE.Stichera01.text = "Before Your crucifixion, O Lord, the Mount became like h
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
 meVE.Stichera02.melody = ""
-meVE.Stichera02.incipit = "Before Your crucifixion, O Lord…"
+meVE.Stichera02.incipit = "Before Your crucifixion, O Lord, You took…"
 meVE.Stichera02.text = "Before Your crucifixion, O Lord, You took Your Disciples and led them up a high mountain, and You were transfigured before them. You illumined them with rays of Your power, demonstrating Your love for humanity as well as Your authority. You wished to show them the radiance of the Resurrection. Grant us to experience the Resurrection in peace, O God, since You are merciful and You love mankind."
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = ""
-meVE.Stichera03.incipit = "When You were transfigured on…"
+meVE.Stichera03.incipit = "When You were transfigured…"
 meVE.Stichera03.text = "When You were transfigured on a high mountain, O Savior, having with You those paramounts of Your Disciples, You shone forth with glory. Your intention was to show that those who attain the height of virtue will also be counted worthy of divine glory. Moses and Elias conversed with Christ, to show that He is the Lord of the living and the dead, and that the One who spoke through the Law and the Prophets of old was God. It was to Him that the voice of the Father bore witness from the bright cloud saying, \"Listen to Him.\" He is the One who despoiled Hades through the Cross, and who granted the dead eternal life."
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 meVE.Stichera04.melody = ""
-meVE.Stichera04.incipit = "That Mount, which once was…"
+meVE.Stichera04.incipit = "That Mount, which once was dark…"
 meVE.Stichera04.text = "That Mount, which once was dark and smoky, is now revered and holy, for Your feet stood on it, O Lord. The mystery, which was hidden before all ages, was revealed in latter days by Your terrific Transfiguration, to Peter, John and James. They could not bear the shining ray of Your face nor the radiance of Your garments, so they fell on their faces, weighed down to the ground. In a state of ecstasy, they marveled as they watched Moses and Elias speaking with You about what was going to happen to You. Then the voice of the Father bore witness to You and said, \"This is my beloved Son, in whom I am well pleased. Listen to Him, who also grants the world the great mercy.\""
 
 meVE.MM.Stichera1234as3456.text = properties_en_US_dedes.media.key
@@ -85,7 +85,7 @@ meVE.MM.Stichera1234as78910.text = properties_en_US_dedes.media.key
 meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "Prefiguring Your Resurrection, O Christ…"
+meVE.SticGlory.incipit = "Prefiguring Your Resurrection…"
 meVE.SticGlory.text = "Prefiguring Your Resurrection, O Christ God, You took Your three Disciples with You, Peter, James, and John, and You went up Mount Tabor. As You were transfigured, O Savior, Mount Tabor was covered in light. O Logos, Your Disciples threw themselves to the ground, unable to look at the form which no one can see. Angels served with fear and trembling, the heavens were in awe, and the earth shuddered; for they saw here on earth the Lord of glory."
 
 meVE.Lity1.mode = misc_en_US_dedes.Mode2
@@ -120,27 +120,27 @@ meVE.Aposticha1.text = "He who of old conversed with Moses on Mount Sinai throug
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha2.melody = ""
-meVE.Aposticha2.incipit = "When David, that ancestor of…"
+meVE.Aposticha2.incipit = "When David, that ancestor of God…"
 meVE.Aposticha2.text = "When David, that ancestor of God, foresaw in the Spirit a long time ago that You, the Only-begotten Son, would visit mankind in the flesh, he invited all creation to celebrate. And he cried out prophetically, \"Tabor and Hermon shall greatly rejoice in Your name.\" And now, O Savior, as You mount that Mountain with Your Disciples, and as You are transfigured there, You have made our nature that was darkened in Adam to shine brightly again, transforming it into the glory and radiance of Your Divinity. Therefore we cry out to You: O Creator of all, glory to You, O Lord!"
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha3.melody = ""
-meVE.Aposticha3.incipit = "When Your foremost Apostles saw…"
+meVE.Aposticha3.incipit = "When Your foremost Apostles…"
 meVE.Aposticha3.text = "When Your foremost Apostles saw Your illimitable illumination and Your unapproachable Divinity on the Mountain of Your Transfiguration, O unoriginate Christ, they were changed by divine ecstasy. As a bright cloud shone all around them, they heard the Father's voice confirming the mystery of Your incarnation, that even after becoming human, You are one and the same Only-begotten Son and Savior of the world."
 
 meVE.AposGlory.mode = misc_en_US_dedes.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "Today on Mount Tabor, O…"
+meVE.AposGlory.incipit = "Today on Mount Tabor…"
 meVE.AposGlory.text = "Today on Mount Tabor, O Lord, You showed to Your foremost Disciples, Peter, James and John, the glory of Your divine appearance. For they watched as Your clothes were shining white as the light, and Your face shone brighter than the sun. But they could not bear to look and see Your unbearable shining, and they fell on the ground. Then they heard a voice bearing witness from above, \"This is My beloved Son, who has come to the world to save humanity.\""
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode7
 meVE.Apolytikion1.melody = ""
-meVE.Apolytikion1.incipit = "You were transfigured upon the…"
+meVE.Apolytikion1.incipit = "You were transfigured upon the mountain…"
 meVE.Apolytikion1.text = "You were transfigured upon the mountain, O Christ our God, showing to Your disciples Your glory as much as they could bear. Do also in us, sinners though we may be, shine Your everlasting light, by the intercessions of the Theotokos, O Giver of light. Glory to You."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma11.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
-meMA.Kathisma11.incipit = "On Mt. Tabor, You, O…"
+meMA.Kathisma11.incipit = "On Mt. Tabor, You, O Christ…"
 meMA.Kathisma11.text = "On Mt. Tabor, You, O Christ, were transfigured, and You showed * the transformation humankind will undergo when glorified * by You, O Savior, at Your awesome Second Coming. * Moses and Elias were conversing with You. * Those three foremost Disciples that You brought with You * beheld the glory of You their Master * and were amazed by the brilliant light. * O Lord, who shined then Your light upon them, we pray You also illumine our souls."
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
@@ -409,7 +409,7 @@ meMA.Ode6C23.text = ""
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode7
 meMA.Kontakion1.melody = ""
-meMA.Kontakion1.incipit = "Upon the mountain were You…"
+meMA.Kontakion1.incipit = "Upon the mountain were You transfigured…"
 meMA.Kontakion1.text = "Upon the mountain were You transfigured, and Your disciples beheld Your glory as far as they were able, O Christ our God; so that when they would see You crucified they might understand that Your Passion was deliberate, and declare to the world that in truth You are the Father's radiance."
 
 meMA.Oikos1.text = "Awake you dull thoughts, be not always groveling and bending my soul towards the earth; arise and go up to the height of divine ascent. Let us run to join Peter and Zebedee's sons, and with them go directly to Mount Tabor; that with them we may see the glory of our God, and may also hear the voice that they heard from heaven; and they proclaimed the Father's radiance."
@@ -459,7 +459,7 @@ meMA.Ode7C22.text = ""
 meMA.Ode7C23.ode = misc_en_US_dedes.Ode7
 meMA.Ode7C23.mode = misc_en_US_dedes.Mode8
 meMA.Ode7C23.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
-meMA.Ode7C23.incipit = "Now we have heard what…"
+meMA.Ode7C23.incipit = "Now we have heard…"
 meMA.Ode7C23.text = "Now we have heard what was unheard of. * For the Father’s voice has gloriously borne witness * to His Son, who was born without a father from the Virgin, * because the Son is God and man, * in one person, to the ages."
 
 meMA.Ode7C24.ode = misc_en_US_dedes.Ode7
@@ -537,7 +537,7 @@ meMA.Ode9C1H.text = he.h.m4_en_US_dedes.OTokosSouAfthoros.text
 meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C11.mode = misc_en_US_dedes.Mode4
 meMA.Ode9C11.melody = he.h.m4_en_US_dedes.OTokosSouAfthoros.name
-meMA.Ode9C11.incipit = "Trembling at the new and…"
+meMA.Ode9C11.incipit = "Trembling at the new…"
 meMA.Ode9C11.text = "Trembling at the new and brilliant shining, * suddenly illumined the Disciples * looked at one another. * And falling down with their faces to the ground, * they worshipped You the sovereign Master of the universe."
 
 meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
@@ -579,7 +579,7 @@ meMA.Ode9C22.text = "People, come listen to me. * Let us climb that mountain, ho
 meMA.Ode9C23.ode = misc_en_US_dedes.Ode9
 meMA.Ode9C23.mode = misc_en_US_dedes.Mode8
 meMA.Ode9C23.melody = he.h.m8_en_US_dedes.EfrixePasaAkoi.name
-meMA.Ode9C23.incipit = "You have enraptured me, O…"
+meMA.Ode9C23.incipit = "You have enraptured me…"
 meMA.Ode9C23.text = "You have enraptured me, O Christ, * with Your longing and transformed me with love divine. * I pray, completely consume * with immaterial fire all my sins. * And count me worthy to be filled * fully with the delight in You, * that I may magnify * both Your Comings, O good Master, exultantly."
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
@@ -589,27 +589,28 @@ meMA.Exaposteilarion1.text = he.a.m3_en_US_dedes.FosAnalloioton.text
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode4
 meMA.Lauds1.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
-meMA.Lauds1.incipit = "Before Your Passion and holy…"
+meMA.Lauds1.incipit = "Before Your Passion…"
 meMA.Lauds1.text = "Before Your Passion and holy crucifixion, * You went up Mt. Tabor, and You brought along the three * holy Disciples whom you had picked, wishing to show them * the divine glory, O Master, that is Yours. * And indeed they witnessed You transfigured, and they saw * that You were shining more brightly than the sun; and then they * fell on their faces and they were filled with awe * at Your dominion; and they cried aloud, * \"Although willingly seen in the flesh, O Christ, * You are still, without changing, the Father's brightness and timeless light.\""
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode4
 meMA.Lauds2.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
-meMA.Lauds2.incipit = "O God the Word, who…"
+meMA.Lauds2.incipit = "O God the Word…"
 meMA.Lauds2.text = "O God the Word, who exist before the ages, * who cover yourself with light as with a garment, O Lord, * with Your Disciples as witnesses You were transfigured, * O Logos, shining more brightly than the sun. * Moses and Elias stood by You betokening * that You are truly the Lord of both the dead and living; * and they gave glory to Your ineffable * plan of salvation by becoming man, * whereby You in Your mercy have saved the world, * in Your great condescension, * for it was perishing because of sin."
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode4
 meMA.Lauds3.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
-meMA.Lauds3.incipit = "When Your Disciples were with…"
+meMA.Lauds3.incipit = "When Your Disciples…"
 meMA.Lauds3.text = "When Your Disciples were with You on Mt. Tabor, * the voice of the Father called You His beloved Son, * thereby acknowledging that You are the same in essence * and share the throne, and in You He is well pleased. * The Virgin from whom You were incarnate was the cloud * the Prophet called swift and light. And now, being transfigured, * a cloud of light has encompassed You, O Lord. * O Benefactor, very merciful, * in amazement and not knowing what to say, * Peter said to You, Jesus, \"It is well that we are here, O Lord.\""
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.Vyzantos
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = "Christ took Peter, James, and…"
+meMA.LaudsGlory.incipit = "Christ took Peter, James, and John…"
 meMA.LaudsGlory.text = "Christ took Peter, James, and John, and led them up on a high mountain apart by themselves; and He was transfigured before them; and His face shone like the sun, and His clothes became as white as the light. Moses and Elijah appeared to them, talking with Him. Then a bright cloud overshadowed them; and suddenly a voice came out of the cloud, saying, \"This is My beloved Son, in whom I am well pleased. Listen to Him!\""
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
 
+meLI.Antiphon2.incipit = "who were transfigured on Mt. Tabor…"
 meLI.Antiphon2.text = "who were transfigured on Mt. Tabor."
 
 meLI.MM.EntranceHymn.text = properties_en_US_dedes.media.key
