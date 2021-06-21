@@ -4,7 +4,7 @@ meDA.date = "August 29"
 meDA.commemoration.full = "Commemoration of the Beheading of the Holy and Glorious Prophet, Forerunner and Baptist John." // full title of day
 meDA.commemoration.first = "Commemoration of the Beheading of the Holy Forerunner"
 meDA.commemoration.first_short = "Commemoration of the Beheading of the Holy Forerunner"
-meDA.commemoration.first_title = ""
+meDA.commemoration.first_title = "For the Forerunner."
 meDA.commemoration.second_title = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
@@ -35,7 +35,7 @@ meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode6
 meVE.Stichera04.melody = ""
-meVE.Stichera04.incipit = "Once again Herodias is in…"
+meVE.Stichera04.incipit = "Once again Herodias is in a rage…"
 meVE.Stichera04.text = "Once again Herodias is in a rage; once again she is troubled. Oh, dance full of treachery; oh, drinking party of deceit! The Baptist was decapitated, and Herod was agitated. At the intercession of Your Forerunner, O Lord, grant peace to our souls."
 
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
@@ -77,7 +77,7 @@ meVE.LityBoth.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode2
 meVE.Aposticha1.melody = ""
-meVE.Aposticha1.incipit = "O Baptist John, preacher of…"
+meVE.Aposticha1.incipit = "O Baptist John…"
 meVE.Aposticha1.text = "O Baptist John, preacher of repentance, when your head was cut off you sanctified the earth, for you spread the Law of God to the faithful, and made lawlessness disappear. As one present at the throne of Christ, the heavenly King, plead with Him to have mercy on our souls."
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode2
@@ -107,17 +107,17 @@ meVE.Apolytikion1.text = "The memory of the just is observed with hymns of prais
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode5
 meMA.Kathisma11.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
-meMA.Kathisma11.incipit = "Come together, believers, and let…"
+meMA.Kathisma11.incipit = "Come together, believers…"
 meMA.Kathisma11.text = "Come together, believers, and let us all extol * John the Baptist who stands in between the Law and Grace; * for he publicly proclaimed repentance to us; * and courageously denouncing King Herod openly, * he was unjustly beheaded. * And as he lives now with the Angels, * he intercedes with Christ to save our souls."
 
 meMA.Kathisma1T.mode = misc_en_US_dedes.Mode5
 meMA.Kathisma1T.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
-meMA.Kathisma1T.incipit = "The exceptional wonder of how…"
+meMA.Kathisma1T.incipit = "The exceptional wonder…"
 meMA.Kathisma1T.text = "The exceptional wonder of how He was conceived, * and ineffable manner of how your Son was born, * O pure and ever-virgin Maid, have been revealed in you. * And astonished is my mind, and my reason is amazed * by your glory, O Theotokos, * which over all has been spread out * for our protection and to save our souls."
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode5
 meMA.Kathisma21.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
-meMA.Kathisma21.incipit = "To the Forerunner John and…"
+meMA.Kathisma21.incipit = "To the Forerunner John…"
 meMA.Kathisma21.text = "To the Forerunner John and the baptizer of Christ,* who to us was shone forth as a Prophet from the womb * and has risen on the world as a shining light * from the barren one: to him let us offer hymns of praise, as a victorious athlete, * who intercedes with the Master, to have mercy upon our souls."
 
 meMA.Kathisma2T.mode = misc_en_US_dedes.Mode5
@@ -127,12 +127,12 @@ meMA.Kathisma2T.text = oc.m5.d3_en_US_dedes.ocVE.ApolTheotokionVM.text
 
 meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma31.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
-meMA.Kathisma31.incipit = "You shone forth from one…"
+meMA.Kathisma31.incipit = "You shone forth from one barren…"
 meMA.Kathisma31.text = "You shone forth from one barren by God's decree; * and you lifted the gag on your father's speech. * To us you made known the Sun, who is the luminous morning-star; * and you proclaimed Him Creator to the people in the wilderness, * and you called Him the Lamb who takes away the sins of the world. * Therefore when you zealously denounced King Herod, * that glorious head of yours was cut off, O all-lauded one, * holy John the Forerunner. * Intercede with Christ our God * that He grant forgiveness of offences * to those who with longing observe your holy memory."
 
 meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
-meMA.Kathisma3T.incipit = "Holy Virgin and Mother of…"
+meMA.Kathisma3T.incipit = "Holy Virgin and Mother of Christ…"
 meMA.Kathisma3T.text = "Holy Virgin and Mother of Christ our God, * I entreat you most earnestly now to cure * the passions that plague my soul, * and to grant me forgiveness * for the sins and offences * that I committed mindlessly, * thus polluting my body, * wretched one that I am. * Oh! And how I shudder at the thought of that hour * when Angels will separate my soul from my body. * Then, alas! What shall become of me? * O Lady, hence I pray you will come * to my aid as an ardent helper then. * For I your unworthy servant * have you as my only hope."
 
 meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
@@ -234,7 +234,7 @@ meMA.Ode3C1T.text = ""
 meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C21.mode = misc_en_US_dedes.Mode8
 meMA.Ode3C21.melody = he.h.m8_en_US_dedes.OuraniasApsidos.notmetered
-meMA.Ode3C21.incipit = "As the Mediator between the…"
+meMA.Ode3C21.incipit = "As the Mediator between the Old…"
 meMA.Ode3C21.text = "As the Mediator between the Old and New Covenants, you were a leader in preaching the Gospel, O Forerunner; and when you denounced the unlawful fornication of the tyrant, you famously went to your death rejoicing."
 
 meMA.Ode3C22.ode = misc_en_US_dedes.Ode3
@@ -416,7 +416,7 @@ meMA.Ode6C2T.text = "We pray you, who by a word alone bore the Word within your 
 
 meMA.Kontakion1.mode = misc_en_US_dedes.Mode5
 meMA.Kontakion1.melody = ""
-meMA.Kontakion1.incipit = "The Forerunner's glorious decapitation occurred…"
+meMA.Kontakion1.incipit = "The Forerunner's glorious decapitation…"
 meMA.Kontakion1.text = "The Forerunner's glorious decapitation occurred out of divine dispensation, so that even to those in Hades he should declare the coming of the Savior. Therefore, mourn, O Herodias, who asked for unlawful murder: The law of God, nor the living age did she love, but one contrived and fleeting."
 
 meMA.Oikos1.text = "Herod's birthday festivities seemed to all unhallowed, for in the midst of the debauchers, the head of the Faster was like a meaty dish presented. Sadness joined to joy, and with laughter, wailing bitter blended; for as the girl entered in before all, bearing on a platter the brow of the Baptist through mad desire, as it says, lamentation fell likewise on the king and all the banqueters. For it did not delight them, nor Herod himself, it says; and they were dampened with a sadness that wasn't real, but one contrived and fleeting."
@@ -572,7 +572,7 @@ meMA.Exaposteilarion1.text = "On him renowned as greatest among the Prophets, * 
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode3
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
-meMA.Exaposteilarion2.incipit = "That lecherous King Herod, *…"
+meMA.Exaposteilarion2.incipit = "That lecherous King Herod…"
 meMA.Exaposteilarion2.text = "That lecherous King Herod, * through treachery, beheaded you, * the Savior's Prophet and Baptist * and promoter of chastity. * But he could in no way cut off * your tongue's denunciations."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
@@ -582,17 +582,17 @@ meMA.ExapTheotokion.text = "O pure one, through you was lifted * the ancient cur
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode8
 meMA.Lauds1.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meMA.Lauds1.incipit = "What a paradoxal miracle! *…"
+meMA.Lauds1.incipit = "What a paradoxal miracle…"
 meMA.Lauds1.text = "What a paradoxal miracle! * The Prophet John's sacred head, * which the Angels revere in awe, * was paraded round about * by a wanton licentious girl. * To her adulterous mother she offered it: * with it, the tongue that accused the lawless king. * Oh, the ineffable * forbearance You showed, O lover of mankind! * Therefore save our souls, O Christ * alone compassionate."
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode8
 meMA.Lauds2.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meMA.Lauds2.incipit = "Such was the hardness of…"
+meMA.Lauds2.incipit = "Such was the hardness…"
 meMA.Lauds2.text = "Such was the hardness of Herod's heart! * For while dishonoring God * by refusing to keep the Law, * he deceitfully pretends * that he honors the oaths he makes; * and he adds murder to his adultery, * and then he feigns a dejected countenance. * Oh, the ineffable * tender mercy You, O Master, have for us! * Therefore save our souls, O Christ * alone compassionate."
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode8
 meMA.Lauds3.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-meMA.Lauds3.incipit = "What an appalling atrocity! *…"
+meMA.Lauds3.incipit = "What an appalling atrocity…"
 meMA.Lauds3.text = "What an appalling atrocity! * The very Angel on earth * and the seal of the Prophets all * has been shown to be the prize * for the dance of a prostitute. * The tongue that utters the words of God is sent * to those in Hades, foretelling them of Christ. * Oh, the ineffable * providence that You, O Master, have for all! * Therefore save our souls, O Christ * alone compassionate."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
@@ -635,4 +635,3 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
-
