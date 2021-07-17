@@ -83,22 +83,17 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m05.d08_en_US_dedes.meVE.SticGlory.incipit
 meVE.SticGlory.text = me.m05.d08_en_US_dedes.meVE.SticGlory.text
 
-meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
-meVE.SticTheotokion.melody = ""
-meVE.SticTheotokion.incipit = oc.m2.d1_en_US_dedes.ocVE.SticTheotokion.incipit
-meVE.SticTheotokion.text = oc.m2.d1_en_US_dedes.ocVE.SticTheotokion.text
-
 meVE.Lity1.poet = poets_en_US_dedes.Germanou
 meVE.Lity1.mode = misc_en_US_dedes.Mode1
 meVE.Lity1.melody = ""
-meVE.Lity1.incipit = "…"
-meVE.Lity1.text = ""
+meVE.Lity1.incipit = me.m05.d08_en_US_dedes.meVE.Lity1.incipit
+meVE.Lity1.text = me.m05.d08_en_US_dedes.meVE.Lity1.text
 
 meVE.Lity2.poet = poets_en_US_dedes.AndreouPyrou
 meVE.Lity2.mode = misc_en_US_dedes.Mode1
 meVE.Lity2.melody = ""
-meVE.Lity2.incipit = "…"
-meVE.Lity2.text = ""
+meVE.Lity2.incipit = me.m05.d08_en_US_dedes.meVE.Lity2.incipit
+meVE.Lity2.text = me.m05.d08_en_US_dedes.meVE.Lity2.text
 
 meVE.Lity3.mode = misc_en_US_dedes.Mode1
 meVE.Lity3.melody = ""
@@ -107,20 +102,20 @@ meVE.Lity3.text = ""
 
 meVE.Lity4.mode = misc_en_US_dedes.Mode1
 meVE.Lity4.melody = ""
-meVE.Lity4.incipit = "…"
-meVE.Lity4.text = ""
+meVE.Lity4.incipit = me.m05.d08_en_US_dedes.meVE.Lity3.incipit
+meVE.Lity4.text = me.m05.d08_en_US_dedes.meVE.Lity3.text
 
 meVE.Lity5.poet = poets_en_US_dedes.Theofanous
 meVE.Lity5.mode = misc_en_US_dedes.Mode2
 meVE.Lity5.melody = ""
-meVE.Lity5.incipit = "…"
-meVE.Lity5.text = ""
+meVE.Lity5.incipit = me.m05.d08_en_US_dedes.meVE.Lity4.incipit
+meVE.Lity5.text = me.m05.d08_en_US_dedes.meVE.Lity4.text
 
 meVE.LityGlory.poet = poets_en_US_dedes.Vyzantiou
 meVE.LityGlory.mode = misc_en_US_dedes.Mode4
 meVE.LityGlory.melody = ""
-meVE.LityGlory.incipit = "…"
-meVE.LityGlory.text = ""
+meVE.LityGlory.incipit = me.m05.d08_en_US_dedes.meVE.LityGlory.incipit
+meVE.LityGlory.text = me.m05.d08_en_US_dedes.meVE.LityGlory.text
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode4
 meVE.LityBoth.melody = ""
@@ -147,11 +142,6 @@ meVE.AposGlory.mode = misc_en_US_dedes.Mode6
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = me.m05.d08_en_US_dedes.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m05.d08_en_US_dedes.meVE.AposGlory.text
-
-meVE.AposTheotokion.mode = misc_en_US_dedes.Mode6
-meVE.AposTheotokion.melody = ""
-meVE.AposTheotokion.incipit = oc.m6.d1_en_US_dedes.ocVE.AposTheotokion.incipit
-meVE.AposTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
 meVE.Apolytikion1.melody = ""
@@ -180,8 +170,8 @@ meMA.Kathisma2T.text = "I remember the judgment and I am scared, * having done s
 
 meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma31.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
-meMA.Kathisma31.incipit = "As a disciple with close…"
-meMA.Kathisma31.text = "As a disciple with close access to the Lord, * at the Supper you leaned close upon His breast * and asked Jesus, \"Who is it, O Lord, who will betray you?\" * And with the bread He clearly indicated him unto you, * for you were His beloved disciple, O glorious. * Therefore, O Apostle Theologian and mystic * of myst'ries ineffable, you teach the Incarnation * of the Word to the whole wide world. * Intercede with Christ our God * that He grant forgiveness of offences * to those who with longing observe your holy memory."
+meMA.Kathisma31.incipit = me.m05.d08_en_US_dedes.meMA.Kathisma21.incipit
+meMA.Kathisma31.text = me.m05.d08_en_US_dedes.meMA.Kathisma21.text
 
 meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
