@@ -112,7 +112,7 @@ ocMA.C2.acrostic = ""
 
 ocMA.OdeW1C1H.mode = misc_en_US_dedes.Mode7
 ocMA.OdeW1C1H.ode = misc_en_US_dedes.Ode1
-ocMA.OdeW1C1H.melody = misc_en_US_dedes.HeirmosNotMetered
+ocMA.OdeW1C1H.melody = he.h.m7_en_US_dedes.ToSyntripsantiPolemous.melody
 ocMA.OdeW1C1H.incipit = he.h.m7_en_US_dedes.ToSyntripsantiPolemous.incipit
 ocMA.OdeW1C1H.text = he.h.m7_en_US_dedes.ToSyntripsantiPolemous.text
 
@@ -172,7 +172,7 @@ ocMA.OdeW1C2T.text = "All-holy Virgin, you gave birth to the incomprehensible Lo
 
 ocMA.OdeW3C1H.mode = misc_en_US_dedes.Mode7
 ocMA.OdeW3C1H.ode = misc_en_US_dedes.Ode3
-ocMA.OdeW3C1H.melody = misc_en_US_dedes.HeirmosNotMetered
+ocMA.OdeW3C1H.melody = he.h.m7_en_US_dedes.OOuranousToLogo.melody
 ocMA.OdeW3C1H.incipit = he.h.m7_en_US_dedes.OOuranousToLogo.incipit
 ocMA.OdeW3C1H.text = he.h.m7_en_US_dedes.OOuranousToLogo.text
 
@@ -232,7 +232,7 @@ ocMA.OdeW3C2T.text = "O blessed Lady, who inexplicably gave birth to God, join H
 
 ocMA.OdeW4C1H.mode = misc_en_US_dedes.Mode7
 ocMA.OdeW4C1H.ode = misc_en_US_dedes.Ode4
-ocMA.OdeW4C1H.melody = misc_en_US_dedes.HeirmosNotMetered
+ocMA.OdeW4C1H.melody = he.h.m7_en_US_dedes.TinEnsarkonParousianSou.melody
 ocMA.OdeW4C1H.incipit = he.h.m7_en_US_dedes.TinEnsarkonParousianSou.incipit
 ocMA.OdeW4C1H.text = he.h.m7_en_US_dedes.TinEnsarkonParousianSou.text
 
@@ -298,7 +298,7 @@ ocMA.OdeW4C2T.text = "In many different ways, the shadows of the Law indicated y
 
 ocMA.OdeW5C1H.mode = misc_en_US_dedes.Mode7
 ocMA.OdeW5C1H.ode = misc_en_US_dedes.Ode5
-ocMA.OdeW5C1H.melody = misc_en_US_dedes.HeirmosNotMetered
+ocMA.OdeW5C1H.melody = he.h.m7_en_US_dedes.DiaskedasasTinNykta.melody
 ocMA.OdeW5C1H.incipit = he.h.m7_en_US_dedes.DiaskedasasTinNykta.incipit
 ocMA.OdeW5C1H.text = he.h.m7_en_US_dedes.DiaskedasasTinNykta.text
 
@@ -358,7 +358,7 @@ ocMA.OdeW5C2T.text = "O immaculate and noble Theotokos, you held in your womb Li
 
 ocMA.OdeW6C1H.mode = misc_en_US_dedes.Mode7
 ocMA.OdeW6C1H.ode = misc_en_US_dedes.Ode6
-ocMA.OdeW6C1H.melody = misc_en_US_dedes.HeirmosNotMetered
+ocMA.OdeW6C1H.melody = he.h.m7_en_US_dedes.VythoAmartimaton.melody
 ocMA.OdeW6C1H.incipit = he.h.m7_en_US_dedes.VythoAmartimaton.incipit
 ocMA.OdeW6C1H.text = he.h.m7_en_US_dedes.VythoAmartimaton.text
 
@@ -418,7 +418,7 @@ ocMA.OdeW6C2T.text = "O all-holy Virgin, the Logos came down into your womb like
 
 ocMA.OdeW7C1H.mode = misc_en_US_dedes.Mode7
 ocMA.OdeW7C1H.ode = misc_en_US_dedes.Ode7
-ocMA.OdeW7C1H.melody = misc_en_US_dedes.HeirmosNotMetered
+ocMA.OdeW7C1H.melody = he.h.m7_en_US_dedes.TousEnKaminoPaidasOukEflexen.melody
 ocMA.OdeW7C1H.incipit = he.h.m7_en_US_dedes.TousEnKaminoPaidasOukEflexen.incipit
 ocMA.OdeW7C1H.text = he.h.m7_en_US_dedes.TousEnKaminoPaidasOukEflexen.text
 
@@ -478,7 +478,7 @@ ocMA.OdeW7C2T.text = "Because of my serious transgressions, my soul has been dea
 
 ocMA.OdeW8C1H.mode = misc_en_US_dedes.Mode7
 ocMA.OdeW8C1H.ode = misc_en_US_dedes.Ode8
-ocMA.OdeW8C1H.melody = misc_en_US_dedes.Heirmos
+ocMA.OdeW8C1H.melody = he.h.m7_en_US_dedes.TonYpAngelonAsigitos.melody
 ocMA.OdeW8C1H.incipit = he.h.m7_en_US_dedes.TonYpAngelonAsigitos.incipit
 ocMA.OdeW8C1H.text = he.h.m7_en_US_dedes.TonYpAngelonAsigitos.text
 
@@ -544,7 +544,7 @@ ocMA.OdeW8C2T.text = ""
 
 ocMA.OdeW9C1H.mode = misc_en_US_dedes.Mode7
 ocMA.OdeW9C1H.ode = misc_en_US_dedes.Ode9
-ocMA.OdeW9C1H.melody = misc_en_US_dedes.Heirmos
+ocMA.OdeW9C1H.melody = he.h.m7_en_US_dedes.AsporouTokouSyllipsin.melody
 ocMA.OdeW9C1H.incipit = he.h.m7_en_US_dedes.AsporouTokouSyllipsin.incipit
 ocMA.OdeW9C1H.text = he.h.m7_en_US_dedes.AsporouTokouSyllipsin.text
 
