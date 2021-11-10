@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = sy.m02.d26_en_US_dedes
 
-syMA.commemoration01.text = "On February 26 we commemorate our devout father Porphyrios, Bishop of Gaza."
+syMA.commemoration01.text = "On February 26, we commemorate our devout father Porphyrios, Bishop of Gaza."
+syMA.commemoration01as02.text = "On this day we also commemorate our devout father Porphyrios, Bishop of Gaza."
 syMA.commemoration01.couplet1.title = titles_en_US_dedes.Stichoi
 syMA.commemoration01.couplet1.verse1 = ""
 syMA.commemoration01.couplet1.verse2 = ""
@@ -12,8 +13,8 @@ syMA.note1 = ""
 
 syMA.commemoration02.text = "On this day we also commemorate the holy martyr Photini the Samaritan woman with whom Christ spoke at the well, and those with her."
 syMA.commemoration02.couplet1.title = titles_en_US_dedes.Stichoi
-syMA.commemoration02.couplet1.verse1 = ""
-syMA.commemoration02.couplet1.verse2 = ""
+syMA.commemoration02.couplet1.verse1 = "They threw into a well Your Samaritan Woman,"
+syMA.commemoration02.couplet1.verse2 = "the one who conversed with You at the well, O Logos."
 syMA.commemoration02.narration.p01 = ""
 syMA.commemoration02.narration.p02 = ""
 syMA.commemoration02.narration.p03 = ""
@@ -71,6 +72,11 @@ syMA.commemoration10.text = "The holy new martyr John the craftsman died by the 
 syMA.commemoration10.couplet1.title = titles_en_US_dedes.Stichoi
 syMA.commemoration10.couplet1.verse1 = ""
 syMA.commemoration10.couplet1.verse2 = ""
+
+alt1.syMA.commemoration01.text = "On February 26, we commemorate the holy martyr Photini the Samaritan woman with whom Christ spoke at the well, and those with her."
+alt1.syMA.commemoration01.couplet1.title = syMA.commemoration02.couplet1.title
+alt1.syMA.commemoration01.couplet1.verse1 = syMA.commemoration02.couplet1.verse1
+alt1.syMA.commemoration01.couplet1.verse2 = syMA.commemoration02.couplet1.verse2
 
 syMA.lastline = "By the intercessions of Your Saints, O God, have mercy on us. Amen."
 

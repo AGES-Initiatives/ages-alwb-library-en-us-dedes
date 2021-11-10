@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = sy.m09.d07_en_US_dedes
 
-syMA.commemoration01.text = "On September 7 we commemorate the holy Martyr Sozon."
+syMA.commemoration01.text = "On September 7, we commemorate the holy Martyr Sozon."
+syMA.commemoration01as02.text = "On this day we commemorate the holy Martyr Sozon."
 syMA.commemoration01.couplet1.title = titles_en_US_dedes.Stichoi
 syMA.commemoration01.couplet1.verse1 = ""
 syMA.commemoration01.couplet1.verse2 = ""
@@ -23,5 +24,11 @@ syMA.commemoration05.couplet1.title = titles_en_US_dedes.Stichoi
 syMA.commemoration05.couplet1.verse1 = "The King of all bestowed on you"
 syMA.commemoration05.couplet1.verse2 = "the undecaying golden apple of His Kingdom, O Kassiane."
 syMA.commemoration05.narration.p01 = ""
+
+alt1.syMA.commemoration01.text = "On September 7, we commemorate devout St. Kassiane the Poet."
+alt1.syMA.commemoration01.couplet1.title = syMA.commemoration05.couplet1.title
+alt1.syMA.commemoration01.couplet1.verse1 = syMA.commemoration05.couplet1.verse1
+alt1.syMA.commemoration01.couplet1.verse2 = syMA.commemoration05.couplet1.verse2
+alt1.syMA.commemoration01.narration.p01 = syMA.commemoration05.narration.p01
 
 syMA.lastline = "By the intercessions of Your Saints, O God, have mercy on us. Amen."

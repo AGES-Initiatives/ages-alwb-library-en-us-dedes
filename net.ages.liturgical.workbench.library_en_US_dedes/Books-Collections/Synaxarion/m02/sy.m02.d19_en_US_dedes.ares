@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = sy.m02.d19_en_US_dedes
 
-syMA.commemoration01.text = "On February 19 we commemorate the holy Apostles Archippos, Philemon, and Apphia."
+syMA.commemoration01.text = "On February 19, we commemorate the holy Apostles Archippos, Philemon, and Apphia."
+syMA.commemoration01as02.text = "On this day we also commemorate the holy Apostles Archippos, Philemon, and Apphia."
 syMA.commemoration01.couplet1.title = titles_en_US_dedes.Stichoi
 syMA.commemoration01.couplet1.verse1 = ""
 syMA.commemoration01.couplet1.verse2 = ""
@@ -46,8 +47,13 @@ syMA.commemoration05.narration.p03 = ""
 
 syMA.commemoration06.text = "On this day we also commemorate our devout mother Philothea of Athens."
 syMA.commemoration06.couplet1.title = titles_en_US_dedes.Stichoi
-syMA.commemoration06.couplet1.verse1 = ""
-syMA.commemoration06.couplet1.verse2 = ""
+syMA.commemoration06.couplet1.verse1 = "When Philothea departed from earth,"
+syMA.commemoration06.couplet1.verse2 = "she ascended with joy to heavenly mansions."
+
+alt1.syMA.commemoration01.text = "On February 19, we commemorate our devout mother Philothea of Athens."
+alt1.syMA.commemoration01.couplet1.title = syMA.commemoration06.couplet1.title
+alt1.syMA.commemoration01.couplet1.verse1 = syMA.commemoration06.couplet1.verse1
+alt1.syMA.commemoration01.couplet1.verse2 = syMA.commemoration06.couplet1.verse2
 
 syMA.lastline = "By the intercessions of Your Saints, O God, have mercy on us. Amen."
 
@@ -62,4 +68,3 @@ cl.syMA.commemoration04.text = "[saint/com 4]"
 cl.syMA.commemoration05.text = "[saint/com 5]"
 
 cl.syMA.commemoration06.text = "[saint/com list]"
-

@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = sy.m08.d16_en_US_dedes
 
 syMA.commemoration01.text = "On August 16 we commemorate the holy Martyr Diomedes."
+syMA.commemoration01as02.text = "On this day we also commemorate the holy Martyr Diomedes."
 syMA.commemoration01.couplet1.title = titles_en_US_dedes.Stichoi
 syMA.commemoration01.couplet1.verse1 = ""
 syMA.commemoration01.couplet1.verse2 = ""
@@ -61,8 +62,8 @@ syMA.commemoration07.couplet1.verse2 = ""
 
 syMA.commemoration08.text = "On this day we commemorate our devout father St. Gerasimos the New Ascetic from the island of Kefallinia."
 syMA.commemoration08.couplet1.title = titles_en_US_dedes.Stichoi
-syMA.commemoration08.couplet1.verse1 = ""
-syMA.commemoration08.couplet1.verse2 = ""
+syMA.commemoration08.couplet1.verse1 = "Honors are due to Gerasimos the New,"
+syMA.commemoration08.couplet1.verse2 = "crowned with the honors of Saints before him."
 
 syMA.commemoration09.text = "The holy Neo-martyr Stamatios of Volos, who witnessed in Constantinople in the year 1680, died by the sword."
 syMA.commemoration09.couplet1.title = titles_en_US_dedes.Stichoi
@@ -73,5 +74,10 @@ syMA.commemoration10.text = "Our devout father St. Timothy, Archbishop of Evripo
 syMA.commemoration10.couplet1.title = titles_en_US_dedes.Stichoi
 syMA.commemoration10.couplet1.verse1 = ""
 syMA.commemoration10.couplet1.verse2 = ""
+
+alt1.syMA.commemoration01.text = "On August 16, we commemorate our devout father St. Gerasimos the New Ascetic from the island of Kefallinia."
+alt1.syMA.commemoration01.couplet1.title = syMA.commemoration08.couplet1.title
+alt1.syMA.commemoration01.couplet1.verse1 = syMA.commemoration08.couplet1.verse1
+alt1.syMA.commemoration01.couplet1.verse2 = syMA.commemoration08.couplet1.verse2
 
 syMA.lastline = "By the intercessions of Your Saints, O God, have mercy and save us. Amen."
