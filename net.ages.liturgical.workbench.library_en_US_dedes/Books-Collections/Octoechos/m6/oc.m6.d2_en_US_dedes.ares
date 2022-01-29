@@ -629,13 +629,14 @@ octrVE.Stichera4.melody = ""
 octrVE.Stichera4.incipit = ocMA.Aposticha2.incipit
 octrVE.Stichera4.text = ocMA.Aposticha2.text
 
+//The order of the Triadics is according to the Triodion
 octrMA.Triadic1.mode = misc_en_US_dedes.Mode6
-octrMA.Triadic1.incipit = "The six-winged Seraphim, with their…"
-octrMA.Triadic1.text = "The six-winged Seraphim, with their bodiless mouths, never cease to sing the thrice-holy hymn to You, our God. And we on earth, albeit with unworthy lips, send up praises to You: Holy, holy, holy are You, our God!"
+octrMA.Triadic1.incipit = "With fear the Cherubim…"
+octrMA.Triadic1.text = "With fear the Cherubim standing near You, and trembling the Seraphim astounded, sing to You the thrice-holy hymn, with never-silent voices. And we, sinners though we be, join them and cry out: Holy, holy, holy are You, our God!"
 
 octrMA.Triadic2.mode = misc_en_US_dedes.Mode6
-octrMA.Triadic2.incipit = "With fear the Cherubim standing…"
-octrMA.Triadic2.text = "With fear the Cherubim standing near You, and trembling the Seraphim astounded, sing to You the thrice-holy hymn, with never-silent voices. And we, sinners though we be, join them and cry out: Holy, holy, holy are You, our God!"
+octrMA.Triadic2.incipit = "The six-winged Seraphim…"
+octrMA.Triadic2.text = "The six-winged Seraphim, with their bodiless mouths, never cease to sing the thrice-holy hymn to You, our God. And we on earth, albeit with unworthy lips, send up praises to You: Holy, holy, holy are You, our God!"
 
 octrMA.Triadic3.mode = misc_en_US_dedes.Mode6
 octrMA.Triadic3.incipit = "Let us glorify the Godhead…"

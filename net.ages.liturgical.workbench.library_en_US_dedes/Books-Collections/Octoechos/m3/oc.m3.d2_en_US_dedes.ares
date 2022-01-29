@@ -652,16 +652,17 @@ octrVE.Stichera4.melody = ""
 octrVE.Stichera4.incipit = ocMA.Aposticha2.incipit
 octrVE.Stichera4.text = ocMA.Aposticha2.text
 
+//The order of the Triadics is according to the Triodion
 octrMA.Triadic1.mode = misc_en_US_dedes.Mode3
-octrMA.Triadic1.incipit = "Daring to glorify the unoriginate…"
-octrMA.Triadic1.text = "Daring to glorify the unoriginate Father, the co-unoriginate Son, and the co-eternal Spirit, the one Godhead, we utter in the manner of the Cherubim: Holy, holy, holy are You, our God."
+octrMA.Triadic1.incipit = "O Trinity, consubstantial…"
+octrMA.Triadic1.text = "O Trinity, consubstantial and undivided, O Unity, with three hypostases and co-eternal, to You as God we shout the hymn of the Angels: Holy, holy, holy are You, our God."
 
 octrMA.Triadic2.mode = misc_en_US_dedes.Mode3
-octrMA.Triadic2.incipit = "O Trinity, consubstantial and undivided…"
-octrMA.Triadic2.text = "O Trinity, consubstantial and undivided, O Unity, with three hypostases and co-eternal, to You as God we shout the hymn of the Angels: Holy, holy, holy are You, our God."
+octrMA.Triadic2.incipit = "Daring to glorify…"
+octrMA.Triadic2.text = "Daring to glorify the unoriginate Father, the co-unoriginate Son, and the co-eternal Spirit, the one Godhead, we utter in the manner of the Cherubim: Holy, holy, holy are You, our God."
 
 octrMA.Triadic3.mode = misc_en_US_dedes.Mode3
-octrMA.Triadic3.incipit = "The Judge will arrive suddenly…"
+octrMA.Triadic3.incipit = "The Judge will arrive…"
 octrMA.Triadic3.text = "The Judge will arrive suddenly, and the actions of each of us will be laid bare. So, with fear, let us cry out in middle of the night: Holy, holy, holy are You, our God."
 
 octrMA.Kathisma11.mode = misc_en_US_dedes.Mode3

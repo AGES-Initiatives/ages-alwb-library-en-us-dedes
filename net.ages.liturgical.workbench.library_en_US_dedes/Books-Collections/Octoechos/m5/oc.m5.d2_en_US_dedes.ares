@@ -612,16 +612,17 @@ octrVE.Stichera4.melody = ""
 octrVE.Stichera4.incipit = ocMA.Aposticha2.incipit
 octrVE.Stichera4.text = ocMA.Aposticha2.text
 
+//The order of the Triadics is according to the Triodion
 octrMA.Triadic1.mode = misc_en_US_dedes.Mode5
 octrMA.Triadic1.incipit = "It is time to sing…"
 octrMA.Triadic1.text = "It is time to sing hymns; it is the hour of prayer. Let us earnestly cry out to our only God: Holy, holy, holy are You our God."
 
 octrMA.Triadic2.mode = misc_en_US_dedes.Mode5
-octrMA.Triadic2.incipit = "Daring to portray Your spiritual…"
+octrMA.Triadic2.incipit = "Daring to portray…"
 octrMA.Triadic2.text = "Daring to portray Your spiritual armies, O unoriginate Trinity, we cry out with unworthy lips: Holy, holy, holy are You our God."
 
 octrMA.Triadic3.mode = misc_en_US_dedes.Mode5
-octrMA.Triadic3.incipit = "O Christ our God, You…"
+octrMA.Triadic3.incipit = "O Christ our God…"
 octrMA.Triadic3.text = "O Christ our God, You were contained in the womb of the Virgin, and never parted from the bosom of the Father. Accept us as we cry to You together with the Angels: Holy, holy, holy are You our God."
 
 octrMA.Kathisma11.mode = misc_en_US_dedes.Mode5

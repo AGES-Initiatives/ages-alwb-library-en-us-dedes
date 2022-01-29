@@ -622,13 +622,14 @@ octrVE.Stichera4.melody = ""
 octrVE.Stichera4.incipit = ocMA.Aposticha2.incipit
 octrVE.Stichera4.text = ocMA.Aposticha2.text
 
+//The order of the Triadics is according to the Triodion
 octrMA.Triadic1.mode = misc_en_US_dedes.Mode8
-octrMA.Triadic1.incipit = "Daring not to look at…"
-octrMA.Triadic1.text = "Daring not to look at You, the Cherubim in flight jubilantly cry out the inspired melody of the Thrice-holy Hymn. We sinners join them and also sing: Holy, holy, holy are You, O God."
+octrMA.Triadic1.incipit = "With hearts in heaven…"
+octrMA.Triadic1.text = "With hearts in heaven, let us emulate the Angels, and in fear let us bow before the impartial Judge, as we shout the triumphal praise: Holy, holy, holy are You, O God."
 
 octrMA.Triadic2.mode = misc_en_US_dedes.Mode8
-octrMA.Triadic2.incipit = "With hearts in heaven, let…"
-octrMA.Triadic2.text = "With hearts in heaven, let us emulate the Angels, and in fear let us bow before the impartial Judge, as we shout the triumphal praise: Holy, holy, holy are You, O God."
+octrMA.Triadic2.incipit = "Daring not to look…"
+octrMA.Triadic2.text = "Daring not to look at You, the Cherubim in flight jubilantly cry out the inspired melody of the Thrice-holy Hymn. We sinners join them and also sing: Holy, holy, holy are You, O God."
 
 octrMA.Triadic3.mode = misc_en_US_dedes.Mode8
 octrMA.Triadic3.incipit = "Bent down by our many…"

@@ -640,6 +640,7 @@ octrVE.Stichera4.melody = he.a.m7_en_US_dedes.OukEtiKolyometha.name
 octrVE.Stichera4.incipit = ocMA.Aposticha2.incipit
 octrVE.Stichera4.text = ocMA.Aposticha2.text
 
+//The order of the Triadics is according to the Triodion
 octrMA.Triadic1.mode = misc_en_US_dedes.Mode7
 octrMA.Triadic1.incipit = "O Lord, in Your highest…"
 octrMA.Triadic1.text = "O Lord, in Your highest power You are extolled by the cherubim, and in Your divine glory You are worshiped by the angels. Accept us sinners also, who dare unworthily to cry to You: Holy, holy, holy are You, our God!"
@@ -649,7 +650,7 @@ octrMA.Triadic2.incipit = "O my soul, cast off…"
 octrMA.Triadic2.text = "O my soul, cast off laziness as if it were sleep, and show the Judge that you have woken and are mending your ways, and with fear cry aloud: Holy, holy, holy are You, our God!"
 
 octrMA.Triadic3.mode = misc_en_US_dedes.Mode7
-octrMA.Triadic3.incipit = "To the unapproachable Godhead, the…"
+octrMA.Triadic3.incipit = "To the unapproachable…"
 octrMA.Triadic3.text = "To the unapproachable Godhead, the Trinity in Unity, let us send up the Thrice-Holy Hymn of the Seraphim; and  with fear cry aloud: Holy, holy, holy are You, our God!"
 
 octrMA.Kathisma11.mode = misc_en_US_dedes.Mode7
