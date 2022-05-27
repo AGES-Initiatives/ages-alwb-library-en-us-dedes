@@ -118,8 +118,10 @@ ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.incipit = "O Lord, who called the blessed Maid…"
 ocVE.ApolTheotokionVM.text = "O Lord, who called the blessed Maid Your Mother, You came to the Passion of Your own will and intent. Adam You wished to seek; You therefore shone upon the Cross, saying to the Angels, \"Rejoice with me together, for I have found the coin that was lost.\" O Lord, You have disposed all things wisely. Glory to You."
 
+ocMO.title = "Canon for the Trinity"
 ocMO.poet = ""
-ocMO.acrostic = ""
+ocMO.acrostic.notice = ""
+ocMO.acrostic.text = ""
 
 ocMO.Ode11.mode = misc_en_US_dedes.Mode6
 ocMO.Ode11.ode = misc_en_US_dedes.Ode1
@@ -413,6 +415,10 @@ ocMA.Antiphon33.text = "In the Holy Spirit is universal dominion, which the armi
 
 ocMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 
+ocMA.C3.acrostic.title = ""
+ocMA.C3.acrostic.notice1 = ""
+ocMA.C3.acrostic.text = ""
+//ocMA.C3.acrostic.notice2 = ""
 ocMA.C3.acrostic = ""
 
 ocMA.OdeS1C1H.mode = misc_en_US_dedes.Mode6

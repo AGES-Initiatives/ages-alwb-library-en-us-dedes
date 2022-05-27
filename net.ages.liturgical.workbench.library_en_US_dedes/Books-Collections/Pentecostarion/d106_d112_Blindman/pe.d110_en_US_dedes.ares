@@ -180,19 +180,24 @@ peMA.PostGospelIdiomelon.melody = misc_en_US_dedes.Idiomelon
 peMA.PostGospelIdiomelon.incipit = "Today, the Powers on high…"
 peMA.PostGospelIdiomelon.text = "Today, the Powers on high see our nature in the heavens, and they marvel at the strange manner of its ascent. They were perplexed and said to one another, \"Who is this who is coming?\" But as they saw it was their own Master, they were ordered to raise the heavenly gates. We join them in unceasingly extolling You, who from there will come again in the flesh, as Judge of all and almighty God."
 
+peMA.C1.acrostic.title = ""
 peMA.C1.poet = poets_en_US_dedes.IoannouMonachou
+peMA.C1.title = titles_en_US_dedes.KanonATisEortis
+peMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
+peMA.C2.acrostic.title = ""
+peMA.C2.acrostic.notice1 = ""
+peMA.C2.acrostic.text = ""
+peMA.C2.acrostic.notice2 = ""
 peMA.C2.poet = poets_en_US_dedes.IosifThessalonikis
-peMA.C2.acrostic = ""
+peMA.C2.title = titles_en_US_dedes.KanonBTisEortis
+peMA.C2.verse = prayers_en_US_dedes.verse_God.text
 
 peMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C1H.mode = misc_en_US_dedes.Mode5
 peMA.Ode1C1H.melody = he.h.m5_en_US_dedes.ToSotiriTheo.melody
 peMA.Ode1C1H.incipit = he.h.m5_en_US_dedes.ToSotiriTheo.incipit
 peMA.Ode1C1H.text = he.h.m5_en_US_dedes.ToSotiriTheo.text
-
-peMA.C1.title = titles_en_US_dedes.KanonATisEortis
-peMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 peMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C11.mode = misc_en_US_dedes.Mode5
@@ -223,9 +228,6 @@ peMA.Ode1C2H.mode = misc_en_US_dedes.Mode4
 peMA.Ode1C2H.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.melody
 peMA.Ode1C2H.incipit = he.h.m4_en_US_dedes.AnoixoToStomaMou.incipit
 peMA.Ode1C2H.text = he.h.m4_en_US_dedes.AnoixoToStomaMou.text
-
-peMA.C2.title = titles_en_US_dedes.KanonBTisEortis
-peMA.C2.verse = prayers_en_US_dedes.verse_God.text
 
 peMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 peMA.Ode1C21.mode = misc_en_US_dedes.Mode4
