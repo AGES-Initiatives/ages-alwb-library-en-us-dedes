@@ -78,9 +78,6 @@ meVE.Apolytikion2.text = "O believers, let us praise the protector of the Orthod
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
 meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
@@ -636,23 +633,32 @@ alt1.meMA.PostGospelIdiomelon.melody =
 alt1.meMA.PostGospelIdiomelon.incipit = "You put off the garment…"
 alt1.meMA.PostGospelIdiomelon.text = "You put off the garment of corruption through very intense ascetic discipline, and you were clothed with the magnificence of incorruptibility, by the action of the Holy Spirit, O God-bearing Gerasimos. He showed your holy body to be free of decay. It has been given to us, full of grace and sweet fragrance, and it provides relief to those who suffer from crippling illnesses. Therefore, O wonder-working father, pray that enlightenment and divine mercy be given us."
 
+alt1.meMA.C1.acrostic.title = ""
+alt1.meMA.C1.acrostic.notice1 = ""
+alt1.meMA.C1.acrostic.text = ""
 alt1.meMA.C1.poet = poets_en_US_dedes.Gerasimou
-alt1.meMA.C1.acrostic = ""
+alt1.meMA.C1.title = titles_en_US_dedes.KanonTisTheotokou
+alt1.meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
+alt1.meMA.C2.acrostic.title = ""
+alt1.meMA.C2.acrostic.notice1 = ""
+alt1.meMA.C2.acrostic.text = ""
 alt1.meMA.C2.poet = poets_en_US_dedes.Gerasimou
-alt1.meMA.C2.acrostic = ""
+alt1.meMA.C2.title = titles_en_US_dedes.KanonATouOsiou
+alt1.meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
+alt1.meMA.C3.acrostic.title = ""
+alt1.meMA.C3.acrostic.notice1 = ""
+alt1.meMA.C3.acrostic.text = ""
 alt1.meMA.C3.poet = poets_en_US_dedes.Gerasimou
-alt1.meMA.C3.acrostic = ""
+alt1.meMA.C3.title = titles_en_US_dedes.KanonBTouOsiou
+alt1.meMA.C3.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 alt1.meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
 alt1.meMA.Ode1C1H.incipit = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
 alt1.meMA.Ode1C1H.text = he.h.m8_en_US_dedes.YgranDiodefsas.text
-
-alt1.meMA.C1.title = titles_en_US_dedes.KanonTisTheotokou
-alt1.meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
@@ -678,9 +684,6 @@ alt1.meMA.Ode1C14.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
 alt1.meMA.Ode1C14.incipit = "…"
 alt1.meMA.Ode1C14.text = "SInce you are the fountain of the divine * compassion, O Mother of our God, therefore pour out life's * imperishable water on those melting * in death of sins and of many iniquities."
 
-alt1.meMA.C2.title = titles_en_US_dedes.KanonATouOsiou
-alt1.meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
-
 alt1.meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C21.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Ode1C21.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
@@ -704,9 +707,6 @@ alt1.meMA.Ode1C2T.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Ode1C2T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
 alt1.meMA.Ode1C2T.incipit = "…"
 alt1.meMA.Ode1C2T.text = "You gave birth virginally in a way surpassing thought and reasoning * to the Cause of all things * in a form like unto ours, * remaining what He always was, * while to all human beings * granting salvation, and calling all * to return from Hades, O Purest one."
-
-alt1.meMA.C3.title = titles_en_US_dedes.KanonBTouOsiou
-alt1.meMA.C3.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 alt1.meMA.Ode1C31.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C31.mode = misc_en_US_dedes.Mode4

@@ -188,21 +188,18 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = "O Cross of Christ, the…"
 meMA.PostGospelIdiomelon.text = "O Cross of Christ, the hope of Christians, the guide of the wayward, the haven of the storm-tossed, the victory in wartime, the security of the civilized world, for the sick a physician, for the dead resurrection, have mercy on us."
 
-meMA.C1.poet = poets_en_US_dedes.KyriouKosma
 meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.notice1 = "·"
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_dedes.KyriouKosma
+meMA.C1.title = titles_en_US_dedes.KanonTisEortis
+meMA.C1.verse = prayers_en_US_dedes.verse_Cross.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C1H.melody = he.h.m8_en_US_dedes.StavronCharaxasMosis.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_dedes.StavronCharaxasMosis.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_dedes.StavronCharaxasMosis.text
-
-meMA.C1.title = titles_en_US_dedes.KanonTisEortis
-meMA.C1.verse = prayers_en_US_dedes.verse_Cross.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8

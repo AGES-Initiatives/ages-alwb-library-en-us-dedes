@@ -92,25 +92,27 @@ meMA.Kathisma21.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 meMA.Kathisma21.incipit = "O Prophet David, go ahead…"
 meMA.Kathisma21.text = "O Prophet David, go ahead into the Temple of God, * and joyfully receive therein the virgin Maiden, our Queen, * addressing her in this way: * \"Enter the holy Temple of the King, holy Lady; * enter, O Maid whose glory is perceived although hidden. * From you, Christ the Light will gush forth as honey and milk for all.\""
 
-meMA.C1.poet = poets_en_US_dedes.Iosif
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Forefeast."
 meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_dedes.Iosif
+meMA.C1.title = titles_en_US_dedes.KanonProeortios
+meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
+meMA.C2.acrostic.title = "Canon for St. Gregory."
 meMA.C2.poet = poets_en_US_dedes.Iosif
+meMA.C2.title = "Canon for St. Gregory."
+meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
+meMA.C3.acrostic.title = "Canon for St. Proclus."
 meMA.C3.poet = poets_en_US_dedes.Theofanous
+meMA.C3.title = "Canon for St. Proclus."
+meMA.C3.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou_Eisodia.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_dedes.AnoixoToStomaMou_Eisodia.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_dedes.AnoixoToStomaMou_Eisodia.text
-
-meMA.C1.title = titles_en_US_dedes.KanonProeortios
-meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -136,9 +138,6 @@ meMA.Ode1C14.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou_Eisodia.notmetered
 meMA.Ode1C14.incipit = "O Lady, bolster my weak…"
 meMA.Ode1C14.text = "O Lady, bolster my weak heart, and make me strong, for I am spun around by the passions, so that with faith and longing I may bless you, the ever-blessed and all-blameless one."
 
-meMA.C2.title = titles_en_US_dedes.KanonTouOsiou
-meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
-
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C21.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
@@ -162,9 +161,6 @@ meMA.Ode1C2T.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C2T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
-
-meMA.C3.title = ""
-meMA.C3.verse = ""
 
 meMA.Ode1C31.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C31.mode = misc_en_US_dedes.Mode1

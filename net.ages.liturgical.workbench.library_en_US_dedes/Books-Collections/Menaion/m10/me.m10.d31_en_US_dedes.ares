@@ -73,16 +73,15 @@ meVE.Apolytikion3.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 meVE.Apolytikion3.incipit = "…"
 meVE.Apolytikion3.text = ""
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Apostles."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
-meMA.C2.poet = poets_en_US_dedes.Iosif
-
 meMA.C1.title = titles_en_US_dedes.KanonTonApostolon
 meMA.C1.verse = prayers_en_US_dedes.verse_Apostles.text
+
+meMA.C2.poet = poets_en_US_dedes.Iosif
+meMA.C2.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode1
@@ -107,9 +106,6 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C1T.melody = he.h.m1_en_US_dedes.SouITropaiouchos.notmetered
 meMA.Ode1C1T.incipit = "The Virgin Mary is blessed…"
 meMA.Ode1C1T.text = "The Virgin Mary is blessed among women. She is called the famous mountain of God, the holy ark and table, the golden jar, the pure palace of the Lord. Let us call here blessed."
-
-meMA.C2.title = titles_en_US_dedes.KanonTouAgiou
-meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode4
