@@ -114,17 +114,19 @@ meMA.Kathisma31.incipit = "Shout, O David, and declare…"
 meMA.Kathisma31.text = "Shout, O David, and declare, what oath did God swear to you? * And he answers, \"What He swore, behold, He also has fulfilled, * for He has given the Virgin as the fruit of my loins. * From her has Christ the new Adam and Fashioner * been born, as it is written, to be King on my throne. * And He whose reign is unshakable is reigning today and forevermore. * The barren woman bears the Theotokos, * yes, the nourisher of our Life.\""
 
 meMA.C1.poet = poets_en_US_dedes.IoannouMonachou
-
-meMA.C2.poet = poets_en_US_dedes.AndreouKritis
-
-meMA.C3.acrostic.title = ""
-meMA.C3.acrostic.notice1 = ""
-meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = ""
-
 meMA.C1.title = titles_en_US_dedes.KanonTonEnkainion
 meMA.C1.verse = prayers_en_US_dedes.verse_God.text
+
+meMA.C2.acrostic.title = "Canon for St. Anna."
+meMA.C2.poet = poets_en_US_dedes.AndreouKritis
+meMA.C2.title = titles_en_US_dedes.KanonATisAgias
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintW.text
+
+meMA.C3.acrostic.title = "Another Canon for St. Anna."
+meMA.C3.acrostic.notice1 = ""
+meMA.C3.acrostic.text = ""
+meMA.C3.title = titles_en_US_dedes.KanonBTisAgias
+meMA.C3.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -150,9 +152,6 @@ meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = titles_en_US_dedes.KanonATisAgias
-meMA.C2.verse = prayers_en_US_dedes.verse_SaintW.text
-
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C21.melody = he.h.m1_en_US_dedes.OdinEpinikion.name
@@ -176,9 +175,6 @@ meMA.Ode1C2T.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C2T.melody = he.h.m1_en_US_dedes.OdinEpinikion.name
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
-
-meMA.C3.title = titles_en_US_dedes.KanonBTisAgias
-meMA.C3.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C31.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C31.mode = misc_en_US_dedes.Mode2

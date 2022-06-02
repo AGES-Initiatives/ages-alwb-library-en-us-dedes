@@ -116,11 +116,11 @@ meMA.Kathisma21.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.title = titles_en_US_dedes.KanonTonApostolon
+meMA.C1.verse = prayers_en_US_dedes.verse_Apostles.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C2.title = titles_en_US_dedes.KanonTonMartyron
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode2
@@ -145,9 +145,6 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode2
 meMA.Ode1C1T.melody = he.h.m2_en_US_dedes.DefteLaoi.name
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
-
-meMA.C2.title = ""
-meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode1
@@ -862,14 +859,19 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "O devout father, you shined…"
 alt1.meMA.PostGospelIdiomelon.text = "O devout father, you shined in the monastery of \"Hosios Davíd,\" as a well-spoken preacher and a holy priest. Within your heart, you had ardent love for the Lord who loves humanity. You became a precise teacher of virtue; by your divine words and your amazing life, you guided to excellence the laypeople and the monastics who were with you. Even now, do not cease to keep them safe from any misfortune, by your intercessions with Christ, O St. Iakovos."
 
-alt1.meMA.C1.poet = ""
-alt1.meMA.C1.acrostic = ""
-
-alt1.meMA.C2.poet = ""
-alt1.meMA.C2.acrostic = ""
-
+alt1.meMA.C1.acrostic.title = "Canon 1 for the Saint."
+alt1.meMA.C1.acrostic.notice1 = ""
+alt1.meMA.C1.acrostic.text = ""
+alt1.meMA.C1.poet = poets_en_US_dedes.IoilEdessis
 alt1.meMA.C1.title = titles_en_US_dedes.KanonATouAgiou
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
+
+alt1.meMA.C2.acrostic.title = "Canon 2 for the Saint."
+alt1.meMA.C2.acrostic.notice1 = ""
+alt1.meMA.C2.acrostic.text = ""
+alt1.meMA.C2.poet = poets_en_US_dedes.IoilEdessis
+alt1.meMA.C2.title = titles_en_US_dedes.KanonBTouAgiou
+alt1.meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
@@ -894,9 +896,6 @@ alt1.meMA.Ode1C1T.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Ode1C1T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
 alt1.meMA.Ode1C1T.incipit = "We lowly singers of your…"
 alt1.meMA.Ode1C1T.text = "We lowly singers of your praise entreat you now, all-holy Bride of God. * Intercede, O Mother, with your Son our behalf, * and pray that He will save us all from the flames of Gehena, * and that in spite of our many sins * we may be forgiven and given grace."
-
-alt1.meMA.C2.title = titles_en_US_dedes.KanonBTouAgiou
-alt1.meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C21.mode = misc_en_US_dedes.Mode8

@@ -61,9 +61,7 @@ meVE.Apolytikion3.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
+meMA.C1.poet = poets_en_US_dedes.Theofanous
 meMA.C1.title = titles_en_US_dedes.KanonTouProfitou
 meMA.C1.verse = prayers_en_US_dedes.verse_Prophet.text
 
@@ -534,7 +532,9 @@ alt1.meMA.PostGospelIdiomelon.melody =
 alt1.meMA.PostGospelIdiomelon.incipit = "You renounced the worldly delights…"
 alt1.meMA.PostGospelIdiomelon.text = "You renounced the worldly delights, O wise St. Porphyrios, and from Christ God you have received the heavenly delights, as a reward for your labors. Indeed you were an emulator of the saints, and you led your life in purity of heart and profound humility. With the gentleness, for which you were known, you led many people to Christ, and in Him you shined like the sun, to the glory of God who glorified you splendidly."
 
-alt1.meMA.C1.acrostic = ""
+alt1.meMA.C1.acrostic.title = "Canon for the Saint."
+alt1.meMA.C1.acrostic.notice1 = ""
+alt1.meMA.C1.acrostic.text = ""
 alt1.meMA.C1.title = titles_en_US_dedes.KanonTouOsiou
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_DevoutMan.text
 

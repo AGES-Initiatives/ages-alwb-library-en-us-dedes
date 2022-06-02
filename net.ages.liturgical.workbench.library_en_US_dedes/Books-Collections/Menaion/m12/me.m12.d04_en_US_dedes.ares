@@ -166,9 +166,12 @@ meMA.PostGospelIdiomelon.incipit = meMA.LaudsGlory.incipit
 meMA.PostGospelIdiomelon.text = meMA.LaudsGlory.text
 
 meMA.C1.poet = poets_en_US_dedes.StefanouTouSavaitou
+meMA.C1.title = titles_en_US_dedes.KanonTisAgias
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintW.text
 
-meMA.C1.title = titles_en_US_dedes.KanonTonAgion
-meMA.C1.verse = ""
+meMA.C2.poet = poets_en_US_dedes.StefanouTouSavaitou
+meMA.C2.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode2
@@ -188,23 +191,23 @@ meMA.Ode1C13.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.notmetered
 meMA.Ode1C13.incipit = "Glorious Barbara, like a sacred…"
 meMA.Ode1C13.text = "Glorious Barbara, like a sacred rose, sprung forth from a thorny root. She was reddened with blood in the blush of the contest, and she filled the Church of Christ with a sweet fragrance. Let us call her blessed, as it is right to do."
 
-meMA.Ode1C14.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C14.mode = misc_en_US_dedes.Mode2
-meMA.Ode1C14.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.notmetered
-meMA.Ode1C14.incipit = "O devout Father John, whoever…"
-meMA.Ode1C14.text = "O devout Father John, whoever would undertake to praise you, would need to aspire to your mellifluous voice, whereby you cheered with your songs the Orthodox Church, which now honors your memory."
+meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C21.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.notmetered
+meMA.Ode1C21.incipit = "O devout Father John, whoever…"
+meMA.Ode1C21.text = "O devout Father John, whoever would undertake to praise you, would need to aspire to your mellifluous voice, whereby you cheered with your songs the Orthodox Church, which now honors your memory."
 
-meMA.Ode1C15.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C15.mode = misc_en_US_dedes.Mode2
-meMA.Ode1C15.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.notmetered
-meMA.Ode1C15.incipit = "O Father John, you expertly…"
-meMA.Ode1C15.text = "O Father John, you expertly examined the nature of things that are, and like some wise and quick-witted judge, you reckoned things eternal to be better than the unstable. Now that you have traded temporal things for things higher, Christ has glorified you."
+meMA.Ode1C22.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C22.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.notmetered
+meMA.Ode1C22.incipit = "O Father John, you expertly…"
+meMA.Ode1C22.text = "O Father John, you expertly examined the nature of things that are, and like some wise and quick-witted judge, you reckoned things eternal to be better than the unstable. Now that you have traded temporal things for things higher, Christ has glorified you."
 
-meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C1T.mode = misc_en_US_dedes.Mode2
-meMA.Ode1C1T.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.notmetered
-meMA.Ode1C1T.incipit = "The most wicked serpent, set…"
-meMA.Ode1C1T.text = "The most wicked serpent, set in me yearning to become my Creator's equal, and he carried me away captive. But through you, O all-pure Mother of God, I have been called back again, and deified in very truth. For you gave birth to Him who deified me."
+meMA.Ode1C2T.ode = misc_en_US_dedes.Ode1
+meMA.Ode1C2T.mode = misc_en_US_dedes.Mode2
+meMA.Ode1C2T.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.notmetered
+meMA.Ode1C2T.incipit = "The most wicked serpent, set…"
+meMA.Ode1C2T.text = "The most wicked serpent, set in me yearning to become my Creator's equal, and he carried me away captive. But through you, O all-pure Mother of God, I have been called back again, and deified in very truth. For you gave birth to Him who deified me."
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode2
@@ -224,23 +227,23 @@ meMA.Ode3C13.melody = he.h.m2_en_US_dedes.ExinthisenIErimos.notmetered
 meMA.Ode3C13.incipit = "O Christ, nothing can impede…"
 meMA.Ode3C13.text = "O Christ, nothing can impede perfect contests: not feminine infirmity, nor youth, since it is empowered by Your immortal might."
 
-meMA.Ode3C14.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C14.mode = misc_en_US_dedes.Mode2
-meMA.Ode3C14.melody = he.h.m2_en_US_dedes.ExinthisenIErimos.notmetered
-meMA.Ode3C14.incipit = "O John, you distributed your…"
-meMA.Ode3C14.text = "O John, you distributed your wealth, lending thus to God. Therefore the Kingdom of heaven was prepared for you, and even now you received your reward many times over."
+meMA.Ode3C21.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C21.melody = he.h.m2_en_US_dedes.ExinthisenIErimos.notmetered
+meMA.Ode3C21.incipit = "O John, you distributed your…"
+meMA.Ode3C21.text = "O John, you distributed your wealth, lending thus to God. Therefore the Kingdom of heaven was prepared for you, and even now you received your reward many times over."
 
-meMA.Ode3C15.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C15.mode = misc_en_US_dedes.Mode2
-meMA.Ode3C15.melody = he.h.m2_en_US_dedes.ExinthisenIErimos.notmetered
-meMA.Ode3C15.incipit = "O celebrated John, you received…"
-meMA.Ode3C15.text = "O celebrated John, you received the talent of wisdom, and thus you adorn the Church of Christ by your deeds, and you increase your talent many times over, even after departing this life."
+meMA.Ode3C22.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C22.melody = he.h.m2_en_US_dedes.ExinthisenIErimos.notmetered
+meMA.Ode3C22.incipit = "O celebrated John, you received…"
+meMA.Ode3C22.text = "O celebrated John, you received the talent of wisdom, and thus you adorn the Church of Christ by your deeds, and you increase your talent many times over, even after departing this life."
 
-meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C1T.mode = misc_en_US_dedes.Mode2
-meMA.Ode3C1T.melody = he.h.m2_en_US_dedes.ExinthisenIErimos.notmetered
-meMA.Ode3C1T.incipit = "O all-pure Virgin, the orders…"
-meMA.Ode3C1T.text = "O all-pure Virgin, the orders of Angels were amazed, and the hearts of men trembled at your childbirth. Therefore, with faith we honor you as Theotokos."
+meMA.Ode3C2T.ode = misc_en_US_dedes.Ode3
+meMA.Ode3C2T.mode = misc_en_US_dedes.Mode2
+meMA.Ode3C2T.melody = he.h.m2_en_US_dedes.ExinthisenIErimos.notmetered
+meMA.Ode3C2T.incipit = "O all-pure Virgin, the orders…"
+meMA.Ode3C2T.text = "O all-pure Virgin, the orders of Angels were amazed, and the hearts of men trembled at your childbirth. Therefore, with faith we honor you as Theotokos."
 
 meMA.Ode3H.ode = misc_en_US_dedes.Ode3
 meMA.Ode3H.mode = misc_en_US_dedes.Mode2
@@ -286,23 +289,23 @@ meMA.Ode4C13.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.notmetered
 meMA.Ode4C13.incipit = "Our ancestral mother was seduced…"
 meMA.Ode4C13.text = "Our ancestral mother was seduced once by the deceiver's devices, and she was banished from the Garden of Eden. But Barbara has wounded him, and she now dwells in the heavenly bridal chamber."
 
-meMA.Ode4C14.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C14.mode = misc_en_US_dedes.Mode2
-meMA.Ode4C14.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.notmetered
-meMA.Ode4C14.incipit = "O John, in obedience to…"
-meMA.Ode4C14.text = "O John, in obedience to Christ's command, you forsook the delights of the world, wealth, luxury, and fame. You took up your cross, you followed Him."
+meMA.Ode4C21.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C21.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.notmetered
+meMA.Ode4C21.incipit = "O John, in obedience to…"
+meMA.Ode4C21.text = "O John, in obedience to Christ's command, you forsook the delights of the world, wealth, luxury, and fame. You took up your cross, you followed Him."
 
-meMA.Ode4C15.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C15.mode = misc_en_US_dedes.Mode2
-meMA.Ode4C15.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.notmetered
-meMA.Ode4C15.incipit = "O John, you are glorified…"
-meMA.Ode4C15.text = "O John, you are glorified with Christ, as He promised, and you reign with Him who reigns forever, for you you became poor with Him, who became poor for the salvation of mankind."
+meMA.Ode4C22.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C22.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.notmetered
+meMA.Ode4C22.incipit = "O John, you are glorified…"
+meMA.Ode4C22.text = "O John, you are glorified with Christ, as He promised, and you reign with Him who reigns forever, for you you became poor with Him, who became poor for the salvation of mankind."
 
-meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C1T.mode = misc_en_US_dedes.Mode2
-meMA.Ode4C1T.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.notmetered
-meMA.Ode4C1T.incipit = "O Lady Theotokos, we believers…"
-meMA.Ode4C1T.text = "O Lady Theotokos, we believers all know you to be a haven of salvation and a wall unshaken. By your intercessions, you deliver our souls from danger."
+meMA.Ode4C2T.ode = misc_en_US_dedes.Ode4
+meMA.Ode4C2T.mode = misc_en_US_dedes.Mode2
+meMA.Ode4C2T.melody = he.h.m2_en_US_dedes.ElilythasEkParthenou.notmetered
+meMA.Ode4C2T.incipit = "O Lady Theotokos, we believers…"
+meMA.Ode4C2T.text = "O Lady Theotokos, we believers all know you to be a haven of salvation and a wall unshaken. By your intercessions, you deliver our souls from danger."
 
 meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
 meMA.Ode5C11.mode = misc_en_US_dedes.Mode2
@@ -322,23 +325,23 @@ meMA.Ode5C13.melody = he.h.m2_en_US_dedes.MesitisTheou.notmetered
 meMA.Ode5C13.incipit = "The all-extolled maiden Barbara burned…"
 meMA.Ode5C13.text = "The all-extolled maiden Barbara burned with zeal for the true God; she spat on the sordid faces of the pseudo gods, and utterly mocked the devil, that supposed ruler of this world."
 
-meMA.Ode5C14.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C14.mode = misc_en_US_dedes.Mode2
-meMA.Ode5C14.melody = he.h.m2_en_US_dedes.MesitisTheou.notmetered
-meMA.Ode5C14.incipit = "O Father John, you walked…"
-meMA.Ode5C14.text = "O Father John, you walked in the fear of Christ to divine life, and to the spirit you wholly subordinated the mind set on the flesh, and you purified your senses."
+meMA.Ode5C21.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C21.melody = he.h.m2_en_US_dedes.MesitisTheou.notmetered
+meMA.Ode5C21.incipit = "O Father John, you walked…"
+meMA.Ode5C21.text = "O Father John, you walked in the fear of Christ to divine life, and to the spirit you wholly subordinated the mind set on the flesh, and you purified your senses."
 
-meMA.Ode5C15.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C15.mode = misc_en_US_dedes.Mode2
-meMA.Ode5C15.melody = he.h.m2_en_US_dedes.MesitisTheou.notmetered
-meMA.Ode5C15.incipit = "O John, wise in God…"
-meMA.Ode5C15.text = "O John, wise in God, when you had diligently cleansed your body, soul, and mind of every defilement, you received the tri-solar splendor, which enriched with splendid gifts of grace."
+meMA.Ode5C22.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C22.melody = he.h.m2_en_US_dedes.MesitisTheou.notmetered
+meMA.Ode5C22.incipit = "O John, wise in God…"
+meMA.Ode5C22.text = "O John, wise in God, when you had diligently cleansed your body, soul, and mind of every defilement, you received the tri-solar splendor, which enriched with splendid gifts of grace."
 
-meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C1T.mode = misc_en_US_dedes.Mode2
-meMA.Ode5C1T.melody = he.h.m2_en_US_dedes.MesitisTheou.notmetered
-meMA.Ode5C1T.incipit = "O pure Virgin, entreat your…"
-meMA.Ode5C1T.text = "O pure Virgin, entreat your Son and Lord to grant peaceful resolution of adversities to captives who hope in you."
+meMA.Ode5C2T.ode = misc_en_US_dedes.Ode5
+meMA.Ode5C2T.mode = misc_en_US_dedes.Mode2
+meMA.Ode5C2T.melody = he.h.m2_en_US_dedes.MesitisTheou.notmetered
+meMA.Ode5C2T.incipit = "O pure Virgin, entreat your…"
+meMA.Ode5C2T.text = "O pure Virgin, entreat your Son and Lord to grant peaceful resolution of adversities to captives who hope in you."
 
 meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
 meMA.Ode6C11.mode = misc_en_US_dedes.Mode2
@@ -358,23 +361,23 @@ meMA.Ode6C13.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C13.incipit = "The spotless medalist gave her…"
 meMA.Ode6C13.text = "The spotless medalist gave her body over to be tortured unsparingly and fiercely scraped with hair cloths, for the sake of Christ."
 
-meMA.Ode6C14.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C14.mode = misc_en_US_dedes.Mode2
-meMA.Ode6C14.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
-meMA.Ode6C14.incipit = "O John, you were illumined…"
-meMA.Ode6C14.text = "O John, you were illumined with the Spirit's grace, and you were notably enriched with divine and human knowledge, and you shared it abundantly with those who would use it."
+meMA.Ode6C21.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C21.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C21.incipit = "O John, you were illumined…"
+meMA.Ode6C21.text = "O John, you were illumined with the Spirit's grace, and you were notably enriched with divine and human knowledge, and you shared it abundantly with those who would use it."
 
-meMA.Ode6C15.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C15.mode = misc_en_US_dedes.Mode2
-meMA.Ode6C15.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
-meMA.Ode6C15.incipit = "O wise father, you emulated…"
-meMA.Ode6C15.text = "O wise father, you emulated the choirs of heaven, and set in good order the choirs of the Orthodox churches, singing divinely inspired hymns to the Trinity."
+meMA.Ode6C22.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C22.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C22.incipit = "O wise father, you emulated…"
+meMA.Ode6C22.text = "O wise father, you emulated the choirs of heaven, and set in good order the choirs of the Orthodox churches, singing divinely inspired hymns to the Trinity."
 
-meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C1T.mode = misc_en_US_dedes.Mode2
-meMA.Ode6C1T.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
-meMA.Ode6C1T.incipit = "O Virgin, you conceived without…"
-meMA.Ode6C1T.text = "O Virgin, you conceived without the agency of a man, and you remain forever a virgin, displaying signs of the true divinity of your Son and God."
+meMA.Ode6C2T.ode = misc_en_US_dedes.Ode6
+meMA.Ode6C2T.mode = misc_en_US_dedes.Mode2
+meMA.Ode6C2T.melody = he.h.m2_en_US_dedes.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C2T.incipit = "O Virgin, you conceived without…"
+meMA.Ode6C2T.text = "O Virgin, you conceived without the agency of a man, and you remain forever a virgin, displaying signs of the true divinity of your Son and God."
 
 meMA.Ode6H.ode = misc_en_US_dedes.Ode6
 meMA.Ode6H.mode = misc_en_US_dedes.Mode2
@@ -407,23 +410,23 @@ meMA.Ode7C13.melody = he.h.m2_en_US_dedes.AntitheonProstagma.notmetered
 meMA.Ode7C13.incipit = "How inhuman and unfeeling was…"
 meMA.Ode7C13.text = "How inhuman and unfeeling was the cruelty of the tyrants, how full of godlessness! They horribly cut off the Martyr's breasts with swords, as if in a slaughterhouse. But she had her mind set firmly on Christ the Giver of Life."
 
-meMA.Ode7C14.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C14.mode = misc_en_US_dedes.Mode2
-meMA.Ode7C14.melody = he.h.m2_en_US_dedes.AntitheonProstagma.notmetered
-meMA.Ode7C14.incipit = "O father John, you were…"
-meMA.Ode7C14.text = "O father John, you were aflame with zeal, and with your spirited writings you thwarted the malice of the heresies of the enemies of God. You elucidated for all people the subtle writings of wise men of old."
+meMA.Ode7C21.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C21.melody = he.h.m2_en_US_dedes.AntitheonProstagma.notmetered
+meMA.Ode7C21.incipit = "O father John, you were…"
+meMA.Ode7C21.text = "O father John, you were aflame with zeal, and with your spirited writings you thwarted the malice of the heresies of the enemies of God. You elucidated for all people the subtle writings of wise men of old."
 
-meMA.Ode7C15.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C15.mode = misc_en_US_dedes.Mode2
-meMA.Ode7C15.melody = he.h.m2_en_US_dedes.AntitheonProstagma.notmetered
-meMA.Ode7C15.incipit = "Mani's notorious successors undertook to…"
-meMA.Ode7C15.text = "Mani's notorious successors undertook to debase the Church of Christ with their blasphemous impiety. But you,O John, ardently rebuked them with the Orthodox discourses and definitions that you wrote."
+meMA.Ode7C22.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C22.melody = he.h.m2_en_US_dedes.AntitheonProstagma.notmetered
+meMA.Ode7C22.incipit = "Mani's notorious successors undertook to…"
+meMA.Ode7C22.text = "Mani's notorious successors undertook to debase the Church of Christ with their blasphemous impiety. But you,O John, ardently rebuked them with the Orthodox discourses and definitions that you wrote."
 
-meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C1T.mode = misc_en_US_dedes.Mode2
-meMA.Ode7C1T.melody = he.h.m2_en_US_dedes.AntitheonProstagma.notmetered
-meMA.Ode7C1T.incipit = "O undefiled Virgin, unwedded Mother…"
-meMA.Ode7C1T.text = "O undefiled Virgin, unwedded Mother, we perceive you to be the Holy of Holies. You alone conceived the immutable God. By your divine childbirth, you made incorruption pour forth like a fountain for all believers."
+meMA.Ode7C2T.ode = misc_en_US_dedes.Ode7
+meMA.Ode7C2T.mode = misc_en_US_dedes.Mode2
+meMA.Ode7C2T.melody = he.h.m2_en_US_dedes.AntitheonProstagma.notmetered
+meMA.Ode7C2T.incipit = "O undefiled Virgin, unwedded Mother…"
+meMA.Ode7C2T.text = "O undefiled Virgin, unwedded Mother, we perceive you to be the Holy of Holies. You alone conceived the immutable God. By your divine childbirth, you made incorruption pour forth like a fountain for all believers."
 
 meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
 meMA.Ode8C11.mode = misc_en_US_dedes.Mode2
@@ -443,23 +446,23 @@ meMA.Ode8C13.melody = he.h.m2_en_US_dedes.KaminosPote.notmetered
 meMA.Ode8C13.incipit = "O Christ, what You said…"
 meMA.Ode8C13.text = "O Christ, what You said clearly came to pass: a father delivers the child to be killed, and Your Martyr's miserable parent became the agent of her slaughter, and for this he is consumed by heavenly fire."
 
-meMA.Ode8C14.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C14.mode = misc_en_US_dedes.Mode2
-meMA.Ode8C14.melody = he.h.m2_en_US_dedes.KaminosPote.notmetered
-meMA.Ode8C14.incipit = "O John, by your writings…"
-meMA.Ode8C14.text = "O John, by your writings, you made the light of Orthodoxy shine to all the ends of the world. You refuted Nestorius' heretical teaching about severing, and Severus' teaching about confusion, and also the deranged doctrine of a single will, and the belief in a single operation in Christ."
+meMA.Ode8C21.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C21.melody = he.h.m2_en_US_dedes.KaminosPote.notmetered
+meMA.Ode8C21.incipit = "O John, by your writings…"
+meMA.Ode8C21.text = "O John, by your writings, you made the light of Orthodoxy shine to all the ends of the world. You refuted Nestorius' heretical teaching about severing, and Severus' teaching about confusion, and also the deranged doctrine of a single will, and the belief in a single operation in Christ."
 
-meMA.Ode8C15.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C15.mode = misc_en_US_dedes.Mode2
-meMA.Ode8C15.melody = he.h.m2_en_US_dedes.KaminosPote.notmetered
-meMA.Ode8C15.incipit = "As is his way, the…"
-meMA.Ode8C15.text = "As is his way, the enemy sowed heretics like weeds in the Church of Christ, to thwart the worship of Christ in the holy icons. But he found you, O John, not sleeping, and you removed every spurious seed."
+meMA.Ode8C22.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C22.melody = he.h.m2_en_US_dedes.KaminosPote.notmetered
+meMA.Ode8C22.incipit = "As is his way, the…"
+meMA.Ode8C22.text = "As is his way, the enemy sowed heretics like weeds in the Church of Christ, to thwart the worship of Christ in the holy icons. But he found you, O John, not sleeping, and you removed every spurious seed."
 
-meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C1T.mode = misc_en_US_dedes.Mode2
-meMA.Ode8C1T.melody = he.h.m2_en_US_dedes.KaminosPote.notmetered
-meMA.Ode8C1T.incipit = "O all-pure Mother of God…"
-meMA.Ode8C1T.text = "O all-pure Mother of God, we know you to be the salvation of us all. For you conceived without seed, and you ineffably gave birth to Him who is inseparable from the Father, and who yet dwelt in your womb as both God and man."
+meMA.Ode8C2T.ode = misc_en_US_dedes.Ode8
+meMA.Ode8C2T.mode = misc_en_US_dedes.Mode2
+meMA.Ode8C2T.melody = he.h.m2_en_US_dedes.KaminosPote.notmetered
+meMA.Ode8C2T.incipit = "O all-pure Mother of God…"
+meMA.Ode8C2T.text = "O all-pure Mother of God, we know you to be the salvation of us all. For you conceived without seed, and you ineffably gave birth to Him who is inseparable from the Father, and who yet dwelt in your womb as both God and man."
 
 meMA.Ode8H.ode = misc_en_US_dedes.Ode8
 meMA.Ode8H.mode = misc_en_US_dedes.Mode2
@@ -485,23 +488,23 @@ meMA.Ode9C13.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.notmetered
 meMA.Ode9C13.incipit = "O Barbara, now you are…"
 meMA.Ode9C13.text = "O Barbara, now you are united to your Bridegroom Christ, the King of all, and brightly flashing with the glory of divine light in the heavenly chambers. Watch over those who extol you, and deliver them from passions, and lead them to the living God."
 
-meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C14.mode = misc_en_US_dedes.Mode2
-meMA.Ode9C14.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.notmetered
-meMA.Ode9C14.incipit = "O John, by your sacred…"
-meMA.Ode9C14.text = "O John, by your sacred writings, for many you truly elucidated difficult sayings. Thus you have taught all the sons of the Church to sing in Orthodox manner of the Monad in the Holy Trinity, and to theologize on the divine Incarnation of the Logos."
+meMA.Ode9C21.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C21.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C21.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.notmetered
+meMA.Ode9C21.incipit = "O John, by your sacred…"
+meMA.Ode9C21.text = "O John, by your sacred writings, for many you truly elucidated difficult sayings. Thus you have taught all the sons of the Church to sing in Orthodox manner of the Monad in the Holy Trinity, and to theologize on the divine Incarnation of the Logos."
 
-meMA.Ode9C15.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C15.mode = misc_en_US_dedes.Mode2
-meMA.Ode9C15.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.notmetered
-meMA.Ode9C15.incipit = "O devout father, you live…"
-meMA.Ode9C15.text = "O devout father, you live now in the dwellings of the saints, for by your hymns you extolled all their ranks: the pure Theotokos, the Forerunner of Christ, also the apostles, the prophets, the ascetics, the wise teachers, the righteous, and the martyrs."
+meMA.Ode9C22.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C22.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C22.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.notmetered
+meMA.Ode9C22.incipit = "O devout father, you live…"
+meMA.Ode9C22.text = "O devout father, you live now in the dwellings of the saints, for by your hymns you extolled all their ranks: the pure Theotokos, the Forerunner of Christ, also the apostles, the prophets, the ascetics, the wise teachers, the righteous, and the martyrs."
 
-meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C1T.mode = misc_en_US_dedes.Mode2
-meMA.Ode9C1T.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.notmetered
-meMA.Ode9C1T.incipit = "O all-blameless Virgin, like the…"
-meMA.Ode9C1T.text = "O all-blameless Virgin, like the fleece you received the heavenly rain into your womb, and for us you conceived Him who gives ambrosia to those who piously extol Him and who also declare you to be the all-lauded Theotokos."
+meMA.Ode9C2T.ode = misc_en_US_dedes.Ode9
+meMA.Ode9C2T.mode = misc_en_US_dedes.Mode2
+meMA.Ode9C2T.melody = he.h.m2_en_US_dedes.AnarchouGennitoros.notmetered
+meMA.Ode9C2T.incipit = "O all-blameless Virgin, like the…"
+meMA.Ode9C2T.text = "O all-blameless Virgin, like the fleece you received the heavenly rain into your womb, and for us you conceived Him who gives ambrosia to those who piously extol Him and who also declare you to be the all-lauded Theotokos."
 
 meMA.Ode9H.ode = misc_en_US_dedes.Ode9
 meMA.Ode9H.mode = misc_en_US_dedes.Mode2

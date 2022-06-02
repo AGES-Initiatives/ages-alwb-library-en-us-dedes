@@ -168,33 +168,30 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = "Glory to God in the…"
 meMA.PostGospelIdiomelon.text = "Glory to God in the highest, and peace on earth. Today Bethlehem receives him who is ever seated with the Father. Today Angels glorify in a manner fitting God the babe that is born. Glory to God in the highest, and on earth peace, and good will among men."
 
-meMA.C1.poet = poets_en_US_dedes.KyriouKosma
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_dedes.KyriouKosma
+meMA.C1.title = titles_en_US_dedes.KanonATisEortis
+meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
-meMA.C2.poet = poets_en_US_dedes.IoannouMonachou
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
 meMA.C2.Acrostic1.acrostic = ""
 meMA.C2.Acrostic2.acrostic = ""
 meMA.C2.Acrostic3.acrostic = ""
 meMA.C2.Acrostic4.acrostic = ""
 meMA.C2.Acrostic5.acrostic = ""
+meMA.C2.poet = poets_en_US_dedes.IoannouMonachou
+meMA.C2.title = titles_en_US_dedes.KanonIamvikos
+meMA.C2.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C1H.melody = he.h.m1_en_US_dedes.ChristosGennatai.melody
 meMA.Ode1C1H.incipit = he.h.m1_en_US_dedes.ChristosGennatai.incipit
 meMA.Ode1C1H.text = he.h.m1_en_US_dedes.ChristosGennatai.text
-
-meMA.C1.title = titles_en_US_dedes.KanonATisEortis
-meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode1
@@ -224,9 +221,6 @@ meMA.Ode1C2H2.text = he.h.m1_en_US_dedes.EsoseLaon2.text
 meMA.Ode1C2H3.text = he.h.m1_en_US_dedes.EsoseLaon3.text
 meMA.Ode1C2H4.text = he.h.m1_en_US_dedes.EsoseLaon4.text
 meMA.Ode1C2H5.text = he.h.m1_en_US_dedes.EsoseLaon5.text
-
-meMA.C2.title = titles_en_US_dedes.KanonIamvikos
-meMA.C2.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode1

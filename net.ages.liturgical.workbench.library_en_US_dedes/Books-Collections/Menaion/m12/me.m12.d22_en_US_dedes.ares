@@ -95,14 +95,11 @@ meVE.Apolytikion2.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
-meCO.C1.title = "Three-ode Canon of the Forefeast"
-meCO.C1.verse = prayers_en_US_dedes.verse_God.text
-
-meCO.C1.acrostic.title = ""
+meCO.C1.acrostic.title = "Three-ode Canon."
 meCO.C1.acrostic.notice1 = ""
 meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = ""
+meCO.C1.title = "Three-ode Canon of the Forefeast."
+meCO.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meCO.Ode3C1H.ode = misc_en_US_dedes.Ode3
 meCO.Ode3C1H.mode = misc_en_US_dedes.Mode2
