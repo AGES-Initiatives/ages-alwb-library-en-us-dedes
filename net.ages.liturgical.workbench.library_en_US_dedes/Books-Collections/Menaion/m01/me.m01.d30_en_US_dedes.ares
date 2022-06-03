@@ -233,30 +233,29 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = me.m01.d18_en_US_dedes.meMA.PostGospelIdiomelon.incipit
 meMA.PostGospelIdiomelon.text = me.m01.d18_en_US_dedes.meMA.PostGospelIdiomelon.text
 
-meMA.C1.poet = poets_en_US_dedes.IoannouEfchaiton
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Theotokos."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_dedes.IoannouEfchaiton
+meMA.C1.title = titles_en_US_dedes.KanonTisTheotokou
+meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
-meMA.C2.poet = poets_en_US_dedes.IoannouEfchaiton
-meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.title = "Canon for the Saints."
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.poet = poets_en_US_dedes.IoannouEfchaiton
+meMA.C2.title = titles_en_US_dedes.KanonATonAgion
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.C3.poet = poets_en_US_dedes.IoannouEfchaiton
+meMA.C3.title = titles_en_US_dedes.KanonBTonAgion
+meMA.C3.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode2
 meMA.Ode1C1H.melody = he.h.m2_en_US_dedes.DefteLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_dedes.DefteLaoi.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_dedes.DefteLaoi.text
-
-meMA.C1.title = titles_en_US_dedes.KanonTisTheotokou
-meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode2
@@ -282,9 +281,6 @@ meMA.Ode1C14.melody = he.h.m2_en_US_dedes.DefteLaoi.notmetered
 meMA.Ode1C14.incipit = "O Lady, graced by God…"
 meMA.Ode1C14.text = "O Lady, graced by God, we believers have you as our boast, our refuge and support, our exultant joy, our hope and fortress, and the salvation of our souls."
 
-meMA.C2.title = titles_en_US_dedes.KanonATonAgion
-meMA.C2.verse = prayers_en_US_dedes.verse_SaintsM.text
-
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode2
 meMA.Ode1C21.melody = he.h.m2_en_US_dedes.DefteLaoi.name
@@ -308,9 +304,6 @@ meMA.Ode1C2T.mode = misc_en_US_dedes.Mode2
 meMA.Ode1C2T.melody = he.h.m2_en_US_dedes.DefteLaoi.name
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
-
-meMA.C3.title = titles_en_US_dedes.KanonBTonAgion
-meMA.C3.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C31.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C31.mode = misc_en_US_dedes.Mode8
@@ -983,7 +976,6 @@ alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
 alt1.meMA.C1.poet = poets_en_US_dedes.IoannouMonachou
-
 alt1.meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 

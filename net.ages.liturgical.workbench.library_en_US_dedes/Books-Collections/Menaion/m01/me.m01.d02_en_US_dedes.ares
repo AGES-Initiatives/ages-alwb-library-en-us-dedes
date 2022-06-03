@@ -82,21 +82,16 @@ meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
 meVE.Apolytikion1.incipit = "O Zabulon, prepare, and be…"
 meVE.Apolytikion1.text = "O Zabulon, prepare, and be ready, Nephthalim. * Jordan River, hold your course, and exultantly receive * the Master who is coming to be baptized. * Adam leap for joy with Eve the Foremother. * No longer hide yourselves, as once in Paradise; * for having seen you naked He has appeared * to clothe you in your former vesture. * The Christ has appeared, wishing to renew * the entire creation."
 
-meCO.C1.poet = poets_en_US_dedes.SymeonTouLogothetou
-meCO.C1.acrostic.title = ""
+meCO.C1.acrostic.title = "Three-ode Canon."
 meCO.C1.acrostic.notice1 = ""
 meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = "."
-meCO.C1.title = "Three-ode Canon.."
+meCO.C1.poet = poets_en_US_dedes.SymeonTouLogothetou
+meCO.C1.title = "Three-ode Canon."
 meCO.C1.verse = prayers_en_US_dedes.verse_God.text
 
-meCO.C2.poet = ""
-meCO.C2.acrostic.title = ""
+meCO.C2.acrostic.title = "Another Two-ode Canon."
 meCO.C2.acrostic.notice1 = ""
 meCO.C2.acrostic.text = ""
-//meCO.C2.acrostic.notice2 = ""
-meCO.C2.acrostic = ""
 meCO.C2.title = "Another Two-ode Canon."
 meCO.C2.verse = prayers_en_US_dedes.verse_God.text
 
@@ -222,27 +217,23 @@ meMA.Kathisma22.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 meMA.Kathisma22.incipit = "…"
 meMA.Kathisma22.text = ""
 
-meMA.C1.poet = poets_en_US_dedes.Iosif
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "The Forefestal Canon."
 meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_dedes.Iosif
+meMA.C1.title = titles_en_US_dedes.KanonProeortios
+meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
-meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.title = "Another Canon for the Saint."
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode2
 meMA.Ode1C1H.melody = he.h.m2_en_US_dedes.ToTinAvaton.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_dedes.ToTinAvaton.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_dedes.ToTinAvaton.text
-
-meMA.C1.title = titles_en_US_dedes.KanonProeortios
-meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode2
@@ -267,9 +258,6 @@ meMA.Ode1C14.mode = misc_en_US_dedes.Mode2
 meMA.Ode1C14.melody = he.h.m2_en_US_dedes.ToTinAvaton.name
 meMA.Ode1C14.incipit = "…"
 meMA.Ode1C14.text = ""
-
-meMA.C2.title = titles_en_US_dedes.KanonTouAgiou
-meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode8

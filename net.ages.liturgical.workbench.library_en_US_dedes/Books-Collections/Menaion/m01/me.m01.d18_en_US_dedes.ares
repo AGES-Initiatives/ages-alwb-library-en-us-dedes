@@ -172,21 +172,18 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = "Grace was poured upon your…"
 meMA.PostGospelIdiomelon.text = "Grace was poured upon your lips, O devout Fathers, and you became shepherds of the Church of Christ, teaching the reasonable sheep to believe in the Trinity, coessential, in one Divinity."
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for St. Athanasius."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.title = "Canon for St. Athanasius."
+meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
-meMA.C2.poet = poets_en_US_dedes.IoannouTouDamaskinou
-meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.title = "Canon for St. Cyril."
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
-meMA.C1.title = "Canon for St. Athanasios."
-meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
+meMA.C2.poet = poets_en_US_dedes.IoannouTouDamaskinou
+meMA.C2.title = "Canon for St. Cyril."
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
@@ -218,9 +215,6 @@ meMA.Ode1C1T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = "Canon for St. Cyril."
-meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
-
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C21.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
@@ -244,8 +238,6 @@ meMA.Ode1C2T.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C2T.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
-
-//No katavasia…
 
 meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
 meMA.Ode3C11.mode = misc_en_US_dedes.Mode8

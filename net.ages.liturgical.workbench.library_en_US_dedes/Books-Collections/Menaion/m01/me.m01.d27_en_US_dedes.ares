@@ -134,28 +134,27 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = "O Chrysostom, you were shown…"
 meMA.PostGospelIdiomelon.text = "O Chrysostom, you were shown to be a gold-sounding trumpet, a speaker of golden words, making golden the hearts of believers, by your golden teachings. As the Prophet said, the proclamation of your dogmas went forth, O righteous Father, and illumined the ends of the whole world."
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Theotokos."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.title = titles_en_US_dedes.KanonTisTheotokou
+meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.C2.poet = poets_en_US_dedes.Theofanous
+meMA.C2.title = titles_en_US_dedes.KanonATouAgiou
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
-meMA.C3.acrostic.title = ""
+meMA.C3.acrostic.title = "Another Canon for the Saint."
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = ""
+meMA.C3.title = titles_en_US_dedes.KanonBTouAgiou
+meMA.C3.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C1H.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_dedes.ArmatilatinFarao.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_dedes.ArmatilatinFarao.text
-
-meMA.C1.title = titles_en_US_dedes.KanonTisTheotokou
-meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
@@ -181,9 +180,6 @@ meMA.Ode1C14.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
 meMA.Ode1C14.incipit = "…"
 meMA.Ode1C14.text = ""
 
-meMA.C2.title = titles_en_US_dedes.KanonATouAgiou
-meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
-
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C21.melody = he.h.m8_en_US_dedes.AsmaAnapempsomen.name
@@ -207,9 +203,6 @@ meMA.Ode1C2T.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C2T.melody = he.h.m8_en_US_dedes.AsmaAnapempsomen.name
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
-
-meMA.C3.title = titles_en_US_dedes.KanonBTouAgiou
-meMA.C3.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C31.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C31.mode = misc_en_US_dedes.Mode3
