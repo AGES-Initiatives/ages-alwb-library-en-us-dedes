@@ -199,21 +199,18 @@ meMA.PostGospelIdiomelon.text = "Today the entire civilized world is illumined b
 
 meMA.MM.PostGospelIdiomelon.text = properties_en_US_dedes.media.key
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "First Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
-meMA.C2.poet = poets_en_US_dedes.Theofanous
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
 meMA.C1.title = titles_en_US_dedes.KanonATouAgiou
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
+
+meMA.C2.acrostic.title = "Second Canon for the Saint."
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+meMA.C2.poet = poets_en_US_dedes.Theofanous
+meMA.C2.title = titles_en_US_dedes.KanonBTouAgiou
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode1
@@ -239,9 +236,6 @@ meMA.Ode1C1T.melody = he.h.m1_en_US_dedes.AnastaseosImera.name
 meMA.Ode1C1T.incipit = "How ineffable and noble was…"
 meMA.Ode1C1T.text = "How ineffable and noble was your awesome and strange * childbirth, all-holy Virgin. * For at your breast did you indeed * nurse the perfect God made man * and truly your Son. * Your husbandless motherhood * is a marvelous miracle."
 
-meMA.C2.title = titles_en_US_dedes.KanonBTouAgiou
-meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
-
 meMA.Ode1C2H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C2H.mode = misc_en_US_dedes.Mode2
 meMA.Ode1C2H.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.melody
@@ -252,7 +246,7 @@ meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode2
 meMA.Ode1C21.melody = he.h.m2_en_US_dedes.EnVythoKatestrose.name
 meMA.Ode1C21.incipit = "Standing as you do at…"
-meMA.Ode1C21.text = "Standing as you do at the sublime * judgement seat of Him who rules as Lord of all, being bathed in resplendent light * and wearing a laurel crown, holy Martyr of Christ our God, O divine Saint George, * by your intercessions guard us who invoke your aid with ardent faith."
+meMA.Ode1C21.text = "Standing as you do at the sublime * judgment seat of Him who rules as Lord of all, being bathed in resplendent light * and wearing a laurel crown, holy Martyr of Christ our God, O divine Saint George, * by your intercessions guard us who invoke your aid with ardent faith."
 
 meMA.Ode1C22.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C22.mode = misc_en_US_dedes.Mode2

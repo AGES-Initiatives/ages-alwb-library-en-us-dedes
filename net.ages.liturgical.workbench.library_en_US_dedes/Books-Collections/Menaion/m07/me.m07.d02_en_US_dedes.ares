@@ -72,20 +72,20 @@ meMA.Kathisma21.melody = he.a.m4_en_US_dedes.EpefanisSimeron.name
 meMA.Kathisma21.incipit = "The entire world today is…"
 meMA.Kathisma21.text = "The entire world today is celebrating * the bestowal of your Dress, O Lady modest and all-pure, * and it cries out to you longingly: * Rejoice, O Virgin, the help of believers all."
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "The Canon for the Most Holy Theotokos."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.title = titles_en_US_dedes.KanonATisTheotokou
+meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
+
+meMA.C2.title = titles_en_US_dedes.KanonBTisTheotokou
+meMA.C2.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_dedes.TristatasKrataious.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_dedes.TristatasKrataious.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_dedes.TristatasKrataious.text
-
-meMA.C1.title = titles_en_US_dedes.KanonATisTheotokou
-meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -110,9 +110,6 @@ meMA.Ode1C14.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C14.melody = he.h.m4_en_US_dedes.TristatasKrataious.name
 meMA.Ode1C14.incipit = "…"
 meMA.Ode1C14.text = ""
-
-meMA.C2.title = titles_en_US_dedes.KanonBTisTheotokou
-meMA.C2.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode4

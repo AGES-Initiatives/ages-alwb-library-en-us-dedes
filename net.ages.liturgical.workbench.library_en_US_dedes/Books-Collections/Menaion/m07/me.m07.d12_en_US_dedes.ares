@@ -48,12 +48,9 @@ meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.TisErimouPolitis.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Saints."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
 meMA.C1.title = titles_en_US_dedes.KanonTonAgion
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
@@ -575,14 +572,19 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "Come, O believers, and inspired…"
 alt1.meMA.PostGospelIdiomelon.text = "Come, O believers, and inspired by God let us partake from the table of Paisios. Behold, our father Paisios the New, whose manners were the same as his namesake of old, invites us to a spiritual banquet. Come all, let us celebrate the fruits of his labors, his words that flow like honey, and the stream of his miracles. And seeing our protector as if he were present, let us now entreat him: \"O devout Father, intercede with Christ our God, for the salvation of our souls.\""
 
+alt1.meMA.C1.acrostic.title = "First Canon for the Saint."
+alt1.meMA.C1.acrostic.notice1 = ""
+alt1.meMA.C1.acrostic.text = ""
 alt1.meMA.C1.poet = ""
-alt1.meMA.C1.acrostic = ""
-
-alt1.meMA.C2.poet = ""
-alt1.meMA.C2.acrostic = ""
-
 alt1.meMA.C1.title = titles_en_US_dedes.KanonATouAgiou
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
+
+alt1.meMA.C2.acrostic.title = "Second Canon for the Saint."
+alt1.meMA.C2.acrostic.notice1 = ""
+alt1.meMA.C2.acrostic.text = ""
+alt1.meMA.C2.poet = ""
+alt1.meMA.C2.title = titles_en_US_dedes.KanonBTouAgiou
+alt1.meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
@@ -607,9 +609,6 @@ alt1.meMA.Ode1C1T.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Ode1C1T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
 alt1.meMA.Ode1C1T.incipit = "Truly I place my every…"
 alt1.meMA.Ode1C1T.text = "Truly I place my every hope in you, O Virgin pure, that is after God; * and my full devotion I have lifted up to you; * wholeheartedly with all my might, I cry out to you, Lady: * Direct my steps to salvation, * O all-holy Mother of Christ our God."
-
-alt1.meMA.C2.title = titles_en_US_dedes.KanonBTouAgiou
-alt1.meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C21.mode = misc_en_US_dedes.Mode4
@@ -1328,17 +1327,26 @@ alt2.meMA.PostGospelIdiomelon.melody = ""
 alt2.meMA.PostGospelIdiomelon.incipit = "The proclamation of your achievements…"
 alt2.meMA.PostGospelIdiomelon.text = "The proclamation of your achievements went forth into all the earth, O devout Paisios. In the twentieth century from the birth of our Savior, you rose as a day star, and you enlightened multitudes of Orthodox Christians to know the will of the Lord. Now that you are up in the heavens, and can speak with confidence, never cease interceding on behalf of our souls."
 
+alt2.meMA.C1.acrostic.title = ""
+alt2.meMA.C1.acrostic.notice1 = ""
+alt2.meMA.C1.acrostic.text = ""
 alt2.meMA.C1.poet = poets_en_US_dedes.IoilEdessis
-alt2.meMA.C1.acrostic = ""
-
-alt2.meMA.C2.poet = poets_en_US_dedes.IoilEdessis
-alt2.meMA.C2.acrostic = ""
-
-alt2.meMA.C3.poet = poets_en_US_dedes.IoilEdessis
-alt2.meMA.C3.acrostic = ""
-
 alt2.meMA.C1.title = titles_en_US_dedes.KanonTisTheotokou
 alt2.meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
+
+alt2.meMA.C2.acrostic.title = ""
+alt2.meMA.C2.acrostic.notice1 = ""
+alt2.meMA.C2.acrostic.text = ""
+alt2.meMA.C2.poet = poets_en_US_dedes.IoilEdessis
+alt2.meMA.C2.title = titles_en_US_dedes.KanonATouAgiou
+alt2.meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
+
+alt2.meMA.C3.acrostic.title = ""
+alt2.meMA.C3.acrostic.notice1 = ""
+alt2.meMA.C3.acrostic.text = ""
+alt2.meMA.C3.poet = poets_en_US_dedes.IoilEdessis
+alt2.meMA.C3.title = titles_en_US_dedes.KanonBTouAgiou
+alt2.meMA.C3.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt2.meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 alt2.meMA.Ode1C1H.mode = misc_en_US_dedes.Mode8
@@ -1370,9 +1378,6 @@ alt2.meMA.Ode1C14.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
 alt2.meMA.Ode1C14.incipit = "By your almighty intercessions stay…"
 alt2.meMA.Ode1C14.text = "By your almighty intercessions stay the flood of the temptations on me. * Guide my mental concepts and the ethos of my soul, * O Lady, to the port of Christ, all-immaculate Virgin, * so that with confidence I may sail * through the sea of life and its many woes."
 
-alt2.meMA.C2.title = titles_en_US_dedes.KanonATouAgiou
-alt2.meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
-
 alt2.meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 alt2.meMA.Ode1C21.mode = misc_en_US_dedes.Mode8
 alt2.meMA.Ode1C21.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
@@ -1396,9 +1401,6 @@ alt2.meMA.Ode1C2T.mode = misc_en_US_dedes.Mode8
 alt2.meMA.Ode1C2T.melody = he.h.m8_en_US_dedes.ArmatilatinFarao.name
 alt2.meMA.Ode1C2T.incipit = "As I am swimming in…"
 alt2.meMA.Ode1C2T.text = "As I am swimming in the sea of passions, I the wretch am drowning, alas! * Mother Theotokos, this poor man now cries to you, * the Holy Mountain's Patroness, \"By your all-holy prayers * and supplications on my behalf, * quiet the temptations that trouble me.\""
-
-alt2.meMA.C3.title = titles_en_US_dedes.KanonBTouAgiou
-alt2.meMA.C3.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt2.meMA.Ode1C31.ode = misc_en_US_dedes.Ode1
 alt2.meMA.Ode1C31.mode = misc_en_US_dedes.Mode8

@@ -91,18 +91,15 @@ meVE.Apolytikion2.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouArchangelou
+meMA.C1.verse = prayers_en_US_dedes.verse_Archangel.text
 
-meMA.C2.poet = poets_en_US_dedes.Theofanous
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
-meMA.C1.title = titles_en_US_dedes.KanonTouArchangelou
-meMA.C1.verse = prayers_en_US_dedes.verse_Archangel.text
+meMA.C2.poet = poets_en_US_dedes.Theofanous
+meMA.C2.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -127,9 +124,6 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.notmetered
 meMA.Ode1C1T.incipit = me.m03.d26_en_US_dedes.meMA.Ode1C1T.incipit
 meMA.Ode1C1T.text = me.m03.d26_en_US_dedes.meMA.Ode1C1T.text
-
-meMA.C2.title = titles_en_US_dedes.KanonTouOsiou
-meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode2
@@ -622,7 +616,11 @@ alt1.meVE.Stichera03.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
 alt1.meVE.Stichera03.incipit = "…"
 alt1.meVE.Stichera03.text = ""
 
-alt1.meMA.C1.acrostic = ""
+alt1.meMA.C1.acrostic.title = ""
+alt1.meMA.C1.acrostic.notice1 = ""
+alt1.meMA.C1.acrostic.text = ""
+alt1.meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_US_dedes.Mode6

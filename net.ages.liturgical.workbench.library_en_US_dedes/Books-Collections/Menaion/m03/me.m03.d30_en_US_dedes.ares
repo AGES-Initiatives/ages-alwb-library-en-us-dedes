@@ -48,20 +48,18 @@ meVE.Apolytikion1.melody = he.a.m3_en_US_dedes.TheiasPisteos.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.acrostic.notice2 = ""
+meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C1.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C1H.melody = he.h.m1_en_US_dedes.OdinEpinikion.melody
 meMA.Ode1C1H.incipit = he.h.m1_en_US_dedes.OdinEpinikion.incipit
 meMA.Ode1C1H.text = he.h.m1_en_US_dedes.OdinEpinikion.text
-
-meMA.C1.title = titles_en_US_dedes.KanonTouOsiou
-meMA.C1.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode1
