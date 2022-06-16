@@ -731,8 +731,11 @@ meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 meMA.Exaposteilarion2.incipit = "How can the river's streams…"
 meMA.Exaposteilarion2.text = "How can the river's streams receive * You, Lord who loves humanity? * For You brought the seas and rivers * to being from non-existence. * Also how can the Forerunner * dare to extend his hand and touch * Your immaculate head, O Word. * With fear and awe, O Master, * we hymn Your poverty's grandeur."
 
-meMA.Lauds1.poet = poets_en_US_dedes.Theofanous
-meMA.Lauds1.acrostic = ""
+meMA.Lauds.acrostic.title = "Stichera Prosomoia."
+meMA.Lauds.acrostic.notice1 = ""
+meMA.Lauds.acrostic.text = ""
+meMA.Lauds.poet = poets_en_US_dedes.Theofanous
+
 meMA.Lauds1.mode = misc_en_US_dedes.Mode6
 meMA.Lauds1.melody = he.a.m6_en_US_dedes.AiAngelikai.name
 meMA.Lauds1.incipit = "O angelic powers, proceed and…"

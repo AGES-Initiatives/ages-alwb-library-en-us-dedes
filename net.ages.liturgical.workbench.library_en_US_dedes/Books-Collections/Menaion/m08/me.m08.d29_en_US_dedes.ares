@@ -152,9 +152,11 @@ meMA.PostGospelIdiomelon.incipit = meVE.Aposticha1.incipit
 meMA.PostGospelIdiomelon.text = meVE.Aposticha1.text
 
 meMA.C1.poet = poets_en_US_dedes.IoannouMonachou
-
-meMA.C1.title = titles_en_US_dedes.KanonATouProdromou
+meMA.C1.title = titles_en_US_dedes.KanonATouAgiou
 meMA.C1.verse = prayers_en_US_dedes.verse_Baptist.text
+
+meMA.C2.title = titles_en_US_dedes.KanonBTouAgiou
+meMA.C2.verse = prayers_en_US_dedes.verse_Baptist.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
@@ -179,9 +181,6 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
-
-meMA.C2.title = titles_en_US_dedes.KanonBTouProdromou
-meMA.C2.verse = prayers_en_US_dedes.verse_Baptist.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode8

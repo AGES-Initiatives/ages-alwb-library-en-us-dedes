@@ -87,15 +87,15 @@ meMA.Kathisma21.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
 meMA.Kathisma21.incipit = "You have given up your soul…"
 meMA.Kathisma21.text = "You have given up your soul into the hands of your God * and Creator who for us became incarnate from you. * And He transported it from earth to immortal life. * Thus with due respect we pronounce you blest, * for you alone are pure and immaculate. * And as we all confess that you are truly * the Theotokos, we cry aloud: * To Christ, to whom you have been transported, * pray that He will save our souls."
 
-meMA.C1.poet = poets_en_US_dedes.GermanouPatriarchou
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Holy Icon."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
-meMA.C1.title = "Canon for the Holy Napkin."
+meMA.C1.poet = poets_en_US_dedes.GermanouPatriarchou
+meMA.C1.title = "Canon for the Icon."
 meMA.C1.verse = prayers_en_US_dedes.verse_God.text
+
+meMA.C2.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode6
@@ -120,9 +120,6 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode6
 meMA.Ode1C1T.melody = he.h.m6_en_US_dedes.OsEnIpeiroPezefsas.name
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
-
-meMA.C2.title = titles_en_US_dedes.KanonTouAgiou
-meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode4
@@ -805,11 +802,14 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "From God to the faithful…"
 alt1.meMA.PostGospelIdiomelon.text = "From God to the faithful, O holy Gerasimos, has been given a treasure that is secure: your most venerable body. Therefore, you unceasingly pour out spiritual gladness, and the grace of healings, to those who run faithfully, to your sacred coffin, O blessed one. Intercede with Christ our God, that through all dangers He deliver us unharmed."
 
-alt1.meMA.C1.poet = ""
-alt1.meMA.C1.acrostic = ""
-
 alt1.meMA.C1.title = titles_en_US_dedes.KanonATouAgiou
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
+
+alt1.meMA.C2.acrostic.title = ""
+alt1.meMA.C2.acrostic.notice1 = ""
+alt1.meMA.C2.acrostic.text = ""
+alt1.meMA.C2.title = titles_en_US_dedes.KanonBTouAgiou
+alt1.meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -834,12 +834,6 @@ alt1.meMA.Ode1C14.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Ode1C14.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.name
 alt1.meMA.Ode1C14.incipit = "While standing before the throne…"
 alt1.meMA.Ode1C14.text = "While standing before the throne of grace, O blessed Gerasimos, with pity look down upon us who are crowning you * with our canticles of honor, and redeem us * from all kinds of tribulations, by your fervent prayers."
-
-alt1.meMA.C2.poet = ""
-alt1.meMA.C2.acrostic = "It has an acrostic (without the Theotokia): \"I your servant sing you a hymn.\""
-
-alt1.meMA.C2.title = titles_en_US_dedes.KanonBTouAgiou
-alt1.meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 alt1.meMA.Ode1C21.mode = misc_en_US_dedes.Mode8

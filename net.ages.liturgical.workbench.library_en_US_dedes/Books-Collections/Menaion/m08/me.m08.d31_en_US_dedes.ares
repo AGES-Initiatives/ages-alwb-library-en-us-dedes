@@ -72,21 +72,20 @@ meMA.Kathisma21.incipit = "On this day, All-lauded One…"
 meMA.Kathisma21.text = "On this day, All-lauded One, your faithful people * gaily celebrate the feast of the Bestowal of your Belt, * and we intently cry out to you: * Rejoice, O Virgin, the boast of Christians everywhere."
 
 meMA.C1.poet = poets_en_US_dedes.KyrouGeorgiou
+meMA.C1.title = titles_en_US_dedes.KanonATisTheotokou
+meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
-meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.title = "Second Canon."
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.title = titles_en_US_dedes.KanonBTisTheotokou
+meMA.C2.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_dedes.ThalassisToErythraion.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_dedes.ThalassisToErythraion.text
-
-meMA.C1.title = titles_en_US_dedes.KanonATisEortis
-meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -111,9 +110,6 @@ meMA.Ode1C14.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C14.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
 meMA.Ode1C14.incipit = "…"
 meMA.Ode1C14.text = ""
-
-meMA.C2.title = titles_en_US_dedes.KanonBTisEortis
-meMA.C2.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode8

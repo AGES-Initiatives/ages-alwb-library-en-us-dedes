@@ -180,25 +180,24 @@ meMA.Kathisma21.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.title = titles_en_US_dedes.KanonProeortios
+meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.C2.poet = poets_en_US_dedes.Iosif
+meMA.C2.title = titles_en_US_dedes.KanonATisAgias
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.C3.acrostic.title = ""
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = ""
+meMA.C3.title = titles_en_US_dedes.KanonBTisAgias
+meMA.C3.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode6
 meMA.Ode1C1H.melody = he.h.m6_en_US_dedes.TmitheisiTmatai.melody
 meMA.Ode1C1H.incipit = he.h.m6_en_US_dedes.TmitheisiTmatai.incipit
 meMA.Ode1C1H.text = he.h.m6_en_US_dedes.TmitheisiTmatai.text
-
-meMA.C1.title = titles_en_US_dedes.KanonProeortios
-meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode6
@@ -217,9 +216,6 @@ meMA.Ode1C13.mode = misc_en_US_dedes.Mode6
 meMA.Ode1C13.melody = he.h.m6_en_US_dedes.TmitheisiTmatai.name
 meMA.Ode1C13.incipit = "…"
 meMA.Ode1C13.text = ""
-
-meMA.C2.title = titles_en_US_dedes.KanonATisAgias
-meMA.C2.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode1
@@ -244,9 +240,6 @@ meMA.Ode1C2T.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C2T.melody = he.h.m1_en_US_dedes.OdinEpinikion.name
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
-
-meMA.C3.title = titles_en_US_dedes.KanonBTisAgias
-meMA.C3.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C31.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C31.mode = misc_en_US_dedes.Mode8

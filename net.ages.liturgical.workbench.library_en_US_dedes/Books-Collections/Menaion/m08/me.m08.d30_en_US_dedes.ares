@@ -77,14 +77,14 @@ meVE.Apolytikion2.melody = he.a.m3_en_US_dedes.TinOraiotita.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Forerunner."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
 meMA.C1.title = titles_en_US_dedes.KanonTouProdromou
 meMA.C1.verse = prayers_en_US_dedes.verse_Baptist.text
+
+meMA.C2.title = titles_en_US_dedes.KanonTonAgion
+meMA.C2.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode4
@@ -109,9 +109,6 @@ meMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou.notmetered
 meMA.Ode1C1T.incipit = "God's Chief Commander said to…"
 meMA.Ode1C1T.text = "God's Chief Commander said to you, O Virgin Bride of God: Go now to the house of Elizabeth. You will find her pregnant, and thus you will know the ineffable childbirth that I proclaim to you."
-
-meMA.C2.title = titles_en_US_dedes.KanonTonAgion
-meMA.C2.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode8

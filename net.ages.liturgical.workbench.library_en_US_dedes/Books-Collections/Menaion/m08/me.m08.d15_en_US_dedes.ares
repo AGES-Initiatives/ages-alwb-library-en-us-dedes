@@ -210,23 +210,22 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = "When the translation…"
 meMA.PostGospelIdiomelon.text = "When the translation of your immaculate body was being prepared, the Apostles, surrounding your bed, looked at you fearfully. As they gazed at your body, they were overcome by awe. Peter cried aloud to you tearfully, \"O Virgin, I see you here, laid out for burial, the life of all, and I am struck with wonder. For in you, the delight of the life to come made His dwelling.\" Now we pray, O immaculate Lady: Fervently entreat your Son and God, to keep your people safe and sound."
 
-meMA.C1.poet = poets_en_US_dedes.Kosma
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "First Canon."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_dedes.Kosma
+meMA.C1.title = titles_en_US_dedes.KanonATisEortis
+meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.C2.poet = poets_en_US_dedes.IoannouTouDamaskinou
+meMA.C2.title = titles_en_US_dedes.KanonBTisEortis
+meMA.C2.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C1H.mode = misc_en_US_dedes.Mode1
 meMA.Ode1C1H.melody = he.h.m1_en_US_dedes.PepoikilmeniTiTheiaDoxi.melody
 meMA.Ode1C1H.incipit = he.h.m1_en_US_dedes.PepoikilmeniTiTheiaDoxi.incipit
 meMA.Ode1C1H.text = he.h.m1_en_US_dedes.PepoikilmeniTiTheiaDoxi.text
-
-meMA.C1.title = titles_en_US_dedes.KanonATisEortis
-meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C11.mode = misc_en_US_dedes.Mode1
@@ -245,9 +244,6 @@ meMA.Ode1C2H.mode = misc_en_US_dedes.Mode4
 meMA.Ode1C2H.melody = he.h.m4_en_US_dedes.AnoixoToStomaMou_Koimisis.melody
 meMA.Ode1C2H.incipit = he.h.m4_en_US_dedes.AnoixoToStomaMou_Koimisis.incipit
 meMA.Ode1C2H.text = he.h.m4_en_US_dedes.AnoixoToStomaMou_Koimisis.text
-
-meMA.C2.title = titles_en_US_dedes.KanonBTisEortis
-meMA.C2.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1
 meMA.Ode1C21.mode = misc_en_US_dedes.Mode4
