@@ -265,21 +265,17 @@ trHW.Troparion.melody = ""
 trHW.Troparion.incipit = "While the glorious Disciples were…"
 trHW.Troparion.text = "While the glorious Disciples were being illumined at the washing of the feet during the Supper, then, too, did Judas the ungodly one, succumb to darkness, being sick with avarice. And he delivered You, the righteous Judge, to lawless judges. Look here, O lover of money, and see the one who for money's sake hanged himself. Flee from the greed that made him dare commit such a deed against the Teacher. O Lord benevolent to all, glory be to You."
 
-trMA.C1.poet = poets_en_US_dedes.KosmaMonachou
-trMA.C1.acrostic.title = ""
+trMA.C1.acrostic.title = "The Canon."
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
-//trMA.C1.acrostic.notice2 = ""
-trMA.C1.acrostic = ""
+trMA.C1.poet = poets_en_US_dedes.KosmaMonachou
+trMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 trMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
 trMA.Ode1C1H.mode = misc_en_US_dedes.Mode6
 trMA.Ode1C1H.melody = he.h.m6_en_US_dedes.TmitheisiTmatai.melody
 trMA.Ode1C1H.incipit = he.h.m6_en_US_dedes.TmitheisiTmatai.incipit
 trMA.Ode1C1H.text = he.h.m6_en_US_dedes.TmitheisiTmatai.text
-
-trMA.C1.title = ""
-trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = misc_en_US_dedes.Ode1
 trMA.Ode1C11.mode = misc_en_US_dedes.Mode6

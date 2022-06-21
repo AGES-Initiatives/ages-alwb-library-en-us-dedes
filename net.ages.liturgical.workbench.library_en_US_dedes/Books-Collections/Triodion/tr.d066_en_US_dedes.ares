@@ -290,12 +290,11 @@ trSY.commemoration.narration.p06 = "[paragraph 06]"
 trSY.commemoration.narration.p07 = "[paragraph 07]"
 trSY.lastline = "O Bridegroom Christ, number us with the wise virgins, and include us in Your chosen flock, and have mercy on us. Amen."
 
-trMA.C1.poet = poets_en_US_dedes.KosmaMonachou
-trMA.C1.acrostic.title = ""
+trMA.C1.acrostic.title = "Two-ode Canon."
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
-//trMA.C1.acrostic.notice2 = ""
-trMA.C1.acrostic = ""
+trMA.C1.poet = poets_en_US_dedes.KosmaMonachou
+trMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 trMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
 trMA.Ode8C1H.mode = misc_en_US_dedes.Mode2

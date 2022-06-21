@@ -272,12 +272,11 @@ trMA.Kathisma31.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
 trMA.Kathisma31.incipit = "The harlot wept and sobbed…"
 trMA.Kathisma31.text = "The harlot wept and sobbed, and she ardently wiped dry * Your undefiled feet, O compassionate Master, * with the hair of her head, and sighed from the depths of her soul and cried, * \"O my God, I pray do not reject or abhor me, * but accept me back who am repentant, and save me, * for only You love humanity.\""
 
-trMA.C1.poet = poets_en_US_dedes.KosmaMonachou
-trMA.C1.acrostic.title = ""
+trMA.C1.acrostic.title = "Three-ode Canon."
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
-//trMA.C1.acrostic.notice2 = ""
-trMA.C1.acrostic = ""
+trMA.C1.poet = poets_en_US_dedes.KosmaMonachou
+trMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 trMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
 trMA.Ode3C1H.mode = misc_en_US_dedes.Mode2
