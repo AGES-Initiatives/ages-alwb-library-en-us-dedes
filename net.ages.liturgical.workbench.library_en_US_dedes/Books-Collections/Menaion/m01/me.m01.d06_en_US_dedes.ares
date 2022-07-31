@@ -5,7 +5,9 @@ meDA.commemoration.full = "The Holy Epiphany of our Lord God and Savior Jesus Ch
 meDA.commemoration.first = "Holy Epiphany"
 meDA.commemoration.first_short = "Holy Epiphany"
 meDA.commemoration.first_title = "For Epiphany."
+meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
+meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
@@ -819,5 +821,6 @@ meLI.TheotokosHymn.text = meMA.Ode9C1H.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
-meMegalynarion.text = ""
+meLI.R01 = ""
 
+meMegalynarion.text = ""

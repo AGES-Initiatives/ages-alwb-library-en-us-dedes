@@ -5,7 +5,9 @@ meDA.commemoration.full = "The Circumcision of our Lord, God and Savior Jesus Ch
 meDA.commemoration.first = "Memory of our Father among the saints Basil the Great"
 meDA.commemoration.first_short = "Memory of our Father among the saints Basil the Great"
 meDA.commemoration.first_title = "For the Circumcision."
+meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
+meDA.commemoration.second_name = "St. Basil"
 meDA.insert1 = "our Father among the saints Basil the Great, Archbishop of Caesarea in Cappadocia," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meDA.note = ""
@@ -700,6 +702,8 @@ meLI.AfterCommunion.text = meVE.Apolytikion2.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
-meMegalynarion.incipit = "Let us all now honor…"
-meMegalynarion.text = "Let us all now honor the God-inspired * revealer of heaven, and the mystic of Christ the Lord, * the shining luminary and son of Cappadocia, * and Caesarea's Bishop, Basil indeed the Great."
+meMegalynarion.incipit = "…"
+meMegalynarion.text = ""
 
+meMegalynarion2.incipit = "Let us all now honor…"
+meMegalynarion2.text = "Let us all now honor the God-inspired * revealer of heaven, and the mystic of Christ the Lord, * the shining luminary and son of Cappadocia, * and Caesarea's Bishop, Basil indeed the Great."

@@ -6,7 +6,9 @@ meDA.commemoration.first = "Consecration of the Church of the Holy Resurrection"
 meDA.commemoration.first_short = "Consecration of the Church of the Holy Resurrection"
 meDA.commemoration.second_short = "Forefeast of the Elevation of the Holy and Life-giving Cross"
 meDA.commemoration.first_title = "For the Consecration."
+meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
+meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
@@ -866,3 +868,5 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
+meMegalynarion2.text = ""
+meMegalynarion3.text = ""

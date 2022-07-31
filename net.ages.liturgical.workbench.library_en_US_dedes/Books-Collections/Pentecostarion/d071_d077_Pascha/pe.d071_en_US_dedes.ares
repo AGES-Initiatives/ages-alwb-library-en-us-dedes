@@ -2,6 +2,7 @@ A_Resource_Whose_Name = pe.d071_en_US_dedes
 
 peDA.commemoration.full = "The Holy and Great Sunday of Pascha" //full title of day
 peDA.commemoration.short = "Pascha - Easter Sunday"
+peDA.commemoration.name = "Holy Resurrection"
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal
 peDA.note = ""
@@ -46,3 +47,4 @@ peMA.Lauds4.melody = ""
 peMA.Lauds4.incipit = oc.m1.d1_en_US_dedes.ocMA.Lauds4.incipit
 peMA.Lauds4.text = oc.m1.d1_en_US_dedes.ocMA.Lauds4.text
 
+peMegalynarion.text = ""

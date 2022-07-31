@@ -6,7 +6,9 @@ meDA.commemoration.first = "Forefeast of the Nativity of the Most Holy Theotokos
 meDA.commemoration.first_short = "Forefeast of the Nativity of the Most Holy Theotokos"
 meDA.commemoration.second_short = "Memory of the Holy Martyr Sozon"
 meDA.commemoration.first_title = ""
+meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
+meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
@@ -578,12 +580,15 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
+meMegalynarion2.text = ""
 
 alt1.meDA.date = "September 7" // date
 alt1.meDA.commemoration.full = "" //full title of day
 alt1.meDA.commemoration.first_short = ""
 alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.first_name = ""
 alt1.meDA.commemoration.second_title = ""
+alt1.meDA.commemoration.second_name = ""
 alt1.meDA.insert1 = "" //for use in petitions and dismissal
 alt1.meDA.insert2 = "" //for use in petitions and dismissal
 alt1.meDA.note = ""

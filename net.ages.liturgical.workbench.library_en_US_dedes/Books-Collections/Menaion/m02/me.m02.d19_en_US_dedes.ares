@@ -5,7 +5,9 @@ meDA.commemoration.full = "Memory of the Holy Apostle Archippus, and the Devout 
 meDA.commemoration.first = "Memory of the Holy Apostle Archippus"
 meDA.commemoration.first_short = "Memory of the Holy Apostle Archippus"
 meDA.commemoration.first_title = ""
+meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
+meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
 meDA.note = ""
@@ -333,7 +335,9 @@ alt1.meDA.date = "February 19" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗ
 alt1.meDA.commemoration.full = "Memory of the Devout Martyr Philothea the Athenian" //full title of day
 alt1.meDA.commemoration.first_short = "Memory of St. Philothea the Athenian"
 alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.first_name = "St. Philothea"
 alt1.meDA.commemoration.second_title = ""
+alt1.meDA.commemoration.second_name = ""
 alt1.meDA.insert1 = "the glorious devout martyr Philothea the Athenian," //for use in petitions and dismissal
 alt1.meDA.insert2 = "whose memory we celebrate;" //for use in petitions and dismissal
 alt1.meDA.note = ""
@@ -966,12 +970,12 @@ alt1.meMA.ExapTheotokion.text = "You have become the vessel of the Trinity that 
 alt1.meMA.Lauds1.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Lauds1.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
 alt1.meMA.Lauds1.incipit = "O Philothea, to you who…"
-alt1.meMA.Lauds1.text = "O Philothea, to you who are in heaven, * where our Savior welcomed you, the Martyr and the Nun, * we pray that you intercede for us, and for the City * in which you lived out your life monastically. * Influence the Master to be merciful to us, * so that forgiving us He bestow * peace and salvation * on us who keep your most sacred memory. * For you have proved to be the patroness * who protects those who travel the sea of life, * Philothéï, the glory * of the Martyrs and monastic Saints."
+alt1.meMA.Lauds1.text = "O Philothea, to you who are in heaven, * where our Savior welcomed you, the Martyr and the Nun, * we pray that you intercede for us, and for the City * in which you lived out your life monastically. * Influence the Master to be merciful to us, * so that forgiving us He bestow * peace and salvation * on us who keep your most sacred memory. * For you have proved to be the patroness * who protects those who travel the sea of life, * Philothea, the glory * of the Martyrs and monastic Saints."
 
 alt1.meMA.Lauds2.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Lauds2.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
 alt1.meMA.Lauds2.incipit = "Today the city of Athens…"
-alt1.meMA.Lauds2.text = "Today the city of Athens is rejoicing, * for the holy relics of the Martyr and devout * St. Philothea are on display, for veneration; * and all the people salute them lovingly. * Holy virgins maidens, who honor her on this day, * devoutly sing festal hymns and songs * to Philothéï. * For truly mediatress has she become, * mother and nurse, asylum and retreat, * for the women who faithfully run to her * and who seek her protection * in the shelter of our loving God."
+alt1.meMA.Lauds2.text = "Today the city of Athens is rejoicing, * for the holy relics of the Martyr and devout * St. Philothea are on display, for veneration; * and all the people salute them lovingly. * Holy virgins maidens, who honor her on this day, * devoutly sing festal hymns and songs * to Philothea. * For truly mediatress has she become, * mother and nurse, asylum and retreat, * for the women who faithfully run to her * and who seek her protection * in the shelter of our loving God."
 
 alt1.meMA.Lauds3.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Lauds3.melody = he.a.m4_en_US_dedes.OExYpsistouKlitheis.name
@@ -986,7 +990,7 @@ alt1.meMA.Lauds4.text = "O Philothea, like Dorcas once in Joppa, * you indeed be
 alt1.meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
 alt1.meMA.LaudsGlory.melody = ""
 alt1.meMA.LaudsGlory.incipit = "Today the city of Athens…"
-alt1.meMA.LaudsGlory.text = "Today the city of Athens cheerfully celebrates the memorial of Saint Philothea. So come, you lovers of piety, let us honor the devout Martyr, and reverently chant to her. Rejoice! for during your life you exercised the virtue of love, applying oil and wine on people's sores, as did the Good Samaritan. Rejoice! for like the Savior, you persevered in prayer, and you were taken up and led to undergo martyrdom, for the sake of Him who for us died like a martyr. Rejoice, O Philothéï, extolled by all! Together with the Saints, never cease entreating the Savior, to guard your city, and to preserve her in peace forever, and to save our souls."
+alt1.meMA.LaudsGlory.text = "Today the city of Athens cheerfully celebrates the memorial of Saint Philothea. So come, you lovers of piety, let us honor the devout Martyr, and reverently chant to her. Rejoice! for during your life you exercised the virtue of love, applying oil and wine on people's sores, as did the Good Samaritan. Rejoice! for like the Savior, you persevered in prayer, and you were taken up and led to undergo martyrdom, for the sake of Him who for us died like a martyr. Rejoice, O Philothea, extolled by all! Together with the Saints, never cease entreating the Savior, to guard your city, and to preserve her in peace forever, and to save our souls."
 
 alt1.meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
 alt1.meMA.LaudsTheotokion.melody = ""
@@ -1002,5 +1006,5 @@ alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 
 alt1.meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
-alt1.meMegalynarion.text = "Let us praise the nun-martyr of the Lord; * for of old in Athens, she illustriously shone forth. * She has been adorned with the laurel crown of martyrs. * The holy Philothéï! * Let us all honor her."
-
+alt1.meMegalynarion.text = ""
+alt1.meMegalynarion2.text = ""

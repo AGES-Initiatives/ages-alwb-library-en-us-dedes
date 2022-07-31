@@ -1,11 +1,13 @@
 A_Resource_Whose_Name = me.m12.d17_en_US_dedes
 
 meDA.date = "December 17" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meDA.commemoration.full = "Memory of the Holy Prophet Daniel and the Holy Three Servants, Ananias, Azarias, and Mishael; and our Father among the Saints Dionysius the New, Archbishop of Aigina, the Wonder-worker, from the Island of Zakynthos" // full title of day
+meDA.commemoration.full = "Memory of the Holy Prophet Daniel and the Holy Three Servants, Ananias, Azarias, and Mishael; and our Father among the Saints Dionysios the New, Archbishop of Aegina, the Wonder-worker, from the Island of Zakynthos" // full title of day
 meDA.commemoration.first = "Memory of the Holy Prophet Daniel and the Holy Three Servants"
 meDA.commemoration.first_short = "Memory of the Holy Prophet Daniel and the Holy Three Servants"
 meDA.commemoration.first_title = ""
+meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
+meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
@@ -547,13 +549,16 @@ meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
+meMegalynarion2.text = ""
 
 alt1.meDA.date = "December 17" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-alt1.meDA.commemoration.full = "Memory of our Father among the Saints Dionysius the New, Archbishop of Aigina, the Wonder-worker, from the Island of Zakynthos" //full title of day
-alt1.meDA.commemoration.first_short = "Memory of St. Dionysius Archbishop of Aigina"
+alt1.meDA.commemoration.full = "Memory of our Father among the Saints Dionysios the New, Archbishop of Aegina, the Wonder-worker, from the Island of Zakynthos" //full title of day
+alt1.meDA.commemoration.first_short = "Memory of St. Dionysios Archbishop of Aegina"
 alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.first_name = "St. Dionysios of Aegina"
 alt1.meDA.commemoration.second_title = ""
-alt1.meDA.insert1 = "our Father among the Saints Dionysius the New, Archbishop of Aigina, the Wonder-worker," //for use in petitions and dismissal
+alt1.meDA.commemoration.second_name = ""
+alt1.meDA.insert1 = "our Father among the Saints Dionysios the New, Archbishop of Aegina, the Wonder-worker," //for use in petitions and dismissal
 alt1.meDA.insert2 = "whose memory we celebrate," //for use in petitions and dismissal
 alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
@@ -566,8 +571,8 @@ alt1.meHO.note2 = ""
 
 alt1.meVE.Stichera01.mode = misc_en_US_dedes.Mode2
 alt1.meVE.Stichera01.melody = he.a.m2_en_US_dedes.OteEkTouXylou.notmetered
-alt1.meVE.Stichera01.incipit = "Come, O people of Aigina…"
-alt1.meVE.Stichera01.text = "Come, O people of Aigina, and join us the people of Zakynthos, to honor in unison our illustrious son and your good shepherd. Let us exult in spirit, and give glory to God, who granted us both to be rich with the splendid protection of the famous Hierarch Dionysius, and to crown him now with divine praises."
+alt1.meVE.Stichera01.incipit = "Come, O people of Aegina…"
+alt1.meVE.Stichera01.text = "Come, O people of Aegina, and join us the people of Zakynthos, to honor in unison our illustrious son and your good shepherd. Let us exult in spirit, and give glory to God, who granted us both to be rich with the splendid protection of the famous Hierarch Dionysios, and to crown him now with divine praises."
 
 alt1.meVE.Stichera02.mode = misc_en_US_dedes.Mode2
 alt1.meVE.Stichera02.melody = he.a.m2_en_US_dedes.OteEkTouXylou.notmetered
@@ -582,7 +587,7 @@ alt1.meVE.Stichera03.text = "When you gave up your august and blameless spirit t
 alt1.meVE.Stichera04.mode = misc_en_US_dedes.Mode2
 alt1.meVE.Stichera04.melody = he.a.m2_en_US_dedes.OteEkTouXylou.notmetered
 alt1.meVE.Stichera04.incipit = "The Abbot Daniel saw you…"
-alt1.meVE.Stichera04.text = "The Abbot Daniel saw you with his own eyes, outside of your casket in the church; and in this way you removed any doubt his soul may have had. For with his own eyes he saw you standing among priests in white vestments and splendid deacons, serving with you as when you were alive as a hierarch, O most godly Dionysius."
+alt1.meVE.Stichera04.text = "The Abbot Daniel saw you with his own eyes, outside of your casket in the church; and in this way you removed any doubt his soul may have had. For with his own eyes he saw you standing among priests in white vestments and splendid deacons, serving with you as when you were alive as a hierarch, O most godly Dionysios."
 
 alt1.meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 alt1.meVE.SticGlory.melody = ""
@@ -607,12 +612,12 @@ alt1.meVE.Lity2.text = "A women who did not have a son longed for one, so she pr
 alt1.meVE.Lity3.mode = misc_en_US_dedes.Mode3
 alt1.meVE.Lity3.melody = ""
 alt1.meVE.Lity3.incipit = "Another woman from your family…"
-alt1.meVE.Lity3.text = "Another woman from your family, O devout Saint, had a serious stroke; she remained speechless, half-dead, and immobile. But when they simply touched your precious finger from your holy relic to her mouth and her paralyzed members, oh the miracle! she immediately regained her speech and her full health. She proclaimed the miracle, and she magnified the Lord who magnified you. O Wonder-worker St. Dionysius, entreat Him earnestly for us, who with marvel at and extol your praiseworthy miracles."
+alt1.meVE.Lity3.text = "Another woman from your family, O devout Saint, had a serious stroke; she remained speechless, half-dead, and immobile. But when they simply touched your precious finger from your holy relic to her mouth and her paralyzed members, oh the miracle! she immediately regained her speech and her full health. She proclaimed the miracle, and she magnified the Lord who magnified you. O Wonder-worker St. Dionysios, entreat Him earnestly for us, who with marvel at and extol your praiseworthy miracles."
 
 alt1.meVE.LityGlory.mode = misc_en_US_dedes.Mode5
 alt1.meVE.LityGlory.melody = ""
 alt1.meVE.LityGlory.incipit = "O devout father, when you…"
-alt1.meVE.LityGlory.text = "O devout father, when you ascended to the summit of virtue, you were granted many spiritual gifts from God. For example, by fervent prayer, you loosed the curse that bound a woman who had died long before, and her body dissolved into dust. You corrected the impudence of the disbelieving fishermen, by the miracle of the uncommon catch. You stopped the flow of a river, and you cross without getting wet. You revealed to a priest his transgressing that he had forgotten. Many were your marvelous works while you were alive; even more are your miracles since your death. Therefore, we entreat you, O wonder-worker Dionysius, never cease imploring our forgiving God, on behalf of us who sincerly extol you, that He put us on His right hand, on Judgment Day."
+alt1.meVE.LityGlory.text = "O devout father, when you ascended to the summit of virtue, you were granted many spiritual gifts from God. For example, by fervent prayer, you loosed the curse that bound a woman who had died long before, and her body dissolved into dust. You corrected the impudence of the disbelieving fishermen, by the miracle of the uncommon catch. You stopped the flow of a river, and you cross without getting wet. You revealed to a priest his transgressing that he had forgotten. Many were your marvelous works while you were alive; even more are your miracles since your death. Therefore, we entreat you, O wonder-worker Dionysios, never cease imploring our forgiving God, on behalf of us who sincerly extol you, that He put us on His right hand, on Judgment Day."
 
 alt1.meVE.LityBoth.mode = misc_en_US_dedes.Mode5
 alt1.meVE.LityBoth.melody = ""
@@ -621,8 +626,8 @@ alt1.meVE.LityBoth.text = me.m12.d22_en_US_dedes.meMA.AposBoth.text
 
 alt1.meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
 alt1.meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.notmetered
-alt1.meVE.Aposticha1.incipit = "Dionysius, famous among Fathers, is…"
-alt1.meVE.Aposticha1.text = "Dionysius, famous among Fathers, is a lovely flower that blossomed from the land of Zakynthos, and pours out the sweet fragrances of grace upon the minds of the faithful. He is an ever-flowing fountain of cures and healings, and a divine ocean of miracles that never empties. He is a most radiant luminary of the Church, shining unsetting light to the whole world today, on the occasion of his splendid memory. As we observe it, we glorify Christ the Savior, who glorifies those who ardently glorify Him."
+alt1.meVE.Aposticha1.incipit = "Dionysios, famous among Fathers, is…"
+alt1.meVE.Aposticha1.text = "Dionysios, famous among Fathers, is a lovely flower that blossomed from the land of Zakynthos, and pours out the sweet fragrances of grace upon the minds of the faithful. He is an ever-flowing fountain of cures and healings, and a divine ocean of miracles that never empties. He is a most radiant luminary of the Church, shining unsetting light to the whole world today, on the occasion of his splendid memory. As we observe it, we glorify Christ the Savior, who glorifies those who ardently glorify Him."
 
 alt1.meVE.Aposticha2.mode = misc_en_US_dedes.Mode5
 alt1.meVE.Aposticha2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.notmetered
@@ -632,7 +637,7 @@ alt1.meVE.Aposticha2.text = "O all-blessed Saint, you showed sympathy and compas
 alt1.meVE.Aposticha3.mode = misc_en_US_dedes.Mode5
 alt1.meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.notmetered
 alt1.meVE.Aposticha3.incipit = "Rejoice, guard of Strophades Monastery…"
-alt1.meVE.Aposticha3.text = "Rejoice, guard of Strophades Monastery, and the comforter of the monastics there. You drive away enemies and impious pirates, who daily seek to invade the devout men and to ransack and pillage; but you mightily come to the rescue and throw them off. You are the fortification the Monastery, truly unassailable, a pillar and firm support. You are the savior and model and example of those who live there in sacred asceticism, O Dionysius. And therefore they now call you blest."
+alt1.meVE.Aposticha3.text = "Rejoice, guard of Strophades Monastery, and the comforter of the monastics there. You drive away enemies and impious pirates, who daily seek to invade the devout men and to ransack and pillage; but you mightily come to the rescue and throw them off. You are the fortification the Monastery, truly unassailable, a pillar and firm support. You are the savior and model and example of those who live there in sacred asceticism, O Dionysios. And therefore they now call you blest."
 
 alt1.meVE.AposGlory.mode = misc_en_US_dedes.Mode8
 alt1.meVE.AposGlory.melody = ""
@@ -647,7 +652,7 @@ alt1.meVE.AposBoth.text = me.m11.d30_en_US_dedes.meMA.LaudsBoth.text
 alt1.meVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
 alt1.meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.TouLithouSfragisthentos.name
 alt1.meVE.Apolytikion1.incipit = "To the offspring of Zakynthos…"
-alt1.meVE.Apolytikion1.text = "To the offspring of Zakynthos and bishop of Aigina, * protector of Strophades Monastery, Saint Dionysius, * O believers, let us all with one accord * pay honor, and sincerely say to him: * \"By your fervent prayers save us, who are observing your memory and who call to you: * Glory to Christ who glorified you; * glory to Him who made you marvelous; * glory to Him who gave us you to intercede for us.\""
+alt1.meVE.Apolytikion1.text = "To the offspring of Zakynthos and bishop of Aegina, * protector of Strophades Monastery, Saint Dionysios, * O believers, let us all with one accord * pay honor, and sincerely say to him: * \"By your fervent prayers save us, who are observing your memory and who call to you: * Glory to Christ who glorified you; * glory to Him who made you marvelous; * glory to Him who gave us you to intercede for us.\""
 
 alt1.meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
 alt1.meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.notmetered
@@ -704,7 +709,7 @@ alt1.meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 alt1.meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "The Church of Christ is…"
-alt1.meMA.PostGospelIdiomelon.text = "The Church of Christ is exultant today, and it splendidly celebrates, seeing the new Hierarch, divine Dionysius, magnificently led into it. He unceasingly intercedes on behalf of those who if faith honor his repose."
+alt1.meMA.PostGospelIdiomelon.text = "The Church of Christ is exultant today, and it splendidly celebrates, seeing the new Hierarch, divine Dionysios, magnificently led into it. He unceasingly intercedes on behalf of those who if faith honor his repose."
 
 alt1.meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
@@ -749,7 +754,7 @@ alt1.meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
 alt1.meMA.Ode3C13.mode = misc_en_US_dedes.Mode1
 alt1.meMA.Ode3C13.melody = he.h.m1_en_US_dedes.StereothitoIKardiaMou.notmetered
 alt1.meMA.Ode3C13.incipit = "The Lord, who searches minds…"
-alt1.meMA.Ode3C13.text = "The Lord, who searches minds and knows the secrets of the heart, as it is written, foreknew your purpose and resolve, and that you would be straightforward and guileless; and He elevated you to be the most excellent Pastor of Aigina."
+alt1.meMA.Ode3C13.text = "The Lord, who searches minds and knows the secrets of the heart, as it is written, foreknew your purpose and resolve, and that you would be straightforward and guileless; and He elevated you to be the most excellent Pastor of Aegina."
 
 alt1.meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
 alt1.meMA.Ode3C1T.mode = misc_en_US_dedes.Mode1
@@ -830,8 +835,8 @@ alt1.meMA.Ode6C12.text = "While on earth, you vigorously trampled the might of t
 alt1.meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
 alt1.meMA.Ode6C13.mode = misc_en_US_dedes.Mode1
 alt1.meMA.Ode6C13.melody = he.h.m1_en_US_dedes.TonProfitinIonan.notmetered
-alt1.meMA.Ode6C13.incipit = "O Dionysius, cease not from…"
-alt1.meMA.Ode6C13.text = "O Dionysius, cease not from earnestly entreating Christ the Lord, on behalf of your compatriots; for we all have you as our Patron Saint."
+alt1.meMA.Ode6C13.incipit = "O Dionysios, cease not from…"
+alt1.meMA.Ode6C13.text = "O Dionysios, cease not from earnestly entreating Christ the Lord, on behalf of your compatriots; for we all have you as our Patron Saint."
 
 alt1.meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
 alt1.meMA.Ode6C1T.mode = misc_en_US_dedes.Mode1
@@ -842,9 +847,9 @@ alt1.meMA.Ode6C1T.text = "The Virgin is coming to the grotto in Bethlehem, to gi
 alt1.meMA.Kontakion1.mode = misc_en_US_dedes.Mode3
 alt1.meMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.name
 alt1.meMA.Kontakion1.incipit = "On this day the city…"
-alt1.meMA.Kontakion1.text = "On this day the city of * Zakynthos and the Strophades * Monastery celebrate * a joyous feast day with splendor. * Aigina, in the Cyclades, is invited * to join in, as they sing praises as is their duty * and to festively extol him, their common glory, St. Dionysius."
+alt1.meMA.Kontakion1.text = "On this day the city of * Zakynthos and the Strophades * Monastery celebrate * a joyous feast day with splendor. * Aegina, in the Cyclades, is invited * to join in, as they sing praises as is their duty * and to festively extol him, their common glory, St. Dionysios."
 
-alt1.meMA.Oikos1.text = "Be silent now, be silent, all those who until now said that there is no home-town champion and ardent intercessor to God for the God-protected island of Zakynthos, like there is for many other notable Orthodox cities and lands. For now there is Dionysius, revered among hierarchs, who is just right, as her own famous son and praiseworthy offspring, and who served as Bishop of Aigina. No longer need blessed Zakynthos be jealous of  her friendly neighbors, Kefallinia and Corfu, who are very proud to have the divine and sacred relics of Gerasimos and Spyridon, who are from other places. She now cordially invites them to the splendid feast of her very own home grown Saint. She likewise appropriately extends the invitation to Aigina in the Cyclades, and to the all-holy Monastery of Strophades, which was fortunate enough to possess the treasure of his divine and sacred body, so that all together they may worthily extol and splendidly celebrate, their common glory, St. Dionysius."
+alt1.meMA.Oikos1.text = "Be silent now, be silent, all those who until now said that there is no home-town champion and ardent intercessor to God for the God-protected island of Zakynthos, like there is for many other notable Orthodox cities and lands. For now there is Dionysios, revered among hierarchs, who is just right, as her own famous son and praiseworthy offspring, and who served as Bishop of Aegina. No longer need blessed Zakynthos be jealous of  her friendly neighbors, Kefallinia and Corfu, who are very proud to have the divine and sacred relics of Gerasimos and Spyridon, who are from other places. She now cordially invites them to the splendid feast of her very own home grown Saint. She likewise appropriately extends the invitation to Aegina in the Cyclades, and to the all-holy Monastery of Strophades, which was fortunate enough to possess the treasure of his divine and sacred body, so that all together they may worthily extol and splendidly celebrate, their common glory, St. Dionysios."
 
 alt1.meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
 alt1.meMA.Ode7C11.mode = misc_en_US_dedes.Mode1
@@ -920,8 +925,8 @@ alt1.meMA.Ode9C1T.text = ""
 
 alt1.meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 alt1.meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-alt1.meMA.Exaposteilarion1.incipit = "Now Zakynthos and Aigina *…"
-alt1.meMA.Exaposteilarion1.text = "Now Zakynthos and Aigina * and all the brethren living in * the Strophades Monastery * extol singing worthy praises * divine St. Dionysius, their common boast and champion, * that luminary shining forth * with miracles on to all those * who fervently call upon him."
+alt1.meMA.Exaposteilarion1.incipit = "Now Zakynthos and Aegina *…"
+alt1.meMA.Exaposteilarion1.text = "Now Zakynthos and Aegina * and all the brethren living in * the Strophades Monastery * extol singing worthy praises * divine St. Dionysios, their common boast and champion, * that luminary shining forth * with miracles on to all those * who fervently call upon him."
 
 alt1.meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
 alt1.meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
@@ -935,13 +940,13 @@ alt1.meMA.Lauds1.text = "Friends and offspring of Zakynthos, * come together now
 
 alt1.meMA.Lauds2.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Lauds2.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-alt1.meMA.Lauds2.incipit = "Dionysius is indeed * a…"
-alt1.meMA.Lauds2.text = "Dionysius is indeed * a great treasure that we possess; * he is a most sacred true son of Zakynthos. * Therefore, O people of Zakynthos, * together cry out to him: * Rejoice, glory and esteem * of your homeland, O glorious Dionysius. * The defense of the Orthodox, rejoice, support and crown of all your people * who are observing your memory."
+alt1.meMA.Lauds2.incipit = "Dionysios is indeed * a…"
+alt1.meMA.Lauds2.text = "Dionysios is indeed * a great treasure that we possess; * he is a most sacred true son of Zakynthos. * Therefore, O people of Zakynthos, * together cry out to him: * Rejoice, glory and esteem * of your homeland, O glorious Dionysios. * The defense of the Orthodox, rejoice, support and crown of all your people * who are observing your memory."
 
 alt1.meMA.Lauds3.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Lauds3.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
 alt1.meMA.Lauds3.incipit = "God entrusted you with the…"
-alt1.meMA.Lauds3.text = "God entrusted you with the flock * of the island of Aigina; * in the Holy Spirit you shepherded it well. * Therefore the faithful of Aigina * all knew you to be their good * shepherd pleasing to the Lord. * And today they all celebrate your memorial. * Once again they all join with us who joyously with longing keep and honor * the feast of your ven'rable repose."
+alt1.meMA.Lauds3.text = "God entrusted you with the flock * of the island of Aegina; * in the Holy Spirit you shepherded it well. * Therefore the faithful of Aegina * all knew you to be their good * shepherd pleasing to the Lord. * And today they all celebrate your memorial. * Once again they all join with us who joyously with longing keep and honor * the feast of your ven'rable repose."
 
 alt1.meMA.Lauds4.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Lauds4.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
@@ -953,7 +958,7 @@ alt1.meMA.MM.Lauds123as678.text = properties_en_US_dedes.media.key
 alt1.meMA.LaudsGlory.mode = misc_en_US_dedes.Mode8
 alt1.meMA.LaudsGlory.melody = ""
 alt1.meMA.LaudsGlory.incipit = "O fans of feast days…"
-alt1.meMA.LaudsGlory.text = "O fans of feast days, today Zakynthos celebrates a joyous feast, as she keeps the memory of Dionysius, the hierarch who rose from her. She invites her friends, cities and islands, and her neighbors Keffalinia and Corfu. The latter boasts, among others that she has, of the most wondrous Spyridon; the former is rich, possessing the miracle-worker Gerasimos the New. And all are invited to rejoice together spiritually, and to celebrate in a manner pleasing to God. Let us also join them and sing, saying: \"O Lord who are wondrous in the saints, by their entreaties, deliver all Orthodox peoples on earth from every danger, and grant them the heavenly kingdom, in Your love for humanity.\""
+alt1.meMA.LaudsGlory.text = "O fans of feast days, today Zakynthos celebrates a joyous feast, as she keeps the memory of Dionysios, the hierarch who rose from her. She invites her friends, cities and islands, and her neighbors Keffalinia and Corfu. The latter boasts, among others that she has, of the most wondrous Spyridon; the former is rich, possessing the miracle-worker Gerasimos the New. And all are invited to rejoice together spiritually, and to celebrate in a manner pleasing to God. Let us also join them and sing, saying: \"O Lord who are wondrous in the saints, by their entreaties, deliver all Orthodox peoples on earth from every danger, and grant them the heavenly kingdom, in Your love for humanity.\""
 
 alt1.meMA.LaudsBoth.mode = misc_en_US_dedes.Mode8
 alt1.meMA.LaudsBoth.melody = ""

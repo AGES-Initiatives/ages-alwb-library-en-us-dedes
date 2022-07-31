@@ -5,7 +5,9 @@ meDA.commemoration.full = "The Synaxis in Honor of the Most Holy Theotokos, our 
 meDA.commemoration.first = "Memory of the Holy Great Martyr Thecla, the Equal to the Apostles."
 meDA.commemoration.first_short = "Memory of the Holy Great Martyr Thecla, the Equal to the Apostles."
 meDA.commemoration.first_title = ""
+meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
+meDA.commemoration.second_name = ""
 meDA.insert1 = "the holy Great Martyr Thecla, the Equal to the Apostles," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
 meDA.note = ""
@@ -437,9 +439,10 @@ meMegalynarion.text = ""
 alt1.meDA.date = "September 24"
 alt1.meDA.commemoration.full = "The Synaxis in Honor of the Most Holy Theotokos, our Lady of the Myrtles" //full title of day
 alt1.meDA.commemoration.first_short = "The Synaxis in Honor of the Most Holy Theotokos, our Lady of the Myrtles"
-
 alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.first_name = ""
 alt1.meDA.commemoration.second_title = ""
+alt1.meDA.commemoration.second_name = ""
 alt1.meDA.insert1 = "" //for use in petitions and dismissal
 alt1.meDA.insert2 = "the finding of whose holy icon \"Our Lady of the Myrtles\" we commemorate," //for use in petitions and dismissal
 alt1.meDA.note = ""
@@ -1017,3 +1020,4 @@ alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 alt1.meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 alt1.meMegalynarion.text = ""
+alt1.meMegalynarion2.text = ""

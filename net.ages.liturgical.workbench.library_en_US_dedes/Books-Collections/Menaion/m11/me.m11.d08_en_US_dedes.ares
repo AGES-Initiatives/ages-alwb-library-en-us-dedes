@@ -5,7 +5,9 @@ meDA.commemoration.full = "The Synaxis in Honor of the Chief Commanders Michael 
 meDA.commemoration.first = "The Synaxis in Honor of the Chief Commanders Michael and Gabriel"
 meDA.commemoration.first_short = "The Synaxis in Honor of the Chief Commanders Michael and Gabriel"
 meDA.commemoration.first_title = "For Chief Commander Michael."
+meDA.commemoration.first_name = "Archangels Michael and Gabriel"
 meDA.commemoration.second_title = "For Chief Commander Gabriel."
+meDA.commemoration.second_name = ""
 meDA.insert1 = "the holy and glorious Supreme Commanders Michael and Gabriel, and the other bodiless hosts," // for use in petitions and dismissal
 meDA.insert2 = "whose Synaxis we celebrate;" // for use in petitions and dismissal
 meDA.note = ""
@@ -19,7 +21,7 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_dedes.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera01.incipit = "As Commander-in-chief you stand by…"
+meVE.Stichera01.incipit = "As Commander-in-chief you stand…"
 meVE.Stichera01.text = "As Commander-in-chief you stand by the Godhead and triple Sun, * O Archangel Michael, most brilliant minister. * And with the heavenly hosts on high * rejoicing you cry aloud: * You are holy, O Father; * You are holy, O equally unoriginate * Word; and holy are You, O Holy Spirit, single glory, rule and nature * and single Power and Divinity."
 
 meVE.Stichera02.mode = misc_en_US_dedes.Mode4
@@ -29,33 +31,33 @@ meVE.Stichera02.text = "Wholly fiery is your form * and your beauty is wonderful
 
 meVE.Stichera03.mode = misc_en_US_dedes.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.OsGennaionEnMartysi.name
-meVE.Stichera03.incipit = "You, O Lord, make Your…"
+meVE.Stichera03.incipit = "You, O Lord, make…"
 meVE.Stichera03.text = "You, O Lord, make Your messengers spirits, even as Scripture says, * and you make Your ministers be a fiery flame. * And You have made Michael who is Chief-commander to be supreme * in Your archangelic ranks. * He obediently submits unto Your commands. * And with fear does he cry out in a loud voice the thrice-holy hymn, O Master, * unto Your glory, O Word of God."
 
 meVE.Stichera04.mode = misc_en_US_dedes.Mode4
 meVE.Stichera04.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera04.incipit = "Gabriel, the pre-eternal Mind set…"
+meVE.Stichera04.incipit = "Gabriel, the pre-eternal Mind…"
 meVE.Stichera04.text = "Gabriel, the pre-eternal Mind set you as a second light, * to illumine the whole wide world * through participation in the grace of the Godhead, * and also to make known to us the great and most divine * mystery which was from all eternity: * that He who had been bodiless assumed a body within the womb * of a Virgin and thus became * man to save all humanity."
 
 meVE.Stichera05.mode = misc_en_US_dedes.Mode4
 meVE.Stichera05.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera05.incipit = "Standing as you do by…"
+meVE.Stichera05.incipit = "Standing as you do…"
 meVE.Stichera05.text = "Standing as you do by the tri-solar Godhead's supernal throne and illumined abundantly * by the divine splendor that * from it without ceasing * radiates, Archangel, * deliver from the passions' gloom * those who on earth stand in chorus joyfully * extolling you, O Gabriel the Chief-commander. And brighten them * with divine lumination's light, * and entreat that our souls be saved."
 
 meVE.Stichera06.mode = misc_en_US_dedes.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
-meVE.Stichera06.incipit = "Shatter all the insolence that…"
+meVE.Stichera06.incipit = "Shatter all the insolence…"
 meVE.Stichera06.text = "Shatter all the insolence that sons of Hagar continually * aim against us your humble flock. * Captain of the Bodiless, stop the Church's schisms. * Calm the swelling ocean of the temptations that we have. * Also deliver us from calamity * and circumstances fraught with danger, for with longing we honor you, * who entreat on our souls' behalf, as our refuge, O Gabriel."
 
 meVE.SticGlory.poet = poets_en_US_dedes.Vyzantiou
 meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "Celebrate with us, all you…"
+meVE.SticGlory.incipit = "Celebrate with us, all you orders…"
 meVE.SticGlory.text = "Celebrate with us, all you orders of Angels. Your leader and our protector, that great Chief Commander, has hallowed this day, marvelously appearing in his sacred shrine. Therefore let us gratefully extol him and sing aloud to him, \"Shelter us in the shelter of your wings, O grand Archangel Michael.\""
 
 meVE.SticTheotokion.mode = misc_en_US_dedes.Mode6
 meVE.SticTheotokion.melody = ""
-meVE.SticTheotokion.incipit = "Celebrate with us, all you…"
+meVE.SticTheotokion.incipit = "Celebrate with us, all you choirs…"
 meVE.SticTheotokion.text = "Celebrate with us, all you choirs of virgins. Our protection and intercessor, our shelter and great refuge, has hallowed this day, marvelously appearing in her sacred shrine. Therefore let us gratefully extol her and sing aloud to her, \"Shelter us in the shelter of your wings, O immaculate Theotokos, our Lady.\""
 
 meVE.Lity1.poet = poets_en_US_dedes.Kyprianou
@@ -106,48 +108,48 @@ meVE.LityGlory.text = ""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode4
 meVE.LityBoth.melody = ""
-meVE.LityBoth.incipit = "Today the Theotokos, the temple…"
+meVE.LityBoth.incipit = "Today the Theotokos…"
 meVE.LityBoth.text = "Today the Theotokos, the temple that contains God, is led into the Temple of God; and Zacharias welcomes her. Today the Holy of Holies is exultant, and the chorus of Angels mystically celebrates. Together with them let us also keep the feast today, and with Gabriel let us cry aloud: Rejoice, O Maiden full of grace, the Lord is with you; and He has the great mercy."
 
 meVE.Aposticha1.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Aposticha1.incipit = "Let us who dwell in…"
+meVE.Aposticha1.incipit = "Let us who dwell…"
 meVE.Aposticha1.text = "Let us who dwell in the world now like angels keep the feast, * and unto God who is carried * on the throne of His glory * cry aloud the hymn, saying: \"Father who art * in the heavens, Holy are You; * co-unoriginate Logos, Holy are You; * and all-holy Spirit, Holy are You.\""
 
 meVE.Aposticha2.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Aposticha2.incipit = "Since you are foremost in…"
+meVE.Aposticha2.incipit = "Since you are foremost…"
 meVE.Aposticha2.text = "Since you are foremost in heaven, and have great freedom to speak, * O Chief Commander Michael, as you stand there in glory * near the unendurable throne of the Lord, * and behold things ineffable, * by your entreaties deliver us from distress * and temptations and from perils, we pray."
 
 meVE.Aposticha3.mode = misc_en_US_dedes.Mode1
 meVE.Aposticha3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Aposticha3.incipit = "Among the bodiless Angels you…"
+meVE.Aposticha3.incipit = "Among the bodiless Angels…"
 meVE.Aposticha3.text = "Among the bodiless Angels you are expressly the first. * O Chief Commander Michael, * an eye-witness and mystic * are you of that divine and resplendent light. * Hence we fervently pray to you: * Save us who piously honor you every year * and in faith extol the Trinity."
 
 meVE.AposGlory.poet = poets_en_US_dedes.IoannouMonachou
 meVE.AposGlory.mode = misc_en_US_dedes.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "As captain and champion and…"
+meVE.AposGlory.incipit = "As captain and champion…"
 meVE.AposGlory.text = "As captain and champion and leader of the Angels, deliver from all necessity and tribulation, illness and grievous sins, those who sincerely extol and entreat you, O glorious Chief Commander, as one immaterial who manifestly beholds the Immaterial One, and who is splendidly illumined by the unapproachable light of the Master's glory. He it is who out of love for mankind assumed flesh from the Virgin for our sake, wishing as He did to save the human race."
 
 meVE.Apolytikion1.mode = misc_en_US_dedes.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
-meVE.Apolytikion1.incipit = "O Chief Commanders of the…"
+meVE.Apolytikion1.incipit = "O Chief Commanders…"
 meVE.Apolytikion1.text = "O Chief Commanders of the heavenly armies, * we the unworthy now entreat you in earnest, * to fortify us by your supplications to the Lord, * and shelter us beneath the wings of your spiritual glory, * guarding us who run to you and fervently entreat you: * As the Commanders of the hosts on high, * rescue us faithful from dangers of every kind."
 
 meMA.Kathisma11.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma11.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
-meMA.Kathisma11.incipit = "Ο chief Commander of the…"
+meMA.Kathisma11.incipit = "Ο chief Commander…"
 meMA.Kathisma11.text = "Ο chief Commander of the bodiless ministers * as one who stands before the throne of the Godhead, * and brightly are illumined by its radiance, * brighten us and sanctify those who faithfully hymn you, * and from all the tyranny of the enemy free us. * And earnestly request a peaceful life * for our rulers * and the entire universe."
 
 meMA.Kathisma1T.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma1T.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
-meMA.Kathisma1T.incipit = "We your servants shall not…"
+meMA.Kathisma1T.incipit = "We your servants…"
 meMA.Kathisma1T.text = "We your servants shall not ever be silent, * O Theotokos, from extolling your mercies * wholeheartedly and gratefully, O Lady Bride of God, * crying out and uttering: Come in time and redeem us * from our seen and unseen foes, and from threatening dangers. * For you, All-holy Virgin, ever save * your faithful servants * from evils of every kind."
 
 meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
 meMA.Kathisma21.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
-meMA.Kathisma21.incipit = "The Cherubim along with many-eyed…"
+meMA.Kathisma21.incipit = "The Cherubim along…"
 meMA.Kathisma21.text = "The Cherubim along with many-eyed Seraphim * and all the armies of the Archangel ministers * as well as Principalities, Authorities and Thrones, * Angels and Dominions and Powers all importune You * earnestly imploring You our Lord God and Maker. * O Christ, do not despise Your people's prayer * though they be sinners, * for You are most merciful."
 
 meMA.Kathisma2T.mode = misc_en_US_dedes.Mode4
@@ -157,7 +159,7 @@ meMA.Kathisma2T.text = he.a.m4_en_US_dedes.TachyProkatalave.text
 
 meMA.Kathisma31.mode = misc_en_US_dedes.Mode8
 meMA.Kathisma31.melody = he.a.m8_en_US_dedes.ToProstachthen.name
-meMA.Kathisma31.incipit = "Michael and Gabriel, foremost-ranking leaders…"
+meMA.Kathisma31.incipit = "Michael and Gabriel…"
 meMA.Kathisma31.text = "Michael and Gabriel, foremost-ranking leaders * of the celestial and high-throned awesome beings * of divine glory, you are their supreme Commanders. * O Ministers of the Master, with all the hosts * of bodiless powers ceaselessly intercede * on behalf of the universe, entreating earnestly that He * forgive our sins, that we might find * grace and mercy on Judgment Day."
 
 meMA.Kathisma3T.mode = misc_en_US_dedes.Mode8
@@ -593,17 +595,17 @@ meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
-meMA.Exaposteilarion1.incipit = "Our God and Maker appointed…"
+meMA.Exaposteilarion1.incipit = "Our God and Maker…"
 meMA.Exaposteilarion1.text = "Our God and Maker appointed you, * holy Archangel Michael, * as care-taker and champion * and excellent provider * for the entire human race, * and He has ineffably * honored you with the glory * that comes with being able * to sing to Him without ceasing * that divine, thrice-holy victory hymn."
 
 meMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-meMA.Exaposteilarion2.incipit = "The light-transcendent Trinity * has…"
+meMA.Exaposteilarion2.incipit = "The light-transcendent Trinity…"
 meMA.Exaposteilarion2.text = "The light-transcendent Trinity * has fired you up ineffably * with divine illumination, O holy Archangel Michael. * Like lightning you traverse the world, * fulfilling God's divine command, * protecting, guarding and sheltering * all those who need your assistance * and joyously now extol you."
 
 meMA.Exaposteilarion3.mode = misc_en_US_dedes.Mode2
 meMA.Exaposteilarion3.melody = he.a.m2_en_US_dedes.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion3.incipit = "O Chief Commander, most divine…"
+meMA.Exaposteilarion3.incipit = "O Chief Commander…"
 meMA.Exaposteilarion3.text = "O Chief Commander, most divine * and all-glorious Michael, * God has appointed you to be * first among all the Angels, * the Principalities, Powers, * Archangels and Dominions, * Cherubim, Thrones, and all the rest. * As you now stand beside the most awesome throne, * shelter, guard, protect, defend, help and save us * who faithfully sing and honor you, * for you protect the whole world."
 
 meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
@@ -613,22 +615,22 @@ meMA.ExapTheotokion.text = "O Theotokos, praised by all, * you are higher in hon
 
 meMA.Lauds1.mode = misc_en_US_dedes.Mode1
 meMA.Lauds1.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meMA.Lauds1.incipit = "You are the Chief of…"
+meMA.Lauds1.incipit = "You are the Chief…"
 meMA.Lauds1.text = "You are the Chief of angelic heavenly hierarchies, * and the mighty protector of humanity on earth, * guarding and delivering us who sing * hymns extolling you loyally. * To you, O Michael, Commander-in-chief, we pray * to be saved from all destructive pain."
 
 meMA.Lauds2.mode = misc_en_US_dedes.Mode1
 meMA.Lauds2.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meMA.Lauds2.incipit = "Today the Chief and Commander…"
+meMA.Lauds2.incipit = "Today the Chief…"
 meMA.Lauds2.text = "Today the Chief and Commander of the divine hosts on high * invites the choirs of mortals to convene with the angels * to organize a single radiant feast all together to celebrate * their divine Synaxis, and also to extol * God in song with the Thrice-holy hymn."
 
 meMA.Lauds3.mode = misc_en_US_dedes.Mode1
 meMA.Lauds3.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meMA.Lauds3.incipit = "Beneath the shield of your…"
+meMA.Lauds3.incipit = "Beneath the shield…"
 meMA.Lauds3.text = "Beneath the shield of your holy and immaterial wings * guard and protect us always, * holy Archangel Michael. * Be with us throughout our entire life, * and indeed in the hour of death * be a most kindly assistance, and help us then, * as a spiritual servant of God."
 
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = "Wherever your grace overshadows, O…"
+meMA.LaudsGlory.incipit = "Wherever your grace…"
 meMA.LaudsGlory.text = "Wherever your grace overshadows, O Archangel, the power of the devil is driven away. For he cannot bear to stand in your light, the fallen Lucifer that he is. We therefore beg you to extinguish the fiery arrows that he shoots against us, and by your mediation to deliver us from the scandals he sets, O praiseworthy Archangel Michael."
 
 meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5

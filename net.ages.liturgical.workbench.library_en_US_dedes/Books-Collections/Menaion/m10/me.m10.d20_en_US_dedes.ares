@@ -5,7 +5,9 @@ meDA.commemoration.full = "Memory of the Holy Great Martyr Artemius, Devout Matr
 meDA.commemoration.first = "Memory of the Holy Great Martyr Artemius"
 meDA.commemoration.first_short = "Memory of the Holy Great Martyr Artemius"
 meDA.commemoration.first_title = ""
+meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
+meDA.commemoration.second_name = ""
 meDA.insert1 = "and the holy Great Martyr Artemius," //for use in petitions and dismissal
 meDA.insert2 = "whose memory we are observing," //for use in petitions and dismissal
 meDA.note = ""
@@ -352,7 +354,9 @@ alt1.meDA.date = "October 20" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗ�
 alt1.meDA.commemoration.full = "Memory of our Devout and God-bearing Father Gerasimos, the new Ascetic, the Wonder-worker, who lived as an ascetic in Kephallenia" //full title of day
 alt1.meDA.commemoration.first_short = "Memory of our devout father Gerasimos of Kephallenia"
 alt1.meDA.commemoration.first_title = "For St. Gerasimos."
+alt1.meDA.commemoration.first_name = "St. Gerasimos"
 alt1.meDA.commemoration.second_title = ""
+alt1.meDA.commemoration.second_name = ""
 alt1.meDA.insert1 = "our devout and God-bearing father Gerasimos the New Ascetic," //for use in petitions and dismissal
 alt1.meDA.insert2 = "whose memory we celebrate," //for use in petitions and dismissal
 alt1.meDA.note = "Originally translated from the Greek and rendered in meter at Saint Paul's Monastery on Mt. Athos, at the request of His Grace Philip, Bishop of Daphnousia (later Atlanta), with the blessing and approval of the holy Abbot Archimandrite Parthenios, in 1992. Since then, the English text has been improved and modified."
@@ -1385,7 +1389,6 @@ alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 alt1.meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 alt1.meMegalynarion.text = "Since you are the great boast of all of Greece * and the sacred offspring sprouting from the Peloponnese * and Kefallinia's unplunderable treasure, * grant shelter to your servants, O godly Gerasimos."
-
 alt1.meMegalynarion2.text = "Brilliant son of Trikala, O rejoice. * Rejoice, Cephalonians' unassailable source of help. * Rejoice, pride and glory of priests and all monastics, * the boast of the believers, O thrice-blest Gerasimos."
 
 alt1.meCoupletv1.text = "Grant, O Gerasimos, unto your namesake"
@@ -1394,3 +1397,12 @@ alt1.meCoupletv2.text = "divine grace for herein extolling your virtues."
 alt1.meCoupletv3.text = "Remember, O Gerasimos, O equal of angels,"
 alt1.meCoupletv4.text = "the angelonymous monk who translated your Service."
 
+alt1.meMegalynarion3.text = ""
+
+alt2.meDA.date = "October 20" // date
+alt2.meDA.commemoration.full = "" //full title of day
+alt2.meDA.commemoration.first_short = "Memory of St. Matrona"
+alt2.meDA.commemoration.first_title = ""
+alt2.meDA.commemoration.first_name = ""
+
+alt2.meMegalynarion.text = ""
