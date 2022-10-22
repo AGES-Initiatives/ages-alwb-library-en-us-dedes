@@ -2,6 +2,7 @@ A_Resource_Whose_Name = tr.d054_en_US_dedes
 
 trDA.commemoration.full = "" //full title of day
 trDA.commemoration.short = "The Service of the Great Canon"
+trDA.title = ""
 trDA.insert1 = "" //for use in petitions and dismissal
 trDA.insert2 = "" //for use in petitions and dismissal
 trDA.note = ""
@@ -1445,6 +1446,7 @@ trMA.Kontakion1.text = "My soul, O my soul, rise up! Why are you sleeping? The e
 trMA.Oikos1.text = ""
 
 trSY.commemoration.text = "On this day, Thursday of the fifth week of Lent, according to ancient tradition, we chant the service of the Great and compunctious Canon."
+trSY.commemoration.onotherday.text = "On this day, we chant the service of the Great and compunctious Canon."
 trSY.commemoration.couplet1.title = titles_en_US_dedes.Stichoi
 trSY.commemoration.couplet1.verse1 = "Jesus, give the habit of compunction"
 trSY.commemoration.couplet1.verse2 = "to us who now sing the Great Canon."
