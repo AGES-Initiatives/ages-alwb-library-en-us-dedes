@@ -61,8 +61,8 @@ meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.LityGlory.mode = misc_en_US_dedes.Mode2
 meVE.LityGlory.melody = ""
-meVE.LityGlory.incipit = "Come, all people, and let…"
-meVE.LityGlory.text = "Come, all people, and let us celebrate today the feast of the victorious Martyr Barbara. She was not vanquished by anything: not by the sword, nor by fire, nor by any other torture, not even by the traps of the conniving devil. O all-glorious and magnificent Martyr, entreat Christ to grant us the great mercy."
+meVE.LityGlory.incipit = "Come, all people…"
+meVE.LityGlory.text = "Come, all people, let us celebrate today the feast in honor of the victorious Martyr Barbara. Nothing could defeat her: neither sword, nor fire, nor any other torture, not even the traps of the conniving devil. \"O all-glorious and magnificent Martyr, entreat Christ to grant us great mercy.\""
 
 meVE.LityBoth.mode = misc_en_US_dedes.Mode2
 meVE.LityBoth.melody = ""
@@ -550,8 +550,8 @@ meMA.Lauds3.text = "As the Martyr Barbara, who was called by God, was suffering 
 meMA.Lauds4.poet = poets_en_US_dedes.Vyzantiou
 meMA.Lauds4.mode = misc_en_US_dedes.Mode2
 meMA.Lauds4.melody = misc_en_US_dedes.Idiomelon
-meMA.Lauds4.incipit = "Come, people, let us sing…"
-meMA.Lauds4.text = "Come, people, let us sing hymns on the festive day in honor of Barbara the victorious. Nothing could defeat her, not sword, nor fire, nor any other torture, not even the traps of the crafty devil. O fair and all-glorious Martyr, pray to Christ that he grant us His great mercy."
+meMA.Lauds4.incipit = meVE.LityGlory.incipit
+meMA.Lauds4.text = meVE.LityGlory.text
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.IoannouMonachou
 meMA.LaudsGlory.mode = misc_en_US_dedes.Mode6
