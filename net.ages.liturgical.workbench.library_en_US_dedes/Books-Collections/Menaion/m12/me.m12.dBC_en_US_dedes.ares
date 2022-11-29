@@ -4,7 +4,7 @@ meDA.date = "December 18-24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝ
 meDA.commemoration.full = "Sunday Before Christmas" // full title of day
 meDA.commemoration.first = "Sunday Before Christmas"
 meDA.commemoration.first_short = "Sunday Before Christmas"
-meDA.commemoration.first_title = ""
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Fathers
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -94,7 +94,7 @@ meMA.Ode1C1H.text = he.h.m6_en_US_dedes.KymatiThalassis.text
 meMA.C1.title = "Canon for the Fathers."
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
-meMA.C2.title = titles_en_US_dedes.KanonProeortios
+meMA.C2.title = titles_en_US_dedes.ti.CanonForefeast
 meMA.C2.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

@@ -4,7 +4,7 @@ meDA.date = "July 12"
 meDA.commemoration.full = "Memory of the Holy Martyrs Proclus and Hilary" //full title of day
 meDA.commemoration.first = "Memory of the Holy Martyrs Proclus and Hilary"
 meDA.commemoration.first_short = "Memory of the Holy Martyrs Proclus and Hilary"
-meDA.commemoration.first_title = titles_en_US_dedes.TonAgion
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Saints
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -53,7 +53,7 @@ meVE.Apolytikion1.text = ""
 meMA.C1.acrostic.title = "Canon for the Saints."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonTonAgion
+meMA.C1.title = titles_en_US_dedes.ti.CanonSaints
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -580,14 +580,14 @@ alt1.meMA.C1.acrostic.title = "First Canon for the Saint."
 alt1.meMA.C1.acrostic.notice1 = ""
 alt1.meMA.C1.acrostic.text = ""
 alt1.meMA.C1.poet = ""
-alt1.meMA.C1.title = titles_en_US_dedes.KanonATouAgiou
+alt1.meMA.C1.title = titles_en_US_dedes.ti.Canon1SaintM
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.C2.acrostic.title = "Second Canon for the Saint."
 alt1.meMA.C2.acrostic.notice1 = ""
 alt1.meMA.C2.acrostic.text = ""
 alt1.meMA.C2.poet = ""
-alt1.meMA.C2.title = titles_en_US_dedes.KanonBTouAgiou
+alt1.meMA.C2.title = titles_en_US_dedes.ti.Canon2SaintM
 alt1.meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -860,7 +860,7 @@ alt1.meMA.Oikos17.text = "Rejoice, the splendor of Holy Mt. Athos; rejoice, prot
 alt1.meMA.Oikos18.text = "Rejoice, Father known throughout the world!"
 
 alt1.meMA.Synaxarion.text = "On July 12, we commemorate our devout father Paisios the New of the Holy Mountain Athos, who reposed in peace in the year 1994."
-alt1.meMA.couplet1.title = titles_en_US_dedes.Stichoi
+alt1.meMA.couplet1.title = titles_en_US_dedes.ti.Verses
 alt1.meMA.couplet1.verse1 = "Paisios lived alone for God alone;"
 alt1.meMA.couplet1.verse2 = "But he lightened the pain of many who were troubled."
 alt1.meMA.couplet2.verse1 = "Since he was united to God through love,"
@@ -1337,21 +1337,21 @@ alt2.meMA.C1.acrostic.title = ""
 alt2.meMA.C1.acrostic.notice1 = ""
 alt2.meMA.C1.acrostic.text = ""
 alt2.meMA.C1.poet = poets_en_US_dedes.IoilEdessis
-alt2.meMA.C1.title = titles_en_US_dedes.KanonTisTheotokou
+alt2.meMA.C1.title = titles_en_US_dedes.ti.CanonTheotokos
 alt2.meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 alt2.meMA.C2.acrostic.title = ""
 alt2.meMA.C2.acrostic.notice1 = ""
 alt2.meMA.C2.acrostic.text = ""
 alt2.meMA.C2.poet = poets_en_US_dedes.IoilEdessis
-alt2.meMA.C2.title = titles_en_US_dedes.KanonATouAgiou
+alt2.meMA.C2.title = titles_en_US_dedes.ti.Canon1SaintM
 alt2.meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt2.meMA.C3.acrostic.title = ""
 alt2.meMA.C3.acrostic.notice1 = ""
 alt2.meMA.C3.acrostic.text = ""
 alt2.meMA.C3.poet = poets_en_US_dedes.IoilEdessis
-alt2.meMA.C3.title = titles_en_US_dedes.KanonBTouAgiou
+alt2.meMA.C3.title = titles_en_US_dedes.ti.Canon2SaintM
 alt2.meMA.C3.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt2.meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
@@ -1769,7 +1769,7 @@ alt2.meMA.Oikos17.text = "Rejoice, the reliever of pain for the ailing; rejoice,
 alt2.meMA.Oikos18.text = "Rejoice, father Paisios!"
 
 alt2.meMA.Synaxarion.text = "On July 12, we commemorate our devout father Paisios the New of the Holy Mountain Athos, who reposed in peace in the year 1994."
-alt2.meMA.couplet1.title = titles_en_US_dedes.Stichoi
+alt2.meMA.couplet1.title = titles_en_US_dedes.ti.Verses
 alt2.meMA.couplet1.verse1 = "Most devout Paisios, on Mt. Athos"
 alt2.meMA.couplet1.verse2 = "you showed yourself to be a tree most fruitful."
 alt2.meMA.single1.text = "Paisios died on the twelfth of July."

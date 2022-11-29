@@ -4,7 +4,7 @@ meDA.date = "February 24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟ�
 meDA.commemoration.full = "Memory of the Finding of the Venerable Head of the Holy Prophet, Forerunner, and Baptist John." // full title of day
 meDA.commemoration.first = "Finding of Forerunner's Head"
 meDA.commemoration.first_short = "Finding of Forerunner's Head"
-meDA.commemoration.first_title = titles_en_US_dedes.TouProdromou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Forerunner
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -124,7 +124,7 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = meVE.AposGlory.incipit
 meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
 
-meMA.C1.title = titles_en_US_dedes.KanonTouProdromou
+meMA.C1.title = titles_en_US_dedes.ti.CanonForerunner
 meMA.C1.verse = prayers_en_US_dedes.verse_Baptist.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

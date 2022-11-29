@@ -4,9 +4,9 @@ meDA.date = "July 13"
 meDA.commemoration.full = "The Synaxis in Honor of Archangel Gabriel; and Memory of our Devout Father Stephen of St. Savas Monastery." // full title of day
 meDA.commemoration.first = "The Synaxis in Honor of Archangel Gabriel"
 meDA.commemoration.first_short = "The Synaxis in Honor of Archangel Gabriel"
-meDA.commemoration.first_title = titles_en_US_dedes.TouArchangelou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Archangel
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_dedes.TouOsiou
+meDA.commemoration.second_title = titles_en_US_dedes.ti.DevoutSaintM
 meDA.commemoration.second_name = ""
 meDA.insert1 = "the holy and glorious Archangel Gabriel," // for use in petitions and dismissal
 meDA.insert2 = "whose Synaxis we celebrate," // for use in petitions and dismissal
@@ -93,14 +93,14 @@ meVE.Apolytikion2.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonTouArchangelou
+meMA.C1.title = titles_en_US_dedes.ti.CanonArchangel
 meMA.C1.verse = prayers_en_US_dedes.verse_Archangel.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.poet = poets_en_US_dedes.Theofanous
-meMA.C2.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C2.title = titles_en_US_dedes.ti.CanonDevoutM
 meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -623,7 +623,7 @@ alt1.meVE.Stichera03.text = ""
 alt1.meMA.C1.acrostic.title = ""
 alt1.meMA.C1.acrostic.notice1 = ""
 alt1.meMA.C1.acrostic.text = ""
-alt1.meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+alt1.meMA.C1.title = titles_en_US_dedes.ti.CanonSaintM
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

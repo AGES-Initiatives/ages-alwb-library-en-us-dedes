@@ -4,9 +4,9 @@ meDA.date = "January 4" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ 
 meDA.commemoration.full = "Forefeast of Epiphany, and Synaxis in honor of the Holy Seventy Apostles, and Memory of our Devout Father Theoktistos." // full title of day
 meDA.commemoration.first = "Forefeast of Epiphany"
 meDA.commemoration.first_short = "Forefeast of Epiphany"
-meDA.commemoration.first_title = titles_en_US_dedes.TonApostolon
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Apostles
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_dedes.TouOsiou
+meDA.commemoration.second_title = titles_en_US_dedes.ti.DevoutSaintM
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
@@ -89,7 +89,7 @@ meVE.Apolytikion2.text = he.ga_en_US_dedes.ApostoloiAgioi.text
 meCO.C1.acrostic.title = ""
 meCO.C1.acrostic.notice1 = ""
 meCO.C1.acrostic.text = ""
-meCO.C1.title = titles_en_US_dedes.OKanon
+meCO.C1.title = titles_en_US_dedes.ti.TheCanon
 meCO.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meCO.Ode1C1H.ode = misc_en_US_dedes.Ode1
@@ -289,17 +289,17 @@ meMA.Kathisma22.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.poet = poets_en_US_dedes.Iosif
-meMA.C1.title = titles_en_US_dedes.KanonProeortios
+meMA.C1.title = titles_en_US_dedes.ti.CanonForefeast
 meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_US_dedes.KanonTonApostolon
+meMA.C2.title = titles_en_US_dedes.ti.CanonApostles
 meMA.C2.verse = prayers_en_US_dedes.verse_Apostles.text
 
 meMA.C3.poet = poets_en_US_dedes.Theofanous
-meMA.C3.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C3.title = titles_en_US_dedes.ti.CanonDevoutM
 meMA.C3.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

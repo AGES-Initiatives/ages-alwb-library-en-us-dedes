@@ -4,7 +4,7 @@ meDA.date = "December 2" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ
 meDA.commemoration.full = "Memory of the Holy Prophet Habakkuk" // full title of day
 meDA.commemoration.first = "Memory of the Holy Prophet Habakkuk"
 meDA.commemoration.first_short = "Memory of the Holy Prophet Habakkuk"
-meDA.commemoration.first_title = titles_en_US_dedes.TouProfitou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Prophet
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -64,7 +64,7 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_dedes.Theofanous
-meMA.C1.title = titles_en_US_dedes.KanonTouProfitou
+meMA.C1.title = titles_en_US_dedes.ti.CanonProphet
 meMA.C1.verse = prayers_en_US_dedes.verse_Prophet.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -539,7 +539,7 @@ alt1.meMA.PostGospelIdiomelon.text = "You renounced the worldly delights, O wise
 alt1.meMA.C1.acrostic.title = "Canon for the Saint."
 alt1.meMA.C1.acrostic.notice1 = ""
 alt1.meMA.C1.acrostic.text = ""
-alt1.meMA.C1.title = titles_en_US_dedes.KanonTouOsiou
+alt1.meMA.C1.title = titles_en_US_dedes.ti.CanonDevoutM
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

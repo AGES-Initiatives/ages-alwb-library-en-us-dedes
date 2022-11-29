@@ -2,7 +2,7 @@ A_Resource_Whose_Name = tr.d057_en_US_dedes
 
 trDA.commemoration.full = "Fifth Sunday of Lent: Our Devout Mother Saint Mary of Egypt" //full title of day
 trDA.commemoration.short = "Fifth Sunday of Lent: St. Mary of Egypt"
-trDA.title = titles_en_US_dedes.TisAgias
+trDA.title = titles_en_US_dedes.ti.SaintW
 trDA.insert1 = "our devout Mother Mary of Egypt," //for use in petitions and dismissal
 trDA.insert2 = "whose memory we celebrate," //for use in petitions and dismissal
 trDA.note = ""
@@ -72,7 +72,7 @@ trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.incipit = tr.d001_en_US_dedes.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.text = tr.d001_en_US_dedes.trMA.PostGospelIdiomelon.text
 
-trMA.C1.title = titles_en_US_dedes.KanonTouTriodiou
+trMA.C1.title = titles_en_US_dedes.ti.CanonTriodion
 trMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -99,7 +99,7 @@ trMA.Ode1C1T.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
 trMA.Ode1C1T.incipit = "…"
 trMA.Ode1C1T.text = ""
 
-trMA.C2.title = titles_en_US_dedes.KanonTisOsias
+trMA.C2.title = titles_en_US_dedes.ti.CanonDevoutW
 trMA.C2.verse = prayers_en_US_dedes.verse_DevoutWoman.text
 
 trMA.Ode1C21.ode = misc_en_US_dedes.Ode1
@@ -337,7 +337,7 @@ trMA.Oikos1.text = "Ewe of Christ and daughter, now in song we praise you, O Mar
 
 trSY.commemoration.text = "On this day, the fifth Sunday of Lent, we have been enjoined to observe the memory of our devout Mother Mary of Egypt."
 trSY.commemoration.onotherday.text = "On this day, we observe the memory of our devout Mother Mary of Egypt."
-trSY.commemoration.couplet1.title = titles_en_US_dedes.Stichoi
+trSY.commemoration.couplet1.title = titles_en_US_dedes.ti.Verses
 trSY.commemoration.couplet1.verse1 = "Her spirt is gone, the flesh long discarded."
 trSY.commemoration.couplet1.verse2 = "O earth, now hide the dead bones of Mary."
 trSY.commemoration.narration.p01 = "[paragraph 01]"

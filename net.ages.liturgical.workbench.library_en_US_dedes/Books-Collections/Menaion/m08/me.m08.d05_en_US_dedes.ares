@@ -4,9 +4,9 @@ meDA.date = "August 5"
 meDA.commemoration.full = "The Forefeast of the Holy Transfiguration of our Lord God and Savior Jesus Christ; and Memory of the Holy Martyr Eusignius."
 meDA.commemoration.first = "The Forefeast of the Holy Transfiguration of our Lord"
 meDA.commemoration.first_short = "The Forefeast of the Holy Transfiguration of our Lord"
-meDA.commemoration.first_title = titles_en_US_dedes.Proeortia
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Forefestal_hymns
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_dedes.TouAgiou
+meDA.commemoration.second_title = titles_en_US_dedes.ti.SaintM
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
@@ -97,13 +97,13 @@ meMA.Kathisma21.text = "Together with the three select disciples of Christ God, 
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
-meMA.C1.title = titles_en_US_dedes.KanonProeortios
+meMA.C1.title = titles_en_US_dedes.ti.CanonForefeast
 meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C2.title = titles_en_US_dedes.ti.CanonSaintM
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

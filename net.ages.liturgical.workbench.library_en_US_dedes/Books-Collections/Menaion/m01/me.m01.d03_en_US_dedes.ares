@@ -4,9 +4,9 @@ meDA.date = "January 3" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ 
 meDA.commemoration.full = "Forefeast of Epiphany; and Memory of the Holy Prophet Malachi, and the Holy Martyr Gordios." // full title of day
 meDA.commemoration.first = "Forefeast of Epiphany"
 meDA.commemoration.first_short = "Forefeast of Epiphany"
-meDA.commemoration.first_title = titles_en_US_dedes.TouProfitou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Prophet
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_dedes.TouMartyros
+meDA.commemoration.second_title = titles_en_US_dedes.ti.Martyr
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
@@ -261,21 +261,21 @@ meMA.Kathisma22.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C.acrostic.notice2 = ""
-meMA.C1.title = titles_en_US_dedes.KanonProeortios
+meMA.C1.title = titles_en_US_dedes.ti.CanonForefeast
 meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.poet = poets_en_US_dedes.Theofanous
-meMA.C2.title = titles_en_US_dedes.KanonTouProfitou
+meMA.C2.title = titles_en_US_dedes.ti.CanonProphet
 meMA.C2.verse = prayers_en_US_dedes.verse_Prophet.text
 
 meMA.C3.acrostic.title = ""
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
 meMA.C3.poet = poets_en_US_dedes.Theofanous
-meMA.C3.title = titles_en_US_dedes.KanonTouMartyros
+meMA.C3.title = titles_en_US_dedes.ti.CanonMartyrM
 meMA.C3.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

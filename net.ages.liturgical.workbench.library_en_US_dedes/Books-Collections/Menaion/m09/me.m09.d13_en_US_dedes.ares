@@ -5,9 +5,9 @@ meDA.commemoration.full = "Commemoration of the Consecration of the Church of th
 meDA.commemoration.first = "Consecration of the Church of the Holy Resurrection"
 meDA.commemoration.first_short = "Consecration of the Church of the Holy Resurrection"
 meDA.commemoration.second_short = "Forefeast of the Elevation of the Holy and Life-giving Cross"
-meDA.commemoration.first_title = titles_en_US_dedes.TonEnkainion
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Consecration
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_dedes.TouAgiou
+meDA.commemoration.second_title = titles_en_US_dedes.ti.SaintM
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
@@ -111,17 +111,17 @@ meMA.Kathisma21.text = "The festive observance of the Consecration today * has c
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.poet = poets_en_US_dedes.Germanou
-meMA.C1.title = titles_en_US_dedes.KanonProeortios
+meMA.C1.title = titles_en_US_dedes.ti.CanonForefeast
 meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.C2.poet = poets_en_US_dedes.IoannouMonachou
-meMA.C2.title = titles_en_US_dedes.KanonTonEnkainion
+meMA.C2.title = titles_en_US_dedes.ti.CanonConsecration
 meMA.C2.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.C3.acrostic.title = ""
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
-meMA.C3.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C3.title = titles_en_US_dedes.ti.CanonSaintM
 meMA.C3.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

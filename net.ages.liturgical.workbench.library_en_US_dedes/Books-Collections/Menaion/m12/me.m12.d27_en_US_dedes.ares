@@ -4,7 +4,7 @@ meDA.date = "December 27" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟ�
 meDA.commemoration.full = "Memory of the Holy Protomartyr and Archdeacon Stephen, and of our Devout Father and Confessor Theodore the Inscribed, brother of Theophanes the Hymnographer." // full title of day
 meDA.commemoration.first = "Memory of the Holy Protomartyr Stephen."
 meDA.commemoration.first_short = "Memory of the Holy Protomartyr Stephen."
-meDA.commemoration.first_title = titles_en_US_dedes.TouProtomartyros
+meDA.commemoration.first_title = titles_en_US_dedes.ti.ProtomartyrM
 meDA.commemoration.first_name = "St. Stephen"
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -119,14 +119,14 @@ meMA.Kathisma22.incipit = me.m12.d25_en_US_dedes.meMA.Kathisma31.incipit
 meMA.Kathisma22.text = me.m12.d25_en_US_dedes.meMA.Kathisma31.text
 
 meMA.C1.poet = poets_en_US_dedes.IoannouMonachou
-meMA.C1.title = titles_en_US_dedes.KanonTouProtomartyros
+meMA.C1.title = titles_en_US_dedes.ti.CanonProtomartyrM
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.poet = poets_en_US_dedes.Theofanous
-meMA.C2.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C2.title = titles_en_US_dedes.ti.CanonDevoutM
 meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

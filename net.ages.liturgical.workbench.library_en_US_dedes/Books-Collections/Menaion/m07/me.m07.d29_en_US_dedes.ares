@@ -4,9 +4,9 @@ meDA.date = "July 29"
 meDA.commemoration.full = "Memory of  the holy Martyr Callinicus; and the Holy Martyr Theodota." // full title of day
 meDA.commemoration.first = "Memory of  the holy Martyr Callinicus"
 meDA.commemoration.first_short = "Memory of  the holy Martyr Callinicus"
-meDA.commemoration.first_title = titles_en_US_dedes.TouAgiou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintM
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_dedes.TisAgias
+meDA.commemoration.second_title = titles_en_US_dedes.ti.SaintW
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
@@ -74,13 +74,13 @@ meVE.Apolytikion2.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C1.title = titles_en_US_dedes.ti.CanonSaintM
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_US_dedes.KanonTisAgias
+meMA.C2.title = titles_en_US_dedes.ti.CanonSaintW
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

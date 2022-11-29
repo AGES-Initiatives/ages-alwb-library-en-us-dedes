@@ -4,9 +4,9 @@ meDA.date = "August 14"
 meDA.commemoration.full = "Forefeast of the Dormition of the Most-holy Theotokos and Ever-virgin Mary; and Memory of the holy Prophet Micah." //full title of day
 meDA.commemoration.first = "Forefeast of the Dormition of the Theotokos"
 meDA.commemoration.first_short = "Forefeast of the Dormition of the Theotokos"
-meDA.commemoration.first_title = titles_en_US_dedes.Proeortia
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Forefestal_hymns
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_dedes.TouProfitou
+meDA.commemoration.second_title = titles_en_US_dedes.ti.Prophet
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
@@ -92,13 +92,13 @@ meMA.Kathisma21.text = "You have given up your soul into the hands of your God *
 meMA.C1.acrostic.title = "Canon for the Forefeast."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonProeortios
+meMA.C1.title = titles_en_US_dedes.ti.CanonForefeast
 meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_US_dedes.KanonTouProfitou
+meMA.C2.title = titles_en_US_dedes.ti.CanonProphet
 meMA.C2.verse = prayers_en_US_dedes.verse_Prophet.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

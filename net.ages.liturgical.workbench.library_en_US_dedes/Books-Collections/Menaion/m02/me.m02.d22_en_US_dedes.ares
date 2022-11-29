@@ -4,7 +4,7 @@ meDA.date = "February 22" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟ�
 meDA.commemoration.full = "Memory of the Finding of the Relics of the Holy Martyrs in the Quarter of Evgenios" //full title of day
 meDA.commemoration.first = "Memory of the Holy Martyrs in the Quarter of Evgenios"
 meDA.commemoration.first_short = "Memory of the Holy Martyrs in the Quarter of Evgenios"
-meDA.commemoration.first_title = titles_en_US_dedes.TonMartyron
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Martyrs
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -50,7 +50,7 @@ meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meMA.C1.title = titles_en_US_dedes.KanonTonMartyron
+meMA.C1.title = titles_en_US_dedes.ti.CanonMartyrs
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

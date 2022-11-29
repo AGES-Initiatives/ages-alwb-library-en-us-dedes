@@ -4,7 +4,7 @@ meDA.date = "June 1" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or 
 meDA.commemoration.full = "Memory of the St. Justin Martyr the Philosopher, and another St. Justin and those with him" //full title of day
 meDA.commemoration.first = "Memory of the St. Justin Martyr the Philosopher, and another St. Justin and those with him"
 meDA.commemoration.first_short = "Memory of the St. Justin Martyr the Philosopher, and another St. Justin and those with him"
-meDA.commemoration.first_title = titles_en_US_dedes.TonAgion
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Saints
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -51,7 +51,7 @@ meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meMA.C1.title = titles_en_US_dedes.KanonTonAgion
+meMA.C1.title = titles_en_US_dedes.ti.CanonSaints
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

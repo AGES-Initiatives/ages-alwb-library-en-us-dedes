@@ -4,9 +4,9 @@ meDA.date = "January 5" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ 
 meDA.commemoration.full = "Forefeast of Epiphany; and Memory of the Holy Martyrs Theopemtus and Theonas, and Devout St. Syncletike." // full title of day
 meDA.commemoration.first = "Forefeast of Epiphany."
 meDA.commemoration.first_short = "Forefeast of Epiphany."
-meDA.commemoration.first_title = titles_en_US_dedes.TonMartyron
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Martyrs
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_dedes.TisOsias
+meDA.commemoration.second_title = titles_en_US_dedes.ti.DevoutW
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
@@ -84,7 +84,7 @@ meVE.Apolytikion1.text = "Jordan River once turned back when Elisha struck its s
 meCO.C1.acrostic.title = ""
 meCO.C1.acrostic.notice1 = ""
 meCO.C1.acrostic.text = ""
-meCO.C1.title = titles_en_US_dedes.OKanon
+meCO.C1.title = titles_en_US_dedes.ti.TheCanon
 meCO.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meCO.Ode1C1H.ode = misc_en_US_dedes.Ode1
@@ -306,13 +306,13 @@ meMA.Kathisma22.incipit = "O Christ, in order to…"
 meMA.Kathisma22.text = "O Christ, in order to dress Adam's nakedness * in the garment of glory, of which Isaiah spoke, * You are about to physically stand naked in River Jordan. * Such a paradox indeed! * How can water receive You, Lord, * who with water cover Your * upper chambers, as the Psalmist wrote? * O Jesus our merciful Benefactor, * we all extol You Epiphany."
 
 meMA.C1.poet = poets_en_US_dedes.Iosif
-meMA.C1.title = titles_en_US_dedes.KanonProeortios
+meMA.C1.title = titles_en_US_dedes.ti.CanonForefeast
 meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
-meMA.C2.title = titles_en_US_dedes.KanonTisOsias
+meMA.C2.title = titles_en_US_dedes.ti.CanonDevoutW
 meMA.C2.verse = prayers_en_US_dedes.verse_DevoutWoman.text
 
-meMA.C3.title = titles_en_US_dedes.KanonTonMartyron
+meMA.C3.title = titles_en_US_dedes.ti.CanonMartyrs
 meMA.C3.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

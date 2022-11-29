@@ -4,7 +4,7 @@ meDA.date = "September 3"
 meDA.commemoration.full = "Memory of the Holy Hieromartyr Anthimos, Bishop of Nicomedia, and our Devout Father Theoktistos, Fellow Ascetic of Efthymios the Great." // full title of day
 meDA.commemoration.first = "Memory of the Holy Hieromartyr Anthimos, Bishop of Nicomedia."
 meDA.commemoration.first_short = "Memory of the Holy Hieromartyr Anthimos, Bishop of Nicomedia."
-meDA.commemoration.first_title = titles_en_US_dedes.TouAgiou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintM
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -97,14 +97,14 @@ meVE.MM.GeneralApolytikion3.text = properties_en_US_dedes.media.key
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonTouIeromartyros
+meMA.C1.title = titles_en_US_dedes.ti.CanonHieromartyr
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.poet = poets_en_US_dedes.Theofanous
-meMA.C2.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C2.title = titles_en_US_dedes.ti.CanonDevoutM
 meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -794,7 +794,7 @@ alt1.meMA.PostGospelIdiomelon.text = "Since you partake of the illumination that
 alt1.meMA.C1.acrostic.title = "Canon for the Saint."
 alt1.meMA.C1.acrostic.notice1 = ""
 alt1.meMA.C1.acrostic.text = ""
-alt1.meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+alt1.meMA.C1.title = titles_en_US_dedes.ti.CanonSaintM
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

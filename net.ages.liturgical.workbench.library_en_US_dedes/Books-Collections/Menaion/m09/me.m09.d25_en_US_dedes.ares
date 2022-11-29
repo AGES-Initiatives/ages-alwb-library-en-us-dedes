@@ -4,7 +4,7 @@ meDA.date = "September 25"
 meDA.commemoration.full = "Memory of our Devout Mother Euphrosyne" //full title of day
 meDA.commemoration.first = "Memory of our Devout Mother Euphrosyne"
 meDA.commemoration.first_short = "Memory of our Devout Mother Euphrosyne"
-meDA.commemoration.first_title = titles_en_US_dedes.TisAgias
+meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintW
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -61,13 +61,13 @@ meVE.Apolytikion1.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meMA.C1.title = titles_en_US_dedes.KanonATisOsias
+meMA.C1.title = titles_en_US_dedes.ti.Canon1DevoutW
 meMA.C1.verse = prayers_en_US_dedes.verse_DevoutWoman.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_US_dedes.KanonBTisOsias
+meMA.C2.title = titles_en_US_dedes.ti.Canon2DevoutW
 meMA.C2.verse = prayers_en_US_dedes.verse_DevoutWoman.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

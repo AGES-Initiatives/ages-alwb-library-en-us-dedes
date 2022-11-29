@@ -4,7 +4,7 @@ meDA.date = "December 14" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟ�
 meDA.commemoration.full = "Memory of the Holy Martyrs Thyrsos, Leucius, Kallinikos, Philemon, Apollonios, Arrianos, and those with them" // full title of day
 meDA.commemoration.first = "Memory of the Holy Martyrs Thyrsos, Leucius, Kallinikos, Philemon, Apollonios, Arrianos, and those with them"
 meDA.commemoration.first_short = "Memory of the Holy Martyrs Thyrsos, Leucius, Kallinikos, Philemon, Apollonios, Arrianos, and those with them"
-meDA.commemoration.first_title = titles_en_US_dedes.TonAgion
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Saints
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -66,7 +66,7 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.C1.poet = poets_en_US_dedes.Theofanous
-meMA.C1.title = titles_en_US_dedes.KanonTonAgion
+meMA.C1.title = titles_en_US_dedes.ti.CanonSaints
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

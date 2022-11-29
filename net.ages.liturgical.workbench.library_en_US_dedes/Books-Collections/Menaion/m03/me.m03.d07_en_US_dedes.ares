@@ -4,7 +4,7 @@ meDA.date = "March 7" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or
 meDA.commemoration.full = "Memory of the holy Hieromartyrs in Cherson, Ephraim, Basilefs, Eugene, Agathodoros, Capito, Aetherios and Elpidios, and our Devout Father Lavrentios of Salamina" //full title of day
 meDA.commemoration.first = "Memory of the holy Hieromartyrs in Cherson"
 meDA.commemoration.first_short = "Memory of the holy Hieromartyrs in Cherson"
-meDA.commemoration.first_title = titles_en_US_dedes.TonAgion
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Saints
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -59,7 +59,7 @@ meVE.Apolytikion2.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonTonAgion
+meMA.C1.title = titles_en_US_dedes.ti.CanonSaints
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

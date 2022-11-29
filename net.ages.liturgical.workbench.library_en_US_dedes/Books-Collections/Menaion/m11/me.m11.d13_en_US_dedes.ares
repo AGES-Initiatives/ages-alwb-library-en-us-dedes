@@ -4,7 +4,7 @@ meDA.date = "November 13"
 meDA.commemoration.full = "Memory of our Father among the Saints John Chrysostom, Archbishop of Constantinople." // full title of day
 meDA.commemoration.first = "Memory of St. John Chrysostom"
 meDA.commemoration.first_short = "Memory of St. John Chrysostom"
-meDA.commemoration.first_title = titles_en_US_dedes.TouAgiou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintM
 meDA.commemoration.first_name = "St. John Chrysostom"
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -225,14 +225,14 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = me.m01.d01_en_US_dedes.meVE.LityGlory.incipit
 meMA.PostGospelIdiomelon.text = me.m01.d01_en_US_dedes.meVE.LityGlory.text
 
-meMA.C1.title = titles_en_US_dedes.KanonTisTheotokou
+meMA.C1.title = titles_en_US_dedes.ti.CanonTheotokos
 meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.poet = poets_en_US_dedes.Theofanous
-meMA.C2.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C2.title = titles_en_US_dedes.ti.CanonSaintM
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

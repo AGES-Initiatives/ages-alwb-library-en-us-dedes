@@ -4,7 +4,7 @@ meDA.date = "August 24"
 meDA.commemoration.full = "Memory of the Holy Hieromartyr Eutyches, Disciple of St. John the Theologian" //full title of day
 meDA.commemoration.first = "Memory of the Holy Hieromartyr Eutyches"
 meDA.commemoration.first_short = "Memory of the Holy Hieromartyr Eutyches"
-meDA.commemoration.first_title = titles_en_US_dedes.TouAgiou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintM
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -65,7 +65,7 @@ meVE.Apolytikion3.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C1.title = titles_en_US_dedes.ti.CanonSaintM
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -491,7 +491,7 @@ alt1.meMA.PostGospelIdiomelon.text = ""
 alt1.meMA.C1.acrostic.title = ""
 alt1.meMA.C1.acrostic.notice1 = ""
 alt1.meMA.C1.acrostic.text = ""
-alt1.meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+alt1.meMA.C1.title = titles_en_US_dedes.ti.CanonSaintM
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

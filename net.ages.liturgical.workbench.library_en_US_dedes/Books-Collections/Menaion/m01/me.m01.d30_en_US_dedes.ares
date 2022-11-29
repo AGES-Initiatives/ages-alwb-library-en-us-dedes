@@ -4,7 +4,7 @@ meDA.date = "January 30" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ
 meDA.commemoration.full = "Memory of our Fathers among the Saints, great Ecumenical Teachers and Hierarchs, Basil the Great, Gregory the Theologian and John Chrysostom." // full title of day
 meDA.commemoration.first = "Memory of the Holy Three Hierarchs"
 meDA.commemoration.first_short = "Memory of the Holy Three Hierarchs"
-meDA.commemoration.first_title = titles_en_US_dedes.TonAgion
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Saints
 meDA.commemoration.first_name = "Three Hierarchs"
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -239,18 +239,18 @@ meMA.C1.acrostic.title = "Canon for the Theotokos."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_dedes.IoannouEfchaiton
-meMA.C1.title = titles_en_US_dedes.KanonTisTheotokou
+meMA.C1.title = titles_en_US_dedes.ti.CanonTheotokos
 meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.C2.acrostic.title = "Canon for the Saints."
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.poet = poets_en_US_dedes.IoannouEfchaiton
-meMA.C2.title = titles_en_US_dedes.KanonATonAgion
+meMA.C2.title = titles_en_US_dedes.ti.Canon1Saints
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.C3.poet = poets_en_US_dedes.IoannouEfchaiton
-meMA.C3.title = titles_en_US_dedes.KanonBTonAgion
+meMA.C3.title = titles_en_US_dedes.ti.Canon2Saints
 meMA.C3.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
@@ -964,7 +964,7 @@ meMegalynarion.text = ""
 alt1.meDA.date = "January 30" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = "" //full title of day
 alt1.meDA.commemoration.first_short = ""
-alt1.meDA.commemoration.first_title = titles_en_US_dedes.TouAgiou
+alt1.meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintM
 alt1.meDA.commemoration.first_name = ""
 alt1.meDA.commemoration.second_title = ""
 alt1.meDA.commemoration.second_name = ""
@@ -980,7 +980,7 @@ alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
 alt1.meMA.C1.poet = poets_en_US_dedes.IoannouMonachou
-alt1.meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+alt1.meMA.C1.title = titles_en_US_dedes.ti.CanonSaintM
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

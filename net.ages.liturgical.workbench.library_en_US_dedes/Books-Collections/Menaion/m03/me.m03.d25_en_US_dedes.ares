@@ -4,7 +4,7 @@ meDA.date = "March 25" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ o
 meDA.commemoration.full = "The Annunciation of the Most Holy Theotokos and Ever-virgin Mary." // full title of day
 meDA.commemoration.first = "Annunciation of the Most Holy Theotokos"
 meDA.commemoration.first_short = "Annunciation of the Most Holy Theotokos"
-meDA.commemoration.first_title = titles_en_US_dedes.TisEortis
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Feast
 meDA.commemoration.first_name = "Annunciation"
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -176,7 +176,7 @@ meMA.PostGospelIdiomelon.text = me.m03.d24_en_US_dedes.meVE.SticGlory.text
 meMA.C1.acrostic.title = "The Canon."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.poet = poets_en_US_dedes.IoannouMonachou
-meMA.C1.title = titles_en_US_dedes.KanonTisEortis
+meMA.C1.title = titles_en_US_dedes.ti.CanonFeast
 meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 //Titles needed for the canon troparia
@@ -528,7 +528,7 @@ meMA.AdditionalIdiomelon1.melody = ""
 meMA.AdditionalIdiomelon1.incipit = "Let the heavens be glad…"
 meMA.AdditionalIdiomelon1.text = "Let the heavens be glad, and let the earth rejoice. For the Father’s Son, who with Him is also eternal, beginningless, and on the throne, took pity on humanity, in His merciful love, and He descended and emptied himself, according to the Father's good pleasure and will. And He made His dwelling in a virgin’s womb that was purified beforehand by the Spirit. What a miracle! God among men; the Uncontainable in a womb; the timeless One within time! And what is extraordinary is that the conception is without seed, and the emptying is inexpressible. So great is the mystery! God empties himself, takes flesh, and is fashioned, when the Angel announces the conception to the pure Virgin: \"Rejoice, O Maiden full of grace; for with you is the Lord, who has the great mercy.\""
 
-meMA.C2.title = titles_en_US_dedes.KanonIamvikos
+meMA.C2.title = titles_en_US_dedes.ti.IambicCanon
 meMA.C2.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C21.ode = misc_en_US_dedes.Ode1

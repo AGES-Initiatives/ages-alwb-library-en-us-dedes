@@ -4,7 +4,7 @@ meDA.date = "March 24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ o
 meDA.commemoration.full = "Forefeast of the Annunciation of the Most Holy Theotokos" //full title of day
 meDA.commemoration.first = "Forefeast of the Annunciation"
 meDA.commemoration.first_short = "Forefeast of the Annunciation"
-meDA.commemoration.first_title = titles_en_US_dedes.TisEortis
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Feast
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -47,7 +47,7 @@ meVE.Apolytikion1.incipit = "Today is the prelude of…"
 meVE.Apolytikion1.text = "Today is the prelude of the joy of the universe, and it incites us to sing the forefestal hymns. For behold, Gabriel is coming, and he will say to the Virgin: Rejoice, Maiden full of grace; the Lord is with you."
 
 meMA.C1.poet = poets_en_US_dedes.Georgiou //οἱ δὲ Θεοφάνους
-meMA.C1.title = titles_en_US_dedes.KanonProeortios
+meMA.C1.title = titles_en_US_dedes.ti.CanonForefeast
 meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

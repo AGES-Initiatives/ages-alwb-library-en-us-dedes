@@ -4,9 +4,9 @@ meDA.date = "May 9" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or J
 meDA.commemoration.full = "Memory of the Holy Prophet Isaiah; and the Holy Martyr Christopher" // full title of day
 meDA.commemoration.first = "Memory of the Holy Martyr Christopher"
 meDA.commemoration.first_short = "Memory of the Holy Martyr Christopher"
-meDA.commemoration.first_title = titles_en_US_dedes.TouProfitou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Prophet
 meDA.commemoration.first_name = "Prophet Isaiah"
-meDA.commemoration.second_title = titles_en_US_dedes.TouMartyros
+meDA.commemoration.second_title = titles_en_US_dedes.ti.Martyr
 meDA.commemoration.second_name = "St. Christopher"
 meDA.insert1 = "the holy and glorious Prophet Isaiah and the holy and glorious Martyr Christopher," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
@@ -71,10 +71,10 @@ meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
 meMA.C1.poet = poets_en_US_dedes.Theofanous
-meMA.C1.title = titles_en_US_dedes.KanonTouProfitou
+meMA.C1.title = titles_en_US_dedes.ti.CanonProphet
 meMA.C1.verse = prayers_en_US_dedes.verse_Prophet.text
 
-meMA.C2.title = titles_en_US_dedes.KanonTouMartyros
+meMA.C2.title = titles_en_US_dedes.ti.CanonMartyrM
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

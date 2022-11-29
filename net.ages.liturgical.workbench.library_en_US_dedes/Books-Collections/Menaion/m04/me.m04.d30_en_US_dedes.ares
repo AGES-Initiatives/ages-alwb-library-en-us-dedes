@@ -4,7 +4,7 @@ meDA.date = "April 30" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ o
 meDA.commemoration.full = "Memory of the Holy Apostle Iakovos (James), the Brother of John the Theologian" // full title of day
 meDA.commemoration.first = "Memory of the Holy Apostle Iakovos (James), the Brother of John the Theologian"
 meDA.commemoration.first_short = "Memory of the Holy Apostle Iakovos (James), the Brother of John the Theologian"
-meDA.commemoration.first_title = titles_en_US_dedes.TouApostolou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Apostle
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -57,7 +57,7 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_dedes.Theofanous
-meMA.C1.title = titles_en_US_dedes.KanonTouApostolou
+meMA.C1.title = titles_en_US_dedes.ti.CanonApostle
 meMA.C1.verse = prayers_en_US_dedes.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

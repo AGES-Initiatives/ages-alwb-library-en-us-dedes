@@ -4,7 +4,7 @@ meDA.date = "May 8" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or J
 meDA.commemoration.full = "Memory of the Holy and Glorious Apostle and Evangelist John the Theologian; and our Devout Father Arsenios the Great." // full title of day
 meDA.commemoration.first = "Memory of the Holy and Glorious Apostle and Evangelist John the Theologian"
 meDA.commemoration.first_short = "Memory of the St. John the Theologian"
-meDA.commemoration.first_title = titles_en_US_dedes.TouEvangelistou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Evangelist
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = "For St. Arsenios."
 meDA.commemoration.second_name = ""
@@ -150,10 +150,10 @@ meMA.PostGospelIdiomelon.text = meVE.Lity4.text
 meMA.MM.PostGospelIdiomelon.text = properties_en_US_dedes.media.key
 
 meMA.C1.poet = poets_en_US_dedes.Theofanous
-meMA.C1.title = titles_en_US_dedes.KanonTouApostolou
+meMA.C1.title = titles_en_US_dedes.ti.CanonApostle
 meMA.C1.verse = prayers_en_US_dedes.verse_Apostle.text
 
-meMA.C2.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C2.title = titles_en_US_dedes.ti.CanonDevoutM
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

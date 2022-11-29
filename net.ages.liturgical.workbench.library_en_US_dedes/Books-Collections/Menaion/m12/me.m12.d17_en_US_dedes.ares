@@ -4,7 +4,7 @@ meDA.date = "December 17" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟ�
 meDA.commemoration.full = "Memory of the Holy Prophet Daniel and the Holy Three Servants, Ananias, Azarias, and Mishael; and our Father among the Saints Dionysios the New, Archbishop of Aegina, the Wonder-worker, from the Island of Zakynthos" // full title of day
 meDA.commemoration.first = "Memory of the Holy Prophet Daniel and the Holy Three Servants"
 meDA.commemoration.first_short = "Memory of the Holy Prophet Daniel and the Holy Three Servants"
-meDA.commemoration.first_title = titles_en_US_dedes.TouProfitou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Prophet
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = "For the Holy Three Servants."
 meDA.commemoration.second_name = ""
@@ -99,7 +99,7 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_dedes.Theofanous
-meMA.C1.title = titles_en_US_dedes.KanonTouProfitou
+meMA.C1.title = titles_en_US_dedes.ti.CanonProphet
 meMA.C1.verse = prayers_en_US_dedes.verse_Prophet.text
 
 meMA.C2.acrostic.title = ""
@@ -711,7 +711,7 @@ alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.incipit = "The Church of Christ is…"
 alt1.meMA.PostGospelIdiomelon.text = "The Church of Christ is exultant today, and it splendidly celebrates, seeing the new Hierarch, divine Dionysios, magnificently led into it. He unceasingly intercedes on behalf of those who if faith honor his repose."
 
-alt1.meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+alt1.meMA.C1.title = titles_en_US_dedes.ti.CanonSaintM
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

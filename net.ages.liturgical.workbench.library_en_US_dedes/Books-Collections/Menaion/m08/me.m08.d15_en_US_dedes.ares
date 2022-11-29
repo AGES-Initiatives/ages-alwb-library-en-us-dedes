@@ -4,7 +4,7 @@ meDA.date = "August 15"
 meDA.commemoration.full = "Commemoration of the Dormition of our Most Holy Lady Theotokos and Ever-Virgin Mary." // full title of day
 meDA.commemoration.first = "Dormition of our Most Holy Lady Theotokos"
 meDA.commemoration.first_short = "Dormition of our Most Holy Lady Theotokos"
-meDA.commemoration.first_title = titles_en_US_dedes.TisEortis
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Feast
 meDA.commemoration.first_name = "Assumption / Dormition"
 meDA.commemoration.second_title = "For the Dormition."
 meDA.commemoration.second_name = ""
@@ -216,11 +216,11 @@ meMA.C1.acrostic.title = "First Canon."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_dedes.Kosma
-meMA.C1.title = titles_en_US_dedes.KanonATisEortis
+meMA.C1.title = titles_en_US_dedes.ti.Canon1Feast
 meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.C2.poet = poets_en_US_dedes.IoannouTouDamaskinou
-meMA.C2.title = titles_en_US_dedes.KanonBTisEortis
+meMA.C2.title = titles_en_US_dedes.ti.Canon2Feast
 meMA.C2.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

@@ -4,7 +4,7 @@ meDA.date = "November 30"
 meDA.commemoration.full = "Memory of the Holy and Glorious Apostle Andrew the First-Called." // full title of day
 meDA.commemoration.first = "Memory of the Holy Apostle Andrew"
 meDA.commemoration.first_short = "Memory of the Holy Apostle Andrew"
-meDA.commemoration.first_title = titles_en_US_dedes.TouApostolou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Apostle
 meDA.commemoration.first_name = "St. Andrew"
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -157,14 +157,14 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = meVE.Lity1.incipit
 meMA.PostGospelIdiomelon.text = meVE.Lity1.text
 
-meMA.C1.title = titles_en_US_dedes.KanonTisTheotokou
+meMA.C1.title = titles_en_US_dedes.ti.CanonTheotokos
 meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.C2.poet = poets_en_US_dedes.IoannouMonachou
-meMA.C2.title = titles_en_US_dedes.KanonATouApostolou
+meMA.C2.title = titles_en_US_dedes.ti.Canon1Apostle
 meMA.C2.verse = prayers_en_US_dedes.verse_Apostle.text
 
-meMA.C3.title = titles_en_US_dedes.KanonBTouApostolou
+meMA.C3.title = titles_en_US_dedes.ti.Canon2Apostle
 meMA.C3.verse = prayers_en_US_dedes.verse_Apostle.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

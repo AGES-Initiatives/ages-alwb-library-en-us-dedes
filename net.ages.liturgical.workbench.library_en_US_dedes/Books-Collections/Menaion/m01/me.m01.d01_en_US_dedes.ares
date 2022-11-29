@@ -6,7 +6,7 @@ meDA.commemoration.first = "Memory of our Father among the saints Basil the Grea
 meDA.commemoration.first_short = "Memory of our Father among the saints Basil the Great"
 meDA.commemoration.first_title = "For the Circumcision."
 meDA.commemoration.first_name = "Circumcision of the Lord"
-meDA.commemoration.second_title = titles_en_US_dedes.TouAgiou
+meDA.commemoration.second_title = titles_en_US_dedes.ti.SaintM
 meDA.commemoration.second_name = "St. Basil"
 meDA.insert1 = "our Father among the saints Basil the Great, Archbishop of Caesarea in Cappadocia," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
@@ -188,11 +188,11 @@ meMA.PostGospelIdiomelon.incipit = meVE.LityGlory.incipit
 meMA.PostGospelIdiomelon.text = meVE.LityGlory.text
 
 meMA.C1.poet = poets_en_US_dedes.Stefanou
-meMA.C1.title = titles_en_US_dedes.KanonTisEortis
+meMA.C1.title = titles_en_US_dedes.ti.CanonFeast
 meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.C2.poet = poets_en_US_dedes.IoannouTouDamaskinou
-meMA.C2.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C2.title = titles_en_US_dedes.ti.CanonSaintM
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

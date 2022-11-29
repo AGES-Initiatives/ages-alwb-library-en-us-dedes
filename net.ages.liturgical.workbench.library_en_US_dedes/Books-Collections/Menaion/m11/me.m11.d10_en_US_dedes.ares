@@ -4,9 +4,9 @@ meDA.date = "November 10"
 meDA.commemoration.full = "Memory of the Holy Apostles Olympus, Rhodion, Sosipater, Tertius, Erastus, and Quartus; and the Holy Martyr Orestes." // full title of day
 meDA.commemoration.first = "Memory of the Holy Apostles Olympus, Rhodion, Sosipater, Tertius, Erastus, and Quartus"
 meDA.commemoration.first_short = "Memory of the Holy Apostles Olympus, Rhodion, Sosipater, Tertius, Erastus, and Quartus"
-meDA.commemoration.first_title = titles_en_US_dedes.TonApostolon
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Apostles
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_dedes.TouMartyros
+meDA.commemoration.second_title = titles_en_US_dedes.ti.Martyr
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
@@ -74,13 +74,13 @@ meVE.Apolytikion2.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonTonApostolon
+meMA.C1.title = titles_en_US_dedes.ti.CanonApostles
 meMA.C1.verse = prayers_en_US_dedes.verse_Apostles.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_US_dedes.KanonTouMartyros
+meMA.C2.title = titles_en_US_dedes.ti.CanonMartyrM
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

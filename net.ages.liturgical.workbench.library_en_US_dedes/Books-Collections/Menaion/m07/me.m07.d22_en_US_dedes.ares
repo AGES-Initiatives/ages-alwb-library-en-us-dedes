@@ -4,7 +4,7 @@ meDA.date = "July 22"
 meDA.commemoration.full = "Memory of Saint Mary Magdalene, the Myrrh-bearer and Equal to the Apostles." // full title of day
 meDA.commemoration.first = "Memory of Saint Mary Magdalene"
 meDA.commemoration.first_short = "Memory of Saint Mary Magdalene"
-meDA.commemoration.first_title = titles_en_US_dedes.TisAgias
+meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintW
 meDA.commemoration.first_name = "Mary Magdalene"
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -90,7 +90,7 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_dedes.Theofanous
-meMA.C1.title = titles_en_US_dedes.KanonTisMyroforou
+meMA.C1.title = titles_en_US_dedes.ti.CanonMyrrhbearerW
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -456,7 +456,7 @@ alt1.meMA.PostGospelIdiomelon.incipit = alt1.meVE.AposGlory.incipit
 alt1.meMA.PostGospelIdiomelon.text = alt1.meVE.AposGlory.text
 
 alt1.meMA.C1.poet = poets_en_US_dedes.NikiforouChiou
-alt1.meMA.C1.title = titles_en_US_dedes.KanonTisMartyros
+alt1.meMA.C1.title = titles_en_US_dedes.ti.CanonMartyrW
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintW.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

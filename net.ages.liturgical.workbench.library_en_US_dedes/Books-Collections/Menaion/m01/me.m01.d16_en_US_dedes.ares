@@ -4,7 +4,7 @@ meDA.date = "January 16" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ
 meDA.commemoration.full = "The Veneration of the Precious Chains of the Holy and All-lauded Apostle Peter" // full title of day
 meDA.commemoration.first = "Veneration of the Precious Chains of the Apostle Peter"
 meDA.commemoration.first_short = "Veneration of the Precious Chains of the Apostle Peter"
-meDA.commemoration.first_title = titles_en_US_dedes.TouApostolou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Apostle
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -88,13 +88,13 @@ meVE.Apolytikion1.text = "Without leaving Rome, you came to us, through the prec
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonATouApostolou
+meMA.C1.title = titles_en_US_dedes.ti.Canon1Apostle
 meMA.C1.verse = prayers_en_US_dedes.verse_Apostle.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_US_dedes.KanonBTouApostolou
+meMA.C2.title = titles_en_US_dedes.ti.Canon2Apostle
 meMA.C2.verse = prayers_en_US_dedes.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

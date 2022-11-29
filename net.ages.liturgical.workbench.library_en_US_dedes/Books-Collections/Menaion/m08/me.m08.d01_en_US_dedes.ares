@@ -5,9 +5,9 @@ meDA.commemoration.full = "The Procession of the Holy Cross; and Memory of the S
 meDA.commemoration.first = "The Procession of the Holy Cross."
 meDA.commemoration.first_short = "The Procession of the Holy Cross."
 meInsert0 = "the procession of which we observe;"
-meDA.commemoration.first_title = titles_en_US_dedes.TouStavrou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Cross
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_dedes.TonAgion
+meDA.commemoration.second_title = titles_en_US_dedes.ti.Saints
 meDA.commemoration.second_name = ""
 meDA.insert1 = "the Seven Holy Martyrs, the Maccabees, their Teacher Eleazar, and their Mother Solomone," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
@@ -113,11 +113,11 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_dedes.Iosif
-meMA.C1.title = titles_en_US_dedes.KanonTouStavrou
+meMA.C1.title = titles_en_US_dedes.ti.CanonCross
 meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.C2.poet = poets_en_US_dedes.AndreouKritis
-meMA.C2.title = titles_en_US_dedes.KanonTonAgion
+meMA.C2.title = titles_en_US_dedes.ti.CanonSaints
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

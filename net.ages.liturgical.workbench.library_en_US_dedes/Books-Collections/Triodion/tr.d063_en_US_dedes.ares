@@ -2,7 +2,7 @@ A_Resource_Whose_Name = tr.d063_en_US_dedes
 
 trDA.commemoration.full = "Saturday before Palm Sunday: Holy and Righteous Lazarus" //full title of day
 trDA.commemoration.short = "Saturday of Lazarus"
-trDA.title = titles_en_US_dedes.TouLazarou
+trDA.title = titles_en_US_dedes.ti.Lazarus
 trDA.insert1 = "" //for use in petitions and dismissal
 trDA.insert2 = "" //for use in petitions and dismissal
 trDA.note = ""
@@ -608,7 +608,7 @@ trMA.Ode1C1H.melody = he.h.m8_en_US_dedes.AsomenToKyrio.melody
 trMA.Ode1C1H.incipit = he.h.m8_en_US_dedes.AsomenToKyrio.incipit
 trMA.Ode1C1H.text = he.h.m8_en_US_dedes.AsomenToKyrio.text
 
-trMA.C1.title = titles_en_US_dedes.Kanon1
+trMA.C1.title = titles_en_US_dedes.ti.Canon1
 trMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -635,7 +635,7 @@ trMA.Ode1C14.melody = he.h.m8_en_US_dedes.AsomenToKyrio.name
 trMA.Ode1C14.incipit = "…"
 trMA.Ode1C14.text = ""
 
-trMA.C2.title = titles_en_US_dedes.Kanon2
+trMA.C2.title = titles_en_US_dedes.ti.Canon2
 trMA.C2.verse = prayers_en_US_dedes.verse_God.text
 
 trMA.Ode1C21.ode = misc_en_US_dedes.Ode1
@@ -900,7 +900,7 @@ trMA.Kontakion1.text = "The joy of all men, the Truth who is Christ our God, the
 trMA.Oikos1.text = ""
 
 trSY.commemoration.text = "On this day, the Saturday before Palm Sunday, we celebrate the raising of the holy and righteous friend of Christ, Lazarus, who had been four days in the grave."
-trSY.commemoration.couplet1.title = titles_en_US_dedes.Stichoi
+trSY.commemoration.couplet1.title = titles_en_US_dedes.ti.Verses
 trSY.commemoration.couplet1.verse1 = "O Jesus, You grieve: a token of mortal essence."
 trSY.commemoration.couplet1.verse2 = "Your friend You revive: a token of divine potence."
 trSY.commemoration.narration.p01 = "[paragraph 01]"

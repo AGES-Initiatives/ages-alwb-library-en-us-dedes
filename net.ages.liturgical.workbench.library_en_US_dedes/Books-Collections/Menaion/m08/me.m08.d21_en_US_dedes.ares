@@ -4,9 +4,9 @@ meDA.date = "August 21"
 meDA.commemoration.full = "Memory of the Holy Apostle Thaddeus and the Holy Martyr Bassa" //full title of day
 meDA.commemoration.first = "Memory of the Holy Apostle Thaddeus and the Holy Martyr Bassa"
 meDA.commemoration.first_short = "Memory of the Holy Apostle Thaddeus and the Holy Martyr Bassa"
-meDA.commemoration.first_title = titles_en_US_dedes.TouApostolou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Apostle
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_dedes.TisAgias
+meDA.commemoration.second_title = titles_en_US_dedes.ti.SaintW
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
@@ -99,13 +99,13 @@ meMA.Kathisma21.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonTouApostolou
+meMA.C1.title = titles_en_US_dedes.ti.CanonApostle
 meMA.C1.verse = prayers_en_US_dedes.verse_Apostle.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_US_dedes.KanonTisMartyros
+meMA.C2.title = titles_en_US_dedes.ti.CanonMartyrW
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

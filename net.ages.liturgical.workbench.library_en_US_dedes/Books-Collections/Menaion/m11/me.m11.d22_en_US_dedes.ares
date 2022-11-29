@@ -4,7 +4,7 @@ meDA.date = "November 22"
 meDA.commemoration.full = "Memory of the Holy Apostle Philemon, and those with him, Apphia, Archippus and Onesimus; and the Holy Martyr Cicely and those with her." // full title of day
 meDA.commemoration.first = "Memory of the Holy Apostle Philemon"
 meDA.commemoration.first_short = "Memory of the Holy Apostle Philemon"
-meDA.commemoration.first_title = titles_en_US_dedes.TouApostolou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Apostle
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -118,10 +118,10 @@ meMA.Kathisma21.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonTonApostolon
+meMA.C1.title = titles_en_US_dedes.ti.CanonApostles
 meMA.C1.verse = prayers_en_US_dedes.verse_Apostles.text
 
-meMA.C2.title = titles_en_US_dedes.KanonTonMartyron
+meMA.C2.title = titles_en_US_dedes.ti.CanonMartyrs
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -867,14 +867,14 @@ alt1.meMA.C1.acrostic.title = "Canon 1 for the Saint."
 alt1.meMA.C1.acrostic.notice1 = ""
 alt1.meMA.C1.acrostic.text = ""
 alt1.meMA.C1.poet = poets_en_US_dedes.IoilEdessis
-alt1.meMA.C1.title = titles_en_US_dedes.KanonATouAgiou
+alt1.meMA.C1.title = titles_en_US_dedes.ti.Canon1SaintM
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.C2.acrostic.title = "Canon 2 for the Saint."
 alt1.meMA.C2.acrostic.notice1 = ""
 alt1.meMA.C2.acrostic.text = ""
 alt1.meMA.C2.poet = poets_en_US_dedes.IoilEdessis
-alt1.meMA.C2.title = titles_en_US_dedes.KanonBTouAgiou
+alt1.meMA.C2.title = titles_en_US_dedes.ti.Canon2SaintM
 alt1.meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

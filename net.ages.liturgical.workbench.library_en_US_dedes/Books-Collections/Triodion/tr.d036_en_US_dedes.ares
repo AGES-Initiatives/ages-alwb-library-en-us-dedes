@@ -2,7 +2,7 @@ A_Resource_Whose_Name = tr.d036_en_US_dedes
 
 trDA.commemoration.full = "Second Sunday of Lent. St. Gregory Palamas, Archbishop of Thessaloniki" //full title of day
 trDA.commemoration.short = "Second Sunday of Lent - St. Gregory Palamas"
-trDA.title = titles_en_US_dedes.TouIerarchou
+trDA.title = titles_en_US_dedes.ti.Hierarch
 trDA.insert1 = "our father among the saints Gregory Palamas, Archbishop of Thessaloniki," //for use in petitions and dismissal
 trDA.insert2 = "whose memory we celebrate," //for use in petitions and dismissal
 trDA.note = ""
@@ -72,7 +72,7 @@ trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.incipit = tr.d001_en_US_dedes.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.text = tr.d001_en_US_dedes.trMA.PostGospelIdiomelon.text
 
-trMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+trMA.C1.title = titles_en_US_dedes.ti.CanonSaintM
 trMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 trMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -221,7 +221,7 @@ trMA.Oikos18.text = "Rejoice, O herald of grace."
 
 trSY.commemoration.text = "On this day, the second Sunday of Lent, we observe the memory of our Father among the Saints Gregory Palamas, Archbishop of Thessalonica."
 trSY.commemoration.onotherday.text = "On this day, we observe the memory of our Father among the Saints Gregory Palamas, Archbishop of Thessalonica."
-trSY.commemoration.couplet1.title = titles_en_US_dedes.Stichoi
+trSY.commemoration.couplet1.title = titles_en_US_dedes.ti.Verses
 trSY.commemoration.couplet1.verse1 = "The mind truly great and the Light's bright herald"
 trSY.commemoration.couplet1.verse2 = "Is led by light's Source to radiance never-setting."
 trSY.commemoration.narration.p01 = "[paragraph 01]"

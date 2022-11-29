@@ -4,9 +4,9 @@ meDA.date = "August 30"
 meDA.commemoration.full = "Post-feast of the Beheading of the Forerunner. Memory of Sts. Alexander, John, and Paul the New, Patriarchs of Constantinople." //full title of day
 meDA.commemoration.first = "Post-feast of the Beheading of the Forerunner"
 meDA.commemoration.first_short = "Post-feast of the Beheading of the Forerunner"
-meDA.commemoration.first_title = titles_en_US_dedes.TouProdromou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Forerunner
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_dedes.TonAgion
+meDA.commemoration.second_title = titles_en_US_dedes.ti.Saints
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
@@ -82,10 +82,10 @@ meVE.Apolytikion2.text = ""
 meMA.C1.acrostic.title = "Canon for the Forerunner."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonTouProdromou
+meMA.C1.title = titles_en_US_dedes.ti.CanonForerunner
 meMA.C1.verse = prayers_en_US_dedes.verse_Baptist.text
 
-meMA.C2.title = titles_en_US_dedes.KanonTonAgion
+meMA.C2.title = titles_en_US_dedes.ti.CanonSaints
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

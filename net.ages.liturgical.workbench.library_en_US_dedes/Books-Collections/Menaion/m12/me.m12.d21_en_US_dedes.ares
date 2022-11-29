@@ -4,7 +4,7 @@ meDA.date = "December 21" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟ�
 meDA.commemoration.full = "Memory of the Holy Martyr Julianna of Nicomedia" //full title of day
 meDA.commemoration.first = "Memory of the Holy Martyr Julianna"
 meDA.commemoration.first_short = "Memory of the Holy Martyr Julianna"
-meDA.commemoration.first_title = titles_en_US_dedes.TisAgias
+meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintW
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -152,13 +152,13 @@ meMA.Kathisma21.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.poet = poets_en_US_dedes.Iosif
-meMA.C1.title = titles_en_US_dedes.KanonProeortios
+meMA.C1.title = titles_en_US_dedes.ti.CanonForefeast
 meMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_US_dedes.KanonTisAgias
+meMA.C2.title = titles_en_US_dedes.ti.CanonSaintW
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

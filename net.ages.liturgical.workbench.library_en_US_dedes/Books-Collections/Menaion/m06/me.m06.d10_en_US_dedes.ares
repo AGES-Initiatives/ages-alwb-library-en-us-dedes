@@ -4,7 +4,7 @@ meDA.date = "June 10" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or
 meDA.commemoration.full = "Memory of the holy Martyrs Alexander and Antonina" //full title of day
 meDA.commemoration.first = "Memory of Sts. Alexander and Antonina"
 meDA.commemoration.first_short = "Memory of Sts. Alexander and Antonina"
-meDA.commemoration.first_title = titles_en_US_dedes.TonAgion
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Saints
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -48,7 +48,7 @@ meVE.SticStavrotheotokion.text = oc.m1.d4_en_US_dedes.ocVE.SticTheotokion.text
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonTonAgion
+meMA.C1.title = titles_en_US_dedes.ti.CanonSaints
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

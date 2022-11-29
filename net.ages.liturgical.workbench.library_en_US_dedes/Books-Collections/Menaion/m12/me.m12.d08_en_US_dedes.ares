@@ -5,7 +5,7 @@ meDA.commemoration.full = "Forefeast of the Conception of St. Anne, and Memory o
 meDA.commemoration.first = "Forefeast of the Conception of St. Anna"
 meDA.commemoration.first_short = "Forefeast of the Conception of St. Anna"
 meDA.commemoration.second_short = "Memory of our Devout Father Patapios"
-meDA.commemoration.first_title = titles_en_US_dedes.TouAgiou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintM
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -72,15 +72,15 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.acrostic.notice2 = ""
-meMA.C1.title = titles_en_US_dedes.KanonProeortios
+meMA.C1.title = titles_en_US_dedes.ti.CanonForefeast
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintW.text
 
-meMA.C2.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C2.title = titles_en_US_dedes.ti.CanonDevoutM
 meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.C3.acrostic.title = ""
 meMA.C3.poet = poets_en_US_dedes.Theofanous
-meMA.C3.title = titles_en_US_dedes.KanonBTouOsiou
+meMA.C3.title = titles_en_US_dedes.ti.Canon2DevoutM
 meMA.C3.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C1H.ode = misc_en_US_dedes.Ode1

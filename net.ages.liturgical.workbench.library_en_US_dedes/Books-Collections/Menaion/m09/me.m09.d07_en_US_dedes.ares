@@ -5,9 +5,9 @@ meDA.commemoration.full = "Forefeast of the Nativity of the Most Holy Theotokos;
 meDA.commemoration.first = "Forefeast of the Nativity of the Most Holy Theotokos"
 meDA.commemoration.first_short = "Forefeast of the Nativity of the Most Holy Theotokos"
 meDA.commemoration.second_short = "Memory of the Holy Martyr Sozon"
-meDA.commemoration.first_title = titles_en_US_dedes.TisTheotokou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Theotokos
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_dedes.TouAgiou
+meDA.commemoration.second_title = titles_en_US_dedes.ti.SaintM
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
@@ -96,11 +96,11 @@ meMA.Kathisma21.text = "All the Angels in heaven are exultant today; * and human
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonProeortios
+meMA.C1.title = titles_en_US_dedes.ti.CanonForefeast
 meMA.C1.verse = prayers_en_US_dedes.verse_Theotokos.text
 
 meMA.C2.poet = poets_en_US_dedes.Theofanous
-meMA.C2.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C2.title = titles_en_US_dedes.ti.CanonSaintM
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -813,7 +813,7 @@ alt1.meMA.C1.acrostic.title = ""
 alt1.meMA.C1.acrostic.notice1 = ""
 alt1.meMA.C1.acrostic.text = ""
 alt1.meMA.C1.poet = ""
-alt1.meMA.C1.title = titles_en_US_dedes.KanonBTisOsias
+alt1.meMA.C1.title = titles_en_US_dedes.ti.Canon2DevoutW
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_DevoutWoman.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

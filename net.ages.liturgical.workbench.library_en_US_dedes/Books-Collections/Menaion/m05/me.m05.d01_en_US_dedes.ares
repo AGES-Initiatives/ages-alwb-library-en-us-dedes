@@ -4,7 +4,7 @@ meDA.date = "May 1" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or J
 meDA.commemoration.full = "Memory of the Holy Prophet Jeremiah" // full title of day
 meDA.commemoration.first = "Memory of the Holy Prophet Jeremiah"
 meDA.commemoration.first_short = "Memory of the Holy Prophet Jeremiah"
-meDA.commemoration.first_title = titles_en_US_dedes.TouProfitou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Prophet
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -38,7 +38,7 @@ meVE.Apolytikion1.mode = misc_en_US_dedes.Mode2
 meVE.Apolytikion1.melody = he.ga_en_US_dedes.TouProfitouSou.name
 meVE.GeneralApolytikion1.name = "Jeremiah," // name of saint for General Apolytikia
 
-meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C1.title = titles_en_US_dedes.ti.CanonSaintM
 meMA.C1.verse = prayers_en_US_dedes.verse_Prophet.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

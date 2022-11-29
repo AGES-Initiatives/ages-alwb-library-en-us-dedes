@@ -4,7 +4,7 @@ meDA.date = "July 28"
 meDA.commemoration.full = "Memory of the Holy Apostles and Deacons Prochorus, Nicanor, Timon, and Parmenas" // full title of day
 meDA.commemoration.first = "Memory of the Holy Apostles and Deacons Prochorus, Nicanor, Timon, and Parmenas"
 meDA.commemoration.first_short = "Memory of the Holy Apostles and Deacons Prochorus, Nicanor, Timon, and Parmenas"
-meDA.commemoration.first_title = titles_en_US_dedes.TonAgion
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Saints
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -57,7 +57,7 @@ meVE.Apolytikion2.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonTonApostolon
+meMA.C1.title = titles_en_US_dedes.ti.CanonApostles
 meMA.C1.verse = prayers_en_US_dedes.verse_Apostles.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

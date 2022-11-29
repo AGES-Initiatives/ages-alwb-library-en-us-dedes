@@ -4,9 +4,9 @@ meDA.date = "October 26"
 meDA.commemoration.full = "Memory of the Holy Great Martyr Demetrius, the Myrrh-streamer; and Commemoration of the Earthquake." // full title of day
 meDA.commemoration.first = "Memory of the Holy Great Martyr Demetrius, the Myrrh-streamer"
 meDA.commemoration.first_short = "Memory of the Holy Great Martyr Demetrius, the Myrrh-streamer"
-meDA.commemoration.first_title = titles_en_US_dedes.TouAgiou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintM
 meDA.commemoration.first_name = "St. Demetrius"
-meDA.commemoration.second_title = titles_en_US_dedes.TouSeismou
+meDA.commemoration.second_title = titles_en_US_dedes.ti.Earthquake
 meDA.commemoration.second_name = ""
 meDA.insert1 = "the holy and glorious Great Martyr Demetrius, the Myrrh-streamer," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
@@ -180,7 +180,7 @@ meMA.C2.acrostic.title = "First Canon for the Saint."
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.poet = poets_en_US_dedes.Theofanous
-meMA.C2.title = titles_en_US_dedes.KanonATouAgiou
+meMA.C2.title = titles_en_US_dedes.ti.Canon1SaintM
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.C3.acrostic.title = "Second Canon for the Saint."
@@ -188,7 +188,7 @@ meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
 meMA.C3.acrostic.notice2 = ""
 meMA.C3.poet = ""
-meMA.C3.title = titles_en_US_dedes.KanonBTouAgiou
+meMA.C3.title = titles_en_US_dedes.ti.Canon2SaintM
 meMA.C3.verse = prayers_en_US_dedes.verse_SaintM.text
 
 //This is just a first draft of the translation of the first canon.

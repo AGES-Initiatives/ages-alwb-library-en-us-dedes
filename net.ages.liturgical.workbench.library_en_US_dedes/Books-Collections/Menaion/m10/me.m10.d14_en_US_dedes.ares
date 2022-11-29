@@ -4,7 +4,7 @@ meDA.date = "October 14"
 meDA.commemoration.full = "Memory of the Holy Martyrs Nazarius, Gervasius, Protasius, and Celsus; and our Devout Father Cosmas the Hymnographer" // full title of day
 meDA.commemoration.first = "Memory of the Holy Martyrs Nazarius, Gervasios, Protasius, and Celsus; and our St. Cosmas the Hymnographer"
 meDA.commemoration.first_short = "Memory of the Holy Martyrs Nazarius, Gervasios, Protasius, and Celsus; and our St. Cosmas the Hymnographer"
-meDA.commemoration.first_title = titles_en_US_dedes.TonMartyron
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Martyrs
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = "For St. Cosmas."
 meDA.commemoration.second_name = ""
@@ -110,10 +110,10 @@ meVE.Apolytikion2.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_dedes.KanonTonMartyron
+meMA.C1.title = titles_en_US_dedes.ti.CanonMartyrs
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
-meMA.C2.title = titles_en_US_dedes.KanonTouOsiou
+meMA.C2.title = titles_en_US_dedes.ti.CanonDevoutM
 meMA.C2.verse = prayers_en_US_dedes.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

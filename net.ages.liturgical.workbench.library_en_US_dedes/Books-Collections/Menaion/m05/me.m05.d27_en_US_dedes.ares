@@ -4,7 +4,7 @@ meDA.date = "May 27" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or 
 meDA.commemoration.full = "Memory of the Holy and Glorious Hieromartyr Helladius" //full title of day
 meDA.commemoration.first = "Memory of the Holy Hieromartyr Helladius"
 meDA.commemoration.first_short = "Memory of the Holy Hieromartyr Helladius"
-meDA.commemoration.first_title = titles_en_US_dedes.TouAgiou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintM
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -50,7 +50,7 @@ meVE.Apolytikion1.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meMA.C1.title = titles_en_US_dedes.KanonTouAgiou
+meMA.C1.title = titles_en_US_dedes.ti.CanonSaintM
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

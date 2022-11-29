@@ -4,9 +4,9 @@ meDA.date = "January 12" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ
 meDA.commemoration.full = "Memory of Holy Martyr Tatiana" // full title of day
 meDA.commemoration.first = "Memory of Holy Martyr Tatiana"
 meDA.commemoration.first_short = "Memory of Holy Martyr Tatiana"
-meDA.commemoration.first_title = titles_en_US_dedes.TisEortis
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Feast
 meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = titles_en_US_dedes.TisAgias
+meDA.commemoration.second_title = titles_en_US_dedes.ti.SaintW
 meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
@@ -87,7 +87,7 @@ meMA.Kathisma21.melody = he.a.m8_en_US_dedes.AnestisEkNekron.name
 meMA.Kathisma21.incipit = me.m01.d08_en_US_dedes.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m01.d08_en_US_dedes.meMA.Kathisma21.text
 
-meMA.C1.title = titles_en_US_dedes.KanonTisAgias
+meMA.C1.title = titles_en_US_dedes.ti.CanonSaintW
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

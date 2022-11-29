@@ -2,7 +2,7 @@ A_Resource_Whose_Name = tr.d050_en_US_dedes
 
 trDA.commemoration.full = "Fourth Sunday of Lent: Our Devout Father John Climacus, the Author of the Ladder" //full title of day
 trDA.commemoration.short = "Fourth Sunday of Lent: St John Climacus"
-trDA.title = titles_en_US_dedes.TouAgiou
+trDA.title = titles_en_US_dedes.ti.SaintM
 trDA.insert1 = "our devout father John Climacus, the author of the Ladder," //for use in petitions and dismissal
 trDA.insert2 = "whose memory we celebrate," //for use in petitions and dismissal
 trDA.note = ""
@@ -69,7 +69,7 @@ trMA.PostGospelIdiomelon.text = tr.d001_en_US_dedes.trMA.PostGospelIdiomelon.tex
 
 trMA.C2.poet = ""
 
-trMA.C1.title = titles_en_US_dedes.KanonTouTriodiou
+trMA.C1.title = titles_en_US_dedes.ti.CanonTriodion
 trMA.C1.verse = prayers_en_US_dedes.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -96,7 +96,7 @@ trMA.Ode1C1T.melody = he.h.m5_en_US_dedes.ToSotiriTheo.name
 trMA.Ode1C1T.incipit = "…"
 trMA.Ode1C1T.text = ""
 
-trMA.C2.title = titles_en_US_dedes.KanonTouOsiou
+trMA.C2.title = titles_en_US_dedes.ti.CanonDevoutM
 trMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 trMA.Ode1C21.ode = misc_en_US_dedes.Ode1
@@ -339,7 +339,7 @@ trMA.Oikos1.text = ""
 
 trSY.commemoration.text = "On this day, the fourth Sunday of Lent, we commemorate our devout Father John, author of The Ladder."
 trSY.commemoration.onotherday.text = "On this day, we commemorate our devout Father John, author of The Ladder."
-trSY.commemoration.couplet1.title = titles_en_US_dedes.Stichoi
+trSY.commemoration.couplet1.title = titles_en_US_dedes.ti.Verses
 trSY.commemoration.couplet1.verse1 = "John, who was dead in the flesh while living,"
 trSY.commemoration.couplet1.verse2 = "Ever lives, while appearing to be dead and not breathing."
 trSY.commemoration.couplet2.verse1 = "He left us his book, the Ladder for ascending,"

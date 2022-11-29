@@ -4,7 +4,7 @@ meDA.date = "July 13-19"
 meDA.commemoration.full = "Sunday of the Holy Fathers of the Fourth Ecumenical Council in Chalcedon." // full title of day
 meDA.commemoration.first = "Sunday of the Holy Fathers"
 meDA.commemoration.first_short = "Sunday of the Holy Fathers"
-meDA.commemoration.first_title = "For the Fathers."
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Fathers
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -71,10 +71,10 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.acrostic.notice2 = ""
-meMA.C1.title = titles_en_US_dedes.KanonATonPateron
+meMA.C1.title = titles_en_US_dedes.ti.Canon1Fathers
 meMA.C1.verse = prayers_en_US_dedes.verse_SaintsM.text
 
-meMA.C2.title = titles_en_US_dedes.KanonBTonPateron
+meMA.C2.title = titles_en_US_dedes.ti.Canon2Fathers
 meMA.C2.verse = prayers_en_US_dedes.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1

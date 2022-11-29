@@ -4,7 +4,7 @@ meDA.date = "November 14"
 meDA.commemoration.full = "Memory of the Holy, Glorious and All-lauded Apostle Philip; our Holy Father Gregory Palamas; and the Holy Neomartyr Constantine of Hydra" // full title of day
 meDA.commemoration.first = "Memory of the Holy Apostle Philip"
 meDA.commemoration.first_short = "Memory of the Holy Apostle Philip"
-meDA.commemoration.first_title = titles_en_US_dedes.TouApostolou
+meDA.commemoration.first_title = titles_en_US_dedes.ti.Apostle
 meDA.commemoration.first_name = "St. Philip"
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
@@ -92,7 +92,7 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_dedes.Theofanous
-meMA.C1.title = titles_en_US_dedes.KanonTouApostolou
+meMA.C1.title = titles_en_US_dedes.ti.CanonApostle
 meMA.C1.verse = prayers_en_US_dedes.verse_Apostle.text
 
 meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -610,14 +610,14 @@ alt1.meMA.C1.acrostic.title = "Canon 1 for the Saint."
 alt1.meMA.C1.acrostic.notice1 = ""
 alt1.meMA.C1.acrostic.text = ""
 alt1.meMA.C1.acrostic.notice2 = ""
-alt1.meMA.C1.title = titles_en_US_dedes.KanonATouAgiou
+alt1.meMA.C1.title = titles_en_US_dedes.ti.Canon1SaintM
 alt1.meMA.C1.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.C2.acrostic.title = "Canon 2 for the Saint."
 alt1.meMA.C2.acrostic.notice1 = ""
 alt1.meMA.C2.acrostic.text = ""
 alt1.meMA.C2.acrostic.notice2 = ""
-alt1.meMA.C2.title = titles_en_US_dedes.KanonBTouAgiou
+alt1.meMA.C2.title = titles_en_US_dedes.ti.Canon2SaintM
 alt1.meMA.C2.verse = prayers_en_US_dedes.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
@@ -927,7 +927,7 @@ alt1.meMA.Oikos17.text = tr.d036_en_US_dedes.trMA.Oikos17.text
 alt1.meMA.Oikos18.text = tr.d036_en_US_dedes.trMA.Oikos18.text
 
 alt1.meMA.Synaxarion.text = "On the 14th day of this month, the dormition of our Father among the Saints, Gregory Palamas, Archbishop of Thessaloniki."
-alt1.meMA.couplet1.title = titles_en_US_dedes.Stichoi
+alt1.meMA.couplet1.title = titles_en_US_dedes.ti.Verses
 alt1.meMA.couplet1.verse1 = "The Light’s bright herald, the mind truly great,"
 alt1.meMA.couplet1.verse2 = "is led to unsetting radiance by the Source of light."
 alt1.meMA.couplet2.verse1 = "Synonymously watchful, you were joined to Christ,"
