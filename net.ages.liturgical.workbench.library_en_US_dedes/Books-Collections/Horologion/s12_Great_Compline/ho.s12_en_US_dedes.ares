@@ -18,14 +18,14 @@ hoCO.Key0202.title = "PSALM 30 (31)"
 
 hoCO.Key0203.title = "PSALM 90 (91)"
 
-hoCO.Key0300.mode = misc_en_US_dedes.Mode6
+hoCO.Key0300.mode = miscellanea_en_US_dedes.misc.Mode6
 hoCO.Key0301.text = properties_en_US_dedes.media.key
 
 hoCO.Key0401.text = ""
 hoCO.Key0402.text = ""
 hoCO.Key0403.text = ""
 
-hoCO.Key0501.mode = misc_en_US_dedes.Mode6
+hoCO.Key0501.mode = miscellanea_en_US_dedes.misc.Mode6
 hoCO.Key0501.text = "As a bodiless nature, the Cherubim * ever glorify You with unceasing hymns;"
 hoCO.Key0502.text = "And the six-winged beings, the Seraphim, * also highly exalt You with endless voice;"
 hoCO.Key0503.text = "The entire array of angelic hosts * sings its praises of You with thrice-holy hymns."
@@ -39,7 +39,7 @@ hoCO.Key0510.text = "Holy, Holy, Holy, Thrice-holy Lord, have mercy on us and sa
 hoCO.Key0511.title = "The Creed"
 hoCO.Key0511.text = prayers_en_US_dedes.pr.Creed.text
 
-hoCO.Key0601.mode = misc_en_US_dedes.Mode6
+hoCO.Key0601.mode = miscellanea_en_US_dedes.misc.Mode6
 hoCO.Key0601.text = "O all-holy Lady and Theotokos, intercede for us sinners."
 hoCO.Key0602.text = "All you heavenly Hosts of holy Angels and Archangels, intercede for us sinners."
 hoCO.Key0603.text = "Saint John the Baptist, Prophet and Forerunner of our Lord Jesus Christ, intercede for us sinners."
@@ -51,12 +51,12 @@ hoCO.Key0608.text = "God, be gracious to us sinners."
 hoCO.Key0609.text = "God, be gracious to us sinners, and have mercy on us."
 
 hoCO.Key0701.rubric = "If it is a feast, read the Apolytikion of the feast. Otherwise, on Mondays and Wednesdays read the following Troparia:"
-hoCO.Key0701.mode = misc_en_US_dedes.Mode2
+hoCO.Key0701.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCO.Key0701.text = ""
 hoCO.Key0702.text = ""
 hoCO.Key0703.text = ""
 hoCO.Key0704.rubric = "On Tuesdays and Thursdays read the following Troparia:"
-hoCO.Key0704.mode = misc_en_US_dedes.Mode8
+hoCO.Key0704.mode = miscellanea_en_US_dedes.misc.Mode8
 hoCO.Key0704.text = ""
 hoCO.Key0705.text = ""
 hoCO.Key0706.text = ""
@@ -74,7 +74,7 @@ hoCO.Key0803.title = "PRAYER OF MANASSES, KING OF JUDAH"
 hoCO.Key0803.text = ""
 
 hoCO.Key0804.rubric = "If it is a feast, read the Kontakion of the feast. Otherwise, intone the following Troparia:"
-hoCO.Key0804.mode = misc_en_US_dedes.Mode6
+hoCO.Key0804.mode = miscellanea_en_US_dedes.misc.Mode6
 hoCO.Key0804.text = oc.m6.d2_en_US_dedes.ocMA.Kathisma21.text
 hoCO.Key0805.text = oc.m6.d2_en_US_dedes.ocMA.Kathisma22.text
 hoCO.Key0806.text = oc.m6.d5_en_US_dedes.ocMA.Kathisma13.text
@@ -96,15 +96,15 @@ hoCO.Key0908.rubric = "At this point we sing the Canon for the day or to the The
 hoCO.Key0909.rubric = "[Footnote:] In the first week of Lent, from Clean Monday through Thursday, we sing the appointed section of the Great Canon. On these days in the weeks that follow through Thursday of the Sixth Week, we sing Canon from the \"Book of Canons to the Theotokos.\""
 hoCO.Key0910.rubric = "In the first week of Lent, we sing the section of the Great Canon appointed for each day, prefacing each Troparion with the verse: \"Have mercy on me, O God. Have mercy on me.\" After Ode vi, we sing the Kontakion slowly and melodically. At the end of Ode ix, we sing its Heirmos again."
 
-hoCO.Key1001.mode = misc_en_US_dedes.Mode6
+hoCO.Key1001.mode = miscellanea_en_US_dedes.misc.Mode6
 hoCO.Key1001.text = "Lord of the Powers, be with us; for no other helper do we have in tribulations, but You. Lord of the Powers, have mercy on us."
 hoCO.Key1009.text = "Lord of the Powers, be with us; for no other helper do we have in tribulations, but You…"
 hoCO.Key1010.text = "Lord of the Powers, have mercy on us."
 
-hoCO.Key1011.mode = misc_en_US_dedes.Mode2
+hoCO.Key1011.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCO.Key1011.text = oc.m6.d3_en_US_dedes.ocMA.Aposticha3.text
 hoCO.Key1012.text = oc.m6.d3_en_US_dedes.ocMA.Kathisma33.text
-hoCO.Key1013.mode = misc_en_US_dedes.Mode2
+hoCO.Key1013.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCO.Key1013.text = oc.m6.d6_en_US_dedes.ocMA.Kathisma33.text
 hoCO.Key1014.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
 
@@ -139,19 +139,19 @@ hoCO.Key1207.rubric = "Then the brethren begin to do the same, coming two by two
 
 hoCO.Key1300.rubric = "Everyone receives forgiveness from the Superior or the Priest, kissing his right hand. During this, the Choir sings:"
 hoCO.Key1301.rubric = "On Monday, Wednesday and Friday evenings:"
-hoCO.Key1301.mode = misc_en_US_dedes.Mode2
+hoCO.Key1301.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCO.Key1301.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 hoCO.Key1301.incipit = oc.m2.d5_en_US_dedes.ocVE.AposTheotokion.incipit
 hoCO.Key1301.text = oc.m2.d5_en_US_dedes.ocVE.AposTheotokion.text
 
 hoCO.Key1302.rubric = "Or this other hymn, which is used in some Monasteries:"
-hoCO.Key1302.mode = misc_en_US_dedes.Mode1
+hoCO.Key1302.mode = miscellanea_en_US_dedes.misc.Mode1
 hoCO.Key1302.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 hoCO.Key1302.incipit = oc.m1.d3_en_US_dedes.ocMA.AposTheotokion.incipit
 hoCO.Key1302.text = oc.m1.d3_en_US_dedes.ocMA.AposTheotokion.text
 
 hoCO.Key1303.rubric = "On Tuesday and Thursday evenings:"
-hoCO.Key1303.mode = misc_en_US_dedes.Mode1
+hoCO.Key1303.mode = miscellanea_en_US_dedes.misc.Mode1
 hoCO.Key1303.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 hoCO.Key1303.incipit = oc.m1.d4_en_US_dedes.ocVE.SticTheotokion.incipit
 hoCO.Key1303.text = oc.m1.d4_en_US_dedes.ocVE.SticTheotokion.text

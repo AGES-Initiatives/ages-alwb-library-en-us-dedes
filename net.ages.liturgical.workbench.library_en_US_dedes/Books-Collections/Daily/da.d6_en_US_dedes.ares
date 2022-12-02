@@ -6,12 +6,12 @@ daCommemoration.text = "The Cross."
 daVE.OnTheMorningBefore = template.titles_en_US_dedes.d.onThursdayMorning
 daVE.OnTheEveningBefore = template.titles_en_US_dedes.d.onThursdayEvening
 
-daVE.Apolytikion1.mode = misc_en_US_dedes.Mode1
+daVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode1
 daVE.Apolytikion1.melody = ""
 daVE.Apolytikion1.incipit = me.m09.d14_en_US_dedes.meVE.Apolytikion1.incipit
 daVE.Apolytikion1.text = me.m09.d14_en_US_dedes.meVE.Apolytikion1.text
 
-daVE.ApolTheotokion.mode = misc_en_US_dedes.Mode1
+daVE.ApolTheotokion.mode = miscellanea_en_US_dedes.misc.Mode1
 daVE.ApolTheotokion.melody = ""
 daVE.ApolTheotokion.incipit = oc.m1.d4_en_US_dedes.ocVE.ApolTheotokionVM.incipit
 daVE.ApolTheotokion.text = oc.m1.d4_en_US_dedes.ocVE.ApolTheotokionVM.text
@@ -28,17 +28,17 @@ daMA.Photagogic1Beginning.text = "By the power of Your Cross, O Lord,"
 daMA.Photagogic2Beginning.text = prayers_en_US_dedes.pr.photagogic_begin_Saints.text
 daMA.Photagogic3Beginning.text = prayers_en_US_dedes.pr.photagogic_begin_Theotokos.text
 
-daMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+daMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
 daMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.TonMathitonOrontonSe.name
 daMA.Exaposteilarion1.incipit = me.m09.d14_en_US_dedes.meMA.Exaposteilarion1.incipit
 daMA.Exaposteilarion1.text = me.m09.d14_en_US_dedes.meMA.Exaposteilarion1.text
 
-daMA.Exaposteilarion2.mode = misc_en_US_dedes.Mode3
+daMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode3
 daMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.name
 daMA.Exaposteilarion2.incipit = "O Cross of my Christ…"
 daMA.Exaposteilarion2.text = "O Cross of my Christ, the scepter * and victory of pious rulers, * the boast of Orthodox Christians: * protect us who venerate you; * and may the foes of the true Faith * be defeated by your power."
 
-daMA.ExapTheotokion2.mode = misc_en_US_dedes.Mode3
+daMA.ExapTheotokion2.mode = miscellanea_en_US_dedes.misc.Mode3
 daMA.ExapTheotokion2.melody = he.a.m3_en_US_dedes.OOuranonToisAstrois.notmetered
 daMA.ExapTheotokion2.incipit = "…"
 daMA.ExapTheotokion2.text = ""

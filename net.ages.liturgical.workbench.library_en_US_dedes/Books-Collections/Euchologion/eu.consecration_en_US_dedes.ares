@@ -8,34 +8,34 @@ euCON.Key1002.title = "SECOND PRAYER BY PATRIARCH KALLISTOS"
 euCON.Key1002.text = "Eternal Word and only Son of God, true God of the material and spiritual creation. You adorned all of creation with divine wisdom. You joined together the fluid and vague nature of water with your Holy Spirit, that moved over the water, and you beautified all the earth and renewed the whole world. You established the Tabernacle through Moses and consecrated it by your Holy Spirit. You inspired Solomon the Wise to erect a Holy Temple, in honor of your indescribable and ineffable glory. You consecrated it by your Holy Spirit and enabled the Judges of Judah at that time to see the glory and the grace of your Holy Spirit hovering over it. We pray and entreat you, at this time, eternal Word, and Son of the eternal Father, send down the same gift of your most Holy Spirit upon us and upon this Church erected for your glory and praise. Establish and strengthen this Church, protecting it to the end of the world. Renew this Church by your Holy Spirit, that as we offer the bloodless sacrifices in it, we might become partakers of your Holy Spirit. Make us sharers in the Holy Spirit, which renews us, upholds us with a willing heart and mystically grants us the cleansing of our mind, that we might offer you, Master, glory and honor, to the eternal Father, the only-begotten Son and the all-holy, good and life-giving Spirit, now and forever and to the ages of ages."
 euCON.R101 = "The Celebrant Hierarch brings the relics of the three holy Martyrs to the Church on the eve of the Consecration, that will be deposited in the Altar Table the next day. The Clergy will escort the Hierarch and proceed to the Altar. The Celebrant places the holy relics on the paten, covers them with a communion veil and says:"
 euCON.R102 = "The Choirs sing the Apolytikia for the Saints whose relics were received and also the Apolytikion of the Church."
-euCON.Key1003.mode = misc_en_US_dedes.Mode6
+euCON.Key1003.mode = miscellanea_en_US_dedes.misc.Mode6
 euCON.Key1003.incipit = pe.d127_en_US_dedes.peVE.SticGlory.incipit
 euCON.Key1003.text = pe.d127_en_US_dedes.peVE.SticGlory.text
-euCON.Key1004.mode = misc_en_US_dedes.Mode6
+euCON.Key1004.mode = miscellanea_en_US_dedes.misc.Mode6
 euCON.Key1004.incipit = oc.m6.d5_en_US_dedes.ocVE.AposTheotokion.incipit
 euCON.Key1004.text = oc.m6.d5_en_US_dedes.ocVE.AposTheotokion.text
 
 euCON.Key2000.title = "VESPERS"
 
-euVE.Stichera01.mode = misc_en_US_dedes.Mode6
-euVE.Stichera01.melody = misc_en_US_dedes.Idiomelon
+euVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode6
+euVE.Stichera01.melody = miscellanea_en_US_dedes.misc.Idiomelon
 euVE.Stichera01.incipit = me.m09.d13_en_US_dedes.meVE.Stichera01.incipit
 euVE.Stichera01.text = me.m09.d13_en_US_dedes.meVE.Stichera01.text
 
-euVE.Stichera02.mode = misc_en_US_dedes.Mode6
-euVE.Stichera02.melody = misc_en_US_dedes.Idiomelon
+euVE.Stichera02.mode = miscellanea_en_US_dedes.misc.Mode6
+euVE.Stichera02.melody = miscellanea_en_US_dedes.misc.Idiomelon
 euVE.Stichera02.incipit = me.m09.d13_en_US_dedes.meVE.Stichera02.incipit
 euVE.Stichera02.text = me.m09.d13_en_US_dedes.meVE.Stichera02.text
 
-euVE.Stichera03.poet = poets_en_US_dedes.Anatoliou
-euVE.Stichera03.mode = misc_en_US_dedes.Mode6
-euVE.Stichera03.melody = misc_en_US_dedes.Idiomelon
+euVE.Stichera03.poet = poets_en_US_dedes.po.Anatoliou
+euVE.Stichera03.mode = miscellanea_en_US_dedes.misc.Mode6
+euVE.Stichera03.melody = miscellanea_en_US_dedes.misc.Idiomelon
 euVE.Stichera03.incipit = me.m09.d13_en_US_dedes.meVE.Stichera03.incipit
 euVE.Stichera03.text = me.m09.d13_en_US_dedes.meVE.Stichera03.text
 
-euVE.Stichera04.poet = poets_en_US_dedes.IoannouMonachou
-euVE.Stichera04.mode = misc_en_US_dedes.Mode6
-euVE.Stichera04.melody = misc_en_US_dedes.Idiomelon
+euVE.Stichera04.poet = poets_en_US_dedes.po.IoannouMonachou
+euVE.Stichera04.mode = miscellanea_en_US_dedes.misc.Mode6
+euVE.Stichera04.melody = miscellanea_en_US_dedes.misc.Idiomelon
 euVE.Stichera04.incipit = me.m09.d13_en_US_dedes.meVE.SticGlory.incipit
 euVE.Stichera04.text = me.m09.d13_en_US_dedes.meVE.SticGlory.text
 
@@ -43,59 +43,59 @@ euVE.MM.Stichera123as567.text = properties_en_US_dedes.media.key
 euVE.MM.Stichera1234as1234.text = properties_en_US_dedes.media.key
 euVE.MM.Stichera1234as3456.text = properties_en_US_dedes.media.key
 
-euVE.SticBoth.poet = poets_en_US_dedes.Anatoliou
-euVE.SticBoth.mode = misc_en_US_dedes.Mode2
-euVE.SticBoth.melody = misc_en_US_dedes.Idiomelon
+euVE.SticBoth.poet = poets_en_US_dedes.po.Anatoliou
+euVE.SticBoth.mode = miscellanea_en_US_dedes.misc.Mode2
+euVE.SticBoth.melody = miscellanea_en_US_dedes.misc.Idiomelon
 euVE.SticBoth.incipit = me.m09.d13_en_US_dedes.meVE.AposGlory.incipit
 euVE.SticBoth.text = me.m09.d13_en_US_dedes.meVE.AposGlory.text
 euVE.SticBoth1.text = "As we perform the consecration of the all-sacred church" //split hymn to insert name of church
 euVE.SticBoth2.text = "we glorify You, O Lord, for you have sanctified it and perfected it by Your absolutely perfect grace. You are gladdened by the mystical and sacred services that are performed in it by the faithful; and You accept from the hands of Your servants the immaculate sacrifices without the shedding of blood. And to those who offer these correctly, You render purification from sins and the great mercy."
 
-euVE.Aposticha1.poet = poets_en_US_dedes.IoannouMonachou
-euVE.Aposticha1.mode = misc_en_US_dedes.Mode1
-euVE.Aposticha1.melody = misc_en_US_dedes.Idiomelon
+euVE.Aposticha1.poet = poets_en_US_dedes.po.IoannouMonachou
+euVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode1
+euVE.Aposticha1.melody = miscellanea_en_US_dedes.misc.Idiomelon
 euVE.Aposticha1.incipit = me.m09.d13_en_US_dedes.meMA.Lauds4.incipit
 euVE.Aposticha1.text = me.m09.d13_en_US_dedes.meMA.Lauds4.text
 
 //euVE.ApostichaVerse2.text = "Glorious things were said concerning you, O city of God."
 
-euVE.Aposticha2.poet = poets_en_US_dedes.Anatoliou
-euVE.Aposticha2.mode = misc_en_US_dedes.Mode1
-euVE.Aposticha2.melody = misc_en_US_dedes.Idiomelon
+euVE.Aposticha2.poet = poets_en_US_dedes.po.Anatoliou
+euVE.Aposticha2.mode = miscellanea_en_US_dedes.misc.Mode1
+euVE.Aposticha2.melody = miscellanea_en_US_dedes.misc.Idiomelon
 euVE.Aposticha2.incipit = me.m09.d13_en_US_dedes.meMA.Lauds5.incipit
 euVE.Aposticha2.text = me.m09.d13_en_US_dedes.meMA.Lauds5.text
 
 //euVE.ApostichaVerse3.text = "The Lord loves the gates of Zion more than all the dwellings of Jacob."
 
-euVE.Aposticha3.poet = poets_en_US_dedes.IoannouMonachou
+euVE.Aposticha3.poet = poets_en_US_dedes.po.IoannouMonachou
 euVE.Aposticha3.mode = me.m09.d13_en_US_dedes.meMA.Lauds6.mode
-euVE.Aposticha3.melody = misc_en_US_dedes.Idiomelon
+euVE.Aposticha3.melody = miscellanea_en_US_dedes.misc.Idiomelon
 euVE.Aposticha3.incipit = me.m09.d13_en_US_dedes.meMA.Lauds6.incipit
 euVE.Aposticha3.text = me.m09.d13_en_US_dedes.meMA.Lauds6.text
 
-euVE.AposGlory.mode = misc_en_US_dedes.Mode3
-euVE.AposGlory.melody = misc_en_US_dedes.Idiomelon
+euVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode3
+euVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
 euVE.AposGlory.incipit = me.m09.d13_en_US_dedes.meMA.LaudsGlory.incipit
 euVE.AposGlory.text = me.m09.d13_en_US_dedes.meMA.LaudsGlory.text
 
-euVE.Apolytikion.mode = misc_en_US_dedes.Mode4
+euVE.Apolytikion.mode = miscellanea_en_US_dedes.misc.Mode4
 euVE.Apolytikion.melody = ""
 euVE.Apolytikion.incipit = me.m09.d13_en_US_dedes.meVE.Apolytikion1.incipit
 euVE.Apolytikion.text = me.m09.d13_en_US_dedes.meVE.Apolytikion1.text
 
 euCON.Key3000.title = "MATINS"
 
-euMA.Kathisma11.mode = misc_en_US_dedes.Mode8
+euMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode8
 euMA.Kathisma11.melody = he.a.m8_en_US_dedes.ToProstachthen.name
 euMA.Kathisma11.incipit = me.m09.d13_en_US_dedes.meMA.Ode3Kathisma1.incipit
 euMA.Kathisma11.text = me.m09.d13_en_US_dedes.meMA.Ode3Kathisma1.text
 
-euMA.Kathisma21.mode = misc_en_US_dedes.Mode8
+euMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode8
 euMA.Kathisma21.melody = he.a.m8_en_US_dedes.TinSofianKaiLogon.name
 euMA.Kathisma21.incipit = "You have fashioned the heavens…"
 euMA.Kathisma21.text = "You have fashioned the heavens to be Your throne, * O Creator of wisdom ineffable. * O God, You have called the earth the footstool of Your feet. * And now You have chosen this church building, which You were * well pleased to have built in Your name to Your glory, * for Your habitation and dwelling, O Savior, * to hear the petitions of those who piously enter it; * where in faith we cry to You: * Lord and Master, Christ our God, * we entreat You, send down forgiveness of sins * to us Your servants who worship Your glory with faith."
 
-euMA.Kathisma31.mode = misc_en_US_dedes.Mode4
+euMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Kathisma31.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 euMA.Kathisma31.incipit = "Holiness befits Your house, O…"
 euMA.Kathisma31.text = "Holiness befits Your house, O Lord, unto length of days; * for in it Your name is glorified with God-inspired words, O Friend of humanity. * Therefore with Prophet David do we faithfully cry out: * Renew Your Holy Spirit within all and consecrate us, * by Your Mother's intercessions, O only Friend of man."
@@ -103,162 +103,162 @@ euMA.Kathisma31.text = "Holiness befits Your house, O Lord, unto length of days;
 euMA.C1.title = titles_en_US_dedes.ti.CanonConsecration
 euMA.C1.verse = prayers_en_US_dedes.pr.verse_God.text
 
-euMA.Ode1C1H.ode = misc_en_US_dedes.Ode1
-euMA.Ode1C1H.mode = misc_en_US_dedes.Mode4
-euMA.Ode1C1H.melody = misc_en_US_dedes.Heirmos
+euMA.Ode1C1H.ode = miscellanea_en_US_dedes.misc.Ode1
+euMA.Ode1C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+euMA.Ode1C1H.melody = miscellanea_en_US_dedes.misc.Heirmos
 euMA.Ode1C1H.incipit = he.h.m4_en_US_dedes.ThalassisToErythraion.incipit
 euMA.Ode1C1H.text = he.h.m4_en_US_dedes.ThalassisToErythraion.text
 
-euMA.Ode1C11.ode = misc_en_US_dedes.Ode1
-euMA.Ode1C11.mode = misc_en_US_dedes.Mode4
+euMA.Ode1C11.ode = miscellanea_en_US_dedes.misc.Ode1
+euMA.Ode1C11.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode1C11.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
 euMA.Ode1C11.incipit = me.m09.d13_en_US_dedes.meMA.Ode1C21.incipit
 euMA.Ode1C11.text = me.m09.d13_en_US_dedes.meMA.Ode1C21.text
 
-euMA.Ode1C12.ode = misc_en_US_dedes.Ode1
-euMA.Ode1C12.mode = misc_en_US_dedes.Mode4
+euMA.Ode1C12.ode = miscellanea_en_US_dedes.misc.Ode1
+euMA.Ode1C12.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode1C12.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
 euMA.Ode1C12.incipit = me.m09.d13_en_US_dedes.meMA.Ode1C22.incipit
 euMA.Ode1C12.text = me.m09.d13_en_US_dedes.meMA.Ode1C22.text
 
-euMA.Ode1C13.ode = misc_en_US_dedes.Ode1
-euMA.Ode1C13.mode = misc_en_US_dedes.Mode4
+euMA.Ode1C13.ode = miscellanea_en_US_dedes.misc.Ode1
+euMA.Ode1C13.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode1C13.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
 euMA.Ode1C13.incipit = me.m09.d13_en_US_dedes.meMA.Ode1C23.incipit
 euMA.Ode1C13.text = me.m09.d13_en_US_dedes.meMA.Ode1C23.text
 
-euMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
-euMA.Ode1C1T.mode = misc_en_US_dedes.Mode4
+euMA.Ode1C1T.ode = miscellanea_en_US_dedes.misc.Ode1
+euMA.Ode1C1T.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode1C1T.melody = he.h.m4_en_US_dedes.ThalassisToErythraion.name
 euMA.Ode1C1T.incipit = me.m09.d13_en_US_dedes.meMA.Ode1C2T.incipit
 euMA.Ode1C1T.text = me.m09.d13_en_US_dedes.meMA.Ode1C2T.text
 
-euMA.Ode3C1H.ode = misc_en_US_dedes.Ode3
-euMA.Ode3C1H.mode = misc_en_US_dedes.Mode4
-euMA.Ode3C1H.melody = misc_en_US_dedes.Heirmos
+euMA.Ode3C1H.ode = miscellanea_en_US_dedes.misc.Ode3
+euMA.Ode3C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+euMA.Ode3C1H.melody = miscellanea_en_US_dedes.misc.Heirmos
 euMA.Ode3C1H.incipit = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.incipit
 euMA.Ode3C1H.text = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.text
 
-euMA.Ode3C11.ode = misc_en_US_dedes.Ode3
-euMA.Ode3C11.mode = misc_en_US_dedes.Mode4
+euMA.Ode3C11.ode = miscellanea_en_US_dedes.misc.Ode3
+euMA.Ode3C11.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode3C11.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.name
 euMA.Ode3C11.incipit = me.m09.d13_en_US_dedes.meMA.Ode3C21.incipit
 euMA.Ode3C11.text = me.m09.d13_en_US_dedes.meMA.Ode3C21.text
 
-euMA.Ode3C12.ode = misc_en_US_dedes.Ode3
-euMA.Ode3C12.mode = misc_en_US_dedes.Mode4
+euMA.Ode3C12.ode = miscellanea_en_US_dedes.misc.Ode3
+euMA.Ode3C12.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode3C12.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.name
 euMA.Ode3C12.incipit = me.m09.d13_en_US_dedes.meMA.Ode3C22.incipit
 euMA.Ode3C12.text = me.m09.d13_en_US_dedes.meMA.Ode3C22.text
 
-euMA.Ode3C13.ode = misc_en_US_dedes.Ode3
-euMA.Ode3C13.mode = misc_en_US_dedes.Mode4
+euMA.Ode3C13.ode = miscellanea_en_US_dedes.misc.Ode3
+euMA.Ode3C13.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode3C13.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.name
 euMA.Ode3C13.incipit = me.m09.d13_en_US_dedes.meMA.Ode3C23.incipit
 euMA.Ode3C13.text = me.m09.d13_en_US_dedes.meMA.Ode3C23.text
 
-euMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
-euMA.Ode3C1T.mode = misc_en_US_dedes.Mode4
+euMA.Ode3C1T.ode = miscellanea_en_US_dedes.misc.Ode3
+euMA.Ode3C1T.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode3C1T.melody = he.h.m4_en_US_dedes.EffrainetaiEpiSoi.name
 euMA.Ode3C1T.incipit = me.m09.d13_en_US_dedes.meMA.Ode3C2T.incipit
 euMA.Ode3C1T.text = me.m09.d13_en_US_dedes.meMA.Ode3C2T.text
 
-euMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode4
+euMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 euMA.Ode3Kathisma1.incipit = me.m09.d13_en_US_dedes.meMA.Kathisma11.incipit
 euMA.Ode3Kathisma1.text = me.m09.d13_en_US_dedes.meMA.Kathisma11.text
 
-euMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode4
+euMA.Ode3KathismaT.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode3KathismaT.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
 euMA.Ode3KathismaT.incipit = me.m09.d13_en_US_dedes.meMA.Ode3KathismaT.incipit
 euMA.Ode3KathismaT.text = me.m09.d13_en_US_dedes.meMA.Ode3KathismaT.text
 
-euMA.Ode4C1H.ode = misc_en_US_dedes.Ode4
-euMA.Ode4C1H.mode = misc_en_US_dedes.Mode4
-euMA.Ode4C1H.melody = misc_en_US_dedes.Heirmos
+euMA.Ode4C1H.ode = miscellanea_en_US_dedes.misc.Ode4
+euMA.Ode4C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+euMA.Ode4C1H.melody = miscellanea_en_US_dedes.misc.Heirmos
 euMA.Ode4C1H.incipit = he.h.m4_en_US_dedes.EparthentaSeIdousa.incipit
 euMA.Ode4C1H.text = he.h.m4_en_US_dedes.EparthentaSeIdousa.text
 
-euMA.Ode4C11.ode = misc_en_US_dedes.Ode4
-euMA.Ode4C11.mode = misc_en_US_dedes.Mode4
+euMA.Ode4C11.ode = miscellanea_en_US_dedes.misc.Ode4
+euMA.Ode4C11.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode4C11.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.name
 euMA.Ode4C11.incipit = me.m09.d13_en_US_dedes.meMA.Ode4C21.incipit
 euMA.Ode4C11.text = me.m09.d13_en_US_dedes.meMA.Ode4C21.text
 
-euMA.Ode4C12.ode = misc_en_US_dedes.Ode4
-euMA.Ode4C12.mode = misc_en_US_dedes.Mode4
+euMA.Ode4C12.ode = miscellanea_en_US_dedes.misc.Ode4
+euMA.Ode4C12.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode4C12.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.name
 euMA.Ode4C12.incipit = me.m09.d13_en_US_dedes.meMA.Ode4C22.incipit
 euMA.Ode4C12.text = me.m09.d13_en_US_dedes.meMA.Ode4C22.text
 
-euMA.Ode4C13.ode = misc_en_US_dedes.Ode4
-euMA.Ode4C13.mode = misc_en_US_dedes.Mode4
+euMA.Ode4C13.ode = miscellanea_en_US_dedes.misc.Ode4
+euMA.Ode4C13.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode4C13.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.name
 euMA.Ode4C13.incipit = me.m09.d13_en_US_dedes.meMA.Ode4C23.incipit
 euMA.Ode4C13.text = me.m09.d13_en_US_dedes.meMA.Ode4C23.text
 
-euMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
-euMA.Ode4C1T.mode = misc_en_US_dedes.Mode4
+euMA.Ode4C1T.ode = miscellanea_en_US_dedes.misc.Ode4
+euMA.Ode4C1T.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode4C1T.melody = he.h.m4_en_US_dedes.EparthentaSeIdousa.name
 euMA.Ode4C1T.incipit = me.m09.d13_en_US_dedes.meMA.Ode4C2T.incipit
 euMA.Ode4C1T.text = me.m09.d13_en_US_dedes.meMA.Ode4C2T.text
 
-euMA.Ode5C1H.ode = misc_en_US_dedes.Ode5
-euMA.Ode5C1H.mode = misc_en_US_dedes.Mode4
-euMA.Ode5C1H.melody = misc_en_US_dedes.Heirmos
+euMA.Ode5C1H.ode = miscellanea_en_US_dedes.misc.Ode5
+euMA.Ode5C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+euMA.Ode5C1H.melody = miscellanea_en_US_dedes.misc.Heirmos
 euMA.Ode5C1H.incipit = he.h.m4_en_US_dedes.SyKyrieMouFos.incipit
 euMA.Ode5C1H.text = he.h.m4_en_US_dedes.SyKyrieMouFos.text
 
-euMA.Ode5C11.ode = misc_en_US_dedes.Ode5
-euMA.Ode5C11.mode = misc_en_US_dedes.Mode4
+euMA.Ode5C11.ode = miscellanea_en_US_dedes.misc.Ode5
+euMA.Ode5C11.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode5C11.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.name
 euMA.Ode5C11.incipit = me.m09.d13_en_US_dedes.meMA.Ode5C21.incipit
 euMA.Ode5C11.text = me.m09.d13_en_US_dedes.meMA.Ode5C21.text
 
-euMA.Ode5C12.ode = misc_en_US_dedes.Ode5
-euMA.Ode5C12.mode = misc_en_US_dedes.Mode4
+euMA.Ode5C12.ode = miscellanea_en_US_dedes.misc.Ode5
+euMA.Ode5C12.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode5C12.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.name
 euMA.Ode5C12.incipit = me.m09.d13_en_US_dedes.meMA.Ode5C22.incipit
 euMA.Ode5C12.text = me.m09.d13_en_US_dedes.meMA.Ode5C22.text
 
-euMA.Ode5C13.ode = misc_en_US_dedes.Ode5
-euMA.Ode5C13.mode = misc_en_US_dedes.Mode4
+euMA.Ode5C13.ode = miscellanea_en_US_dedes.misc.Ode5
+euMA.Ode5C13.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode5C13.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.name
 euMA.Ode5C13.incipit = me.m09.d13_en_US_dedes.meMA.Ode5C23.incipit
 euMA.Ode5C13.text = me.m09.d13_en_US_dedes.meMA.Ode5C23.text
 
-euMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
-euMA.Ode5C1T.mode = misc_en_US_dedes.Mode4
+euMA.Ode5C1T.ode = miscellanea_en_US_dedes.misc.Ode5
+euMA.Ode5C1T.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode5C1T.melody = he.h.m4_en_US_dedes.SyKyrieMouFos.name
 euMA.Ode5C1T.incipit = me.m09.d13_en_US_dedes.meMA.Ode5C2T.incipit
 euMA.Ode5C1T.text = me.m09.d13_en_US_dedes.meMA.Ode5C2T.text
 
-euMA.Ode6C1H.ode = misc_en_US_dedes.Ode6
-euMA.Ode6C1H.mode = misc_en_US_dedes.Mode4
-euMA.Ode6C1H.melody = misc_en_US_dedes.Heirmos
+euMA.Ode6C1H.ode = miscellanea_en_US_dedes.misc.Ode6
+euMA.Ode6C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+euMA.Ode6C1H.melody = miscellanea_en_US_dedes.misc.Heirmos
 euMA.Ode6C1H.incipit = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.incipit
 euMA.Ode6C1H.text = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.text
 
-euMA.Ode6C11.ode = misc_en_US_dedes.Ode6
-euMA.Ode6C11.mode = misc_en_US_dedes.Mode4
+euMA.Ode6C11.ode = miscellanea_en_US_dedes.misc.Ode6
+euMA.Ode6C11.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode6C11.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
 euMA.Ode6C11.incipit = me.m09.d13_en_US_dedes.meMA.Ode6C21.incipit
 euMA.Ode6C11.text = me.m09.d13_en_US_dedes.meMA.Ode6C21.text
 
-euMA.Ode6C12.ode = misc_en_US_dedes.Ode6
-euMA.Ode6C12.mode = misc_en_US_dedes.Mode4
+euMA.Ode6C12.ode = miscellanea_en_US_dedes.misc.Ode6
+euMA.Ode6C12.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode6C12.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
 euMA.Ode6C12.incipit = me.m09.d13_en_US_dedes.meMA.Ode6C22.incipit
 euMA.Ode6C12.text = me.m09.d13_en_US_dedes.meMA.Ode6C22.text
 
-euMA.Ode6C13.ode = misc_en_US_dedes.Ode6
-euMA.Ode6C13.mode = misc_en_US_dedes.Mode4
+euMA.Ode6C13.ode = miscellanea_en_US_dedes.misc.Ode6
+euMA.Ode6C13.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode6C13.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
 euMA.Ode6C13.incipit = me.m09.d13_en_US_dedes.meMA.Ode6C23.incipit
 euMA.Ode6C13.text = me.m09.d13_en_US_dedes.meMA.Ode6C23.text
 
-euMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
-euMA.Ode6C1T.mode = misc_en_US_dedes.Mode4
+euMA.Ode6C1T.ode = miscellanea_en_US_dedes.misc.Ode6
+euMA.Ode6C1T.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode6C1T.melody = he.h.m4_en_US_dedes.ThysoSoiMetaFonis.name
 euMA.Ode6C1T.incipit = me.m09.d13_en_US_dedes.meMA.Ode6C2T.incipit
 euMA.Ode6C1T.text = me.m09.d13_en_US_dedes.meMA.Ode6C2T.text
@@ -270,114 +270,114 @@ euMA.Kontakion.text = me.m09.d13_en_US_dedes.meMA.Kontakion1.text
 
 euMA.Oikos.text = me.m09.d13_en_US_dedes.meMA.Oikos1.text
 
-euMA.Ode7C1H.ode = misc_en_US_dedes.Ode7
-euMA.Ode7C1H.mode = misc_en_US_dedes.Mode4
-euMA.Ode7C1H.melody = misc_en_US_dedes.Heirmos
+euMA.Ode7C1H.ode = miscellanea_en_US_dedes.misc.Ode7
+euMA.Ode7C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+euMA.Ode7C1H.melody = miscellanea_en_US_dedes.misc.Heirmos
 euMA.Ode7C1H.incipit = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.incipit
 euMA.Ode7C1H.text = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.text
 
-euMA.Ode7C11.ode = misc_en_US_dedes.Ode7
-euMA.Ode7C11.mode = misc_en_US_dedes.Mode4
+euMA.Ode7C11.ode = miscellanea_en_US_dedes.misc.Ode7
+euMA.Ode7C11.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode7C11.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.name
 euMA.Ode7C11.incipit = me.m09.d13_en_US_dedes.meMA.Ode7C21.incipit
 euMA.Ode7C11.text = me.m09.d13_en_US_dedes.meMA.Ode7C21.text
 
-euMA.Ode7C12.ode = misc_en_US_dedes.Ode7
-euMA.Ode7C12.mode = misc_en_US_dedes.Mode4
+euMA.Ode7C12.ode = miscellanea_en_US_dedes.misc.Ode7
+euMA.Ode7C12.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode7C12.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.name
 euMA.Ode7C12.incipit = me.m09.d13_en_US_dedes.meMA.Ode7C22.incipit
 euMA.Ode7C12.text = me.m09.d13_en_US_dedes.meMA.Ode7C22.text
 
-euMA.Ode7C13.ode = misc_en_US_dedes.Ode7
-euMA.Ode7C13.mode = misc_en_US_dedes.Mode4
+euMA.Ode7C13.ode = miscellanea_en_US_dedes.misc.Ode7
+euMA.Ode7C13.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode7C13.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.name
 euMA.Ode7C13.incipit = me.m09.d13_en_US_dedes.meMA.Ode7C23.incipit
 euMA.Ode7C13.text = me.m09.d13_en_US_dedes.meMA.Ode7C23.text
 
-euMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
-euMA.Ode7C1T.mode = misc_en_US_dedes.Mode4
+euMA.Ode7C1T.ode = miscellanea_en_US_dedes.misc.Ode7
+euMA.Ode7C1T.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode7C1T.melody = he.h.m4_en_US_dedes.EnTiKaminoAvramiaioi.name
 euMA.Ode7C1T.incipit = me.m09.d13_en_US_dedes.meMA.Ode7C2T.incipit
 euMA.Ode7C1T.text = me.m09.d13_en_US_dedes.meMA.Ode7C2T.text
 
-euMA.Ode8C1H.ode = misc_en_US_dedes.Ode8
-euMA.Ode8C1H.mode = misc_en_US_dedes.Mode4
-euMA.Ode8C1H.melody = misc_en_US_dedes.Heirmos
+euMA.Ode8C1H.ode = miscellanea_en_US_dedes.misc.Ode8
+euMA.Ode8C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+euMA.Ode8C1H.melody = miscellanea_en_US_dedes.misc.Heirmos
 euMA.Ode8C1H.incipit = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.incipit
 euMA.Ode8C1H.text = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.text
 
-euMA.Ode8C11.ode = misc_en_US_dedes.Ode8
-euMA.Ode8C11.mode = misc_en_US_dedes.Mode4
+euMA.Ode8C11.ode = miscellanea_en_US_dedes.misc.Ode8
+euMA.Ode8C11.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode8C11.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.name
 euMA.Ode8C11.incipit = me.m09.d13_en_US_dedes.meMA.Ode8C21.incipit
 euMA.Ode8C11.text = me.m09.d13_en_US_dedes.meMA.Ode8C21.text
 
-euMA.Ode8C12.ode = misc_en_US_dedes.Ode8
-euMA.Ode8C12.mode = misc_en_US_dedes.Mode4
+euMA.Ode8C12.ode = miscellanea_en_US_dedes.misc.Ode8
+euMA.Ode8C12.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode8C12.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.name
 euMA.Ode8C12.incipit = me.m09.d13_en_US_dedes.meMA.Ode8C22.incipit
 euMA.Ode8C12.text = me.m09.d13_en_US_dedes.meMA.Ode8C22.text
 
-euMA.Ode8C13.ode = misc_en_US_dedes.Ode8
-euMA.Ode8C13.mode = misc_en_US_dedes.Mode4
+euMA.Ode8C13.ode = miscellanea_en_US_dedes.misc.Ode8
+euMA.Ode8C13.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode8C13.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.name
 euMA.Ode8C13.incipit = me.m09.d13_en_US_dedes.meMA.Ode8C23.incipit
 euMA.Ode8C13.text = me.m09.d13_en_US_dedes.meMA.Ode8C23.text
 
-euMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
-euMA.Ode8C1T.mode = misc_en_US_dedes.Mode4
+euMA.Ode8C1T.ode = miscellanea_en_US_dedes.misc.Ode8
+euMA.Ode8C1T.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode8C1T.melody = he.h.m4_en_US_dedes.CheirasEkpetasasDaniil.name
 euMA.Ode8C1T.incipit = me.m09.d13_en_US_dedes.meMA.Ode8C2T.incipit
 euMA.Ode8C1T.text = me.m09.d13_en_US_dedes.meMA.Ode8C2T.text
 
-euMA.Ode9C1H.ode = misc_en_US_dedes.Ode9
-euMA.Ode9C1H.mode = misc_en_US_dedes.Mode4
-euMA.Ode9C1H.melody = misc_en_US_dedes.Heirmos
+euMA.Ode9C1H.ode = miscellanea_en_US_dedes.misc.Ode9
+euMA.Ode9C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+euMA.Ode9C1H.melody = miscellanea_en_US_dedes.misc.Heirmos
 euMA.Ode9C1H.incipit = he.h.m4_en_US_dedes.LithosAcheirotmitos.incipit
 euMA.Ode9C1H.text = he.h.m4_en_US_dedes.LithosAcheirotmitos.text
 
-euMA.Ode9C11.ode = misc_en_US_dedes.Ode9
-euMA.Ode9C11.mode = misc_en_US_dedes.Mode4
+euMA.Ode9C11.ode = miscellanea_en_US_dedes.misc.Ode9
+euMA.Ode9C11.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode9C11.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.name
 euMA.Ode9C11.incipit = me.m09.d13_en_US_dedes.meMA.Ode9C21.incipit
 euMA.Ode9C11.text = me.m09.d13_en_US_dedes.meMA.Ode9C21.text
 
-euMA.Ode9C12.ode = misc_en_US_dedes.Ode9
-euMA.Ode9C12.mode = misc_en_US_dedes.Mode4
+euMA.Ode9C12.ode = miscellanea_en_US_dedes.misc.Ode9
+euMA.Ode9C12.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode9C12.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.name
 euMA.Ode9C12.incipit = me.m09.d13_en_US_dedes.meMA.Ode9C22.incipit
 euMA.Ode9C12.text = me.m09.d13_en_US_dedes.meMA.Ode9C22.text
 
-euMA.Ode9C13.ode = misc_en_US_dedes.Ode9
-euMA.Ode9C13.mode = misc_en_US_dedes.Mode4
+euMA.Ode9C13.ode = miscellanea_en_US_dedes.misc.Ode9
+euMA.Ode9C13.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode9C13.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.name
 euMA.Ode9C13.incipit = me.m09.d13_en_US_dedes.meMA.Ode9C23.incipit
 euMA.Ode9C13.text = me.m09.d13_en_US_dedes.meMA.Ode9C23.text
 
-euMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
-euMA.Ode9C1T.mode = misc_en_US_dedes.Mode4
+euMA.Ode9C1T.ode = miscellanea_en_US_dedes.misc.Ode9
+euMA.Ode9C1T.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Ode9C1T.melody = he.h.m4_en_US_dedes.LithosAcheirotmitos.name
 euMA.Ode9C1T.incipit = me.m09.d13_en_US_dedes.meMA.Ode9C2T.incipit
 euMA.Ode9C1T.text = me.m09.d13_en_US_dedes.meMA.Ode9C2T.text
 
-euMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
+euMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
 euMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
 euMA.Exaposteilarion1.incipit = "By Your all-holy Spirit, Lord…"
 euMA.Exaposteilarion1.text = "By Your all-holy Spirit, Lord who love mankind, renew the hearts * of those who in faith perform now * the service of Consecration * and who are dedicating Your all-holy House for sacred use. * Herein accept as sacrifice * the prayers of us Your servants * who worship You as our Savior."
 
 euMA.R001 = ""
 
-euMA.Lauds1.mode = misc_en_US_dedes.Mode4
+euMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Lauds1.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 euMA.Lauds1.incipit = me.m09.d13_en_US_dedes.meMA.Lauds1.incipit
 euMA.Lauds1.text = me.m09.d13_en_US_dedes.meMA.Lauds1.text
 
-euMA.Lauds2.mode = misc_en_US_dedes.Mode4
+euMA.Lauds2.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Lauds2.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 euMA.Lauds2.incipit = me.m09.d13_en_US_dedes.meMA.Lauds2.incipit
 euMA.Lauds2.text = me.m09.d13_en_US_dedes.meMA.Lauds2.text
 
-euMA.Lauds3.mode = misc_en_US_dedes.Mode4
+euMA.Lauds3.mode = miscellanea_en_US_dedes.misc.Mode4
 euMA.Lauds3.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 euMA.Lauds3.incipit = me.m09.d13_en_US_dedes.meMA.Lauds3.incipit
 euMA.Lauds3.text = me.m09.d13_en_US_dedes.meMA.Lauds3.text
@@ -385,8 +385,8 @@ euMA.Lauds3.text = me.m09.d13_en_US_dedes.meMA.Lauds3.text
 euMA.MM.Lauds12as12.text = properties_en_US_dedes.media.key
 euMA.MM.Lauds123as456.text = properties_en_US_dedes.media.key
 
-euMA.LaudsBoth.mode = misc_en_US_dedes.Mode5
-euMA.LaudsBoth.melody = misc_en_US_dedes.Idiomelon
+euMA.LaudsBoth.mode = miscellanea_en_US_dedes.misc.Mode5
+euMA.LaudsBoth.melody = miscellanea_en_US_dedes.misc.Idiomelon
 euMA.LaudsBoth.incipit = me.m12.d09_en_US_dedes.meMA.LaudsGlory.incipit
 euMA.LaudsBoth.text = me.m12.d09_en_US_dedes.meMA.LaudsGlory.text
 
@@ -405,27 +405,27 @@ euCON.Key4107.text = "Blessed and glorified be the majesty of Your kingdom, of t
 euCON.Key4200.title = "PROCESSIONS AROUND THE CHURCH"
 euCON.R420 = "Following this prayer, the Hierarch and Clergy together with all the Faithful prepare for the Three Processions around the Church. The Three Processions represent the setting aside of an area which will be separate and sacred from all other areas."
 euCON.R421 = "The Hierarch raises the covered Paten on which the Holy Relics were placed, and prepares to leave the Church. The procession is led by the Acolytes, followed by the Choirs, the Clergy, the Hierarch carrying the Relics, and the Faithful, leaving the Church empty. As the procession leaves the Church the Choirs sing:"
-euCON.Key4201.mode = misc_en_US_dedes.Mode7
+euCON.Key4201.mode = miscellanea_en_US_dedes.misc.Mode7
 euCON.Key4201.incipit = oc.m7.d3_en_US_dedes.ocVE.Aposticha3.incipit
 euCON.Key4201.text = oc.m7.d3_en_US_dedes.ocVE.Aposticha3.text
-euCON.Key4202.mode = misc_en_US_dedes.Mode7
+euCON.Key4202.mode = miscellanea_en_US_dedes.misc.Mode7
 euCON.Key4202.incipit = oc.m7.d2_en_US_dedes.ocVE.Aposticha3.incipit
 euCON.Key4202.text = oc.m7.d2_en_US_dedes.ocVE.Aposticha3.text
 euCON.R422 = "During the processions around the Church special consecration hymns are sung, or the Hymn \"Holy God…\""
-euCON.Key4203.mode = misc_en_US_dedes.Mode1
-euCON.Key4203.melody = misc_en_US_dedes.Idiomelon
+euCON.Key4203.mode = miscellanea_en_US_dedes.misc.Mode1
+euCON.Key4203.melody = miscellanea_en_US_dedes.misc.Idiomelon
 euCON.Key4203.incipit = me.m09.d13_en_US_dedes.meMA.Lauds4.incipit
 euCON.Key4203.text = me.m09.d13_en_US_dedes.meMA.Lauds4.text
-euCON.Key4204.mode = misc_en_US_dedes.Mode1
-euCON.Key4204.melody = misc_en_US_dedes.Idiomelon
+euCON.Key4204.mode = miscellanea_en_US_dedes.misc.Mode1
+euCON.Key4204.melody = miscellanea_en_US_dedes.misc.Idiomelon
 euCON.Key4204.incipit = me.m09.d13_en_US_dedes.meMA.Lauds5.incipit
 euCON.Key4204.text = me.m09.d13_en_US_dedes.meMA.Lauds5.text
-euCON.Key4205.mode = misc_en_US_dedes.Mode6
-euCON.Key4205.melody = misc_en_US_dedes.Idiomelon
+euCON.Key4205.mode = miscellanea_en_US_dedes.misc.Mode6
+euCON.Key4205.melody = miscellanea_en_US_dedes.misc.Idiomelon
 euCON.Key4205.incipit = me.m09.d13_en_US_dedes.meVE.Stichera01.incipit
 euCON.Key4205.text = me.m09.d13_en_US_dedes.meVE.Stichera01.text
-euCON.Key4206.mode = misc_en_US_dedes.Mode5
-euCON.Key4206.melody = misc_en_US_dedes.Idiomelon
+euCON.Key4206.mode = miscellanea_en_US_dedes.misc.Mode5
+euCON.Key4206.melody = miscellanea_en_US_dedes.misc.Idiomelon
 euCON.Key4206.incipit = me.m12.d09_en_US_dedes.meMA.LaudsGlory.incipit
 euCON.Key4206.text = me.m12.d09_en_US_dedes.meMA.LaudsGlory.text
 euCON.R423 = "When the procession reaches the front of the Church, the Hierarch places the Holy Relics on table, which has been previously placed there, and readings from the Bible follow."
@@ -441,7 +441,7 @@ euCON.R426 = "The Hierarch picks up the Paten with the Holy Relics, and the fina
 euCON.R427 = "At the end of the third procession the Hierarch places the Paten on the table and recites a prayer."
 euCON.Key4209.incipit = "Blessed are You, O Christ…"
 euCON.Key4209.text = "Blessed are You, O Christ our God, unto the ages of ages."
-euCON.Key4210.mode = misc_en_US_dedes.Mode3
+euCON.Key4210.mode = miscellanea_en_US_dedes.misc.Mode3
 euCON.Key4210.incipit = "O Christ our God, who…"
 euCON.Key4210.text = "O Christ our God, who built Your Church on the rock of faith, direct our petitions and receive Your people who in faith cry to You: Save us, O our God."
 euCON.R428 = "The Hierarch then offers a shorter prayer in which he asks God to protect His new House of Worship."
@@ -460,7 +460,7 @@ euCON.R430 = "The Hierarch standing in front of the Doors of the Church, begins 
 euCON.R431 = "The priest, who is the only one inside the Church and represents an Angel, is surprised to hear this command, and asks:"
 euCON.R432 = "Having said this, the Hierarch raises the Paten and makes the sign of the Cross 3 times before the Church doors. The doors are then opened and the Hierarch enters the Church carrying the Holy Relics followed by all the clergy and the congregation. The choir in the meantime sings:"
 euCON.Key4304.title = "Apolytikion for the Consecration."
-euCON.Key4304.mode = misc_en_US_dedes.Mode4
+euCON.Key4304.mode = miscellanea_en_US_dedes.misc.Mode4
 euCON.Key4304.incipit = me.m09.d13_en_US_dedes.meVE.Apolytikion1.incipit
 euCON.Key4304.text = me.m09.d13_en_US_dedes.meVE.Apolytikion1.text
 

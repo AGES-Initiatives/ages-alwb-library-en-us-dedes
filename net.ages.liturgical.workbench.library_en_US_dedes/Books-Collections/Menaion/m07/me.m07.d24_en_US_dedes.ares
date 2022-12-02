@@ -19,57 +19,57 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
-meVE.Stichera01.mode = misc_en_US_dedes.Mode4
+meVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.Stichera01.incipit = "When the Lord enlightened you…"
 meVE.Stichera01.text = "When the Lord enlightened you and filled your intellect with divine * understanding, He rescued you * from ignorance and profound darkness, O Christina, * for He is the Savior and Sun of Righteousness indeed, * O holy Martyr beatified by God. * And then you smashed the pagan idols with your own hands, discarding them, * and you mirrored the sufferings * of our Christ with great fortitude."
 
-meVE.Stichera02.mode = misc_en_US_dedes.Mode4
+meVE.Stichera02.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.Stichera02.incipit = "When you had with fortitude…"
 meVE.Stichera02.text = "When you had with fortitude endured the physical pain, O Saint, * with great joy you were taken to * enjoyment that has no pain, O holy Christina. * Now that you are there and adorned as a distinguished bride * of Christ the King, O all-lauded martyr Saint, * to Him remember us who faithfully observe your memorial, * that to us He be merciful * and He save us from all distress."
 
-meVE.Stichera03.mode = misc_en_US_dedes.Mode4
+meVE.Stichera03.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.EdokasSimeiosin.name
 meVE.Stichera03.incipit = "Blessed one, you wear the…"
 meVE.Stichera03.text = "Blessed one, you wear the pieces of your flesh that were torn away * like a bride wears her jewelry, * your wedding dress brightly dyed * purple in your own blood; * and you are adorned in divine resplendence as you stand * now in the company of the Bridegroom Christ, * Christina, and you joyously enjoy the blessings of theosis, * now and ever, together with * holy Virgins and Martyr Saints."
 
 meVE.MM.Stichera1123as78910.text = properties_en_US_dedes.media.key
 
-meVE.SticGlory.poet = poets_en_US_dedes.Anatoliou
-meVE.SticGlory.mode = misc_en_US_dedes.Mode2
+meVE.SticGlory.poet = poets_en_US_dedes.po.Anatoliou
+meVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
-meVE.SticTheotokion.mode = misc_en_US_dedes.Mode2
+meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.incipit = ho.s23_en_US_dedes.hoCA.Troparion31.incipit
 meVE.SticTheotokion.text = ho.s23_en_US_dedes.hoCA.Troparion31.text
 
-meVE.SticStavrotheotokion.mode = misc_en_US_dedes.Mode2
+meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meVE.SticStavrotheotokion.incipit = me.m06.d01_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m06.d01_en_US_dedes.meVE.SticStavrotheotokion.text
 
-meVE.AposGlory.poet = poets_en_US_dedes.Georgiou
-meVE.AposGlory.mode = misc_en_US_dedes.Mode2
+meVE.AposGlory.poet = poets_en_US_dedes.po.Georgiou
+meVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
-meVE.AposTheotokion.mode = misc_en_US_dedes.Mode2
+meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
 
-meVE.AposStavrotheotokion.mode = misc_en_US_dedes.Mode2
+meVE.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.AposStavrotheotokion.melody = he.a.m2_en_US_dedes.OteEkTouXylou.name
 meVE.AposStavrotheotokion.incipit = oc.m2.d4_en_US_dedes.ocVE.SticTheotokion.incipit
 meVE.AposStavrotheotokion.text = oc.m2.d4_en_US_dedes.ocVE.SticTheotokion.text
 
-meVE.Apolytikion1.poet = poets_en_US_dedes.Gerasimou
-meVE.Apolytikion1.mode = misc_en_US_dedes.Mode5
+meVE.Apolytikion1.poet = poets_en_US_dedes.po.Gerasimou
+meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode5
 meVE.Apolytikion1.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
@@ -80,308 +80,308 @@ meMA.C1.acrostic.text = ""
 meMA.C1.title = titles_en_US_dedes.ti.CanonSaintW
 meMA.C1.verse = prayers_en_US_dedes.pr.verse_SaintW.text
 
-meMA.Ode1C11.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C11.ode = miscellanea_en_US_dedes.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode1C11.melody = he.h.m8_en_US_dedes.YgranDiodefsas.notmetered
 meMA.Ode1C11.incipit = "O most glorious prizewinner Christina…"
 meMA.Ode1C11.text = "O most glorious prizewinner Christina, Rejoice. You proved to be a Martyr of Christ our Saviour, and you abandoned all of your father’s error and impiety."
 
-meMA.Ode1C12.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C12.ode = miscellanea_en_US_dedes.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode1C12.melody = he.h.m8_en_US_dedes.YgranDiodefsas.notmetered
 meMA.Ode1C12.incipit = "As we behold the adversary…"
 meMA.Ode1C12.text = "As we behold the adversary lying broken at the prizewinning maiden’s feet, let us all give praise unto the Saviour Who has showed her to be a victor."
 
-meMA.Ode1C13.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C13.ode = miscellanea_en_US_dedes.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode1C13.melody = he.h.m8_en_US_dedes.YgranDiodefsas.notmetered
 meMA.Ode1C13.incipit = "O Prizewinner, you desired to…"
 meMA.Ode1C13.text = "O Prizewinner, you desired to clearly see the fair beauty of your pure Bridegroom. With divine contests you therefore made yourself conspicuously beautiful."
 
-meMA.Ode1C1T.ode = misc_en_US_dedes.Ode1
-meMA.Ode1C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode1C1T.ode = miscellanea_en_US_dedes.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_US_dedes.YgranDiodefsas.notmetered
 meMA.Ode1C1T.incipit = "O pure Mother, you conceived…"
 meMA.Ode1C1T.text = "O pure Mother, you conceived the Father's Word, Who beyond words was united to the flesh. Christina obtained the glory of martyrdom while desiring him."
 
-meMA.Ode3C11.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C11.ode = miscellanea_en_US_dedes.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode3C11.melody = he.h.m8_en_US_dedes.SyEiToStereoma.notmetered
 meMA.Ode3C11.incipit = "O glorious Christina, through created…"
 meMA.Ode3C11.text = "O glorious Christina, through created things you came to know the Creator while gazing at the heavens with your eyes and your mind."
 
-meMA.Ode3C12.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C12.ode = miscellanea_en_US_dedes.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode3C12.melody = he.h.m8_en_US_dedes.SyEiToStereoma.notmetered
 meMA.Ode3C12.incipit = "O venerable Virgin, you forsook…"
 meMA.Ode3C12.text = "O venerable Virgin, you forsook the penury of idols, since you had faith in the Lord as inalienable riches."
 
-meMA.Ode3C13.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C13.ode = miscellanea_en_US_dedes.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode3C13.melody = he.h.m8_en_US_dedes.SyEiToStereoma.notmetered
 meMA.Ode3C13.incipit = "O Martyr, you sang a…"
 meMA.Ode3C13.text = "O Martyr, you sang a hymn of thanksgiving unto Christ the Creator while you were painfully bound to a post and enduring scrapings."
 
-meMA.Ode3C1T.ode = misc_en_US_dedes.Ode3
-meMA.Ode3C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode3C1T.ode = miscellanea_en_US_dedes.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode3C1T.melody = he.h.m8_en_US_dedes.SyEiToStereoma.notmetered
 meMA.Ode3C1T.incipit = "O pure Lady, stay the…"
 meMA.Ode3C1T.text = "O pure Lady, stay the turmoil of my thoughts. O you who conceived Christ, end all the despondency of my soul."
 
-meMA.Ode3H.ode = misc_en_US_dedes.Ode3
-meMA.Ode3H.mode = misc_en_US_dedes.Mode8
+meMA.Ode3H.ode = miscellanea_en_US_dedes.misc.Ode3
+meMA.Ode3H.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode3H.melody = he.h.m8_en_US_dedes.SyEiToStereoma.melody
 meMA.Ode3H.incipit = he.h.m8_en_US_dedes.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_US_dedes.SyEiToStereoma.text
 
-meMA.Ode3Kathisma1.mode = misc_en_US_dedes.Mode1
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode1
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "O praiseworthy Martyr Saint Christina…"
 meMA.Ode3Kathisma1.text = "O praiseworthy Martyr Saint Christina, with longing you brought your blood, like fragrant ointment in a vessel, to Christ your Bridegroom; and you received from Him in return an unfading crown, and the grace of healing and of driving off hoards of demons by the might of the Spirit."
 
-meMA.Ode3KathismaT.mode = misc_en_US_dedes.Mode1
+meMA.Ode3KathismaT.mode = miscellanea_en_US_dedes.misc.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.notmetered
 meMA.Ode3KathismaT.incipit = me.m07.d08_en_US_dedes.meMA.Ode3KathismaT.incipit
 meMA.Ode3KathismaT.text = me.m07.d08_en_US_dedes.meMA.Ode3KathismaT.text
 
-meMA.Ode3KathismaSt.mode = misc_en_US_dedes.Mode1
+meMA.Ode3KathismaSt.mode = miscellanea_en_US_dedes.misc.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.notmetered
 meMA.Ode3KathismaSt.incipit = me.m07.d08_en_US_dedes.meMA.Ode3KathismaSt.incipit
 meMA.Ode3KathismaSt.text = me.m07.d08_en_US_dedes.meMA.Ode3KathismaSt.text
 
-meMA.Ode4C11.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C11.ode = miscellanea_en_US_dedes.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode4C11.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.notmetered
 meMA.Ode4C11.incipit = "O Martyr, namesake of Christ…"
 meMA.Ode4C11.text = "O Martyr, namesake of Christ, you did delight in the scourgings, because you were sweetened with divine visions of your Bridegroom and had your gaze fixed upon His beauty."
 
-meMA.Ode4C12.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C12.ode = miscellanea_en_US_dedes.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode4C12.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.notmetered
 meMA.Ode4C12.incipit = "O Christina, your miserable and…"
 meMA.Ode4C12.text = "O Christina, your miserable and utterly godless father threatened you with horrible torments, because he was unable to endure your longing for Christ."
 
-meMA.Ode4C13.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C13.ode = miscellanea_en_US_dedes.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode4C13.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.notmetered
 meMA.Ode4C13.incipit = "O Martyr, in your sufferings…"
 meMA.Ode4C13.text = "O Martyr, in your sufferings, you did cry: Wounded with longing for Your love, I have cleaved after You. Show me to be a victor. Your countenance shone with the beauty and gladness of divine glory, because it was made bright with the beautifying luminations of contests."
 
-meMA.Ode4C1T.ode = misc_en_US_dedes.Ode4
-meMA.Ode4C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode4C1T.ode = miscellanea_en_US_dedes.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode4C1T.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.notmetered
 meMA.Ode4C1T.incipit = "O Theotokos ever-virgin Mother, Esaias…"
 meMA.Ode4C1T.text = "O Theotokos ever-virgin Mother, Esaias, glorious among the Prophets, in ancient times called you a rod that bare the Lord as a flower."
 
-meMA.Ode5C11.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C11.ode = miscellanea_en_US_dedes.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode5C11.melody = he.h.m8_en_US_dedes.OrthrizontesVoomenSoi.notmetered
 meMA.Ode5C11.incipit = "O Martyr, because you had…"
 meMA.Ode5C11.text = "O Martyr, because you had become as an Angel in the flesh, the heavenly Angels fed you the food of the Angels."
 
-meMA.Ode5C12.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C12.ode = miscellanea_en_US_dedes.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode5C12.melody = he.h.m8_en_US_dedes.OrthrizontesVoomenSoi.notmetered
 meMA.Ode5C12.incipit = "O Christina, Because you did…"
 meMA.Ode5C12.text = "O Christina, Because you did not deny the Rock of Life, your enemies bound you to a rock and cast you into the water."
 
-meMA.Ode5C13.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C13.ode = miscellanea_en_US_dedes.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode5C13.melody = he.h.m8_en_US_dedes.OrthrizontesVoomenSoi.notmetered
 meMA.Ode5C13.incipit = "You came to rest with…"
 meMA.Ode5C13.text = "You came to rest with the Creator after you were caught up into the heights, flying like a dove on the pinions of the Divine Spirit."
 
-meMA.Ode5C1T.ode = misc_en_US_dedes.Ode5
-meMA.Ode5C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode5C1T.ode = miscellanea_en_US_dedes.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode5C1T.melody = he.h.m8_en_US_dedes.OrthrizontesVoomenSoi.notmetered
 meMA.Ode5C1T.incipit = "O pure Virgin, quicken me…"
 meMA.Ode5C1T.text = "O pure Virgin, quicken me who am dead in sin, for you gave birth to the sinless Life."
 
-meMA.Ode6C11.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C11.ode = miscellanea_en_US_dedes.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode6C11.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.notmetered
 meMA.Ode6C11.incipit = "O prizewinner, your heart was…"
 meMA.Ode6C11.text = "O prizewinner, your heart was charmed with the beauty of your most sweet Lover. While running after the His sufferings’ fragrance, you cried: I burn with longing for You, O King of all, and for Your love’s sake I am slaughtered."
 
-meMA.Ode6C12.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C12.ode = miscellanea_en_US_dedes.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode6C12.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.notmetered
 meMA.Ode6C12.incipit = "O Martyr, when your begetter…"
 meMA.Ode6C12.text = "O Martyr, when your begetter saw that you did love your Heavenly Father, he revealed his barbaric disposition and subjected you to manifold tortures; for the impious fellow did not know the limits of his own nature."
 
-meMA.Ode6C13.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C13.ode = miscellanea_en_US_dedes.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode6C13.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.notmetered
 meMA.Ode6C13.incipit = "O modest Martyr, you put…"
 meMA.Ode6C13.text = "O modest Martyr, you put forth flower as a lily in the valleys of the Martyrs, and as a sweet-smelling rose dropping the fragrant distillations of grace. You have made the hearts of the faithful to be fragrant, namesake of Christ and companion of the holy Angels."
 
-meMA.Ode6C1T.ode = misc_en_US_dedes.Ode6
-meMA.Ode6C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode6C1T.ode = miscellanea_en_US_dedes.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode6C1T.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.notmetered
 meMA.Ode6C1T.incipit = "O Virgin, the God-proclaiming Prophets…"
 meMA.Ode6C1T.text = "O Virgin, the God-proclaiming Prophets, perceiving the depth of the mystery concerning you and illuminated from afar with the Divine Spirit, prophetically declared beforehand that you would become the very Mother of the Master of all."
 
-meMA.Ode6H.ode = misc_en_US_dedes.Ode6
-meMA.Ode6H.mode = misc_en_US_dedes.Mode8
+meMA.Ode6H.ode = miscellanea_en_US_dedes.misc.Ode6
+meMA.Ode6H.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode6H.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.melody
 meMA.Ode6H.incipit = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.TinDeisinEkcheo.text
 
-meMA.Kontakion1.mode = misc_en_US_dedes.Mode4
+meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.notmetered
 meMA.Kontakion1.incipit = "O DOVE of golden wings…"
 meMA.Kontakion1.text = "O DOVE of golden wings, you shone like lightning, * and flew up unto the height of the Heavens, * august Christina; therefore we all celebrate * your glorious festival, * as we faithfully rev'rence * the worshipful shrine wherein * your pure relics are treasured, * whence you do truly well forth unto all * divine cures both for the body and for the soul."
 
-meMA.Ode7C11.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C11.ode = miscellanea_en_US_dedes.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode7C11.melody = he.h.m8_en_US_dedes.PaidesEvraion.notmetered
 meMA.Ode7C11.incipit = "You cried out a hymn…"
 meMA.Ode7C11.text = "You cried out a hymn to the Benefactor of all while abiding in the blustering fire. He bedewed your heart: Blessed are You, O Lord God, unto the ages."
 
-meMA.Ode7C12.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C12.ode = miscellanea_en_US_dedes.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode7C12.melody = he.h.m8_en_US_dedes.PaidesEvraion.notmetered
 meMA.Ode7C12.incipit = "O virgin, you gave no…"
 meMA.Ode7C12.text = "O virgin, you gave no thought to your members as they were burned, and because you longed to attain unto God alone, you did not deny Christ as you sang: Blessed are You, O Lord God, unto the ages."
 
-meMA.Ode7C13.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C13.ode = miscellanea_en_US_dedes.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode7C13.melody = he.h.m8_en_US_dedes.PaidesEvraion.notmetered
 meMA.Ode7C13.incipit = "O Virgin Martyr, you dried…"
 meMA.Ode7C13.text = "O Virgin Martyr, you dried up the streams of idol-madness with the showers of your blood; and now you end the burning heat of sufferings by showering down seas of healings."
 
-meMA.Ode7C1T.ode = misc_en_US_dedes.Ode7
-meMA.Ode7C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode7C1T.ode = miscellanea_en_US_dedes.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode7C1T.melody = he.h.m8_en_US_dedes.PaidesEvraion.notmetered
 meMA.Ode7C1T.incipit = "O Virgin, you conceived God…"
 meMA.Ode7C1T.text = "O Virgin, you conceived God beyond nature by rising above the laws of nature in your divine conception, and you cried: Blessed are You, O Lord God, unto the ages."
 
-meMA.Ode8C11.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C11.ode = miscellanea_en_US_dedes.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode8C11.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.notmetered
 meMA.Ode8C11.incipit = "O Martyr, you sailed through…"
 meMA.Ode8C11.text = "O Martyr, you sailed through the raging sea of temptations and torments unharmed with divine helmsmanship. You drowned the serpent in the deep of your struggles; wherefore, you have reached the waveless havens of Paradise, and you cry out: Bless Christ, O you priests, and supremely exalt Him, O you people, unto the ages."
 
-meMA.Ode8C12.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C12.ode = miscellanea_en_US_dedes.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode8C12.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.notmetered
 meMA.Ode8C12.incipit = "O Christina, you slew the…"
 meMA.Ode8C12.text = "O Christina, you slew the subtle serpent with your quickening struggles. With the charm of your prayers you put wild beasts to sleep, remaining unharmed by them, while singing unto the Creator: Bless Christ, O you children; praise Him, O you priests; and supremely exalt Him, O you people, unto the ages."
 
-meMA.Ode8C13.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C13.ode = miscellanea_en_US_dedes.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode8C13.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.notmetered
 meMA.Ode8C13.incipit = "O prizewinning Martyr, you raised…"
 meMA.Ode8C13.text = "O prizewinning Martyr, you raised up him with a living word who had died from the bites of poisonous serpents, because Christ, Who trampled down death by His divine burial, hearkened unto your prayers, O Christina. You continually cry unto Him: Bless Christ, O you priests, and supremely exalt Him, O you people, unto the ages."
 
-meMA.Ode8C1T.ode = misc_en_US_dedes.Ode8
-meMA.Ode8C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode8C1T.ode = miscellanea_en_US_dedes.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode8C1T.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.notmetered
 meMA.Ode8C1T.incipit = "O ever-Virgin, mighty help of…"
 meMA.Ode8C1T.text = "O ever-Virgin, mighty help of the faithful, rescue me from the error of the deceitful dragon that wars against me vehemently and seeks to lay me low. You are the unerring guide of them that hope on you and cry without ceasing: Supremely exalt Christ, O you people, unto the ages."
 
-meMA.Ode8H.ode = misc_en_US_dedes.Ode8
-meMA.Ode8H.mode = misc_en_US_dedes.Mode8
+meMA.Ode8H.ode = miscellanea_en_US_dedes.misc.Ode8
+meMA.Ode8H.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode8H.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.melody
 meMA.Ode8H.incipit = he.h.m8_en_US_dedes.EptaplasiosKaminon.incipit
 meMA.Ode8H.text = he.h.m8_en_US_dedes.EptaplasiosKaminon.text
 
-meMA.Ode9C11.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C11.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C11.ode = miscellanea_en_US_dedes.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode9C11.melody = he.h.m8_en_US_dedes.KyriosTheotokon.notmetered
 meMA.Ode9C11.incipit = "O Christina, much-contending Martyr, you…"
 meMA.Ode9C11.text = "O Christina, much-contending Martyr, you have been deemed worthy to look upon your Bridegroom, because you are beautifully adorned and flashing like lightning with the garments of martyrdom."
 
-meMA.Ode9C12.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C12.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C12.ode = miscellanea_en_US_dedes.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode9C12.melody = he.h.m8_en_US_dedes.KyriosTheotokon.notmetered
 meMA.Ode9C12.incipit = "Christ, Who is fair in…"
 meMA.Ode9C12.text = "Christ, Who is fair in beauty above all, loved your fair beauty. He has vouchsafed the heavenly bridal chambers for you."
 
-meMA.Ode9C13.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C13.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C13.ode = miscellanea_en_US_dedes.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode9C13.melody = he.h.m8_en_US_dedes.KyriosTheotokon.notmetered
 meMA.Ode9C13.incipit = "O glorious Christina, you have…"
 meMA.Ode9C13.text = "O glorious Christina, you have been united to the incorporeal choirs. You have been ranked with the company of athletes. On our behalf, you beseech the All-compassionate."
 
-meMA.Ode9C14.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C14.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C14.ode = miscellanea_en_US_dedes.misc.Ode9
+meMA.Ode9C14.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode9C14.melody = he.h.m8_en_US_dedes.KyriosTheotokon.notmetered
 meMA.Ode9C14.incipit = "O Christina, your memorial has…"
 meMA.Ode9C14.text = "O Christina, your memorial has appeared brighter than the sun. It illuminates them that honour you with the beams of the gifts of the Spirit."
 
-meMA.Ode9C1T.ode = misc_en_US_dedes.Ode9
-meMA.Ode9C1T.mode = misc_en_US_dedes.Mode8
+meMA.Ode9C1T.ode = miscellanea_en_US_dedes.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode9C1T.melody = he.h.m8_en_US_dedes.KyriosTheotokon.notmetered
 meMA.Ode9C1T.incipit = "O Virgin, who loves what…"
 meMA.Ode9C1T.text = "O Virgin, who loves what is good, make my soul good, though it is become evil through sins. By your intercessions, rescue me from the eternal flame."
 
-meMA.Ode9H.ode = misc_en_US_dedes.Ode9
-meMA.Ode9H.mode = misc_en_US_dedes.Mode8
+meMA.Ode9H.ode = miscellanea_en_US_dedes.misc.Ode9
+meMA.Ode9H.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode9H.melody = he.h.m8_en_US_dedes.KyriosTheotokon.melody
 meMA.Ode9H.incipit = he.h.m8_en_US_dedes.KyriosTheotokon.incipit
 meMA.Ode9H.text = he.h.m8_en_US_dedes.KyriosTheotokon.text
 
-meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode3
+meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
 meMA.Exaposteilarion1.incipit = "We dutifully honor you, *…"
 meMA.Exaposteilarion1.text = "We dutifully honor you, * holy Martyr Christina, * for you became the Master's * useful and precious vessel. * And also for the martyrs all * truly you were pride and joy, * the glory of virgin maidens; * you were also shown to be * a great healer sent from God * for innocent babes and infants."
 
-meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode3
+meMA.ExapTheotokion.mode = miscellanea_en_US_dedes.misc.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_dedes.EnPnevmatiToIero.name
 meMA.ExapTheotokion.incipit = "The orders of the Bodiless…"
 meMA.ExapTheotokion.text = "The orders of the Bodiless * gaily honor your childbirth. * For among women only you * filled the earth with rejoicing. * We faithful therefore glorify * you the pure and blameless maid; * with hymns we sing your glory; * for to those in the darkness * you shone forth the light of day, * yourself shining like the morning."
 
-meMA.Lauds1.poet = poets_en_US_dedes.Vyzantiou
-meMA.Lauds1.mode = misc_en_US_dedes.Mode4
+meMA.Lauds1.poet = poets_en_US_dedes.po.Vyzantiou
+meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode4
 meMA.Lauds1.melody = ""
 meMA.Lauds1.incipit = "O Christ, we glorify Your…"
 meMA.Lauds1.text = "O Christ, we glorify Your great compassion and goodness, which You have bestowed on us; for even women destroyed the error and madness of idolatry by the power of Your Cross, O Lover of humanity. They were not frightened by a tyrant; they trampled on the crafty one. They had the strength to follow You; they ran after You for the smell of Your ointments, and they intercede for our souls."
 
-meMA.Lauds2.mode = misc_en_US_dedes.Mode4
+meMA.Lauds2.mode = miscellanea_en_US_dedes.misc.Mode4
 meMA.Lauds2.melody = ""
 meMA.Lauds2.incipit = "Leaving her father's wealth, and…"
 meMA.Lauds2.text = "Leaving her father's wealth, and desiring Christ sincerely, the Martyr found heavenly glory and riches; and protected by the full armor of grace, she trampled the tyrant by the power of the Cross. Angels admired her struggles, saying \"The enemy has fallen, defeated by a woman; the Martyr is proven a crowned victor, and Christ reigns to the ages as God, who grants His great mercy to the world.\""
 
-meMA.Lauds3.mode = misc_en_US_dedes.Mode4
+meMA.Lauds3.mode = miscellanea_en_US_dedes.misc.Mode4
 meMA.Lauds3.melody = ""
 meMA.Lauds3.incipit = "The power of Your Cross…"
 meMA.Lauds3.text = "The power of Your Cross has worked wonders, O Christ; for Christina, the Martyr, has undergone her athletic contest. She threw aside the weakness of her nature and bravely confronted the tyrants. Therefore, she received the trophies of victory, and she intercedes for our souls."
 
-meMA.Lauds4.mode = misc_en_US_dedes.Mode4
+meMA.Lauds4.mode = miscellanea_en_US_dedes.misc.Mode4
 meMA.Lauds4.melody = ""
 meMA.Lauds4.incipit = "Clutching a Cross as a…"
 meMA.Lauds4.text = "Clutching a Cross as a powerful weapon, O Martyr Christina, and with faith as a breastplate, hope as a shield, and love as a bow, you manfully overcame the tortures of the tyrants. Inspired by God, you destroyed the demons' trickery; and your head being severed, you now celebrate in Christ, and you unceasingly intercede for our souls."
 
-meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
+meMA.LaudsGlory.mode = miscellanea_en_US_dedes.misc.Mode5
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = "When Christ the King of…"
 meMA.LaudsGlory.text = "When Christ the King of Glory was enamored of your virginal beauty, He wed you as a blameless bride to himself, in an immaculate union. In His will, He granted you beauty and power, and He made you invincible against enemies and passions. When you had endured bitter torments and most painful tortures, He doubly crowned you with a double crown, and He stood you at His right hand, as a queen in embroidered apparel. O Virgin-martyr Christina, earnestly entreat Him, to give salvation and life and great mercy to us who extol you."
 
 meMA.MM.Lauds1234as5678.text = properties_en_US_dedes.media.key
 
-meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
+meMA.LaudsTheotokion.mode = miscellanea_en_US_dedes.misc.Mode5
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.incipit = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.incipit
 meMA.LaudsTheotokion.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
-meMA.LaudsStavrotheotokion.mode = misc_en_US_dedes.Mode5
+meMA.LaudsStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode5
 meMA.LaudsStavrotheotokion.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
 meMA.LaudsStavrotheotokion.incipit = "…"
 meMA.LaudsStavrotheotokion.text = ""
 
-meMA.AposGlory.poet = poets_en_US_dedes.Kyprianou
-meMA.AposGlory.mode = misc_en_US_dedes.Mode1
+meMA.AposGlory.poet = poets_en_US_dedes.po.Kyprianou
+meMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode1
 meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "O glorious Christina, extolled by…"
 meMA.AposGlory.text = "O glorious Christina, extolled by all, when in your longing for Christ you departed the world, you were numbered among the ranks on high. And now, you entreat Him to grant us the great mercy."
 
-meMA.AposTheotokion.mode = misc_en_US_dedes.Mode1
+meMA.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode1
 meMA.AposTheotokion.melody = ""
 meMA.AposTheotokion.incipit = oc.m1.d3_en_US_dedes.ocVE.AposTheotokion.incipit
 meMA.AposTheotokion.text = oc.m1.d3_en_US_dedes.ocVE.AposTheotokion.text
 
-meMA.AposStavrotheotokion.mode = misc_en_US_dedes.Mode1
+meMA.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode1
 meMA.AposStavrotheotokion.melody = he.a.m1_en_US_dedes.PaneffimoiMartyres.name
 meMA.AposStavrotheotokion.incipit = oc.m1.d4_en_US_dedes.ocVE.AposTheotokion.incipit
 meMA.AposStavrotheotokion.text = oc.m1.d4_en_US_dedes.ocVE.AposTheotokion.text
