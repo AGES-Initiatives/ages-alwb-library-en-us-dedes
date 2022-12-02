@@ -13,22 +13,22 @@ R02 = "Then \"God is the Lord\" is sung four times, with or without the verses."
 R03 = ""
 
 hoCA.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
-hoCA.Apolytikion1.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+hoCA.Apolytikion1.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 hoCA.Apolytikion1.incipit = "We the believers, knowing you…"
 hoCA.Apolytikion1.text = "We the believers, knowing you as a well-spring * of sweetest fragrance, now with heartfelt repentance * approach your reliquary, as we venerate and pray: * Lady, free us from the stench of our sins and offences, * as you pour upon us all the inexhaustible perfume, * in streams emitted by the sacred case * that holds the treasure of your all-holy precious Belt."
 
 hoCA.Apolytikion2.mode = miscellanea_en_US_dedes.misc.Mode4
-hoCA.Apolytikion2.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+hoCA.Apolytikion2.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 hoCA.Apolytikion2.incipit = "Lady, your Icon, which we…"
 hoCA.Apolytikion2.text = "Lady, your Icon, which we call Vimatarissa, * also the relic of the life-giving Cross of Christ, * and even a lit candle, were recovered from the well * at the Monastery of Vatopedi on Athos, * famously in times of old. And today, O pure Virgin, * we pray you keep the Holy Mountain safe, * as you protect us who lovingly honor you."
 
 hoCA.Apolytikion3.mode = miscellanea_en_US_dedes.misc.Mode4
-hoCA.Apolytikion3.melody = he.a.m4_en_US_dedes.OYpsotheisEnToStavro.name
+hoCA.Apolytikion3.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 hoCA.Apolytikion3.incipit = ho.s23_en_US_dedes.hoCA.Apolytikion2.incipit
 hoCA.Apolytikion3.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
 
 hoCA.Apolytikion4.mode = miscellanea_en_US_dedes.misc.Mode4
-hoCA.Apolytikion4.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
+hoCA.Apolytikion4.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
 hoCA.Apolytikion4.incipit = "…"
 hoCA.Apolytikion4.text = ""
 
@@ -41,68 +41,68 @@ hoCA.verse = prayers_en_US_dedes.pr.verse_Theotokos.text
 hoCA.Ode1H.ode = miscellanea_en_US_dedes.misc.Ode1
 hoCA.Ode1H.mode = miscellanea_en_US_dedes.misc.Mode8
 hoCA.Ode1H.melody = miscellanea_en_US_dedes.misc.Heirmos
-hoCA.Ode1H.incipit = he.h.m8_en_US_dedes.YgranDiodefsas.incipit
-hoCA.Ode1H.text = he.h.m8_en_US_dedes.YgranDiodefsas.text
+hoCA.Ode1H.incipit = he.h.m8_en_US_dedes.heHE.YgranDiodefsas.incipit
+hoCA.Ode1H.text = he.h.m8_en_US_dedes.heHE.YgranDiodefsas.text
 
 R06 = "This first troparion was composed in English and added by the translator. It serves to identify the name of the icon in Greek and in English. It may be omitted."
 
 hoCA.Ode10.ode = miscellanea_en_US_dedes.misc.Ode1
 hoCA.Ode10.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode10.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+hoCA.Ode10.melody = he.h.m8_en_US_dedes.heHE.YgranDiodefsas.name
 hoCA.Ode10.incipit = "We pray to you, Mother…"
 hoCA.Ode10.text = "We pray to you, Mother of Christ our God, * honoring your icons that were painted throughout world. * And this one, \"Our Lady of the Vima,\" * is on Mt. Athos and named: \"Vimatarissa.\""
 
 hoCA.Ode11.ode = miscellanea_en_US_dedes.misc.Ode1
 hoCA.Ode11.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode11.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+hoCA.Ode11.melody = he.h.m8_en_US_dedes.heHE.YgranDiodefsas.name
 hoCA.Ode11.incipit = "O pure Virgin Mary, I…"
 hoCA.Ode11.text = "O pure Virgin Mary, I pray you grant * me, your humble servant, your permission and grace to praise * your icon, Our Lady of the Vima, * which by a great many wonders you glorified."
 
 hoCA.Ode12.ode = miscellanea_en_US_dedes.misc.Ode1
 hoCA.Ode12.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode12.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+hoCA.Ode12.melody = he.h.m8_en_US_dedes.heHE.YgranDiodefsas.name
 hoCA.Ode12.incipit = "O Virgin, I pray you…"
 hoCA.Ode12.text = "O Virgin, I pray you relieve my soul * from base and mundane preoccupations that weigh it down. * O all-holy Lady of the Vima, * you reconcile us humans to God your Son."
 
 hoCA.Ode13.ode = miscellanea_en_US_dedes.misc.Ode1
 hoCA.Ode13.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode13.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+hoCA.Ode13.melody = he.h.m8_en_US_dedes.heHE.YgranDiodefsas.name
 hoCA.Ode13.incipit = "Lady of the Vima and…"
 hoCA.Ode13.text = "Lady of the Vima and Queen of all, * the Archangel spoke and you ineffably then conceived * the Lord of the Angels and their Master, * who has exalted you higher than all their hosts."
 
 hoCA.Ode14.ode = miscellanea_en_US_dedes.misc.Ode1
 hoCA.Ode14.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode14.melody = he.h.m8_en_US_dedes.YgranDiodefsas.name
+hoCA.Ode14.melody = he.h.m8_en_US_dedes.heHE.YgranDiodefsas.name
 hoCA.Ode14.incipit = "The ladder that Jacob of…"
 hoCA.Ode14.text = "The ladder that Jacob of old beheld * in a dream ascending into heaven serves as a type * of your birth, O Lady of the Vima: * Through you exalted was Adam and all mankind."
 
 hoCA.Ode3H.ode = miscellanea_en_US_dedes.misc.Ode3
 hoCA.Ode3H.mode = miscellanea_en_US_dedes.misc.Mode8
 hoCA.Ode3H.melody = miscellanea_en_US_dedes.misc.Heirmos
-hoCA.Ode3H.incipit = he.h.m8_en_US_dedes.OuraniasApsidos.incipit
-hoCA.Ode3H.text = he.h.m8_en_US_dedes.OuraniasApsidos.text
+hoCA.Ode3H.incipit = he.h.m8_en_US_dedes.heHE.OuraniasApsidos.incipit
+hoCA.Ode3H.text = he.h.m8_en_US_dedes.heHE.OuraniasApsidos.text
 
 hoCA.Ode31.ode = miscellanea_en_US_dedes.misc.Ode3
 hoCA.Ode31.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode31.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+hoCA.Ode31.melody = he.h.m8_en_US_dedes.heHE.OuraniasApsidos.name
 hoCA.Ode31.incipit = "Long ago, O pure Virgin…"
 hoCA.Ode31.text = "Long ago, O pure Virgin, the Prophet Moses beheld * on Sinai the bush that was burning and yet was not consumed, * and this prefigured you, O Theotokos; and therefore * we extol you, O all-holy Vimatarissa."
 
 hoCA.Ode32.ode = miscellanea_en_US_dedes.misc.Ode3
 hoCA.Ode32.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode32.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+hoCA.Ode32.melody = he.h.m8_en_US_dedes.heHE.OuraniasApsidos.name
 hoCA.Ode32.incipit = "You are known as the…"
 hoCA.Ode32.text = "You are known as the gate of salvation, and bridge to God, * as the virgin land that produced Life as if an ear of grain, * the bed of Solomon, the pride and joy of the faithful, * Queen of all, O Panagia Vimatarissa."
 
 hoCA.Ode33.ode = miscellanea_en_US_dedes.misc.Ode3
 hoCA.Ode33.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode33.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+hoCA.Ode33.melody = he.h.m8_en_US_dedes.heHE.OuraniasApsidos.name
 hoCA.Ode33.incipit = "We see you as the…"
 hoCA.Ode33.text = "We see you as the vessel that held the Lord like perfume, *  as the shrine of God who is good and descended from on high, * and as the manna jar that held the true Bread from heaven, * O all-lauded Lady, holy Vimatarissa."
 
 hoCA.Ode34.ode = miscellanea_en_US_dedes.misc.Ode3
 hoCA.Ode34.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode34.melody = he.h.m8_en_US_dedes.OuraniasApsidos.name
+hoCA.Ode34.melody = he.h.m8_en_US_dedes.heHE.OuraniasApsidos.name
 hoCA.Ode34.incipit = "You are likened, O Lady…"
 hoCA.Ode34.text = "You are likened, O Lady, to the impassable gate * and the bridal room of the One who, before the morning star, * ineffably shone forth from God the Father unmothered, * and lately became a man from you, O Virgin pure."
 
@@ -119,97 +119,97 @@ hoCA.Troparion32.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
 //R07
 
 hoCA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode2
-hoCA.Kathisma11.melody = he.a.m2_en_US_dedes.TaAnoZiton.name
+hoCA.Kathisma11.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
 hoCA.Kathisma11.incipit = ho.s23_en_US_dedes.hoCA.Kathisma11.incipit
 hoCA.Kathisma11.text = ho.s23_en_US_dedes.hoCA.Kathisma11.text
 
 hoCA.Ode4H.ode = miscellanea_en_US_dedes.misc.Ode4
 hoCA.Ode4H.mode = miscellanea_en_US_dedes.misc.Mode8
 hoCA.Ode4H.melody = miscellanea_en_US_dedes.misc.Heirmos
-hoCA.Ode4H.incipit = he.h.m8_en_US_dedes.EisakikoaKyrie.incipit
-hoCA.Ode4H.text = he.h.m8_en_US_dedes.EisakikoaKyrie.text
+hoCA.Ode4H.incipit = he.h.m8_en_US_dedes.heHE.EisakikoaKyrie.incipit
+hoCA.Ode4H.text = he.h.m8_en_US_dedes.heHE.EisakikoaKyrie.text
 
 hoCA.Ode41.ode = miscellanea_en_US_dedes.misc.Ode4
 hoCA.Ode41.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode41.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+hoCA.Ode41.melody = he.h.m8_en_US_dedes.heHE.EisakikoaKyrie.name
 hoCA.Ode41.incipit = "You were seen as a…"
 hoCA.Ode41.text = "You were seen as a great new book * of old by Isaiah, for by the finger of God * was the Logos inscribed in you, * Virgin Theotokos Vimatarissa."
 
 hoCA.Ode42.ode = miscellanea_en_US_dedes.misc.Ode4
 hoCA.Ode42.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode42.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+hoCA.Ode42.melody = he.h.m8_en_US_dedes.heHE.EisakikoaKyrie.name
 hoCA.Ode42.incipit = "The divine Prophet Daniel saw…"
 hoCA.Ode42.text = "The divine Prophet Daniel saw * you, the uncut mountain, O Virgin, and foretold * the ineffable and mystic height * of your childbirth, O Vimatarissa."
 
 hoCA.Ode43.ode = miscellanea_en_US_dedes.misc.Ode4
 hoCA.Ode43.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode43.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+hoCA.Ode43.melody = he.h.m8_en_US_dedes.heHE.EisakikoaKyrie.name
 hoCA.Ode43.incipit = "When the rod of Aaron…"
 hoCA.Ode43.text = "When the rod of Aaron the great * sprouted long ago, bearing almonds, it described * you, O Virgin Vimatarissa, * who would bear the Master who makes nature new."
 
 hoCA.Ode44.ode = miscellanea_en_US_dedes.misc.Ode4
 hoCA.Ode44.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode44.melody = he.h.m8_en_US_dedes.EisakikoaKyrie.name
+hoCA.Ode44.melody = he.h.m8_en_US_dedes.heHE.EisakikoaKyrie.name
 hoCA.Ode44.incipit = "Prophet Joel of old foresaw…"
 hoCA.Ode44.text = "Prophet Joel of old foresaw * portents on the earth, which as God revealed to us * who believe, point to the mysteries * of your pregnancy, O Vimatarissa."
 
 hoCA.Ode5H.ode = miscellanea_en_US_dedes.misc.Ode5
 hoCA.Ode5H.mode = miscellanea_en_US_dedes.misc.Mode8
 hoCA.Ode5H.melody = miscellanea_en_US_dedes.misc.Heirmos
-hoCA.Ode5H.incipit = he.h.m8_en_US_dedes.FotisonImas.incipit
-hoCA.Ode5H.text = he.h.m8_en_US_dedes.FotisonImas.text
+hoCA.Ode5H.incipit = he.h.m8_en_US_dedes.heHE.FotisonImas.incipit
+hoCA.Ode5H.text = he.h.m8_en_US_dedes.heHE.FotisonImas.text
 
 hoCA.Ode51.ode = miscellanea_en_US_dedes.misc.Ode5
 hoCA.Ode51.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode51.melody = he.h.m8_en_US_dedes.FotisonImas.name
+hoCA.Ode51.melody = he.h.m8_en_US_dedes.heHE.FotisonImas.name
 hoCA.Ode51.incipit = "You in every way *…"
 hoCA.Ode51.text = "You in every way * are most holy, Vimatarissa, * in your Icon, in your body and your soul. * O Virgin, save me your servant from calamities."
 
 hoCA.Ode52.ode = miscellanea_en_US_dedes.misc.Ode5
 hoCA.Ode52.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode52.melody = he.h.m8_en_US_dedes.FotisonImas.name
+hoCA.Ode52.melody = he.h.m8_en_US_dedes.heHE.FotisonImas.name
 hoCA.Ode52.incipit = "When the sacristan * of…"
 hoCA.Ode52.text = "When the sacristan * of your monastery, Virgin pure, * heard the band of pirates at the very gates, * he contemplated hiding your Icon to keep it safe."
 
 hoCA.Ode53.ode = miscellanea_en_US_dedes.misc.Ode5
 hoCA.Ode53.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode53.melody = he.h.m8_en_US_dedes.FotisonImas.name
+hoCA.Ode53.melody = he.h.m8_en_US_dedes.heHE.FotisonImas.name
 hoCA.Ode53.incipit = "Then he raised the eyes…"
 hoCA.Ode53.text = "Then he raised the eyes * of his mind and he entreated you, * O our Lady of the Vima, that one day * he might again see your Icon divinely glorified."
 
 hoCA.Ode54.ode = miscellanea_en_US_dedes.misc.Ode5
 hoCA.Ode54.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode54.melody = he.h.m8_en_US_dedes.FotisonImas.name
+hoCA.Ode54.melody = he.h.m8_en_US_dedes.heHE.FotisonImas.name
 hoCA.Ode54.incipit = "And with ardent tears, *…"
 hoCA.Ode54.text = "And with ardent tears, * he implored you and he cried aloud, * \"Panagia Vimatarissa, I pray * that you save us from these wolves and bloodthirsty animals.\""
 
 hoCA.Ode6H.ode = miscellanea_en_US_dedes.misc.Ode6
 hoCA.Ode6H.mode = miscellanea_en_US_dedes.misc.Mode8
 hoCA.Ode6H.melody = miscellanea_en_US_dedes.misc.Heirmos
-hoCA.Ode6H.incipit = he.h.m8_en_US_dedes.TinDeisinEkcheo.incipit
-hoCA.Ode6H.text = he.h.m8_en_US_dedes.TinDeisinEkcheo.text
+hoCA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.incipit
+hoCA.Ode6H.text = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.text
 
 hoCA.Ode61.ode = miscellanea_en_US_dedes.misc.Ode6
 hoCA.Ode61.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode61.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode61.melody = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.name
 hoCA.Ode61.incipit = "O Lady, all-lauded Vimatarissa, *…"
 hoCA.Ode61.text = "O Lady, all-lauded Vimatarissa, * the entire horde of barbarous pirates * converged like dogs on your flock of monastics, * wreaking destruction and rounding them up like sheep. * The sacristan managed to hide * your miraculous Icon within the well."
 
 hoCA.Ode62.ode = miscellanea_en_US_dedes.misc.Ode6
 hoCA.Ode62.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode62.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode62.melody = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.name
 hoCA.Ode62.incipit = "That pious monk both extolled…"
 hoCA.Ode62.text = "That pious monk both extolled and implored you, * holy Virgin, as he hastily lowered * into the well of the Vima your Icon, * its burning candle, and Constantine's holy Cross. * Then shedding many bitter tears, * he secured it by sealing its opening."
 
 hoCA.Ode63.ode = miscellanea_en_US_dedes.misc.Ode6
 hoCA.Ode63.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode63.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode63.melody = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.name
 hoCA.Ode63.incipit = "O Virgin, our Lady Vimatarissa…"
 hoCA.Ode63.text = "O Virgin, our Lady Vimatarissa, * to redeem our entire human nature, * your Son went down to the bowels of Hades * and with himself resurrected the human race. * Now imitating Him, you dwell * in the waters of your sacred springs and wells."
 
 hoCA.Ode64.ode = miscellanea_en_US_dedes.misc.Ode6
 hoCA.Ode64.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode64.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.name
+hoCA.Ode64.melody = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.name
 hoCA.Ode64.incipit = "O Virgin, when you allowed…"
 hoCA.Ode64.text = "O Virgin, when you allowed your flock to be * taken captive, then your servant who hid you * was led away by the pirates and taken * against his will to the island of Crete to live, * O Vimatarissa, with much * tribulation for years as a prisoner."
 
@@ -226,127 +226,127 @@ hoCA.Troparion62.text = ho.s23_en_US_dedes.hoCA.Troparion62.text
 hoCA.Ode7H.ode = miscellanea_en_US_dedes.misc.Ode7
 hoCA.Ode7H.mode = miscellanea_en_US_dedes.misc.Mode8
 hoCA.Ode7H.melody = miscellanea_en_US_dedes.misc.Heirmos
-hoCA.Ode7H.incipit = he.h.m8_en_US_dedes.PaidesEvraion.incipit
-hoCA.Ode7H.text = he.h.m8_en_US_dedes.PaidesEvraion.text
+hoCA.Ode7H.incipit = he.h.m8_en_US_dedes.heHE.PaidesEvraion.incipit
+hoCA.Ode7H.text = he.h.m8_en_US_dedes.heHE.PaidesEvraion.text
 
 hoCA.Ode71.ode = miscellanea_en_US_dedes.misc.Ode7
 hoCA.Ode71.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode71.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+hoCA.Ode71.melody = he.h.m8_en_US_dedes.heHE.PaidesEvraion.name
 hoCA.Ode71.incipit = "Bitterly Rachel once lamented, *…"
 hoCA.Ode71.text = "Bitterly Rachel once lamented, * Vimatarissa, so did your monastery * at the loss of the monks, her children, who were taken * and slaughtered by barbarians, * brutish progeny of Hagar."
 
 hoCA.Ode72.ode = miscellanea_en_US_dedes.misc.Ode7
 hoCA.Ode72.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode72.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+hoCA.Ode72.melody = he.h.m8_en_US_dedes.heHE.PaidesEvraion.name
 hoCA.Ode72.incipit = "Seventy years after your servant…"
 hoCA.Ode72.text = "Seventy years after your servant * had been taken as a prisoner by pirates, * you provided for his deliverance and rescue * from exile and captivity, * O our Lady of the Vima."
 
 hoCA.Ode73.ode = miscellanea_en_US_dedes.misc.Ode7
 hoCA.Ode73.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode73.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+hoCA.Ode73.melody = he.h.m8_en_US_dedes.heHE.PaidesEvraion.name
 hoCA.Ode73.incipit = "Lady, you granted to your…"
 hoCA.Ode73.text = "Lady, you granted to your servant, * as a gift in his old age, that he be rescued * and that he should return to your great Monastery, * where he at once revealed to all * where he hid your holy Icon."
 
 hoCA.Ode74.ode = miscellanea_en_US_dedes.misc.Ode7
 hoCA.Ode74.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode74.melody = he.h.m8_en_US_dedes.PaidesEvraion.name
+hoCA.Ode74.melody = he.h.m8_en_US_dedes.heHE.PaidesEvraion.name
 hoCA.Ode74.incipit = "It was a Monday, at…"
 hoCA.Ode74.text = "It was a Monday, at the ninth hour, * when the pious monks assembled all together * in the church of your Monastery Vatopedi. * The elder ascertained the place * where your Icon had been hidden."
 
 hoCA.Ode8H.ode = miscellanea_en_US_dedes.misc.Ode8
 hoCA.Ode8H.mode = miscellanea_en_US_dedes.misc.Mode8
 hoCA.Ode8H.melody = miscellanea_en_US_dedes.misc.Heirmos
-hoCA.Ode8H.incipit = he.h.m8_en_US_dedes.EptaplasiosKaminon.incipit
-hoCA.Ode8H.text = he.h.m8_en_US_dedes.EptaplasiosKaminon.text
+hoCA.Ode8H.incipit = he.h.m8_en_US_dedes.heHE.EptaplasiosKaminon.incipit
+hoCA.Ode8H.text = he.h.m8_en_US_dedes.heHE.EptaplasiosKaminon.text
 
 hoCA.Ode81.ode = miscellanea_en_US_dedes.misc.Ode8
 hoCA.Ode81.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode81.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+hoCA.Ode81.melody = he.h.m8_en_US_dedes.heHE.EptaplasiosKaminon.name
 hoCA.Ode81.incipit = "The venerable elder called *…"
 hoCA.Ode81.text = "The venerable elder called * to the Abbot and all the monks * of your monastery, Lady Vimatarissa. * He said to them cheerfully, * \"Come in and sing Vespers as you do, * then the supplication canon to the pure Virgin, * and pray that she will show us a new amazing wonder;\" * which we today supremely exalt unto the ages."
 
 hoCA.Ode82.ode = miscellanea_en_US_dedes.misc.Ode8
 hoCA.Ode82.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode82.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+hoCA.Ode82.melody = he.h.m8_en_US_dedes.heHE.EptaplasiosKaminon.name
 hoCA.Ode82.incipit = "All-honored Vimatarissa, * when the…"
 hoCA.Ode82.text = "All-honored Vimatarissa, * when the holy old man beheld * where your sacred Icon had been hidden long ago, * he wept tears of joy and said * to the superior and to all, * \"Rev'rently remove the stone and pray to the Virgin * that, if she will, she show us the wonder of her Icon, * which has been called, 'Our Lady, the Monastery's Founder.'\""
 
 hoCA.Ode83.ode = miscellanea_en_US_dedes.misc.Ode8
 hoCA.Ode83.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode83.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+hoCA.Ode83.melody = he.h.m8_en_US_dedes.heHE.EptaplasiosKaminon.name
 hoCA.Ode83.incipit = "The holy Icon, which we…"
 hoCA.Ode83.text = "The holy Icon, which we call * Vimatarissa, brightly shone * like a new and brilliant sun, arising from the well * along with the candle that continued burning and the Cross, * and it cheered the fathers of the holy Mt. Athos. * With them we now sing praises: \"O you priests and you peoples, * extol the Theotokos supremely to the ages.\""
 
 hoCA.Ode84.ode = miscellanea_en_US_dedes.misc.Ode8
 hoCA.Ode84.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode84.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.name
+hoCA.Ode84.melody = he.h.m8_en_US_dedes.heHE.EptaplasiosKaminon.name
 hoCA.Ode84.incipit = "Come, priests and monks and…"
 hoCA.Ode84.text = "Come, priests and monks and laity, * Christians all, let us hasten now * to the church of the all-holy Vimatarissa; * and let us cry out to her * in song, \"O Virgin Mary, rejoice! * Of the King of all you are the glorious carriage, * of Christ who is the giver of life. And now entreat Him * to rescue us your servants from any harm, O Lady.\""
 
 hoCA.Ode9H.ode = miscellanea_en_US_dedes.misc.Ode9
 hoCA.Ode9H.mode = miscellanea_en_US_dedes.misc.Mode8
 hoCA.Ode9H.melody = miscellanea_en_US_dedes.misc.Heirmos
-hoCA.Ode9H.incipit = he.h.m8_en_US_dedes.ExestiEpiTouto.incipit
-hoCA.Ode9H.text = he.h.m8_en_US_dedes.ExestiEpiTouto.text
+hoCA.Ode9H.incipit = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.incipit
+hoCA.Ode9H.text = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.text
 
 hoCA.Ode91.ode = miscellanea_en_US_dedes.misc.Ode9
 hoCA.Ode91.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode91.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+hoCA.Ode91.melody = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.name
 hoCA.Ode91.incipit = "The luminous and radiant holy…"
 hoCA.Ode91.text = "The luminous and radiant holy day * of your feast has arrived in your monastery, spreading joy * to all those who faithfully celebrate * the miracles that your divine * Icon has performed by the grace of God, * O Lady, the protectress * and boast of Kings and Bishops, * your holy monastery's mighty wall."
 
 hoCA.Ode92.ode = miscellanea_en_US_dedes.misc.Ode9
 hoCA.Ode92.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode92.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+hoCA.Ode92.melody = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.name
 hoCA.Ode92.incipit = "Our Lady of the Vima…"
 hoCA.Ode92.text = "Our Lady of the Vima, you are the well * of the life-giving streams. We salute you, crying out: Rejoice! * You are quick to visit and to support * the elderly, the sick and blind. * You are the delight of monastics all, * their helper and protector. * You strengthen all the clergy. * You are the might of all the Orthodox."
 
 hoCA.Ode93.ode = miscellanea_en_US_dedes.misc.Ode9
 hoCA.Ode93.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode93.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+hoCA.Ode93.melody = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.name
 hoCA.Ode93.incipit = "Your holy shrine, O Virgin…"
 hoCA.Ode93.text = "Your holy shrine, O Virgin Mother of God, * imitates the adornments of heaven: it has your divine * Icon in the place of the morning star; * instead of all the other stars * are your bright and marvelous miracles. * The faithful all who fully * have benefited from them * now magnify you, Vimatarissa."
 
 hoCA.Ode94.ode = miscellanea_en_US_dedes.misc.Ode9
 hoCA.Ode94.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode94.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+hoCA.Ode94.melody = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.name
 hoCA.Ode94.incipit = "My thoughts and deeds, O…"
 hoCA.Ode94.text = "My thoughts and deeds, O Virgin, are all defiled, * even though I am translating hymns in honor of your pure * Icon, Vimatarissa. So I pray, * O Lady, that you purge me with * hyssop of your mercy; and even though * I am unworthy, save me, * confused and full of passions, * and pull me up from the abyss of sin."
 
 hoCA.Ode95.ode = miscellanea_en_US_dedes.misc.Ode9
 hoCA.Ode95.mode = miscellanea_en_US_dedes.misc.Mode8
-hoCA.Ode95.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.name
+hoCA.Ode95.melody = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.name
 hoCA.Ode95.incipit = "We faithfully abide by what…"
 hoCA.Ode95.text = "We faithfully abide by what the inspired * holy Fathers decreed, and we honor you and venerate * images of you with a sacred kiss, * the honor being relative, * as the wise St. Basil the Great once said: * The honor to the icon * goes to the one depicted, * O Panagia Vimatarissa."
 
 hoCA.Meg00.incipit = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.incipit
 hoCA.Meg00.text = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = miscellanea_en_US_dedes.misc.Heirmos
-hoCA.Meg01.incipit = he.h.m6_en_US_dedes.TinTimioteran.incipit
-hoCA.Meg01.text = he.h.m6_en_US_dedes.TinTimioteran.text
+hoCA.Meg01.incipit = he.h.m6_en_US_dedes.heHE.TinTimioteran.incipit
+hoCA.Meg01.text = he.h.m6_en_US_dedes.heHE.TinTimioteran.text
 
-hoCA.Meg02.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg02.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.name
 hoCA.Meg02.incipit = "Mighty Vimatarissa, we salute *…"
 hoCA.Meg02.text = "Mighty Vimatarissa, we salute * you who held divine fire, Christ our God, in your arms: Rejoice! * You protect and help and adorn the Monastery * of Vatopedi, therefore, we sing to you: Rejoice!"
 
-hoCA.Meg03.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg03.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.name
 hoCA.Meg03.incipit = "Lady of the Vima, I…"
 hoCA.Meg03.text = "Lady of the Vima, I sing to you * from a soul defiled, using words from the sacred Psalms. * Adorned in embroidered interwoven gold apparel, * and standing at His right hand, reign with the King of all!"
 
-hoCA.Meg04.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg04.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.name
 hoCA.Meg04.incipit = "Lady of the Vima, you…"
 hoCA.Meg04.text = "Lady of the Vima, you are the good * Mother of our God who is benevolent and humane. * Do good to my soul that has suffered many evils, * applying your consistent love for humanity."
 
-hoCA.Meg05.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg05.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.name
 hoCA.Meg05.incipit = "I have fallen into the…"
 hoCA.Meg05.text = "I have fallen into the deepest ditch * of sensual pleasure, lying down in the pit of sin. * Lady of the Vima, O Virgin Theotokos, * I earnestly entreat you, reach out and lift me up."
 
-hoCA.Meg06.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg06.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.name
 hoCA.Meg06.incipit = "Mother of the Light, I…"
 hoCA.Meg06.text = "Mother of the Light, I implore you now, * illumine the darkness of my thoughts, lest the frightful hour * of death overtake me, before I have repented; * and place me where the light is, O Vimatarissa."
 
 R08 = "[The Megalynarion of the local church], then:"
 
-hoCA.Meg0F.melody = he.h.m6_en_US_dedes.TinTimioteran.name
+hoCA.Meg0F.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.name
 hoCA.Meg0F.incipit = ho.s23_en_US_dedes.hoCA.Meg0F.incipit
 hoCA.Meg0F.text = ho.s23_en_US_dedes.hoCA.Meg0F.text
