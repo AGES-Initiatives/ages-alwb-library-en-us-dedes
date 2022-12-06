@@ -44,11 +44,11 @@ meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 meVE.SticStavrotheotokion.incipit = "As the all-pure Lady saw…"
 meVE.SticStavrotheotokion.text = "As the all-pure Lady saw her only Son being put to death, * as He put the devil to death, * maternally shedding tears * she wept and extolled Him, * born of her own body; * and as she marveled and admired * His great forbearance, she cried aloud and said, * \"O Lord who loves humanity, do not forget me Your handmaiden; * O my Child, for whom I long, * let my heartache be not prolonged.\""
 
-meVE.Apolytikion1.poet = poets_en_US_dedes.po.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
-meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
+meVE.Apolytikion1ger.poet = poets_en_US_dedes.po.Gerasimou
+meVE.Apolytikion1ger.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.Apolytikion1ger.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
+meVE.Apolytikion1ger.incipit = "…"
+meVE.Apolytikion1ger.text = ""
 
 meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
@@ -222,11 +222,11 @@ meMA.Ode6C1T.melody = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C1T.incipit = "O all-blameless Virgin, humanity has…"
 meMA.Ode6C1T.text = "O all-blameless Virgin, humanity has been saved from mortality and corruption; and  to Him, who by nature gives life, you gave birth without seed, for us who faithfully extol you."
 
-meMA.Kontakion1.poet = poets_en_US_dedes.po.Gerasimou
-meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode6
-meMA.Kontakion1.melody = he.a.m6_en_US_dedes.heAU.TinYperImon.name
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1ger.poet = poets_en_US_dedes.po.Gerasimou
+meMA.Kontakion1ger.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.Kontakion1ger.melody = he.a.m6_en_US_dedes.heAU.TinYperImon.name
+meMA.Kontakion1ger.incipit = "…"
+meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_dedes.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_dedes.misc.Mode8
@@ -318,10 +318,10 @@ meMA.Ode9C1T.melody = he.h.m8_en_US_dedes.heHE.KyriosTheotokon.notmetered
 meMA.Ode9C1T.incipit = "O immaculate Virgin, in His…"
 meMA.Ode9C1T.text = "O immaculate Virgin, in His compassion the Creator assumed our changeable nature from your womb, and He clothed it with the robe of incorruption."
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 

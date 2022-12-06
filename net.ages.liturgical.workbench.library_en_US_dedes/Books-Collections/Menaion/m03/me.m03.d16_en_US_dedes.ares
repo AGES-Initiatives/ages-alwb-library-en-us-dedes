@@ -44,17 +44,17 @@ meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.heAU.KyrieEiKaiKritirio.n
 meVE.SticStavrotheotokion.incipit = "Lord our God, You the…"
 meVE.SticStavrotheotokion.text = "Lord our God, You the Sun of Righteousness unjustly * were suspended upon a cross. * When the sun beheld You it shuddered, * and in horror it concealed its rays. * Likewise the moon changed its light * to darkness at the sight of You. * Your all-holy, blameless Mother * felt a piercing deep within her heart."
 
-meVE.Apolytikion1.poet = poets_en_US_dedes.po.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode1
-meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
+meVE.Apolytikion1ger.poet = poets_en_US_dedes.po.Gerasimou
+meVE.Apolytikion1ger.mode = miscellanea_en_US_dedes.misc.Mode1
+meVE.Apolytikion1ger.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
+meVE.Apolytikion1ger.incipit = "…"
+meVE.Apolytikion1ger.text = ""
 
-meVE.Apolytikion2.poet = poets_en_US_dedes.po.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_dedes.misc.Mode1
-meVE.Apolytikion2.melody = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.name
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
+meVE.Apolytikion2ger.poet = poets_en_US_dedes.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_en_US_dedes.misc.Mode1
+meVE.Apolytikion2ger.melody = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.name
+meVE.Apolytikion2ger.incipit = "…"
+meVE.Apolytikion2ger.text = ""
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -227,11 +227,11 @@ meMA.Ode6C1T.melody = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.name
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = ""
 
-meMA.Kontakion1.poet = poets_en_US_dedes.po.Gerasimou
-meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
-meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1ger.poet = poets_en_US_dedes.po.Gerasimou
+meMA.Kontakion1ger.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1ger.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
+meMA.Kontakion1ger.incipit = "…"
+meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_dedes.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_dedes.misc.Mode8
@@ -323,10 +323,10 @@ meMA.Ode9C1T.melody = he.h.m8_en_US_dedes.heHE.KyriosTheotokon.name
 meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = ""
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meMegalynarion.text = ""
 

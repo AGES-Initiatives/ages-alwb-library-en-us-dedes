@@ -44,17 +44,17 @@ meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 meVE.SticStavrotheotokion.incipit = "When the all-immaculate, all-blameless Lady…"
 meVE.SticStavrotheotokion.text = "When the all-immaculate, all-blameless Lady was watching Christ * being crucified, and His side * was pierced with a spear, she wept. * Tearfully she cried out, * \"How have these ungrateful people rewarded You, my Son, * for all the good things that You have done for them? * What is this, my beloved? Why the rush to render me childless? * I am stunned by Your willingness * to be crucified, merciful Lord.\""
 
-meVE.Apolytikion1.poet = poets_en_US_dedes.po.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
-meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
+meVE.Apolytikion1ger.poet = poets_en_US_dedes.po.Gerasimou
+meVE.Apolytikion1ger.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.Apolytikion1ger.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
+meVE.Apolytikion1ger.incipit = "…"
+meVE.Apolytikion1ger.text = ""
 
-meVE.Apolytikion2.poet = poets_en_US_dedes.po.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_dedes.misc.Mode1
-meVE.Apolytikion2.melody = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.name
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
+meVE.Apolytikion2ger.poet = poets_en_US_dedes.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_en_US_dedes.misc.Mode1
+meVE.Apolytikion2ger.melody = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.name
+meVE.Apolytikion2ger.incipit = "…"
+meVE.Apolytikion2ger.text = ""
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -233,11 +233,11 @@ meMA.Ode6C1T.melody = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = ""
 
-meMA.Kontakion1.poet = poets_en_US_dedes.po.Gerasimou
-meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode8
-meMA.Kontakion1.melody = he.a.m8_en_US_dedes.heAU.OsAparchas.notmetered
-meMA.Kontakion1.incipit = "O Ephraim, Basilefs, Eugene, Agathodoros…"
-meMA.Kontakion1.text = "O Ephraim, Basilefs, Eugene, Agathodoros, Capito, Aetherios and Elpidios, you were like unsetting stars of spiritual luminescence. You made those who were sleeping in the night of error to be sons of light, and you competed as invincible Athletes."
+meMA.Kontakion1ger.poet = poets_en_US_dedes.po.Gerasimou
+meMA.Kontakion1ger.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Kontakion1ger.melody = he.a.m8_en_US_dedes.heAU.OsAparchas.notmetered
+meMA.Kontakion1ger.incipit = "O Ephraim, Basilefs, Eugene, Agathodoros…"
+meMA.Kontakion1ger.text = "O Ephraim, Basilefs, Eugene, Agathodoros, Capito, Aetherios and Elpidios, you were like unsetting stars of spiritual luminescence. You made those who were sleeping in the night of error to be sons of light, and you competed as invincible Athletes."
 
 meMA.Ode7C1H.ode = miscellanea_en_US_dedes.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_dedes.misc.Mode4
@@ -341,10 +341,10 @@ meMA.Ode9C1T.melody = he.h.m4_en_US_dedes.heHE.LithosAcheirotmitos.name
 meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = ""
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meMegalynarion.text = ""
 

@@ -85,11 +85,11 @@ meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.name
 meVE.Apolytikion1.incipit = "A vehement protector of your…"
 meVE.Apolytikion1.text = "A vehement protector of your flock were you, O Father, * and you readily shed your blood for it, O godly-minded. * You were not frightened by the threats of evil men; * and now you exult in heaven, * as you stand near the throne of the tri-solar Divinity. * Glory to Christ who made you strong; * glory to your courage; * glory to your endurance as a martyr, O Anthimos."
 
-meVE.Apolytikion2.poet = poets_en_US_dedes.po.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_dedes.misc.Mode4
-meVE.Apolytikion2.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
+meVE.Apolytikion2ger.poet = poets_en_US_dedes.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.Apolytikion2ger.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
+meVE.Apolytikion2ger.incipit = "…"
+meVE.Apolytikion2ger.text = ""
 
 meVE.MM.GeneralApolytikion1.text = properties_en_US_dedes.media.key
 meVE.MM.GeneralApolytikion3.text = properties_en_US_dedes.media.key
@@ -739,10 +739,10 @@ alt1.meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.name
 alt1.meVE.Apolytikion1.incipit = "As we joyfully commemorate the…"
 alt1.meVE.Apolytikion1.text = "As we joyfully commemorate the welcome arrival of your sacred Relics, holy Hierarch Nektarios, we call upon the grace of God in you, which sanctifies our bodies and our souls. You alleviate our suffering and you cure the illnesses afflicting us. Glory to Christ, who glorified you! Glory to Him for your miracles! Glory to Him for all the cures that He works through you."
 
-alt1.meVE.Apolytikion2.mode = me.m11.d09_en_US_dedes.meVE.Apolytikion1.mode
-alt1.meVE.Apolytikion2.melody = me.m11.d09_en_US_dedes.meVE.Apolytikion1.melody
-alt1.meVE.Apolytikion2.incipit = me.m11.d09_en_US_dedes.meVE.Apolytikion1.incipit
-alt1.meVE.Apolytikion2.text = me.m11.d09_en_US_dedes.meVE.Apolytikion1.text
+alt1.meVE.Apolytikion2.mode = me.m11.d09_en_US_dedes.alt1.meVE.Apolytikion1.mode
+alt1.meVE.Apolytikion2.melody = me.m11.d09_en_US_dedes.alt1.meVE.Apolytikion1.melody
+alt1.meVE.Apolytikion2.incipit = me.m11.d09_en_US_dedes.alt1.meVE.Apolytikion1.incipit
+alt1.meVE.Apolytikion2.text = me.m11.d09_en_US_dedes.alt1.meVE.Apolytikion1.text
 
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode1
 alt1.meMA.Kathisma11.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name

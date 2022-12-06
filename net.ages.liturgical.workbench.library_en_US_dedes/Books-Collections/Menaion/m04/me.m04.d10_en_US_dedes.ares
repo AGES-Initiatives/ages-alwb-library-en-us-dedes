@@ -44,11 +44,11 @@ meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.
 meVE.SticStavrotheotokion.incipit = "As the all-blameless Lady watched…"
 meVE.SticStavrotheotokion.text = "As the all-blameless Lady watched * You be led as a lamb, O Lord, * to be voluntarily slaughtered for our sakes, * she who is lauded exceedingly, * Your Mother, cried out and wept: * \"Why the speedy pace, my Son? * My beloved, where go You now? * May I come along, * and be buried along with You, O Logos? I gave birth to You without seed: * so do not leave me now childless.\""
 
-meVE.Apolytikion1.poet = poets_en_US_dedes.po.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
-meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
+meVE.Apolytikion1ger.poet = poets_en_US_dedes.po.Gerasimou
+meVE.Apolytikion1ger.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.Apolytikion1ger.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
+meVE.Apolytikion1ger.incipit = "…"
+meVE.Apolytikion1ger.text = ""
 
 meVE.Apolytikion2.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Apolytikion2.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
@@ -238,11 +238,11 @@ meMA.Ode6C1T.melody = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.notmetered
 meMA.Ode6C1T.incipit = "O Theotokos, Prophet Habakkuk foresaw…"
 meMA.Ode6C1T.text = "O Theotokos, Prophet Habakkuk foresaw you as an overshadowed mountain, from where God came forth ineffably incarnate and saved the world, which was troubled with the waves of bitter sin."
 
-meMA.Kontakion1.poet = poets_en_US_dedes.po.Gerasimou
-meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
-meMA.Kontakion1.melody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.name
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1ger.poet = poets_en_US_dedes.po.Gerasimou
+meMA.Kontakion1ger.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion1ger.melody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.name
+meMA.Kontakion1ger.incipit = "…"
+meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_dedes.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_dedes.misc.Mode8
@@ -352,10 +352,10 @@ meMA.Ode9C1T.melody = he.h.m8_en_US_dedes.heHE.EfrixePasaAkoi.notmetered
 meMA.Ode9C1T.incipit = "O Lady, the gate of…"
 meMA.Ode9C1T.text = "O Lady, the gate of the Light, illumine my imperiled soul, for it is darkened because of my transgressions. I pray you, O unfailing protection of the faithful: Make me a partaker of the divine day, so that I may glorify you."
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
