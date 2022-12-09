@@ -153,6 +153,7 @@ meVE.LityBoth.incipit = oc.m1.d3_en_US_dedes.ocVE.AposTheotokion.incipit
 meVE.LityBoth.text = oc.m1.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -173,6 +174,7 @@ meVE.AposGlory.incipit = "You tilled the believers' hearts…"
 meVE.AposGlory.text = "You tilled the believers' hearts with your tongue, O Gregory, until they produced perennial fruits of Orthodoxy, for God. You eradicated thorny heresy and decorated thoughts with purity. Now we pray you accept our words of praise, as we call you a divine harp, a watchful eye, the shepherd of shepherds, and the hunter of wolves, and earnestly intercede with the Logos, O Theologian, on behalf of our souls."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode8
+meVE.AposTheotokion.greekmelody = he.a.m8_en_US_dedes.heAU.TiYmasKalesomen.greekname
 meVE.AposTheotokion.melody = he.a.m8_en_US_dedes.heAU.TiYmasKalesomen.name
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
@@ -665,11 +667,13 @@ meMA.Ode9C2T.incipit = "…"
 meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "You taught that we should…"
 meMA.Exaposteilarion1.text = "You taught that we should all adore * the tri-hypostatic Monad, * which is a perfect Trinity, * in Divinity single, * O very wise Theologian, * saying, light is the Father, * light is the Son, and light again * is the all-holy Spirit, and yet one light, * undivided, unconfused; for God is one. * Thus you proclaimed, O Gregory, * the homoousian doctrine."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.incipit = "You employed your grandiloquence *…"
 meMA.Exaposteilarion2.text = "You employed your grandiloquence * of your dogmas most wisely * to publicly theologize * about the secret depths of the mysteries of the Lord Christ. * You delivered orations * on the saints' lives and martyrdoms, * O Gregory thrice-blessed. Now being god * by participation in God, I pray you, * save me and take me into your * dwellings, O Theologian."
@@ -680,6 +684,7 @@ meMA.ExapTheotokion.incipit = "Standing with her who bore…"
 meMA.ExapTheotokion.text = "Standing with her who bore our God, * Mary the holy Virgin, * before the unapproachable * Trinity, there with Basil * the Great, are you, O all-wise one. * Together intercede now * for lasting peace throughout the world, * victories to our rulers; whereas for us * who extol you, Greg'ry the Theologian, * Orator of the Church of Christ, * may we obtain salvation."
 
 meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_US_dedes.heAU.OExYpsistouKlitheis.greekname
 meMA.Lauds1.melody = he.a.m4_en_US_dedes.heAU.OExYpsistouKlitheis.name
 meMA.Lauds1.incipit = "When you had cut through…"
 meMA.Lauds1.text = "When you had cut through the dark cloud of the letter, * in spirit you penetrated to the highest light. * There was the heavenly radiance; hence you received it, * and with theology you enriched us all; * O Gregory, the luminary of the Church of Christ. * And by your discourses' blinding light, you dissipated * the darkened clouds of impious heresies. * Henceforth you dwell in Angels' company, * where the sound is of those keeping festival; * and you pray without ceasing * to the Lord that He will save our souls."
@@ -695,6 +700,7 @@ meMA.Lauds3.incipit = "Divinely eloquent Father, when you…"
 meMA.Lauds3.text = "Divinely eloquent Father, when you planted * with your tongue the godly seed in furrows of the heart, * then to the complement of the Church you brought the harvest * of the sublime and richest theology. * With the Spirit's fire, from the Church you burned away * the thorny weeds of the heresies; and you were bred on * the highest love for divine philosophy, * Father of Fathers and the Pastor of * Pastors, bright star of priests, and the pride and joy * of the world, and the glory * of the faithful, blessed Gregory."
 
 meMA.Lauds4.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Lauds4.greekmelody = he.a.m4_en_US_dedes.heAU.OExYpsistouKlitheis.greekname
 meMA.Lauds4.melody = he.a.m4_en_US_dedes.heAU.OExYpsistouKlitheis.name
 meMA.Lauds4.incipit = "To the proverbial mixing bowl…"
 meMA.Lauds4.text = "To the proverbial mixing bowl of wisdom * you put your most precious mouth, O Father Gregory. * Having imbibed its most sacred drink, to the believers * you have imparted sublime theology. * And you stemmed the soul-corrupting course of heresies, * for it was brimming with blasphemies. The Holy Spirit * indeed found you as the pilot of the ship, * scaring away and driving back assaults * of the impious as if but gusts of wind; * for in Monad of essence * you proclaimed the Holy Trinity."

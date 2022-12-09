@@ -66,6 +66,7 @@ meVE.SticBoth.incipit = me.m12.d25_en_US_dedes.meVE.Aposticha1.incipit
 meVE.SticBoth.text = me.m12.d25_en_US_dedes.meVE.Aposticha1.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode1
+meVE.Aposticha1.greekmelody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
 meVE.Aposticha1.melody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
 meVE.Aposticha1.incipit = "The Logos rose from the…"
 meVE.Aposticha1.text = "The Logos rose from the Father before the ages began, * and as the Son is ever * in the bosom of the Father. * Now, though, as an infant, He sits in the arms * of His Mother as on a throne; * and by the Angels and Shepherds and Magi Kings, * He is worshiped. Let us sing His praise."
@@ -562,16 +563,19 @@ meMA.Ode9C2T.incipit = "…"
 meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_dedes.heAU.EpeskepsatoImas.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.heAU.EpeskepsatoImas.name
 meMA.Exaposteilarion1.incipit = "As he departs now from…"
 meMA.Exaposteilarion1.text = "As he departs now from his flesh, * Stephen, in keeping with his name, * presents himself as a living * and soul-endowed crown to You as King * and God the Ruler over all, * for Whom he fought the good fight * and finished in glory."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.incipit = "Stephen was full of grace…"
 meMA.Exaposteilarion2.text = "Stephen was full of grace divine * and faith and power truly. * He did great wonders and rebuked * the deicidal people, who meditated on vain things. * Eloquently he uttered * words of sublime theology, * saying, \"I now see Jesus, the Son of Man * standing at the right hand of God the Father.\" * Then he was stoned; and being crowned, * to the Lord he ascended."
 
 meMA.Exaposteilarion3.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion3.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion3.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion3.incipit = "The Logos, co-beginningless * and…"
 meMA.Exaposteilarion3.text = "The Logos, co-beginningless * and of one throne and nature * with the Father and Spirit, is * born today from a Virgin * in Bethlehem as an infant. * The Protomartyr Stephen * publicly preached that He is God * and the Savior, and therefore by blood-stained hands * he was stoned to death, all along rejoicing, * for he ascended with a crown * to the Master with glory."
@@ -624,6 +628,7 @@ meMA.LaudsBoth.text = "Incomprehensible is the mystery that is accomplished toda
 meMA.MM.Lauds1234as5678.text = properties_en_US_dedes.media.key
 
 meMA.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Aposticha1.greekmelody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.greekname
 meMA.Aposticha1.melody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.name
 meMA.Aposticha1.incipit = "…"
 meMA.Aposticha1.text = ""

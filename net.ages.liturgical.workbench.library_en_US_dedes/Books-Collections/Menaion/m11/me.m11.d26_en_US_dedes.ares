@@ -52,11 +52,13 @@ meVE.Stichera06.incipit = "Laconia has its own treasure…"
 meVE.Stichera06.text = "Laconia has its own treasure that cannot be taken, * namely you, O blessed Saint, * radiating splendidly beams of holy light. * Nikon, we pray to you: * Grant peace to your city, * adding monuments of victory; * and with the missiles of * your entreaties, bring down our enemies, * their armies and their arrogance; * also with a share of your grace from God * fill our hearts, O father, * with sympathy for us, who now with faith * extol your memory, as you pray * mightily on our behalf."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.SticTheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greekname
 meVE.SticTheotokion.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
 meVE.SticTheotokion.incipit = oc.m6.d1_en_US_dedes.ocSV.Aposticha2.incipit
 meVE.SticTheotokion.text = oc.m6.d1_en_US_dedes.ocSV.Aposticha2.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
 meVE.SticStavrotheotokion.incipit = oc.m6.d4_en_US_dedes.ocVE.SticTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m6.d4_en_US_dedes.ocVE.SticTheotokion.text
@@ -489,11 +491,13 @@ meMA.Ode9H.incipit = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.incipit
 meMA.Ode9H.text = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "Devout and wise Alypios, *…"
 meMA.Exaposteilarion1.text = "Devout and wise Alypios, * the might of Christ enabled you * to have superhuman labors. * For fifty-three years, O father, * you stood and prayed and struggled on * the pillar and withstood attacks * from everywhere, O blessed Saint. * And therefore you are enjoying * the ultimate of all blessings."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.name
 meMA.Exaposteilarion2.incipit = "O God-bearing father Nikon, *…"
 meMA.Exaposteilarion2.text = "O God-bearing father Nikon, * the casket in which is lying * your most illustrious body * pours out the healing gifts of God * abundantly for everyone * who comes to you with ardent faith."
@@ -504,6 +508,7 @@ meMA.ExapTheotokion.incipit = "The choruses of the Angels…"
 meMA.ExapTheotokion.text = "The choruses of the Angels * and Archangels all together * highly extol you, O Maiden, * as Mother of the highest God. * And we, the entire human race, * with faith and love glorify you."
 
 meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Lauds1.greekmelody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
 meMA.Lauds1.melody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
 meMA.Lauds1.incipit = "Devout and God-bearing father, *…"
 meMA.Lauds1.text = "Devout and God-bearing father, * you now immediately * enjoy what you desired * and you also illumine * the minds of all on earth who with faith now observe * your all-ven'rable memory, * and who with utmost solemnity congregate * in your sacred church, all-blessed Saint."
@@ -529,6 +534,7 @@ meMA.LaudsTheotokion.incipit = oc.m6.d3_en_US_dedes.ocVE.AposTheotokion.incipit
 meMA.LaudsTheotokion.text = oc.m6.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meMA.LaudsStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.LaudsStavrotheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meMA.LaudsStavrotheotokion.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meMA.LaudsStavrotheotokion.incipit = oc.m6.d4_en_US_dedes.ocMA.AposTheotokion.incipit
 meMA.LaudsStavrotheotokion.text = oc.m6.d4_en_US_dedes.ocMA.AposTheotokion.text

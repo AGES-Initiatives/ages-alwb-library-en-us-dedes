@@ -58,16 +58,19 @@ meVE.SticGlory.incipit = "Once again, the annual memory…"
 meVE.SticGlory.text = "Once again, the annual memory of those luminaries of the world has risen, namely of Menas and Victor and Vincent. Their feast day illumines the hearts of the believers, with their contests and crucifixion for the sake of Christ. Therefore let us sing hymns in honor of Christ our God, who has crowned them with glory and honor."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.SticTheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meVE.SticTheotokion.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meVE.SticTheotokion.incipit = oc.m6.d5_en_US_dedes.ocMA.AposTheotokion.incipit
 meVE.SticTheotokion.text = oc.m6.d5_en_US_dedes.ocMA.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meVE.SticStavrotheotokion.incipit = me.m01.d21_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m01.d21_en_US_dedes.meVE.SticStavrotheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.Aposticha1.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 meVE.Aposticha1.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
 meVE.Aposticha1.incipit = "Even though you were pierced…"
 meVE.Aposticha1.text = "Even though you were pierced with spikes * and were beaten with leather whips, * even though your body was burned up in the fire, * still you, O Martyr, did not succumb * in thought, nor did you renounce * the salvific name of Christ, * nor to idols made sacrifice, * but instead became * of your own will a pure and perfect sacrifice and off'ring to your Master, * O Saint Menas, by your martyrdom."
@@ -88,11 +91,13 @@ meVE.AposGlory.incipit = me.m01.d15_en_US_dedes.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m01.d15_en_US_dedes.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.AposTheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meVE.AposTheotokion.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meVE.AposTheotokion.incipit = me.m07.d08_en_US_dedes.meVE.SticTheotokion.incipit
 meVE.AposTheotokion.text = me.m07.d08_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.AposStavrotheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meVE.AposStavrotheotokion.incipit = oc.m6.d4_en_US_dedes.ocVE.AposTheotokion.incipit
 meVE.AposStavrotheotokion.text = oc.m6.d4_en_US_dedes.ocVE.AposTheotokion.text
@@ -584,11 +589,13 @@ meMA.Ode9H.incipit = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.incipit
 meMA.Ode9H.text = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.name
 meMA.Exaposteilarion1.incipit = "You have embellished heaven *…"
 meMA.Exaposteilarion1.text = "You have embellished heaven * with stars, O tender-loving Lord. * You have adorned the Church likewise * with Victor, Vincent, and Menas, * and Stephanie. Through these Martyrs, * we pray You save those who praise You."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.name
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
@@ -610,11 +617,13 @@ meMA.AposGlory.incipit = "O believers, let us congregate…"
 meMA.AposGlory.text = "O believers, let us congregate today, and with spiritual songs and praises fit for martyrs, let us extol most renowned Menas, who excelled in valor for Christ. This Martyr waged war with the unseen enemies, and he fought according to the rules, and rightly received the medal of victory. Now in heaven with the Angels, he dances the dance that never ends, and he prays for peace and great mercy for the world."
 
 meMA.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.AposTheotokion.greekmelody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.greekname
 meMA.AposTheotokion.melody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.name
 meMA.AposTheotokion.incipit = oc.m1.d3_en_US_dedes.ocVE.SticTheotokion.incipit
 meMA.AposTheotokion.text = oc.m1.d3_en_US_dedes.ocVE.SticTheotokion.text
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.AposStavrotheotokion.greekmelody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.greekname
 meMA.AposStavrotheotokion.melody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.name
 meMA.AposStavrotheotokion.incipit = oc.m1.d4_en_US_dedes.ocVE.SticTheotokion.incipit
 meMA.AposStavrotheotokion.text = oc.m1.d4_en_US_dedes.ocVE.SticTheotokion.text

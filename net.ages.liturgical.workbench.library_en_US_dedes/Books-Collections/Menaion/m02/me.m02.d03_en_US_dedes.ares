@@ -61,16 +61,19 @@ meVE.SticGlory.text = me.m02.d02_en_US_dedes.meVE.LityBoth.text
 //These extra hymns are found in the back of the Feb. Menaion
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.SticTheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 meVE.SticTheotokion.incipit = "O all-blameless Virgin Mother, change…"
 meVE.SticTheotokion.text = "O all-blameless Virgin Mother, change the frivolous character * of my soul and its feebleness * to strength and empowerment,* to perform the statutes * and all the commandments of Christ with fear and love of God, * that I be spared from the unbearable fire, * and also be an heir of heaven and receive everlasting life, * all through you, O all-holy one, * and be happy forevermore."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 meVE.SticStavrotheotokion.incipit = "When the all-pure Lady witnessed…"
 meVE.SticStavrotheotokion.text = "When the all-pure Lady witnessed Christ, who loves all humanity, * being crucified, and His side * was pierced with a spear, she wept. * Tearfully she cried out, * \"How have these ungrateful people rewarded You, my Son, * for all the good things that You have done for them? * What is this, my beloved? Why the rush to render me childless? * I am stunned by Your willingness * to be crucified, merciful Lord.\""
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
 meVE.Aposticha1.incipit = me.m02.d02_en_US_dedes.meSV.Aposticha1.incipit
 meVE.Aposticha1.text = me.m02.d02_en_US_dedes.meSV.Aposticha1.text
@@ -381,11 +384,13 @@ meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "In you, O Mother of…"
 meMA.Exaposteilarion1.text = "In you, O Mother of our God, * the Logos hypostatically, * immutably and without seed, * unites with flesh as an infant. * And carrying Him in your arms, * as though you were a cherubic throne, * to God the Father you offered Him, * and Symeon the Elder * received Him in arms rejoicing."
 
 meMA.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.Aposticha1.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meMA.Aposticha1.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meMA.Aposticha1.incipit = "…"
 meMA.Aposticha1.text = ""

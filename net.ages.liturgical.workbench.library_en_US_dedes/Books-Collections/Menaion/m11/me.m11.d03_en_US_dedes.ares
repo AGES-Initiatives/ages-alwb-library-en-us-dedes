@@ -62,11 +62,13 @@ meVE.SticTheotokion.incipit = he.o_en_US_dedes.heOT.TheotokeSyEi.incipit
 meVE.SticTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiAthloforou.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meVE.SticStavrotheotokion.incipit = oc.m6.d4_en_US_dedes.ocVE.AposTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m6.d4_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.Aposticha1.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 meVE.Aposticha1.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
 meVE.Aposticha1.incipit = "Medaled Athlete, Great Martyr George…"
 meVE.Aposticha1.text = "Medaled Athlete, Great Martyr George, * as you live with the Angels now * and the other Martyrs, and as you are each day * a place of refuge for those in need, * I pray you to be for me, * who am on the sea of life, * like a haven of cool relief. Also I implore, * be my life's guide and pilot, so that I may praise your supernatural contests * with incontestable faith and love."
@@ -93,6 +95,7 @@ meVE.AposTheotokion.incipit = me.m01.d28_en_US_dedes.meVE.SticTheotokion.incipit
 meVE.AposTheotokion.text = me.m01.d28_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.AposStavrotheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meVE.AposStavrotheotokion.incipit = oc.m6.d4_en_US_dedes.ocMA.AposTheotokion.incipit
 meVE.AposStavrotheotokion.text = oc.m6.d4_en_US_dedes.ocMA.AposTheotokion.text
@@ -577,11 +580,13 @@ meMA.Ode9H.incipit = he.h.m4_en_US_dedes.heHE.OTokosSouAfthoros.incipit
 meMA.Ode9H.text = he.h.m4_en_US_dedes.heHE.OTokosSouAfthoros.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "Acepsimas the glorious * with…"
 meMA.Exaposteilarion1.text = "Acepsimas the glorious * with the courageous Joseph * and the all-wise Aeithalas, * by the power of Christ God, * contested and they dismantled * the error of the Persians; * and with the Holy Trinity * they intercede for us. As we now extol * them as hieromartyrs with pious reverence * we celebrate their radiant * memory with rejoicing."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.name
 meMA.Exaposteilarion2.incipit = "O blessed martyr, with the…"
 meMA.Exaposteilarion2.text = "O blessed martyr, with the streams * of your blood you extinguished * deception's flame, and thus you made * the audacious defiance * of tyrants utterly vanish, * thereby glorifying Christ, * O George victorious athlete. * Therefore you received the crown * of incorruption and life * from the right hand of the Most High."
@@ -592,6 +597,7 @@ meMA.ExapTheotokion.incipit = "O Virgin, there is not…"
 meMA.ExapTheotokion.text = "O Virgin, there is not in me * any hope of salvation. * For I have fallen grievously * into a pit of vices. * And I await what was threatened, * namely ghastly punishment, * to share the goats' disappointment. * Pity me before my trial, * ardent helper that you are, * my Lady the Theotokos."
 
 meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 meMA.Lauds1.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
 meMA.Lauds1.incipit = "To a brave one in…"
 meMA.Lauds1.text = "To a brave one in martyr saints, * Christ's own tillage and georgic field, * let us sing the praises of wise great martyr George. * He was a preacher of truth divine; * and an ever-living branch * of the vine of life was he, * in abundance producing fruit, * also gushing forth * the sweet wine of the Orthodox religion; and he gladdens those who yearly * observe his memory faithfully."
@@ -612,6 +618,7 @@ meMA.LaudsGlory.incipit = me.m04.d23_en_US_dedes.meVE.AposGlory.incipit
 meMA.LaudsGlory.text = me.m04.d23_en_US_dedes.meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.LaudsTheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
 meMA.LaudsTheotokion.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 meMA.LaudsTheotokion.incipit = oc.m4.d4_en_US_dedes.ocVE.Stichera6.incipit
 meMA.LaudsTheotokion.text = oc.m4.d4_en_US_dedes.ocVE.Stichera6.text

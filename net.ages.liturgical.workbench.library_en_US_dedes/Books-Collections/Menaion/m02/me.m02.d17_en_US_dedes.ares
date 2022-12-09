@@ -42,11 +42,13 @@ meVE.SticGlory.incipit = "Thrice-blessed Theodore, I honor you…"
 meVE.SticGlory.text = "Thrice-blessed Theodore, I honor you as the namesake of divine gifts. You were shown to be a never-setting luminary of the divine light, and thus you have illumined the entire world with your martyric feats. Being more powerful than fire, you put out the flames and crushed the head of the wily serpent. During your martyrdom, Christ was moved, and He crowned your divine head. O Great Martyr Medalist, since you have confidence before God, fervently entreat Him on behalf of our souls."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
+meVE.SticTheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.notmetered
 meVE.SticTheotokion.incipit = "O Theotokos, accept the prayerful…"
 meVE.SticTheotokion.text = "O Theotokos, accept the prayerful song of us your suppliants, which we now bring to you. Lady, save us who are at a loss, and deliver from all danger this your flock, which implores you with faith, here in your holy church. Since you gave birth to the Savior, as His Mother you have access, to intercede earnestly for our salvation."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
+meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 meVE.SticStavrotheotokion.incipit = me.m02.d09_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m02.d09_en_US_dedes.meVE.SticStavrotheotokion.text
@@ -58,11 +60,13 @@ meVE.AposGlory.incipit = "You extend the God-given grace…"
 meVE.AposGlory.text = "You extend the God-given grace of your miracles to all who run to you in faith, O martyr Theodore. And we extol you for this and say: You deliver captives, you heal the sick, you give wealth to the poor, and you rescue those who sail the seas. You averted the useless escape of slaves, and you showed robbers what their loss would be. You admonished soldiers to refrain from plunder, and you granted children their requests sympathetically. You are an ardent protector of those who keep your sacred memory. Count us with them, O most holy Martyr, and entreat Christ to grant great mercy to us who extol your martyrdom!"
 
 meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
+meVE.AposTheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.notmetered
 meVE.AposTheotokion.incipit = "The eyewitnesses of the heavenly…"
 meVE.AposTheotokion.text = "The eyewitnesses of the heavenly God saw you as a new and newly appearing heaven, and they tell of the heavenly glory that came to earth in you, and they proclaim to the world that you are the work of His hands, with the firmament of Him who was incarnate of you. Their sound has gone forth into all the earth, O Virgin, preaching your childbirth to the nations."
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
+meVE.AposStavrotheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 meVE.AposStavrotheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 meVE.AposStavrotheotokion.incipit = me.m02.d13_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meVE.AposStavrotheotokion.text = me.m02.d13_en_US_dedes.meVE.SticStavrotheotokion.text
@@ -342,6 +346,7 @@ meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "You now provide abundantly *…"
 meMA.Exaposteilarion1.text = "You now provide abundantly * healings and cures as gifts of grace * to everyone who entreats you, * Saint Theodore, medal-winner. * And since you speak with confidence * whenever you address the Lord, * you come to the assistance * and rescue of those who pray you * with ardent faith, O all-blessed one."
@@ -352,6 +357,7 @@ meMA.ExapTheotokion.incipit = "O Lady, pure and undefiled…"
 meMA.ExapTheotokion.text = "O Lady, pure and undefiled, * you carried in your arms the Lord * who with His pure hand established * all things and by it controls them. * O blessed Maiden, pray to Him * to rescue me out of the hand * of that most beguiling dragon * who shamelessly convulses my poor heart * with soul-destroying pleasures."
 
 meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Lauds1.greekmelody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
 meMA.Lauds1.melody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
 meMA.Lauds1.incipit = "Let us, O feast-lovers, all…"
 meMA.Lauds1.text = "Let us, O feast-lovers, all now observe a sumptuous feast * on this joyous occasion, the festival of the Martyr, * and faithfully rejoice as we honor the bright * holy feast-day of his demise. * Let us extol the Lord Jesus with sacred songs, * for He glorified his memory."
@@ -372,11 +378,13 @@ meMA.LaudsGlory.incipit = "O wise Martyr Theodore, Christ…"
 meMA.LaudsGlory.text = "O wise Martyr Theodore, Christ has glorified your memory and made you famous in the world, a gift of holiness and a treasure of divine life, in accord with your name. And we the faithful, with one accord, rejoice as we extol the contests of your martyrdom."
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.LaudsTheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greekname
 meMA.LaudsTheotokion.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
 meMA.LaudsTheotokion.incipit = "…"
 meMA.LaudsTheotokion.text = ""
 
 meMA.LaudsStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.LaudsStavrotheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greekname
 meMA.LaudsStavrotheotokion.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
 meMA.LaudsStavrotheotokion.incipit = "When the blameless Lady…"
 meMA.LaudsStavrotheotokion.text = "When the blameless Lady, who of old had borne, like a ewe-lamb, * her own lamb, the Son of God, * saw Him being crucified, she expressed her grief; * and in shock she cried out, * weeping as a mother, * and she said, \"O sweetest Son of mine, * what is this utterly * unique and unusual spectacle? * How is it that the people were * so ungrateful, handing You over to * Pilate and condemning * to death the very Life of all the world? * Yet I extol Your ineffable * condescension, Logos of God.\""
@@ -391,11 +399,13 @@ meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.AposTheotokion.greekmelody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.greekname
 meMA.AposTheotokion.melody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.name
 meMA.AposTheotokion.incipit = "…"
 meMA.AposTheotokion.text = ""
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.AposStavrotheotokion.greekmelody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.greekname
 meMA.AposStavrotheotokion.melody = miscellanea_en_US_dedes.misc.Automelon
 meMA.AposStavrotheotokion.incipit = he.a.m8_en_US_dedes.heAU.OTouParadoxou.incipit
 meMA.AposStavrotheotokion.text = he.a.m8_en_US_dedes.heAU.OTouParadoxou.text

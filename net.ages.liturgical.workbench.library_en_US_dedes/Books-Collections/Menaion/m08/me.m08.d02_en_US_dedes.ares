@@ -346,6 +346,7 @@ meMA.Ode9H.incipit = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.incipit
 meMA.Ode9H.text = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.TonMathitonOrontonSe.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.TonMathitonOrontonSe.name
 meMA.Exaposteilarion1.incipit = "St. Stephen was the first…"
 meMA.Exaposteilarion1.text = "St. Stephen was the first one to be a Martyr; * he also was the first to become a Deacon, * for he was filled with grace, as it was written. * Behold, his relics were transferred * to the imperial City, * pouring out grace and miracles."
@@ -356,6 +357,7 @@ meMA.ExapTheotokion.incipit = "You truly carried Christ in…"
 meMA.ExapTheotokion.text = "You truly carried Christ in your womb, O Virgin, * when from your precious blood He became incarnate. * The armies of heaven that stand around Him * do so with awe, for they cannot * endure to gaze at the brightness * of His ineffable essence."
 
 meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
 meMA.Lauds1.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 meMA.Lauds1.incipit = "On earth like an angel…"
 meMA.Lauds1.text = "On earth like an angel, Protomartyr Stephen went up to You * in the heavens, where he beheld * divine glory, insofar as a man is able; * for initiated was he in mysteries of God, * the unapproachable Holy Trinity. * And henceforth he proclaims Your power, which is incomprehensible, * by which You, Jesus, saved our souls, as our Lord and almighty God."
@@ -376,7 +378,8 @@ meMA.LaudsGlory.incipit = "Stephen, the fine first-fruit of…"
 meMA.LaudsGlory.text = "Stephen, the fine first-fruit of the Martyrs, full of grace and power, did great wonders and signs among the people. And he was stoned by those who broke the Law. But he shined like an angel, and he saw the glory of You who were incarnate for us and who were standing at the right hand of the Power; and by the Spirit of grace he was taken into heaven. He therefore dwells with the choirs of Angels, and he intercedes for the salvation of our souls."
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
-meMA.LaudsTheotokion.melody = ""
+meMA.LaudsTheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
+meMA.LaudsTheotokion.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 meMA.LaudsTheotokion.incipit = oc.m4.d3_en_US_dedes.ocVE.AposTheotokion.incipit
 meMA.LaudsTheotokion.text = oc.m4.d3_en_US_dedes.ocVE.AposTheotokion.text
 

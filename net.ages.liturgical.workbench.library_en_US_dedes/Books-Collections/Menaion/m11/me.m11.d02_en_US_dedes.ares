@@ -44,16 +44,19 @@ meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.SticTheotokion.greekmelody = me.m01.d21_en_US_dedes.meVE.SticTheotokion.greekmelody
 meVE.SticTheotokion.melody = me.m01.d21_en_US_dedes.meVE.SticTheotokion.melody
 meVE.SticTheotokion.incipit = me.m01.d21_en_US_dedes.meVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = me.m01.d21_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
 meVE.SticStavrotheotokion.incipit = me.m02.d17_en_US_dedes.meMA.LaudsStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m02.d17_en_US_dedes.meMA.LaudsStavrotheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.Aposticha1.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meVE.Aposticha1.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -79,6 +82,7 @@ meVE.AposTheotokion.incipit = ho.s23_en_US_dedes.hoCA.Troparion7.incipit
 meVE.AposTheotokion.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
+meVE.AposStavrotheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 meVE.AposStavrotheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 meVE.AposStavrotheotokion.incipit = me.m10.d02_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meVE.AposStavrotheotokion.text = me.m10.d02_en_US_dedes.meVE.SticStavrotheotokion.text
@@ -413,6 +417,7 @@ meMA.Ode9H.incipit = he.h.m4_en_US_dedes.heHE.EvaMenToTisParakois.incipit
 meMA.Ode9H.text = he.h.m4_en_US_dedes.heHE.EvaMenToTisParakois.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "You are a spring that…"
 meMA.Exaposteilarion1.text = "You are a spring that gushes forth * the grace of cures unhazardous * in unobstructed abundance * for those who in hope observe this * your memorial, O holy ones. * We pray that you would now pour out * your healings, O all-lauded saints, * on us who with love extol you, * O five-numbered team of Martyrs."
@@ -423,6 +428,7 @@ meMA.ExapTheotokion.incipit = "The nature of our Forefather…"
 meMA.ExapTheotokion.text = "The nature of our Forefather, * which was corrupted, you renewed * by marvelously conceiving * and giving birth as a virgin * to the Fashioner of nature all. * He strengthened hosts of martyr saints. * As they competed, they extolled * you who are our salvation's * beginning, O Theotokos."
 
 meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Lauds1.greekmelody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.greekname
 meMA.Lauds1.melody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.name
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
@@ -453,11 +459,13 @@ meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.AposTheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 meMA.AposTheotokion.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
 meMA.AposTheotokion.incipit = me.m06.d02_en_US_dedes.meVE.SticTheotokion.incipit
 meMA.AposTheotokion.text = me.m06.d02_en_US_dedes.meVE.SticTheotokion.text
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.AposStavrotheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 meMA.AposStavrotheotokion.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
 meMA.AposStavrotheotokion.incipit = me.m02.d27_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meMA.AposStavrotheotokion.text = me.m02.d27_en_US_dedes.meVE.SticStavrotheotokion.text

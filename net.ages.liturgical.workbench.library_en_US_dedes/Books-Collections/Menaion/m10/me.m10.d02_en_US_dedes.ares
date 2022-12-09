@@ -43,11 +43,13 @@ meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
+meVE.SticTheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 meVE.SticTheotokion.incipit = "For all who are troubled…"
 meVE.SticTheotokion.text = "For all who are troubled you are joy, * and of the abused a protectress, the paupers' nourishment, * strangers' consolation and a port for those in a storm, * visitation of the infirm, * assistance and shelter * for the weary and oppressed, a walking staff of the blind. * Hasten to deliver your servants, * fervently we beg you, O pure one, * since you are the Mother of the Most High God." //similar to oc.m2.d1_en_US_dedes.ocSV.Aposticha1.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
+meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 meVE.SticStavrotheotokion.incipit = "Jesus, You were crucified for…"
 meVE.SticStavrotheotokion.text = "Jesus, You were crucified for us. * As the Ever-Virgin, Your Mother, witnessed You hanging there, * she was weeping and she said, \"O sweetest Son of mine, * why, O Light unapproachable * of the pre-eternal * Father, why have You left me Your Mother all alone? * Hurry to be glorified, so that * all who glorify Your most holy * Passion may be glorified by You, O God.\""
@@ -58,11 +60,13 @@ meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
+meVE.AposTheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.notmetered
 meVE.AposTheotokion.incipit = "O all-pure Virgin, other than…"
 meVE.AposTheotokion.text = "O all-pure Virgin, other than you, we have no shelter, mighty tower, nor unassailable fortress. We take refuge in you, and we cry aloud: Lady, help us, lest we perish. Demonstrate your grace to us and the glory of your power, and the greatness of your compassion."
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
+meVE.AposStavrotheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 meVE.AposStavrotheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 meVE.AposStavrotheotokion.incipit = me.m01.d15_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meVE.AposStavrotheotokion.text = me.m01.d15_en_US_dedes.meVE.SticStavrotheotokion.text
@@ -323,6 +327,7 @@ meMA.Ode9H.incipit = he.h.m4_en_US_dedes.heHE.EvaMenToTisParakois.incipit
 meMA.Ode9H.text = he.h.m4_en_US_dedes.heHE.EvaMenToTisParakois.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "Let us now chant in…"
 meMA.Exaposteilarion1.text = "Let us now chant in unison * and praise that great man Cyprian, * who formerly was a mystic * of wickedness and who later, * by virtue of the honorable * virgin, became a hierarch. * And let us cry aloud to him: * \"By your prayers to the Master * of all, make Him gracious towards us.\""
@@ -340,11 +345,13 @@ meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.AposTheotokion.greekmelody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.greekname
 meMA.AposTheotokion.melody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.name
 meMA.AposTheotokion.incipit = "How can I duly extol…"
 meMA.AposTheotokion.text = "How can I duly extol your grace and the exceptional care * that you obviously display * every single day to me * undeserving though I may be? * How can I tell of your great benevolence * and how you govern my life in every way? * Now and forevermore, * guard me, and from every evil rescue me, * in this life and after death, O blessed Lady, I pray."
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.AposStavrotheotokion.greekmelody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.greekname
 meMA.AposStavrotheotokion.melody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.name
 meMA.AposStavrotheotokion.incipit = me.m03.d12_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meMA.AposStavrotheotokion.text = me.m03.d12_en_US_dedes.meVE.SticStavrotheotokion.text

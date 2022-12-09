@@ -65,6 +65,7 @@ meVE.SticBoth.incipit = me.m02.d02_en_US_dedes.meVE.AposGlory.incipit
 meVE.SticBoth.text = me.m02.d02_en_US_dedes.meVE.AposGlory.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode1
+meVE.Aposticha1.greekmelody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.greekname
 meVE.Aposticha1.melody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.name
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -371,16 +372,19 @@ meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "O glorious St. Agatha, *…"
 meMA.Exaposteilarion1.text = "O glorious St. Agatha, * the undefiled bride of Christ, * a treasure of godly beauty, * illustrious holy Martyr, * remember us who honor you, * O lovely virgin, faithfully. * And as we are celebrating * your memory, pray that we be * forgiven all our offenses."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion2.incipit = "Fulfilling Your ineffable * plan…"
 meMA.Exaposteilarion2.text = "Fulfilling Your ineffable * plan for mankind's salvation, Lord, * You were brought into the Temple * by Your ever-virgin Mother. * The Elder saw You and exclaimed, * \"O Master, let your servant now * depart in peace, as You promised. * You came to the world as Savior, * my Christ, the light of the Father.\""
 
 meMA.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
 meMA.Aposticha1.incipit = me.m02.d02_en_US_dedes.meSV.Aposticha3.incipit
 meMA.Aposticha1.text = me.m02.d02_en_US_dedes.meSV.Aposticha3.text
@@ -411,11 +415,13 @@ meMegalynarion.text = ""
 //These extra hymns are found in the back of the Feb. Menaion
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.SticTheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 meVE.SticTheotokion.incipit = me.m02.d03_en_US_dedes.meVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = me.m02.d03_en_US_dedes.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 meVE.SticStavrotheotokion.incipit = me.m02.d03_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m02.d03_en_US_dedes.meVE.SticStavrotheotokion.text

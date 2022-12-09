@@ -62,6 +62,7 @@ meVE.SticBoth.incipit = me.m11.d20_en_US_dedes.meMA.AposGlory.incipit
 meVE.SticBoth.text = me.m11.d20_en_US_dedes.meMA.AposGlory.text
 
 meVE.Aposticha1a.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.Aposticha1a.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
 meVE.Aposticha1a.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 meVE.Aposticha1a.incipit = "…"
 meVE.Aposticha1a.text = ""
@@ -77,6 +78,7 @@ meVE.Aposticha3a.incipit = "…"
 meVE.Aposticha3a.text = ""
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
 meVE.Aposticha1.incipit = "Now, as the Psalmist said…"
 meVE.Aposticha1.text = "Now, as the Psalmist said, * the gatherings of virgins * have lit their festive lanterns. * With gladness and with joy, they escort the only blameless one."
@@ -575,16 +577,19 @@ meMA.Ode9H.incipit = he.h.m1_en_US_dedes.heHE.TyponTisAgnis.incipit
 meMA.Ode9H.text = he.h.m1_en_US_dedes.heHE.TyponTisAgnis.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion1.incipit = "Most sacred Archippus, Apphia, and…"
 meMA.Exaposteilarion1.text = "Most sacred Archippus, Apphia, and Philemon, as Apostles and eyewitnesses of the Logos, and you, O Martyr Cicely, offer your supplications to the Creator, on behalf of us who in faith observe your sacred memory, and pray that we receive forgiveness of offences. For we invoke your intercessions when we pray to the Master."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion2.incipit = "The all-good Maiden, who is…"
 meMA.Exaposteilarion2.text = "The all-good Maiden, who is likened to a blameless heifer, is wondrously led into the Temple today; before her process ranks of the bodiless, as well as hosts of Angels, along with many virgins. The godly priest rejoiced when he embraced her."
 
 meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 meMA.Lauds1.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.notmetered
 meMA.Lauds1.incipit = "Jesus, our God, the glorious…"
 meMA.Lauds1.text = "Jesus, our God, the glorious Sun, sent you, O Apostle Philemon, as a bright ray into the world, to drive away the gloom of wickedness, and to illumine hearts that were darkened by ignorance and the sway of the passions, O all-blessed sacred preacher."
@@ -605,6 +610,7 @@ meMA.LaudsGlory.incipit = me.m11.d08_en_US_dedes.meVE.LityBoth.incipit
 meMA.LaudsGlory.text = me.m11.d08_en_US_dedes.meVE.LityBoth.text
 
 meMA.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
 meMA.Aposticha1.incipit = "O Zacharias, bring * inside…"
 meMA.Aposticha1.text = "O Zacharias, bring * inside the sanctuary * and of the holy of holies * the holy Theotokos, * the holiest of all the saints."

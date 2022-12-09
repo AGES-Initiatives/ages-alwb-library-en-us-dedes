@@ -58,6 +58,7 @@ meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
 meVE.Aposticha1.incipit = me.m02.d01_en_US_dedes.meMA.Aposticha3.incipit
 meVE.Aposticha1.text = me.m02.d01_en_US_dedes.meMA.Aposticha3.text
@@ -350,16 +351,19 @@ meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "You doused the flame of…"
 meMA.Exaposteilarion1.text = "You doused the flame of passions with the perspiration of the your great * ascetic feats, O God-bearer, * and ran to the heights of dispassion. * Now standing near the throne of Christ * exultant, father Isidore, * you ever pray on our behalf, * as we are with faith observing * your all-holy memory today."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion2.incipit = "The Maker of heaven and…"
 meMA.Exaposteilarion2.text = "The Maker of heaven and earth * ineffably was born of you, * O Mother of God, as He knew. * And now He comes to the Temple, * a babe in arms, whom Symeon * receives and cries aloud to Him, * \"O Christ, You are my Lord and God, * the Savior and the Redeemer * of the entire human race.\""
 
 meMA.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
 meMA.Aposticha1.incipit = me.m02.d01_en_US_dedes.meMA.Aposticha1.incipit
 meMA.Aposticha1.text = me.m02.d01_en_US_dedes.meMA.Aposticha1.text
@@ -390,11 +394,13 @@ meMegalynarion.text = ""
 //These extra hymns are found in the back of the Feb. Menaion
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.SticTheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
 meVE.SticTheotokion.incipit = "Virgin Maid all-immaculate, * drench…"
 meVE.SticTheotokion.text = "Virgin Maid all-immaculate, * drench my mind and my reasoning * with the heavy rain of the Holy Spirit's grace; * you are the one who gave birth to Christ, * the raindrop that rinses off * the immeasurable sin * of mankind by His measureless * mercy. And I pray, * plug the well of my passions, and by your own ever-flowing intercessions * grant me the torrent of divine delight."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
 meVE.SticStavrotheotokion.incipit = me.m01.d19_en_US_dedes.meMA.AposStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m01.d19_en_US_dedes.meMA.AposStavrotheotokion.text

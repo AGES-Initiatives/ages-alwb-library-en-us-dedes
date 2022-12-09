@@ -140,6 +140,7 @@ meVE.LityBoth.incipit = "…"
 meVE.LityBoth.text = ""
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -710,11 +711,13 @@ meMA.Ode9C2T.incipit = "…"
 meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.name
 meMA.Exaposteilarion1.incipit = "Today the holy Church of…"
 meMA.Exaposteilarion1.text = "Today the holy Church of Christ * beams with joy and is brightened * because of your words that shine like gold, * O Chrysostom our father; * and as the faithful celebrate * your all-holy memory, * their souls are gaily rejoicing; * you have come to be the guide * to salvation for us all, * and a preacher of repentance."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion2.incipit = "Since we were fortified by…"
 meMA.Exaposteilarion2.text = "Since we were fortified by him, * let us extol saint John the wise, * that great stentorian preacher * of charity and repentance, * the sweetly-speaking golden mouth * that taught the dogmas of the Church, * and therefore was called Chrysostom, * that treasure chest of the paupers, * the clarity of the Scriptures."
@@ -725,6 +728,7 @@ meMA.ExapTheotokion.incipit = "O Virgin all-immaculate, * my…"
 meMA.ExapTheotokion.text = "O Virgin all-immaculate, * my Lady, I beseech you now, * with Chrysostom the distinguished * uniting in supplication, * implore your Son to save us from * all manner of adversity, * and to grant us eternal goods; * for all this is in your power * to do for those who extol you."
 
 meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
 meMA.Lauds1.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 meMA.Lauds1.incipit = "You pour out your sacred…"
 meMA.Lauds1.text = "You pour out your sacred teachings which, more splendid than gold itself, * do enrich our impoverished minds * and hearts, blessed Chrysostom, * wise and holy father; * and by them you drive out the bitter winter and the gloom * brought on by passions, indeed by avarice. * And therefore we are obligated to extol you and call you blest, * and we honor your relics' dust * as a well-spring of sanctity."
@@ -740,6 +744,7 @@ meMA.Lauds3.incipit = "You became a gloriously glowing…"
 meMA.Lauds3.text = "You became a gloriously glowing sun that illuminates * by your words the entire world, * a star that is luminous, * and a shining beacon,* a prominent lighthouse, inviting everyone who sails * the stormy sea of the world in every age, * to put in at the tranquil harbor of salvation obtained by grace, * golden-spoken saint Chrysostom, * intercessor on our behalf."
 
 meMA.Lauds4.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Lauds4.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
 meMA.Lauds4.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 meMA.Lauds4.incipit = "Father, you were driven from…"
 meMA.Lauds4.text = "Father, you were driven from your flock unjustly and met with great * tribulations, O holy one, * and bitterest banishments, * in which you were counted * worthy of a blest end; * and as an athlete brave and strong * you fought the crafty one and you threw him down; * and Christ our Savior crowned you with the laurel crown for your victory, * O devout Saint John Chrysostom, * intercessor on our behalf."

@@ -57,6 +57,7 @@ meVE.SticGlory.incipit = me.m11.d08_en_US_dedes.meVE.LityBoth.incipit
 meVE.SticGlory.text = me.m11.d08_en_US_dedes.meVE.LityBoth.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.Aposticha1.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
 meVE.Aposticha1.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 meVE.Aposticha1.incipit = "By the splendor of your…"
 meVE.Aposticha1.text = "By the splendor of your doctrines and your luminous way of life, * you adorned the exalted rank * of the Lord's episcopate, * O all-lauded Proclos. * Therefore you indeed proved to be a pillar of the Church, * and you enlightened all people with your words. * We therefore call you blessed, and each year we solemnly celebrate * your divine holy memory, singing Psalms and inspired songs."
@@ -807,16 +808,19 @@ meMA.Ode9H.incipit = he.h.m1_en_US_dedes.heHE.TyponTisAgnis.incipit
 meMA.Ode9H.text = he.h.m1_en_US_dedes.heHE.TyponTisAgnis.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "You subordinated the flesh to…"
 meMA.Exaposteilarion1.text = "You subordinated the flesh to your mind, and you practiced ascetic discipline assiduously. Therefore you were elevated, and your received divine reflections in heaven with the Angels, to praise the Savior of all."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion2.incipit = "You imitated the wise Saint…"
 meMA.Exaposteilarion2.text = "You imitated the wise Saint Chrysostom in his virtues, and you likewise acceded to his throne, O glorious Saint Proclos, the God-inspired preacher. You dismantled the ungodly heresy of Nestorios, and you proclaimed that the pure Virgin is truly and literally the Theotokos and Mother of God. We entreat you to join her in praying to Christ on behalf of your flock."
 
 meMA.Exaposteilarion3.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion3.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion3.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion3.incipit = "Prepare the Temple's entrances *…"
 meMA.Exaposteilarion3.text = "Prepare the Temple's entrances * and the Holy of Holies, * O Zacharias, to receive * the all-pure Theotokos; for she herself is the temple * of God's wisdom and Logos, * she is the highest and sublime * Cherubic throne, And therefore along with us * in anticipation sing to the Virgin, * for Christ the Lord who saves the world * from her became incarnate."
@@ -824,6 +828,7 @@ meMA.Exaposteilarion3.text = "Prepare the Temple's entrances * and the Holy of H
 meMA.MM.Apos1123as5678.text = properties_en_US_dedes.media.key
 
 meMA.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Aposticha1.greekmelody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
 meMA.Aposticha1.melody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
 meMA.Aposticha1.incipit = "Come and assemble, O faithful…"
 meMA.Aposticha1.text = "Come and assemble, O faithful, and let us honor in song * the Maid whose barren mother paradoxically bore her, * the Mother of the Maker, the Bride of God; * and in the temple let us attend * as she goes into the Holies, and let us join * with the virgin girls, our lamps in hand."

@@ -36,11 +36,13 @@ meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
-meVE.SticTheotokion.melody = oc.m4.d1_en_US_dedes.ocSV.Aposticha3.melody
+meVE.SticTheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.OExYpsistouKlitheis.greekname
+meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.heAU.OExYpsistouKlitheis.notmetered
 meVE.SticTheotokion.incipit = oc.m4.d1_en_US_dedes.ocSV.Aposticha3.incipit
 meVE.SticTheotokion.text = oc.m4.d1_en_US_dedes.ocSV.Aposticha3.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.OExYpsistouKlitheis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_dedes.heAU.OExYpsistouKlitheis.name
 meVE.SticStavrotheotokion.incipit = "Do not lament me, O…"
 meVE.SticStavrotheotokion.text = "Do not lament me, O Mother, when beholding * that I who by word alone stretched out the span of the sky, * and who suspended the earth above * the waters freely, * whom as a virgin you bore am crucified. * Indeed I shall rise again and shall be glorified, * and by my might I shall overthrow * the realm of Hades, * and I shall cause its power to disappear. * And with compassion, I shall liberate * mortal people from slavery to sin and death. * As the Lover of mankind, * to my Father I shall bring them in."
@@ -246,6 +248,7 @@ meMA.Ode9H.incipit = he.h.m6_en_US_dedes.heHE.TheonAnthropois.incipit
 meMA.Ode9H.text = he.h.m6_en_US_dedes.heHE.TheonAnthropois.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "All-wise one, standing in the…"
 meMA.Exaposteilarion1.text = "All-wise one, standing in the heights * with the bodiless orders * now near the unapproachable * Trinity, and illumined by divine flashes directly, * will you, by interceding, * dispense noetic light to us, * who with longing observe the august and bright * feast day in your honor and celebrate it, * blessed Saint, crowning you with hymns, * O Prophet Zephaniah."

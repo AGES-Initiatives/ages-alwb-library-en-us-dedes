@@ -64,6 +64,7 @@ meVE.SticBoth.incipit = me.m12.d20_en_US_dedes.meVE.Aposticha1.incipit
 meVE.SticBoth.text = me.m12.d20_en_US_dedes.meVE.Aposticha1.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.Aposticha1.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meVE.Aposticha1.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -895,16 +896,19 @@ meMA.Ode9H.incipit = he.h.m3_en_US_dedes.heHE.SeTinAthanaton.incipit
 meMA.Ode9H.text = he.h.m3_en_US_dedes.heHE.SeTinAthanaton.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion1.incipit = "Let us joyfully crown with…"
 meMA.Exaposteilarion1.text = "Let us joyfully crown with hymns of praise the glorious and renowned holy Martyrs: Theodoulos, Zotikos, Agathopus, Satorninos, Pompey, Evnikianos, Vasilides, Efporos, Gelasios, and Evarestos. By their intercessions may we be freed from our transgressions, and may we also be crowned by Christ the Savior."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion2.incipit = "Let us who practiced virtue…"
 meMA.Exaposteilarion2.text = "Let us who practiced virtue, and who hastened to mortify the passions by self-control, now offer praiseworthy action and focused contemplation, as our own gifts, like the shepherds and the Magi, in faith to God, whose good pleasure is our salvation, and who is coming to be born of the Virgin."
 
 meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.Lauds1.greekmelody = he.a.m6_en_US_dedes.heAU.AiAngelikai.greekname
 meMA.Lauds1.melody = he.a.m6_en_US_dedes.heAU.AiAngelikai.name
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
@@ -920,6 +924,7 @@ meMA.Lauds3.incipit = "…"
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.Lauds4.greekmelody = he.a.m6_en_US_dedes.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_en_US_dedes.heAU.AiAngelikai.name
 meMA.Lauds4.incipit = "…"
 meMA.Lauds4.text = ""
@@ -935,6 +940,7 @@ meMA.LaudsBoth.incipit = "…"
 meMA.LaudsBoth.text = ""
 
 meMA.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Aposticha1.greekmelody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.greekname
 meMA.Aposticha1.melody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.name
 meMA.Aposticha1.incipit = "…"
 meMA.Aposticha1.text = ""

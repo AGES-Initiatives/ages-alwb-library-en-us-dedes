@@ -49,11 +49,13 @@ meVE.SticGlory.incipit = "O God-bearing St. Ignatius, you…"
 meVE.SticGlory.text = "O God-bearing St. Ignatius, you were held in the bosom of Christ, the object of your love. For your sacred work of spreading the Gospel of Christ, you received your reward, namely death by blood. You were ground by the teeth of wild beasts, and thus you became the wheat of the immortal Farmer, and became His pure and sweet bread. And now you intercede on our behalf, O blessed Martyr."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode8
+meVE.SticTheotokion.greekmelody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.greekname
 meVE.SticTheotokion.melody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.name
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode8
+meVE.SticStavrotheotokion.greekmelody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.greekname
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.name
 meVE.SticStavrotheotokion.incipit = me.m01.d15_en_US_dedes.meMA.AposStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = me.m01.d15_en_US_dedes.meMA.AposStavrotheotokion.text
@@ -70,6 +72,7 @@ meVE.AposTheotokion.incipit = oc.m1.d3_en_US_dedes.ocVE.AposTheotokion.incipit
 meVE.AposTheotokion.text = oc.m1.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode1
+meVE.AposStavrotheotokion.greekmelody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
 meVE.AposStavrotheotokion.melody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
 meVE.AposStavrotheotokion.incipit = me.m01.d23_en_US_dedes.meVE.AposStavrotheotokion.incipit
 meVE.AposStavrotheotokion.text = me.m01.d23_en_US_dedes.meVE.AposStavrotheotokion.text
@@ -349,6 +352,7 @@ meMA.Ode9H.incipit = he.h.m4_en_US_dedes.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_dedes.heHE.LithosAcheirotmitos.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.incipit = "Save those who longingly observe…"
 meMA.Exaposteilarion1.text = "Save those who longingly observe * the joyous feast of your return, * O God-bearer, Saint Ignatius, * and all-blessed Hieromartyr,* from every tribulation and * injury from the evil one; * and since from Christ you have received * authority to forgive sins, * forgive us all our offences."
@@ -366,11 +370,13 @@ meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.AposTheotokion.greekmelody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.greekname
 meMA.AposTheotokion.melody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.name
 meMA.AposTheotokion.incipit = "I pray you to heal…"
 meMA.AposTheotokion.text = "I pray you to heal my wretched soul, * which is seriously ill with the most wicked of passions, O all-lauded Virgin pure, * as the one who gave birth * to the Savior of us all, to Christ God, the Healer, who cures every infirmity of ours, * and who wounded all the wickedness * of the devil, * and freed us from sin and death."
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.AposStavrotheotokion.greekmelody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.greekname
 meMA.AposStavrotheotokion.melody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.name
 meMA.AposStavrotheotokion.incipit = oc.m1.d4_en_US_dedes.ocVE.SticTheotokion.incipit
 meMA.AposStavrotheotokion.text = oc.m1.d4_en_US_dedes.ocVE.SticTheotokion.text

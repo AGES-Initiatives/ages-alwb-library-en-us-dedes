@@ -59,6 +59,7 @@ meVE.SticGlory.incipit = me.m02.d02_en_US_dedes.meVE.LityGlory.incipit
 meVE.SticGlory.text = me.m02.d02_en_US_dedes.meVE.LityGlory.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
 meVE.Aposticha1.incipit = me.m02.d04_en_US_dedes.meVE.Aposticha2.incipit
 meVE.Aposticha1.text = me.m02.d04_en_US_dedes.meVE.Aposticha2.text
@@ -375,16 +376,19 @@ meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "As a pastor you shepherded…"
 meMA.Exaposteilarion1.text = "As a pastor you shepherded * the Master's flock and led it * to the pastures of right belief, * O all-wise holy Bishop, * and drove away as if wild beasts * every heresy; therefore * we pray you now watch over us * from heaven in your mercy, as you now stand * with the all-immaculate Theotokos * near the throne of Divinity, O ever-blessed father."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.incipit = "Ineffably forsaking not * the…"
 meMA.Exaposteilarion2.text = "Ineffably forsaking not * the bosom of the Father, * in His extreme benevolence * the Logos from a Virgin * is born and He is an infant. * Symeon now receives Him * in his embraces; and along * with the Elder is Anna the very old, * and they both gave thanks to Him as the Master; * and thereby they announced to all * the salvation of mortals."
 
 meMA.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
 meMA.Aposticha1.incipit = me.m02.d02_en_US_dedes.meSV.Aposticha1.incipit
 meMA.Aposticha1.text = me.m02.d02_en_US_dedes.meSV.Aposticha1.text
@@ -415,11 +419,13 @@ meMegalynarion.text = ""
 //These extra hymns are found in the back of the Feb. Menaion
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.SticTheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meVE.SticTheotokion.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meVE.SticTheotokion.incipit = oc.m6.d5_en_US_dedes.ocVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = oc.m6.d5_en_US_dedes.ocVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meVE.SticStavrotheotokion.incipit = oc.m6.d4_en_US_dedes.ocMA.AposTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m6.d4_en_US_dedes.ocMA.AposTheotokion.text

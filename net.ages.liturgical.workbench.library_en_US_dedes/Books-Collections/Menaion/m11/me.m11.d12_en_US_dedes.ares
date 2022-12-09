@@ -58,16 +58,19 @@ meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
+meVE.SticTheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 meVE.SticTheotokion.incipit = "What can I, the wretch…"
 meVE.SticTheotokion.text = "What can I, the wretch, now bring to you, * other than a fountain of teardrops and my confession of sins * that I have committed, Lady of the universe. * I entreat you to look upon * the weakness and sickness * of my humble soul, O Maiden, with a merciful eye. * Drive away the clouds of my passions; * I implore you, free me, your servant, * from the blinding fogginess surrounding me."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
+meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 meVE.SticStavrotheotokion.incipit = "As Your Virgin Mother gazed…"
 meVE.SticStavrotheotokion.text = "As Your Virgin Mother gazed on You * splayed upon the Cross, O Lord Jesus, when You were crucified, * weeping she cried out and said, \"O sweetest Child of mine, * unapproachable Light of the beginningless Father, * why have You abandoned me, Your only mother, my Son? * Hurry and be glorified, so that * those who glorify Your all-holy * Passion may be glorified with grace divine.\""
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
 meVE.Aposticha1.incipit = "Rejoice, the shining lamp of…"
 meVE.Aposticha1.text = "Rejoice, the shining lamp of the Church, * the pride and joy of all the world and admired by all, * foundation of Orthodoxy, and Alexandria's pride, * rule of self-control and ascetical discipline, * the port for the storm-tossed, rescue of people in jeopardy, * a mighty fortress and a guardian most secure,* law put into practice, and sea of beneficence; * you are the cheerful giver who abundantly gives to all * what is appropriate when they * in faith to you run, all blessed one. * To Christ pray intently, * and beseech Him that great mercy be given to our souls."
@@ -98,6 +101,7 @@ meVE.AposTheotokion.incipit = he.o_en_US_dedes.heOT.TheotokeSyEi.incipit
 meVE.AposTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiIerarchou.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.AposStavrotheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meVE.AposStavrotheotokion.incipit = oc.m6.d4_en_US_dedes.ocVE.AposTheotokion.incipit
 meVE.AposStavrotheotokion.text = oc.m6.d4_en_US_dedes.ocVE.AposTheotokion.text
@@ -584,11 +588,13 @@ meMA.Ode9H.incipit = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.incipit
 meMA.Ode9H.text = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.name
 meMA.Exaposteilarion1.incipit = "Let us all sing the…"
 meMA.Exaposteilarion1.text = "Let us all sing the praises * of John who imitated God * the lover of tender mercies, * so that through him we may obtain * the cancellation of all debts * and remission of offences."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.name
 meMA.Exaposteilarion2.incipit = "O godly-minded Nilus, * since…"
 meMA.Exaposteilarion2.text = "O godly-minded Nilus, * since by the water of your tears * your soul is enriched and fruitful, * entreat the Lord to cleanse our souls * of all defilement, as we now * extol you with love and fervor."
@@ -604,11 +610,13 @@ meMA.AposGlory.incipit = me.m01.d15_en_US_dedes.meVE.AposGlory.incipit
 meMA.AposGlory.text = me.m01.d15_en_US_dedes.meVE.AposGlory.text
 
 meMA.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.AposTheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meMA.AposTheotokion.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meMA.AposTheotokion.incipit = me.m09.d04_en_US_dedes.meVE.AposTheotokion.incipit
 meMA.AposTheotokion.text = me.m09.d04_en_US_dedes.meVE.AposTheotokion.text
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.AposStavrotheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meMA.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meMA.AposStavrotheotokion.incipit = "The blameless Theotokos, O Lord…"
 meMA.AposStavrotheotokion.text = "The blameless Theotokos, O Lord, * was watching You be crucified. * As a mother * she was grieving and she cried, saying, \"O my sweetest Child, * do not abandon me now, * Your faithful servant, O my Son and my God.\""

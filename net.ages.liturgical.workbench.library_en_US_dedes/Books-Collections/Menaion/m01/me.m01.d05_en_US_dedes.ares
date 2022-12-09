@@ -58,6 +58,7 @@ meVE.SticGlory.incipit = me.m01.d02_en_US_dedes.meMA.Aposticha2.incipit
 meVE.SticGlory.text = me.m01.d02_en_US_dedes.meMA.Aposticha2.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode6
+meVE.Aposticha1.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meVE.Aposticha1.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 meVE.Aposticha1.incipit = "Let everything on earth rejoice…"
 meVE.Aposticha1.text = "Let everything on earth rejoice, * and earth itself exult and be glad. * For the Savior, the true river of delight, * is baptized in the river. * He dries up streams of evil, * and He pours out divine forgiveness to all."
@@ -946,16 +947,19 @@ meMA.Ode9H.incipit = he.h.m7_en_US_dedes.heHE.TinYperFysinMitera.incipit
 meMA.Ode9H.text = he.h.m7_en_US_dedes.heHE.TinYperFysinMitera.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.name
 meMA.Exaposteilarion1.incipit = "O hierarch Theopemptos, * whose…"
 meMA.Exaposteilarion1.text = "O hierarch Theopemptos, * whose name in Greek means \"sent from God,\" * God sent you strength as you were tortured, * by which you attracted to the Faith * Theonas your fellow athlete. * We praise you both and extol you."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.name
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
 
 meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.Lauds1.greekmelody = he.a.m6_en_US_dedes.heAU.AiAngelikai.greekname
 meMA.Lauds1.melody = he.a.m6_en_US_dedes.heAU.AiAngelikai.name
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
@@ -971,6 +975,7 @@ meMA.Lauds3.incipit = "…"
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.Lauds4.greekmelody = he.a.m6_en_US_dedes.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_en_US_dedes.heAU.AiAngelikai.name
 meMA.Lauds4.incipit = "…"
 meMA.Lauds4.text = ""
@@ -988,6 +993,7 @@ meMA.LaudsBoth.text = ""
 meMA.MM.Apos1123as5678.text = properties_en_US_dedes.media.key
 
 meMA.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
 meMA.Aposticha1.incipit = "Here is the King; behold…"
 meMA.Aposticha1.text = "Here is the King; behold * the one anticipated * by Israel has come now. * The light begins to shine forth. * O peoples, therefore leap for joy."
