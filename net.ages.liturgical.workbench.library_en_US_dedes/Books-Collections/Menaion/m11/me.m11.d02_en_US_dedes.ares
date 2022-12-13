@@ -104,6 +104,7 @@ meVE.Apolytikion3.incipit = "…"
 meVE.Apolytikion3.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
@@ -114,16 +115,18 @@ meMA.Kathisma1T.incipit = oc.m1.d1_en_US_dedes.ocMA.Kathisma13.incipit
 meMA.Kathisma1T.text = oc.m1.d1_en_US_dedes.ocMA.Kathisma13.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma2T.mode = miscellanea_en_US_dedes.misc.Mode4
-meMA.Kathisma2T.melody = miscellanea_en_US_dedes.misc.Automelon
+meMA.Kathisma2T.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.melody
 meMA.Kathisma2T.incipit = he.a.m4_en_US_dedes.heAU.TachyProkatalave.incipit
 meMA.Kathisma2T.text = he.a.m4_en_US_dedes.heAU.TachyProkatalave.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode5
+meMA.Kathisma31.greekmelody = he.a.m5_en_US_dedes.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma31.melody = he.a.m5_en_US_dedes.heAU.TonSynanarchonLogon.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -213,17 +216,19 @@ meMA.Ode3H.incipit = he.h.m4_en_US_dedes.heHE.OukEnSofia.incipit
 meMA.Ode3H.text = he.h.m4_en_US_dedes.heHE.OukEnSofia.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_dedes.misc.Mode8
-meMA.Ode3KathismaT.melody = miscellanea_en_US_dedes.misc.Automelon
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.melody
 meMA.Ode3KathismaT.incipit = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.incipit
 meMA.Ode3KathismaT.text = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.text
 

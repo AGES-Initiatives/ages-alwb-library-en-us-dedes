@@ -175,16 +175,19 @@ meVE.Apolytikion1.incipit = "Lady full of grace…"
 meVE.Apolytikion1.text = "Lady full of grace, rejoice, O Virgin Theotokos, for Christ our God, the Sun of righteousness has risen from you and He illumined those in darkness. And you, righteous Elder, be glad in heart, receiving in your embraces the One who liberates our souls and bestows on us the Resurrection."
 
 meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode1
-meMA.Kathisma11.melody = miscellanea_en_US_dedes.misc.Automelon
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.greekname
+meMA.Kathisma11.melody = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.melody
 meMA.Kathisma11.incipit = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.incipit
 meMA.Kathisma11.text = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Kathisma21.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma21.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma21.incipit = "The One who is upon…"
 meMA.Kathisma21.text = "The One who is upon the holy throne with the Father, * has come upon the earth and was born of a Virgin. * An infant has He become who by years is uncircumscribed. * And when Symeon in his embraces received Him, * he rejoiced and said, You made me glad, now release me, * Your servant, O compassionate Lord."
 
 meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
 meMA.Kathisma31.incipit = "Now the Ancient of Days…"
 meMA.Kathisma31.text = "Now the Ancient of Days becomes an infant for me. * And the most pure God now shares purification with me, * to show that truly He assumed my flesh from the Virgin. * And Symeon was led to know the mystery * and recognized as God the one he saw in the flesh. * And he embraced and kissed Him as life itself, * and he rejoiced as an elder and cried aloud, * Let me depart now, for I have seen You, * O Lord, the life of all things."
@@ -268,6 +271,7 @@ meMA.Ode3C13.incipit = "…"
 meMA.Ode3C13.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
@@ -470,7 +474,7 @@ meMA.Ode9C13.text = "The chaste and devout and elderly * Anna was openly profess
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode3
 meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.greekname
-meMA.Exaposteilarion1.melody = miscellanea_en_US_dedes.misc.Automelon
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.melody
 meMA.Exaposteilarion1.incipit = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.incipit
 meMA.Exaposteilarion1.text = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.text
 

@@ -85,11 +85,13 @@ meVE.Apolytikion1ger.incipit = "…"
 meVE.Apolytikion1ger.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.name
 meMA.Kathisma11.incipit = me.m08.d07_en_US_dedes.meMA.Kathisma11.incipit
 meMA.Kathisma11.text = me.m08.d07_en_US_dedes.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode5
+meMA.Kathisma21.greekmelody = he.a.m5_en_US_dedes.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma21.melody = he.a.m5_en_US_dedes.heAU.TonSynanarchonLogon.name
 meMA.Kathisma21.incipit = "With the Father and Spirit…"
 meMA.Kathisma21.text = "With the Father and Spirit, the Logos has the same * divine honor. And for our salvation He became * incarnate of the Virgin and dwelt on earth among men. * With His chief Disciples He went up Mt. Tabor, and there * He was transfigured in glory. * We now extol His all-holy * condescension as God to us."
@@ -164,11 +166,13 @@ meMA.Ode3H.incipit = he.h.m4_en_US_dedes.heHE.OtiSteiraEteken.incipit
 meMA.Ode3H.text = he.h.m4_en_US_dedes.heHE.OtiSteiraEteken.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
 meMA.Ode3Kathisma2.incipit = me.m08.d06_en_US_dedes.meMA.Kathisma21.incipit
 meMA.Ode3Kathisma2.text = me.m08.d06_en_US_dedes.meMA.Kathisma21.text
@@ -370,7 +374,7 @@ meMA.Exaposteilarion1.text = "Devoted wholly as you are * to God the Ruler over 
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode3
 meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_dedes.heAU.FosAnalloioton.greekname
-meMA.Exaposteilarion2.melody = miscellanea_en_US_dedes.misc.Automelon
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.heAU.FosAnalloioton.melody
 meMA.Exaposteilarion2.incipit = he.a.m3_en_US_dedes.heAU.FosAnalloioton.incipit
 meMA.Exaposteilarion2.text = he.a.m3_en_US_dedes.heAU.FosAnalloioton.text
 

@@ -121,6 +121,7 @@ meVE.Apolytikion1.incipit = "Holy medaled Martyr and healer…"
 meVE.Apolytikion1.text = "Holy medaled Martyr and healer St. Panteleimon, make intercession to our merciful God, that He grant our souls remission of offenses."
 
 meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma11.incipit = "All-blessed one, you loved the…"
 meMA.Kathisma11.text = "All-blessed one, you loved the Christian faith of your mother, * and you convinced your father to convert and adopt it. * You therefore received the grace from God almighty, O holy one, * great and glorious Panteleimon the Martyr, * to cure the illnesses of the sick who  implore you * with reverence and ardent faith."
@@ -131,6 +132,7 @@ meMA.Kathisma1T.incipit = me.m07.d08_en_US_dedes.meMA.Ode3KathismaT.incipit
 meMA.Kathisma1T.text = me.m07.d08_en_US_dedes.meMA.Ode3KathismaT.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 meMA.Kathisma21.incipit = "We believers now extol you…"
 meMA.Kathisma21.text = "We believers now extol you, O wise one. * You were a soldier of the Master, invincible, * courageous, decorated, and the martyrs' pride and joy. * You are praised throughout the world; and we faithfully honor * your all-holy memory, O all-laudable Martyr. * In song we glorify the contests that you won; * and thus we honor and magnify our Savior Christ."
@@ -141,6 +143,7 @@ meMA.Kathisma2T.incipit = me.m06.d28_en_US_dedes.meMA.Ode3KathismaT.incipit
 meMA.Kathisma2T.text = me.m06.d28_en_US_dedes.meMA.Ode3KathismaT.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.name
 meMA.Kathisma31.incipit = "On this day, O martyr…"
 meMA.Kathisma31.text = "On this day, O martyr saint Panteleimon, * your distinguished martyrdom is celebrated everywhere. * We glorify the Giver-of-Life, * for He has made you a powerful patron Saint."
@@ -296,12 +299,13 @@ meMA.Ode3C2T.incipit = "The Lord, who holds all…"
 meMA.Ode3C2T.text = "The Lord, who holds all creation, is by divine plan held in your arms, O Virgin. We pray you now to entreat Him, to deliver our souls from every danger."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_dedes.misc.Mode8
-meMA.Ode3KathismaT.melody = miscellanea_en_US_dedes.misc.Automelon
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.melody
 meMA.Ode3KathismaT.incipit = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.incipit
 meMA.Ode3KathismaT.text = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.text
 

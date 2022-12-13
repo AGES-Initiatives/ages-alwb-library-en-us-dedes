@@ -118,6 +118,7 @@ meVE.Apolytikion1.incipit = "The holy martyrs of the…"
 meVE.Apolytikion1.text = "The holy martyrs of the Lord, Saint Julitta * and her all-blessed son, the three-year-old Cyricus, * appeared before the governor's tribunal to be judged * and courageously proclaimed that they called themselves Christians. * They were not at all afraid of the threats of the tyrants. * And now in heaven they are wearing crowns * as they are standing near Christ with exultant joy."
 
 meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma11.incipit = "Amazed were all the hosts…"
 meMA.Kathisma11.text = "Amazed were all the hosts of immaterial Angels, * beholding how, although you were a baby in body, * invincible Cyricus, you were stunning in victory, * when you wrestled with the incorporeal dragon, * and you threw him down, and you defeated him, crushing * his skull with the rock of faith."
@@ -128,12 +129,13 @@ meMA.Kathisma1T.incipit = oc.m1.d1_en_US_dedes.ocMA.Kathisma13.incipit
 meMA.Kathisma1T.text = oc.m1.d1_en_US_dedes.ocMA.Kathisma13.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Kathisma21.greekmelody = he.a.m3_en_US_dedes.heAU.TinOraiotita.greekname
 meMA.Kathisma21.melody = he.a.m3_en_US_dedes.heAU.TinOraiotita.name
 meMA.Kathisma21.incipit = "How can we properly extol…"
 meMA.Kathisma21.text = "How can we properly extol your martyrdom, * or crown with hymns of praise the pain and suffering * that you endured with such resolve for our Creator, O St. Julitta? * For you let your body be lacerated torturously, * while your soul experienced piercing arrows of sympathy, * when you beheld the crushing of your son's head. * Along with him entreat that we all be saved."
 
 meMA.Kathisma2T.mode = miscellanea_en_US_dedes.misc.Mode3
-meMA.Kathisma2T.melody = miscellanea_en_US_dedes.misc.Automelon
+meMA.Kathisma2T.melody = he.a.m3_en_US_dedes.heAU.TinOraiotita.melody
 meMA.Kathisma2T.incipit = he.a.m3_en_US_dedes.heAU.TinOraiotita.incipit
 meMA.Kathisma2T.text = he.a.m3_en_US_dedes.heAU.TinOraiotita.text
 
@@ -207,6 +209,7 @@ meMA.Ode3H.incipit = he.h.m8_en_US_dedes.heHE.OuraniasApsidos.incipit
 meMA.Ode3H.text = he.h.m8_en_US_dedes.heHE.OuraniasApsidos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
@@ -218,8 +221,8 @@ meMA.Ode3KathismaT.text = ""
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Ode3KathismaSt.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = ""
+meMA.Ode3KathismaSt.incipit = me.m01.d24_en_US_dedes.meMA.Ode3KathismaSt.incipit
+meMA.Ode3KathismaSt.text = me.m01.d24_en_US_dedes.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_dedes.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_dedes.misc.Mode8

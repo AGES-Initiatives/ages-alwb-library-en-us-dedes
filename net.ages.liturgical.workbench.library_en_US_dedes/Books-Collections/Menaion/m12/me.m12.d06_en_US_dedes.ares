@@ -193,6 +193,7 @@ meVE.GeneralApolytikion1.name = "O Father and Hierarch St. Nicholas,"
 meVE.MM.GeneralApolytikion1.text = "" // for media
 
 meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma11.incipit = "You brightly shine on earth…"
 meMA.Kathisma11.text = "You brightly shine on earth with the rays of your wonders, * inciting every tongue to sing praises and glory * of God who has glorified you on earth, O wise Nicholas. * Pray Him earnestly, as one select of the fathers, * that we who keep your feast with faith and love be delivered * from every necessity."
@@ -203,6 +204,7 @@ meMA.Kathisma1T.incipit = oc.m1.d1_en_US_dedes.ocMA.Kathisma23.incipit
 meMA.Kathisma1T.text = oc.m1.d1_en_US_dedes.ocMA.Kathisma23.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.name
 meMA.Kathisma21.incipit = "Blessed father Nicholas, * you…"
 meMA.Kathisma21.text = "Blessed father Nicholas, * you are a foremost defender * of the faithful, guard and shield, * Ven'rable saint, and it is clear * that you redeem them from every woe, * O finest honor and glory of hierarchs."
@@ -213,6 +215,7 @@ meMA.Kathisma2T.incipit = me.m07.d05_en_US_dedes.meMA.Kathisma2T.incipit
 meMA.Kathisma2T.text = me.m07.d05_en_US_dedes.meMA.Kathisma2T.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
 meMA.Kathisma31.incipit = "O Nicholas, manifestly you protected…"
 meMA.Kathisma31.text = "O Nicholas, manifestly you protected the Church * of Christ with the utmost zeal, refuting godless beliefs * and doctrines of heresies, * censuring them with candor. * And for all you were clearly * Orthodoxy's rule of faith and great intercessor * for all who would follow your divine teachings and conferences."
@@ -398,12 +401,13 @@ meMA.Ode3C3T.incipit = "…"
 meMA.Ode3C3T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_dedes.misc.Mode8
-meMA.Ode3KathismaT.melody = miscellanea_en_US_dedes.misc.Automelon
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.melody
 meMA.Ode3KathismaT.incipit = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.incipit
 meMA.Ode3KathismaT.text = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.text
 

@@ -22,7 +22,7 @@ meDA.dismissal = dismissals_en_US_dedes.dis00.epiphany
 
 //Θεοφάνους Ὁμολογητοῦ
 meVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode5
-meVE.Stichera01.melody = miscellanea_en_US_dedes.misc.Automelon
+meVE.Stichera01.melody = he.a.m5_en_US_dedes.heAU.OsiePater.melody
 meVE.Stichera01.incipit = he.a.m5_en_US_dedes.heAU.OsiePater.incipit
 meVE.Stichera01.text = he.a.m5_en_US_dedes.heAU.OsiePater.text
 
@@ -84,21 +84,25 @@ meVE.MM.GeneralApolytikion1.text = properties_en_US_dedes.media.key
 meVE.GeneralApolytikion1.name = "Theodosios," // name of saint for General Apolytikia
 
 meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
 meMA.Kathisma11.incipit = me.m01.d08_en_US_dedes.meMA.Kathisma11.incipit
 meMA.Kathisma11.text = me.m01.d08_en_US_dedes.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
 meMA.Kathisma21.incipit = me.m01.d10_en_US_dedes.meMA.Kathisma21.incipit
 meMA.Kathisma21.text = me.m01.d10_en_US_dedes.meMA.Kathisma21.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Kathisma31.greekmelody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.greekname
 meMA.Kathisma31.melody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.name
 meMA.Kathisma31.incipit = "Raising up your hands to…"
 meMA.Kathisma31.text = "Raising up your hands to the high heavens, * you appeared to be a fiery pillar, * O holy Father, shining brightly with rays of prayer. * For having flown with your mind to the heavens' heights, * and taking part in ineffable mysteries, * you shone brilliantly, while fervently praying Christ our God, * entreating that He grant to us His great mercy."
 
 meMA.Kathisma32.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Kathisma32.greekmelody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.greekname
 meMA.Kathisma32.melody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.name
 meMA.Kathisma32.incipit = me.m01.d10_en_US_dedes.meMA.Kathisma11.incipit
 meMA.Kathisma32.text = me.m01.d10_en_US_dedes.meMA.Kathisma11.text
@@ -185,11 +189,13 @@ meMA.Ode3C1T.incipit = "…"
 meMA.Ode3C1T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

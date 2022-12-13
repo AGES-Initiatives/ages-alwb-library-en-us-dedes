@@ -81,16 +81,18 @@ meVE.Apolytikion1.text = "The Forerunner's head has risen once again from the ea
 meCO.SupplicationVerse.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
 meMA.Kathisma11.incipit = "Now Christ has revealed to…"
 meMA.Kathisma11.text = "Now Christ has revealed to us your sacred head once again, * a most holy treasure hidden underground for so long, * O Prophet and Forerunner. * Therefore we have assembled for the feast of its Finding, * singing our God-inspired hymns in praise of the Savior, * who saves us from destruction, by your earnest prayers to Him."
 
 meMA.Kathisma1T.mode = miscellanea_en_US_dedes.misc.Mode4
-meMA.Kathisma1T.melody = miscellanea_en_US_dedes.misc.Automelon
+meMA.Kathisma1T.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.melody
 meMA.Kathisma1T.incipit = he.a.m4_en_US_dedes.heAU.TachyProkatalave.incipit
 meMA.Kathisma1T.text = he.a.m4_en_US_dedes.heAU.TachyProkatalave.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 meMA.Kathisma21.incipit = "Your sacred Head was found…"
 meMA.Kathisma21.text = "Your sacred Head was found through strange circumstances; * for it was hidden underground in a cavern, * and it came up like gold out of a mine, enriching all * who came to participate in the feast of its Finding, * singing hymns of praise to Christ, our Creator and Savior. * O blessed Baptist of the Lord, through you * He gives forgiveness and mercy abundantly."
@@ -101,6 +103,7 @@ meMA.Kathisma2T.incipit = ho.s23_en_US_dedes.hoCA.Apolytikion2.incipit
 meMA.Kathisma2T.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.name
 meMA.Kathisma31.incipit = "To a woman Herod gave…"
 meMA.Kathisma31.text = "To a woman Herod gave * your most august head, * and he thus transgressed the law, * O holy Forerunner St. John. * Now at its finding we cry to you, * Entreat the Savior that mercy be given to all."
@@ -195,17 +198,19 @@ meMA.Ode3C1T.incipit = "O pure Maiden, the miracle…"
 meMA.Ode3C1T.text = "O pure Maiden, the miracle of your divine childbirth transcends the whole natural order; for supernaturally you conceived God in your womb, and you ever remain a virgin, even after giving birth."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_dedes.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.heAU.ToProstachthen.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_dedes.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_dedes.heAU.ToProstachthen.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_dedes.misc.Mode4
-meMA.Ode3KathismaT.melody = miscellanea_en_US_dedes.misc.Automelon
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_dedes.heAU.ToProstachthen.melody
 meMA.Ode3KathismaT.incipit = he.a.m8_en_US_dedes.heAU.ToProstachthen.incipit
 meMA.Ode3KathismaT.text = he.a.m8_en_US_dedes.heAU.ToProstachthen.text
 

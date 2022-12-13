@@ -94,6 +94,7 @@ meVE.Apolytikion1.incipit = me.m11.d13_en_US_dedes.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m11.d13_en_US_dedes.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma11.incipit = "Illuminating earth like a great…"
 meMA.Kathisma11.text = "Illuminating earth like a great sun with flashes * of dogmas of the Faith, you dispelled all the darkness * of spiritual ignorance, blessed Father John Chrysostom. * Now I pray to you: From the eternal darkness * free me, by your prayers, and grant that I be illumined * with salvation's light divine."
@@ -104,6 +105,7 @@ meMA.Kathisma1T.incipit = "The miracle transcends mind and…"
 meMA.Kathisma1T.text = "The miracle transcends mind and thought, how you only * have seedlessly borne Christ, and are Virgin and Mother. * And therefore we glorify you as Mother of God and true * Theotokos, for you bore the King of glory. * Pray Him earnestly to grant His peace to the world * and also to save our souls."
 
 meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 meMA.Kathisma21.incipit = "You were by Christ given…"
 meMA.Kathisma21.text = "You were by Christ given to the Church as a golden, * delightful instrument, divine and melodious, * speaking from God, O blessed Father Chrysostom. * You were like a shiny-gold, sweetly speaking songbird, * and you were a gilded mind, and a harp of repentance. * Praiseworthy Shepherd, by your earnest prayers * from all temptations deliver us who honor you."
@@ -114,12 +116,13 @@ meMA.Kathisma2T.incipit = me.m01.d21_en_US_dedes.meMA.Ode3KathismaT.incipit
 meMA.Kathisma2T.text = me.m01.d21_en_US_dedes.meMA.Ode3KathismaT.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
 meMA.Kathisma31.incipit = "When you worthily became the…"
 meMA.Kathisma31.text = "When you worthily became the shepherd of the flock of Christ, * by divine decree, O Saint, you drove the wolves out of it, * using the words of your sermons like a slingshot. * You readily rebuked those who were breaking the law. * They spitefully expelled you, Father Chrysostom. * And for the sake of your flock you traveled * a long road, on which you died at last. * But you returned to Constantinople, * granting divine gifts of grace."
 
 meMA.Kathisma3T.mode = miscellanea_en_US_dedes.misc.Mode4
-meMA.Kathisma3T.melody = miscellanea_en_US_dedes.misc.Automelon
+meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.melody
 meMA.Kathisma3T.incipit = he.a.m4_en_US_dedes.heAU.KateplagiIosif.incipit
 meMA.Kathisma3T.text = he.a.m4_en_US_dedes.heAU.KateplagiIosif.text
 
@@ -320,6 +323,7 @@ meMA.Ode3C3T.incipit = "…"
 meMA.Ode3C3T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""

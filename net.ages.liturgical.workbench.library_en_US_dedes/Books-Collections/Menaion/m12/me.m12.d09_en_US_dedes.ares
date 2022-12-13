@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = me.m12.d09_en_US_dedes
 
 meDA.date = "December 9" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meDA.commemoration.full = "The Conception of St. Anna, the Mother of the Theotokos; and Commemoration of the Dedication." // full title of day
-meDA.commemoration.first = "The Conception of St. Anna"
-meDA.commemoration.first_short = "The Conception of St. Anna"
+meDA.commemoration.full = "Saint Anna's Conception of the most-holy Theotokos; and Commemoration of the Dedication." // full title of day
+meDA.commemoration.first = "St. Anna's Conception of the Theotokos"
+meDA.commemoration.first_short = "St. Anna's Conception of the Theotokos"
 meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintW
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = titles_en_US_dedes.ti.Consecration
@@ -11,7 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "whose conception we celebrate," // for use in petitions and dismissal
 meDA.note = ""
-meLE.commemoration1 = "The Conception of Saint Anna, Mother of the Theotokos."
+meLE.commemoration1 = "St. Anna's Conception of the Theotokos."
 meLE.commemoration2 = ""
 meHO.number = ""
 meHO.rank = ""
@@ -99,21 +99,25 @@ meVE.Apolytikion2.incipit = "You have made the earthly…"
 meVE.Apolytikion2.text = "You have made the earthly beauty of the holy tabernacle of Your glory to be like the majesty of the firmament on high, O Lord. Make it strong forever and ever, and accept our supplications that we unceasingly bring to You there, at the intercession of the Theotokos. For You are the life and resurrection of all."
 
 meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.name
 meMA.Kathisma11.incipit = "Now forming in the womb…"
 meMA.Kathisma11.text = "Now forming in the womb of Saint Anne is the new Heaven * by God's divine command as He accomplishes all things. * From this Heaven has shone forth the divine never-setting Sun. * By the rays of His divinity He is leading * all the world to light, in His exceeding compassion, * as the only One who loves mankind."
 
 meMA.Kathisma12.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Kathisma12.greekmelody = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.greekname
 meMA.Kathisma12.melody = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.name
 meMA.Kathisma12.incipit = "The blameless and all pure…"
 meMA.Kathisma12.text = "The blameless and all pure * Maid of God was aforetime * predicted and announced by the choir of Prophets. * Now barren and childless Anne * has conceived her by Joachim. * Come today, with joy * of heart and great exultation, * let us call her blest, * the only all-blameless Virgin, * through whom we have all been saved."
 
 meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
 meMA.Kathisma21.incipit = "O Adam, be rejuvenated; also…"
 meMA.Kathisma21.text = "O Adam, be rejuvenated; also Eve, leap for joy. * The arid ground of Anna's barren womb has brought forth its fruit, * sublime and luxuriant, * namely the Virgin Mary, * who will bear for the whole world * the ear of immortality. And thus the dishonor * of childlessness is removed. * So let us rejoice today."
 
 meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
 meMA.Kathisma31.incipit = "Shout, O David, and declare…"
 meMA.Kathisma31.text = "Shout, O David, and declare, what oath did God swear to you? * And he answers, \"What He swore, behold, He also has fulfilled, * for He has given the Virgin as the fruit of my loins. * From her has Christ the new Adam and Fashioner * been born, as it is written, to be King on my throne. * And He whose reign is unshakable is reigning today and forevermore. * The barren woman bears the Theotokos, * yes, the nourisher of our Life.\""
@@ -291,16 +295,19 @@ meMA.Kontakion1.text = ""
 meMA.Oikos1.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Ode3Kathisma3.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Ode3Kathisma3.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 meMA.Ode3Kathisma3.incipit = "…"
 meMA.Ode3Kathisma3.text = ""

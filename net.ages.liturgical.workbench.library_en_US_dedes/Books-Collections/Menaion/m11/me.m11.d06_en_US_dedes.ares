@@ -51,7 +51,7 @@ meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode1
 meVE.SticTheotokion.greekmelody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
-meVE.SticTheotokion.melody = miscellanea_en_US_dedes.misc.Automelon
+meVE.SticTheotokion.melody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.melody
 meVE.SticTheotokion.incipit = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.incipit
 meVE.SticTheotokion.text = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.text
 
@@ -80,7 +80,7 @@ meVE.AposStavrotheotokion.incipit = "Mother of the Grape-Cluster of…"
 meVE.AposStavrotheotokion.text = "Mother of the Grape-Cluster of life, * that uncultivated developed within your holy womb, * as you saw Him crucified and hanging on the Cross, * you lamented and raised a cry, and said, \"O my Child, * drip the sweetest wine that takes away the drunkenness * of the sinful passions, O Good One, * showing thus Your divine compassion * through me who ineffably gave birth to You.\""
 
 meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode3
-meVE.Apolytikion1.melody = miscellanea_en_US_dedes.misc.Automelon
+meVE.Apolytikion1.melody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.melody
 meVE.Apolytikion1.incipit = he.a.m3_en_US_dedes.heAU.TheiasPisteos.incipit
 meVE.Apolytikion1.text = he.a.m3_en_US_dedes.heAU.TheiasPisteos.text
 
@@ -149,11 +149,13 @@ meMA.Ode3H.incipit = he.h.m4_en_US_dedes.heHE.TousSousYmnologous.incipit
 meMA.Ode3H.text = he.h.m4_en_US_dedes.heHE.TousSousYmnologous.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Ode3Kathisma2.greekmelody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.greekname
 meMA.Ode3Kathisma2.melody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

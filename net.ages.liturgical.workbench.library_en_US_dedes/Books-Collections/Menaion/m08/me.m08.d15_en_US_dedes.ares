@@ -61,7 +61,7 @@ meSV.AposGlory.text = me.m08.d14_en_US_dedes.meMA.AposGlory.text
 
 meVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode1
 meVE.Stichera01.greekmelody = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.greekname
-meVE.Stichera01.melody = miscellanea_en_US_dedes.misc.Automelon
+meVE.Stichera01.melody = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.melody
 meVE.Stichera01.incipit = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.incipit
 meVE.Stichera01.text = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.text
 
@@ -183,16 +183,19 @@ meVE.Apolytikion1.incipit = "You gave birth…"
 meVE.Apolytikion1.text = "You gave birth yet preserved your virginity. You fell asleep in death yet did not desert the world, O Theotokos. You were transported to life, as you are Mother of Life and, by virtue of your intercessions, deliver our souls from death."
 
 meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
 meMA.Kathisma11.incipit = "Prophet David, tell us please…"
 meMA.Kathisma11.text = "Prophet David, tell us please, what do we celebrate today? * \"The Assumption of the one, whom in the Psalms I extolled * as daughter and Virgin and the Mother of God, * when Christ, who without seed was born of her, himself * transported her to heaven, to the mansions there. * And on this day especially mothers, * daughters, and brides of Christ salute her with joy, * 'Rejoice, O Lady! You were transported * to the royal courts on high!'\""
 
 meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Kathisma21.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma21.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma21.incipit = "The honorable choir…"
 meMA.Kathisma21.text = "The honorable choir of the all-wise Apostles * miraculously came, O august Theotokos, * to bury your immaculate holy body with dignity. * Joining them, the hosts of holy Angels extolled you. * With solemnity they sang and praised your Assumption, * which we faithfully celebrate."
 
 meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Kathisma31.greekmelody = he.a.m3_en_US_dedes.heAU.TinOraiotita.greekname
 meMA.Kathisma31.melody = he.a.m3_en_US_dedes.heAU.TinOraiotita.name
 meMA.Kathisma31.incipit = "Seedless conception…"
 meMA.Kathisma31.text = "Seedless conception once preceded childbirth, * and in dormition now is death without decay. * This twofold miracle is seen in you only, Theotokos. * Virgin Mary, how did you * nurse a babe while remaining chaste? * Being buried, now are you * emitting fragrance, O Mother of God! * And therefore with the Angel we sing to you: * Rejoice, O Maiden full of grace."
@@ -442,7 +445,7 @@ meMA.Ode6C22.incipit = "Being the temple of life…"
 meMA.Ode6C22.text = "Being the temple of life itself, * you therefore have obtained everlasting life, O Mother of our God. * For you have passed on to life through death, * O Lady who gave birth unto hypostatic Life."
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode6
-meMA.Kontakion1.melody = miscellanea_en_US_dedes.misc.Automelon
+meMA.Kontakion1.melody = he.a.m6_en_US_dedes.heAU.TinEnPresveiais.melody
 meMA.Kontakion1.incipit = he.a.m6_en_US_dedes.heAU.TinEnPresveiais.incipit
 meMA.Kontakion1.text = he.a.m6_en_US_dedes.heAU.TinEnPresveiais.text
 
@@ -600,7 +603,7 @@ meMA.Ode9C23.text = "Now accept from us * this burial hymn, O Mother of the livi
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode3
 meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_dedes.heAU.ApostoloiEkPeraton.greekname
-meMA.Exaposteilarion1.melody = miscellanea_en_US_dedes.misc.Automelon
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.heAU.ApostoloiEkPeraton.melody
 meMA.Exaposteilarion1.incipit = he.a.m3_en_US_dedes.heAU.ApostoloiEkPeraton.incipit
 meMA.Exaposteilarion1.text = he.a.m3_en_US_dedes.heAU.ApostoloiEkPeraton.text
 

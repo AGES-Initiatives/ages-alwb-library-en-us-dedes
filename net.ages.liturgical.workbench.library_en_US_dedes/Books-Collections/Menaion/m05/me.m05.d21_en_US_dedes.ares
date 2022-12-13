@@ -116,6 +116,7 @@ meVE.Apolytikion1.incipit = "Your Apostle among the Rulers…"
 meVE.Apolytikion1.text = "Your Apostle among the Rulers, St. Constantine, who once beheld in the sky the image of Your Cross, and who like Paul received his calling not from man, once entrusted the Ruling City into Your hand. We entreat You to restore it in peace forever, at the intercession of the Theotokos, O Lord who loves humanity."
 
 meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Kathisma11.greekmelody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.greekname
 meMA.Kathisma11.melody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.name
 meMA.Kathisma11.incipit = "You became a new David…"
 meMA.Kathisma11.text = "You became a new David in manner. * You received the oil of the kingdom, * as an honor from heaven, upon your head. * The Lord and Logos transcending all essences * anointed you with the Spirit, O glorious one. * Therefore you received the scepter to rule, as one most wise. * And you entreat that we obtain the great mercy."
@@ -132,11 +133,13 @@ meMA.Kathisma21.text = "The Maker of the sun and all creation was led once to th
 
 //use the following three keys for the options in the back
 meMA.Kathisma2T.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.Kathisma2T.greekmelody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.greekname
 meMA.Kathisma2T.melody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.name
 meMA.Kathisma2T.incipit = oc.m6.d2_en_US_dedes.ocMA.Kathisma13.incipit
 meMA.Kathisma2T.text = oc.m6.d2_en_US_dedes.ocMA.Kathisma13.text
 
 alt1.meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Kathisma21.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma21.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma21.incipit = "…"
 alt1.meMA.Kathisma21.text = ""
@@ -147,12 +150,13 @@ alt1.meMA.Kathisma2T.incipit = oc.m1.d1_en_US_dedes.ocMO.Kathisma12.incipit
 alt1.meMA.Kathisma2T.text = oc.m1.d1_en_US_dedes.ocMO.Kathisma12.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
 meMA.Kathisma31.incipit = "Your dignified memory…"
 meMA.Kathisma31.text = "Your dignified memory has shone upon us today. * It brightens the universe with light of knowledge divine, * O God-inspired Constantine. * You among kings and rulers showed yourself to be pious, * for you obeyed the laws of the King of the heavens. * Therefore by your entreaties, from trials deliver us."
 
 meMA.Kathisma3T.mode = miscellanea_en_US_dedes.misc.Mode4
-meMA.Kathisma3T.melody = miscellanea_en_US_dedes.misc.Automelon
+meMA.Kathisma3T.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.melody
 meMA.Kathisma3T.incipit = he.a.m4_en_US_dedes.heAU.TachyProkatalave.incipit
 meMA.Kathisma3T.text = he.a.m4_en_US_dedes.heAU.TachyProkatalave.text
 
@@ -225,6 +229,7 @@ meMA.Ode3C1T.incipit = "I have fallen, O Pure…"
 meMA.Ode3C1T.text = "I have fallen, O Pure one, from a divine way of life, * and I have become like the cattle. And therefore I am now * condemned in every way. But you the just Judge's mother, * save me and deliver me from condemnation all."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "When you lifted your senses…"
 meMA.Ode3Kathisma1.text = "When you lifted your senses toward the heights * and you studied the beauty of all the stars, * by them you were introduced to the Lord of the universe. * For the shield of the Cross shone resplendently in their midst; * there inscribed was the message, \"In this be victorious.\" * Therefore as the vision of your soul was awakened, * you read what was spelled out there, and you learned what you ought to do. * All-august St. Constantine, * intercede with Christ our God, * that He grant forgiveness of offences * to us who celebrate your holy memory with faith and love."
