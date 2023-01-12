@@ -30,11 +30,13 @@ trVE.AposTheotokion.incipit = oc.m8.d2_en_US_dedes.ocMA.AposTheotokion.incipit
 trVE.AposTheotokion.text = oc.m8.d2_en_US_dedes.ocMA.AposTheotokion.text
 
 trMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Kathisma21.greekmelody = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.greekname
 trMA.Kathisma21.melody = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.name
 trMA.Kathisma21.incipit = "Now opened are the front…"
 trMA.Kathisma21.text = "Now opened are the front gates of godly repentance. * Let us enter eagerly, and purify our bodies, * abstaining from passions and from foods, * and thus be obedient to Christ, * who has called the world to strive for the heavenly kingdom. * We offer up a tenth of every year * as a tithe to the King of all, * that we may celebrate His Resurrection with longing and love."
 
 trMA.Kathisma22.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Kathisma22.greekmelody = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.greekname
 trMA.Kathisma22.melody = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.name
 trMA.Kathisma22.incipit = "Extend your holy hands, with…"
 trMA.Kathisma22.text = "Extend your holy hands, with which you held our Creator, * imploring Him, our God who for us became incarnate, * all-holy Virgin Mother, and entreat * for us who are extolling you with love, * that He free us from temptations, * from passions, and from dangers, as we sing to you: * Glory to Him who dwelt inside of you! * Glory to Him who came forth from you! * Glory be to Him who through your childbirth has set us free!"
@@ -48,6 +50,7 @@ trMA.C1.verse = prayers_en_US_dedes.pr.verse_God.text
 
 trMA.Ode1C11.ode = miscellanea_en_US_dedes.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Ode1C11.greekmelody = he.h.m1_en_US_dedes.heHE.OdinEpinikion.greekname
 trMA.Ode1C11.melody = he.h.m1_en_US_dedes.heHE.OdinEpinikion.notmetered
 trMA.Ode1C11.incipit = "Joyful is forefeast of the…"
 trMA.Ode1C11.text = "Joyful is forefeast of the period of abstinence; bright is the threshold of Lent today. So let us run the race together, brethren, with great confidence and zeal."
@@ -75,6 +78,7 @@ trMA.C2.verse = prayers_en_US_dedes.pr.verse_God.text
 
 trMA.Ode1C21.ode = miscellanea_en_US_dedes.misc.Ode1
 trMA.Ode1C21.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Ode1C21.greekmelody = he.h.m1_en_US_dedes.heHE.OdinEpinikion.greekname
 trMA.Ode1C21.melody = he.h.m1_en_US_dedes.heHE.OdinEpinikion.notmetered
 trMA.Ode1C21.incipit = "Behold, O lovers of God…"
 trMA.Ode1C21.text = "Behold, O lovers of God, the door of repentance is beginning to open. Come, let us eagerly enter by it, lest Christ close it on us as being unworthy."
@@ -99,12 +103,14 @@ trMA.Ode1C2T.text = "In you the laws of nature are defeated, O all-pure holy Vir
 
 trMA.Ode1C2H.ode = miscellanea_en_US_dedes.misc.Ode1
 trMA.Ode1C2H.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Ode1C2H.greekmelody = he.h.m1_en_US_dedes.heHE.OdinEpinikion.greekname
 trMA.Ode1C2H.melody = he.h.m1_en_US_dedes.heHE.OdinEpinikion.melody
 trMA.Ode1C2H.incipit = he.h.m1_en_US_dedes.heHE.OdinEpinikion.incipit
 trMA.Ode1C2H.text = he.h.m1_en_US_dedes.heHE.OdinEpinikion.text
 
 trMA.Ode8C11.ode = miscellanea_en_US_dedes.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Ode8C11.greekmelody = he.h.m1_en_US_dedes.heHE.OnFrittousinAngeloi.greekname
 trMA.Ode8C11.melody = he.h.m1_en_US_dedes.heHE.OnFrittousinAngeloi.notmetered
 trMA.Ode8C11.incipit = "Like the Prodigal Son, I…"
 trMA.Ode8C11.text = "Like the Prodigal Son, I squandered my entire living, and I worked for citizens who were wicked and mean. Now as I yearn to return to Your tender mercies, O Christ, please do not spurn me."
@@ -129,6 +135,7 @@ trMA.Ode8C1T.text = "O Virgin extolled by all, you are the only constant helper 
 
 trMA.Ode8C21.ode = miscellanea_en_US_dedes.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Ode8C21.greekmelody = he.h.m1_en_US_dedes.heHE.YmnonSoiProsferomen.greekname
 trMA.Ode8C21.melody = he.h.m1_en_US_dedes.heHE.YmnonSoiProsferomen.notmetered
 trMA.Ode8C21.incipit = "This is the season of…"
 trMA.Ode8C21.text = "This is the season of repentance. Brethren, let us happily commence, as we sing, \"Bless the Lord, all you works of the Lord!\""
@@ -153,12 +160,14 @@ trMA.Ode8C2T.text = "Rejoice, pure Virgin, whom all call blessed! We salute you,
 
 trMA.Ode8C2H.ode = miscellanea_en_US_dedes.misc.Ode8
 trMA.Ode8C2H.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Ode8C2H.greekmelody = he.h.m1_en_US_dedes.heHE.YmnonSoiProsferomen.greekname
 trMA.Ode8C2H.melody = he.h.m1_en_US_dedes.heHE.YmnonSoiProsferomen.melody
 trMA.Ode8C2H.incipit = he.h.m1_en_US_dedes.heHE.YmnonSoiProsferomen.incipit
 trMA.Ode8C2H.text = he.h.m1_en_US_dedes.heHE.YmnonSoiProsferomen.text
 
 trMA.Ode9C11.ode = miscellanea_en_US_dedes.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Ode9C11.greekmelody = he.h.m1_en_US_dedes.heHE.TinFotoforonNefelin.greekname
 trMA.Ode9C11.melody = he.h.m1_en_US_dedes.heHE.TinFotoforonNefelin.notmetered
 trMA.Ode9C11.incipit = "In a peaceful state of…"
 trMA.Ode9C11.text = "In a peaceful state of being and sincere frame of mind, O believers let us welcome the most sacred season of holy Lent. Let us pray for the forgiveness of our personal sins, so that we may experience the joy that comes from that."
@@ -183,6 +192,7 @@ trMA.Ode9C1T.text = "O Theotokos, your good Son alone knows our infirmity. We pr
 
 trMA.Ode9C21.ode = miscellanea_en_US_dedes.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Ode9C21.greekmelody = he.h.m1_en_US_dedes.heHE.SeTinOratheisan.greekname
 trMA.Ode9C21.melody = he.h.m1_en_US_dedes.heHE.SeTinOratheisan.notmetered
 trMA.Ode9C21.incipit = "O my soul, the season…"
 trMA.Ode9C21.text = "O my soul, the season of repentance is here. Do not be indifferent. Give food to the hungry. At every hour, day and night, pray to the Lord to save you."
@@ -207,6 +217,7 @@ trMA.Ode9C2T.text = "O Virgin, you are the pride and joy of the faithful, and th
 
 trMA.Ode9C2H.ode = miscellanea_en_US_dedes.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Ode9C2H.greekmelody = he.h.m1_en_US_dedes.heHE.SeTinOratheisan.greekname
 trMA.Ode9C2H.melody = he.h.m1_en_US_dedes.heHE.SeTinOratheisan.melody
 trMA.Ode9C2H.incipit = he.h.m1_en_US_dedes.heHE.SeTinOratheisan.incipit
 trMA.Ode9C2H.text = he.h.m1_en_US_dedes.heHE.SeTinOratheisan.text

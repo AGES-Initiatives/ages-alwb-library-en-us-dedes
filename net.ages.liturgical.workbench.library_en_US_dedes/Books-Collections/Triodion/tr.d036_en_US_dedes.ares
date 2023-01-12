@@ -16,16 +16,19 @@ trCO.header = ""
 trDA.dismissal = dismissals_en_US_dedes.dis00.resurrection
 
 trVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode2
+trVE.Stichera01.greekmelody = he.a.m2_en_US_dedes.heAU.PoioisEffimionStemmasin.greekname
 trVE.Stichera01.melody = he.a.m2_en_US_dedes.heAU.PoioisEffimionStemmasin.name
 trVE.Stichera01.incipit = "Are there any worthy songs…"
 trVE.Stichera01.text = "Are there any worthy songs of praise so that we might sing them to the Hierarch? For he is the trumpet of theology, and he is the fire-breathing mouth of grace, the distinguished vessel of the Spirit; the pillar of the Church, indeed unshakable; the great joy and exultation of the universe; the flowing river of wisdom, and the lamp of divine light, the resplendently shining star that illumines creation brilliantly."
 
 trVE.Stichera02.mode = miscellanea_en_US_dedes.misc.Mode2
+trVE.Stichera02.greekmelody = he.a.m2_en_US_dedes.heAU.PoioisEffimionStemmasin.greekname
 trVE.Stichera02.melody = he.a.m2_en_US_dedes.heAU.PoioisEffimionStemmasin.name
 trVE.Stichera02.incipit = "Are there any hymns like…"
 trVE.Stichera02.text = "Are there any hymns like flowers in bloom, for a wreath to crown the holy Hierarch? He is a defender of Orthodoxy, and the adversary of heresy, and the Faith's most earnest protector; the great guide, leader and teacher of divine wisdom; the sacred and all-harmonious harp the Spirit played; the golden tongue, and the fountain, which is ever gushing forth to the faithful streams of cures; the great and truly admirable Gregory."
 
 trVE.Stichera03.mode = miscellanea_en_US_dedes.misc.Mode2
+trVE.Stichera03.greekmelody = he.a.m2_en_US_dedes.heAU.PoioisEffimionStemmasin.greekname
 trVE.Stichera03.melody = he.a.m2_en_US_dedes.heAU.PoioisEffimionStemmasin.name
 trVE.Stichera03.incipit = "Are there any lips of…"
 trVE.Stichera03.text = "Are there any lips of earthborn men that can worthily extol the Hierarch? For he is the teacher of all the Church, and he is the preacher of the light of God; and the Holy Trinity's true mystic; the great pride of the monastics and their ornament, who shined forth in contemplation and the active life; Thessaloniki's great glory, and a fellow-citizen now in heaven of that divine, stupendous gusher of fragant oil, Demetrius."
@@ -77,6 +80,7 @@ trMA.C1.verse = prayers_en_US_dedes.pr.verse_SaintM.text
 
 trMA.Ode1C11.ode = miscellanea_en_US_dedes.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode1C11.greekmelody = he.h.m4_en_US_dedes.heHE.AnoixoToStomaMou.greekname
 trMA.Ode1C11.melody = he.h.m4_en_US_dedes.heHE.AnoixoToStomaMou.name
 trMA.Ode1C11.incipit = "O God-inspired orators, with the…"
 trMA.Ode1C11.text = "O God-inspired orators, with the select theologians, come * together with every tongue that speaks the things of God, * join in unison to worthily sing praises * to the Spirit's orator, the holy Gregory."
@@ -101,6 +105,7 @@ trMA.Ode1C1T.text = "All-blameless one, be to me a path of life, ever guiding me
 
 trMA.Ode3C11.ode = miscellanea_en_US_dedes.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode3C11.greekmelody = he.h.m4_en_US_dedes.heHE.TousSousYmnologous.greekname
 trMA.Ode3C11.melody = he.h.m4_en_US_dedes.heHE.TousSousYmnologous.name
 trMA.Ode3C11.incipit = "Adhering faithfully to the courses…"
 trMA.Ode3C11.text = "Adhering faithfully to the courses * of your godly teachings, we escape * the wiles of the heretics. * And through your sacred treatises * we put to flight all their arrays, O most divine father Gregory."
@@ -124,17 +129,20 @@ trMA.Ode3C1T.incipit = "With full knowledge and by…"
 trMA.Ode3C1T.text = "With full knowledge and by my own free choice, * I eagerly loved a way of life * both prodigal and full of shame. * But bind me to the tender love * of God, O Virgin Bride of God, through your divine intercessory prayers."
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.greekname
 trMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
 trMA.Ode3Kathisma1.incipit = "O wise one, the error…"
 trMA.Ode3Kathisma1.text = "O wise one, the error of the heretics you consumed * and properly clarified for all the Orthodox Faith * and brought light to all the world. * Hence you were manifested as a champion and victor, * one of the Church's pillars, and a genuine bishop. * Cease not interceding with Christ that all of us might be saved."
 
 trMA.Ode3Kathisma2.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.greekname
 trMA.Ode3Kathisma2.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
 trMA.Ode3Kathisma2.incipit = "Be swift to accept our…"
 trMA.Ode3Kathisma2.text = "Be swift to accept our fervent prayers, O Lady and Queen, * and take them, all-blameless Maiden, and present them for us * before your own Son and God. * Obliterate the scandals of the slanderous babblers, * frustrate the machinations and humble the boldness * of the godless, O Pure one, who against your servants have taken arms."
 
 trMA.Ode4C11.ode = miscellanea_en_US_dedes.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode4C11.greekmelody = he.h.m4_en_US_dedes.heHE.TinAnexichniaston.greekname
 trMA.Ode4C11.melody = he.h.m4_en_US_dedes.heHE.TinAnexichniaston.name
 trMA.Ode4C11.incipit = "Opening your mouth, O wise…"
 trMA.Ode4C11.text = "Opening your mouth, O wise father, you preached * the wisdom of God which you constantly * carefully studied in your heart, O blessed Saint, * and proved the foolish Barlaam * lacking understanding and frivolous."
@@ -159,6 +167,7 @@ trMA.Ode4C1T.text = "I beseech you, open the ears of my soul, * O Mother of God 
 
 trMA.Ode5C11.ode = miscellanea_en_US_dedes.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode5C11.greekmelody = he.h.m4_en_US_dedes.heHE.ExestiTaSympanta.greekname
 trMA.Ode5C11.melody = he.h.m4_en_US_dedes.heHE.ExestiTaSympanta.name
 trMA.Ode5C11.incipit = "O hierarch Gregory, using the…"
 trMA.Ode5C11.text = "O hierarch Gregory, using the sickle of your words * and your sacred writings, you have cut down * the thorny heresies and the spurious shoots * of scandalous teachings as if weeds, * and you sowed the pious seeds of the Faith of the Orthodox."
@@ -183,6 +192,7 @@ trMA.Ode5C1T.text = "Immaculate Virgin, wash away the squalor of my heart * with
 
 trMA.Ode6C11.ode = miscellanea_en_US_dedes.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode6C11.greekmelody = he.h.m4_en_US_dedes.heHE.TinTheianTaftin.greekname
 trMA.Ode6C11.melody = he.h.m4_en_US_dedes.heHE.TinTheianTaftin.name
 trMA.Ode6C11.incipit = "The tongue and impious insolence…"
 trMA.Ode6C11.text = "The tongue and impious insolence * of witless Barlaam have been shattered by the dogmas and the words * and the acute understanding of the Emperor with wisdom and you, O Gregory."
@@ -235,6 +245,7 @@ trSY.lastline = "By his intercessions, O God, have mercy on us and save us. Amen
 
 trMA.Ode7C11.ode = miscellanea_en_US_dedes.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode7C11.greekmelody = he.h.m4_en_US_dedes.heHE.OukElatrefsan.greekname
 trMA.Ode7C11.melody = he.h.m4_en_US_dedes.heHE.OukElatrefsan.name
 trMA.Ode7C11.incipit = "All who study well *…"
 trMA.Ode7C11.text = "All who study well * your discourses and writings are initiated into the sacred knowledge of God. * With spiritual wisdom are they filled, O Gregory. * They theologize about God's uncreated grace * and His energies and actions."
@@ -259,6 +270,7 @@ trMA.Ode7C1T.text = "By the sicknesses * of passions we are withered up. Yet we 
 
 trMA.Ode8C11.ode = miscellanea_en_US_dedes.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode8C11.greekmelody = he.h.m4_en_US_dedes.heHE.PaidasEvageis.greekname
 trMA.Ode8C11.melody = he.h.m4_en_US_dedes.heHE.PaidasEvageis.name
 trMA.Ode8C11.incipit = "Resembling the holy Theologians *…"
 trMA.Ode8C11.text = "Resembling the holy Theologians * in mind and in manner, now you stand before * the throne of the All-merciful * with them, O most wise Gregory, * the excellence of hierarchs. And now you worship God, * O Primate of Thessaloniki, * splendidly adorned in the hierarchal glory."
@@ -283,6 +295,7 @@ trMA.Ode8C1T.text = "In you did the Word of God, O Virgin, * refashion our morta
 
 trMA.Ode9C11.ode = miscellanea_en_US_dedes.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode9C11.greekmelody = he.h.m4_en_US_dedes.heHE.ApasGigenis.greekname
 trMA.Ode9C11.melody = he.h.m4_en_US_dedes.heHE.ApasGigenis.name
 trMA.Ode9C11.incipit = "You preserved unstained * that…"
 trMA.Ode9C11.text = "You preserved unstained * that which is according to God's image in yourself * and regained His likeness too. * For you set bravely your intellect to rule * over the carnal passions, and became a mirror of God. * You have thus become the Holy Trinity's * most illustrious dwelling, O Gregory."
@@ -306,16 +319,19 @@ trMA.Ode9C1T.incipit = "All with one accord *…"
 trMA.Ode9C1T.text = "All with one accord * we the faithful offer you a hymn of gratitude. * For you who gave birth to God * emancipated us from the ancient curse. * And therefore through you all of us enjoy the fruits of divine * blessing and salvation and enlightenment * and great mercy and also eternal joy."
 
 trMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+trMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 trMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.name
 trMA.Exaposteilarion1.incipit = "Rejoice, the holy fathers' boast…"
 trMA.Exaposteilarion1.text = "Rejoice, the holy fathers' boast, * mouth of the theologians! * Rejoice, O wisdom's dwelling place, * tabernacle of stillness! * Rejoice, O greatest of teachers! * Rejoice, O sea of discourse, * instrument of the active life, * summit of contemplation, and one who heals,* illnesses and passions besetting mankind! * Rejoice, the Holy Spirit's shrine, * dead and alive, O Father!"
 
 trMA.ExapTheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
+trMA.ExapTheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 trMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.name
 trMA.ExapTheotokion.incipit = "All-holy Lady Queen of all…"
 trMA.ExapTheotokion.text = "All-holy Lady Queen of all, * come to our aid in dangers. * Anticipate adversities. * Be with us in our hour * of need, indeed at the Last Day. * Let not Satan or Hades, * nor yet perdition capture us. * But through your intercession, enable all * to appear not guilty before the fearful * judgment-seat of your Son and God, * O Lady Theotokos."
 
 trMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Lauds1.greekmelody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
 trMA.Lauds1.melody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
 trMA.Lauds1.incipit = "While in the world, you…"
 trMA.Lauds1.text = "While in the world, you attained to a life of blessedness. * And now you are exulting with the ranks of the blessed * and dwell, O Bishop Gregory, in the land of the meek, being meek yourself. * And you are rich in God's miracle-working grace, * which you grant to those who honor you."

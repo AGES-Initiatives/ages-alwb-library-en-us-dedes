@@ -14,6 +14,7 @@ peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_dedes.dis00.resurrection
 
 peVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode1
+peVE.Stichera01.greekmelody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
 peVE.Stichera01.melody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
 peVE.Stichera01.incipit = "We who are wearing the…"
 peVE.Stichera01.text = "We who are wearing the garment and robe of righteousness, * whiter than snow, on this day * that we celebrate Pascha, * on which our Savior Christ has risen from the dead, * like a bright sun of righteousness, * let us rejoice and be merry, for He has shined * incorruption and illumined us."
@@ -54,11 +55,13 @@ peVE.AposGlory.incipit = pe.d078_en_US_dedes.peVE.Lity2.incipit
 peVE.AposGlory.text = pe.d078_en_US_dedes.peVE.Lity2.text
 
 peMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Kathisma11.greekmelody = oc.m1.d6_en_US_dedes.ocMA.Kathisma21.greekmelody
 peMA.Kathisma11.melody = oc.m1.d6_en_US_dedes.ocMA.Kathisma21.melody
 peMA.Kathisma11.incipit = oc.m1.d6_en_US_dedes.ocMA.Kathisma21.incipit
 peMA.Kathisma11.text = oc.m1.d6_en_US_dedes.ocMA.Kathisma21.text
 
 peMA.Kathisma12.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Kathisma12.greekmelody = oc.m1.d1_en_US_dedes.ocMA.Kathisma11.greekmelody
 peMA.Kathisma12.melody = oc.m1.d1_en_US_dedes.ocMA.Kathisma11.melody
 peMA.Kathisma12.incipit = oc.m1.d1_en_US_dedes.ocMA.Kathisma11.incipit
 peMA.Kathisma12.text = oc.m1.d1_en_US_dedes.ocMA.Kathisma11.text
@@ -74,6 +77,7 @@ peMA.Kathisma1T.incipit = oc.m1.d6_en_US_dedes.ocMA.Kathisma33.incipit
 peMA.Kathisma1T.text = oc.m1.d6_en_US_dedes.ocMA.Kathisma33.text
 
 peMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Kathisma21.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 peMA.Kathisma21.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 peMA.Kathisma21.incipit = "Divinely blest are you, *…"
 peMA.Kathisma21.text = "Divinely blest are you, * O disciple St. Thomas: * you touched the marks and wounds of the side of the Savior, * who healed Adam's greatest wound. And you brought indestructible * blessedness to us, who have believed in His rising, * not because we saw, but from His holy Apostles' * God-inspired words alone."
@@ -99,6 +103,7 @@ peMA.LaudsGlory.incipit = pe.d078_en_US_dedes.peVE.LityGlory.incipit
 peMA.LaudsGlory.text = pe.d078_en_US_dedes.peVE.LityGlory.text
 
 peMA.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode4
+peMA.Aposticha1.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 peMA.Aposticha1.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
 peMA.Aposticha1.incipit = "O our Life, You were…"
 peMA.Aposticha1.text = "O our Life, You were crucified * and You thus opened Paradise * unto all mankind. With yourself You raised the dead. * Indeed, You rose from the dead, and by Your might You abolished death, * and You truly joined the things * on the earth to the heavenly, * O Logos of God. * And when You uttered \"Peace be with you\" to the sacred host of Your Apostles, * You filled their souls with abounding joy."

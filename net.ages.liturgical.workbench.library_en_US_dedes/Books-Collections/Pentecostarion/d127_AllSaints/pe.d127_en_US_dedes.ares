@@ -17,11 +17,13 @@ peDA.dismissal = dismissals_en_US_dedes.dis00.resurrection
 peVE.MM.Stichera789as567.text = properties_en_US_dedes.media.key
 
 peVE.Stichera07.mode = miscellanea_en_US_dedes.misc.Mode6
+peVE.Stichera07.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greekname
 peVE.Stichera07.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
 peVE.Stichera07.incipit = "…"
 peVE.Stichera07.text = ""
 
 peVE.Stichera08.mode = miscellanea_en_US_dedes.misc.Mode6
+peVE.Stichera08.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greekname
 peVE.Stichera08.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
 peVE.Stichera08.incipit = "…"
 peVE.Stichera08.text = ""
@@ -91,10 +93,11 @@ peVE.Apolytikion3.melody = ""
 peVE.Apolytikion3.incipit = oc.m4.d1_en_US_dedes.ocVE.ApolTheotokionVM.incipit
 peVE.Apolytikion3.text = oc.m4.d1_en_US_dedes.ocVE.ApolTheotokionVM.text
 
-peMA.Kathisma11.mode = oc.m8.d1_en_US_dedes.ocMA.Kathisma11.mode
-peMA.Kathisma11.melody = oc.m8.d1_en_US_dedes.ocMA.Kathisma11.melody
-peMA.Kathisma11.incipit = oc.m8.d1_en_US_dedes.ocMA.Kathisma11.incipit
-peMA.Kathisma11.text = oc.m8.d1_en_US_dedes.ocMA.Kathisma11.text
+peMA.Kathisma11.mode = he.a.m8_en_US_dedes.heAU.AnestisEkNekron.mode
+peMA.Kathisma11.greekmelody = he.a.m8_en_US_dedes.heAU.AnestisEkNekron.greekname
+peMA.Kathisma11.melody = he.a.m8_en_US_dedes.heAU.AnestisEkNekron.melody
+peMA.Kathisma11.incipit = he.a.m8_en_US_dedes.heAU.AnestisEkNekron.incipit
+peMA.Kathisma11.text = he.a.m8_en_US_dedes.heAU.AnestisEkNekron.text
 
 peMA.Kathisma12.mode = oc.m8.d1_en_US_dedes.ocMA.Kathisma21.mode
 peMA.Kathisma12.melody = ""
@@ -107,6 +110,7 @@ peMA.Kathisma13.incipit = oc.m8.d1_en_US_dedes.ocVE.ApolTheotokionVM.incipit
 peMA.Kathisma13.text = oc.m8.d1_en_US_dedes.ocVE.ApolTheotokionVM.text
 
 peMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode8
+peMA.Kathisma21.greekmelody = he.a.m8_en_US_dedes.heAU.ToProstachthen.greekname
 peMA.Kathisma21.melody = he.a.m8_en_US_dedes.heAU.ToProstachthen.name
 peMA.Kathisma21.incipit = "Arrayed in white, Archangel Gabriel…"
 peMA.Kathisma21.text = "Arrayed in white, Archangel Gabriel appeared bright * and shone like lightning at the Savior Christ's gravesite, * and he rolled back the stone from the sepulcher's entrance. * The guards then were overcome with a mighty fear, * and suddenly they became like dead men. * Gone, the guards from the sepulcher; gone, the seal from the stone. * Embarrassed be the lawless ones, surely knowing that Christ arose."
@@ -127,6 +131,7 @@ peMA.C1.verse = prayers_en_US_dedes.pr.verse_SaintsM.text
 
 peMA.Ode1C11.ode = miscellanea_en_US_dedes.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_US_dedes.misc.Mode8
+peMA.Ode1C11.greekmelody = he.h.m8_en_US_dedes.heHE.ArmatilatinFarao.greekname
 peMA.Ode1C11.melody = he.h.m8_en_US_dedes.heHE.ArmatilatinFarao.name
 peMA.Ode1C11.incipit = "…"
 peMA.Ode1C11.text = ""
@@ -157,6 +162,7 @@ peMA.Ode1C1T.text = ""
 
 peMA.Ode3C11.ode = miscellanea_en_US_dedes.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_US_dedes.misc.Mode8
+peMA.Ode3C11.greekmelody = he.h.m8_en_US_dedes.heHE.OStereosasKatArchas.greekname
 peMA.Ode3C11.melody = he.h.m8_en_US_dedes.heHE.OStereosasKatArchas.name
 peMA.Ode3C11.incipit = "…"
 peMA.Ode3C11.text = ""
@@ -180,17 +186,20 @@ peMA.Ode3C1T.incipit = "…"
 peMA.Ode3C1T.text = ""
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode8
+peMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 peMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 peMA.Ode3Kathisma1.incipit = "…"
 peMA.Ode3Kathisma1.text = ""
 
 peMA.Ode3Kathisma2.mode = miscellanea_en_US_dedes.misc.Mode8
+peMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 peMA.Ode3Kathisma2.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 peMA.Ode3Kathisma2.incipit = oc.m8.d1_en_US_dedes.ocMA.Kathisma13.incipit
 peMA.Ode3Kathisma2.text = oc.m8.d1_en_US_dedes.ocMA.Kathisma13.text
 
 peMA.Ode4C11.ode = miscellanea_en_US_dedes.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_US_dedes.misc.Mode8
+peMA.Ode4C11.greekmelody = he.h.m8_en_US_dedes.heHE.SyMouIschys.greekname
 peMA.Ode4C11.melody = he.h.m8_en_US_dedes.heHE.SyMouIschys.name
 peMA.Ode4C11.incipit = "…"
 peMA.Ode4C11.text = ""
@@ -221,6 +230,7 @@ peMA.Ode4C1T.text = ""
 
 peMA.Ode5C11.ode = miscellanea_en_US_dedes.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_US_dedes.misc.Mode8
+peMA.Ode5C11.greekmelody = he.h.m8_en_US_dedes.heHE.InaTiMeAposo.greekname
 peMA.Ode5C11.melody = he.h.m8_en_US_dedes.heHE.InaTiMeAposo.name
 peMA.Ode5C11.incipit = "…"
 peMA.Ode5C11.text = ""
@@ -245,6 +255,7 @@ peMA.Ode5C1T.text = ""
 
 peMA.Ode6C11.ode = miscellanea_en_US_dedes.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_US_dedes.misc.Mode8
+peMA.Ode6C11.greekmelody = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.greekname
 peMA.Ode6C11.melody = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.name
 peMA.Ode6C11.incipit = "…"
 peMA.Ode6C11.text = ""
@@ -289,6 +300,7 @@ peSY.lastline = "By the intercessions of Your immaculate Mother, O Christ our Go
 
 peMA.Ode7C11.ode = miscellanea_en_US_dedes.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_US_dedes.misc.Mode8
+peMA.Ode7C11.greekmelody = he.h.m8_en_US_dedes.heHE.TheouSynkatavasin.greekname
 peMA.Ode7C11.melody = he.h.m8_en_US_dedes.heHE.TheouSynkatavasin.name
 peMA.Ode7C11.incipit = "…"
 peMA.Ode7C11.text = ""
@@ -319,6 +331,7 @@ peMA.Ode7C1T.text = ""
 
 peMA.Ode8C11.ode = miscellanea_en_US_dedes.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_US_dedes.misc.Mode8
+peMA.Ode8C11.greekmelody = he.h.m8_en_US_dedes.heHE.EptaplasiosKaminon.greekname
 peMA.Ode8C11.melody = he.h.m8_en_US_dedes.heHE.EptaplasiosKaminon.name
 peMA.Ode8C11.incipit = "…"
 peMA.Ode8C11.text = ""
@@ -343,6 +356,7 @@ peMA.Ode8C1T.text = ""
 
 peMA.Ode9C11.ode = miscellanea_en_US_dedes.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_US_dedes.misc.Mode8
+peMA.Ode9C11.greekmelody = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.greekname
 peMA.Ode9C11.melody = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.name
 peMA.Ode9C11.incipit = "…"
 peMA.Ode9C11.text = ""
@@ -366,6 +380,7 @@ peMA.Ode9C1T.incipit = "…"
 peMA.Ode9C1T.text = ""
 
 peMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+peMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 peMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.name
 peMA.Exaposteilarion1.incipit = "The Baptist John the Forerunner…"
 peMA.Exaposteilarion1.text = "The Baptist John the Forerunner, the Apostles and Prophets, * Martyrs and holy Hierarchs, the Devout and Ascetics, * and the divine Hieromartyrs, and the God-loving women, * and all the Righteous men of old, and the Angelic orders, * let us extol * dutifully honoring them with praises, * while entreating our Savior Christ * that we attain their glory."
@@ -376,6 +391,7 @@ peMA.ExapTheotokion.incipit = "He who is glorified above…"
 peMA.ExapTheotokion.text = "He who is glorified above * as one divine by Angels, * dwelt among those on earth below, * ineffably departing not from the Father's bosom. * You, immaculate Lady, * have become the guardian, * host of this great salvation; from your pure blood, * you lent Him your flesh beyond comprehension. * Ask Him, O pure one, that He grant * forgiveness of sins to your servants."
 
 peMA.Lauds6.mode = miscellanea_en_US_dedes.misc.Mode4
+peMA.Lauds6.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 peMA.Lauds6.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
 peMA.Lauds6.incipit = "Christ the Lord has made…"
 peMA.Lauds6.text = "Christ the Lord has made wondrous all of His Saints that were on the earth, * for as the Apostle declared, they bore His marks * and in their flesh shared His sufferings, adorning themselves therewith, * and distinguishing themselves in the beauty that is divine. Let us therefore praise * and acclaim them as never-fading flowers and as voluntary victims, * and as the Church's unerring stars."

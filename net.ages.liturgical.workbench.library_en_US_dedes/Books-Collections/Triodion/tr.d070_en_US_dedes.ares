@@ -55,6 +55,7 @@ trVE.SticBoth.incipit = "Awesome and paradoxical is the…"
 trVE.SticBoth.text = "Awesome and paradoxical is the mystery that we see unfolding today. He who is untouchable is now arrested. He who releases Adam from the curse is taken prisoner. He who searches and tries the hearts and minds is unjustly put on trial, and He who shut the Abyss is locked up in a prison. Before Pilate now stands He, before whom the hosts of heaven stand and tremble. The Fashioner is struck by the hand of one He fashioned. Condemned to a cross is He who judges the living and the dead. Enclosed in a tomb is the Destroyer of Hades. O Lord, You endure it all sympathetically, and You saved us all from the curse. O longsuffering Lord, glory to You!"
 
 trVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
+trVE.Aposticha1.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 trVE.Aposticha1.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.melody
 trVE.Aposticha1.incipit = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.incipit
 trVE.Aposticha1.text = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.text
@@ -123,16 +124,19 @@ trHW.Evlogetaria6.text = ho.s03_en_US_dedes.hoMA.ResEvlog6.text
 trHW.Evlogetaria7.text = ho.s03_en_US_dedes.hoMA.ResEvlog7.text
 
 trMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Kathisma11.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 trMA.Kathisma11.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 trMA.Kathisma11.incipit = "From Pilate Joseph asked for…"
 trMA.Kathisma11.text = "From Pilate Joseph asked for Your worshipful Body. * He wraps it in a clean linen shroud and with spices * anoints it for burial and he lays it in his new tomb. * Then at early dawn the women came with their ointments, * and they cried, \"Show us the Resurrection, O Savior, * as You had foretold, O Christ.\""
 
 trMA.Kathisma12.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Kathisma12.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 trMA.Kathisma12.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 trMA.Kathisma12.incipit = "And they cried, \"Show us…"
 trMA.Kathisma12.text = "And they cried, \"Show us the Resurrection, O Savior, * as You had foretold, O Christ.\""
 
 trMA.Kathisma13.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Kathisma13.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 trMA.Kathisma13.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 trMA.Kathisma13.incipit = "Astounded were the hosts of…"
 trMA.Kathisma13.text = "Astounded were the hosts of the Angels, beholding * how He, who sits above in the bosom of the Father, * is laid in a sepulcher, the Immortal One, as a corpse. * He is surrounded by angelic armies, who praise Him * and, together with the dead in Hades, give glory * to Him, their Creator and Lord."
@@ -145,12 +149,14 @@ trMA.C1.verse = prayers_en_US_dedes.pr.verse_God.text
 
 trMA.Ode1C1H.ode = miscellanea_en_US_dedes.misc.Ode1
 trMA.Ode1C1H.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode1C1H.greekmelody = he.h.m6_en_US_dedes.heHE.KymatiThalassis.greekname
 trMA.Ode1C1H.melody = he.h.m6_en_US_dedes.heHE.KymatiThalassis.melody
 trMA.Ode1C1H.incipit = he.h.m6_en_US_dedes.heHE.KymatiThalassis.incipit
 trMA.Ode1C1H.text = he.h.m6_en_US_dedes.heHE.KymatiThalassis.text
 
 trMA.Ode1C11.ode = miscellanea_en_US_dedes.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode1C11.greekmelody = he.h.m6_en_US_dedes.heHE.KymatiThalassis.greekname
 trMA.Ode1C11.melody = he.h.m6_en_US_dedes.heHE.KymatiThalassis.name
 trMA.Ode1C11.incipit = "I will sing an anthem…"
 trMA.Ode1C11.text = "I will sing an anthem of exodus and a funeral hymn to You, O Lord my God, who by Your burial opened the entrances of life to me. By Your death You put Hades and death to death."
@@ -175,12 +181,14 @@ trMA.Ode1K.text = he.h.m6_en_US_dedes.heHE.KymatiThalassis.text
 
 trMA.Ode3C1H.ode = miscellanea_en_US_dedes.misc.Ode3
 trMA.Ode3C1H.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode3C1H.greekmelody = he.h.m6_en_US_dedes.heHE.SeTonEpiYdaton.greekname
 trMA.Ode3C1H.melody = he.h.m6_en_US_dedes.heHE.SeTonEpiYdaton.melody
 trMA.Ode3C1H.incipit = he.h.m6_en_US_dedes.heHE.SeTonEpiYdaton.incipit
 trMA.Ode3C1H.text = he.h.m6_en_US_dedes.heHE.SeTonEpiYdaton.text
 
 trMA.Ode3C11.ode = miscellanea_en_US_dedes.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode3C11.greekmelody = he.h.m6_en_US_dedes.heHE.SeTonEpiYdaton.greekname
 trMA.Ode3C11.melody = he.h.m6_en_US_dedes.heHE.SeTonEpiYdaton.name
 trMA.Ode3C11.incipit = "Of old by many visions…"
 trMA.Ode3C11.text = "Of old by many visions, You revealed the symbols of Your burial. But what You once kept secret, O Master, now, as God and man, You clearly showed to those in Hades, who cried aloud, \"No one is holy, but You, O Lord.\""
@@ -204,18 +212,21 @@ trMA.Ode3K.incipit = he.h.m6_en_US_dedes.heHE.SeTonEpiYdaton.incipit
 trMA.Ode3K.text = he.h.m6_en_US_dedes.heHE.SeTonEpiYdaton.text
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 trMA.Ode3Kathisma1.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.melody
 trMA.Ode3Kathisma1.incipit = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.incipit
 trMA.Ode3Kathisma1.text = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.text
 
 trMA.Ode4C1H.ode = miscellanea_en_US_dedes.misc.Ode4
 trMA.Ode4C1H.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode4C1H.greekmelody = he.h.m6_en_US_dedes.heHE.TinEnStavroSou.greekname
 trMA.Ode4C1H.melody = he.h.m6_en_US_dedes.heHE.TinEnStavroSou.melody
 trMA.Ode4C1H.incipit = he.h.m6_en_US_dedes.heHE.TinEnStavroSou.incipit
 trMA.Ode4C1H.text = he.h.m6_en_US_dedes.heHE.TinEnStavroSou.text
 
 trMA.Ode4C11.ode = miscellanea_en_US_dedes.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode4C11.greekmelody = he.h.m6_en_US_dedes.heHE.TinEnStavroSou.greekname
 trMA.Ode4C11.melody = he.h.m6_en_US_dedes.heHE.TinEnStavroSou.name
 trMA.Ode4C11.incipit = "Today, You sanctified the seventh…"
 trMA.Ode4C11.text = "Today, You sanctified the seventh day, which You had blessed of old, when You rested from Your works. For You, O Savior, generate and renew all things; and, while keeping the Sabbath, You are reclaiming them."
@@ -240,12 +251,14 @@ trMA.Ode4K.text = he.h.m6_en_US_dedes.heHE.TinEnStavroSou.text
 
 trMA.Ode5C1H.ode = miscellanea_en_US_dedes.misc.Ode5
 trMA.Ode5C1H.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode5C1H.greekmelody = he.h.m6_en_US_dedes.heHE.TheofaneiasSouChriste.greekname
 trMA.Ode5C1H.melody = he.h.m6_en_US_dedes.heHE.TheofaneiasSouChriste.melody
 trMA.Ode5C1H.incipit = he.h.m6_en_US_dedes.heHE.TheofaneiasSouChriste.incipit
 trMA.Ode5C1H.text = he.h.m6_en_US_dedes.heHE.TheofaneiasSouChriste.text
 
 trMA.Ode5C11.ode = miscellanea_en_US_dedes.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode5C11.greekmelody = he.h.m6_en_US_dedes.heHE.TheofaneiasSouChriste.greekname
 trMA.Ode5C11.melody = he.h.m6_en_US_dedes.heHE.TheofaneiasSouChriste.name
 trMA.Ode5C11.incipit = "Since You, the Fashioner, became…"
 trMA.Ode5C11.text = "Since You, the Fashioner, became a human being, You remake the earthborn; and the shroud and sepulcher, O Word of God, indicate the mystery borne in You. For Joseph, the respected member of the council, now performs the counsel of Your Father, who magnificently in You makes me new again."
@@ -270,12 +283,14 @@ trMA.Ode5K.text = he.h.m6_en_US_dedes.heHE.TheofaneiasSouChriste.text
 
 trMA.Ode6C1H.ode = miscellanea_en_US_dedes.misc.Ode6
 trMA.Ode6C1H.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode6C1H.greekmelody = he.h.m6_en_US_dedes.heHE.SyneschethiAllOuKateschethi.greekname
 trMA.Ode6C1H.melody = he.h.m6_en_US_dedes.heHE.SyneschethiAllOuKateschethi.melody
 trMA.Ode6C1H.incipit = he.h.m6_en_US_dedes.heHE.SyneschethiAllOuKateschethi.incipit
 trMA.Ode6C1H.text = he.h.m6_en_US_dedes.heHE.SyneschethiAllOuKateschethi.text
 
 trMA.Ode6C11.ode = miscellanea_en_US_dedes.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode6C11.greekmelody = he.h.m6_en_US_dedes.heHE.SyneschethiAllOuKateschethi.greekname
 trMA.Ode6C11.melody = he.h.m6_en_US_dedes.heHE.SyneschethiAllOuKateschethi.name
 trMA.Ode6C11.incipit = "You were murdered, O Word…"
 trMA.Ode6C11.text = "You were murdered, O Word, but not sundered from the flesh in which You shared. For even if Your temple was destroyed at the time of Your Passion, nevertheless, one was the hypostasis of Your human flesh and of Your Godhead. For in both natures, You are one Son, the Word of God, as You are truly God and man."
@@ -322,12 +337,14 @@ trSY.lastline = "By Your ineffable condescension, O Christ our God, have mercy o
 
 trMA.Ode7C1H.ode = miscellanea_en_US_dedes.misc.Ode7
 trMA.Ode7C1H.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode7C1H.greekmelody = he.h.m6_en_US_dedes.heHE.AfrastonThavma.greekname
 trMA.Ode7C1H.melody = he.h.m6_en_US_dedes.heHE.AfrastonThavma.melody
 trMA.Ode7C1H.incipit = he.h.m6_en_US_dedes.heHE.AfrastonThavma.incipit
 trMA.Ode7C1H.text = he.h.m6_en_US_dedes.heHE.AfrastonThavma.text
 
 trMA.Ode7C11.ode = miscellanea_en_US_dedes.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode7C11.greekmelody = he.h.m6_en_US_dedes.heHE.AfrastonThavma.greekname
 trMA.Ode7C11.melody = he.h.m6_en_US_dedes.heHE.AfrastonThavma.name
 trMA.Ode7C11.incipit = "Hades is wounded at its…"
 trMA.Ode7C11.text = "Hades is wounded at its heart by receiving Him, whom a lance had wounded in the side. And it groans, consumed by the fire of divinity, for the salvation of us who sing, \"O our God and Redeemer, You are blessed.\""
@@ -358,12 +375,14 @@ trMA.Ode7K.text = he.h.m6_en_US_dedes.heHE.AfrastonThavma.text
 
 trMA.Ode8C1H.ode = miscellanea_en_US_dedes.misc.Ode8
 trMA.Ode8C1H.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode8C1H.greekmelody = he.h.m6_en_US_dedes.heHE.EkstithiFrittonOurane.greekname
 trMA.Ode8C1H.melody = he.h.m6_en_US_dedes.heHE.EkstithiFrittonOurane.melody
 trMA.Ode8C1H.incipit = he.h.m6_en_US_dedes.heHE.EkstithiFrittonOurane.incipit
 trMA.Ode8C1H.text = he.h.m6_en_US_dedes.heHE.EkstithiFrittonOurane.text
 
 trMA.Ode8C11.ode = miscellanea_en_US_dedes.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode8C11.greekmelody = he.h.m6_en_US_dedes.heHE.EkstithiFrittonOurane.greekname
 trMA.Ode8C11.melody = he.h.m6_en_US_dedes.heHE.EkstithiFrittonOurane.name
 trMA.Ode8C11.incipit = "The undefiled temple was destroyed…"
 trMA.Ode8C11.text = "The undefiled temple was destroyed; then, with itself it raised up the fallen tabernacle. The second Adam, who dwells in the heights, went down to the chambers of Hades, in order to save the first one. Bless the Lord, O you Servants; sing a hymn, Priests; and People, exalt Him beyond measure unto all the ages."
@@ -388,12 +407,14 @@ trMA.Ode8K.text = he.h.m6_en_US_dedes.heHE.EkstithiFrittonOurane.text
 
 trMA.Ode9C1H.ode = miscellanea_en_US_dedes.misc.Ode9
 trMA.Ode9C1H.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode9C1H.greekmelody = he.h.m6_en_US_dedes.heHE.MiEpodyrouMouMiter.greekname
 trMA.Ode9C1H.melody = he.h.m6_en_US_dedes.heHE.MiEpodyrouMouMiter.melody
 trMA.Ode9C1H.incipit = he.h.m6_en_US_dedes.heHE.MiEpodyrouMouMiter.incipit
 trMA.Ode9C1H.text = he.h.m6_en_US_dedes.heHE.MiEpodyrouMouMiter.text
 
 trMA.Ode9C11.ode = miscellanea_en_US_dedes.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode9C11.greekmelody = he.h.m6_en_US_dedes.heHE.MiEpodyrouMouMiter.greekname
 trMA.Ode9C11.melody = he.h.m6_en_US_dedes.heHE.MiEpodyrouMouMiter.name
 trMA.Ode9C11.incipit = "I was blest in escaping…"
 trMA.Ode9C11.text = "I was blest in escaping labor, in a manner past nature, at Your unusual birth, O unoriginate Son. But now as I see You, my God, not breathing and dead, I am painfully torn by the sword of my sorrow. So arise, so that I may be magnified."

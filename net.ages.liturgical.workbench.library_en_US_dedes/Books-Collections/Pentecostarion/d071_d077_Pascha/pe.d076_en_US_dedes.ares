@@ -49,11 +49,13 @@ peVE.Stichera06.incipit = oc.m6.d1_en_US_dedes.ocVE.Stichera5.incipit
 peVE.Stichera06.text = oc.m6.d1_en_US_dedes.ocVE.Stichera5.text
 
 peVE.Stichera07.mode = miscellanea_en_US_dedes.misc.Mode6
+peVE.Stichera07.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greekname
 peVE.Stichera07.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
 peVE.Stichera07.incipit = "…"
 peVE.Stichera07.text = ""
 
 peVE.Stichera08.mode = miscellanea_en_US_dedes.misc.Mode6
+peVE.Stichera08.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greekname
 peVE.Stichera08.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
 peVE.Stichera08.incipit = "…"
 peVE.Stichera08.text = ""
@@ -109,6 +111,7 @@ peMA.C1.verse = prayers_en_US_dedes.pr.verse_Theotokos.text
 
 peMA.Ode1C11.ode = miscellanea_en_US_dedes.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode1C11.greekmelody = he.h.m1_en_US_dedes.heHE.AnastaseosImera.greekname
 peMA.Ode1C11.melody = he.h.m1_en_US_dedes.heHE.AnastaseosImera.notmetered
 peMA.Ode1C11.incipit = "Would that you gush for…"
 peMA.Ode1C11.text = "Would that you gush for me now, O Theotokos of the Spring, and give me grace of eloquence, so that I may extol your spring, which bubbles up with life and grace for the faithful. For you, like a spring, gushed forth the personified Logos."
@@ -133,6 +136,7 @@ peMA.Ode1C14.text = "Rejoice, O modest Mary, rejoice! You are honored by all mor
 
 peMA.Ode3C11.ode = miscellanea_en_US_dedes.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode3C11.greekmelody = he.h.m1_en_US_dedes.heHE.DeftePomaPiomen.greekname
 peMA.Ode3C11.melody = he.h.m1_en_US_dedes.heHE.DeftePomaPiomen.notmetered
 peMA.Ode3C11.incipit = "O Maiden, I know you…"
 peMA.Ode3C11.text = "O Maiden, I know you to be a luminous, holy temple of the Master of all. You are also a spring of incorruption, that pours out Christ like water, from which we drink."
@@ -156,12 +160,14 @@ peMA.Ode3C14.incipit = "You grant cures to all…"
 peMA.Ode3C14.text = "You grant cures to all the faithful, rulers and citizens, the indigent, and those in power, the poor and the rich. You pour out the water, O Spring, as a single medicine to all alike."
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode8
+peMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 peMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 peMA.Ode3Kathisma1.incipit = "Let us all who are…"
 peMA.Ode3Kathisma1.text = "Let us all who are seeking the grace of God * now in unison praise and extol in song * the ever-flowing living well, * the divine Spring that gushes streams. * Every day it gushes the healings and cures indeed, * and makes streams of rivers seem small in comparison. * Therefore as is fitting let us approach with longing * and faithfully draw from this * holy Spring inexhaustible * health and vigor immortal indeed, * that clearly refreshes the hearts * of the pious. Let us therefore cry aloud: * You are the consolation of believers all."
 
 peMA.Ode4C11.ode = miscellanea_en_US_dedes.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode4C11.greekmelody = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.greekname
 peMA.Ode4C11.melody = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.notmetered
 peMA.Ode4C11.incipit = "O Virgin, the works of…"
 peMA.Ode4C11.text = "O Virgin, the works of your Spring are truly greater in number than the grains of sand and the raindrops. For they unceasingly flow to all the earth, and richly and quickly heal anyone who is sick."
@@ -186,6 +192,7 @@ peMA.Ode4C14.text = "O Theotokos, our Lady of the Spring, the enemy is killing m
 
 peMA.Ode5C11.ode = miscellanea_en_US_dedes.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode5C11.greekmelody = he.h.m1_en_US_dedes.heHE.OrthrisomenOrthrouVatheos.greekname
 peMA.Ode5C11.melody = he.h.m1_en_US_dedes.heHE.OrthrisomenOrthrouVatheos.notmetered
 peMA.Ode5C11.incipit = "O Virgin Maiden, when the…"
 peMA.Ode5C11.text = "O Virgin Maiden, when the great deeds of your Spring are related, it astounds human reason. For they truly transcend nature, and they sanctify all the faithful."
@@ -210,6 +217,7 @@ peMA.Ode5C14.text = "O Maiden, please cure my ailments. You stopped hemorrhaging
 
 peMA.Ode6C11.ode = miscellanea_en_US_dedes.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode6C11.greekmelody = he.h.m1_en_US_dedes.heHE.KatilthesEnToisKatotatois.greekname
 peMA.Ode6C11.melody = he.h.m1_en_US_dedes.heHE.KatilthesEnToisKatotatois.notmetered
 peMA.Ode6C11.incipit = "The words of yours truly…"
 peMA.Ode6C11.text = "The words of yours truly extol you, O Pure Maiden, as being truly a spring. You ineffably gave birth to the Lord, the ocean of wisdom, who suspended the floods in the sky, and the earth upon the water."
@@ -261,6 +269,7 @@ peSY.lastline = "By the intercessions of Your Mother, O Christ God, have mercy o
 
 peMA.Ode7C11.ode = miscellanea_en_US_dedes.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode7C11.greekmelody = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.greekname
 peMA.Ode7C11.melody = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.notmetered
 peMA.Ode7C11.incipit = "All you who are sick…"
 peMA.Ode7C11.text = "All you who are sick, come and drink in the healing. For the all-pure Lady overflows with the true sweetness from the divine spring, and she pours out the river of delight. Therefore, let us all draw with faith from these abundant streams."
@@ -285,6 +294,7 @@ peMA.Ode7C14.text = "Young women and girls, and all people together, let us gail
 
 peMA.Ode8C11.ode = miscellanea_en_US_dedes.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode8C11.greekmelody = he.h.m1_en_US_dedes.heHE.AftiIKliti.greekname
 peMA.Ode8C11.melody = he.h.m1_en_US_dedes.heHE.AftiIKliti.notmetered
 peMA.Ode8C11.incipit = "O Virgin, your Spring flows…"
 peMA.Ode8C11.text = "O Virgin, your Spring flows with divine and venerable water. By the divine invocation of grace, it mightily stops the accumulation of fluids in those suffering from edema. Therefore we honor you, O Lady of the Spring, to the ages."
@@ -309,6 +319,7 @@ peMA.Ode8C14.text = "O Queen and Lady, because of you the whole dominion of deat
 
 peMA.Ode9C11.ode = miscellanea_en_US_dedes.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode9C11.greekmelody = he.h.m1_en_US_dedes.heHE.FotizouFotizou.greekname
 peMA.Ode9C11.melody = he.h.m1_en_US_dedes.heHE.FotizouFotizou.name
 peMA.Ode9C11.incipit = "Pure Maiden, we know that…"
 peMA.Ode9C11.text = "Pure Maiden, we know that the holy water of your Spring, * more than all other water, is most excellent indeed, * for it pours forth supernaturally, * and it relieves us of serious illness, * clearly restoring good health to our souls."
@@ -343,6 +354,7 @@ peMA.Exaposteilarion1.incipit = he.a.m2_en_US_dedes.heAU.SarkiYpnosas.incipit
 peMA.Exaposteilarion1.text = he.a.m2_en_US_dedes.heAU.SarkiYpnosas.text
 
 peMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode2
+peMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_dedes.heAU.SarkiYpnosas.greekname
 peMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.heAU.SarkiYpnosas.name
 peMA.Exaposteilarion2.incipit = "Lady, you are indeed a…"
 peMA.Exaposteilarion2.text = "Lady, you are indeed a Spring * of living water for us all. * By touch alone You wash away * the grievous illnesses that plague * our bodies and our souls alike. * Christ is that saving water, * which you have poured forth on us."
@@ -368,11 +380,13 @@ peMA.Lauds4.incipit = oc.m6.d1_en_US_dedes.ocMA.Lauds4.incipit
 peMA.Lauds4.text = oc.m6.d1_en_US_dedes.ocMA.Lauds4.text
 
 peMA.Lauds5.mode = miscellanea_en_US_dedes.misc.Mode2
+peMA.Lauds5.greekmelody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.greekname
 peMA.Lauds5.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
 peMA.Lauds5.incipit = "Water drawn from this Spring…"
 peMA.Lauds5.text = "Water drawn from this Spring * brings healing and salvation * to all who suffer illness. * So let us come with faith now and draw the grace of God from it."
 
 peMA.Lauds6.mode = miscellanea_en_US_dedes.misc.Mode2
+peMA.Lauds6.greekmelody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.greekname
 peMA.Lauds6.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
 peMA.Lauds6.incipit = "This vivifying Well * of…"
 peMA.Lauds6.text = "This vivifying Well * of the immortal Fountain * provides a flood of healing * that never is exhausted * to those who come with faith and love."

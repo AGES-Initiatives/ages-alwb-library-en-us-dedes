@@ -3,6 +3,7 @@ A_Resource_Whose_Name = oc.m3.d2_en_US_dedes
 ocBK.ModeNaked = miscellanea_en_US_dedes.misc.Mode3.naked
 
 ocVE.Stichera1.mode = miscellanea_en_US_dedes.misc.Mode3
+ocVE.Stichera1.greekmelody = he.a.m3_en_US_dedes.heAU.SosonMeKyrie.greekname
 ocVE.Stichera1.melody = he.a.m3_en_US_dedes.heAU.SosonMeKyrie.name
 ocVE.Stichera1.incipit = "O Lord my God, I…"
 ocVE.Stichera1.text = "O Lord my God, I have sinned against You. * I have sinned against You; forgive me. * Cast me not away, O Word of God, nor loathe me. * But as You alone are merciful and understanding, * accept me back in repentance. * O my Savior, as the only One compassionate, * provide the strength for me * to execute Your statutes."
@@ -18,6 +19,7 @@ ocVE.Stichera3.incipit = "…"
 ocVE.Stichera3.text = ""
 
 ocVE.Stichera4.mode = miscellanea_en_US_dedes.misc.Mode3
+ocVE.Stichera4.greekmelody = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.greekname
 ocVE.Stichera4.melody = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.name
 ocVE.Stichera4.incipit = "O Master, You created the…"
 ocVE.Stichera4.text = "O Master, You created the choirs of the Bodiless, * to all thus manifesting the richness of Your goodness. * And You brought them into being from nonexistence * that they might glorify You * with their unceasing hymns * and never-silent voices."
@@ -33,6 +35,7 @@ ocVE.Stichera6.incipit = "…"
 ocVE.Stichera6.text = ""
 
 ocVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode3
+ocVE.SticTheotokion.greekmelody = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.greekname
 ocVE.SticTheotokion.melody = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.name
 ocVE.SticTheotokion.incipit = "…"
 ocVE.SticTheotokion.text = ""
@@ -43,11 +46,13 @@ ocVE.Aposticha1.incipit = "We offer You, O Christ…"
 ocVE.Aposticha1.text = "We offer You, O Christ, an evening hymn with incense and spiritual songs. O Savior, have mercy on our souls."
 
 ocVE.Aposticha2.mode = miscellanea_en_US_dedes.misc.Mode3
+ocVE.Aposticha2.greekmelody = he.a.m3_en_US_dedes.heAU.SosonMeKyrie.greekname
 ocVE.Aposticha2.melody = he.a.m3_en_US_dedes.heAU.SosonMeKyrie.melody
 ocVE.Aposticha2.incipit = he.a.m3_en_US_dedes.heAU.SosonMeKyrie.incipit
 ocVE.Aposticha2.text = he.a.m3_en_US_dedes.heAU.SosonMeKyrie.text
 
 ocVE.Aposticha3.mode = miscellanea_en_US_dedes.misc.Mode3
+ocVE.Aposticha3.greekmelody = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.greekname
 ocVE.Aposticha3.melody = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.melody
 ocVE.Aposticha3.incipit = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.incipit
 ocVE.Aposticha3.text = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.text
@@ -88,11 +93,13 @@ ocMA.Kathisma22.incipit = "A frightful tribunal awaits me…"
 ocMA.Kathisma22.text = "A frightful tribunal awaits me, O Lord. My deeds cry out, even though I be silent. But before that, O Christ my God, seek me the lost sheep, and through repentance save me."
 
 ocMA.Kathisma23.mode = miscellanea_en_US_dedes.misc.Mode3
+ocMA.Kathisma23.greekmelody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.greekname
 ocMA.Kathisma23.melody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.name
 ocMA.Kathisma23.incipit = "You in purity surpass the…"
 ocMA.Kathisma23.text = "You in purity surpass the Angels; * therefore you became the tabernacle * of the Logos, O immaculate Mother of God. * But as for me, I surpass everybody else * in the pollutions resulting from sins of the flesh. * With the waters of your intercession wash away my filth, * All-holy Maid, and grant me the great mercy."
 
 ocMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode3
+ocMA.Kathisma31.greekmelody = he.a.m3_en_US_dedes.heAU.TinOraiotita.greekname
 ocMA.Kathisma31.melody = he.a.m3_en_US_dedes.heAU.TinOraiotita.name
 ocMA.Kathisma31.incipit = "…"
 ocMA.Kathisma31.text = ""
@@ -103,6 +110,7 @@ ocMA.Kathisma32.incipit = "Your wholehearted endurance vanquished the…"
 ocMA.Kathisma32.text = "Your wholehearted endurance vanquished the machinations of the enemy and author of evil, O all-lauded medal-winners. That is why you have been counted worthy of eternal blessedness. We entreat you to intercede with the Lord, that He save the flock of Christ-loving people, for You, O Martyrs, are witnesses of the truth."
 
 ocMA.Kathisma33.mode = miscellanea_en_US_dedes.misc.Mode3
+ocMA.Kathisma33.greekmelody = he.a.m3_en_US_dedes.heAU.TinOraiotita.greekname
 ocMA.Kathisma33.melody = he.a.m3_en_US_dedes.heAU.TinOraiotita.name
 ocMA.Kathisma33.incipit = "…"
 ocMA.Kathisma33.text = ""
@@ -117,6 +125,7 @@ ocMA.C2.acrostic.text = ""
 
 ocMA.OdeW1C1H.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW1C1H.ode = miscellanea_en_US_dedes.misc.Ode1
+ocMA.OdeW1C1H.greekmelody = he.h.m3_en_US_dedes.heHE.FaraoTaArmata.greekname
 ocMA.OdeW1C1H.melody = he.h.m3_en_US_dedes.heHE.FaraoTaArmata.melody
 ocMA.OdeW1C1H.incipit = he.h.m3_en_US_dedes.heHE.FaraoTaArmata.incipit
 ocMA.OdeW1C1H.text = he.h.m3_en_US_dedes.heHE.FaraoTaArmata.text
@@ -153,6 +162,7 @@ ocMA.OdeW1C1T.text = ""
 
 ocMA.OdeW1C21.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW1C21.ode = miscellanea_en_US_dedes.misc.Ode1
+ocMA.OdeW1C21.greekmelody = he.h.m3_en_US_dedes.heHE.AsmaKainon.greekname
 ocMA.OdeW1C21.melody = he.h.m3_en_US_dedes.heHE.AsmaKainon.name
 ocMA.OdeW1C21.incipit = "…"
 ocMA.OdeW1C21.text = ""
@@ -177,6 +187,7 @@ ocMA.OdeW1C2T.text = ""
 
 ocMA.OdeW3C1H.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW3C1H.ode = miscellanea_en_US_dedes.misc.Ode3
+ocMA.OdeW3C1H.greekmelody = he.h.m3_en_US_dedes.heHE.StereosonKyrie.greekname
 ocMA.OdeW3C1H.melody = he.h.m3_en_US_dedes.heHE.StereosonKyrie.melody
 ocMA.OdeW3C1H.incipit = he.h.m3_en_US_dedes.heHE.StereosonKyrie.incipit
 ocMA.OdeW3C1H.text = he.h.m3_en_US_dedes.heHE.StereosonKyrie.text
@@ -213,6 +224,7 @@ ocMA.OdeW3C1T.text = ""
 
 ocMA.OdeW3C21.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW3C21.ode = miscellanea_en_US_dedes.misc.Ode3
+ocMA.OdeW3C21.greekmelody = he.h.m3_en_US_dedes.heHE.ToxonEthrafsasEchthron.greekname
 ocMA.OdeW3C21.melody = he.h.m3_en_US_dedes.heHE.ToxonEthrafsasEchthron.name
 ocMA.OdeW3C21.incipit = "…"
 ocMA.OdeW3C21.text = ""
@@ -237,6 +249,7 @@ ocMA.OdeW3C2T.text = ""
 
 ocMA.OdeW4C1H.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW4C1H.ode = miscellanea_en_US_dedes.misc.Ode4
+ocMA.OdeW4C1H.greekmelody = he.h.m3_en_US_dedes.heHE.MiEnPotamois.greekname
 ocMA.OdeW4C1H.melody = he.h.m3_en_US_dedes.heHE.MiEnPotamois.melody
 ocMA.OdeW4C1H.incipit = he.h.m3_en_US_dedes.heHE.MiEnPotamois.incipit
 ocMA.OdeW4C1H.text = he.h.m3_en_US_dedes.heHE.MiEnPotamois.text
@@ -273,6 +286,7 @@ ocMA.OdeW4C1T.text = ""
 
 ocMA.OdeW4C21.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW4C21.ode = miscellanea_en_US_dedes.misc.Ode4
+ocMA.OdeW4C21.greekmelody = he.h.m3_en_US_dedes.heHE.ToXenonKaiAporriton.greekname
 ocMA.OdeW4C21.melody = he.h.m3_en_US_dedes.heHE.ToXenonKaiAporriton.name
 ocMA.OdeW4C21.incipit = "…"
 ocMA.OdeW4C21.text = ""
@@ -303,6 +317,7 @@ ocMA.OdeW4C2T.text = ""
 
 ocMA.OdeW5C1H.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW5C1H.ode = miscellanea_en_US_dedes.misc.Ode5
+ocMA.OdeW5C1H.greekmelody = he.h.m3_en_US_dedes.heHE.ToFosSouToAnesperon.greekname
 ocMA.OdeW5C1H.melody = he.h.m3_en_US_dedes.heHE.ToFosSouToAnesperon.melody
 ocMA.OdeW5C1H.incipit = he.h.m3_en_US_dedes.heHE.ToFosSouToAnesperon.incipit
 ocMA.OdeW5C1H.text = he.h.m3_en_US_dedes.heHE.ToFosSouToAnesperon.text
@@ -339,6 +354,7 @@ ocMA.OdeW5C1T.text = ""
 
 ocMA.OdeW5C21.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW5C21.ode = miscellanea_en_US_dedes.misc.Ode5
+ocMA.OdeW5C21.greekmelody = he.h.m3_en_US_dedes.heHE.EpiTisGis.greekname
 ocMA.OdeW5C21.melody = he.h.m3_en_US_dedes.heHE.EpiTisGis.name
 ocMA.OdeW5C21.incipit = "…"
 ocMA.OdeW5C21.text = ""
@@ -357,6 +373,7 @@ ocMA.OdeW5C2T.text = ""
 
 ocMA.OdeW6C1H.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW6C1H.ode = miscellanea_en_US_dedes.misc.Ode6
+ocMA.OdeW6C1H.greekmelody = he.h.m3_en_US_dedes.heHE.TousEisTaTeli.greekname
 ocMA.OdeW6C1H.melody = he.h.m3_en_US_dedes.heHE.TousEisTaTeli.melody
 ocMA.OdeW6C1H.incipit = he.h.m3_en_US_dedes.heHE.TousEisTaTeli.incipit
 ocMA.OdeW6C1H.text = he.h.m3_en_US_dedes.heHE.TousEisTaTeli.text
@@ -393,6 +410,7 @@ ocMA.OdeW6C1T.text = ""
 
 ocMA.OdeW6C21.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW6C21.ode = miscellanea_en_US_dedes.misc.Ode6
+ocMA.OdeW6C21.greekmelody = he.h.m3_en_US_dedes.heHE.SkinoseosIonas.greekname
 ocMA.OdeW6C21.melody = he.h.m3_en_US_dedes.heHE.SkinoseosIonas.name
 ocMA.OdeW6C21.incipit = "…"
 ocMA.OdeW6C21.text = ""
@@ -411,6 +429,7 @@ ocMA.OdeW6C2T.text = ""
 
 ocMA.OdeW7C1H.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW7C1H.ode = miscellanea_en_US_dedes.misc.Ode7
+ocMA.OdeW7C1H.greekmelody = he.h.m3_en_US_dedes.heHE.TreisPaidesEnKamino.greekname
 ocMA.OdeW7C1H.melody = he.h.m3_en_US_dedes.heHE.TreisPaidesEnKamino.melody
 ocMA.OdeW7C1H.incipit = he.h.m3_en_US_dedes.heHE.TreisPaidesEnKamino.incipit
 ocMA.OdeW7C1H.text = he.h.m3_en_US_dedes.heHE.TreisPaidesEnKamino.text
@@ -447,6 +466,7 @@ ocMA.OdeW7C1T.text = ""
 
 ocMA.OdeW7C21.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW7C21.ode = miscellanea_en_US_dedes.misc.Ode7
+ocMA.OdeW7C21.greekmelody = he.h.m3_en_US_dedes.heHE.SovarosOTyrannos.greekname
 ocMA.OdeW7C21.melody = he.h.m3_en_US_dedes.heHE.SovarosOTyrannos.name
 ocMA.OdeW7C21.incipit = "…"
 ocMA.OdeW7C21.text = ""
@@ -465,6 +485,7 @@ ocMA.OdeW7C2T.text = ""
 
 ocMA.OdeW8C1H.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW8C1H.ode = miscellanea_en_US_dedes.misc.Ode8
+ocMA.OdeW8C1H.greekmelody = he.h.m3_en_US_dedes.heHE.TonEnFlogi.greekname
 ocMA.OdeW8C1H.melody = he.h.m3_en_US_dedes.heHE.TonEnFlogi.melody
 ocMA.OdeW8C1H.incipit = he.h.m3_en_US_dedes.heHE.TonEnFlogi.incipit
 ocMA.OdeW8C1H.text = he.h.m3_en_US_dedes.heHE.TonEnFlogi.text
@@ -501,6 +522,7 @@ ocMA.OdeW8C1T.text = ""
 
 ocMA.OdeW8C21.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW8C21.ode = miscellanea_en_US_dedes.misc.Ode8
+ocMA.OdeW8C21.greekmelody = he.h.m3_en_US_dedes.heHE.EnylouFlogaPyros.greekname
 ocMA.OdeW8C21.melody = he.h.m3_en_US_dedes.heHE.EnylouFlogaPyros.name
 ocMA.OdeW8C21.incipit = "…"
 ocMA.OdeW8C21.text = ""
@@ -525,6 +547,7 @@ ocMA.OdeW8C2T.text = ""
 
 ocMA.OdeW9C1H.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW9C1H.ode = miscellanea_en_US_dedes.misc.Ode9
+ocMA.OdeW9C1H.greekmelody = he.h.m3_en_US_dedes.heHE.EnSinaioToOrei.greekname
 ocMA.OdeW9C1H.melody = he.h.m3_en_US_dedes.heHE.EnSinaioToOrei.melody
 ocMA.OdeW9C1H.incipit = he.h.m3_en_US_dedes.heHE.EnSinaioToOrei.incipit
 ocMA.OdeW9C1H.text = he.h.m3_en_US_dedes.heHE.EnSinaioToOrei.text
@@ -561,6 +584,7 @@ ocMA.OdeW9C1T.text = ""
 
 ocMA.OdeW9C21.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW9C21.ode = miscellanea_en_US_dedes.misc.Ode9
+ocMA.OdeW9C21.greekmelody = he.h.m3_en_US_dedes.heHE.OiToGlykei.greekname
 ocMA.OdeW9C21.melody = he.h.m3_en_US_dedes.heHE.OiToGlykei.name
 ocMA.OdeW9C21.incipit = "…"
 ocMA.OdeW9C21.text = ""
@@ -593,6 +617,7 @@ ocMA.Aposticha3.incipit = "Come, all peoples, let us…"
 ocMA.Aposticha3.text = "Come, all peoples, let us honor the memory of the holy Martyr Athletes. They became a spectacle to Angels and men, and they received the crown of victory from Christ; and they intercede on behalf of our souls."
 
 ocMA.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode3
+ocMA.AposTheotokion.greekmelody = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.greekname
 ocMA.AposTheotokion.melody = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.name
 ocMA.AposTheotokion.incipit = "As you are truly greater…"
 ocMA.AposTheotokion.text = "As you are truly greater than the heavenly Angels, please take up the petitions of us on earth, all-holy one, and present them to the Master of the universe, that He save us who faithfully profess that you are truly Theotokos."

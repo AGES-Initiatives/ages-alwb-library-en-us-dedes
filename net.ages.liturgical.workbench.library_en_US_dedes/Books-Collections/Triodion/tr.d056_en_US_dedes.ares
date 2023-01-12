@@ -27,16 +27,19 @@ trVE.AposMartyric.incipit = oc.m6.d2_en_US_dedes.ocVE.Aposticha3.incipit
 trVE.AposMartyric.text = oc.m6.d2_en_US_dedes.ocVE.Aposticha3.text
 
 trVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode6
+trVE.Stichera01.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greekname
 trVE.Stichera01.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
 trVE.Stichera01.incipit = me.m03.d25_en_US_dedes.meVE.Stichera01.incipit
 trVE.Stichera01.text = me.m03.d25_en_US_dedes.meVE.Stichera01.text
 
 trVE.Stichera02.mode = miscellanea_en_US_dedes.misc.Mode6
+trVE.Stichera02.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greekname
 trVE.Stichera02.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
 trVE.Stichera02.incipit = me.m03.d25_en_US_dedes.meVE.Stichera02.incipit
 trVE.Stichera02.text = me.m03.d25_en_US_dedes.meVE.Stichera02.text
 
 trVE.Stichera03.mode = miscellanea_en_US_dedes.misc.Mode6
+trVE.Stichera03.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greekname
 trVE.Stichera03.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
 trVE.Stichera03.incipit = me.m03.d25_en_US_dedes.meVE.Stichera03.incipit
 trVE.Stichera03.text = me.m03.d25_en_US_dedes.meVE.Stichera03.text
@@ -48,6 +51,7 @@ trVE.SticGlory.incipit = me.m03.d25_en_US_dedes.meMA.LaudsGlory.incipit
 trVE.SticGlory.text = me.m03.d25_en_US_dedes.meMA.LaudsGlory.text
 
 trVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode8
+trVE.Apolytikion1.greekmelody = he.a.m8_en_US_dedes.heAU.ToProstachthen.greekname
 trVE.Apolytikion1.melody = he.a.m8_en_US_dedes.heAU.ToProstachthen.melody
 trVE.Apolytikion1.incipit = he.a.m8_en_US_dedes.heAU.ToProstachthen.incipit
 trVE.Apolytikion1.text = he.a.m8_en_US_dedes.heAU.ToProstachthen.text
@@ -139,12 +143,14 @@ trMA.C1.verse = prayers_en_US_dedes.pr.verse_Theotokos.text
 
 trMA.Ode1C1H.ode = miscellanea_en_US_dedes.misc.Ode1
 trMA.Ode1C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode1C1H.greekmelody = he.h.m4_en_US_dedes.heHE.AnoixoToStomaMou.greekname
 trMA.Ode1C1H.melody = he.h.m4_en_US_dedes.heHE.AnoixoToStomaMou.melody
 trMA.Ode1C1H.incipit = he.h.m4_en_US_dedes.heHE.AnoixoToStomaMou.incipit
 trMA.Ode1C1H.text = he.h.m4_en_US_dedes.heHE.AnoixoToStomaMou.text
 
 trMA.Ode1C11.ode = miscellanea_en_US_dedes.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode1C11.greekmelody = he.h.m4_en_US_dedes.heHE.AnoixoToStomaMou.greekname
 trMA.Ode1C11.melody = he.h.m4_en_US_dedes.heHE.AnoixoToStomaMou.name
 trMA.Ode1C11.incipit = "O Maiden and Virgin pure…"
 trMA.Ode1C11.text = "O Maiden and Virgin pure, the great Archangel saluted you, * \"Rejoice, living book of Christ, of which Isaiah foretold * that it would be sealed * to all men by the Spirit. * O vessel of joy, through you the curse on Eve shall be loosed.\""
@@ -182,12 +188,14 @@ trMA.Ode1K.text = he.h.m4_en_US_dedes.heHE.AnoixoToStomaMou.text
 
 trMA.Ode3C1H.ode = miscellanea_en_US_dedes.misc.Ode3
 trMA.Ode3C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode3C1H.greekmelody = he.h.m4_en_US_dedes.heHE.TousSousYmnologous.greekname
 trMA.Ode3C1H.melody = he.h.m4_en_US_dedes.heHE.TousSousYmnologous.melody
 trMA.Ode3C1H.incipit = he.h.m4_en_US_dedes.heHE.TousSousYmnologous.incipit
 trMA.Ode3C1H.text = he.h.m4_en_US_dedes.heHE.TousSousYmnologous.text
 
 trMA.Ode3C11.ode = miscellanea_en_US_dedes.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode3C11.greekmelody = he.h.m4_en_US_dedes.heHE.TousSousYmnologous.greekname
 trMA.Ode3C11.melody = he.h.m4_en_US_dedes.heHE.TousSousYmnologous.name
 trMA.Ode3C11.incipit = "Rejoice, blessed Virgin! You have…"
 trMA.Ode3C11.text = "Rejoice, blessed Virgin! You have borne Christ, * the Wheat that came forth from land unploughed. * The Table symbolizes you, * who held the Lord, the Bread of life. * Rejoice, O never empty well * of living water, O Bride of God!"
@@ -253,23 +261,27 @@ trAK.Oikos180.text = "Set on saving the cosmos, He who set all things in order c
 trAK.Oikos181.text = trAK.Refrain2.text
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 trMA.Ode3Kathisma1.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 trMA.Ode3Kathisma1.incipit = "The great commanding Chief of…"
 trMA.Ode3Kathisma1.text = "The great commanding Chief of the bodiless powers * in Nazareth appears and announces the coming, * O spotless Maiden, unto you of the King of the ages and Lord, * saying, \"O rejoice,\" unto you blessed Mary, * \"incomprehensible and inexplicable wonder, * the restoration of mortal man.\""
 
 trMA.Ode3Kathisma2.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 trMA.Ode3Kathisma2.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 trMA.Ode3Kathisma2.incipit = "Incomprehensible and inexplicable wonder, *…"
 trMA.Ode3Kathisma2.text = "Incomprehensible and inexplicable wonder, * the restoration of mortal man."
 
 trMA.Ode4C1H.ode = miscellanea_en_US_dedes.misc.Ode4
 trMA.Ode4C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode4C1H.greekmelody = he.h.m4_en_US_dedes.heHE.OKathimenosEnDoxi.greekname
 trMA.Ode4C1H.melody = he.h.m4_en_US_dedes.heHE.OKathimenosEnDoxi.melody
 trMA.Ode4C1H.incipit = he.h.m4_en_US_dedes.heHE.OKathimenosEnDoxi.incipit
 trMA.Ode4C1H.text = he.h.m4_en_US_dedes.heHE.OKathimenosEnDoxi.text
 
 trMA.Ode4C11.ode = miscellanea_en_US_dedes.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode4C11.greekmelody = he.h.m4_en_US_dedes.heHE.OKathimenosEnDoxi.greekname
 trMA.Ode4C11.melody = he.h.m4_en_US_dedes.heHE.OKathimenosEnDoxi.name
 trMA.Ode4C11.incipit = "David saw you as the…"
 trMA.Ode4C11.text = "David saw you as the Mountain, * in the Spirit fertile and rich, * where God dwelt, O Lady; * therefore we salute you and sing: Rejoice! * The golden jar with the honey-flavored manna of old * points to you who held the sweetest heavenly Bread of life."
@@ -306,12 +318,14 @@ trMA.Ode4K.text = he.h.m4_en_US_dedes.heHE.OKathimenosEnDoxi.text
 
 trMA.Ode5C1H.ode = miscellanea_en_US_dedes.misc.Ode5
 trMA.Ode5C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode5C1H.greekmelody = he.h.m4_en_US_dedes.heHE.ExestiTaSympanta.greekname
 trMA.Ode5C1H.melody = he.h.m4_en_US_dedes.heHE.ExestiTaSympanta.melody
 trMA.Ode5C1H.incipit = he.h.m4_en_US_dedes.heHE.ExestiTaSympanta.incipit
 trMA.Ode5C1H.text = he.h.m4_en_US_dedes.heHE.ExestiTaSympanta.text
 
 trMA.Ode5C11.ode = miscellanea_en_US_dedes.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode5C11.greekmelody = he.h.m4_en_US_dedes.heHE.ExestiTaSympanta.greekname
 trMA.Ode5C11.melody = he.h.m4_en_US_dedes.heHE.ExestiTaSympanta.name
 trMA.Ode5C11.incipit = "Rejoice, Virgin, Bride of God!…"
 trMA.Ode5C11.text = "Rejoice, Virgin, Bride of God! You carried in your womb the Way * and the Life. O Mother of the Savior, * the world is saved from the flood of sin through you. * Awe-inspiring tidings and good news! * Rejoice! For the Master of all creation abode in you."
@@ -348,12 +362,14 @@ trMA.Ode5K.text = he.h.m4_en_US_dedes.heHE.ExestiTaSympanta.text
 
 trMA.Ode6C1H.ode = miscellanea_en_US_dedes.misc.Ode6
 trMA.Ode6C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode6C1H.greekmelody = he.h.m4_en_US_dedes.heHE.TinTheianTaftin.greekname
 trMA.Ode6C1H.melody = he.h.m4_en_US_dedes.heHE.TinTheianTaftin.melody
 trMA.Ode6C1H.incipit = he.h.m4_en_US_dedes.heHE.TinTheianTaftin.incipit
 trMA.Ode6C1H.text = he.h.m4_en_US_dedes.heHE.TinTheianTaftin.text
 
 trMA.Ode6C11.ode = miscellanea_en_US_dedes.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode6C11.greekmelody = he.h.m4_en_US_dedes.heHE.TinTheianTaftin.greekname
 trMA.Ode6C11.melody = he.h.m4_en_US_dedes.heHE.TinTheianTaftin.name
 trMA.Ode6C11.incipit = "O bridal chamber of God…"
 trMA.Ode6C11.text = "O bridal chamber of God the Word, * we credit the theosis of all to you. O Virgin pure, rejoice! * The Prophets' echoing prophecies, * fulfilled in you, adorned what Apostles then proclaimed."
@@ -389,6 +405,7 @@ trMA.C3.verse = prayers_en_US_dedes.pr.verse_SaintsM.text
 
 trMA.Ode6C21.ode = miscellanea_en_US_dedes.misc.Ode6
 trMA.Ode6C21.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode6C21.greekmelody = he.h.m6_en_US_dedes.heHE.TouViouTinThalassan.greekname
 trMA.Ode6C21.melody = he.h.m6_en_US_dedes.heHE.TouViouTinThalassan.name
 trMA.Ode6C21.incipit = "…"
 trMA.Ode6C21.text = ""
@@ -413,6 +430,7 @@ trMA.Ode6C2T.text = ""
 
 trMA.Ode6C31.ode = miscellanea_en_US_dedes.misc.Ode6
 trMA.Ode6C31.mode = miscellanea_en_US_dedes.misc.Mode5
+trMA.Ode6C31.greekmelody = he.h.m5_en_US_dedes.heHE.TouKitousTonProfitin.greekname
 trMA.Ode6C31.melody = he.h.m5_en_US_dedes.heHE.TouKitousTonProfitin.name
 trMA.Ode6C31.incipit = "…"
 trMA.Ode6C31.text = ""
@@ -449,6 +467,7 @@ trMA.Ode6C3A2.text = ""
 
 trMA.Ode6C3H.ode = miscellanea_en_US_dedes.misc.Ode6
 trMA.Ode6C3H.mode = miscellanea_en_US_dedes.misc.Mode5
+trMA.Ode6C3H.greekmelody = he.h.m5_en_US_dedes.heHE.TouKitousTonProfitin.greekname
 trMA.Ode6C3H.melody = he.h.m5_en_US_dedes.heHE.TouKitousTonProfitin.melody
 trMA.Ode6C3H.incipit = he.h.m5_en_US_dedes.heHE.TouKitousTonProfitin.incipit
 trMA.Ode6C3H.text = he.h.m5_en_US_dedes.heHE.TouKitousTonProfitin.text
@@ -522,12 +541,14 @@ trSY.lastline = "Through the intercessions of Your Mother the unassailable Champ
 
 trMA.Ode7C1H.ode = miscellanea_en_US_dedes.misc.Ode7
 trMA.Ode7C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode7C1H.greekmelody = he.h.m4_en_US_dedes.heHE.OukElatrefsan.greekname
 trMA.Ode7C1H.melody = he.h.m4_en_US_dedes.heHE.OukElatrefsan.melody
 trMA.Ode7C1H.incipit = he.h.m4_en_US_dedes.heHE.OukElatrefsan.incipit
 trMA.Ode7C1H.text = he.h.m4_en_US_dedes.heHE.OukElatrefsan.text
 
 trMA.Ode7C11.ode = miscellanea_en_US_dedes.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode7C11.greekmelody = he.h.m4_en_US_dedes.heHE.OukElatrefsan.greekname
 trMA.Ode7C11.melody = he.h.m4_en_US_dedes.heHE.OukElatrefsan.name
 trMA.Ode7C11.incipit = "We salute you: Rejoice! *…"
 trMA.Ode7C11.text = "We salute you: Rejoice! * You bore the Sun of Righteousness, and thus the mythical type * of chariot applies to you. * Old Testament images of vines and ripened grapes * point to you, who brought forth * the Lord whose blood now gladdens hearts * of the faithful who extol you."
@@ -558,6 +579,7 @@ trMA.Ode7C15.text = "We your servants pray, * entreating you, and like Manasseh 
 
 trMA.Ode7C21.ode = miscellanea_en_US_dedes.misc.Ode7
 trMA.Ode7C21.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode7C21.greekmelody = he.h.m6_en_US_dedes.heHE.DrosovolonMenTinKaminon.greekname
 trMA.Ode7C21.melody = he.h.m6_en_US_dedes.heHE.DrosovolonMenTinKaminon.name
 trMA.Ode7C21.incipit = "…"
 trMA.Ode7C21.text = ""
@@ -582,6 +604,7 @@ trMA.Ode7C2T.text = ""
 
 trMA.Ode7C31.ode = miscellanea_en_US_dedes.misc.Ode7
 trMA.Ode7C31.mode = miscellanea_en_US_dedes.misc.Mode5
+trMA.Ode7C31.greekmelody = he.h.m5_en_US_dedes.heHE.EvlogitosEiOTheos.greekname
 trMA.Ode7C31.melody = he.h.m5_en_US_dedes.heHE.EvlogitosEiOTheos.name
 trMA.Ode7C31.incipit = "…"
 trMA.Ode7C31.text = ""
@@ -618,18 +641,21 @@ trMA.Ode7C3A2.text = ""
 
 trMA.Ode7C3H.ode = miscellanea_en_US_dedes.misc.Ode7
 trMA.Ode7C3H.mode = miscellanea_en_US_dedes.misc.Mode5
+trMA.Ode7C3H.greekmelody = he.h.m5_en_US_dedes.heHE.EvlogitosEiOTheos.greekname
 trMA.Ode7C3H.melody = he.h.m5_en_US_dedes.heHE.EvlogitosEiOTheos.melody
 trMA.Ode7C3H.incipit = he.h.m5_en_US_dedes.heHE.EvlogitosEiOTheos.incipit
 trMA.Ode7C3H.text = he.h.m5_en_US_dedes.heHE.EvlogitosEiOTheos.text
 
 trMA.Ode8C1H.ode = miscellanea_en_US_dedes.misc.Ode8
 trMA.Ode8C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode8C1H.greekmelody = he.h.m4_en_US_dedes.heHE.PaidasEvageis.greekname
 trMA.Ode8C1H.melody = he.h.m4_en_US_dedes.heHE.PaidasEvageis.melody
 trMA.Ode8C1H.incipit = he.h.m4_en_US_dedes.heHE.PaidasEvageis.incipit
 trMA.Ode8C1H.text = he.h.m4_en_US_dedes.heHE.PaidasEvageis.text
 
 trMA.Ode8C11.ode = miscellanea_en_US_dedes.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode8C11.greekmelody = he.h.m4_en_US_dedes.heHE.PaidasEvageis.greekname
 trMA.Ode8C11.melody = he.h.m4_en_US_dedes.heHE.PaidasEvageis.name
 trMA.Ode8C11.incipit = "You welcomed into your womb…"
 trMA.Ode8C11.text = "You welcomed into your womb the Logos. * You held in your arms the One who holds all things. * You, O Virgin, nursed the One * who by His divine command * gives food to all, O Maiden pure. And now we sing to Him: * \"O all you works of the Lord, to all ages * sing praises to the Lord and exalt Him beyond measure.\""
@@ -660,6 +686,7 @@ trMA.Ode8C15.text = "You gave birth to Christ, the world's salvation. * Through 
 
 trMA.Ode8C21.ode = miscellanea_en_US_dedes.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode8C21.greekmelody = he.h.m6_en_US_dedes.heHE.EkFlogosToisOsiois.greekname
 trMA.Ode8C21.melody = he.h.m6_en_US_dedes.heHE.EkFlogosToisOsiois.name
 trMA.Ode8C21.incipit = "…"
 trMA.Ode8C21.text = ""
@@ -684,6 +711,7 @@ trMA.Ode8C2T.text = ""
 
 trMA.Ode8C31.ode = miscellanea_en_US_dedes.misc.Ode8
 trMA.Ode8C31.mode = miscellanea_en_US_dedes.misc.Mode5
+trMA.Ode8C31.greekmelody = he.h.m5_en_US_dedes.heHE.TonPoiitinTisKtiseos.greekname
 trMA.Ode8C31.melody = he.h.m5_en_US_dedes.heHE.TonPoiitinTisKtiseos.name
 trMA.Ode8C31.incipit = "…"
 trMA.Ode8C31.text = ""
@@ -720,18 +748,21 @@ trMA.Ode8C3A2.text = ""
 
 trMA.Ode8C3H.ode = miscellanea_en_US_dedes.misc.Ode8
 trMA.Ode8C3H.mode = miscellanea_en_US_dedes.misc.Mode5
+trMA.Ode8C3H.greekmelody = he.h.m5_en_US_dedes.heHE.TonPoiitinTisKtiseos.greekname
 trMA.Ode8C3H.melody = he.h.m5_en_US_dedes.heHE.TonPoiitinTisKtiseos.melody
 trMA.Ode8C3H.incipit = he.h.m5_en_US_dedes.heHE.TonPoiitinTisKtiseos.incipit
 trMA.Ode8C3H.text = he.h.m5_en_US_dedes.heHE.TonPoiitinTisKtiseos.text
 
 trMA.Ode9C1H.ode = miscellanea_en_US_dedes.misc.Ode9
 trMA.Ode9C1H.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode9C1H.greekmelody = he.h.m4_en_US_dedes.heHE.ApasGigenis_Akathist.greekname
 trMA.Ode9C1H.melody = he.h.m4_en_US_dedes.heHE.ApasGigenis_Akathist.melody
 trMA.Ode9C1H.incipit = he.h.m4_en_US_dedes.heHE.ApasGigenis_Akathist.incipit
 trMA.Ode9C1H.text = he.h.m4_en_US_dedes.heHE.ApasGigenis_Akathist.text
 
 trMA.Ode9C11.ode = miscellanea_en_US_dedes.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Ode9C11.greekmelody = he.h.m4_en_US_dedes.heHE.ApasGigenis_Akathist.greekname
 trMA.Ode9C11.melody = he.h.m4_en_US_dedes.heHE.ApasGigenis_Akathist.name
 trMA.Ode9C11.incipit = "Rescue us, we pray, *…"
 trMA.Ode9C11.text = "Rescue us, we pray, * from foreign invasion and from every other scourge * that we might experience * as a result of the multitude of sins * committed by humanity, so that we faithful, who share * the divine and everlasting joy through you, * might salute you, O Virgin, and sing: Rejoice!"
@@ -762,6 +793,7 @@ trMA.Ode9C15.text = "Pity us, O God, * and spare Your inheritance by overlooking
 
 trMA.Ode9C21.ode = miscellanea_en_US_dedes.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Ode9C21.greekmelody = he.h.m6_en_US_dedes.heHE.TheonAnthropois.greekname
 trMA.Ode9C21.melody = he.h.m6_en_US_dedes.heHE.TheonAnthropois.name
 trMA.Ode9C21.incipit = "…"
 trMA.Ode9C21.text = ""
@@ -786,6 +818,7 @@ trMA.Ode9C2T.text = ""
 
 trMA.Ode9C31.ode = miscellanea_en_US_dedes.misc.Ode9
 trMA.Ode9C31.mode = miscellanea_en_US_dedes.misc.Mode5
+trMA.Ode9C31.greekmelody = he.h.m5_en_US_dedes.heHE.IsaiaChoreve.greekname
 trMA.Ode9C31.melody = he.h.m5_en_US_dedes.heHE.IsaiaChoreve.name
 trMA.Ode9C31.incipit = "…"
 trMA.Ode9C31.text = ""
@@ -822,16 +855,19 @@ trMA.Ode9C3A2.text = ""
 
 trMA.Ode9C3H.ode = miscellanea_en_US_dedes.misc.Ode9
 trMA.Ode9C3H.mode = miscellanea_en_US_dedes.misc.Mode5
+trMA.Ode9C3H.greekmelody = he.h.m5_en_US_dedes.heHE.IsaiaChoreve.greekname
 trMA.Ode9C3H.melody = he.h.m5_en_US_dedes.heHE.IsaiaChoreve.melody
 trMA.Ode9C3H.incipit = he.h.m5_en_US_dedes.heHE.IsaiaChoreve.incipit
 trMA.Ode9C3H.text = he.h.m5_en_US_dedes.heHE.IsaiaChoreve.text
 
 trMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+trMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 trMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 trMA.Exaposteilarion1.incipit = "The mystery that was concealed…"
 trMA.Exaposteilarion1.text = "The mystery that was concealed * for ages is today revealed. * The God from God and Logos * becomes now the Son of Mary * the Virgin, in His tender love. * And this good news of mighty joy * does Gabriel annunciate; * with whom let us cry together: * \"Rejoice, O Mother of the Master.\""
 
 trMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Lauds1.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 trMA.Lauds1.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
 trMA.Lauds1.incipit = me.m03.d24_en_US_dedes.meVE.Stichera01.incipit
 trMA.Lauds1.text = me.m03.d24_en_US_dedes.meVE.Stichera01.text
