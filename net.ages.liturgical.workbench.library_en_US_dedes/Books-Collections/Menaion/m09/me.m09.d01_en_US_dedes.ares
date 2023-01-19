@@ -491,8 +491,10 @@ meMA.Ode4C3T.text = ""
 
 meMA.Ode5C1H.ode = miscellanea_en_US_dedes.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_dedes.misc.Mode1
-meMA.Ode5C1H.melody = miscellanea_en_US_dedes.misc.Heirmos
-meMA.Ode5C1H.text = he.h.m1_en_US_dedes.heHE.EkNyktosOrthrizontes.incipit
+meMA.Ode5C1H.greekmelody = he.h.m1_en_US_dedes.heHE.EkNyktosOrthrizontes.greekname
+meMA.Ode5C1H.melody = he.h.m1_en_US_dedes.heHE.EkNyktosOrthrizontes.melody
+meMA.Ode5C1H.incipit = he.h.m1_en_US_dedes.heHE.EkNyktosOrthrizontes.incipit
+meMA.Ode5C1H.text = he.h.m1_en_US_dedes.heHE.EkNyktosOrthrizontes.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_dedes.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_dedes.misc.Mode1

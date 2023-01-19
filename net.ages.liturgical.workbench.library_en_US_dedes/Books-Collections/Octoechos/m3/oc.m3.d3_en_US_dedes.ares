@@ -369,8 +369,10 @@ ocMA.OdeW5C2T.text = ""
 
 ocMA.OdeW6C1H.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW6C1H.ode = miscellanea_en_US_dedes.misc.Ode6
-ocMA.OdeW6C1H.melody = miscellanea_en_US_dedes.misc.Heirmos
-ocMA.OdeW6C1H.text = he.h.m3_en_US_dedes.heHE.VythosMoiTonPathon.incipit
+ocMA.OdeW6C1H.greekmelody = he.h.m3_en_US_dedes.heHE.VythosMoiTonPathon.greekname
+ocMA.OdeW6C1H.melody = he.h.m3_en_US_dedes.heHE.VythosMoiTonPathon.melody
+ocMA.OdeW6C1H.incipit = he.h.m3_en_US_dedes.heHE.VythosMoiTonPathon.incipit
+ocMA.OdeW6C1H.text = he.h.m3_en_US_dedes.heHE.VythosMoiTonPathon.text
 
 ocMA.OdeW6C11.mode = miscellanea_en_US_dedes.misc.Mode3
 ocMA.OdeW6C11.ode = miscellanea_en_US_dedes.misc.Ode6
