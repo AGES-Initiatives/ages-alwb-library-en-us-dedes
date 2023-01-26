@@ -13,6 +13,7 @@ R02 = "Then \"God is the Lord\" is sung four times, with or without the verses."
 R03 = ""
 
 hoCA.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
+hoCA.Apolytikion1.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
 hoCA.Apolytikion1.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 hoCA.Apolytikion1.incipit = oc.m4.d3_en_US_dedes.ocVE.ApolTheotokionVM.incipit
 hoCA.Apolytikion1.text = oc.m4.d3_en_US_dedes.ocVE.ApolTheotokionVM.text
@@ -110,6 +111,7 @@ hoCA.Troparion32.text = "Look graciously upon your servant, all-praiseworthy The
 //R07
 
 hoCA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode2
+hoCA.Kathisma11.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 hoCA.Kathisma11.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
 hoCA.Kathisma11.incipit = "O Mother of God, intently…"
 hoCA.Kathisma11.text = "O Mother of God, intently we cry out to you * the wellspring of mercy and the refuge of the world. * O vehement advocate, * unassailable fortress, anticipate * and deliver us from perilous ordeals, * O Lady who alone are swift to fend for us."
@@ -247,6 +249,7 @@ hoCA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 hoCA.PostGospelVerse.text = ""
 
 hoCA.PostGospelHymn1.mode = miscellanea_en_US_dedes.misc.Mode6
+hoCA.PostGospelHymn1.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greekname
 hoCA.PostGospelHymn1.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
 hoCA.PostGospelHymn1.incipit = "O Lady, entrust me not…"
 hoCA.PostGospelHymn1.text = "O Lady, entrust me not * to any human protection, * but rather accept the prayer * of your humble supplicant, * O all-holy one. * Troubles encompass me. * No more can I endure * all the arrows demons shoot at me. * From every side am I * under fire, mis'rable that I am. * Shelter I do not possess, * and no consolation have I but you. * Patronage and hope of * the faithful, Sovereign Lady of the world, * O disregard not my litany. * Do that which is best for me."
@@ -421,6 +424,7 @@ hoCA.Troparion3.incipit = oc.m6.d5_en_US_dedes.ocMA.Kathisma13.incipit
 hoCA.Troparion3.text = oc.m6.d5_en_US_dedes.ocMA.Kathisma13.text
 
 hoCA.Troparion4.mode = miscellanea_en_US_dedes.misc.Mode2
+hoCA.Troparion4.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 hoCA.Troparion4.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 hoCA.Troparion4.incipit = oc.m2.d5_en_US_dedes.ocVE.AposTheotokion.incipit
 hoCA.Troparion4.text = oc.m2.d5_en_US_dedes.ocVE.AposTheotokion.text
