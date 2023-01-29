@@ -388,6 +388,7 @@ alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
 alt1.meVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meVE.Stichera01.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 alt1.meVE.Stichera01.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
 alt1.meVE.Stichera01.incipit = "…"
 alt1.meVE.Stichera01.text = ""
@@ -438,6 +439,7 @@ alt1.meVE.LityBoth.incipit = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.incipit
 alt1.meVE.LityBoth.text = oc.m5.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 alt1.meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meVE.Aposticha1.greekmelody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
 alt1.meVE.Aposticha1.melody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
 alt1.meVE.Aposticha1.incipit = "…"
 alt1.meVE.Aposticha1.text = ""
@@ -463,31 +465,37 @@ alt1.meVE.AposTheotokion.incipit = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.inci
 alt1.meVE.AposTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
 
 alt1.meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode3
+alt1.meVE.Apolytikion1.greekmelody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.greekname
 alt1.meVE.Apolytikion1.melody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.name
 alt1.meVE.Apolytikion1.incipit = "All illumined by the Holy…"
 alt1.meVE.Apolytikion1.text = "All illumined by the Holy Spirit, * irrigated by the living waters * that the Savior provides, O all-lauded Saint, * when you had drunk of the waters of salvation, * to those who thirsted you shared them abundantly. * O Great Martyr and Apostles' equal, St. Photini, * to Christ our God pray fervently, * entreating Him to save our souls."
 
 alt1.meVE.Apolytikion2.mode = miscellanea_en_US_dedes.misc.Mode3
+alt1.meVE.Apolytikion2.greekmelody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.greekname
 alt1.meVE.Apolytikion2.melody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.name
 alt1.meVE.Apolytikion2.incipit = "…"
 alt1.meVE.Apolytikion2.text = ""
 
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Kathisma11.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
 alt1.meMA.Kathisma11.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 alt1.meMA.Kathisma11.incipit = "…"
 alt1.meMA.Kathisma11.text = ""
 
 alt1.meMA.Kathisma1T.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Kathisma1T.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
 alt1.meMA.Kathisma1T.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 alt1.meMA.Kathisma1T.incipit = oc.m4.d3_en_US_dedes.ocVE.ApolTheotokionVM.incipit
 alt1.meMA.Kathisma1T.text = oc.m4.d3_en_US_dedes.ocVE.ApolTheotokionVM.text
 
 alt1.meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Kathisma21.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma21.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma21.incipit = "…"
 alt1.meMA.Kathisma21.text = ""
 
 alt1.meMA.Kathisma2T.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Kathisma2T.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma2T.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma2T.incipit = oc.m8.d1_en_US_dedes.ocMA.Kathisma13.incipit
 alt1.meMA.Kathisma2T.text = oc.m8.d1_en_US_dedes.ocMA.Kathisma13.text
@@ -517,6 +525,7 @@ alt1.meMA.C1.verse = prayers_en_US_dedes.pr.verse_SaintW.text
 
 alt1.meMA.Ode1C11.ode = miscellanea_en_US_dedes.misc.Ode1
 alt1.meMA.Ode1C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode1C11.greekmelody = he.h.m4_en_US_dedes.heHE.AnoixoToStomaMou.greekname
 alt1.meMA.Ode1C11.melody = he.h.m4_en_US_dedes.heHE.AnoixoToStomaMou.name
 alt1.meMA.Ode1C11.incipit = "…"
 alt1.meMA.Ode1C11.text = ""
@@ -541,6 +550,7 @@ alt1.meMA.Ode1C1T.text = ""
 
 alt1.meMA.Ode3C11.ode = miscellanea_en_US_dedes.misc.Ode3
 alt1.meMA.Ode3C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode3C11.greekmelody = he.h.m4_en_US_dedes.heHE.TousSousYmnologous.greekname
 alt1.meMA.Ode3C11.melody = he.h.m4_en_US_dedes.heHE.TousSousYmnologous.name
 alt1.meMA.Ode3C11.incipit = "…"
 alt1.meMA.Ode3C11.text = ""
@@ -564,6 +574,7 @@ alt1.meMA.Ode3C1T.incipit = "…"
 alt1.meMA.Ode3C1T.text = ""
 
 alt1.meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_dedes.heAU.ToProstachthen.greekname
 alt1.meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.heAU.ToProstachthen.name
 alt1.meMA.Ode3Kathisma1.incipit = "…"
 alt1.meMA.Ode3Kathisma1.text = ""
@@ -575,6 +586,7 @@ alt1.meMA.Ode3KathismaT.text = ""
 
 alt1.meMA.Ode4C11.ode = miscellanea_en_US_dedes.misc.Ode4
 alt1.meMA.Ode4C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode4C11.greekmelody = he.h.m4_en_US_dedes.heHE.TinAnexichniaston.greekname
 alt1.meMA.Ode4C11.melody = he.h.m4_en_US_dedes.heHE.TinAnexichniaston.name
 alt1.meMA.Ode4C11.incipit = "…"
 alt1.meMA.Ode4C11.text = ""
@@ -599,6 +611,7 @@ alt1.meMA.Ode4C1T.text = ""
 
 alt1.meMA.Ode5C11.ode = miscellanea_en_US_dedes.misc.Ode5
 alt1.meMA.Ode5C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode5C11.greekmelody = he.h.m4_en_US_dedes.heHE.ExestiTaSympanta.greekname
 alt1.meMA.Ode5C11.melody = he.h.m4_en_US_dedes.heHE.ExestiTaSympanta.name
 alt1.meMA.Ode5C11.incipit = "…"
 alt1.meMA.Ode5C11.text = ""
@@ -623,6 +636,7 @@ alt1.meMA.Ode5C1T.text = ""
 
 alt1.meMA.Ode6C11.ode = miscellanea_en_US_dedes.misc.Ode6
 alt1.meMA.Ode6C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode6C11.greekmelody = he.h.m4_en_US_dedes.heHE.TinTheianTaftin.greekname
 alt1.meMA.Ode6C11.melody = he.h.m4_en_US_dedes.heHE.TinTheianTaftin.name
 alt1.meMA.Ode6C11.incipit = "…"
 alt1.meMA.Ode6C11.text = ""
@@ -646,6 +660,7 @@ alt1.meMA.Ode6C1T.incipit = "…"
 alt1.meMA.Ode6C1T.text = ""
 
 alt1.meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode3
+alt1.meMA.Kontakion1.greekmelody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.greekname
 alt1.meMA.Kontakion1.melody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.name
 alt1.meMA.Kontakion1.incipit = "On this day, the glorious…"
 alt1.meMA.Kontakion1.text = "On this day, the glorious * garland and glory of Martyrs, * Photini, who clearly went * up to the heavens, invites us, * who enjoy the gifts of grace that she distributes, * to observe her holy feast day and celebrate it * with our joyful hymns. And therefore * let all the faithful extol and honor her."
@@ -661,6 +676,7 @@ alt1.meMA.couplet2.verse2 = ""
 
 alt1.meMA.Ode7C11.ode = miscellanea_en_US_dedes.misc.Ode7
 alt1.meMA.Ode7C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode7C11.greekmelody = he.h.m4_en_US_dedes.heHE.OukElatrefsan.greekname
 alt1.meMA.Ode7C11.melody = he.h.m4_en_US_dedes.heHE.OukElatrefsan.name
 alt1.meMA.Ode7C11.incipit = "…"
 alt1.meMA.Ode7C11.text = ""
@@ -685,6 +701,7 @@ alt1.meMA.Ode7C1T.text = ""
 
 alt1.meMA.Ode8C11.ode = miscellanea_en_US_dedes.misc.Ode8
 alt1.meMA.Ode8C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode8C11.greekmelody = he.h.m4_en_US_dedes.heHE.PaidasEvageis.greekname
 alt1.meMA.Ode8C11.melody = he.h.m4_en_US_dedes.heHE.PaidasEvageis.name
 alt1.meMA.Ode8C11.incipit = "…"
 alt1.meMA.Ode8C11.text = ""
@@ -709,6 +726,7 @@ alt1.meMA.Ode8C1T.text = ""
 
 alt1.meMA.Ode9C11.ode = miscellanea_en_US_dedes.misc.Ode9
 alt1.meMA.Ode9C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode9C11.greekmelody = he.h.m4_en_US_dedes.heHE.ApasGigenis.greekname
 alt1.meMA.Ode9C11.melody = he.h.m4_en_US_dedes.heHE.ApasGigenis.name
 alt1.meMA.Ode9C11.incipit = "…"
 alt1.meMA.Ode9C11.text = ""
@@ -732,6 +750,7 @@ alt1.meMA.Ode9C1T.incipit = "…"
 alt1.meMA.Ode9C1T.text = ""
 
 alt1.meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+alt1.meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 alt1.meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 alt1.meMA.Exaposteilarion1.incipit = "…"
 alt1.meMA.Exaposteilarion1.text = ""
@@ -742,6 +761,7 @@ alt1.meMA.ExapTheotokion.incipit = me.m11.d04_en_US_dedes.meMA.ExapTheotokion.in
 alt1.meMA.ExapTheotokion.text = me.m11.d04_en_US_dedes.meMA.ExapTheotokion.text
 
 alt1.meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode2
+alt1.meMA.Lauds1.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 alt1.meMA.Lauds1.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 alt1.meMA.Lauds1.incipit = "…"
 alt1.meMA.Lauds1.text = ""

@@ -482,6 +482,7 @@ alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
 alt1.meSV.Stichera1.mode = miscellanea_en_US_dedes.misc.Mode6
+alt1.meSV.Stichera1.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greekname
 alt1.meSV.Stichera1.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
 alt1.meSV.Stichera1.incipit = "…"
 alt1.meSV.Stichera1.text = ""
@@ -497,6 +498,7 @@ alt1.meSV.Stichera3.incipit = "…"
 alt1.meSV.Stichera3.text = ""
 
 alt1.meSV.Stichera4.mode = miscellanea_en_US_dedes.misc.Mode6
+alt1.meSV.Stichera4.greekmelody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
 alt1.meSV.Stichera4.melody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
 alt1.meSV.Stichera4.incipit = "…"
 alt1.meSV.Stichera4.text = ""
@@ -507,6 +509,7 @@ alt1.meSV.SticGlory.incipit = "…"
 alt1.meSV.SticGlory.text = ""
 
 alt1.meSV.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meSV.Aposticha1.greekmelody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
 alt1.meSV.Aposticha1.melody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
 alt1.meSV.Aposticha1.incipit = "…"
 alt1.meSV.Aposticha1.text = ""
@@ -527,6 +530,7 @@ alt1.meSV.AposGlory.incipit = "…"
 alt1.meSV.AposGlory.text = ""
 
 alt1.meVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meVE.Stichera01.greekmelody = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.greekname
 alt1.meVE.Stichera01.melody = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.name
 alt1.meVE.Stichera01.incipit = "What a paradoxical miracle. *…"
 alt1.meVE.Stichera01.text = "What a paradoxical miracle. * Today a luminous and most resplendent feast of feasts * has dawned on those living on the Isle of Kythira. * O heavens above, be glad, * and send down droplets of sweet spiritual joy. * O hosts of Angels on high, * join the believers of Kythira and cry aloud: * \"Lady full of grace, rejoice, for the Lord is with you, * and through your intercessions * He bestows great mercy on the world.\""
@@ -542,11 +546,13 @@ alt1.meVE.Stichera03.incipit = "What a paradoxical miracle. *…"
 alt1.meVE.Stichera03.text = "What a paradoxical miracle. * Such a blessing indeed has the Isle of Kythira * obtained and enjoys from you, O Lady graced by God. * For you loved the people there * as an affectionate Mother and gave to them * your Icon, which they revere * and which they cherish; and venerating it they sing: * \"Lady full of grace, rejoice, for the Lord is with you, * and through your intercessions * He bestows great mercy on the world.\""
 
 alt1.meVE.Stichera04.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meVE.Stichera04.greekmelody = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.greekname
 alt1.meVE.Stichera04.melody = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.name
 alt1.meVE.Stichera04.incipit = "…"
 alt1.meVE.Stichera04.text = ""
 
 alt1.meVE.Stichera05.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meVE.Stichera05.greekmelody = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.greekname
 alt1.meVE.Stichera05.melody = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.name
 alt1.meVE.Stichera05.incipit = "…"
 alt1.meVE.Stichera05.text = ""
@@ -642,6 +648,7 @@ alt1.meVE.LityGlory.incipit = "…"
 alt1.meVE.LityGlory.text = ""
 
 alt1.meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode5
+alt1.meVE.Aposticha1.greekmelody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.greekname
 alt1.meVE.Aposticha1.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
 alt1.meVE.Aposticha1.incipit = "…"
 alt1.meVE.Aposticha1.text = ""
@@ -662,57 +669,68 @@ alt1.meVE.AposGlory.incipit = "The words of the glorious…"
 alt1.meVE.AposGlory.text = "The words of the glorious Prophet Isaiah have come to pass. For he said: \"Instead of the broom-tree shall come up the cypress, and instead of the nettle shall come up the myrtle.\" And now indeed the lowly myrtle has come up, and it is greatly exalted, above all other trees of the field. For the Icon of the all-pure Lady has risen from fragrant myrtles for the people of Kythira, as a badge of Orthodoxy and proof of good favor. Let us all joyfully take up branches of myrtle, and let us extol the Theotokos on this official day of the feast; and let us reverently venerate her Icon and salute her saying: \"Rejoice, glory and joy of the people of Kythira, O immaculate Virgin.\""
 
 alt1.meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meVE.Apolytikion1.greekmelody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.greekname
 alt1.meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
 alt1.meVE.Apolytikion1.incipit = "O come, all you people…"
 alt1.meVE.Apolytikion1.text = "O come, all you people, and let us in faith clap our hands * and sing sacred songs to her who is the Mother of God, * and longingly cry aloud: * \"Rejoice, O protection of all those who entreat you; * rejoice, the salvation of those who honor you with longing; * rejoice, O Lady who restored * the paralyzed man to health.\""
 
 alt1.meVE.Apolytikion2.poet = poets_en_US_dedes.po.Gerasimou
 alt1.meVE.Apolytikion2.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meVE.Apolytikion2.greekmelody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.greekname
 alt1.meVE.Apolytikion2.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
 alt1.meVE.Apolytikion2.incipit = "…"
 alt1.meVE.Apolytikion2.text = ""
 
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Kathisma11.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 alt1.meMA.Kathisma11.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
 alt1.meMA.Kathisma11.incipit = "Behold, noetic spring * has…"
 alt1.meMA.Kathisma11.text = "Behold, noetic spring * has brightly dawned on us today, * on the venerable feast * of the Mother of God, * and it delightfully perfumes the Island of Kythira. * It spreads heavenly grace over the populace * and all those who attend and gaily celebrate * and all who venerate her highly-honored * all-holy Icon and sing to her: * \"Rejoice, O Virgin, our wall and shelter * and the Kytherians' glory.\""
 
 alt1.meMA.Kathisma12.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Kathisma12.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 alt1.meMA.Kathisma12.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
 alt1.meMA.Kathisma12.incipit = "…"
 alt1.meMA.Kathisma12.text = ""
 
 alt1.meMA.Kathisma13.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Kathisma13.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 alt1.meMA.Kathisma13.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
 alt1.meMA.Kathisma13.incipit = "…"
 alt1.meMA.Kathisma13.text = ""
 
 alt1.meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode3
+alt1.meMA.Kathisma21.greekmelody = he.a.m3_en_US_dedes.heAU.TinOraiotita.greekname
 alt1.meMA.Kathisma21.melody = he.a.m3_en_US_dedes.heAU.TinOraiotita.name
 alt1.meMA.Kathisma21.incipit = "Today the Island all exults…"
 alt1.meMA.Kathisma21.text = "Today the Island all exults with jubilance * at this your festival, O Lady graced by God, * and with the cymbals from the Psalms it cries out to you rejoicing: * Rejoice, you who wondrously * cured the man who was paralyzed; * rejoice, you who freely give * health to those who are suffering; * rejoice, the pride and glory of Kytherians; * Rejoice, O Maiden full of grace."
 
 alt1.meMA.Kathisma22.mode = miscellanea_en_US_dedes.misc.Mode3
+alt1.meMA.Kathisma22.greekmelody = he.a.m3_en_US_dedes.heAU.TinOraiotita.greekname
 alt1.meMA.Kathisma22.melody = he.a.m3_en_US_dedes.heAU.TinOraiotita.name
 alt1.meMA.Kathisma22.incipit = "…"
 alt1.meMA.Kathisma22.text = ""
 
 alt1.meMA.Kathisma23.mode = miscellanea_en_US_dedes.misc.Mode3
+alt1.meMA.Kathisma23.greekmelody = he.a.m3_en_US_dedes.heAU.TinOraiotita.greekname
 alt1.meMA.Kathisma23.melody = he.a.m3_en_US_dedes.heAU.TinOraiotita.name
 alt1.meMA.Kathisma23.incipit = "…"
 alt1.meMA.Kathisma23.text = ""
 
 alt1.meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Kathisma31.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma31.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma31.incipit = "…"
 alt1.meMA.Kathisma31.text = ""
 
 alt1.meMA.Kathisma32.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Kathisma32.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma32.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma32.incipit = "…"
 alt1.meMA.Kathisma32.text = ""
 
 alt1.meMA.Kathisma33.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Kathisma33.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma33.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma33.incipit = "…"
 alt1.meMA.Kathisma33.text = ""
@@ -742,12 +760,14 @@ alt1.meMA.C1.verse = prayers_en_US_dedes.pr.verse_Theotokos.text
 
 alt1.meMA.Ode1C1H.ode = miscellanea_en_US_dedes.misc.Ode1
 alt1.meMA.Ode1C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode1C1H.greekmelody = he.h.m1_en_US_dedes.heHE.PepoikilmeniTiTheiaDoxi.greekname
 alt1.meMA.Ode1C1H.melody = he.h.m1_en_US_dedes.heHE.PepoikilmeniTiTheiaDoxi.melody
 alt1.meMA.Ode1C1H.incipit = he.h.m1_en_US_dedes.heHE.PepoikilmeniTiTheiaDoxi.incipit
 alt1.meMA.Ode1C1H.text = he.h.m1_en_US_dedes.heHE.PepoikilmeniTiTheiaDoxi.text
 
 alt1.meMA.Ode1C11.ode = miscellanea_en_US_dedes.misc.Ode1
 alt1.meMA.Ode1C11.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode1C11.greekmelody = he.h.m1_en_US_dedes.heHE.PepoikilmeniTiTheiaDoxi.greekname
 alt1.meMA.Ode1C11.melody = he.h.m1_en_US_dedes.heHE.PepoikilmeniTiTheiaDoxi.name
 alt1.meMA.Ode1C11.incipit = "…"
 alt1.meMA.Ode1C11.text = ""
@@ -772,12 +792,14 @@ alt1.meMA.Ode1C14.text = ""
 
 alt1.meMA.Ode3C1H.ode = miscellanea_en_US_dedes.misc.Ode3
 alt1.meMA.Ode3C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode3C1H.greekmelody = he.h.m1_en_US_dedes.heHE.IDimiourgiki.greekname
 alt1.meMA.Ode3C1H.melody = he.h.m1_en_US_dedes.heHE.IDimiourgiki.melody
 alt1.meMA.Ode3C1H.incipit = he.h.m1_en_US_dedes.heHE.IDimiourgiki.incipit
 alt1.meMA.Ode3C1H.text = he.h.m1_en_US_dedes.heHE.IDimiourgiki.text
 
 alt1.meMA.Ode3C11.ode = miscellanea_en_US_dedes.misc.Ode3
 alt1.meMA.Ode3C11.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode3C11.greekmelody = he.h.m1_en_US_dedes.heHE.IDimiourgiki.greekname
 alt1.meMA.Ode3C11.melody = he.h.m1_en_US_dedes.heHE.IDimiourgiki.name
 alt1.meMA.Ode3C11.incipit = "…"
 alt1.meMA.Ode3C11.text = ""
@@ -806,18 +828,21 @@ alt1.meMA.Hypakoe.incipit = "…"
 alt1.meMA.Hypakoe.text = ""
 
 alt1.meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 alt1.meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
 alt1.meMA.Ode3Kathisma1.incipit = "…"
 alt1.meMA.Ode3Kathisma1.text = ""
 
 alt1.meMA.Ode4C1H.ode = miscellanea_en_US_dedes.misc.Ode4
 alt1.meMA.Ode4C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode4C1H.greekmelody = he.h.m1_en_US_dedes.heHE.RiseisProfitonKaiAinigmata.greekname
 alt1.meMA.Ode4C1H.melody = he.h.m1_en_US_dedes.heHE.RiseisProfitonKaiAinigmata.melody
 alt1.meMA.Ode4C1H.incipit = he.h.m1_en_US_dedes.heHE.RiseisProfitonKaiAinigmata.incipit
 alt1.meMA.Ode4C1H.text = he.h.m1_en_US_dedes.heHE.RiseisProfitonKaiAinigmata.text
 
 alt1.meMA.Ode4C11.ode = miscellanea_en_US_dedes.misc.Ode4
 alt1.meMA.Ode4C11.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode4C11.greekmelody = he.h.m1_en_US_dedes.heHE.RiseisProfitonKaiAinigmata.greekname
 alt1.meMA.Ode4C11.melody = he.h.m1_en_US_dedes.heHE.RiseisProfitonKaiAinigmata.name
 alt1.meMA.Ode4C11.incipit = "…"
 alt1.meMA.Ode4C11.text = ""
@@ -842,12 +867,14 @@ alt1.meMA.Ode4C14.text = ""
 
 alt1.meMA.Ode5C1H.ode = miscellanea_en_US_dedes.misc.Ode5
 alt1.meMA.Ode5C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode5C1H.greekmelody = he.h.m1_en_US_dedes.heHE.ToTheionKaiArriton.greekname
 alt1.meMA.Ode5C1H.melody = he.h.m1_en_US_dedes.heHE.ToTheionKaiArriton.melody
 alt1.meMA.Ode5C1H.incipit = he.h.m1_en_US_dedes.heHE.ToTheionKaiArriton.incipit
 alt1.meMA.Ode5C1H.text = he.h.m1_en_US_dedes.heHE.ToTheionKaiArriton.text
 
 alt1.meMA.Ode5C11.ode = miscellanea_en_US_dedes.misc.Ode5
 alt1.meMA.Ode5C11.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode5C11.greekmelody = he.h.m1_en_US_dedes.heHE.ToTheionKaiArriton.greekname
 alt1.meMA.Ode5C11.melody = he.h.m1_en_US_dedes.heHE.ToTheionKaiArriton.name
 alt1.meMA.Ode5C11.incipit = "…"
 alt1.meMA.Ode5C11.text = ""
@@ -872,12 +899,14 @@ alt1.meMA.Ode5C14.text = ""
 
 alt1.meMA.Ode6C1H.ode = miscellanea_en_US_dedes.misc.Ode6
 alt1.meMA.Ode6C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode6C1H.greekmelody = he.h.m1_en_US_dedes.heHE.AlionPontogenes.greekname
 alt1.meMA.Ode6C1H.melody = he.h.m1_en_US_dedes.heHE.AlionPontogenes.melody
 alt1.meMA.Ode6C1H.incipit = he.h.m1_en_US_dedes.heHE.AlionPontogenes.incipit
 alt1.meMA.Ode6C1H.text = he.h.m1_en_US_dedes.heHE.AlionPontogenes.text
 
 alt1.meMA.Ode6C11.ode = miscellanea_en_US_dedes.misc.Ode6
 alt1.meMA.Ode6C11.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode6C11.greekmelody = he.h.m1_en_US_dedes.heHE.AlionPontogenes.greekname
 alt1.meMA.Ode6C11.melody = he.h.m1_en_US_dedes.heHE.AlionPontogenes.name
 alt1.meMA.Ode6C11.incipit = "…"
 alt1.meMA.Ode6C11.text = ""
@@ -901,6 +930,7 @@ alt1.meMA.Ode6C14.incipit = "…"
 alt1.meMA.Ode6C14.text = ""
 
 alt1.meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode3
+alt1.meMA.Kontakion1.greekmelody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.greekname
 alt1.meMA.Kontakion1.melody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.name
 alt1.meMA.Kontakion1.incipit = "Now the Isle of Kythira…"
 alt1.meMA.Kontakion1.text = "Now the Isle of Kythira * is in possession of your Icon * which was wondrously revealed * within the myrtles, all-holy Virgin. * It is like a splendid crown that has been given * by the Lord, through you, O Lady full of divine grace. * We extol you and salute you, together singing: * Rejoice, the joy of us all."
@@ -909,12 +939,14 @@ alt1.meMA.Oikos1.text = ""
 
 alt1.meMA.Ode7C1H.ode = miscellanea_en_US_dedes.misc.Ode7
 alt1.meMA.Ode7C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode7C1H.greekmelody = he.h.m1_en_US_dedes.heHE.ItamoThymo.greekname
 alt1.meMA.Ode7C1H.melody = he.h.m1_en_US_dedes.heHE.ItamoThymo.melody
 alt1.meMA.Ode7C1H.incipit = he.h.m1_en_US_dedes.heHE.ItamoThymo.incipit
 alt1.meMA.Ode7C1H.text = he.h.m1_en_US_dedes.heHE.ItamoThymo.text
 
 alt1.meMA.Ode7C11.ode = miscellanea_en_US_dedes.misc.Ode7
 alt1.meMA.Ode7C11.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode7C11.greekmelody = he.h.m1_en_US_dedes.heHE.ItamoThymo.greekname
 alt1.meMA.Ode7C11.melody = he.h.m1_en_US_dedes.heHE.ItamoThymo.name
 alt1.meMA.Ode7C11.incipit = "…"
 alt1.meMA.Ode7C11.text = ""
@@ -939,12 +971,14 @@ alt1.meMA.Ode7C14.text = ""
 
 alt1.meMA.Ode8C1H.ode = miscellanea_en_US_dedes.misc.Ode8
 alt1.meMA.Ode8C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode8C1H.greekmelody = he.h.m1_en_US_dedes.heHE.FlogaDrosizousanOsious.greekname
 alt1.meMA.Ode8C1H.melody = he.h.m1_en_US_dedes.heHE.FlogaDrosizousanOsious.melody
 alt1.meMA.Ode8C1H.incipit = he.h.m1_en_US_dedes.heHE.FlogaDrosizousanOsious.incipit
 alt1.meMA.Ode8C1H.text = he.h.m1_en_US_dedes.heHE.FlogaDrosizousanOsious.text
 
 alt1.meMA.Ode8C11.ode = miscellanea_en_US_dedes.misc.Ode8
 alt1.meMA.Ode8C11.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode8C11.greekmelody = he.h.m1_en_US_dedes.heHE.FlogaDrosizousanOsious.greekname
 alt1.meMA.Ode8C11.melody = he.h.m1_en_US_dedes.heHE.FlogaDrosizousanOsious.name
 alt1.meMA.Ode8C11.incipit = "…"
 alt1.meMA.Ode8C11.text = ""
@@ -976,12 +1010,14 @@ alt1.meMA.Ode9C1M0Th.text = ""
 
 alt1.meMA.Ode9C1H.ode = miscellanea_en_US_dedes.misc.Ode9
 alt1.meMA.Ode9C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode9C1H.greekmelody = he.h.m1_en_US_dedes.heHE.NenikintaiTisFyseos.greekname
 alt1.meMA.Ode9C1H.melody = he.h.m1_en_US_dedes.heHE.NenikintaiTisFyseos.melody
 alt1.meMA.Ode9C1H.incipit = he.h.m1_en_US_dedes.heHE.NenikintaiTisFyseos.incipit
 alt1.meMA.Ode9C1H.text = he.h.m1_en_US_dedes.heHE.NenikintaiTisFyseos.text
 
 alt1.meMA.Ode9C11.ode = miscellanea_en_US_dedes.misc.Ode9
 alt1.meMA.Ode9C11.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode9C11.greekmelody = he.h.m1_en_US_dedes.heHE.NenikintaiTisFyseos.greekname
 alt1.meMA.Ode9C11.melody = he.h.m1_en_US_dedes.heHE.NenikintaiTisFyseos.name
 alt1.meMA.Ode9C11.incipit = "…"
 alt1.meMA.Ode9C11.text = ""
@@ -1005,11 +1041,13 @@ alt1.meMA.Ode9C14.incipit = "…"
 alt1.meMA.Ode9C14.text = ""
 
 alt1.meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode3
+alt1.meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_dedes.heAU.ApostoloiEkPeraton.greekname
 alt1.meMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.heAU.ApostoloiEkPeraton.name
 alt1.meMA.Exaposteilarion1.incipit = "O Lady, your light illumines…"
 alt1.meMA.Exaposteilarion1.text = "O Lady, your light illumines * the people of Kythira Island, * who are observing your festive * celebration with longing, * and cry to you with rejoicing: * Rejoice, holy Virgin Mary."
 
 alt1.meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Lauds1.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 alt1.meMA.Lauds1.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
 alt1.meMA.Lauds1.incipit = "With rejoicing, O you who…"
 alt1.meMA.Lauds1.text = "With rejoicing, O you who dwell * on the Island of Kythira, * let us bring the Virgin a wreath of songs today, * as we all cheerfully celebrate * the Icon's discovery, * having now acquired it * as a heavenly treasure, and * let us sing to her: * Save Kytherians honoring you, Lady, by your holy intercession, * O Maiden full of the grace of God."

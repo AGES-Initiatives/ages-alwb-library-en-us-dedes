@@ -431,6 +431,7 @@ alt1.meDA.dismissal = ""
 alt1.meDA.poet = ""
 
 alt1.meSV.Stichera1.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meSV.Stichera1.greekmelody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
 alt1.meSV.Stichera1.melody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
 alt1.meSV.Stichera1.incipit = tr.d036_en_US_dedes.trMA.Lauds1.incipit
 alt1.meSV.Stichera1.text = tr.d036_en_US_dedes.trMA.Lauds1.text
@@ -451,6 +452,7 @@ alt1.meSV.SticGlory.incipit = tr.d036_en_US_dedes.trVE.SticGlory.incipit
 alt1.meSV.SticGlory.text = tr.d036_en_US_dedes.trVE.SticGlory.text
 
 alt1.meSV.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
+alt1.meSV.Aposticha1.greekmelody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.greekname
 alt1.meSV.Aposticha1.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
 alt1.meSV.Aposticha1.incipit = "Hierarch, we know you *…"
 alt1.meSV.Aposticha1.text = "Hierarch, we know you * to be a sacred pillar * of Orthodox religion, * with which we route the ranks of the armies of the heretics."
@@ -471,6 +473,7 @@ alt1.meSV.AposGlory.incipit = "…"
 alt1.meSV.AposGlory.text = ""
 
 alt1.meVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode2
+alt1.meVE.Stichera01.greekmelody = he.a.m2_en_US_dedes.heAU.PoioisEffimionStemmasin.greekname
 alt1.meVE.Stichera01.melody = he.a.m2_en_US_dedes.heAU.PoioisEffimionStemmasin.name
 alt1.meVE.Stichera01.incipit = tr.d036_en_US_dedes.trVE.Stichera01.incipit
 alt1.meVE.Stichera01.text = tr.d036_en_US_dedes.trVE.Stichera01.text
@@ -486,11 +489,13 @@ alt1.meVE.Stichera03.incipit = tr.d036_en_US_dedes.trVE.Stichera03.incipit
 alt1.meVE.Stichera03.text = tr.d036_en_US_dedes.trVE.Stichera03.text
 
 alt1.meVE.Stichera04.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meVE.Stichera04.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 alt1.meVE.Stichera04.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
 alt1.meVE.Stichera04.incipit = "The unquenchable beacon-light * and…"
 alt1.meVE.Stichera04.text = "The unquenchable beacon-light * and the sleeplessly burning torch * that you are, and also a harborage of grace * tranquil and troubled not by the waves, * saving those who sail at sea, * we have gathered to extol * you with canticles worthily. * And we fervently * pray that you, by your prayers, might deliver from intelligible billows * the Church you fought for courageously."
 
 alt1.meVE.Stichera05.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meVE.Stichera05.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 alt1.meVE.Stichera05.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
 alt1.meVE.Stichera05.incipit = "We entreat you who are…"
 alt1.meVE.Stichera05.text = "We entreat you who are the voice * of the Logos, O Gregory, * the breath of the Spirit, the inexhaustible * fiery tongue of theology * that by grace did splendidly * burn to ashes the profane * and the blasphemous substance of * all the heresies. * From the insolence of opposing doctrines, by your prayers, do deliver * those now extolling you piously."
@@ -546,6 +551,7 @@ alt1.meVE.LityBoth.incipit = oc.m6.d3_en_US_dedes.ocVE.AposTheotokion.incipit
 alt1.meVE.LityBoth.text = oc.m6.d3_en_US_dedes.ocVE.AposTheotokion.text
 
 alt1.meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode5
+alt1.meVE.Aposticha1.greekmelody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.greekname
 alt1.meVE.Aposticha1.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
 alt1.meVE.Aposticha1.incipit = "Rejoice, beacon of Orthodox faith…"
 alt1.meVE.Aposticha1.text = "Rejoice, beacon of Orthodox faith, * O Father, radiant sun of the Church of Christ, * the glory of the monastics, * and sacred stillness’ rule, * both of contemplation and the active life * the teacher most excellent, * holy hierarch Gregory, * temple of wisdom, and of knowledge the hallowed shrine, * dwelling place of learning, both sacred and secular. * You are the Spirit’s instrument, * an animate harp of Psalms, * mouth of the Lord, for you brought forth * from the unworthy the worthy one. * To Christ importunely * pray beseeching Him to send down great mercy to our souls."
@@ -571,41 +577,49 @@ alt1.meVE.Apolytikion1.incipit = tr.d036_en_US_dedes.trVE.Apolytikion1.incipit
 alt1.meVE.Apolytikion1.text = tr.d036_en_US_dedes.trVE.Apolytikion1.text
 
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Kathisma11.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma11.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma11.incipit = "With hymns do we extol…"
 alt1.meMA.Kathisma11.text = "With hymns do we extol the divine Christian bishop * who like a cloud of light and a pillar of fire * in Spirit does precede today the new people of Israel, * and who leads them into the intelligible land of peace, * the metropolis of those in Christ who are firstborn. * We praise the great Gregory."
 
 alt1.meMA.Kathisma12.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Kathisma12.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma12.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma12.incipit = "When you had fully bathed…"
 alt1.meMA.Kathisma12.text = "When you had fully bathed in the streams of your teardrops, * you spiritually received the divine Holy Spirit, * and you were a communicant of the grace, O inspired one, * and the theosis transcending nature and reason; * which you preached to all as uncreated and single, * O godly-minded Gregory."
 
 alt1.meMA.Kathisma1T.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Kathisma1T.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma1T.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma1T.incipit = "Intelligible Light’s most illustrious vessel…"
 alt1.meMA.Kathisma1T.text = "Intelligible Light’s most illustrious vessel, * O terminate the darkness of my heart, holy Damsel, * and lighten that most heavy load of my passions, I beg of you, * guiding me unto the ways that lead to repentance, * and accounting me, O all-immaculate Lady, * worthy of the future light."
 
 alt1.meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Kathisma21.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma21.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma21.incipit = "…"
 alt1.meMA.Kathisma21.text = ""
 
 alt1.meMA.Kathisma22.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Kathisma22.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma22.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma22.incipit = "…"
 alt1.meMA.Kathisma22.text = ""
 
 alt1.meMA.Kathisma2T.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Kathisma2T.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma2T.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma2T.incipit = "…"
 alt1.meMA.Kathisma2T.text = ""
 
 alt1.meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Kathisma31.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma31.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma31.incipit = "O wise Father, departing from…"
 alt1.meMA.Kathisma31.text = "O wise Father, departing from things that pass, * royal palaces, relatives and your friends, * O blessed one, you obtained what is permanent and remains. * Your entire household and kin did you offer up * as a whole-burnt offering unto the Lord of all. * Having sanctified them in soul, mind and body, * you led them, O Gregory, through the practice of virtues and * contemplation, to the Lord. * Earnestly with Him intercede * that forgiveness of offences be bestowed * upon those who with longing * observe your holy memory."
 
 alt1.meMA.Kathisma3T.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Kathisma3T.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma3T.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma3T.incipit = "From your flesh did the…"
 alt1.meMA.Kathisma3T.text = "From your flesh did the Master put on the form * of a slave and unite hypostatically, * O Lady, and thereby He deified it, since He is good. * Having filled our nature with Spirit entirely, * by His grace He brought forth the companies of the saints. * Hence you are the cause of the ineffable myst’ries, * and you are the first to be filled with Spirit, and therefore we * cry aloud wholeheartedly: * Author of salvation, rejoice. * O rejoice, redemption of the trespasses * of those who faithfully worship your Son, O immaculate one."
@@ -643,6 +657,7 @@ alt1.meMA.C2.verse = prayers_en_US_dedes.pr.verse_SaintM.text
 
 alt1.meMA.Ode1C11.ode = miscellanea_en_US_dedes.misc.Ode1
 alt1.meMA.Ode1C11.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Ode1C11.greekmelody = he.h.m8_en_US_dedes.heHE.ArmatilatinFarao.greekname
 alt1.meMA.Ode1C11.melody = he.h.m8_en_US_dedes.heHE.ArmatilatinFarao.name
 alt1.meMA.Ode1C11.incipit = "…"
 alt1.meMA.Ode1C11.text = ""
@@ -673,6 +688,7 @@ alt1.meMA.Ode1C1T.text = ""
 
 alt1.meMA.Ode1C21.ode = miscellanea_en_US_dedes.misc.Ode1
 alt1.meMA.Ode1C21.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode1C21.greekmelody = he.h.m1_en_US_dedes.heHE.SouITropaiouchos.greekname
 alt1.meMA.Ode1C21.melody = he.h.m1_en_US_dedes.heHE.SouITropaiouchos.name
 alt1.meMA.Ode1C21.incipit = "Once you had submitted mind…"
 alt1.meMA.Ode1C21.text = "Once you had submitted mind and mouth * unto the Source of divine gifts, O glorious one, * and unto the wisdom of the Holy Spirit, you became a sea of grace. * Of this grant, O Father, * a drop to me now extolling you."
@@ -703,6 +719,7 @@ alt1.meMA.Ode1C2T.text = "Longing as he did to see the Light, * O Theotokos, tha
 
 alt1.meMA.Ode3C11.ode = miscellanea_en_US_dedes.misc.Ode3
 alt1.meMA.Ode3C11.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Ode3C11.greekmelody = he.h.m8_en_US_dedes.heHE.OStereosasKatArchas.greekname
 alt1.meMA.Ode3C11.melody = he.h.m8_en_US_dedes.heHE.OStereosasKatArchas.name
 alt1.meMA.Ode3C11.incipit = "…"
 alt1.meMA.Ode3C11.text = ""
@@ -733,6 +750,7 @@ alt1.meMA.Ode3C1T.text = ""
 
 alt1.meMA.Ode3C21.ode = miscellanea_en_US_dedes.misc.Ode3
 alt1.meMA.Ode3C21.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode3C21.greekmelody = he.h.m1_en_US_dedes.heHE.OMonosEidos.greekname
 alt1.meMA.Ode3C21.melody = he.h.m1_en_US_dedes.heHE.OMonosEidos.name
 alt1.meMA.Ode3C21.incipit = "O wise one, the wisdom…"
 alt1.meMA.Ode3C21.text = "O wise one, the wisdom of the world * did you consider foolishness, and thus you loved the foolishness of the Cross. * Taking it up on your shoulders you displayed, * that this show of foolishness * is indeed superior * to the wisdom of the world, as Paul once said."
@@ -762,6 +780,7 @@ alt1.meMA.Ode3C2T.incipit = "Since you have beheld the…"
 alt1.meMA.Ode3C2T.text = "Since you have beheld the Spirit’s light * for which you longed, O Gregory, under the Theotokos’s patronage, * and are illumined by it now openly, * earnestly entreating her, * pray that she deliver us * from the darkness of passions by the light of grace."
 
 alt1.meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Ode3Kathisma1.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Ode3Kathisma1.incipit = "After cleansing your heart using…"
 alt1.meMA.Ode3Kathisma1.text = "After cleansing your heart using self-control, * and by watchfulness, prayer and virginity, * through poverty and the new * bath of tears, you, O Gregory, * were wholly uplifted and caught up into the heights * and were joined to Christ and became one spirit with Him. * Wherefore after hearing words that cannot be uttered * and like Paul becoming a chosen vessel, you bore the Name * of the Lord and thus proclaimed * clearly that the Godhead is one, uncreated and without complexity. * Never cease interceding with It that your flock be saved."
@@ -773,6 +792,7 @@ alt1.meMA.Ode3KathismaT.text = "Word of God, having brought into being from * no
 
 alt1.meMA.Ode4C11.ode = miscellanea_en_US_dedes.misc.Ode4
 alt1.meMA.Ode4C11.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Ode4C11.greekmelody = he.h.m8_en_US_dedes.heHE.SyMouIschys.greekname
 alt1.meMA.Ode4C11.melody = he.h.m8_en_US_dedes.heHE.SyMouIschys.name
 alt1.meMA.Ode4C11.incipit = "…"
 alt1.meMA.Ode4C11.text = ""
@@ -803,6 +823,7 @@ alt1.meMA.Ode4C1T.text = ""
 
 alt1.meMA.Ode4C21.ode = miscellanea_en_US_dedes.misc.Ode4
 alt1.meMA.Ode4C21.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode4C21.greekmelody = he.h.m1_en_US_dedes.heHE.OrosSeTiChariti.greekname
 alt1.meMA.Ode4C21.melody = he.h.m1_en_US_dedes.heHE.OrosSeTiChariti.notmetered
 alt1.meMA.Ode4C21.incipit = "Having scourged the moonless night…"
 alt1.meMA.Ode4C21.text = "Having scourged the moonless night and darkness of the passions with the staff of prayer, as Moses did to Egypt, you marvelously hastened to divine contemplation, and have become a law-giver for us."
@@ -827,6 +848,7 @@ alt1.meMA.Ode4C2T.text = "With sacred words you hymned her who gave birth to the
 
 alt1.meMA.Ode5C11.ode = miscellanea_en_US_dedes.misc.Ode5
 alt1.meMA.Ode5C11.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Ode5C11.greekmelody = he.h.m8_en_US_dedes.heHE.InaTiMeAposo.greekname
 alt1.meMA.Ode5C11.melody = he.h.m8_en_US_dedes.heHE.InaTiMeAposo.name
 alt1.meMA.Ode5C11.incipit = "…"
 alt1.meMA.Ode5C11.text = ""
@@ -857,6 +879,7 @@ alt1.meMA.Ode5C1T.text = ""
 
 alt1.meMA.Ode5C21.ode = miscellanea_en_US_dedes.misc.Ode5
 alt1.meMA.Ode5C21.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode5C21.greekmelody = he.h.m1_en_US_dedes.heHE.OFotisasTiEllampsei.greekname
 alt1.meMA.Ode5C21.melody = he.h.m1_en_US_dedes.heHE.OFotisasTiEllampsei.notmetered
 alt1.meMA.Ode5C21.incipit = "The great Mind, the ineffable…"
 alt1.meMA.Ode5C21.text = "The great Mind, the ineffable Abyss of wisdom, found your mind to be an abode suited to Him, O God-bearer; and thus He has given you to the Church as a mind and instrument of wisdom."
@@ -881,6 +904,7 @@ alt1.meMA.Ode5C2T.text = "He who illumined the breadth of the earth with the bri
 
 alt1.meMA.Ode6C11.ode = miscellanea_en_US_dedes.misc.Ode6
 alt1.meMA.Ode6C11.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Ode6C11.greekmelody = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.greekname
 alt1.meMA.Ode6C11.melody = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.name
 alt1.meMA.Ode6C11.incipit = "…"
 alt1.meMA.Ode6C11.text = ""
@@ -911,6 +935,7 @@ alt1.meMA.Ode6C1T.text = ""
 
 alt1.meMA.Ode6C21.ode = miscellanea_en_US_dedes.misc.Ode6
 alt1.meMA.Ode6C21.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode6C21.greekmelody = he.h.m1_en_US_dedes.heHE.SplanchnonIonan.greekname
 alt1.meMA.Ode6C21.melody = he.h.m1_en_US_dedes.heHE.SplanchnonIonan.notmetered
 alt1.meMA.Ode6C21.incipit = "Your godly life was truly…"
 alt1.meMA.Ode6C21.text = "Your godly life was truly seen by the faithful as a code of virtue, O Gregory, and your word as a measure of Orthodoxy. And your dogmas, by which is discerned what is genuine and spurious, declare that God is one, omnipotent, single and uncreated."
@@ -934,6 +959,7 @@ alt1.meMA.Ode6C2T.incipit = "O Lady, you were shown…"
 alt1.meMA.Ode6C2T.text = "O Lady, you were shown to be superior to the Thrones, Cherubim, Powers and every celestial Order alike, since you were the ineffable throne of God’s hypostasis. In that He is your Son, render Him merciful toward those who extol you faithfully."
 
 alt1.meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Kontakion1.greekmelody = he.a.m8_en_US_dedes.heAU.TiYpermacho.greekname
 alt1.meMA.Kontakion1.melody = he.a.m8_en_US_dedes.heAU.TiYpermacho.name
 alt1.meMA.Kontakion1.incipit = tr.d036_en_US_dedes.trMA.Kontakion1.incipit
 alt1.meMA.Kontakion1.text = tr.d036_en_US_dedes.trMA.Kontakion1.text
@@ -959,6 +985,7 @@ alt1.meMA.single1.text = "Gregory the chief sacrificer died on the fourteenth."
 
 alt1.meMA.Ode7C11.ode = miscellanea_en_US_dedes.misc.Ode7
 alt1.meMA.Ode7C11.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Ode7C11.greekmelody = he.h.m8_en_US_dedes.heHE.TheouSynkatavasin.greekname
 alt1.meMA.Ode7C11.melody = he.h.m8_en_US_dedes.heHE.TheouSynkatavasin.name
 alt1.meMA.Ode7C11.incipit = "…"
 alt1.meMA.Ode7C11.text = ""
@@ -989,6 +1016,7 @@ alt1.meMA.Ode7C1T.text = ""
 
 alt1.meMA.Ode7C21.ode = miscellanea_en_US_dedes.misc.Ode7
 alt1.meMA.Ode7C21.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode7C21.greekmelody = he.h.m1_en_US_dedes.heHE.SeNoitin.greekname
 alt1.meMA.Ode7C21.melody = he.h.m1_en_US_dedes.heHE.SeNoitin.notmetered
 alt1.meMA.Ode7C21.incipit = "O Father, the captive slaves…"
 alt1.meMA.Ode7C21.text = "O Father, the captive slaves of delusion have not been able to see straight since they were stupefied by your dogmas as though by the sound of thunder, and by the lightning of your divine words. And now these madmen ludicrously grope the walls like a blind man, as it is written."
@@ -1013,6 +1041,7 @@ alt1.meMA.Ode7C2T.text = "Come now to our aid, O Lady our common salvation, acce
 
 alt1.meMA.Ode8C11.ode = miscellanea_en_US_dedes.misc.Ode8
 alt1.meMA.Ode8C11.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Ode8C11.greekmelody = he.h.m8_en_US_dedes.heHE.EptaplasiosKaminon.greekname
 alt1.meMA.Ode8C11.melody = he.h.m8_en_US_dedes.heHE.EptaplasiosKaminon.name
 alt1.meMA.Ode8C11.incipit = "…"
 alt1.meMA.Ode8C11.text = ""
@@ -1043,6 +1072,7 @@ alt1.meMA.Ode8C1T.text = ""
 
 alt1.meMA.Ode8C21.ode = miscellanea_en_US_dedes.misc.Ode8
 alt1.meMA.Ode8C21.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode8C21.greekmelody = he.h.m1_en_US_dedes.heHE.EnKaminoPaides.greekname
 alt1.meMA.Ode8C21.melody = he.h.m1_en_US_dedes.heHE.EnKaminoPaides.notmetered
 alt1.meMA.Ode8C21.incipit = "O Father Gregory, you were…"
 alt1.meMA.Ode8C21.text = "O Father Gregory, you were entirely cheerful, sweet, straightforward and gentle to those who came to you in faith, and from you flowed the sweet divine wine of your words that gladdened the hearts of all the pious, but stung those whose souls’ senses were ill."
@@ -1067,6 +1097,7 @@ alt1.meMA.Ode8C2T.text = "O pure Theotokos, the illustrious messenger of grace a
 
 alt1.meMA.Ode9C11.ode = miscellanea_en_US_dedes.misc.Ode9
 alt1.meMA.Ode9C11.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Ode9C11.greekmelody = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.greekname
 alt1.meMA.Ode9C11.melody = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.name
 alt1.meMA.Ode9C11.incipit = "…"
 alt1.meMA.Ode9C11.text = ""
@@ -1103,6 +1134,7 @@ alt1.meMA.Ode9C1T.text = ""
 
 alt1.meMA.Ode9C21.ode = miscellanea_en_US_dedes.misc.Ode9
 alt1.meMA.Ode9C21.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Ode9C21.greekmelody = he.h.m1_en_US_dedes.heHE.TyponTisAgnis.greekname
 alt1.meMA.Ode9C21.melody = he.h.m1_en_US_dedes.heHE.TyponTisAgnis.name
 alt1.meMA.Ode9C21.incipit = "Standing by the throne, O…"
 alt1.meMA.Ode9C21.text = "Standing by the throne, O Gregory, * of the tri-solar Godhead and unoriginate, * and as in abundance you are filled with the energy * and the grace that you hymned, do commemorate * your friends and fellow workers * who are today commemorating you."
@@ -1132,6 +1164,7 @@ alt1.meMA.Ode9C2T.incipit = "Your inspired servant Gregory *…"
 alt1.meMA.Ode9C2T.text = "Your inspired servant Gregory * became the mouth proclaiming your awesome childbirth, * Lady, and the tongue that has explained the theology * of the deification that wondrously * from you was manifested. * Do now accept his prayers and save us all."
 
 alt1.meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+alt1.meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
 alt1.meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.name
 alt1.meMA.Exaposteilarion1.incipit = tr.d036_en_US_dedes.trMA.Exaposteilarion1.incipit
 alt1.meMA.Exaposteilarion1.text = tr.d036_en_US_dedes.trMA.Exaposteilarion1.text
@@ -1142,6 +1175,7 @@ alt1.meMA.ExapTheotokion.incipit = tr.d036_en_US_dedes.trMA.ExapTheotokion.incip
 alt1.meMA.ExapTheotokion.text = tr.d036_en_US_dedes.trMA.ExapTheotokion.text
 
 alt1.meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Lauds1.greekmelody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.greekname
 alt1.meMA.Lauds1.melody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.name
 alt1.meMA.Lauds1.incipit = "You, O sacred father Gregory…"
 alt1.meMA.Lauds1.text = "You, O sacred father Gregory, * did from your childhood love God, * and impassioned material * attachment did you escape * and the world’s instability. * And when you took up the cross courageously, * you followed after your Master faithfully. * When you had purified * soul and mind by means of grief and many tears, * you became exceedingly * like God entirely."

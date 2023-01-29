@@ -364,6 +364,7 @@ alt1.meHO.note2 = ""
 alt1.meDA.dismissal = ""
 
 alt1.meVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meVE.Stichera01.greekmelody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
 alt1.meVE.Stichera01.melody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
 alt1.meVE.Stichera01.incipit = "Come all who love celebrations…"
 alt1.meVE.Stichera01.text = "Come all who love celebrations * and let us celebrate * today the annual feast day * of the Martyr Markella, * and gloriously sing sacred hymns to her, * who now stands near to Christ the Lord, * as she entreats Him unceasingly for us all * who extol her now with longing and love."
@@ -379,6 +380,7 @@ alt1.meVE.Stichera03.incipit = "Faithfully keeping your sacred *…"
 alt1.meVE.Stichera03.text = "Faithfully keeping your sacred * and splendid memory, * we glorify you, blessed * and all-lauded Markella, * and shout to you with longing: Deliver us * from the flames of perdition's fire * and from the darts of the devil, by your intense * intercessions to our Savior Christ."
 
 alt1.meVE.Stichera04.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meVE.Stichera04.greekmelody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
 alt1.meVE.Stichera04.melody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
 alt1.meVE.Stichera04.incipit = "The host of all Saints…"
 alt1.meVE.Stichera04.text = "The host of all Saints of Chios * now gaily celebrates; * for in their midst they now have * the beatified spirit * of glorious Markella, the virgin girl, * who competed courageously * and by her contest completely trampled upon * the demonic crafty serpent's head."
@@ -399,6 +401,7 @@ alt1.meVE.LityGlory.incipit = "All you fans of feast-days…"
 alt1.meVE.LityGlory.text = "All you fans of feast-days, come to the church of the Martyr Markella; let us congregate today and celebrate a spiritual festival. She sets before us a mystical table, laden with her excellent deeds and contests. Taking our fill of this divine fare, let us glorify the almighty Lord, for He gave her the strength to stand up against the arch-evil devil, and the fortitude to readily accept her breasts and head to be cut off, by her own father. O God, by her intercessions grant us Your great mercy."
 
 alt1.meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meVE.Aposticha1.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 alt1.meVE.Aposticha1.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
 alt1.meVE.Aposticha1.incipit = "With the hosts of the…"
 alt1.meVE.Aposticha1.text = "With the hosts of the martyr saints * you are numbered, O ever-praised * St. Markella, worthy of every accolade. * You were repulsed by the unholy, illicit intentions of * your own father, being chaste. * You preferred to incline your neck * and to have your head * and your members cut off, and you received the crown and medal for your contest, * for you competed according to the rules."
@@ -424,36 +427,43 @@ alt1.meVE.AposTheotokion.incipit = oc.m2.d3_en_US_dedes.ocMA.AposTheotokion.inci
 alt1.meVE.AposTheotokion.text = oc.m2.d3_en_US_dedes.ocMA.AposTheotokion.text
 
 alt1.meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meVE.Apolytikion1.greekmelody = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.greekname
 alt1.meVE.Apolytikion1.melody = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.name
 alt1.meVE.Apolytikion1.incipit = "Submitting to the laws of…"
 alt1.meVE.Apolytikion1.text = "Submitting to the laws of the Lord's divine teachings, * you strove to keep them blamelessly, O Martyr Markella. * And fearing the violence of your father, * you fled from him and dwelt in the mountains. * Pursuing you he found you and slew you, * O undefiled bride of Christ. * Glory to Him who strengthened you. * Glory to Him who crowned you. * Glory to Him who works healings for all through you."
 
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Kathisma11.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma11.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma11.incipit = "You drowned the vicious fiend…"
 alt1.meMA.Kathisma11.text = "You drowned the vicious fiend in the drops of distinguished * and all-pure blood that spilled from your small butchered body, * O wise and victorious, Saint Markella the martyrs’ peer. * Hence have you received from God a bright crown of glory. * Therefore intercede with the Creator, O Martyr, * entreating on our behalf."
 
 alt1.meMA.Kathisma1T.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Kathisma1T.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma1T.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma1T.incipit = "Unwedded Maid and pure Theotokos…"
 alt1.meMA.Kathisma1T.text = "Unwedded Maid and pure Theotokos and Virgin, * you are the lone defense of the faithful and shelter. * Do therefore deliver us who have set our hopes on you * from all jeopardy, and tribulations and dreadful * circumstances. And by your divine intercessions, * save our souls, we pray."
 
 alt1.meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Kathisma21.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma21.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma21.incipit = "When I ponder Markella’s battles…"
 alt1.meMA.Kathisma21.text = "When I ponder Markella’s battles and bouts, * then my mind stops in utter astonishment * at how being female, yet * by the grace of the Lord Christ * the Creator of nature, she prevailed and bravely behaved * like a man and defeated Satan's wanton audacity. * Therefore let us all extol her triumph together * and faithfully shout to her: * Maiden Martyr victorious * who are lauded in all the world, * intercede with Christ our God * that remission of offenses be bestowed * upon those who with longing * keep your holy memory."
 
 alt1.meMA.Kathisma2T.mode = miscellanea_en_US_dedes.misc.Mode8
+alt1.meMA.Kathisma2T.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma2T.melody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma2T.incipit = me.m02.d17_en_US_dedes.meMA.Ode3KathismaT.incipit
 alt1.meMA.Kathisma2T.text = me.m02.d17_en_US_dedes.meMA.Ode3KathismaT.text
 
 alt1.meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Kathisma31.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma31.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma31.incipit = "Let us keep the august…"
 alt1.meMA.Kathisma31.text = "Let us keep the august memory of Markella, * for she blunted the fiend’s cutting organs of torture. * And she has received from God a crown for her martyrdom. * Hence she stands before Him with the angels in glory * unremittingly entreating for the salvation * of those who with longing honor her."
 
 alt1.meMA.Kathisma3T.mode = miscellanea_en_US_dedes.misc.Mode1
+alt1.meMA.Kathisma3T.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma3T.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma3T.incipit = "O Pure one, shine your…"
 alt1.meMA.Kathisma3T.text = "O Pure one, shine your light on my soul which is darkened, * and also put an end to my hardness, O good one. * And teach me to do the will of your Son, so that I might find * absolution for my many sins, all-pure Maiden, * and that I be spared from the unquenchable fire * by your intercessory prayers."
@@ -481,6 +491,7 @@ alt1.meMA.C1.verse = prayers_en_US_dedes.pr.verse_SaintW.text
 
 alt1.meMA.Ode1C11.ode = miscellanea_en_US_dedes.misc.Ode1
 alt1.meMA.Ode1C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode1C11.greekmelody = he.h.m4_en_US_dedes.heHE.AnoixoToStomaMou.greekname
 alt1.meMA.Ode1C11.melody = he.h.m4_en_US_dedes.heHE.AnoixoToStomaMou.name
 alt1.meMA.Ode1C11.incipit = "Because you rejected your father’s…"
 alt1.meMA.Ode1C11.text = "Because you rejected your father’s incestuous and impure * intentions, O honored maid, you died a heinous death. * Therefore you received * the laurels as a victor * from Him who most wisely has established nature’s rules."
@@ -505,6 +516,7 @@ alt1.meMA.Ode1C1T.text = "Our God who is most humane, came in the likeness of fl
 
 alt1.meMA.Ode3C11.ode = miscellanea_en_US_dedes.misc.Ode3
 alt1.meMA.Ode3C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode3C11.greekmelody = he.h.m4_en_US_dedes.heHE.TousSousYmnologous.greekname
 alt1.meMA.Ode3C11.melody = he.h.m4_en_US_dedes.heHE.TousSousYmnologous.name
 alt1.meMA.Ode3C11.incipit = "Intending deceitfully to plunder *…"
 alt1.meMA.Ode3C11.text = "Intending deceitfully to plunder * the wealth of your soul, O noble maid, * Satan aroused your father to * deflower your virginity, * O Saint Markella glorious, * but he was thwarted and toppled down."
@@ -528,6 +540,7 @@ alt1.meMA.Ode3C1T.incipit = "A very white cloud are…"
 alt1.meMA.Ode3C1T.text = "A very white cloud are you, O lady, * that rains down upon the faithful drops * from heaven and upholds the Sun * of Righteousness who showed your rank * and standing to be over all, * O Virgin Maid, and superior."
 
 alt1.meMA.Ode3Kathisma1.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
 alt1.meMA.Ode3Kathisma1.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 alt1.meMA.Ode3Kathisma1.incipit = "By Christ’s divine grace you…"
 alt1.meMA.Ode3Kathisma1.text = "By Christ’s divine grace you were guided, and therefore * you did not sink beneath the billows of torture.* But at an anchorage which is unsplashed by the waves, * O Markella, you arrived as a virgin and Martyr. * There you found untroubled calm, as one truly most happy. * And thus with Christ you intercede for us * who are with longing observing your memory."
@@ -539,6 +552,7 @@ alt1.meMA.Ode3KathismaT.text = me.m04.d22_en_US_dedes.meMA.Ode3KathismaT.text
 
 alt1.meMA.Ode4C11.ode = miscellanea_en_US_dedes.misc.Ode4
 alt1.meMA.Ode4C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode4C11.greekmelody = he.h.m4_en_US_dedes.heHE.TinAnexichniaston.greekname
 alt1.meMA.Ode4C11.melody = he.h.m4_en_US_dedes.heHE.TinAnexichniaston.name
 alt1.meMA.Ode4C11.incipit = "O Markella, though in the…"
 alt1.meMA.Ode4C11.text = "O Markella, though in the flower of youth, * yet you ran the course of your martyrdom. * Therefore you now stand in the audience of God, * the love for whom consumed your soul * and your heart, O dignified gracious maid."
@@ -563,6 +577,7 @@ alt1.meMA.Ode4C1T.text = "O exceeding wonderful Mother of God, * cause a ray of 
 
 alt1.meMA.Ode5C11.ode = miscellanea_en_US_dedes.misc.Ode5
 alt1.meMA.Ode5C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode5C11.greekmelody = he.h.m4_en_US_dedes.heHE.ExestiTaSympanta.greekname
 alt1.meMA.Ode5C11.melody = he.h.m4_en_US_dedes.heHE.ExestiTaSympanta.name
 alt1.meMA.Ode5C11.incipit = "We know you to be…"
 alt1.meMA.Ode5C11.text = "We know you to be a fount that saves those who are parched by thirst, * O all-blessed happy Saint Markella. * Therefore with longing I stand before your tomb, * and like streams of sweetness I receive * healing for the sufferings of my body and of my soul."
@@ -587,6 +602,7 @@ alt1.meMA.Ode5C1T.text = "O Pure one, of old a God-inspired Prophet saw you as *
 
 alt1.meMA.Ode6C11.ode = miscellanea_en_US_dedes.misc.Ode6
 alt1.meMA.Ode6C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode6C11.greekmelody = he.h.m4_en_US_dedes.heHE.TinTheianTaftin.greekname
 alt1.meMA.Ode6C11.melody = he.h.m4_en_US_dedes.heHE.TinTheianTaftin.name
 alt1.meMA.Ode6C11.incipit = "Defeated is all the power…"
 alt1.meMA.Ode6C11.text = "Defeated is all the power of * the demons and the enemies by your might. * Therefore we pray to you: * O Saint Markella the glorious, * save your entire Island from ruin by your prayers."
@@ -610,6 +626,7 @@ alt1.meMA.Ode6C1T.incipit = "O only help of the…"
 alt1.meMA.Ode6C1T.text = "O only help of the human race, * help us who are in danger, all-holy Maiden, and extend a hand * and lead us into the harbor of * salvation, O pure Damsel, full of the grace of God."
 
 alt1.meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode3
+alt1.meMA.Kontakion1.greekmelody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.greekname
 alt1.meMA.Kontakion1.melody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.name
 alt1.meMA.Kontakion1.incipit = "Your most splendid martyrdom, *…"
 alt1.meMA.Kontakion1.text = "Your most splendid martyrdom, * excellent martyr Markella, * has divinely cheered the minds * of the believers with bright joy, * and persuades all to prefer to die over living * lawlessly. For your own head and your breasts were severed * at the hand of your own father—Oh what a drama! — * to keep the law of Christ."
@@ -618,6 +635,7 @@ alt1.meMA.Oikos1.text = "Come, all you who are fond of hearing stories, and list
 
 alt1.meMA.Ode7C11.ode = miscellanea_en_US_dedes.misc.Ode7
 alt1.meMA.Ode7C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode7C11.greekmelody = he.h.m4_en_US_dedes.heHE.OukElatrefsan.greekname
 alt1.meMA.Ode7C11.melody = he.h.m4_en_US_dedes.heHE.OukElatrefsan.name
 alt1.meMA.Ode7C11.incipit = "We all lovingly * pay…"
 alt1.meMA.Ode7C11.text = "We all lovingly * pay honor to your memory, * O wholly graceful Saint * Markella, for you withstood * your father who mindlessly wanted illicit sex. * Hence we joyfully * together chant: O Lord and God * of the fathers Your are blessed."
@@ -642,6 +660,7 @@ alt1.meMA.Ode7C1T.text = "Virgin Queen of all * the universe and Mother of * our
 
 alt1.meMA.Ode8C11.ode = miscellanea_en_US_dedes.misc.Ode8
 alt1.meMA.Ode8C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode8C11.greekmelody = he.h.m4_en_US_dedes.heHE.PaidasEvageis.greekname
 alt1.meMA.Ode8C11.melody = he.h.m4_en_US_dedes.heHE.PaidasEvageis.name
 alt1.meMA.Ode8C11.incipit = "Wounded by the longing and…"
 alt1.meMA.Ode8C11.text = "Wounded by the longing and intense love, * O Martyr Markella, for your Master as you were, * O all-lauded maid, you said * unto him who fathered you: * “I shall not ever violate the Lord’s commandment, no. * For I belong to Him as a servant, * praising Him together with all the hosts of angels.”"
@@ -666,6 +685,7 @@ alt1.meMA.Ode8C1T.text = "Shaken by the many provocations * of sins, we for refu
 
 alt1.meMA.Ode9C11.ode = miscellanea_en_US_dedes.misc.Ode9
 alt1.meMA.Ode9C11.mode = miscellanea_en_US_dedes.misc.Mode4
+alt1.meMA.Ode9C11.greekmelody = he.h.m4_en_US_dedes.heHE.ApasGigenis.greekname
 alt1.meMA.Ode9C11.melody = he.h.m4_en_US_dedes.heHE.ApasGigenis.name
 alt1.meMA.Ode9C11.incipit = "Seeking as you did *…"
 alt1.meMA.Ode9C11.text = "Seeking as you did * the heavenly greenery of life, all-lauded one, * you regarded transient life * as being nothing, and thus, all-gracious one, * contended for the prize assisted by the might strength * of your Maker, whom you now see face to face, * O Markella fair handmaiden of the Lord."
@@ -689,11 +709,13 @@ alt1.meMA.Ode9C1T.incipit = "Enlighten the eyes * of…"
 alt1.meMA.Ode9C1T.text = "Enlighten the eyes * of my soul, O purest Maid, and stop the surging waves * that are now assaulting me * as a result of demonic wickedness. * And guide aright the gloomy darkness of my intellect * in the ways of Christ your Son and in His will, * that with faith I may ever pronounce you blest."
 
 alt1.meMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+alt1.meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 alt1.meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 alt1.meMA.Exaposteilarion1.incipit = "The island Chios thoroughly *…"
 alt1.meMA.Exaposteilarion1.text = "The island Chios thoroughly * delights in the martyric bouts * of the all-lauded Markella * the maiden martyr whom Christ crowns, * together with the trinity * of saints who shone forth formerly, * the holy Martyr Isidore, * Myropi the victor, * and venerable Matrona."
 
 alt1.meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode2
+alt1.meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.greekname
 alt1.meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 alt1.meMA.Exaposteilarion2.incipit = "The Spirit gave you strength…"
 alt1.meMA.Exaposteilarion2.text = "The Spirit gave you strength and might. * And thus you quickly ran away * from your father’s mad passion, * O servant of God Markella, * into the waters of the sea, * and were decapitated there. * Therefore did you rise quickly * into the heavenly chambers, * on our behalf importuning."
@@ -704,6 +726,7 @@ alt1.meMA.ExapTheotokion.incipit = me.m06.d11_en_US_dedes.meMA.ExapTheotokion.in
 alt1.meMA.ExapTheotokion.text = me.m06.d11_en_US_dedes.meMA.ExapTheotokion.text
 
 alt1.meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode2
+alt1.meMA.Lauds1.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 alt1.meMA.Lauds1.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 alt1.meMA.Lauds1.incipit = "With a sword your father…"
 alt1.meMA.Lauds1.text = "With a sword your father and your sire * cut your throat, O dignified maiden, and hence you quickly rose * unto the Metropolis of the first born with joy. * Now and henceforth do you behold * the Trinity’s beauties. * Therefore we beseech you to implore God fervently, * O Markella martyr and virgin, * that from horrifying eternal * condemnation He redeem your suppliants."
