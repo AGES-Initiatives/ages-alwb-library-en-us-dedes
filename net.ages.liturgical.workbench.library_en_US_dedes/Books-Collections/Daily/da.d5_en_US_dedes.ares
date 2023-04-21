@@ -3,7 +3,7 @@ A_Resource_Whose_Name = da.d5_en_US_dedes
 daDay.text = "Thursday."
 daCommemoration.text = "The Holy Apostles."
 
-daVE.OnTheEveningBefore = template.titles_en_US_dedes.d.onWednesdayEvening
+daVE.OnTheEveningBefore.text = template.titles_en_US_dedes.d.onWednesdayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode3
 daVE.Apolytikion1.melody = ""
@@ -55,7 +55,7 @@ daMA.ExapTheotokion2.melody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.name
 daMA.ExapTheotokion2.incipit = "You are the hope of…"
 daMA.ExapTheotokion2.text = "You are the hope of the hopeless, * O all-lauded Theotokos. * I tearfully cry to you now * from the bottom of my heart: * Save me, O Virgin, and snatch me * from the dark caverns of Hades."
 
-daLI.CommunionHymn.text = properties_en_US_dedes.media.key
+daLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
-daLI.CommunionHymnAlt.text = ""
+daLI.MM.CommunionHymnAlt.text = ""
 

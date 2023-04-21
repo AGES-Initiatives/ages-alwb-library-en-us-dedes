@@ -3,8 +3,8 @@ A_Resource_Whose_Name = da.d7_en_US_dedes
 daDay.text = "Saturday."
 daCommemoration.text = "The Deceased."
 
-daVE.OnTheAfternoonBefore = template.titles_en_US_dedes.d.onFridayAfternoon
-daVE.OnTheEveningBefore = template.titles_en_US_dedes.d.onFridayEvening
+daVE.OnTheAfternoonBefore.text = template.titles_en_US_dedes.d.onFridayAfternoon
+daVE.OnTheEveningBefore.text = template.titles_en_US_dedes.d.onFridayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode2
 daVE.Apolytikion1.melody = ""
@@ -51,6 +51,6 @@ daMA.ExapTheotokion2.melody = he.a.m2_en_US_dedes.heAU.TonMathitonOrontonSe.name
 daMA.ExapTheotokion2.incipit = "We boast in you, immaculate…"
 daMA.ExapTheotokion2.text = "We boast in you, immaculate Theotokos. * We have you as an advocate with the Godhead. * Stretch forth your hand, which is unassailable, * and crush our every enemy. * And send help to us your servants * from God's holy place, O Lady."
 
-daLI.CommunionHymn.text = properties_en_US_dedes.media.key
+daLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
-daLI.CommunionHymnAlt.text = ""
+daLI.MM.CommunionHymnAlt.text = ""

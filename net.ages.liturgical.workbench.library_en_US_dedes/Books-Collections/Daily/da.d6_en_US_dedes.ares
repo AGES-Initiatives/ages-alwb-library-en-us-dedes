@@ -3,8 +3,8 @@ A_Resource_Whose_Name = da.d6_en_US_dedes
 daDay.text = "Friday."
 daCommemoration.text = "The Cross."
 
-daVE.OnTheMorningBefore = template.titles_en_US_dedes.d.onThursdayMorning
-daVE.OnTheEveningBefore = template.titles_en_US_dedes.d.onThursdayEvening
+daVE.OnTheMorningBefore.text = template.titles_en_US_dedes.d.onThursdayMorning
+daVE.OnTheEveningBefore.text = template.titles_en_US_dedes.d.onThursdayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode1
 daVE.Apolytikion1.melody = ""
@@ -46,7 +46,7 @@ daMA.ExapTheotokion2.melody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.notme
 daMA.ExapTheotokion2.incipit = "…"
 daMA.ExapTheotokion2.text = ""
 
-daLI.CommunionHymn.text = properties_en_US_dedes.media.key
+daLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
-daLI.CommunionHymnAlt.text = ""
+daLI.MM.CommunionHymnAlt.text = ""
 

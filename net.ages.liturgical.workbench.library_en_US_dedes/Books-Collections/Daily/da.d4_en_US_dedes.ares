@@ -3,7 +3,7 @@ A_Resource_Whose_Name = da.d4_en_US_dedes
 daDay.text = "Wednesday."
 daCommemoration.text = "The Theotokos."
 
-daVE.OnTheEveningBefore = template.titles_en_US_dedes.d.onTuesdayEvening
+daVE.OnTheEveningBefore.text = template.titles_en_US_dedes.d.onTuesdayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode1
 daVE.Apolytikion1.melody = ""
@@ -51,4 +51,4 @@ daMA.ExapTheotokion2.melody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.name
 daMA.ExapTheotokion2.incipit = "We honor with heart undoubting…"
 daMA.ExapTheotokion2.text = "We honor with heart undoubting * and venerate with devotion * your Son's holy Cross and Passion, * O all-holy Theotokos. * Make us citizens of Eden, * and grant us glory, we pray you."
 
-daLI.CommunionHymn.text = properties_en_US_dedes.media.key
+daLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key

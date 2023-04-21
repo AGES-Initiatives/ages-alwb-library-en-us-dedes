@@ -3,7 +3,7 @@ A_Resource_Whose_Name = da.d3_en_US_dedes
 daDay.text = "Tuesday."
 daCommemoration.text = "The Forerunner."
 
-daVE.OnTheEveningBefore = template.titles_en_US_dedes.d.onMondayEvening
+daVE.OnTheEveningBefore.text = template.titles_en_US_dedes.d.onMondayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode2
 daVE.Apolytikion1.melody = ""
@@ -39,4 +39,4 @@ daMA.ExapTheotokion1.melody = he.a.m3_en_US_dedes.heAU.OOuranonToisAstrois.name
 daMA.ExapTheotokion1.incipit = "I have you as mediatrix…"
 daMA.ExapTheotokion1.text = "I have you as mediatrix * before the God who loves mankind. * May He not censure my actions * in the sight of the Angels. * I entreat you, O Virgin, * come quickly to my assistance."
 
-daLI.CommunionHymn.text = properties_en_US_dedes.media.key
+daLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key

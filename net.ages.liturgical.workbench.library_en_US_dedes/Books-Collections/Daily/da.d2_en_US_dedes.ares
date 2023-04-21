@@ -3,7 +3,7 @@ A_Resource_Whose_Name = da.d2_en_US_dedes
 daDay.text = "Monday."
 daCommemoration.text = "The Bodiless Powers."
 
-daVE.OnTheEveningBefore = template.titles_en_US_dedes.d.onSundayEvening
+daVE.OnTheEveningBefore.text = template.titles_en_US_dedes.d.onSundayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
 daVE.Apolytikion1.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
@@ -40,4 +40,4 @@ daMA.ExapTheotokion1.melody = he.a.m2_en_US_dedes.heAU.GynaikesAkoutisthite.name
 daMA.ExapTheotokion1.incipit = "O strong defender of the…"
 daMA.ExapTheotokion1.text = "O strong defender of the world * and mighty fortress, and my own * protectress, O Theotokos, * I come to you and cry out: * Relieve me from distress and pain, * and snatch me from eternal fire, * O all-immaculate Virgin, * for I implicitly trust you."
 
-daLI.CommunionHymn.text = properties_en_US_dedes.media.key
+daLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
