@@ -359,7 +359,8 @@ ocMA.Kathisma21.incipit = "Human beings sealed Your tomb…"
 ocMA.Kathisma21.text = "Human beings sealed Your tomb, O Savior; an Angel rolled the stone away from the door. The women saw You were resurrected from the dead, and they announced the good tidings to the Disciples in Zion: that You the life of all resurrected, and that the bonds of death have been loosed. Glory to You, O Lord."
 
 ocMA.Kathisma22.mode = miscellanea_en_US_dedes.misc.Mode8
-ocMA.Kathisma22.melody = ""
+ocMA.Kathisma22.greekmelody = he.a.m8_en_US_dedes.heAU.AnestisEkNekron.greekname
+ocMA.Kathisma22.melody = he.a.m8_en_US_dedes.heAU.AnestisEkNekron.melody
 ocMA.Kathisma22.incipit = "The women who were bringing…"
 ocMA.Kathisma22.text = "The women who were bringing the burial spices heard the voice of an Angel coming from the sepulcher: \"Cease from your tears, and instead of sorrow bring joy. Sing praises; cry aloud that Christ the Lord has risen. He is the One who as God was well pleased to save the human race.\""
 
@@ -973,11 +974,12 @@ ocMA.Lauds2.incipit = "Lord, even if the Judeans…"
 ocMA.Lauds2.text = "Lord, even if the Judeans had You buried as a lifeless body in a grave, yet a guard of soldiers was watching over You as though a sleeping king; and with a seal they secured the tomb as a treasure-house of life. But You arose and unto our souls granted incorruptibility."
 
 ocMA.Lauds3.mode = miscellanea_en_US_dedes.misc.Mode8
-ocMA.Lauds3.melody = ""
+ocMA.Lauds3.melody = he.a.m8_en_US_dedes.heAU.KyrieEiKaiKritirio.name
 ocMA.Lauds3.incipit = "Lord, as a weapon…"
 ocMA.Lauds3.text = "Lord, as a weapon against the Adversary You have given us Your holy Cross. Gripped with fear he trembles unable to endure to look upon its might, because it raises the dead, and death itself it neutralized. For this reason we adore Your three-day burial and rising again."
 
 ocMA.Lauds4.mode = miscellanea_en_US_dedes.misc.Mode8
+ocMA.Lauds4.greekmelody = he.a.m8_en_US_dedes.heAU.OAngelosSouKyrie.greekname
 ocMA.Lauds4.melody = he.a.m8_en_US_dedes.heAU.OAngelosSouKyrie.melody
 ocMA.Lauds4.incipit = he.a.m8_en_US_dedes.heAU.OAngelosSouKyrie.incipit
 ocMA.Lauds4.text = he.a.m8_en_US_dedes.heAU.OAngelosSouKyrie.text
