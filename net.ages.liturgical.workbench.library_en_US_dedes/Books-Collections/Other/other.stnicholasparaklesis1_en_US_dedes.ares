@@ -73,8 +73,8 @@ hoCA.Troparion31.text = "Look graciously * on us, all-blessed St. Nicholas, we b
 
 hoCA.Troparion32.mode = miscellanea_en_US_dedes.misc.Mode8
 hoCA.Troparion32.melody = ""
-hoCA.Troparion32.incipit = ho.s23_en_US_dedes.hoCA.Troparion32.incipit
-hoCA.Troparion32.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
+hoCA.Troparion32.incipit = ho.ho23_en_US_dedes.hoCA.Troparion32.incipit
+hoCA.Troparion32.text = ho.ho23_en_US_dedes.hoCA.Troparion32.text
 
 hoCA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.Kathisma11.melody = he.a.m2_en_US_dedes.heAU.ToisTonAimatonSou.name
@@ -160,8 +160,8 @@ hoCA.Troparion61.text = hoCA.Troparion31.text
 
 hoCA.Troparion62.mode = miscellanea_en_US_dedes.misc.Mode8
 hoCA.Troparion62.melody = ""
-hoCA.Troparion62.incipit = ho.s23_en_US_dedes.hoCA.Troparion62.incipit
-hoCA.Troparion62.text = ho.s23_en_US_dedes.hoCA.Troparion62.text
+hoCA.Troparion62.incipit = ho.ho23_en_US_dedes.hoCA.Troparion62.incipit
+hoCA.Troparion62.text = ho.ho23_en_US_dedes.hoCA.Troparion62.text
 
 hoCA.Kontakion.mode = miscellanea_en_US_dedes.misc.Mode3
 hoCA.Kontakion.melody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.name
@@ -170,13 +170,13 @@ hoCA.Kontakion.text = me.m12.d06_en_US_dedes.meMA.Kontakion1.text
 
 hoCA.PostGospelGlory.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.PostGospelGlory.melody = ""
-hoCA.PostGospelGlory.incipit = ho.s03_en_US_dedes.hoMA.PostGospelHierarch.incipit
-hoCA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelHierarch.text
+hoCA.PostGospelGlory.incipit = ho.ho03_en_US_dedes.hoMA.PostGospelHierarch.incipit
+hoCA.PostGospelGlory.text = ho.ho03_en_US_dedes.hoMA.PostGospelHierarch.text
 
 hoCA.PostGospelBoth.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.PostGospelBoth.melody = ""
-hoCA.PostGospelBoth.incipit = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.incipit
-hoCA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+hoCA.PostGospelBoth.incipit = ho.ho03_en_US_dedes.hoMA.PostGospelTheotokos.incipit
+hoCA.PostGospelBoth.text = ho.ho03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 hoCA.PostGospelHymn1.mode = miscellanea_en_US_dedes.misc.Mode6
 hoCA.PostGospelHymn1.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
@@ -255,8 +255,8 @@ hoCA.Ode9T.melody = he.h.m8_en_US_dedes.heHE.KyriosTheotokon.name
 hoCA.Ode9T.incipit = "My soul is sick and…"
 hoCA.Ode9T.text = "My soul is sick and hurting, * suffering from sinning. * O Lady, bless me that I may experience * eternal blessings in heaven, * O Mary Mother of God."
 
-hoCA.Meg00.incipit = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.incipit
-hoCA.Meg00.text = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.text
+hoCA.Meg00.incipit = ho.ho03_en_US_dedes.hoMA.Ode9.Meg00.incipit
+hoCA.Meg00.text = ho.ho03_en_US_dedes.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.melody
 hoCA.Meg01.incipit = he.h.m6_en_US_dedes.heHE.TinTimioteran.incipit
 hoCA.Meg01.text = he.h.m6_en_US_dedes.heHE.TinTimioteran.text
@@ -273,8 +273,8 @@ hoCA.Meg05.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.name
 hoCA.Meg05.incipit = "We are proud to call…"
 hoCA.Meg05.text = "We are proud to call you our Patron Saint, * for you rescue captives and you save travelers at sea, * you support the poor, you defend widows and orphans, * and also feed the hungry, all-blessed Nicholas."
 hoCA.Meg0F.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.name
-hoCA.Meg0F.incipit = ho.s23_en_US_dedes.hoCA.Meg0F.incipit
-hoCA.Meg0F.text = ho.s23_en_US_dedes.hoCA.Meg0F.text
+hoCA.Meg0F.incipit = ho.ho23_en_US_dedes.hoCA.Meg0F.incipit
+hoCA.Meg0F.text = ho.ho23_en_US_dedes.hoCA.Meg0F.text
 
 hoCA.Troparion1.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.Troparion1.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
@@ -283,10 +283,10 @@ hoCA.Troparion1.text = oc.m2.d5_en_US_dedes.ocVE.Stichera6.text
 
 hoCA.Troparion2.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.Troparion2.melody = ""
-hoCA.Troparion2.incipit = ho.s23_en_US_dedes.hoCA.Troparion6.incipit
-hoCA.Troparion2.text = ho.s23_en_US_dedes.hoCA.Troparion6.text
+hoCA.Troparion2.incipit = ho.ho23_en_US_dedes.hoCA.Troparion6.incipit
+hoCA.Troparion2.text = ho.ho23_en_US_dedes.hoCA.Troparion6.text
 
 hoCA.Troparion3.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.Troparion3.melody = ""
-hoCA.Troparion3.incipit = ho.s23_en_US_dedes.hoCA.Troparion7.incipit
-hoCA.Troparion3.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
+hoCA.Troparion3.incipit = ho.ho23_en_US_dedes.hoCA.Troparion7.incipit
+hoCA.Troparion3.text = ho.ho23_en_US_dedes.hoCA.Troparion7.text

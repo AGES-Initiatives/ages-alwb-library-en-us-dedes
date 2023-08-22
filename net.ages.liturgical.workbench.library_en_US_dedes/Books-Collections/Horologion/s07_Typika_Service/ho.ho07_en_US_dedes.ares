@@ -1,0 +1,91 @@
+A_Resource_Whose_Name = ho.ho07_en_US_dedes
+
+hoTY.title = "The Service of the Typika"
+
+R01 = ""
+
+hoLI.MM.Psalm102.text = properties_en_US_dedes.media.key
+hoLI.MM.Psalm145.text = properties_en_US_dedes.media.key
+hoLI.OnlyBegotten.title = "Only-begotten."
+hoLI.OnlyBegotten.incipit = "Only-begotten Son…"
+hoLI.OnlyBegotten.text = "Only-begotten Son and Word of God, who are immortal, and for our salvation condescended to become incarnate of the holy Theotokos and ever-virgin Mary, and, without change became man, and were crucified, O Christ our God, and trampled on death by death, being one of the Holy Trinity, glorified together with the Father and the Holy Spirit: save us."
+
+hoTY.Key0200.text = "" //for media for beatitudes
+hoTY.Key0212.text = "Remember us, O Lord, when You come in Your kingdom."
+hoTY.Key0213.text = "Remember us, O Master, when You come in Your kingdom."
+hoTY.Key0214.text = "Remember us, O Holy One, when You come in Your kingdom."
+hoTY.Key0215.text = "The heavenly choir extols you and says: Holy, Holy, Holy, Lord Sabaoth; heaven and earth are full of Your glory."
+hoTY.Key0216.text = "The choir of holy Angels and Archangels, with all the heavenly Powers, extols you and says: Holy, Holy, Holy, Lord Sabaoth; heaven and earth are full of Your glory."
+hoTY.Key0217.text = "Pardon, remit, forgive, O God, our offenses, both voluntary and involuntary, in deed and word, in knowledge and ignorance, by night and by day, in mind and thought; forgive us all things, since You are good and love mankind."
+
+//0300-0313
+//0400-0408
+
+hoTY.Key0408.mode = miscellanea_en_US_dedes.misc.Mode2
+hoTY.Key0408.incipit = "O Protection of Christians…"
+hoTY.Key0408.text = "O Protection of Christians that never falls, intercession with the Creator that never fails, we sinners beg you, do not ignore the voices of our prayers. O good Lady, we implore you, quickly come unto our aid, when we cry out to you with faith. Hurry to intercession, and hasten to supplication, O Theotokos who protect now and ever those who honor you."
+
+hoTY.Key0501.incipit = "All-Holy Trinity, the consubstantial dominion…"
+hoTY.Key0501.text = "All-Holy Trinity, the consubstantial dominion, the indivisible rule, and cause of every good: be well pleased, even with regard to me a sinner. Strengthen my heart and grant it understanding, and take away all my defilement. Illumine my mind, so that I may ever glorify, praise, worship, and say: One is Holy, One is Lord, Jesus Christ, to the Glory of God the Father."
+
+// Liturgy Antiphons
+hoLI.Antiphon1.text = ""
+
+hoLI.Antiphon21.text = "Save us, O Son of God,"
+hoLI.Antiphon2s.incipit = "risen from the dead…"
+hoLI.Antiphon2s.text = "risen from the dead."
+hoLI.Antiphon2w.incipit = "Who are wondrous in Your saints…"
+hoLI.Antiphon2w.text = "Who are wondrous in Your saints."
+hoLI.Antiphon22.text = "We sing to You, Alleluia."
+
+hoLI.EntranceHymn.incipit = "Come let us worship…"
+hoLI.EntranceHymn.text = "Come let us worship and bow down before Christ." //in the template add parts of Antiphon 2
+hoLI.EntranceHymn2s.incipit = hoLI.Antiphon2s.incipit
+hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
+hoLI.EntranceHymn2w.incipit = hoLI.Antiphon2w.incipit
+hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
+
+hoLI.TrisagiosHymn.title = "TRISAGIOS HYMN"
+hoLI.TrisagiosHymn.incipit = "Holy God…"
+hoLI.TrisagiosHymn.text = "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
+hoLI.TrisagiosHymn1.text = "Holy God."
+hoLI.TrisagiosHymn2.text = "Holy Mighty."
+hoLI.TrisagiosHymn34.text = "Holy Immortal, have mercy on us."
+hoLI.TrisagiosHymn3.text = "Holy Immortal."
+hoLI.TrisagiosHymn4.text = "Have mercy on us."
+hoLI.TrisagiosHymnJames3.text = "Holy Trinity."
+hoLI.TrisagiosHymnJames34.text = "Holy Trinity, have mercy on us."
+hoLI.MM.TrisagiosHymnBimatos.text = properties_en_US_dedes.media.key
+hoLI.TrisagiosHymnDynamis.text = "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
+
+hoLI.OsoiEisChriston.title = "INSTEAD OF HOLY GOD"
+hoLI.MM.OsoiEisChriston.text = properties_en_US_dedes.media.key
+hoLI.MM.OsoiEisChristonBimatos.text = properties_en_US_dedes.media.key
+
+hoLI.TonStavronSou.title = "INSTEAD OF HOLY GOD"
+hoLI.TonStavronSou.incipit = "Before Your Cross…"
+hoLI.TonStavronSou.text = "Before Your Cross, we bow down, O Master, and Your holy resurrection we glorify."
+hoLI.TonStavronSou1.text = "Before Your Cross, we bow down,"
+hoLI.TonStavronSou2.text = "O Master,"
+hoLI.TonStavronSou3.text = "And Your holy resurrection."
+hoLI.TonStavronSou4.text = "We glorify."
+hoLI.MM.TonStavronSouBimatos.text = properties_en_US_dedes.media.key
+hoLI.TonStavronSouDynamis.text = "Before Your Cross, we bow down, O Master, and Your holy resurrection we glorify."
+
+hoLI.MM.GospelAlleluia.text = properties_en_US_dedes.media.key
+
+hoLI.MM.GospelAlleluiaMode1.text = properties_en_US_dedes.media.key
+
+hoLI.MM.GospelAlleluiaMode2.text = properties_en_US_dedes.media.key
+
+hoLI.MM.GospelAlleluiaMode3.text = properties_en_US_dedes.media.key
+
+hoLI.MM.GospelAlleluiaMode4.text = properties_en_US_dedes.media.key
+
+hoLI.MM.GospelAlleluiaMode5.text = properties_en_US_dedes.media.key
+
+hoLI.MM.GospelAlleluiaMode6.text = properties_en_US_dedes.media.key
+
+hoLI.MM.GospelAlleluiaMode7.text = properties_en_US_dedes.media.key
+
+hoLI.MM.GospelAlleluiaMode8.text = properties_en_US_dedes.media.key

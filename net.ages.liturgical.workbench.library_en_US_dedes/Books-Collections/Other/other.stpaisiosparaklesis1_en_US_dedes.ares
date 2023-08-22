@@ -18,10 +18,10 @@ hoCA.Apolytikion2.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 hoCA.Apolytikion2.incipit = "We who are drowning in…"
 hoCA.Apolytikion2.text = "We who are drowning in the ocean passions * and tossed about by every kind of temptation * have heard of your compassion's inexhaustible wealth, * O Father Paisios, * and your strong intercession. * Therefore we call to you, and we pray to you, saying: * Come to us quickly and deliver us, * and guide us safely * to a harbor that has no waves."
 
-hoCA.Apolytikion3.mode = ho.s23_en_US_dedes.hoCA.Apolytikion2.mode
-hoCA.Apolytikion3.melody = ho.s23_en_US_dedes.hoCA.Apolytikion2.melody
-hoCA.Apolytikion3.incipit = ho.s23_en_US_dedes.hoCA.Apolytikion2.incipit
-hoCA.Apolytikion3.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
+hoCA.Apolytikion3.mode = ho.ho23_en_US_dedes.hoCA.Apolytikion2.mode
+hoCA.Apolytikion3.melody = ho.ho23_en_US_dedes.hoCA.Apolytikion2.melody
+hoCA.Apolytikion3.incipit = ho.ho23_en_US_dedes.hoCA.Apolytikion2.incipit
+hoCA.Apolytikion3.text = ho.ho23_en_US_dedes.hoCA.Apolytikion2.text
 
 hoCA.acrostic = ""
 hoCA.verse = prayers_en_US_dedes.pr.verse_SaintM.text
@@ -81,8 +81,8 @@ hoCA.Troparion31.text = "Paisios, God-bearing Saint, we entreat you to hear us c
 
 hoCA.Troparion32.mode = miscellanea_en_US_dedes.misc.Mode8
 hoCA.Troparion32.melody = ""
-hoCA.Troparion32.incipit = ho.s23_en_US_dedes.hoCA.Troparion32.incipit
-hoCA.Troparion32.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
+hoCA.Troparion32.incipit = ho.ho23_en_US_dedes.hoCA.Troparion32.incipit
+hoCA.Troparion32.text = ho.ho23_en_US_dedes.hoCA.Troparion32.text
 
 hoCA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.Kathisma11.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
@@ -168,8 +168,8 @@ hoCA.Troparion61.text = hoCA.Troparion31.text
 
 hoCA.Troparion62.mode = miscellanea_en_US_dedes.misc.Mode8
 hoCA.Troparion62.melody = ""
-hoCA.Troparion62.incipit = ho.s23_en_US_dedes.hoCA.Troparion62.incipit
-hoCA.Troparion62.text = ho.s23_en_US_dedes.hoCA.Troparion62.text
+hoCA.Troparion62.incipit = ho.ho23_en_US_dedes.hoCA.Troparion62.incipit
+hoCA.Troparion62.text = ho.ho23_en_US_dedes.hoCA.Troparion62.text
 
 hoCA.Kontakion.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.Kontakion.melody = ""
@@ -178,13 +178,13 @@ hoCA.Kontakion.text = "O devout Saint, for the Lord you waited patiently; * you 
 
 hoCA.PostGospelGlory.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.PostGospelGlory.melody = ""
-hoCA.PostGospelGlory.incipit = ho.s03_en_US_dedes.hoMA.PostGospelMonastic.incipit
-hoCA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMonastic.text
+hoCA.PostGospelGlory.incipit = ho.ho03_en_US_dedes.hoMA.PostGospelMonastic.incipit
+hoCA.PostGospelGlory.text = ho.ho03_en_US_dedes.hoMA.PostGospelMonastic.text
 
 hoCA.PostGospelBoth.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.PostGospelBoth.melody = ""
-hoCA.PostGospelBoth.incipit = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.incipit
-hoCA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+hoCA.PostGospelBoth.incipit = ho.ho03_en_US_dedes.hoMA.PostGospelTheotokos.incipit
+hoCA.PostGospelBoth.text = ho.ho03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 hoCA.PostGospelHymn1.mode = miscellanea_en_US_dedes.misc.Mode6
 hoCA.PostGospelHymn1.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
@@ -263,8 +263,8 @@ hoCA.Ode9T.melody = he.h.m8_en_US_dedes.heHE.KyriosTheotokon.name
 hoCA.Ode9T.incipit = "All-lauded blessed Lady, * having…"
 hoCA.Ode9T.text = "All-lauded blessed Lady, * having nearly finished * my supplication, I pray now that you will grant * to me to thank you and glorify you and call you blest."
 
-hoCA.Meg00.incipit = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.incipit
-hoCA.Meg00.text = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.text
+hoCA.Meg00.incipit = ho.ho03_en_US_dedes.hoMA.Ode9.Meg00.incipit
+hoCA.Meg00.text = ho.ho03_en_US_dedes.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.melody
 hoCA.Meg01.incipit = he.h.m6_en_US_dedes.heHE.TinTimioteran.incipit
 hoCA.Meg01.text = he.h.m6_en_US_dedes.heHE.TinTimioteran.text
@@ -293,8 +293,8 @@ hoCA.Meg09.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.name
 hoCA.Meg09.incipit = "Saints of Cappadocia, O holy…"
 hoCA.Meg09.text = "Saints of Cappadocia, O holy priest * Arsenios, and devout Paisios, we entreat: * From all kinds of danger deliver us who pray you * with faith and seek your mighty protection and patronage."
 hoCA.Meg0F.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.name
-hoCA.Meg0F.incipit = ho.s23_en_US_dedes.hoCA.Meg0F.incipit
-hoCA.Meg0F.text = ho.s23_en_US_dedes.hoCA.Meg0F.text
+hoCA.Meg0F.incipit = ho.ho23_en_US_dedes.hoCA.Meg0F.incipit
+hoCA.Meg0F.text = ho.ho23_en_US_dedes.hoCA.Meg0F.text
 
 hoCA.Troparion1.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.Troparion1.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
@@ -303,13 +303,13 @@ hoCA.Troparion1.text = "Come now and appear to us who pray * fervently with tear
 
 hoCA.Troparion2.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.Troparion2.melody = ""
-hoCA.Troparion2.incipit = ho.s23_en_US_dedes.hoCA.Troparion6.incipit
-hoCA.Troparion2.text = ho.s23_en_US_dedes.hoCA.Troparion6.text
+hoCA.Troparion2.incipit = ho.ho23_en_US_dedes.hoCA.Troparion6.incipit
+hoCA.Troparion2.text = ho.ho23_en_US_dedes.hoCA.Troparion6.text
 
 hoCA.Troparion3.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.Troparion3.melody = ""
-hoCA.Troparion3.incipit = ho.s23_en_US_dedes.hoCA.Troparion7.incipit
-hoCA.Troparion3.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
+hoCA.Troparion3.incipit = ho.ho23_en_US_dedes.hoCA.Troparion7.incipit
+hoCA.Troparion3.text = ho.ho23_en_US_dedes.hoCA.Troparion7.text
 
 hoCA.couplet1.title = titles_en_US_dedes.ti.Couplet
 hoCA.couplet1.verse1 = "Remember the unangelic translator who met you,"

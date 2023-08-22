@@ -15,10 +15,10 @@ hoCA.Apolytikion1.text = "From early childhood you had great love for Jesus, * a
 
 hoCA.acrostic = ""
 
-hoCA.Apolytikion2.mode = ho.s23_en_US_dedes.hoCA.Apolytikion2.mode
-hoCA.Apolytikion2.melody = ho.s23_en_US_dedes.hoCA.Apolytikion2.melody
-hoCA.Apolytikion2.incipit = ho.s23_en_US_dedes.hoCA.Apolytikion2.incipit
-hoCA.Apolytikion2.text = ho.s23_en_US_dedes.hoCA.Apolytikion2.text
+hoCA.Apolytikion2.mode = ho.ho23_en_US_dedes.hoCA.Apolytikion2.mode
+hoCA.Apolytikion2.melody = ho.ho23_en_US_dedes.hoCA.Apolytikion2.melody
+hoCA.Apolytikion2.incipit = ho.ho23_en_US_dedes.hoCA.Apolytikion2.incipit
+hoCA.Apolytikion2.text = ho.ho23_en_US_dedes.hoCA.Apolytikion2.text
 
 hoCA.Ode11.ode = miscellanea_en_US_dedes.misc.Ode1
 hoCA.Ode11.mode = miscellanea_en_US_dedes.misc.Mode8
@@ -75,8 +75,8 @@ hoCA.Troparion31.text = "We honor you, O godly-minded St. Ciaran, and your divin
 
 hoCA.Troparion32.mode = miscellanea_en_US_dedes.misc.Mode8
 hoCA.Troparion32.melody = ""
-hoCA.Troparion32.incipit = ho.s23_en_US_dedes.hoCA.Troparion32.incipit
-hoCA.Troparion32.text = ho.s23_en_US_dedes.hoCA.Troparion32.text
+hoCA.Troparion32.incipit = ho.ho23_en_US_dedes.hoCA.Troparion32.incipit
+hoCA.Troparion32.text = ho.ho23_en_US_dedes.hoCA.Troparion32.text
 
 hoCA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.Kathisma11.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
@@ -162,8 +162,8 @@ hoCA.Troparion61.text = hoCA.Troparion31.text
 
 hoCA.Troparion62.mode = miscellanea_en_US_dedes.misc.Mode8
 hoCA.Troparion62.melody = ""
-hoCA.Troparion62.incipit = ho.s23_en_US_dedes.hoCA.Troparion62.incipit
-hoCA.Troparion62.text = ho.s23_en_US_dedes.hoCA.Troparion62.text
+hoCA.Troparion62.incipit = ho.ho23_en_US_dedes.hoCA.Troparion62.incipit
+hoCA.Troparion62.text = ho.ho23_en_US_dedes.hoCA.Troparion62.text
 
 hoCA.Kontakion.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.Kontakion.melody = "O Protection of Christians."
@@ -172,13 +172,13 @@ hoCA.Kontakion.text = "O St. Ciaran, the glory of Ireland, * since you speak to 
 
 hoCA.PostGospelGlory.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.PostGospelGlory.melody = ""
-hoCA.PostGospelGlory.incipit = ho.s03_en_US_dedes.hoMA.PostGospelMonastic.incipit
-hoCA.PostGospelGlory.text = ho.s03_en_US_dedes.hoMA.PostGospelMonastic.text
+hoCA.PostGospelGlory.incipit = ho.ho03_en_US_dedes.hoMA.PostGospelMonastic.incipit
+hoCA.PostGospelGlory.text = ho.ho03_en_US_dedes.hoMA.PostGospelMonastic.text
 
 hoCA.PostGospelBoth.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.PostGospelBoth.melody = ""
-hoCA.PostGospelBoth.incipit = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.incipit
-hoCA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
+hoCA.PostGospelBoth.incipit = ho.ho03_en_US_dedes.hoMA.PostGospelTheotokos.incipit
+hoCA.PostGospelBoth.text = ho.ho03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 hoCA.PostGospelHymn1.mode = miscellanea_en_US_dedes.misc.Mode6
 hoCA.PostGospelHymn1.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
@@ -269,8 +269,8 @@ hoCA.Ode9T.melody = he.h.m8_en_US_dedes.heHE.KyriosTheotokon.name
 hoCA.Ode9T.incipit = "O Virgin, grant us Christians…"
 hoCA.Ode9T.text = "O Virgin, grant us Christians * the heavenly kingdom. * We ever magnify you, and we glorify * your faithful votary, Ciaran, in songs extolling him."
 
-hoCA.Meg00.incipit = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.incipit
-hoCA.Meg00.text = ho.s03_en_US_dedes.hoMA.Ode9.Meg00.text
+hoCA.Meg00.incipit = ho.ho03_en_US_dedes.hoMA.Ode9.Meg00.incipit
+hoCA.Meg00.text = ho.ho03_en_US_dedes.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.melody
 hoCA.Meg01.incipit = he.h.m6_en_US_dedes.heHE.TinTimioteran.incipit
 hoCA.Meg01.text = he.h.m6_en_US_dedes.heHE.TinTimioteran.text
@@ -290,18 +290,18 @@ hoCA.Meg06.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.name
 hoCA.Meg06.incipit = "Bless us all who solemnly…"
 hoCA.Meg06.text = "Bless us all who solemnly honor you, * holy father Ciaran. We entreat you to please fulfill * all of our petitions conducive to salvation. * Grant us the divine kingdom, by your all-holy prayers."
 hoCA.Meg0F.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.name
-hoCA.Meg0F.incipit = ho.s23_en_US_dedes.hoCA.Meg0F.incipit
-hoCA.Meg0F.text = ho.s23_en_US_dedes.hoCA.Meg0F.text
+hoCA.Meg0F.incipit = ho.ho23_en_US_dedes.hoCA.Meg0F.incipit
+hoCA.Meg0F.text = ho.ho23_en_US_dedes.hoCA.Meg0F.text
 
 hoCA.Troparion1.mode = miscellanea_en_US_dedes.misc.Mode2
 hoCA.Troparion1.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 hoCA.Troparion1.incipit = "Father, to you ardently we…"
 hoCA.Troparion1.text = "Father, to you ardently we pray * and invoke your strong intercession before the Master with faith, * so that He have mercy on us and forgive our sins, * and He give us abundantly the grace of the Spirit, * that, having conformed to His divine commandments, O Saint, * we attain the homeland in heaven, * where you are rejoicing, O Ciaran, * celebrating with the hosts of all the Saints."
-hoCA.Troparion2.mode = ho.s23_en_US_dedes.hoCA.Troparion6.mode
+hoCA.Troparion2.mode = ho.ho23_en_US_dedes.hoCA.Troparion6.mode
 hoCA.Troparion2.melody = ""
-hoCA.Troparion2.incipit = ho.s23_en_US_dedes.hoCA.Troparion6.incipit
-hoCA.Troparion2.text = ho.s23_en_US_dedes.hoCA.Troparion6.text
-hoCA.Troparion3.mode = ho.s23_en_US_dedes.hoCA.Troparion7.mode
+hoCA.Troparion2.incipit = ho.ho23_en_US_dedes.hoCA.Troparion6.incipit
+hoCA.Troparion2.text = ho.ho23_en_US_dedes.hoCA.Troparion6.text
+hoCA.Troparion3.mode = ho.ho23_en_US_dedes.hoCA.Troparion7.mode
 hoCA.Troparion3.melody = ""
-hoCA.Troparion3.incipit = ho.s23_en_US_dedes.hoCA.Troparion7.incipit
-hoCA.Troparion3.text = ho.s23_en_US_dedes.hoCA.Troparion7.text
+hoCA.Troparion3.incipit = ho.ho23_en_US_dedes.hoCA.Troparion7.incipit
+hoCA.Troparion3.text = ho.ho23_en_US_dedes.hoCA.Troparion7.text
