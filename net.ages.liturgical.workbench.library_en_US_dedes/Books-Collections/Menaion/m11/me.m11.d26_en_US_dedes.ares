@@ -347,11 +347,13 @@ meMA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_dedes.heAU.OsAparchas.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.heAU.OsAparchas.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
 meMA.Kontakion2.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.Kontakion2.greekmelody = he.a.m6_en_US_dedes.heAU.TinYperImon.greekname
 meMA.Kontakion2.melody = he.a.m6_en_US_dedes.heAU.TinYperImon.name
 meMA.Kontakion2.incipit = "O devout and God-bearing Nikon…"
 meMA.Kontakion2.text = "O devout and God-bearing Nikon, imitating * the angelic life, you considered to be refuse * the delights of the world, and you showed us the path * of repentance, O all-blessed Saint. * For this reason we all honor you * as we now observe your memory. * For truly you are a source of miraculous cures."
@@ -564,6 +566,7 @@ meMA.LaudsStavrotheotokion.incipit = oc.m6.d4_en_US_dedes.ocMA.AposTheotokion.in
 meMA.LaudsStavrotheotokion.text = oc.m6.d4_en_US_dedes.ocMA.AposTheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

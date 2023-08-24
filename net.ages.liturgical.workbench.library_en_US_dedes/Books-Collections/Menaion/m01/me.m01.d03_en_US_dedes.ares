@@ -698,11 +698,13 @@ meMA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.OsTonProfitinErryso.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.OsTonProfitinErryso.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.name
 meMA.Kontakion1.incipit = "As a Prophet naturally *…"
 meMA.Kontakion1.text = "As a Prophet naturally * filled with divine and transcendent * wisdom, O great Malachi, * throughout the ages you show all * that the One who is the wisdom of God in heaven * has come down to earth and He dwelt among us. * For this reason we the faithful * observe and honor your sacred memory."
 
 meMA.Kontakion2.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.Kontakion2.greekmelody = he.a.m6_en_US_dedes.heAU.TinEnPresveiais.greekname
 meMA.Kontakion2.melody = he.a.m6_en_US_dedes.heAU.TinEnPresveiais.name
 meMA.Kontakion2.incipit = "Let us extol the invincible…"
 meMA.Kontakion2.text = "Let us extol the invincible soldier Martyr, * who wears a crown for not succumbing to the tortures. * Come all believers and praise St. Gordios. * Like a great luminary * from the East he as brightly shone, * the heavenly ornament of the Martyrs of Christ."
@@ -1028,6 +1030,7 @@ meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

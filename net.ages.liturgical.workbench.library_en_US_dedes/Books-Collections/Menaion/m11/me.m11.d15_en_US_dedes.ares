@@ -281,6 +281,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "All-lauded and wise Saints, you…"
 meMA.Kontakion1.text = "All-lauded and wise Saints, you obtained grace from on high, and thus you protect all those who find themselves in difficult circumstances. You saved a young woman from bitter death; O Martyrs, you are indeed the glory of Edessa and joy of the world."
@@ -396,6 +397,7 @@ meMA.ExapTheotokion.text = "Our God, who in divinity * uncircumscribed yet fills
 meMA.MM.Ve1234as5678.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -278,6 +278,7 @@ meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_dedes.heAU.TousAsfaleis.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.TousAsfaleis.name
 meMA.Kontakion1.incipit = "Let us extol in hymns…"
 meMA.Kontakion1.text = "Let us extol in hymns the ever-venerable, * devout Martinian and praise him worthily. * Practiced in ascetic discipline, * a martyr of conscience most honorable, * he patiently lived in the wilderness, * as a citizen of it who knew it well, * for he indeed trampled on the serpent's head."
@@ -404,6 +405,7 @@ meMA.ExapTheotokion.incipit = "O Virgin, we now extol…"
 meMA.ExapTheotokion.text = "O Virgin, we now extol you * with hymns of love and thanksgiving, *  and with the Angel salute you * and sing, \"Rejoice, Theotokos! * Rejoice, O unwedded Mother * of Jesus the King of glory!\""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

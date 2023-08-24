@@ -194,6 +194,7 @@ meMA.Ode6H.text = he.h.m4_en_US_dedes.heHE.EvoiseProtypon.text
 
 meMA.Kontakion1.poet = poets_en_US_dedes.po.Malaxou
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
 meMA.Kontakion1.incipit = "O Saint, you became *…"
 meMA.Kontakion1.text = "O Saint, you became * a citizen of Zion on high, * and you occupied the throne of Zion below. * You led well the holy flock * to the heavenly sheepfold, O Symeon, * and you imitated Christ's divine * Passion, when for Him you were crucified."
@@ -290,6 +291,7 @@ meMA.Ode9H.incipit = he.h.m4_en_US_dedes.heHE.OTokosSouAfthoros.incipit
 meMA.Ode9H.text = he.h.m4_en_US_dedes.heHE.OTokosSouAfthoros.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

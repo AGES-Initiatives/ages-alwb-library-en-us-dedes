@@ -241,6 +241,7 @@ meMA.Ode3H.incipit = he.h.m8_en_US_dedes.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_US_dedes.heHE.SyEiToStereoma.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_dedes.heAU.TiYpermacho.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.heAU.TiYpermacho.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -434,6 +435,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion2.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion2.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion2.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
 meMA.Kontakion2.incipit = "You scattered your wealth *…"
 meMA.Kontakion2.text = "You scattered your wealth * distributing it to the poor; * and you have received the wealth of heaven in return, holy hierarch most wise. * For this reason all of us now honor you * by observing your memory, * O father who were named for being merciful."
@@ -647,6 +649,7 @@ meMA.AposStavrotheotokion.text = "The blameless Theotokos, O Lord, * was watchin
 meMA.MM.VeApos1123as5678.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -728,6 +728,7 @@ meMA.Ode6H.incipit = he.h.m2_en_US_dedes.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_dedes.heHE.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
 meMA.Kontakion1.incipit = "Inspired by God, * O…"
 meMA.Kontakion1.text = "Inspired by God, * O faithful, let us celebrate * today and extol * the chorus of the Seventy * Disciples of Jesus Christ. * For through them we all have learned to worship the undivided Trinity, * as they are indeed lamps that guide to faith in God."
@@ -1042,6 +1043,7 @@ meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

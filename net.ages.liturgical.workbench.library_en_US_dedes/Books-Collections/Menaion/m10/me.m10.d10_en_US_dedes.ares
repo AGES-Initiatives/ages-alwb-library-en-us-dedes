@@ -245,6 +245,7 @@ meMA.Ode6H.incipit = he.h.m6_en_US_dedes.heHE.TouViouTinThalassan.incipit
 meMA.Ode6H.text = he.h.m6_en_US_dedes.heHE.TouViouTinThalassan.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.name
 meMA.Kontakion1.incipit = "We extol Eulampius, * the…"
 meMA.Kontakion1.text = "We extol Eulampius, * the brave and wise, with his sister, * the devout Eulampia. * They both were valorous Martyrs. * For they put to shame the schemes of the persecutors, * by the might of Christ the crucified Lord and Savior. * They were shown to be the glory, * the pride and joy of the holy Martyr Saints."
@@ -364,6 +365,7 @@ meMA.ExapTheotokion.incipit = "All-blameless Maiden, with the drops…"
 meMA.ExapTheotokion.text = "All-blameless Maiden, with the drops * of tender mercy, irrigate * my wretched soul that is pining * in the heat wave of transgressions. * And lead into the light my mind, * for passions have bedarkened it; * and clearly guide it straight ahead * to spiritual contemplation * of your Son, O Theotokos."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

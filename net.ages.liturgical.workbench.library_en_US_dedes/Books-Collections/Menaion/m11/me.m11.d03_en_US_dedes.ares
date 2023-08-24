@@ -235,6 +235,7 @@ meMA.Ode3H.incipit = he.h.m4_en_US_dedes.heHE.OStereonVrontin.incipit
 meMA.Ode3H.text = he.h.m4_en_US_dedes.heHE.OStereonVrontin.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "You solemnly celebrated the divine…"
 meMA.Kontakion1.text = "You solemnly celebrated the divine liturgy, and you became an acceptable sacrifice, all-blessed St. Acepsimas. You gloriously drank the cup of Christ; and along with your fellow martyrs, you never cease interceding on behalf of us all."
@@ -421,6 +422,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_dedes.heHE.ZaliMeLogismon.incipit
 meMA.Ode6H.text = he.h.m4_en_US_dedes.heHE.ZaliMeLogismon.text
 
 meMA.Kontakion2.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Kontakion2.greekmelody = he.a.m8_en_US_dedes.heAU.TiYpermacho.greekname
 meMA.Kontakion2.melody = he.a.m8_en_US_dedes.heAU.TiYpermacho.notmetered
 meMA.Kontakion2.incipit = "As we believers who extol…"
 meMA.Kontakion2.text = "As we believers who extol you take refuge in your speedy help as our champion, we entreat that Christ will rescue us from the scandals of the enemy, and from every harm and danger, so that we may salute you and say: Rejoice, O Great Martyr George!"
@@ -651,6 +653,7 @@ meMA.LaudsTheotokion.text = oc.m4.d4_en_US_dedes.ocVE.Stichera6.text
 meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

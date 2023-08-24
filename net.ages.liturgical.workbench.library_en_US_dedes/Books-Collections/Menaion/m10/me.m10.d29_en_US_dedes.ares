@@ -382,11 +382,13 @@ meMA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.name
 meMA.Kontakion1.incipit = "Practicing virginity * like water…"
 meMA.Kontakion1.text = "Practicing virginity * like water cleansed you, O devout Saint, * and the blood of martyrdom * washed you as well, O Anastasia. * Now you grant to those in need of them cures and healing, * and to us who come sincerely you give salvation. * For through you is Christ dispensing * His ever-flowing power and grace divine."
 
 meMA.Kontakion2.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Kontakion2.greekmelody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.greekname
 meMA.Kontakion2.melody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.name
 meMA.Kontakion2.incipit = "You appeared on earth, O…"
 meMA.Kontakion2.text = "You appeared on earth, O Saint, * to be an angel in body. * Through ascetic discipline, * you were a tree that was planted; * watered by your self-control you increased greatly; * with the streams of tears you washed away all uncleanness. * Therefore you became the Spirit's all-holy vessel, * O father Abramius."
@@ -593,6 +595,7 @@ meMA.ExapTheotokion.incipit = "Divinely glowing Paradise: * that…"
 meMA.ExapTheotokion.text = "Divinely glowing Paradise: * that is how we perceive you. * In your midst was the tree of life, * namely the Lord, and if we * eat from Him, we shall not ever * die again, Theotokos; * but we all live a better life * through you, O all-pure Lady; and as we wear * he Cross as a shield, we are truly victors * over the rebel enemy, * and we praise you, O Virgin."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

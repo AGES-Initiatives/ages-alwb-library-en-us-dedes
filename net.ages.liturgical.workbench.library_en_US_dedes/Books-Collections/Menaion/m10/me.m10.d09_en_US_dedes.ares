@@ -405,6 +405,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.ChitonaMoiParaschou.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.ChitonaMoiParaschou.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.Kontakion1.greekmelody = he.a.m6_en_US_dedes.heAU.TinEnPresveiais.greekname
 meMA.Kontakion1.melody = he.a.m6_en_US_dedes.heAU.TinEnPresveiais.notmetered
 meMA.Kontakion1.incipit = "Let us extol James and…"
 meMA.Kontakion1.text = "Let us extol James and praise him in song, as we festively honor his memory today. He was an eyewitness of Christ and a preacher of God, and he shined on the whole world like a morning star. And he continually intercedes on behalf of us all."
@@ -615,6 +616,7 @@ meMA.LaudsTheotokion.incipit = oc.m5.d5_en_US_dedes.ocVE.AposTheotokion.incipit
 meMA.LaudsTheotokion.text = oc.m5.d5_en_US_dedes.ocVE.AposTheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

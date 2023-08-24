@@ -307,6 +307,7 @@ meMA.Ode6H.incipit = he.h.m6_en_US_dedes.heHE.TouViouTinThalassan.incipit
 meMA.Ode6H.text = he.h.m6_en_US_dedes.heHE.TouViouTinThalassan.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "To the Savior who was…"
 meMA.Kontakion1.text = "To the Savior who was born * the Star sent Magi. * Herod then dispatched his own * illicit forces in his vain * desire to find and assassinate * the Lord who lay in a manger as a newborn babe."
@@ -493,6 +494,7 @@ meMA.AposBoth.text = me.m12.d25_en_US_dedes.meVE.LityBoth.text
 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

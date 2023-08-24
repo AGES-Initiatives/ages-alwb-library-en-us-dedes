@@ -376,11 +376,13 @@ meMA.Ode6H.incipit = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
 meMA.Kontakion2.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion2.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion2.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
 meMA.Kontakion2.incipit = "…"
 meMA.Kontakion2.text = ""
@@ -605,6 +607,7 @@ meMA.MM.Lauds1234as5678.text = properties_en_US_dedes.media.key
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -562,6 +562,7 @@ meMA.Ode6C3T.incipit = "…"
 meMA.Ode6C3T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "Lord, Your Church appears to…"
 meMA.Kontakion1.text = "Lord, Your Church appears to us * to be like heaven * full of light, and guides with light * all who believe in You, O Christ. * And we who stand in it cry to You: * Savior, establish forever this holy house."
@@ -903,6 +904,7 @@ meMA.LaudsBoth.text = ""
 meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

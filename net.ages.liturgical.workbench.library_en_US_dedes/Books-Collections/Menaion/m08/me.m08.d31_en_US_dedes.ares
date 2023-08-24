@@ -385,6 +385,7 @@ meMA.Ode6C24.incipit = "O Pure Lady, strengthen our…"
 meMA.Ode6C24.text = "O Pure Lady, strengthen our hearts, for they are beset with every kind of sin. Gird with power all those who faithfully hold your Belt as precious treasure that cannot be taken away."
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.Kontakion1.greekmelody = he.a.m6_en_US_dedes.heAU.TinEnPresveiais.greekname
 meMA.Kontakion1.melody = he.a.m6_en_US_dedes.heAU.TinEnPresveiais.name
 meMA.Kontakion1.incipit = "The precious garment that you…"
 meMA.Kontakion1.text = "The precious garment that you wore about your body * that hosted God, O all-blessed Theotokos, * truly is power unassailable * for your City and a treasure whose blessings are perpetual, * O only Ever-virgin who bore a child."
@@ -610,6 +611,7 @@ meMA.LaudsGlory.incipit = meVE.SticGlory.incipit
 meMA.LaudsGlory.text = meVE.SticGlory.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

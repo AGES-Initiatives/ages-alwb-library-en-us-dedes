@@ -268,6 +268,7 @@ meMA.Ode3H.incipit = he.h.m2_en_US_dedes.heHE.ExinthisenIErimos.incipit
 meMA.Ode3H.text = he.h.m2_en_US_dedes.heHE.ExinthisenIErimos.text
 
 meMA.Kontakion2.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion2.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion2.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
 meMA.Kontakion2.incipit = "…"
 meMA.Kontakion2.text = ""
@@ -411,6 +412,7 @@ meMA.Ode6H.incipit = he.h.m2_en_US_dedes.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_dedes.heHE.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 meMA.Kontakion1.incipit = "O maiden Martyr, you renounced…"
 meMA.Kontakion1.text = "O maiden Martyr, you renounced the religion * of pagan idols and you followed the true God, * the One extolled and worshiped in Trinity. * And as you competed in the arena, O Barbara, * you did not succumb to any threats of the tyrants; * but manly minded you cried and sang, * \"I worship only the one God in Trinity.\""
@@ -600,6 +602,7 @@ meMA.LaudsTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiAthliforou.text
 meMA.MM.VeApos1123as5678.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

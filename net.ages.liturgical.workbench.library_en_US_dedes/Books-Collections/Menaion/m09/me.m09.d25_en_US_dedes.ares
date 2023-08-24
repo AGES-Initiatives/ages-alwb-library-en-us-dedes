@@ -355,6 +355,7 @@ meMA.Ode6H.incipit = he.h.m5_en_US_dedes.heHE.MainomeninKlydoni.incipit
 meMA.Ode6H.text = he.h.m5_en_US_dedes.heHE.MainomeninKlydoni.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "Yearning for the life…"
 meMA.Kontakion1.text = "Yearning for the life on high, you diligently renounced the delights below, and you disguised yourself as a man among men, O famous Saint. For the love of Christ your true bridegroom, you denied yourself a temporal spouse."
@@ -543,6 +544,7 @@ meMA.ExapTheotokion.incipit = "Thrones and Principalities * Dominions…"
 meMA.ExapTheotokion.text = "Thrones and Principalities * Dominions and the Powers * Archangels and the Angels all, * O Maiden Virgin Mother, * adore your Son and worship Him, * since He is God and Master; * and ceaselessly they extol you. * O Pure one, ever entreat Him, * so that I may be redeemed * from the dreaded condemnation."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

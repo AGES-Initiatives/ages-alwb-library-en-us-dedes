@@ -251,6 +251,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_dedes.heHE.ZaliMeLogismon.incipit
 meMA.Ode6H.text = he.h.m4_en_US_dedes.heHE.ZaliMeLogismon.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
 meMA.Kontakion1.incipit = "You competed well; * and…"
 meMA.Kontakion1.text = "You competed well; * and now you have inherited * immortal renown. * For you became an excellent * soldier of the Master Christ, * by the prayers of the Martyr Demetrius. * Nestor, as you are with him now, * cease not interceding on behalf of us all."
@@ -358,6 +359,7 @@ meMA.ExapTheotokion.incipit = "All-lauded Lady, kind and good…"
 meMA.ExapTheotokion.text = "All-lauded Lady, kind and good, take pity on us, as you do, * and show us your tender mercies, * O all-holy Theotokos; * and rescue us and everyone from troubles and emergencies, * from hardships and from civil strife; * and save us when were are threatened * by earthquake and all disasters."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

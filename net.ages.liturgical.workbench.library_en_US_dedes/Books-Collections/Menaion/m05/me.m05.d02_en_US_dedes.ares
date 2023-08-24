@@ -218,6 +218,7 @@ meMA.Ode6C1T.incipit = ""
 meMA.Ode6C1T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_dedes.heAU.ToisTonAimatonSou.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.ToisTonAimatonSou.name
 meMA.Kontakion1.incipit = "You planted the dogmas of…"
 meMA.Kontakion1.text = "You planted the dogmas of Orthodoxy, * and you cut down the briars of heresy, * and thus you increased the seed of Faith, * with the rain of the Spirit, O holy one. * And therefore we hymn your memorial."
@@ -323,6 +324,7 @@ meMA.LaudsGlory.incipit = "With sacred hymns let us…"
 meMA.LaudsGlory.text = "With sacred hymns let us extol that great glory of priests, Athanasius, the invincible hero. By the power of the Spirit, he cut down the ranks of the heresies, and he raised the trophies of Orthodoxy throughout the world. He correctly expounded on the mystery of the Trinity, speaking of three because of the attributes of each Person, and then speaking of one because of the unconfused identity of essence. He theologized like the cherubim, and he intercedes for our souls."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -423,6 +423,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "We have found your sacred…"
 meMA.Kontakion1.text = "We have found your sacred shrine to be a clinic of the soul, O holy one, and all we faithful now accord honor to you with our voices strong, devout Martyr Paraskeve extolled by all."
@@ -651,6 +652,7 @@ meMA.LaudsTheotokion.text = ho.ho23_en_US_dedes.hoCA.Troparion7.text
 meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

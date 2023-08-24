@@ -253,6 +253,7 @@ meMA.Ode6H.incipit = he.h.m2_en_US_dedes.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_dedes.heHE.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "You listened to your good…"
 meMA.Kontakion1.text = "You listened to your good wife, O patient James. You showed contempt for the religion of the Persians and their threats, fearing rather the judgment of God. And you became a marvelous Martyr, when your body was cut like a vine."
@@ -392,6 +393,7 @@ meMA.AposStavrotheotokion.incipit = "\"How can I bear to…"
 meMA.AposStavrotheotokion.text = "\"How can I bear to be witness to Your unjust slaughter, O Word, * or to see that Your divine eyes * that gave vision to the blind * are now closed in the sleep of death! * How can I see that Your lips are shut and mute, * those lips that spoke and gave speech to stutterers! * I cannot bear to live! * My insides are torn, and broken is my heart!\" * Thus the noble Virgin cried as she bitterly wept."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

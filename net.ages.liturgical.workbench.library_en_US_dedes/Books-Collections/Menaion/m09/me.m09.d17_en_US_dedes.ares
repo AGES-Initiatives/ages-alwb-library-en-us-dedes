@@ -291,6 +291,7 @@ meMA.Ode6H.incipit = he.h.m1_en_US_dedes.heHE.EkyklosenImas.incipit
 meMA.Ode6H.text = he.h.m1_en_US_dedes.heHE.EkyklosenImas.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Kontakion1.greekmelody = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.greekname
 meMA.Kontakion1.melody = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.name
 meMA.Kontakion1.incipit = "The sacred progeny of devout…"
 meMA.Kontakion1.text = "The sacred progeny of devout St. Sophia * were Faith and Hope and Love, her most decorous daughters. * They showed that the wisdom of the pagan Greeks was nonsensical. * They competed well and were victorious Martyrs. * They received the crowns of incorruptible glory * from Christ who is Lord of all."
@@ -420,6 +421,7 @@ meMA.AposGlory.text = ""
 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

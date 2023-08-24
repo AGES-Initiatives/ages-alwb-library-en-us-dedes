@@ -334,6 +334,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 meMA.Kontakion1.incipit = "The godly host of five…"
 meMA.Kontakion1.text = "The godly host of five illustrious Martyrs, * splendidly glowing with the Trinity's beauty, * endured the harsh assaults of tyrants, yet they overcame. * Now, consistent with their names, they gush forth the abundant, * unimpeded, and assured * grace of God to the hopeful, * who through them piously with love go near * to Christ our Savior and God, who created all."
@@ -490,6 +491,7 @@ meMA.AposStavrotheotokion.incipit = me.m02.d27_en_US_dedes.meVE.SticStavrotheoto
 meMA.AposStavrotheotokion.text = me.m02.d27_en_US_dedes.meVE.SticStavrotheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

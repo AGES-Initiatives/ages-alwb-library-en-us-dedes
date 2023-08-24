@@ -244,6 +244,7 @@ meMA.Ode6H.incipit = he.h.m2_en_US_dedes.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_dedes.heHE.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_dedes.heAU.TousAsfaleis.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.TousAsfaleis.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -363,6 +364,7 @@ meMA.ExapTheotokion.incipit = "O Lady, blessed and all-pure…"
 meMA.ExapTheotokion.text = "O Lady, blessed and all-pure * Theotokos and Virgin, * you are the Christians' dignity, * the glory of the Angels, * the pride and joy of the Martyrs. * Power, fortress and shelter, * and a defensive battlement, * guardian and protectress become for us, * your unworthy servants, in times of peril. * For we indeed take pride in you, * who are the world's protection."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

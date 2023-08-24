@@ -257,6 +257,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_dedes.heHE.EvoiseProtypon.incipit
 meMA.Ode6H.text = he.h.m4_en_US_dedes.heHE.EvoiseProtypon.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "In the house of abstinence…"
 meMA.Kontakion1.text = "In the house of abstinence * the Lord has truly * placed you as shining star * that never wavers from its course * and to the Light guides the universe, * Father of fathers, devout Saint Makarios."
@@ -389,6 +390,7 @@ meMA.AposStavrotheotokion.incipit = "When the Ewe who gave…"
 meMA.AposStavrotheotokion.text = "When the Ewe who gave birth to You * saw You hanging upon the Cross -- * You the Lamb and Shepherd -- she cried aloud in grief, * and as a mother she said to You, * \"Alas! dearest Son of mine! * How is it that You are hung * on the tree of the Cross, O Word * and forbearing Lord? * How is it that Your hands and feet were nailed to it by lawless men, O Master, * and that You shed Your all-holy blood?\"" //Greek similar to, and English same as me.m01.d16_en_US_dedes.meMA.LaudsStavrotheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

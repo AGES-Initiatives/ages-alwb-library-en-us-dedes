@@ -238,6 +238,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_dedes.heAU.TiYpermacho.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.heAU.TiYpermacho.name
 meMA.Kontakion1.incipit = "O Dionysius, instructed by Apostle…"
 meMA.Kontakion1.text = "O Dionysius, instructed by Apostle Paul * who reached beyond three heavens, in the Spirit you passed through * the celestial gates, and you were endowed with knowledge * of divine unspoken myst'ries, and enlightened those * who had lain once in the darkness of ignorance. * So we cry to you, Rejoice, O Father revered by all."
@@ -372,6 +373,7 @@ meMA.AposStavrotheotokion.incipit = "\"My Son, the Father's unoriginate…"
 meMA.AposStavrotheotokion.text = "\"My Son, the Father's unoriginate Logos * who with the Holy Spirit share the throne, * how have You, O Savior, extended Your most pure hands now upon the Cross? * O most benevolent Lord, * Your poverty is so profound!\" * So did the all-blameless Lady cry out, * standing nearby when You were crucified."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

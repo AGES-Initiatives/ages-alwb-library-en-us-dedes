@@ -393,6 +393,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_dedes.heAU.OsAparchas.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.heAU.OsAparchas.notmetered
 meMA.Kontakion1.incipit = "The entire Church of believers…"
 meMA.Kontakion1.text = "The entire Church of believers honors you, as a great priest, and as a companion of the Apostles. By your earnest entreaties, preserve the Church unassailed and unshaken by any heresy, O Saint, for you are truly most wonderful."
@@ -623,6 +624,7 @@ meMA.LaudsStavrotheotokion.incipit = oc.m3.d6_en_US_dedes.ocVE.SticTheotokion.in
 meMA.LaudsStavrotheotokion.text = oc.m3.d6_en_US_dedes.ocVE.SticTheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

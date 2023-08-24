@@ -360,6 +360,7 @@ meMA.Ode6H.incipit = he.h.m2_en_US_dedes.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_dedes.heHE.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -548,6 +549,7 @@ meMA.ExapTheotokion.incipit = "Cease not to pray…"
 meMA.ExapTheotokion.text = "Cease not to pray most earnestly * to the Lord who became flesh * from your pure blood, O undefiled * Virgin Mother, entreating * for us your unworthy servants, * that we find grace to help us * in time of need on Judgment Day * when He as God will judge all the human race, * meting out deserts according to merit; * for all of us in times of need * have you as our protectress." //similar to 10.07
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -336,9 +336,10 @@ meMA.Ode3C2T.melody = he.h.m1_en_US_dedes.heHE.LithonOnApedokimasan.name
 meMA.Ode3C2T.incipit = "…"
 meMA.Ode3C2T.text = ""
 
-meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode3
-meMA.Kontakion1.melody = miscellanea_en_US_dedes.misc.Automelon
-meMA.Kontakion1.incipit = "On this day the Virgin…"
+meMA.Kontakion1.mode = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.mode
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.greekname
+meMA.Kontakion1.melody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.melody
+meMA.Kontakion1.incipit = "On this day the Virgin Maid…"
 meMA.Kontakion1.text = "On this day the Virgin Maid * goes to the grotto to give birth * to the pre-eternal Word * in an ineffable manner. * Dance for joy, all the inhabited earth, on hearing. * Glorify along with Angels and with the shepherds * Him who willed that He appear as * a newborn Child, * the pre-eternal God."
 
 meMA.Oikos1.text = ""
@@ -569,6 +570,7 @@ meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion2.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Kontakion2.greekmelody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.greekname
 meMA.Kontakion2.melody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.name
 meMA.Kontakion2.incipit = "…"
 meMA.Kontakion2.text = ""
@@ -872,6 +874,7 @@ meMA.AposBoth.incipit = me.m12.d06_en_US_dedes.meVE.SticBoth.incipit
 meMA.AposBoth.text = me.m12.d06_en_US_dedes.meVE.SticBoth.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -264,6 +264,7 @@ meMA.Ode6C1T.incipit = "All-blameless Lady, we know you…"
 meMA.Ode6C1T.text = "All-blameless Lady, we know you to be the temple and nuptial chamber of God. You are the urn, the lampstand, and the tablet, on which is inscribed with the Word, who in His mercy became incarnate."
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m6_en_US_dedes.heAU.TinEnPresveiais.greekname
 meMA.Kontakion1.melody = he.a.m6_en_US_dedes.heAU.TinEnPresveiais.notmetered
 meMA.Kontakion1.incipit = "O godly-minded Saint, in abstinence…"
 meMA.Kontakion1.text = "O godly-minded Saint, in abstinence you found enjoyment, and you bridled the carnal urges, and you grew in your faith, and you blossomed like a tree in the middle of Paradise, O most sacred Father Auxentius."
@@ -366,6 +367,7 @@ meMA.ExapTheotokion.incipit = "With longing and with faith…"
 meMA.ExapTheotokion.text = "With longing and with faith and fear * I kiss and honor your divine * and all-immaculate image * with relative veneration, * all-blameless Lady; for we know * that cures of soul and body flow * from your icons abundantly * to us who are now extolling * you as the true Theotokos." //same as me.m11.d04
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

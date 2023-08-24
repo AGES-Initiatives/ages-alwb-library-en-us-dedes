@@ -660,6 +660,7 @@ meMA.Ode6C3T.incipit = "…"
 meMA.Ode6C3T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.Kontakion1.greekmelody = he.a.m6_en_US_dedes.heAU.TinEnPresveiais.greekname
 meMA.Kontakion1.melody = he.a.m6_en_US_dedes.heAU.TinEnPresveiais.name
 meMA.Kontakion1.incipit = "Let us extol the Redeemer's…"
 meMA.Kontakion1.text = "Let us extol the Redeemer's first called Disciple, the brother of Simon Peter, and theologian, Andrew, whose name denotes manliness. For as of old to him, now to us he cries aloud, \"Come, we have found Him for whom we have been waiting.\""
@@ -1012,6 +1013,7 @@ meMA.LaudsBoth.text = "O Bethlehem, welcome the Mother-city of God. For she is c
 meMA.MM.Lauds1234as5678.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

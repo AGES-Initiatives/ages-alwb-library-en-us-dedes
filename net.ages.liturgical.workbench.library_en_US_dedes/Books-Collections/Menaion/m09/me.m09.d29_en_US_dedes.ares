@@ -275,6 +275,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_dedes.heAU.TiYpermacho.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.heAU.TiYpermacho.name
 meMA.Kontakion1.incipit = "Your sacred Lavra Monastery honors…"
 meMA.Kontakion1.text = "Your sacred Lavra Monastery honors you each day, * for it has you as its helper and its champion; * and each year it celebrates your commemoration. * Inasmuch as you can pray the Lord with confidence,  keep us safe from all assaults of the enemies, * so that we may sing, and salute you, blessed Father: Rejoice!"
@@ -404,6 +405,7 @@ meMA.ExapTheotokion.incipit = "O Lady, we confess that…"
 meMA.ExapTheotokion.text = "O Lady, we confess that you * are Theotokos lit'rally, * for through you we have salvation, * since you indeed ineffably * gave birth to God who by the Cross * has neutralized the force of death, * and has attracted to himself * the companies of devout saints, * with whom we praise you, O Virgin."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

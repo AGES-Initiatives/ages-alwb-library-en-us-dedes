@@ -270,6 +270,7 @@ meMA.Ode6C1T.incipit = ""
 meMA.Ode6C1T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.Kontakion1.greekmelody = he.a.m6_en_US_dedes.heAU.TinYperImon.greekname
 meMA.Kontakion1.melody = he.a.m6_en_US_dedes.heAU.TinYperImon.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -391,6 +392,7 @@ meMA.LaudsTheotokion.incipit = he.o_en_US_dedes.heOT.TheotokeSyEi.incipit
 meMA.LaudsTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiProdromou.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

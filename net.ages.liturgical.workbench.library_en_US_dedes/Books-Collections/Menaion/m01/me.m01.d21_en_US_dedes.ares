@@ -409,6 +409,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_dedes.heAU.TiYpermacho.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.heAU.TiYpermacho.name
 meMA.Kontakion1.incipit = "Come, O believers, let us…"
 meMA.Kontakion1.text = "Come, O believers, let us honor great Saint Maximus, * for as a lover of the Trinity he openly * taught the faith revealed by God, namely to give glory * unto Christ who has two natures and two energies * and two wills. And let us sing his praises worthily * and cry out to him: * Rejoice, announcer of the Faith."
@@ -646,6 +647,7 @@ meMA.AposStavrotheotokion.incipit = oc.m6.d4_en_US_dedes.ocMA.AposTheotokion.inc
 meMA.AposStavrotheotokion.text = oc.m6.d4_en_US_dedes.ocMA.AposTheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

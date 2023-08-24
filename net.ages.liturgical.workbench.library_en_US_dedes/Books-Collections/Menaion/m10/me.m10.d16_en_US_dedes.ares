@@ -240,6 +240,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "On this day the Church…"
 meMA.Kontakion1.text = "On this day the Church is glad, and she rejoices * in the sacred memory * of St. Longinus the renowned * and medaled Martyr, and she cries out, * \"O Christ my Savior, You are my foundation and might.\""
@@ -359,6 +360,7 @@ meMA.ExapTheotokion.incipit = "The Logos, perfect and complete…"
 meMA.ExapTheotokion.text = "The Logos, perfect and complete, * into your womb is emptied, * ineffably departing not * the divine Father's bosom, * and He became flesh, an infant * born of you, Theotokos. * Earnestly pray to Him for us, * that He save us from trials and any harm * and from our offenses, as we profess you * to be the all-immaculate * Mother of God, O Virgin."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

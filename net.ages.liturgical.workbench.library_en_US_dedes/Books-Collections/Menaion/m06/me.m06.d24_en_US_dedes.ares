@@ -525,6 +525,7 @@ meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.name
 meMA.Kontakion1.incipit = "On this day Christ's Forerunner…"
 meMA.Kontakion1.text = "On this day Christ's Forerunner is born from her who was barren; and of all the prophesy he is himself the fulfillment. On the head of God the Word, who was by the Prophets heralded, he laid his hand at the Jordan River. Thus he showed himself to be His Prophet and Herald and likewise Forerunner."
@@ -743,6 +744,7 @@ meMA.LaudsTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiProdromou.text
 meMA.MM.Lauds1234as5678.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

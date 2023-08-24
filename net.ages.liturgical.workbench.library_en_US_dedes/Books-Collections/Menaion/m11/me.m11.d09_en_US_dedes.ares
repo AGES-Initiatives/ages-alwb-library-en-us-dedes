@@ -389,11 +389,13 @@ meMA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
 meMA.Kontakion1.incipit = "Illumined by grace of the…"
 meMA.Kontakion1.text = "Illumined by grace of the uncreated Trinity, * the glorious pair of Martyr saints steadfastly * wrestled with the enemy, * and they brought down his conceit to the ground. * And now with the Angels they pray * unceasingly for all of us to the Trinity."
 
 meMA.Kontakion2.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion2.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion2.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.notmetered
 meMA.Kontakion2.incipit = "By fasting you withered your…"
 meMA.Kontakion2.text = "By fasting you withered your body, while dwelling among men, O Matrona. You preoccupied yourself with prayer, and thus inspired you served the Master, for whom you had abandoned everything, and you lived your life as a devout monastic."
@@ -594,6 +596,7 @@ meMA.ExapTheotokion.incipit = "O Virgin, the holy Prophets…"
 meMA.ExapTheotokion.text = "O Virgin, the holy Prophets * in their inspired sacred writings * announced that you were to become * the Mother of God. And therefore * knowing you as Theotokos, * with faith and love we extol you."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

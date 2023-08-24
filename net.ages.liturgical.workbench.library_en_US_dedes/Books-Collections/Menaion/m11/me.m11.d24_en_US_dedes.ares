@@ -229,6 +229,7 @@ meMA.Ode3H.incipit = he.h.m8_en_US_dedes.heHE.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m8_en_US_dedes.heHE.OukEstinAgios.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.notmetered
 meMA.Kontakion1.incipit = "O Saint Peter, blessed by…"
 meMA.Kontakion1.text = "O Saint Peter, blessed by God, you brightened the Church with your Orthodox doctrines, and then you competed for her sake, when you drove out Arius as an apostate. Therefore we observe you all-holy memory, and in Orthodox manner we cry out to you: Rejoice, O Peter, the rock of faith."
@@ -411,6 +412,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.ChitonaMoiParaschou.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.ChitonaMoiParaschou.text
 
 meMA.Kontakion2.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion2.greekmelody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.greekname
 meMA.Kontakion2.melody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion2.incipit = "O all-lauded Clement and Peter…"
 meMA.Kontakion2.text = "O all-lauded Clement and Peter, you are divine and unshakable towers of the Church, truly inspired and strong pillars of Orthodoxy. By your intercessions, you guard us all."
@@ -660,6 +662,7 @@ meMA.AposGlory.incipit = "Heavenly gates, receive * the…"
 meMA.AposGlory.text = "Heavenly gates, receive * the pure and virgin Mary, * the holy Theotokos. * From her came Christ the Savior, * redeemer of humanity."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

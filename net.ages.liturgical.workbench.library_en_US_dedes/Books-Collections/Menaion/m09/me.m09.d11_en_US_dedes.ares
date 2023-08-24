@@ -394,6 +394,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_dedes.heHE.ZaliMeLogismon.incipit
 meMA.Ode6H.text = he.h.m4_en_US_dedes.heHE.ZaliMeLogismon.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Kontakion1.greekmelody = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.greekname
 meMA.Kontakion1.melody = he.a.m1_en_US_dedes.heAU.ChorosAngelikos.name
 meMA.Kontakion1.incipit = "You mentally approached Christ the…"
 meMA.Kontakion1.text = "You mentally approached Christ the Sun of glory * and thus escaped the night of the passions, O wise one. * You mortified carnal movements through ascetical discipline. * For monastics you became a model of virtue, * and for those who fall in life, a guide to repentance. * And therefore we honor you."
@@ -604,6 +605,7 @@ meMA.AposGlory.incipit = "Adam's descendants, come, * let…"
 meMA.AposGlory.text = "Adam's descendants, come, * let us extol the Virgin, * all-immaculate Mary, * who coming forth David brought forth our Savior Jesus Christ."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -213,6 +213,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_dedes.heAU.OsAparchas.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.heAU.OsAparchas.notmetered
 meMA.Kontakion1.incipit = "O blessed father, when you…"
 meMA.Kontakion1.text = "O blessed father, when you went up to dwell on the pillar, you shined like a bright star; you you drove away the darkness of deceitful error and illumined the world by your holy deeds. And now we entreat you: Shine in the hearts of your servants the never-setting light of divine knowledge."
@@ -326,6 +327,7 @@ meMA.ExapTheotokion.incipit = "O all-immaculate Virgin, you gave…"
 meMA.ExapTheotokion.text = "O all-immaculate Virgin, you gave birth to God the Logos of God, who most wisely executed the most excellent plan for our salvation. That is why we all sing hymns worthily praising you, as you intercede with Him, to rescue us from diseases and perils of every kind."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

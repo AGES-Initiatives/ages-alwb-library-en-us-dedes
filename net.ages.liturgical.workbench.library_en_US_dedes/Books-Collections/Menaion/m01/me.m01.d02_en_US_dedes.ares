@@ -544,6 +544,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "To the flowing streams today…"
 meMA.Kontakion1.text = "To the flowing streams today * of River Jordan * comes the Lord and cries aloud * to John the Baptist, and He says, * \"Be not afraid to baptize me now; * for I have come to save Adam, the first-formed man.\""
@@ -551,6 +552,7 @@ meMA.Kontakion1.text = "To the flowing streams today * of River Jordan * comes t
 meMA.Oikos1.text = "I am not requiring you to cross the boundaries, O Baptist. I am not telling you, \"Say to me the things you tell the lawless and exhort the sinners.\" Simply baptize me in silence and anticipation of the blessings that from Baptism result, and whereby you will have the office that did not exist among the Angels. Indeed, I will make you greater than all the Prophets. None of them saw me clearly, but only in types and shadows and dreams; but you have me standing before you as I wish. For I have come to save Adam, the first-formed man."
 
 meMA.Kontakion2.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion2.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion2.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
 meMA.Kontakion2.incipit = "…"
 meMA.Kontakion2.text = ""
@@ -836,6 +838,7 @@ meMA.AposGlory.incipit = "O Baptist John, who recognized…"
 meMA.AposGlory.text = "O Baptist John, who recognized me as the Lamb when you were still in the womb: serve me now in the river, and with Angels minister. Reach out with your hand and touch my immaculate head. And when you see the mountains trembling and the Jordan turning back, cry out with them, \"O God incarnate of the Virgin for our salvation, glory to You, O Lord.\""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

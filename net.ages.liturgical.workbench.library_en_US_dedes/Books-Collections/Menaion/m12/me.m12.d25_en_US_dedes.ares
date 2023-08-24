@@ -508,6 +508,7 @@ meMA.Ode6C225.text = ""
 
 meMA.Kontakion1.poet = poets_en_US_dedes.po.RomanouTouMelodou
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.melody
 meMA.Kontakion1.incipit = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.incipit
 meMA.Kontakion1.text = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.text
@@ -785,6 +786,7 @@ meMA.LaudsBoth.text = "Today in Bethlehem, Christ is born of the Virgin. Today, 
 meLI.MM.EntranceHymn.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

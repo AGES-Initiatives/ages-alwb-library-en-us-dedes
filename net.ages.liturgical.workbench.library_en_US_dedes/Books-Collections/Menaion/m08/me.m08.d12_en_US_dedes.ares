@@ -236,6 +236,7 @@ meMA.Ode3H.incipit = he.h.m8_en_US_dedes.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_US_dedes.heHE.SyEiToStereoma.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.Kontakion1.greekmelody = he.a.m6_en_US_dedes.heAU.TinYperImon.greekname
 meMA.Kontakion1.melody = he.a.m6_en_US_dedes.heAU.TinYperImon.notmetered
 meMA.Kontakion1.incipit = "When the triple-shining light took…"
 meMA.Kontakion1.text = "When the triple-shining light took up residence in your soul, you became a chosen vessel, O all-blessed Saint. For you speak lucidly to all the world about things divine, and clarify the meaning of difficult concepts. O blessed Maximus, you openly declare to all, that the Trinity is super-essential and unoriginate."
@@ -430,6 +431,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.ChitonaMoiParaschou.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.ChitonaMoiParaschou.text
 
 meMA.Kontakion2.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion2.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion2.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.notmetered
 meMA.Kontakion2.incipit = "Come, all believers and fans…"
 meMA.Kontakion2.text = "Come, all believers and fans of Martyrs, let us extol those soldiers of God, that glorious duo of Christ. They were mighty heralds of the true Faith and genuine lovers of God. So let us crown them with hymns and songs."
@@ -659,6 +661,7 @@ meMA.AposGlory.text = "Merciful King of all, * exalt the horn of pious * kings a
 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

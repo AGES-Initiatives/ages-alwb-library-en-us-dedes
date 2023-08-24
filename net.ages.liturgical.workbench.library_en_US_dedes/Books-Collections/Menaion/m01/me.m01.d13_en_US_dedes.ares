@@ -423,6 +423,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode1
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "You departed from the mundane…"
 meMA.Kontakion1.text = "You departed from the mundane distractions, and you transferred to a tranquil state, being crowned for shedding martyric blood and for your ascetic labors. Therefore you now dwell with the holy Martyrs and Ascetics."
@@ -647,6 +648,7 @@ meMA.AposBoth.text = me.m01.d06_en_US_dedes.meVE.LityBoth.text
 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

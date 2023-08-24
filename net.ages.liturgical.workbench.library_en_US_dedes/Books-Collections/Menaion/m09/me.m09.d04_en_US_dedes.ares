@@ -422,6 +422,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_dedes.heAU.OsAparchas.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.heAU.OsAparchas.notmetered
 meMA.Kontakion1.incipit = "The Church is shining brilliantly…"
 meMA.Kontakion1.text = "The Church is shining brilliantly today as she glorifies you, the preacher of the true faith and the support of martyr athletes. Since you have confidence in prayer, we who extol you ask you to implore Christ, to preserve us in perfect peace, O glorious Martyr who suffered much."
@@ -610,6 +611,7 @@ meMA.ExapTheotokion.incipit = "O Virgin, strike down all…"
 meMA.ExapTheotokion.text = "O Virgin, strike down all those * who fail to salute your icon * and that of your Son and God as well * sincerely and with correct faith; * and also, since they are godless, * deliver them to Gehenna."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -251,6 +251,7 @@ meMA.Ode3C2T.incipit = "…"
 meMA.Ode3C2T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_dedes.heAU.IParthenosSimeron.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -468,6 +469,7 @@ meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion2.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Kontakion2.greekmelody = he.a.m8_en_US_dedes.heAU.TiYpermacho.greekname
 meMA.Kontakion2.melody = he.a.m8_en_US_dedes.heAU.TiYpermacho.name
 meMA.Kontakion2.incipit = "God in His knowing ways…"
 meMA.Kontakion2.text = "God in His knowing ways and judgments had selected you * to be well pleasing unto Him before He fashioned you. * From your mother's womb took you and sanctified you. * And He showed you forth to be His faithful servant, * and He guided every step of yours, O Luke, for He * loves humanity. * Now rejoicing you stand by Him."
@@ -726,6 +728,7 @@ meMA.AposGlory.text = me.m02.d05_en_US_dedes.meMA.AposGlory.text
 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

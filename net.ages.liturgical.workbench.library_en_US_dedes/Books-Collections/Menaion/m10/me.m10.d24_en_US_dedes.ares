@@ -270,6 +270,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.IlasthitiMoiSotir.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "On this day the luminous…"
 meMA.Kontakion1.text = "On this day the luminous and sacred feast day * of the medaled Athletes has become for us a cause of joy. * As we extol them we honor Christ * and glorify Him, for He is our God Most High."
@@ -395,6 +396,7 @@ meMA.ExapTheotokion.incipit = "Conceiving supernaturally * without a…"
 meMA.ExapTheotokion.text = "Conceiving supernaturally * without a husband, giving birth * to all creation's Creator, * you made our Forefather's nature, * which was corrupted, new again. * And hosts of Martyrs, strengthened by * your Son, contended, as they sang, * praising you, O Theotokos, * the first-fruit of our salvation."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

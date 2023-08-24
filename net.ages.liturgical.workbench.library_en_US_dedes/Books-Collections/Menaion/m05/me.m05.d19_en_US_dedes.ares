@@ -223,6 +223,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_dedes.heHE.AvyssosAmartion.incipit
 meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.AvyssosAmartion.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_dedes.heAU.OsAparchas.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.heAU.OsAparchas.notmetered
 meMA.Kontakion1.incipit = "O Patrick, the Church has…"
 meMA.Kontakion1.text = "O Patrick, the Church has received your body as a sacred treasure of Jesus. Now rejoicing, she cries out, \"Through you the entire world is preserved in profound peace, unharmed by any heresy, and invincible.\""
@@ -317,6 +318,7 @@ meMA.Ode9H.incipit = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.incipit
 meMA.Ode9H.text = he.h.m8_en_US_dedes.heHE.ExestiEpiTouto.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

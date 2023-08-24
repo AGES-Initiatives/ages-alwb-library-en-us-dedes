@@ -256,6 +256,7 @@ meMA.Ode6C1T.incipit = "From Anna * you, O…"
 meMA.Ode6C1T.text = "From Anna * you, O Mary, the Queen of the world, were born. * and you indeed are the Mother * of the King of all and remained a virgin * after childbirth. * Spotless Maid, you are higher than Cherubim."
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
 meMA.Kontakion1.incipit = "Today we observe the memory…"
 meMA.Kontakion1.text = "Today we observe the memory of Christ's forebears, * and also we pray that we might receive their aid, * so that all of us may be freed from tribulations, as we cry aloud, * \"Be with us, O Lord our God, * who glorified them as You were pleased to do.\""
@@ -373,6 +374,7 @@ meMA.LaudsGlory.text = meVE.Lity2.text
 meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

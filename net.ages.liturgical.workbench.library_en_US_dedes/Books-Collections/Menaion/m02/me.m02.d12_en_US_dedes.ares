@@ -250,6 +250,7 @@ meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_dedes.heAU.ToisTonAimatonSou.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.ToisTonAimatonSou.name
 meMA.Kontakion1.incipit = "Adorned with manners and faith…"
 meMA.Kontakion1.text = "Adorned with manners and faith that were Orthodox * you were the Church's defender, promoting her, * all-blessed father St. Meletios. * You shined the light of true dogmas throughout the world, * O bright luminary of the Church of Christ."
@@ -364,6 +365,7 @@ meMA.ExapTheotokion.incipit = "Lady, the hope of the…"
 meMA.ExapTheotokion.text = "Lady, the hope of the hopeless, * and the refuge for Christians all, * we pray you join the Apostles, * Prophets, and Martyrs to entreat * your Son and God for all people * who faithfully venerate you."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

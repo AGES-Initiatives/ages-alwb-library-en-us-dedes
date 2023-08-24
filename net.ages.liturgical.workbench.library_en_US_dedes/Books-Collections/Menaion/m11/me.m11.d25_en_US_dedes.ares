@@ -458,6 +458,7 @@ meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_dedes.heAU.TaAnoZiton.name
 meMA.Kontakion1.incipit = "O friends of the saints…"
 meMA.Kontakion1.text = "O friends of the saints and martyrs, now inspired by God * a chorus divine raise up to sing in honor of * the all-wise saint Catherine; for she proclaimed Christ in the stadium * and she trampled the serpent foe * and spat on the knowledge of the orators."
@@ -716,6 +717,7 @@ meMA.LaudsBoth.incipit = me.m11.d21_en_US_dedes.meMA.LaudsGlory.incipit
 meMA.LaudsBoth.text = me.m11.d21_en_US_dedes.meMA.LaudsGlory.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

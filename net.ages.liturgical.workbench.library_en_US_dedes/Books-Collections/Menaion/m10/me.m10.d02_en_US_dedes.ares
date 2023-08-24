@@ -245,6 +245,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_dedes.heAU.OsAparchas.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_dedes.heAU.OsAparchas.notmetered
 meMA.Kontakion1.incipit = "The whole world rightly honors…"
 meMA.Kontakion1.text = "The whole world rightly honors you, as an honorable hierarch and a steadfast martyr, O all-lauded Cyprian; and we sing hymns to glorify your holy memory, always praying that forgiveness of offenses be granted, through you, to us who sing: Alleluia."
@@ -371,6 +372,7 @@ meMA.AposStavrotheotokion.incipit = me.m03.d12_en_US_dedes.meVE.SticStavrotheoto
 meMA.AposStavrotheotokion.text = me.m03.d12_en_US_dedes.meVE.SticStavrotheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

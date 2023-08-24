@@ -217,6 +217,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_dedes.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode6
+meMA.Kontakion1.greekmelody = he.a.m6_en_US_dedes.heAU.TinEnPresveiais.greekname
 meMA.Kontakion1.melody = he.a.m6_en_US_dedes.heAU.TinEnPresveiais.name
 meMA.Kontakion1.incipit = "You were illustrious first in…"
 meMA.Kontakion1.text = "You were illustrious first in ascetic practice; * afterwards you shone brightly in martyric contests. * We all gloriously honor you with hymns, * O hieromartyr Lucian, * as a shining luminary. * Cease not interceding on behalf of us all."
@@ -324,6 +325,7 @@ meMA.ExapTheotokion.incipit = "You were the temple of…"
 meMA.ExapTheotokion.text = "You were the temple of the whole * Godhead, O all-pure Maiden, * for to One of the Trinity * ineffably you gave birth, * twofold in nature, but single * in His person, O Virgin. * Earnestly pray to Him for us, * that He save us who praise you from any harm * and temptations, O Lady Theotokos. * We salute you and sing, \"Rejoice!\" * You are the world's protection."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

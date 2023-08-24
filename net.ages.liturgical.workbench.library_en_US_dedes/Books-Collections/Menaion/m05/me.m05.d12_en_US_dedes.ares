@@ -363,6 +363,7 @@ meMA.Ode6H.incipit = he.h.m1_en_US_dedes.heHE.EkyklosenImas.incipit
 meMA.Ode6H.text = he.h.m1_en_US_dedes.heHE.EkyklosenImas.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 meMA.Kontakion1.incipit = "Come, O believers, let us…"
 meMA.Kontakion1.text = "Come, O believers, let us now do our duty * and sing the praises of that wonderful duo, our fathers Gemanos and Epiphanios. * These two holy firebrands burned the tongues of the godless, * by explaining for us all * the most wise divine doctrines. * Now we as Orthodox ever extol * the great mystery of true and correct belief."
@@ -557,6 +558,7 @@ meMA.AposGlory.incipit = "O father Germanus, you devoted…"
 meMA.AposGlory.text = "O father Germanus, you devoted yourself to the study of holy Scripture, and by its rays your mind was illumined. Thus filled with light, you became a pure vessel of the most sacred episcopacy. Then, you led the flock of Christ into life-giving pastures, with your wise teachings. With proofs from the Scriptures, you exposed the heresy of the iconoclasts. You became a defender of the Orthodox Faith, and you endured imprisonment and afflictions. Now, as you stand near Christ, intercede on behalf of our souls."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

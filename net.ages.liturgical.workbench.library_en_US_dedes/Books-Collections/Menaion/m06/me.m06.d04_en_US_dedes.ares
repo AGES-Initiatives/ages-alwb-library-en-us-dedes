@@ -445,6 +445,7 @@ meMA.Ode6H.incipit = he.h.m6_en_US_dedes.heHE.TouViouTinThalassan.incipit
 meMA.Ode6H.text = he.h.m6_en_US_dedes.heHE.TouViouTinThalassan.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 meMA.Kontakion1.incipit = "The holy Hierarch of Christ…"
 meMA.Kontakion1.text = "The holy Hierarch of Christ, Metrophanis, * the Church's shining lamp, endorsing the dogma * along with the God-bearing Fathers, openly declared * that the Logos is of one essence with God the Father. * He was the first bishop of the new ruling city. * Clearly he had prophetic grace from God. * And therefore let us extol him unison."
@@ -665,6 +666,7 @@ meMA.LaudsTheotokion.incipit = oc.m8.d2_en_US_dedes.ocMA.AposTheotokion.incipit
 meMA.LaudsTheotokion.text = oc.m8.d2_en_US_dedes.ocMA.AposTheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
