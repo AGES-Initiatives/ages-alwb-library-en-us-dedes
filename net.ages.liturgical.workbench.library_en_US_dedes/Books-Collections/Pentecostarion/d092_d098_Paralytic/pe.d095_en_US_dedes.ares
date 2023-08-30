@@ -466,6 +466,7 @@ peMA.Ode6C2T.incipit = "…"
 peMA.Ode6C2T.text = ""
 
 peMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode4
+peMA.Kontakion1.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
 peMA.Kontakion1.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 peMA.Kontakion1.incipit = "The feast according to the…"
 peMA.Kontakion1.text = "The feast according to the Law at its midpoint, O Christ our God, as the Creator and Master of everything, You said to all those who were present there, \"Come that you might draw from Me the water of immortality.\" Hence with faith we cry to You as we prostrate before You. Your tender mercies grant to us, we pray. You are the fountain and source of our life, O Lord."
@@ -793,6 +794,7 @@ peMA.LaudsGlory.incipit = "We were illumined, O brethren…"
 peMA.LaudsGlory.text = "We were illumined, O brethren, by the Resurrection of Christ the Savior. And now we have reached the middle of the feast of the Lord. Let us sincerely keep the commandments of God, so that we may become worthy to celebrate the Ascension as well, and witness the coming of the Holy Spirit."
 
 peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.greekmelody = peMA.Kontakion1.greekmelody
 peLI.Kontakion1.melody = peMA.Kontakion1.melody
 peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
 peLI.Kontakion1.text = peMA.Kontakion1.text
