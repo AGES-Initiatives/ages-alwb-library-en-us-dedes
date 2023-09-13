@@ -17,7 +17,6 @@ trVE.header = "Removal from the Cross on Friday Afternoon"
 trEM.header = "The Graveside Lamentation on Friday Evening" //for pdf evening Matins
 trDA.dismissal = dismissals_en_US_dedes.dis00.holyfriday
 
-trHW.LIHC.text = properties_en_US_dedes.media.key
 
 trVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode1
 trVE.Stichera01.melody = miscellanea_en_US_dedes.misc.Idiomelon
@@ -95,33 +94,26 @@ trVE.Apolytikion3.melody = ""
 trVE.Apolytikion3.incipit = "The Angel standing at the…"
 trVE.Apolytikion3.text = "The Angel standing at the sepulcher cried out and said to the ointment-bearing women: The ointments are appropriate for mortal men, but Christ has been shown to be a stranger to decay."
 
-trHW.GITL.text = properties_en_US_dedes.media.key
 
-trHW.Encomia.title = "The Lamentations."
+trMA.Encomia.title = "The Lamentations."
 
-trHW.Encomia100.title = "First Stanza."
-trHW.Encomia100.mode = miscellanea_en_US_dedes.misc.Mode5
+trMA.Encomia100.title = "First Stanza."
+trMA.Encomia100.mode = miscellanea_en_US_dedes.misc.Mode5
 
-trHW.Encomia200.title = "Second Stanza."
-trHW.Encomia200.mode = miscellanea_en_US_dedes.misc.Mode5
+trMA.Encomia200.title = "Second Stanza."
+trMA.Encomia200.mode = miscellanea_en_US_dedes.misc.Mode5
 
-trHW.Encomia300.title = "Third Stanza."
-trHW.Encomia300.mode = miscellanea_en_US_dedes.misc.Mode3
+trMA.Encomia300.title = "Third Stanza."
+trMA.Encomia300.mode = miscellanea_en_US_dedes.misc.Mode3
 
 // Resurrectional Evlogetaria keys for media
-trHW.Evlogetaria1.incipit = ho.ho03_en_US_dedes.hoMA.ResEvlog1.incipit
-trHW.Evlogetaria1.text = ho.ho03_en_US_dedes.hoMA.ResEvlog1.text
-trHW.Evlogetaria2.incipit = ho.ho03_en_US_dedes.hoMA.ResEvlog2.incipit
-trHW.Evlogetaria2.text = ho.ho03_en_US_dedes.hoMA.ResEvlog2.text
-trHW.Evlogetaria3.incipit = ho.ho03_en_US_dedes.hoMA.ResEvlog3.incipit
-trHW.Evlogetaria3.text = ho.ho03_en_US_dedes.hoMA.ResEvlog3.text
-trHW.Evlogetaria4.incipit = ho.ho03_en_US_dedes.hoMA.ResEvlog4.incipit
-trHW.Evlogetaria4.text = ho.ho03_en_US_dedes.hoMA.ResEvlog4.text
-trHW.Evlogetaria5.incipit = ho.ho03_en_US_dedes.hoMA.ResEvlog5.incipit
-trHW.Evlogetaria5.text = ho.ho03_en_US_dedes.hoMA.ResEvlog5.text
-trHW.Evlogetaria6.incipit = ho.ho03_en_US_dedes.hoMA.ResEvlog6.incipit
-trHW.Evlogetaria6.text = ho.ho03_en_US_dedes.hoMA.ResEvlog6.text
-trHW.Evlogetaria7.text = ho.ho03_en_US_dedes.hoMA.ResEvlog7.text
+trMA.MM.Evlogetaria1.text = properties_en_US_dedes.media.key
+trMA.MM.Evlogetaria2.text = properties_en_US_dedes.media.key
+trMA.MM.Evlogetaria3.text = properties_en_US_dedes.media.key
+trMA.MM.Evlogetaria4.text = properties_en_US_dedes.media.key
+trMA.MM.Evlogetaria5.text = properties_en_US_dedes.media.key
+trMA.MM.Evlogetaria6.text = properties_en_US_dedes.media.key
+trMA.MM.Evlogetaria7.text = properties_en_US_dedes.media.key
 
 trMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode1
 trMA.Kathisma11.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
@@ -441,7 +433,6 @@ trMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
 trMA.Exaposteilarion1.melody = ""
 trMA.Exaposteilarion1.text = ho.ho03_en_US_dedes.hoMA.SunExapVerse1.text
 
-trHW.Lauds01.text = properties_en_US_dedes.media.key
 
 trMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode2
 trMA.Lauds1.melody = miscellanea_en_US_dedes.misc.Idiomelon

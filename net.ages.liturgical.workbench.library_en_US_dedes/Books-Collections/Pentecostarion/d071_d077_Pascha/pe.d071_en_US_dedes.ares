@@ -14,6 +14,251 @@ peHO.note1 = ""
 peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_dedes.dis00.resurrection
 
+peMO.Troparion1.mode = miscellanea_en_US_dedes.misc.Mode5
+peMO.Troparion1.incipit = "Come receive the light, from…"
+peMO.Troparion1.text = "Come receive the light, from the never-setting light; and glorify Christ who has risen from the dead."
+
+peMO.Troparion2.mode = miscellanea_en_US_dedes.misc.Mode6
+peMO.Troparion2.incipit = "Angels in the heavens extol…"
+peMO.Troparion2.text = "Angels in the heavens extol Your Resurrection, O Christ our Savior. Count us worthy who are here on earth to glorify You with a pure heart."
+
+peMA.Troparion.mode = miscellanea_en_US_dedes.misc.Mode5
+peMA.Troparion.incipit = "Christ is risen from the…"
+peMA.Troparion.text = "Christ is risen from the dead, by death trampling down upon death, and to those in the tombs He has granted life."
+peMA.Troparion1a.incipit = "Christ is risen from the…"
+peMA.Troparion1a.text = "Christ is risen from the dead, by death trampling down upon death, and to those in the tombs…"
+peMA.Troparion1b.text = "…He has granted life."
+peMA.Troparion2a.incipit = "Christ is risen from the…"
+peMA.Troparion2a.text = "Christ is risen from the dead, by death trampling down upon death…"
+peMA.Troparion2b.incipit = "…and to those in the…"
+peMA.Troparion2b.text = "…and to those in the tombs He has granted life."
+peMA.TroparionShort.incipit = "Christ is risen from the…"
+peMA.TroparionShort.text = "Christ is risen from the dead, by death trampling down upon death, and to those in the tombs He has granted life." //for media
+
+peMA.C1.poet = poets_en_US_dedes.po.IoannouTouDamaskinou
+peMA.MM.Canon1.text = "Canon of Pascha" //for media of entire canon
+peMA.C1.title = titles_en_US_dedes.ti.CanonPascha
+peMA.C1.verse = prayers_en_US_dedes.pr.verse_Resurrection.text
+
+peMA.C2.acrostic.title = ""
+peMA.C2.acrostic.notice1 = ""
+peMA.C2.acrostic.text = ""
+peMA.C2.acrostic.notice2 = ""
+peMA.C2.poet = ""
+peMA.C2.title = ""
+
+peMA.Ode1C1H.ode = miscellanea_en_US_dedes.misc.Ode1
+peMA.Ode1C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode1C1H.greekmelody = he.h.m1_en_US_dedes.heHE.AnastaseosImera.greekname
+peMA.Ode1C1H.melody = he.h.m1_en_US_dedes.heHE.AnastaseosImera.melody
+peMA.Ode1C1H.incipit = he.h.m1_en_US_dedes.heHE.AnastaseosImera.incipit
+peMA.Ode1C1H.text = he.h.m1_en_US_dedes.heHE.AnastaseosImera.text
+
+peMA.Ode1C11.ode = miscellanea_en_US_dedes.misc.Ode1
+peMA.Ode1C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode1C11.melody = he.h.m1_en_US_dedes.heHE.AnastaseosImera.name
+peMA.Ode1C11.incipit = "Let us purify our senses…"
+peMA.Ode1C11.text = "Let us purify our senses and then we shall see * by the unapproachable light of the Resurrection * Christ shining vividly, and we shall distinctly hear Him saying, Rejoice, to us * as we sing the triumphal hymn."
+
+peMA.Ode1C12.ode = miscellanea_en_US_dedes.misc.Ode1
+peMA.Ode1C12.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode1C12.melody = he.h.m1_en_US_dedes.heHE.AnastaseosImera.name
+peMA.Ode1C12.incipit = "Let the heavens, as is…"
+peMA.Ode1C12.text = "Let the heavens, as is fitting, now be jubilant; * let the earth be exultant. * Let the entire cosmos, visible and invisible now celebrate the feast.* For Christ, our eternal joy, * has indeed from the dead been raised."
+
+peMA.Ode1C21.ode = miscellanea_en_US_dedes.misc.Ode1
+peMA.Ode1C21.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode1C21.greekmelody = he.h.m1_en_US_dedes.heHE.AnastaseosImera.greekname
+peMA.Ode1C21.melody = he.h.m1_en_US_dedes.heHE.AnastaseosImera.name
+peMA.Ode1C21.incipit = "…"
+peMA.Ode1C21.text = ""
+
+peMA.Ode1C22.ode = miscellanea_en_US_dedes.misc.Ode1
+peMA.Ode1C22.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode1C22.melody = he.h.m1_en_US_dedes.heHE.AnastaseosImera.name
+peMA.Ode1C22.incipit = "…"
+peMA.Ode1C22.text = ""
+
+peMA.Ode1K.ode = miscellanea_en_US_dedes.misc.Ode1
+peMA.Ode1K.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode1K.greekmelody = he.h.m1_en_US_dedes.heHE.AnastaseosImera.greekname
+peMA.Ode1K.melody = he.h.m1_en_US_dedes.heHE.AnastaseosImera.melody
+peMA.Ode1K.incipit = he.h.m1_en_US_dedes.heHE.AnastaseosImera.incipit
+peMA.Ode1K.text = he.h.m1_en_US_dedes.heHE.AnastaseosImera.text
+
+peMA.Ode3C1H.ode = miscellanea_en_US_dedes.misc.Ode3
+peMA.Ode3C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode3C1H.greekmelody = he.h.m1_en_US_dedes.heHE.DeftePomaPiomen.greekname
+peMA.Ode3C1H.melody = he.h.m1_en_US_dedes.heHE.DeftePomaPiomen.melody
+peMA.Ode3C1H.incipit = he.h.m1_en_US_dedes.heHE.DeftePomaPiomen.incipit
+peMA.Ode3C1H.text = he.h.m1_en_US_dedes.heHE.DeftePomaPiomen.text
+
+peMA.Ode3C11.ode = miscellanea_en_US_dedes.misc.Ode3
+peMA.Ode3C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode3C11.melody = he.h.m1_en_US_dedes.heHE.DeftePomaPiomen.name
+peMA.Ode3C11.incipit = "Now everything, heaven and the…"
+peMA.Ode3C11.text = "Now everything, heaven and the earth * and the nethermost regions, have all been filled with light. * Let the entire creation, therefore, celebrate the rising of Christ. * For it is established in Him."
+
+peMA.Ode3C12.ode = miscellanea_en_US_dedes.misc.Ode3
+peMA.Ode3C12.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode3C12.melody = he.h.m1_en_US_dedes.heHE.DeftePomaPiomen.name
+peMA.Ode3C12.incipit = "Buried with You yesterday, O…"
+peMA.Ode3C12.text = "Buried with You yesterday, O Christ, * with You now resurrected, I also rise today. * Yesterday I was with You crucified. O Savior, with Yourself glorify me in Your rule."
+
+peMA.Ode3C21.ode = miscellanea_en_US_dedes.misc.Ode3
+peMA.Ode3C21.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode3C21.greekmelody = he.h.m1_en_US_dedes.heHE.DeftePomaPiomen.greekname
+peMA.Ode3C21.melody = he.h.m1_en_US_dedes.heHE.DeftePomaPiomen.name
+peMA.Ode3C21.incipit = "…"
+peMA.Ode3C21.text = ""
+
+peMA.Ode3C22.ode = miscellanea_en_US_dedes.misc.Ode3
+peMA.Ode3C22.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode3C22.melody = he.h.m1_en_US_dedes.heHE.DeftePomaPiomen.name
+peMA.Ode3C22.incipit = "…"
+peMA.Ode3C22.text = ""
+
+peMA.Ode3K.ode = miscellanea_en_US_dedes.misc.Ode3
+peMA.Ode3K.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode3K.greekmelody = he.h.m1_en_US_dedes.heHE.DeftePomaPiomen.greekname
+peMA.Ode3K.melody = he.h.m1_en_US_dedes.heHE.DeftePomaPiomen.melody
+peMA.Ode3K.incipit = he.h.m1_en_US_dedes.heHE.DeftePomaPiomen.incipit
+peMA.Ode3K.text = he.h.m1_en_US_dedes.heHE.DeftePomaPiomen.text
+
+peMA.Hypakoe.mode = miscellanea_en_US_dedes.misc.Mode4
+peMA.Hypakoe.incipit = "When the women with Mary…"
+peMA.Hypakoe.text = "When the women with Mary had come before dawn, and they found that the stone had been rolled away from the sepulcher, they heard from the Angel, \"Why do you seek among the dead, as a mortal man, the One who exists in everlasting light? See the grave clothes in the sepulcher. Run and proclaim to the world that the Lord has risen and put death to death; for He is the Son of God who saves the human race.\""
+
+peMA.Ode4C1H.ode = miscellanea_en_US_dedes.misc.Ode4
+peMA.Ode4C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode4C1H.greekmelody = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.greekname
+peMA.Ode4C1H.melody = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.melody
+peMA.Ode4C1H.incipit = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.incipit
+peMA.Ode4C1H.text = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.text
+
+peMA.Ode4C11.ode = miscellanea_en_US_dedes.misc.Ode4
+peMA.Ode4C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode4C11.melody = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.name
+peMA.Ode4C11.incipit = "Christ, our veritable Pascha, is…"
+peMA.Ode4C11.text = "Christ, our veritable Pascha, is the fulfillment of the Law; therefore He appeared as a male having opened the virgin womb; He has been called a Lamb as being edible; unblemished, as without stain; and He is said to be perfect, being very God."
+
+peMA.Ode4C12.ode = miscellanea_en_US_dedes.misc.Ode4
+peMA.Ode4C12.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode4C12.melody = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.name
+peMA.Ode4C12.incipit = "The Savior Christ, the crown…"
+peMA.Ode4C12.text = "The Savior Christ, the crown of goodness who is ever blest by us, willingly was sacrificed for all as a year old paschal lamb, our Passover that cleanses us. And from the sepulcher now the handsome Sun of Righteousness for us has shone again."
+
+peMA.Ode4C13.ode = miscellanea_en_US_dedes.misc.Ode4
+peMA.Ode4C13.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode4C13.melody = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.name
+peMA.Ode4C13.incipit = "Before the Ark, which was…"
+peMA.Ode4C13.text = "Before the Ark, which was a shadow of old, the forebear of God David leapt and danced. As we see the types fulfilled, correspondingly let us also, as God's holy people, rejoice in godly manner, because arisen is Christ, being omnipotent."
+
+peMA.Ode4C21.ode = miscellanea_en_US_dedes.misc.Ode4
+peMA.Ode4C21.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode4C21.greekmelody = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.greekname
+peMA.Ode4C21.melody = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.name
+peMA.Ode4C21.incipit = "…"
+peMA.Ode4C21.text = ""
+
+peMA.Ode4C22.ode = miscellanea_en_US_dedes.misc.Ode4
+peMA.Ode4C22.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode4C22.melody = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.name
+peMA.Ode4C22.incipit = "…"
+peMA.Ode4C22.text = ""
+
+peMA.Ode4K.ode = miscellanea_en_US_dedes.misc.Ode4
+peMA.Ode4K.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode4K.greekmelody = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.greekname
+peMA.Ode4K.melody = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.melody
+peMA.Ode4K.incipit = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.incipit
+peMA.Ode4K.text = he.h.m1_en_US_dedes.heHE.EpiTisTheiasFylakis.text
+
+peMA.Ode5C1H.ode = miscellanea_en_US_dedes.misc.Ode5
+peMA.Ode5C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode5C1H.greekmelody = he.h.m1_en_US_dedes.heHE.OrthrisomenOrthrouVatheos.greekname
+peMA.Ode5C1H.melody = he.h.m1_en_US_dedes.heHE.OrthrisomenOrthrouVatheos.melody
+peMA.Ode5C1H.incipit = he.h.m1_en_US_dedes.heHE.OrthrisomenOrthrouVatheos.incipit
+peMA.Ode5C1H.text = he.h.m1_en_US_dedes.heHE.OrthrisomenOrthrouVatheos.text
+
+peMA.Ode5C11.ode = miscellanea_en_US_dedes.misc.Ode5
+peMA.Ode5C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode5C11.melody = he.h.m1_en_US_dedes.heHE.OrthrisomenOrthrouVatheos.name
+peMA.Ode5C11.incipit = "Beholding Your measureless compassion, the…"
+peMA.Ode5C11.text = "Beholding Your measureless compassion, the souls below that were held by the shackles and bonds of Hades pressing forward hastened to the light with feet exultant, O Christ, applauding the Pascha that never ends."
+
+peMA.Ode5C12.ode = miscellanea_en_US_dedes.misc.Ode5
+peMA.Ode5C12.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode5C12.melody = he.h.m1_en_US_dedes.heHE.OrthrisomenOrthrouVatheos.name
+peMA.Ode5C12.incipit = "With candles and lamps let…"
+peMA.Ode5C12.text = "With candles and lamps let us go out to be with Christ who emerged from the sepulcher like the Bridegroom; and with festive ranks of Angels let us also celebrate God's holy Pascha that saves us all."
+
+peMA.Ode5C21.ode = miscellanea_en_US_dedes.misc.Ode5
+peMA.Ode5C21.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode5C21.greekmelody = he.h.m1_en_US_dedes.heHE.OrthrisomenOrthrouVatheos.greekname
+peMA.Ode5C21.melody = he.h.m1_en_US_dedes.heHE.OrthrisomenOrthrouVatheos.name
+peMA.Ode5C21.incipit = "…"
+peMA.Ode5C21.text = ""
+
+peMA.Ode5C22.ode = miscellanea_en_US_dedes.misc.Ode5
+peMA.Ode5C22.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode5C22.melody = he.h.m1_en_US_dedes.heHE.OrthrisomenOrthrouVatheos.name
+peMA.Ode5C22.incipit = "…"
+peMA.Ode5C22.text = ""
+
+peMA.Ode5K.ode = miscellanea_en_US_dedes.misc.Ode5
+peMA.Ode5K.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode5K.greekmelody = he.h.m1_en_US_dedes.heHE.OrthrisomenOrthrouVatheos.greekname
+peMA.Ode5K.melody = he.h.m1_en_US_dedes.heHE.OrthrisomenOrthrouVatheos.melody
+peMA.Ode5K.incipit = he.h.m1_en_US_dedes.heHE.OrthrisomenOrthrouVatheos.incipit
+peMA.Ode5K.text = he.h.m1_en_US_dedes.heHE.OrthrisomenOrthrouVatheos.text
+
+peMA.Ode6C1H.ode = miscellanea_en_US_dedes.misc.Ode6
+peMA.Ode6C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode6C1H.greekmelody = he.h.m1_en_US_dedes.heHE.KatilthesEnToisKatotatois.greekname
+peMA.Ode6C1H.melody = he.h.m1_en_US_dedes.heHE.KatilthesEnToisKatotatois.melody
+peMA.Ode6C1H.incipit = he.h.m1_en_US_dedes.heHE.KatilthesEnToisKatotatois.incipit
+peMA.Ode6C1H.text = he.h.m1_en_US_dedes.heHE.KatilthesEnToisKatotatois.text
+
+peMA.Ode6C11.ode = miscellanea_en_US_dedes.misc.Ode6
+peMA.Ode6C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode6C11.melody = he.h.m1_en_US_dedes.heHE.KatilthesEnToisKatotatois.name
+peMA.Ode6C11.incipit = "Preserving unbroken the seals of…"
+peMA.Ode6C11.text = "Preserving unbroken the seals of the tomb, You, O Christ, resurrected, as at birth You did not disrupt Your Mother's virginal barriers. But the pearly gates of Paradise for us You have opened."
+
+peMA.Ode6C12.ode = miscellanea_en_US_dedes.misc.Ode6
+peMA.Ode6C12.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode6C12.melody = he.h.m1_en_US_dedes.heHE.KatilthesEnToisKatotatois.name
+peMA.Ode6C12.incipit = "My Savior, the live and…"
+peMA.Ode6C12.text = "My Savior, the live and unslain sacrificial victim, as a man You did offer Yourself to the Father of Your own will; when as God You rose from the tomb, with Yourself, You raised the whole race of Adam."
+
+peMA.Ode6C21.ode = miscellanea_en_US_dedes.misc.Ode6
+peMA.Ode6C21.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode6C21.greekmelody = he.h.m1_en_US_dedes.heHE.KatilthesEnToisKatotatois.greekname
+peMA.Ode6C21.melody = he.h.m1_en_US_dedes.heHE.KatilthesEnToisKatotatois.name
+peMA.Ode6C21.incipit = "…"
+peMA.Ode6C21.text = ""
+
+peMA.Ode6C22.ode = miscellanea_en_US_dedes.misc.Ode6
+peMA.Ode6C22.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode6C22.melody = he.h.m1_en_US_dedes.heHE.KatilthesEnToisKatotatois.name
+peMA.Ode6C22.incipit = "…"
+peMA.Ode6C22.text = ""
+
+peMA.Ode6K.ode = miscellanea_en_US_dedes.misc.Ode6
+peMA.Ode6K.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode6K.greekmelody = he.h.m1_en_US_dedes.heHE.KatilthesEnToisKatotatois.greekname
+peMA.Ode6K.melody = he.h.m1_en_US_dedes.heHE.KatilthesEnToisKatotatois.melody
+peMA.Ode6K.incipit = he.h.m1_en_US_dedes.heHE.KatilthesEnToisKatotatois.incipit
+peMA.Ode6K.text = he.h.m1_en_US_dedes.heHE.KatilthesEnToisKatotatois.text
+
+peMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode8
+peMA.Kontakion1.melody = ""
+peMA.Kontakion1.incipit = "Though You went down into…"
+peMA.Kontakion1.text = "Though You went down into the tomb, O Immortal One, yet You brought down the dominion of Hades; and You rose as the victor, O Christ our God; and You called out \"Rejoice\" to the Myrrh-bearing women, and gave peace to Your Apostles, O Lord who to the fallen grant resurrection."
+
+peMA.Oikos1.text = "The women bringing ointments came in haste at deep dawn, seeking as day the Sun who was before the sun and yet had set in a sepulcher. They cried to one another, \"O friends, come let us anoint with spices the life-bearing yet buried Body, the flesh that raises fallen Adam, lying as it is in the grave. Let us go, let us hurry like the Magi, and adore Him, and offer the ointments, as if gifts, to Him who is wrapped, not in swaddling but grave clothes. And let us weep and cry out, 'Arise, O Master, who to the fallen grant resurrection.'"
+
 peSY.commemoration.text = "On the holy and great Sunday of Pascha we celebrate the very life-bearing Resurrection of our Lord and God and Savior Jesus Christ."
 peSY.commemoration.couplet1.title = titles_en_US_dedes.ti.Verses
 peSY.commemoration.couplet1.verse1 = "Christ went down alone to battle Hades,"
@@ -26,6 +271,183 @@ peSY.commemoration.narration.p05 = "[paragraph 05]"
 peSY.commemoration.narration.p06 = "[paragraph 06]"
 peSY.commemoration.narration.p07 = "[paragraph 07]"
 peSY.lastline = "To Him be the glory and the dominion to the ages of ages. Amen."
+
+peMA.Ode7C1H.ode = miscellanea_en_US_dedes.misc.Ode7
+peMA.Ode7C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode7C1H.greekmelody = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.greekname
+peMA.Ode7C1H.melody = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.melody
+peMA.Ode7C1H.incipit = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.incipit
+peMA.Ode7C1H.text = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.text
+
+peMA.Ode7C11.ode = miscellanea_en_US_dedes.misc.Ode7
+peMA.Ode7C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode7C11.melody = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.name
+peMA.Ode7C11.incipit = "The ointment-bearing women of Godly…"
+peMA.Ode7C11.text = "The ointment-bearing women of Godly mind ran after You earnestly. Shedding tears, they sought for You as though You were mortal, then rejoicing they worshipped You the living God, O Christ, then they ran to Your disciples, announcing the mystic Passover."
+
+peMA.Ode7C12.ode = miscellanea_en_US_dedes.misc.Ode7
+peMA.Ode7C12.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode7C12.melody = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.name
+peMA.Ode7C12.incipit = "We celebrate that death has…"
+peMA.Ode7C12.text = "We celebrate that death has been put to death, Hades has been overthrown, and another, everlasting life has begun. And exulting we praise and extol the Cause, exalting the only God of the fathers, blessed and supremely glorious."
+
+peMA.Ode7C13.ode = miscellanea_en_US_dedes.misc.Ode7
+peMA.Ode7C13.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode7C13.melody = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.name
+peMA.Ode7C13.incipit = "This saving and most radiant…"
+peMA.Ode7C13.text = "This saving and most radiant night has been oh so sacred and indeed festive all around; it is the prelude and herald of resplendently bright Resurrection Day, on which the timeless Light on all has bodily shone forth out of the sepulcher."
+
+peMA.Ode7C21.ode = miscellanea_en_US_dedes.misc.Ode7
+peMA.Ode7C21.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode7C21.greekmelody = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.greekname
+peMA.Ode7C21.melody = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.name
+peMA.Ode7C21.incipit = "…"
+peMA.Ode7C21.text = ""
+
+peMA.Ode7C22.ode = miscellanea_en_US_dedes.misc.Ode7
+peMA.Ode7C22.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode7C22.melody = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.name
+peMA.Ode7C22.incipit = "…"
+peMA.Ode7C22.text = ""
+
+peMA.Ode7K.ode = miscellanea_en_US_dedes.misc.Ode7
+peMA.Ode7K.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode7K.greekmelody = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.greekname
+peMA.Ode7K.melody = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.melody
+peMA.Ode7K.incipit = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.incipit
+peMA.Ode7K.text = he.h.m1_en_US_dedes.heHE.OPaidasEkKaminou.text
+
+peMA.Ode8C1H.ode = miscellanea_en_US_dedes.misc.Ode8
+peMA.Ode8C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode8C1H.greekmelody = he.h.m1_en_US_dedes.heHE.AftiIKliti.greekname
+peMA.Ode8C1H.melody = he.h.m1_en_US_dedes.heHE.AftiIKliti.melody
+peMA.Ode8C1H.incipit = he.h.m1_en_US_dedes.heHE.AftiIKliti.incipit
+peMA.Ode8C1H.text = he.h.m1_en_US_dedes.heHE.AftiIKliti.text
+
+peMA.Ode8C11.ode = miscellanea_en_US_dedes.misc.Ode8
+peMA.Ode8C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode8C11.melody = he.h.m1_en_US_dedes.heHE.AftiIKliti.name
+peMA.Ode8C11.incipit = "Come on this illustrious day…"
+peMA.Ode8C11.text = "Come on this illustrious day of Resurrection and day of Christ's Kingdom, let us receive the communion of the joy divine from the new fruit of the vine, for eternal life, and highly extol Him as God unto the ages."
+
+peMA.Ode8C12.ode = miscellanea_en_US_dedes.misc.Ode8
+peMA.Ode8C12.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode8C12.melody = he.h.m1_en_US_dedes.heHE.AftiIKliti.name
+peMA.Ode8C12.incipit = "Lift up your eyes round…"
+peMA.Ode8C12.text = "Lift up your eyes round about You and see, O Zion. Behold, like beacons shining with light divine have your children come to you from the West, from the North and from seaward and from the East. In you they extol Christ and bless Him to the ages."
+
+peMA.Ode8C13.ode = miscellanea_en_US_dedes.misc.Ode8
+peMA.Ode8C13.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode8C13.melody = he.h.m1_en_US_dedes.heHE.AftiIKliti.name
+peMA.Ode8C13.incipit = "Father, ruler over all, and…"
+peMA.Ode8C13.text = "Father, ruler over all, and Logos and Spirit, O Nature divine, in three Hypostases united, transcending essence and divinity, in You have we been baptized; we praise and bless and worship You, unto all the ages."
+
+peMA.Ode8C21.ode = miscellanea_en_US_dedes.misc.Ode8
+peMA.Ode8C21.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode8C21.greekmelody = he.h.m1_en_US_dedes.heHE.AftiIKliti.greekname
+peMA.Ode8C21.melody = he.h.m1_en_US_dedes.heHE.AftiIKliti.name
+peMA.Ode8C21.incipit = "…"
+peMA.Ode8C21.text = ""
+
+peMA.Ode8C22.ode = miscellanea_en_US_dedes.misc.Ode8
+peMA.Ode8C22.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode8C22.melody = he.h.m1_en_US_dedes.heHE.AftiIKliti.name
+peMA.Ode8C22.incipit = "…"
+peMA.Ode8C22.text = ""
+
+peMA.Ode8K.ode = miscellanea_en_US_dedes.misc.Ode8
+peMA.Ode8K.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode8K.greekmelody = he.h.m1_en_US_dedes.heHE.AftiIKliti.greekname
+peMA.Ode8K.melody = he.h.m1_en_US_dedes.heHE.AftiIKliti.melody
+peMA.Ode8K.incipit = he.h.m1_en_US_dedes.heHE.AftiIKliti.incipit
+peMA.Ode8K.text = he.h.m1_en_US_dedes.heHE.AftiIKliti.text
+
+peMA.Ode9C1M01.incipit = "…"
+peMA.Ode9C1M01.text = "O my soul, magnify Him who willingly suffered, was buried, and arose from the grave on the third day."
+
+peMA.Ode9C1M02.incipit = "…"
+peMA.Ode9C1M02.text = "O my soul, magnify Christ who is the Giver of life, and who rose from the grave on the third day."
+
+peMA.Ode9C1M03.incipit = "…"
+peMA.Ode9C1M03.text = "Christ is the new Pascha, the sacrificial Victim, the Lamb of God that takes away the sin of the world."
+
+peMA.Ode9C1M04.incipit = "…"
+peMA.Ode9C1M04.text = "Today creation all is exultant and rejoices, for Christ has arisen, and Hades was despoiled."
+
+peMA.Ode9C1M05.incipit = "…"
+peMA.Ode9C1M05.text = "An Angel, bright and dazzling, appeared to the women; he said, \"Now stop your weeping, for Christ the Lord has risen."
+
+peMA.Ode9C1M06.incipit = "…"
+peMA.Ode9C1M06.text = "To the tomb of Christ, Mary Magdalene went running, and seeing Him she asked Him, as though he were the gardener."
+
+peMA.Ode9C1M07.incipit = "…"
+peMA.Ode9C1M07.text = "You slept and then you wakened the dead of all the ages, for like a king you roared, as the Lion born of Judah."
+
+peMA.Ode9C1M08.incipit = "…"
+peMA.Ode9C1M08.text = "O people, leap with great joy, for Christ the Lord has risen; by death He trampled death, and the dead He resurrected."
+
+peMA.Ode9C1M09.incipit = "…"
+peMA.Ode9C1M09.text = "Hades today was plundered by Christ the Lord and Savior, who raised all its prisoners, whom it had held in awful captivity forever."
+
+peMA.Ode9C1MTr.incipit = me.m01.d06_en_US_dedes.meMA.Ode9C2MTr.incipit
+peMA.Ode9C1MTr.text = me.m01.d06_en_US_dedes.meMA.Ode9C2MTr.text
+
+peMA.Ode9C1MTh.incipit = "…"
+peMA.Ode9C1MTh.text = "Rejoice, blessed Virgin; rejoice, O glorified one. Rejoice, your Son has risen from the grave on the third day."
+
+peMA.Ode9C1MKa.incipit = "The Angel cried aloud…"
+peMA.Ode9C1MKa.text = "The Angel cried aloud to the Lady full of grace: Rejoice, O pure Virgin; and again I say Rejoice. Your Son has truly risen from the grave on the third day."
+
+peMA.Ode9C1H.ode = miscellanea_en_US_dedes.misc.Ode9
+peMA.Ode9C1H.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode9C1H.greekmelody = he.h.m1_en_US_dedes.heHE.FotizouFotizou.greekname
+peMA.Ode9C1H.melody = he.h.m1_en_US_dedes.heHE.FotizouFotizou.melody
+peMA.Ode9C1H.incipit = he.h.m1_en_US_dedes.heHE.FotizouFotizou.incipit
+peMA.Ode9C1H.text = he.h.m1_en_US_dedes.heHE.FotizouFotizou.text
+
+peMA.Ode9C11.ode = miscellanea_en_US_dedes.misc.Ode9
+peMA.Ode9C11.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode9C11.melody = he.h.m1_en_US_dedes.heHE.FotizouFotizou.name
+peMA.Ode9C11.incipit = "Divine and beloved and sweetest…"
+peMA.Ode9C11.text = "Divine and beloved and sweetest utterance of Yours! * For You really and truly pledged that You will be with us * unto the end of the age, O Christ. * And we the faithful, clinging to Your promise, * our anchor of hope, rejoice."
+
+peMA.Ode9C12.ode = miscellanea_en_US_dedes.misc.Ode9
+peMA.Ode9C12.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode9C12.melody = he.h.m1_en_US_dedes.heHE.FotizouFotizou.name
+peMA.Ode9C12.incipit = "O Pascha, the great and…"
+peMA.Ode9C12.text = "O Pascha, the great and most sacred Passover, O Christ, * You the wisdom and Logos and the power of God: * Grant that we may more distinctly partake of You * on that day that has no evening in Your kingly rule."
+
+peMA.Ode9C21.ode = miscellanea_en_US_dedes.misc.Ode9
+peMA.Ode9C21.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode9C21.greekmelody = he.h.m1_en_US_dedes.heHE.FotizouFotizou.greekname
+peMA.Ode9C21.melody = he.h.m1_en_US_dedes.heHE.FotizouFotizou.name
+peMA.Ode9C21.incipit = "With one voice, O Virgin…"
+peMA.Ode9C21.text = "With one voice, O Virgin, we the believers call you blest. * O rejoice, You the Lord's gate; city animate, rejoice. * Lady, rejoice, for today the light * of the resurrection from the dead of the Son * whom You have borne, has shone on us."
+
+peMA.Ode9C22.ode = miscellanea_en_US_dedes.misc.Ode9
+peMA.Ode9C22.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode9C22.melody = he.h.m1_en_US_dedes.heHE.FotizouFotizou.name
+peMA.Ode9C22.incipit = "Be glad and exultant…"
+peMA.Ode9C22.text = "Be glad and exultant, divine gate of the light. * For your Son, namely Jesus, having set within the tomb, * rose and is shining more brightly than the sun, * and He has fully illumined all the faithful, * O Lady full of the grace of God."
+
+peMA.MM.Ode9HH1122asM1M2M3M4GMtrBMth.text = properties_en_US_dedes.media.key
+peMA.MM.Ode9HH12asM1M2M3M4.text = properties_en_US_dedes.media.key
+peMA.MM.Ode9T1T2asThTh.text = properties_en_US_dedes.media.key
+peMA.MM.Ode9T1T2asGB.text = properties_en_US_dedes.media.key
+peMA.MM.Ode9T1T2asGMtrBMth.text = properties_en_US_dedes.media.key
+
+peMA.Ode9K.ode = miscellanea_en_US_dedes.misc.Ode9
+peMA.Ode9K.mode = miscellanea_en_US_dedes.misc.Mode1
+peMA.Ode9K.greekmelody = he.h.m1_en_US_dedes.heHE.FotizouFotizou.greekname
+peMA.Ode9K.melody = he.h.m1_en_US_dedes.heHE.FotizouFotizou.melody
+peMA.Ode9K.incipit = he.h.m1_en_US_dedes.heHE.FotizouFotizou.incipit
+peMA.Ode9K.text = he.h.m1_en_US_dedes.heHE.FotizouFotizou.text
+
+peMA.Exaposteilarion1.mode = miscellanea_en_US_dedes.misc.Mode2
+peMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_dedes.heAU.SarkiYpnosas.greekname
+peMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.heAU.SarkiYpnosas.melody
+peMA.Exaposteilarion1.incipit = he.a.m2_en_US_dedes.heAU.SarkiYpnosas.incipit
+peMA.Exaposteilarion1.text = he.a.m2_en_US_dedes.heAU.SarkiYpnosas.text
 
 peMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode1
 peMA.Lauds1.melody = ""
@@ -46,5 +468,55 @@ peMA.Lauds4.mode = miscellanea_en_US_dedes.misc.Mode1
 peMA.Lauds4.melody = ""
 peMA.Lauds4.incipit = oc.m1.d1_en_US_dedes.ocMA.Lauds4.incipit
 peMA.Lauds4.text = oc.m1.d1_en_US_dedes.ocMA.Lauds4.text
+
+peMA.Stichera1.mode = miscellanea_en_US_dedes.misc.Mode5
+peMA.Stichera1.incipit = "Today a sacred Pascha has…"
+peMA.Stichera1.text = "Today a sacred Pascha has been revealed to us; a Pascha new and holy, a Pascha mystical, a Pascha all-venerable, Pascha, the Redeemer Christ himself; a Pascha that is blameless, a Pascha that is great, a Pascha of believers, a Pascha that has opened for us the gates of Paradise, a Pascha that sanctifies believers all."
+
+peMA.Stichera2.mode = miscellanea_en_US_dedes.misc.Mode5
+peMA.Stichera2.incipit = "Come now from that sight…"
+peMA.Stichera2.text = "Come now from that sight, O you women and heralds of good news, and say to Zion, \"Receive from us the joyful tidings of the Resurrection of Christ. O Jerusalem, be exultant, dance and leap for joy, for you have witnessed Christ the King coming forth as a Bridegroom from the sepulcher.\""
+
+peMA.Stichera3.mode = miscellanea_en_US_dedes.misc.Mode5
+peMA.Stichera3.incipit = "The myrrh-bearing women at dawn…"
+peMA.Stichera3.text = "The myrrh-bearing women at dawn very early, standing outside the tomb of the Giver-of-Life, found an Angel who was seated upon the stone. And the Angel addressed them, and this is what he said, \"Why do you seek among the dead the One who is alive? Why do you grieve as though corruptible the Incorrupt? So go back and proclaim it to His Disciples.\""
+
+peMA.Stichera4.mode = miscellanea_en_US_dedes.misc.Mode5
+peMA.Stichera4.incipit = "Pascha of delight! Pascha, the…"
+peMA.Stichera4.text = "Pascha of delight! Pascha, the Lord's Pascha! A Pascha all venerable has risen for us. Pascha! With joy let us embrace one another. Pascha, the ransom from sorrow! Today from the sepulcher Christ emerged resplendently as from a bridal chamber, and the women He filled with joy, saying, \"Proclaim this to the Apostles.\""
+
+peMA.SticheraGlory.mode = miscellanea_en_US_dedes.misc.Mode5
+peMA.SticheraGlory.incipit = "It is the day of…"
+peMA.SticheraGlory.text = "It is the day of the Resurrection. Let us shine brightly for the festival, and also embrace one another. Brethren, let us say even to those who hate us, \"Let us forgive everything for the Resurrection.\" And thus let us cry aloud, \"Christ is risen from the dead, by death trampling down upon death, and to those in the tombs He has granted life.\""
+
+peMA.Homily.title = "The Catechetical Paschal Homily of our Father Among the Saints, St. John Chrysostom, Archbishop of Constantinople"
+peMA.Homily.text = "If there are devout and God loving people here, let them enjoy this beautiful, radiant festival. If the re are prudent servants, enter joyously into the Lord's joy. Whoever may be spent from fasting, enjoy now your reward. Whoever has toiled from the first hour, receive today your just settlement. If any came after the third hour, celebrate gratefully. If any of you arrived after the sixth, have no misgivings, you have lost nothing. If some have been as late as the ninth, come forward, do not be at a loss. If any of you have arrived only at the eleventh hour, do not be dismayed for being late. The Master is gracious: He accepts the last even as the first; He gives rest to those of the eleventh as well as to those who have labored from the first; He is lenient with the last while looking after the first; to the one He gives, to the other He gives freely; He accepts the labors and welcomes the effort; honors the deed, but commends the intent. So, all of you, enter into the joy of our Lord: first and second, share the bounty. Rich and poor alike, celebrate together. Sober or heedless, honor the day. Those who fasted and those who did not, rejoice today. The table is full, everyone fare sumptuously. The calf is fatted; no one go away hungry. Everyone, savor the banquet of faith; relish the riches of His goodness. No one need lament poverty, for the kingdom is seen as universal. No one need grieve over sins; forgiveness has dawned from the tomb. No one need fear death; the Savior's death has freed us from it. While its captive He stifled it. He despoiled Hades as He descended into it; it was angered when it tasted His flesh. Foreseeing this, Isaiah proclaimed: \"Hades,\" he said, \"was angered when he met You below.\" It was angered because it was abolished. It was angered because it was mocked. It was angered because it was slain. It was angered because it was shackled. It received a body and encountered God. It took earth and came face to face with heaven. It took what it saw and fell by what it could not see. Death, where is your sting? Hades, where is your victory? Christ is risen and you are overthrown. Christ is risen and demons have fallen. Christ is risen and angels rejoice. Christ is risen and life rules. Christ is risen and not one dead remains in the tomb. For Christ, having risen from the dead, has become the firstfruits of those that slept. To Him be the glory and the dominion forever. Amen."
+
+peLI.MM.EntranceHymn.text = "In the congregations bless God, the Lord from the springs of Israel."
+
+peLI.Hypakoe.mode = peMA.Hypakoe.mode
+peLI.Hypakoe.incipit = peMA.Hypakoe.incipit
+peLI.Hypakoe.text = peMA.Hypakoe.text
+
+peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.melody = peMA.Kontakion1.melody
+peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
+peLI.Kontakion1.text = peMA.Kontakion1.text
+
+peLI.TheotokosHymn.mode = miscellanea_en_US_dedes.misc.Mode1
+peLI.TheotokosHymnVerse.text = peMA.Ode9C1MKa.text
+peLI.TheotokosHymn.incipit = peMA.Ode9C1H.incipit
+peLI.TheotokosHymn.text = peMA.Ode9C1H.text
+
+peLI.CommunionHymn.incipit = "Receive the Body of Christ…"
+peLI.CommunionHymn.text = "Receive the Body of Christ; taste from the immortal fount."
+
+peLI.AfterCommunion.mode = miscellanea_en_US_dedes.misc.Mode5
+peLI.AfterCommunion.incipit = peMA.Troparion.incipit
+peLI.AfterCommunion.text = peMA.Troparion.text
+
+peLI.AfterCommunion2.mode = miscellanea_en_US_dedes.misc.Mode5 //instead of Blessed be the name
+peLI.AfterCommunion2.incipit = peMA.Troparion.incipit
+peLI.AfterCommunion2.text = peMA.Troparion.text
 
 peMegalynarion.text = ""

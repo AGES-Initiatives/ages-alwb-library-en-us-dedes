@@ -65,370 +65,345 @@ trLI.AfterCommunion.incipit = trLI.CommunionHymn.incipit
 trLI.AfterCommunion.text = trLI.CommunionHymn.text
 
 // Foot Washing
-trHW.NiptirIdiomelon1.mode = miscellanea_en_US_dedes.misc.Mode1
-trHW.NiptirIdiomelon1.melody = miscellanea_en_US_dedes.misc.Idiomelon
-trHW.NiptirIdiomelon1.incipit = "…"
-trHW.NiptirIdiomelon1.text = ""
 
-trHW.NiptirIdiomelon2.mode = miscellanea_en_US_dedes.misc.Mode2
-trHW.NiptirIdiomelon2.melody = miscellanea_en_US_dedes.misc.Idiomelon
-trHW.NiptirIdiomelon2.incipit = "…"
-trHW.NiptirIdiomelon2.text = ""
 
-trHW.NiptirIdiomelon3.mode = miscellanea_en_US_dedes.misc.Mode2
-trHW.NiptirIdiomelon3.melody = miscellanea_en_US_dedes.misc.Idiomelon
-trHW.NiptirIdiomelon3.incipit = "…"
-trHW.NiptirIdiomelon3.text = ""
 
-trHW.NiptirIdiomelon4.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.NiptirIdiomelon4.melody = miscellanea_en_US_dedes.misc.Idiomelon
-trHW.NiptirIdiomelon4.incipit = "…"
-trHW.NiptirIdiomelon4.text = ""
 
-trHW.NiptirIdiomelon5.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.NiptirIdiomelon5.melody = miscellanea_en_US_dedes.misc.Idiomelon
-trHW.NiptirIdiomelon5.incipit = "…"
-trHW.NiptirIdiomelon5.text = ""
 
-trHW.NiptirIdiomelon6.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.NiptirIdiomelon6.melody = miscellanea_en_US_dedes.misc.Idiomelon
-trHW.NiptirIdiomelon6.incipit = "…"
-trHW.NiptirIdiomelon6.text = ""
 
 // Holy Thursday night
 
-trHW.Alleluia.text = properties_en_US_dedes.media.key
-
-trHW.Troparion.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Troparion.melody = ""
-trHW.Troparion.incipit = tr.d068_en_US_dedes.trHW.Troparion.incipit
-trHW.Troparion.text = tr.d068_en_US_dedes.trHW.Troparion.text
-
-trHW.Antiphon01.title = "Antiphon 1."
-trHW.Antiphon011.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon011.incipit = "The rulers of the people…"
-trHW.Antiphon011.text = "The rulers of the people gathered together, against the Lord and against His Anointed."
-
-trHW.Antiphon012.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon012.incipit = "They testify a lawless word…"
-trHW.Antiphon012.text = "They testify a lawless word against me. Lord, O Lord, do not forsake me."
-
-trHW.Antiphon013.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon013.incipit = "Let us present our senses…"
-trHW.Antiphon013.text = "Let us present our senses pure to Christ, and as His friends, let us lay down our lives for Him. Let us not, like Judas, be choked by the cares of life; but in our rooms let us cry, \"Our Father, who art in heaven, deliver us from evil.\""
-
-trHW.Antiphon01T.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon01T.incipit = "O Mary Theotokos, as a…"
-trHW.Antiphon01T.text = "O Mary Theotokos, as a virgin You gave birth, and remained a virgin. O chaste and unwed Mother, pray to Christ our God to save us."
-
-trHW.Antiphon02.title = "Antiphon 2."
-trHW.Antiphon021.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon021.incipit = "Judas ran to the Scribes…"
-trHW.Antiphon021.text = "Judas ran to the Scribes, who transgressed the Law, and he said, \"What will you give me if I deliver Him to you?\" And as they negotiated the price, You, the object of negotiation, were invisibly standing in their midst. You who know our hearts, spare our souls."
-
-trHW.Antiphon022.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon022.incipit = "Let us serve God with…"
-trHW.Antiphon022.text = "Let us serve God with compassion, like Mary did at the supper; and let us not acquire a love for money, like Judas did, so that we may always be with Christ our God."
-
-trHW.Antiphon02T.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon02T.incipit = "O Virgin, never cease to…"
-trHW.Antiphon02T.text = "O Virgin, never cease to implore Him who loves humanity, and whom you inexplicably bore, to rescue from danger those who take refuge in you."
-
-trHW.Antiphon03.title = "Antiphon 3."
-trHW.Antiphon031.mode = miscellanea_en_US_dedes.misc.Mode2
-trHW.Antiphon031.incipit = "The Hebrew children cried out…"
-trHW.Antiphon031.text = "The Hebrew children cried out, Hosanna to You, for raising Lazarus, O Lord who loves humanity. But Judas, the transgressor, did not wish to understand."
-
-trHW.Antiphon032.mode = miscellanea_en_US_dedes.misc.Mode2
-trHW.Antiphon032.incipit = "At Your supper, O Christ…"
-trHW.Antiphon032.text = "At Your supper, O Christ God, You predicted to Your Disciples, \"One of you will betray Me.\" But Judas, the transgressor, did not wish to understand."
-
-trHW.Antiphon033.mode = miscellanea_en_US_dedes.misc.Mode2
-trHW.Antiphon033.incipit = "John asked You, \"Lord, who…"
-trHW.Antiphon033.text = "John asked You, \"Lord, who is it who will betray You?\" And with the bread You showed him who it was. But Judas, the transgressor, did not wish to understand."
-
-trHW.Antiphon034.mode = miscellanea_en_US_dedes.misc.Mode2
-trHW.Antiphon034.incipit = "Jews sought to kill You…"
-trHW.Antiphon034.text = "Jews sought to kill You, O Lord, with thirty pieces of silver and a deceitful kiss. But Judas, the transgressor, did not wish to understand."
-
-trHW.Antiphon035.mode = miscellanea_en_US_dedes.misc.Mode2
-trHW.Antiphon035.incipit = "At the washing of feet…"
-trHW.Antiphon035.text = "At the washing of feet, O Christ God, You exhorted Your Disciples, \"Do as you have seen.\" But Judas, the transgressor, did not wish to understand."
-
-trHW.Antiphon036.mode = miscellanea_en_US_dedes.misc.Mode2
-trHW.Antiphon036.incipit = "\"Watch and pray, that you…"
-trHW.Antiphon036.text = "\"Watch and pray, that you may not enter into temptation,\" You, our God, said to Your Disciples. But Judas, the transgressor, did not wish to understand."
-
-trHW.Antiphon03T.mode = miscellanea_en_US_dedes.misc.Mode2
-trHW.Antiphon03T.incipit = "Deliver us your humble servants…"
-trHW.Antiphon03T.text = "Deliver us your humble servants from perils, O Theotokos, as for refuge, after God, we all flee to you, an impregnable fortress and protection."
-
-trHW.Antiphon03Kathisma.mode = miscellanea_en_US_dedes.misc.Mode7
-trHW.Antiphon03Kathisma.incipit = "During the Supper, when You…"
-trHW.Antiphon03Kathisma.text = "During the Supper, when You were feeding the Disciples, knowing the pretext of the betrayal, You exposed Judas. And You knew that he was incorrigible, but You wanted everyone to know that it was Your will to surrender, so that You could snatch the world from the enemy. O Longsuffering Lord, glory to You!"
-
-trHW.Antiphon04.title = "Antiphon 4."
-trHW.Antiphon041.mode = miscellanea_en_US_dedes.misc.Mode5
-trHW.Antiphon041.incipit = "Today, Judas forsakes the Teacher…"
-trHW.Antiphon041.text = "Today, Judas forsakes the Teacher and takes to himself the Devil. He is blinded by the passion of avarice, and in his darkness he falls from the light. For, how could he see, who sold the guiding Light for thirty pieces of silver? But He who suffered for the world has risen for us. Let us cry out to Him, \"O Lord, who suffered for and with humanity, glory to You!\""
-
-trHW.Antiphon042.mode = miscellanea_en_US_dedes.misc.Mode5
-trHW.Antiphon042.incipit = "Today, Judas pretends godliness, and…"
-trHW.Antiphon042.text = "Today, Judas pretends godliness, and estranges himself from the gift of grace. Being a Disciple, he becomes a betrayer. Under a guise of friendship, he hides deceit. In his folly he prefers thirty pieces of silver to the Master's love, and he becomes a guide for the council that transgressed the Law. But we have Christ as our salvation. Let us glorify Him."
-
-trHW.Antiphon043.mode = miscellanea_en_US_dedes.misc.Mode1
-trHW.Antiphon043.incipit = "As brethren in Christ, let…"
-trHW.Antiphon043.text = "As brethren in Christ, let us have love for the brethren and not a lack of sympathy for our neighbors, so that we may not be condemned like that servant who was merciless regarding his money, and gain nothing from repentance, like Judas."
-
-trHW.Antiphon04T.mode = miscellanea_en_US_dedes.misc.Mode1
-trHW.Antiphon04T.incipit = "Glorious things were said everywhere…"
-trHW.Antiphon04T.text = "Glorious things were said everywhere concerning you; for you gave birth in the flesh to the Maker of all, O all-lauded Virgin Mary Theotokos."
-
-trHW.Antiphon05.title = "Antiphon 5."
-trHW.Antiphon051.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon051.incipit = "The disciple negotiated the price…"
-trHW.Antiphon051.text = "The disciple negotiated the price of the Teacher, and he sold the Lord for thirty pieces of silver. With a deceitful kiss, he betrays Him to death at the hands of the lawless."
-
-trHW.Antiphon052.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon052.incipit = "Today, the Creator of heaven…"
-trHW.Antiphon052.text = "Today, the Creator of heaven and earth said to His Disciples, \"The hour is at hand, and Judas, who betrayed Me, has arrived. Let no one deny Me, when you see Me on the Cross between two robbers; for I suffer as man, and as the One who loves humanity I save those who believe in Me.\""
-
-trHW.Antiphon05T.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon05T.incipit = "O Virgin, who at the…"
-trHW.Antiphon05T.text = "O Virgin, who at the end of times ineffably conceived and bore your Creator, save those who magnify you."
-
-trHW.Antiphon06.title = "Antiphon 6."
-trHW.Antiphon061.mode = miscellanea_en_US_dedes.misc.Mode7
-trHW.Antiphon061.incipit = "Today, Judas is vigilant, waiting…"
-trHW.Antiphon061.text = "Today, Judas is vigilant, waiting for his chance to betray the Lord, who is pre-eternal, the world's only Savior, who satisfied with five loaves those thousands of people. Today, the lawless one rejects his Teacher. He betrayed the Master, whose disciple he once had been. He sold for thirty silver coins the One who filled the people with the manna."
-
-trHW.Antiphon062.mode = miscellanea_en_US_dedes.misc.Mode7
-trHW.Antiphon062.incipit = "Today, Jews had the Lord…"
-trHW.Antiphon062.text = "Today, Jews had the Lord nailed to the Cross, the Lord who parted the sea with the rod and led them in the wilderness. Today, they had His side pierced with the spear, who for their sake had smitten Egypt with plagues. They gave Him gall to drink, who had rained down the manna for them to eat."
-
-trHW.Antiphon063.mode = miscellanea_en_US_dedes.misc.Mode7
-trHW.Antiphon063.incipit = "Lord, as You were approaching…"
-trHW.Antiphon063.text = "Lord, as You were approaching Your voluntary Passion, You said to Your Disciples, \"If you cannot watch with Me, even for one hour, how can you promise to die for Me? Look at Judas: he is not asleep, but he is intent on betraying Me to the transgressors. Rise, and pray, lest anyone deny Me when he sees Me on the Cross.\" O longsuffering Lord, glory to You!"
-
-trHW.Antiphon06T.mode = miscellanea_en_US_dedes.misc.Mode7
-trHW.Antiphon06T.incipit = "Rejoice, O Theotokos! For you…"
-trHW.Antiphon06T.text = "Rejoice, O Theotokos! For you contained in your womb the One whom the heavens cannot contain. Rejoice, O Virgin, the proclamation of Prophets! Through you Emmanuel shone forth to us. Rejoice, O Mother of Christ our God!"
-
-trHW.Antiphon06Kathisma.mode = miscellanea_en_US_dedes.misc.Mode7
-trHW.Antiphon06Kathisma.incipit = "What did the Savior do…"
-trHW.Antiphon06Kathisma.text = "What did the Savior do to you, Judas, that turned you into a traitor? Did He separate you from the company of the Apostles? Did He deprive you of the gift of healing? Did He eat the supper with the others but exclude you from the table? Did He wash the others' feet but overlook yours? Oh, so many blessings you have forgotten! So now your ingratitude is held up to scorn, but His incomparable forbearance is everywhere proclaimed, as well as His great mercy."
-
-trHW.Antiphon07.title = "Antiphon 7."
-trHW.Antiphon071.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon071.incipit = "As You permitted the transgressors…"
-trHW.Antiphon071.text = "As You permitted the transgressors to arrest You, Lord, You said to them, \"Even though you struck the shepherd and scattered the sheep, namely My twelve Disciples, I could summon more than twelve legions of angels. But I forbear, so that the unknown and secret things that I showed you through My prophets may be fulfilled.\" Glory to You, O Lord!"
-
-trHW.Antiphon072.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon072.incipit = "After Peter denied You three…"
-trHW.Antiphon072.text = "After Peter denied You three times, then he understood what You had said to him. But he brought to You tears of repentance. O God, have mercy on me and save me."
-
-trHW.Antiphon07T.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon07T.incipit = "Let us all praise the…"
-trHW.Antiphon07T.text = "Let us all praise the holy Virgin, as the gateway to salvation; as a Paradise of delight; as a cloud of the everlasting light; and let us say to her, \"Rejoice!\""
-
-trHW.Antiphon08.title = "Antiphon 8."
-trHW.Antiphon081.mode = miscellanea_en_US_dedes.misc.Mode2
-trHW.Antiphon081.incipit = "Tell us, O transgressors of…"
-trHW.Antiphon081.text = "Tell us, O transgressors of the Law: what did you hear from our Savior? Did He not explain the Law and the teachings of the Prophets? So, what was your reason for delivering to Pilate God the Word from God, and the Redeemer of our souls?"
-
-trHW.Antiphon082.mode = miscellanea_en_US_dedes.misc.Mode2
-trHW.Antiphon082.incipit = "\"Let Him be crucified!\" cried…"
-trHW.Antiphon082.text = "\"Let Him be crucified!\" cried they who had always enjoyed Your gifts of grace; and they asked to receive a malefactor instead of You, the Benefactor, those slayers of the righteous. But You, O Christ, were silent, enduring their impudence, for You willed to suffer and to save us, in Your love for humanity."
-
-trHW.Antiphon08T.mode = miscellanea_en_US_dedes.misc.Mode2
-trHW.Antiphon08T.incipit = "Since we have no right…"
-trHW.Antiphon08T.text = "Since we have no right to speak because of our many sins, O Virgin Theotokos, implore Him who was born of you; for the prayer of a Mother can do much to win the Master's favor. O Lady, do not despise the entreaties of us sinners; for He who condescended to suffer for us is merciful and able to save us."
-
-trHW.Antiphon09.title = "Antiphon 9."
-trHW.Antiphon091.mode = miscellanea_en_US_dedes.misc.Mode3
-trHW.Antiphon091.incipit = "They weighed out the thirty…"
-trHW.Antiphon091.text = "They weighed out the thirty pieces of silver, the price of him on whom a price had been set by some of the sons of Israel. Watch and pray that you may not enter into temptation; The spirit indeed is willing, but the flesh is weak. Therefore, watch!"
-
-trHW.Antiphon092.mode = miscellanea_en_US_dedes.misc.Mode3
-trHW.Antiphon092.incipit = "They gave me gall for…"
-trHW.Antiphon092.text = "They gave me gall for my food, and they gave me vinegar for my drink. But You, O Lord, raise me up; and I will repay them."
-
-trHW.Antiphon09T.mode = miscellanea_en_US_dedes.misc.Mode3
-trHW.Antiphon09T.incipit = "We, of the Gentiles, sing…"
-trHW.Antiphon09T.text = "We, of the Gentiles, sing praise to you, O pure Theotokos; for you gave birth to Christ our God, who, through you freed mankind from the curse."
-
-trHW.Antiphon09Kathisma.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon09Kathisma.incipit = "How could Judas, who was…"
-trHW.Antiphon09Kathisma.text = "How could Judas, who was once Your Disciple, turn against You and meditate Your betrayal? Unrighteous traitor, he deceitfully sat at supper with You. He had gone to the priests, and said, \"What will you give me, if to you I deliver Him who broke the Law and profaned the Sabbath?\" O longsuffering Lord, glory to You!"
-
-trHW.Antiphon10.title = "Antiphon 10."
-trHW.Antiphon101.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon101.incipit = "He who covers himself with…"
-trHW.Antiphon101.text = "He who covers himself with light as with a garment stood naked in judgment. He received blows to the cheeks from hands He had fashioned. And the unlawful people had the Lord of glory nailed to the Cross. Then the veil of the Temple was torn in two, and the sun hid itself, unable to watch this insult to God, before whom the universe trembles. Let us worship Him."
-
-trHW.Antiphon102.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon102.incipit = "The disciple denied, but the…"
-trHW.Antiphon102.text = "The disciple denied, but the robber exclaimed, \"Remember me, O Lord, in Your kingdom.\""
-
-trHW.Antiphon10T.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon10T.incipit = "Grant peace to the world…"
-trHW.Antiphon10T.text = "Grant peace to the world, O Lord, who for Your servants' sake accepted to wear flesh from the Virgin, so that with one voice we might glorify You, who love humanity."
-
-trHW.Antiphon11.title = "Antiphon 11."
-trHW.Antiphon111.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon111.incipit = "For the good that You…"
-trHW.Antiphon111.text = "For the good that You, O Christ, had done to them, the Hebrew race condemned You to be crucified, giving You vinegar mixed with gall to drink. But You, Lord, give them according to their works, for they did not understand Your condescension."
-
-trHW.Antiphon112.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon112.incipit = "The Hebrews were not content…"
-trHW.Antiphon112.text = "The Hebrews were not content that You were betrayed, O Christ; but they shook their heads, bringing scorn and mockery. But You, Lord, give them according to their works, for they meditated on vain things against You."
-
-trHW.Antiphon113.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon113.incipit = "Neither the earth as it…"
-trHW.Antiphon113.text = "Neither the earth as it quaked, nor the rocks as they split; neither the veil of the Temple, nor the raising of the dead convinced the Jews. But You, Lord, give them according to their works, for they meditated on vain things against You."
-
-trHW.Antiphon11T.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon11T.incipit = "O Virgin Theotokos, we know…"
-trHW.Antiphon11T.text = "O Virgin Theotokos, we know God, incarnate of you, the only pure and only blessed. Therefore we unceasingly praise and magnify you."
-
-trHW.Antiphon12.title = "Antiphon 12."
-trHW.Antiphon121.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon121.incipit = "Thus says the Lord to…"
-trHW.Antiphon121.text = "Thus says the Lord to the Jews, \"O my people, what have I done to you, how have I upset you? I gave sight to your blind; I cleansed your lepers; I raised the man who lay paralyzed on his bed. O my people, what have I done to you, and how have you repaid me? Instead of manna, you fed Me gall; instead of water, you gave Me vinegar; instead of loving Me, you nailed Me to the Cross. So, I will no longer hold back, but I will call My Gentiles, and they will glorify Me and the Father and the Spirit; and I will grant them eternal life.\""
-
-trHW.Antiphon122.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon122.incipit = "Today, the veil of the…"
-trHW.Antiphon122.text = "Today, the veil of the Temple is torn in two, as a reproof to the transgressors. And the sun hides its rays, beholding the Master on the Cross."
-
-trHW.Antiphon123.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon123.incipit = "O lawmakers of Israel…"
-trHW.Antiphon123.text = "O lawmakers of Israel, Jewish leaders, and Pharisees, the choir of Apostles calls out to you, \"Behold, the Temple that you destroyed; behold, the Lamb that you crucified. You delivered Him to the grave, but He has risen by His own power. Do not deceive yourselves; for He is the One who saved you in the sea, and fed you in the desert. He is the Life, and the Light, and the Peace of the world.\""
-
-trHW.Antiphon12T.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon12T.incipit = "Rejoice, O gateway of the…"
-trHW.Antiphon12T.text = "Rejoice, O gateway of the King of glory! Only the Most High passed through you, for the salvation of our souls, and again left you sealed."
-
-trHW.Antiphon12Kathisma.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon12Kathisma.incipit = "When You, O God, stood…"
-trHW.Antiphon12Kathisma.text = "When You, O God, stood before Caiaphas, and You, the Judge, were delivered to Pilate, the heavenly hosts were shaken with fear. Then You were lifted on the Cross between two robbers, and You, the sinless One, were numbered with the lawless, in order to save humanity. O forbearing Lord, glory to You!"
-
-trHW.Antiphon13.title = "Antiphon 13."
-trHW.Antiphon131.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon131.incipit = "The crowd of Jews demanded…"
-trHW.Antiphon131.text = "The crowd of Jews demanded that Pilate have You crucified, O Lord. They found no crime in You. Nevertheless they released the convict, Barabbas, and they condemned You, the righteous One. And so they incurred the guilt for murder. But You, Lord, give them their due reward, for they meditated vain things against You."
-
-trHW.Antiphon132.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon132.incipit = "Christ is the power of…"
-trHW.Antiphon132.text = "Christ is the power of God and the wisdom of God; before Him all things tremble and fear, and every tongue praises Him. And the priests slapped Him and gave Him gall. He accepted to suffer it all, wishing to save us from our lawlessness by His blood, in His love for humanity."
-
-trHW.Antiphon13T.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon13T.incipit = "O Theotokos, through a word…"
-trHW.Antiphon13T.text = "O Theotokos, through a word you ineffably gave birth to the Word, your Creator. Implore Him to save our souls."
-
-trHW.Antiphon14.title = "Antiphon 14."
-trHW.Antiphon141.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon141.incipit = "O Lord, though the Robber…"
-trHW.Antiphon141.text = "O Lord, though the Robber had defiled his hands with blood, yet You took him as a fellow traveler. We pray You to number us with him, for You are good and You love humanity."
-
-trHW.Antiphon142.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon142.incipit = "On the cross, the Robber…"
-trHW.Antiphon142.text = "On the cross, the Robber let out a small voice, but he mustered great faith. In an instant he was saved. And he was first to open the gates of Paradise and to go in. O Lord, who accepted his repentance, glory to You!"
-
-trHW.Antiphon14T.mode = miscellanea_en_US_dedes.misc.Mode8
-trHW.Antiphon14T.incipit = "Rejoice, O Maiden! Through an…"
-trHW.Antiphon14T.text = "Rejoice, O Maiden! Through an Angel you received the joy of the world! Rejoice, for you gave birth to your Creator and Lord! Rejoice, for you were counted worthy to become the Mother of Christ our God!"
-
-trHW.Antiphon15.title = "Antiphon 15."
-trHW.Antiphon151.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon151.rubric = "The congregations kneels as the icon of the Crucifixion is processed. The priest intones the following troparion, then the Choirs sing it antiphonally, verse by verse."
-trHW.Antiphon151.incipit = "Today, He who suspended the…"
-trHW.Antiphon151.text = "Today, He who suspended the earth in the waters is suspended on a cross. (3) The King of the Angels wears a crown of thorns. He who wraps the sky in clouds is wrapped in a fake purple robe. He who freed Adam in the Jordan accepts to be slapped. The Bridegroom of the Church is fixed with nails to the cross. The Son of the Virgin is pierced with a spear. We worship Your Passion, O Christ. (3) Show us also Your glorious Resurrection."
-trHW.Antiphon1511.incipit = "Today, He who suspended the…"
-trHW.Antiphon1511.text = "Today, He who suspended the earth in the waters is suspended on a cross."
-trHW.Antiphon1512.incipit = "The King of the Angels…"
-trHW.Antiphon1512.text = "The King of the Angels wears a crown of thorns."
-trHW.Antiphon1513.incipit = "He who wraps the sky…"
-trHW.Antiphon1513.text = "He who wraps the sky in clouds is wrapped in a fake purple robe."
-trHW.Antiphon1514.incipit = "He who freed Adam in…"
-trHW.Antiphon1514.text = "He who freed Adam in the Jordan accepts to be slapped."
-trHW.Antiphon1515.incipit = "The Bridegroom of the Church…"
-trHW.Antiphon1515.text = "The Bridegroom of the Church is fixed with nails to the cross."
-trHW.Antiphon1516.incipit = "The Son of the Virgin…"
-trHW.Antiphon1516.text = "The Son of the Virgin is pierced with a spear."
-trHW.Antiphon1517.incipit = "We worship Your Passion, O…"
-trHW.Antiphon1517.text = "We worship Your Passion, O Christ."
-trHW.Antiphon1518.incipit = "Show us also Your glorious…"
-trHW.Antiphon1518.text = "Show us also Your glorious Resurrection."
-
-trHW.Antiphon152.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon152.incipit = "We do not celebrate Passover…"
-trHW.Antiphon152.text = "We do not celebrate Passover like Jews do. For our Passover is Christ; He was sacrificed for us. So, let us purify ourselves of all defilement and sincerely pray to Him, \"Arise, O Lord! Save us, in Your love for humanity.\""
-
-trHW.Antiphon153.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon153.incipit = "Lord, Your Cross is life…"
-trHW.Antiphon153.text = "Lord, Your Cross is life and resurrection for us Your people; and trusting in it we extol You, our God, who was crucified. Have mercy on us."
-
-trHW.Antiphon15T.mode = miscellanea_en_US_dedes.misc.Mode6
-trHW.Antiphon15T.incipit = "Seeing You hanging on the…"
-trHW.Antiphon15T.text = "Seeing You hanging on the Cross, O Christ, Your Mother cried aloud, \"What is this strange mystery that I see, my Son? How is it that You die, with Your body nailed to a cross, O Giver of life?\""
-
-trHW.Antiphon15Kathisma.mode = miscellanea_en_US_dedes.misc.Mode4
-trHW.Antiphon15Kathisma.incipit = "You ransomed us from the…"
-trHW.Antiphon15Kathisma.text = "You ransomed us from the curse of the Law by Your precious Blood. You were nailed to the Cross, and You were pierced with a spear, and You gushed forth immortality for humanity. Our Savior, glory to You!"
-
-trHW.Beatitudes01.mode = miscellanea_en_US_dedes.misc.Mode4
-trHW.Beatutides01.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.melody
-trHW.Beatitudes01.incipit = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.incipit
-trHW.Beatitudes01.text = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.text
-
-trHW.Beatitudes02.mode = miscellanea_en_US_dedes.misc.Mode4
-trHW.Beatutides02.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
-trHW.Beatitudes02.incipit = "The transgressors of the Law…"
-trHW.Beatitudes02.text = "The transgressors of the Law from a disciple bought Him who made the Law. * As though a breaker of the Law they stood Him before Pilate's judgment seat. * They shouted to crucify the One who gave them manna in the wilderness of old. * But we rather imitate the righteous Robber, crying aloud in faith and say, \"Remember us as well in Your kingdom, O Savior.\""
-
-trHW.Beatitudes03.mode = miscellanea_en_US_dedes.misc.Mode4
-trHW.Beatutides03.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
-trHW.Beatitudes03.incipit = "That swarm of murderers of…"
-trHW.Beatitudes03.text = "That swarm of murderers of God, that gathering of Jews who defied the Law, * in a frenzy cried aloud and demanded Pilate to crucify * Christ who was innocent. And instead they asked that Barabbas be released. * But we rather cry aloud the words of the grateful Robber to the Lord and say, \"Remember us as well in Your kingdom, O Savior.\""
-
-trHW.Beatitudes04.mode = miscellanea_en_US_dedes.misc.Mode4
-trHW.Beatutides04.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
-trHW.Beatitudes04.incipit = "O Christ, Your life-bearing side…"
-trHW.Beatitudes04.text = "O Christ, Your life-bearing side is a spring that like a river out of Eden flows, * and it waters Your Church, as an rational Paradise; * and from there it separates into the four Gospels as if as many heads. * It irrigates the world and it fills creation with joy, and it teaches the Gentiles * faithfully to adore and worship Your kingdom."
-
-trHW.Beatitudes05.mode = miscellanea_en_US_dedes.misc.Mode4
-trHW.Beatutides05.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
-trHW.Beatitudes05.incipit = "You were crucified for me…"
-trHW.Beatitudes05.text = "You were crucified for me to become the source of forgiveness for me. * You were pierced in the side so that streams of life would flow out to me. * With nails You were fastened, so that having seen the depth of Your Passion I confirm * the height of Your power, O Christ, and I cry to You, the Giver of Life, * \"Glory to Your Cross and Your Passion, O Savior!\""
-
-trHW.Beatitudes06.mode = miscellanea_en_US_dedes.misc.Mode4
-trHW.Beatutides06.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
-trHW.Beatitudes06.incipit = "When You were crucified, O…"
-trHW.Beatitudes06.text = "When You were crucified, O Christ, all creation trembled on seeing it. * The foundations of the earth were quaking in fear of Your might, O Lord. * The sun and the stars above hid their light; the mountains were shuddering. * The rocks split; the Temple Veil was torn in two. And we with the Robber who believed * cry out to You and say, \"Remember us, O Savior.\""
-
-trHW.Beatitudes07.mode = miscellanea_en_US_dedes.misc.Mode4
-trHW.Beatutides07.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
-trHW.Beatitudes07.incipit = "You have set aside the…"
-trHW.Beatitudes07.text = "You have set aside the bond which stood against us, shredding it by Your Cross. * When You were numbered with the dead, You disarmed and bound the tyrant ruling there, * delivering everyone from the bonds of death by Your resurrection; * through which we were illumined. And we cry out to You, O Lord who love humanity, * \"Remember us as well in Your kingdom, O Savior.\""
-
-trHW.Beatitudes08.mode = miscellanea_en_US_dedes.misc.Mode4
-trHW.Beatutides08.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
-trHW.Beatitudes08.incipit = "You were lifted on the…"
-trHW.Beatitudes08.text = "You were lifted on the Cross and destroyed the power of death on us, * and You set aside the bond which stood against us and, as God, cancelled it. * Grant that we may also have the Robber's repentance, O only Friend of man. * We faithfully worship You, O Christ our God, and we cry aloud to You, * \"Remember us as well in Your kingdom, O Savior.\""
-
-trHW.BeatitudesTr.verse = prayers_en_US_dedes.pr.GloryToTheFather.text
-trHW.BeatitudesTr.mode = miscellanea_en_US_dedes.misc.Mode4
-trHW.BeatutidesTr.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
-trHW.BeatitudesTr.incipit = "All believers, let us pray…"
-trHW.BeatitudesTr.text = "All believers, let us pray that we be of one mind and worthily * sing praises glorifying God, Father, Son, and Spirit, the Trinity, * united divinity, which exists forever in three hypostases, * remaining unconfused, simple, indivisible, unapproachable, * by whom we are delivered from the fire of perdition."
-
-trHW.BeatitudesT.verse = prayers_en_US_dedes.pr.BothNowAndEver.text
-trHW.BeatitudesT.mode = miscellanea_en_US_dedes.misc.Mode4
-trHW.BeatutidesT.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
-trHW.BeatitudesT.incipit = "O Christ our God, we…"
-trHW.BeatitudesT.text = "O Christ our God, we present, as an intercessor to pray for us, * Your Virgin Mother who conceived without seed and physically gave birth to You, * and after the childbirth remained incorrupt, O most merciful Lord. * She prays that You always grant forgiveness of offenses to those who cry aloud, * \"Remember us as well in Your kingdom, O Savior.\""
-
-trHW.MM.Prokeimenon.text = properties_en_US_dedes.media.key
+trMA.MM.Alleluia.text = properties_en_US_dedes.media.key
+
+trMA.Troparion.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Troparion.melody = ""
+trMA.Troparion.incipit = tr.d068_en_US_dedes.trMA.Troparion.incipit
+trMA.Troparion.text = tr.d068_en_US_dedes.trMA.Troparion.text
+
+trMA.Antiphon01.title = "Antiphon 1."
+trMA.Antiphon011.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon011.incipit = "The rulers of the people…"
+trMA.Antiphon011.text = "The rulers of the people gathered together, against the Lord and against His Anointed."
+
+trMA.Antiphon012.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon012.incipit = "They testify a lawless word…"
+trMA.Antiphon012.text = "They testify a lawless word against me. Lord, O Lord, do not forsake me."
+
+trMA.Antiphon013.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon013.incipit = "Let us present our senses…"
+trMA.Antiphon013.text = "Let us present our senses pure to Christ, and as His friends, let us lay down our lives for Him. Let us not, like Judas, be choked by the cares of life; but in our rooms let us cry, \"Our Father, who art in heaven, deliver us from evil.\""
+
+trMA.Antiphon01T.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon01T.incipit = "O Mary Theotokos, as a…"
+trMA.Antiphon01T.text = "O Mary Theotokos, as a virgin You gave birth, and remained a virgin. O chaste and unwed Mother, pray to Christ our God to save us."
+
+trMA.Antiphon02.title = "Antiphon 2."
+trMA.Antiphon021.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon021.incipit = "Judas ran to the Scribes…"
+trMA.Antiphon021.text = "Judas ran to the Scribes, who transgressed the Law, and he said, \"What will you give me if I deliver Him to you?\" And as they negotiated the price, You, the object of negotiation, were invisibly standing in their midst. You who know our hearts, spare our souls."
+
+trMA.Antiphon022.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon022.incipit = "Let us serve God with…"
+trMA.Antiphon022.text = "Let us serve God with compassion, like Mary did at the supper; and let us not acquire a love for money, like Judas did, so that we may always be with Christ our God."
+
+trMA.Antiphon02T.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon02T.incipit = "O Virgin, never cease to…"
+trMA.Antiphon02T.text = "O Virgin, never cease to implore Him who loves humanity, and whom you inexplicably bore, to rescue from danger those who take refuge in you."
+
+trMA.Antiphon03.title = "Antiphon 3."
+trMA.Antiphon031.mode = miscellanea_en_US_dedes.misc.Mode2
+trMA.Antiphon031.incipit = "The Hebrew children cried out…"
+trMA.Antiphon031.text = "The Hebrew children cried out, Hosanna to You, for raising Lazarus, O Lord who loves humanity. But Judas, the transgressor, did not wish to understand."
+
+trMA.Antiphon032.mode = miscellanea_en_US_dedes.misc.Mode2
+trMA.Antiphon032.incipit = "At Your supper, O Christ…"
+trMA.Antiphon032.text = "At Your supper, O Christ God, You predicted to Your Disciples, \"One of you will betray Me.\" But Judas, the transgressor, did not wish to understand."
+
+trMA.Antiphon033.mode = miscellanea_en_US_dedes.misc.Mode2
+trMA.Antiphon033.incipit = "John asked You, \"Lord, who…"
+trMA.Antiphon033.text = "John asked You, \"Lord, who is it who will betray You?\" And with the bread You showed him who it was. But Judas, the transgressor, did not wish to understand."
+
+trMA.Antiphon034.mode = miscellanea_en_US_dedes.misc.Mode2
+trMA.Antiphon034.incipit = "Jews sought to kill You…"
+trMA.Antiphon034.text = "Jews sought to kill You, O Lord, with thirty pieces of silver and a deceitful kiss. But Judas, the transgressor, did not wish to understand."
+
+trMA.Antiphon035.mode = miscellanea_en_US_dedes.misc.Mode2
+trMA.Antiphon035.incipit = "At the washing of feet…"
+trMA.Antiphon035.text = "At the washing of feet, O Christ God, You exhorted Your Disciples, \"Do as you have seen.\" But Judas, the transgressor, did not wish to understand."
+
+trMA.Antiphon036.mode = miscellanea_en_US_dedes.misc.Mode2
+trMA.Antiphon036.incipit = "\"Watch and pray, that you…"
+trMA.Antiphon036.text = "\"Watch and pray, that you may not enter into temptation,\" You, our God, said to Your Disciples. But Judas, the transgressor, did not wish to understand."
+
+trMA.Antiphon03T.mode = miscellanea_en_US_dedes.misc.Mode2
+trMA.Antiphon03T.incipit = "Deliver us your humble servants…"
+trMA.Antiphon03T.text = "Deliver us your humble servants from perils, O Theotokos, as for refuge, after God, we all flee to you, an impregnable fortress and protection."
+
+trMA.Antiphon03Kathisma.mode = miscellanea_en_US_dedes.misc.Mode7
+trMA.Antiphon03Kathisma.incipit = "During the Supper, when You…"
+trMA.Antiphon03Kathisma.text = "During the Supper, when You were feeding the Disciples, knowing the pretext of the betrayal, You exposed Judas. And You knew that he was incorrigible, but You wanted everyone to know that it was Your will to surrender, so that You could snatch the world from the enemy. O Longsuffering Lord, glory to You!"
+
+trMA.Antiphon04.title = "Antiphon 4."
+trMA.Antiphon041.mode = miscellanea_en_US_dedes.misc.Mode5
+trMA.Antiphon041.incipit = "Today, Judas forsakes the Teacher…"
+trMA.Antiphon041.text = "Today, Judas forsakes the Teacher and takes to himself the Devil. He is blinded by the passion of avarice, and in his darkness he falls from the light. For, how could he see, who sold the guiding Light for thirty pieces of silver? But He who suffered for the world has risen for us. Let us cry out to Him, \"O Lord, who suffered for and with humanity, glory to You!\""
+
+trMA.Antiphon042.mode = miscellanea_en_US_dedes.misc.Mode5
+trMA.Antiphon042.incipit = "Today, Judas pretends godliness, and…"
+trMA.Antiphon042.text = "Today, Judas pretends godliness, and estranges himself from the gift of grace. Being a Disciple, he becomes a betrayer. Under a guise of friendship, he hides deceit. In his folly he prefers thirty pieces of silver to the Master's love, and he becomes a guide for the council that transgressed the Law. But we have Christ as our salvation. Let us glorify Him."
+
+trMA.Antiphon043.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Antiphon043.incipit = "As brethren in Christ, let…"
+trMA.Antiphon043.text = "As brethren in Christ, let us have love for the brethren and not a lack of sympathy for our neighbors, so that we may not be condemned like that servant who was merciless regarding his money, and gain nothing from repentance, like Judas."
+
+trMA.Antiphon04T.mode = miscellanea_en_US_dedes.misc.Mode1
+trMA.Antiphon04T.incipit = "Glorious things were said everywhere…"
+trMA.Antiphon04T.text = "Glorious things were said everywhere concerning you; for you gave birth in the flesh to the Maker of all, O all-lauded Virgin Mary Theotokos."
+
+trMA.Antiphon05.title = "Antiphon 5."
+trMA.Antiphon051.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon051.incipit = "The disciple negotiated the price…"
+trMA.Antiphon051.text = "The disciple negotiated the price of the Teacher, and he sold the Lord for thirty pieces of silver. With a deceitful kiss, he betrays Him to death at the hands of the lawless."
+
+trMA.Antiphon052.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon052.incipit = "Today, the Creator of heaven…"
+trMA.Antiphon052.text = "Today, the Creator of heaven and earth said to His Disciples, \"The hour is at hand, and Judas, who betrayed Me, has arrived. Let no one deny Me, when you see Me on the Cross between two robbers; for I suffer as man, and as the One who loves humanity I save those who believe in Me.\""
+
+trMA.Antiphon05T.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon05T.incipit = "O Virgin, who at the…"
+trMA.Antiphon05T.text = "O Virgin, who at the end of times ineffably conceived and bore your Creator, save those who magnify you."
+
+trMA.Antiphon06.title = "Antiphon 6."
+trMA.Antiphon061.mode = miscellanea_en_US_dedes.misc.Mode7
+trMA.Antiphon061.incipit = "Today, Judas is vigilant, waiting…"
+trMA.Antiphon061.text = "Today, Judas is vigilant, waiting for his chance to betray the Lord, who is pre-eternal, the world's only Savior, who satisfied with five loaves those thousands of people. Today, the lawless one rejects his Teacher. He betrayed the Master, whose disciple he once had been. He sold for thirty silver coins the One who filled the people with the manna."
+
+trMA.Antiphon062.mode = miscellanea_en_US_dedes.misc.Mode7
+trMA.Antiphon062.incipit = "Today, Jews had the Lord…"
+trMA.Antiphon062.text = "Today, Jews had the Lord nailed to the Cross, the Lord who parted the sea with the rod and led them in the wilderness. Today, they had His side pierced with the spear, who for their sake had smitten Egypt with plagues. They gave Him gall to drink, who had rained down the manna for them to eat."
+
+trMA.Antiphon063.mode = miscellanea_en_US_dedes.misc.Mode7
+trMA.Antiphon063.incipit = "Lord, as You were approaching…"
+trMA.Antiphon063.text = "Lord, as You were approaching Your voluntary Passion, You said to Your Disciples, \"If you cannot watch with Me, even for one hour, how can you promise to die for Me? Look at Judas: he is not asleep, but he is intent on betraying Me to the transgressors. Rise, and pray, lest anyone deny Me when he sees Me on the Cross.\" O longsuffering Lord, glory to You!"
+
+trMA.Antiphon06T.mode = miscellanea_en_US_dedes.misc.Mode7
+trMA.Antiphon06T.incipit = "Rejoice, O Theotokos! For you…"
+trMA.Antiphon06T.text = "Rejoice, O Theotokos! For you contained in your womb the One whom the heavens cannot contain. Rejoice, O Virgin, the proclamation of Prophets! Through you Emmanuel shone forth to us. Rejoice, O Mother of Christ our God!"
+
+trMA.Antiphon06Kathisma.mode = miscellanea_en_US_dedes.misc.Mode7
+trMA.Antiphon06Kathisma.incipit = "What did the Savior do…"
+trMA.Antiphon06Kathisma.text = "What did the Savior do to you, Judas, that turned you into a traitor? Did He separate you from the company of the Apostles? Did He deprive you of the gift of healing? Did He eat the supper with the others but exclude you from the table? Did He wash the others' feet but overlook yours? Oh, so many blessings you have forgotten! So now your ingratitude is held up to scorn, but His incomparable forbearance is everywhere proclaimed, as well as His great mercy."
+
+trMA.Antiphon07.title = "Antiphon 7."
+trMA.Antiphon071.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon071.incipit = "As You permitted the transgressors…"
+trMA.Antiphon071.text = "As You permitted the transgressors to arrest You, Lord, You said to them, \"Even though you struck the shepherd and scattered the sheep, namely My twelve Disciples, I could summon more than twelve legions of angels. But I forbear, so that the unknown and secret things that I showed you through My prophets may be fulfilled.\" Glory to You, O Lord!"
+
+trMA.Antiphon072.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon072.incipit = "After Peter denied You three…"
+trMA.Antiphon072.text = "After Peter denied You three times, then he understood what You had said to him. But he brought to You tears of repentance. O God, have mercy on me and save me."
+
+trMA.Antiphon07T.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon07T.incipit = "Let us all praise the…"
+trMA.Antiphon07T.text = "Let us all praise the holy Virgin, as the gateway to salvation; as a Paradise of delight; as a cloud of the everlasting light; and let us say to her, \"Rejoice!\""
+
+trMA.Antiphon08.title = "Antiphon 8."
+trMA.Antiphon081.mode = miscellanea_en_US_dedes.misc.Mode2
+trMA.Antiphon081.incipit = "Tell us, O transgressors of…"
+trMA.Antiphon081.text = "Tell us, O transgressors of the Law: what did you hear from our Savior? Did He not explain the Law and the teachings of the Prophets? So, what was your reason for delivering to Pilate God the Word from God, and the Redeemer of our souls?"
+
+trMA.Antiphon082.mode = miscellanea_en_US_dedes.misc.Mode2
+trMA.Antiphon082.incipit = "\"Let Him be crucified!\" cried…"
+trMA.Antiphon082.text = "\"Let Him be crucified!\" cried they who had always enjoyed Your gifts of grace; and they asked to receive a malefactor instead of You, the Benefactor, those slayers of the righteous. But You, O Christ, were silent, enduring their impudence, for You willed to suffer and to save us, in Your love for humanity."
+
+trMA.Antiphon08T.mode = miscellanea_en_US_dedes.misc.Mode2
+trMA.Antiphon08T.incipit = "Since we have no right…"
+trMA.Antiphon08T.text = "Since we have no right to speak because of our many sins, O Virgin Theotokos, implore Him who was born of you; for the prayer of a Mother can do much to win the Master's favor. O Lady, do not despise the entreaties of us sinners; for He who condescended to suffer for us is merciful and able to save us."
+
+trMA.Antiphon09.title = "Antiphon 9."
+trMA.Antiphon091.mode = miscellanea_en_US_dedes.misc.Mode3
+trMA.Antiphon091.incipit = "They weighed out the thirty…"
+trMA.Antiphon091.text = "They weighed out the thirty pieces of silver, the price of him on whom a price had been set by some of the sons of Israel. Watch and pray that you may not enter into temptation; The spirit indeed is willing, but the flesh is weak. Therefore, watch!"
+
+trMA.Antiphon092.mode = miscellanea_en_US_dedes.misc.Mode3
+trMA.Antiphon092.incipit = "They gave me gall for…"
+trMA.Antiphon092.text = "They gave me gall for my food, and they gave me vinegar for my drink. But You, O Lord, raise me up; and I will repay them."
+
+trMA.Antiphon09T.mode = miscellanea_en_US_dedes.misc.Mode3
+trMA.Antiphon09T.incipit = "We, of the Gentiles, sing…"
+trMA.Antiphon09T.text = "We, of the Gentiles, sing praise to you, O pure Theotokos; for you gave birth to Christ our God, who, through you freed mankind from the curse."
+
+trMA.Antiphon09Kathisma.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon09Kathisma.incipit = "How could Judas, who was…"
+trMA.Antiphon09Kathisma.text = "How could Judas, who was once Your Disciple, turn against You and meditate Your betrayal? Unrighteous traitor, he deceitfully sat at supper with You. He had gone to the priests, and said, \"What will you give me, if to you I deliver Him who broke the Law and profaned the Sabbath?\" O longsuffering Lord, glory to You!"
+
+trMA.Antiphon10.title = "Antiphon 10."
+trMA.Antiphon101.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon101.incipit = "He who covers himself with…"
+trMA.Antiphon101.text = "He who covers himself with light as with a garment stood naked in judgment. He received blows to the cheeks from hands He had fashioned. And the unlawful people had the Lord of glory nailed to the Cross. Then the veil of the Temple was torn in two, and the sun hid itself, unable to watch this insult to God, before whom the universe trembles. Let us worship Him."
+
+trMA.Antiphon102.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon102.incipit = "The disciple denied, but the…"
+trMA.Antiphon102.text = "The disciple denied, but the robber exclaimed, \"Remember me, O Lord, in Your kingdom.\""
+
+trMA.Antiphon10T.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon10T.incipit = "Grant peace to the world…"
+trMA.Antiphon10T.text = "Grant peace to the world, O Lord, who for Your servants' sake accepted to wear flesh from the Virgin, so that with one voice we might glorify You, who love humanity."
+
+trMA.Antiphon11.title = "Antiphon 11."
+trMA.Antiphon111.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon111.incipit = "For the good that You…"
+trMA.Antiphon111.text = "For the good that You, O Christ, had done to them, the Hebrew race condemned You to be crucified, giving You vinegar mixed with gall to drink. But You, Lord, give them according to their works, for they did not understand Your condescension."
+
+trMA.Antiphon112.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon112.incipit = "The Hebrews were not content…"
+trMA.Antiphon112.text = "The Hebrews were not content that You were betrayed, O Christ; but they shook their heads, bringing scorn and mockery. But You, Lord, give them according to their works, for they meditated on vain things against You."
+
+trMA.Antiphon113.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon113.incipit = "Neither the earth as it…"
+trMA.Antiphon113.text = "Neither the earth as it quaked, nor the rocks as they split; neither the veil of the Temple, nor the raising of the dead convinced the Jews. But You, Lord, give them according to their works, for they meditated on vain things against You."
+
+trMA.Antiphon11T.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon11T.incipit = "O Virgin Theotokos, we know…"
+trMA.Antiphon11T.text = "O Virgin Theotokos, we know God, incarnate of you, the only pure and only blessed. Therefore we unceasingly praise and magnify you."
+
+trMA.Antiphon12.title = "Antiphon 12."
+trMA.Antiphon121.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon121.incipit = "Thus says the Lord to…"
+trMA.Antiphon121.text = "Thus says the Lord to the Jews, \"O my people, what have I done to you, how have I upset you? I gave sight to your blind; I cleansed your lepers; I raised the man who lay paralyzed on his bed. O my people, what have I done to you, and how have you repaid me? Instead of manna, you fed Me gall; instead of water, you gave Me vinegar; instead of loving Me, you nailed Me to the Cross. So, I will no longer hold back, but I will call My Gentiles, and they will glorify Me and the Father and the Spirit; and I will grant them eternal life.\""
+
+trMA.Antiphon122.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon122.incipit = "Today, the veil of the…"
+trMA.Antiphon122.text = "Today, the veil of the Temple is torn in two, as a reproof to the transgressors. And the sun hides its rays, beholding the Master on the Cross."
+
+trMA.Antiphon123.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon123.incipit = "O lawmakers of Israel…"
+trMA.Antiphon123.text = "O lawmakers of Israel, Jewish leaders, and Pharisees, the choir of Apostles calls out to you, \"Behold, the Temple that you destroyed; behold, the Lamb that you crucified. You delivered Him to the grave, but He has risen by His own power. Do not deceive yourselves; for He is the One who saved you in the sea, and fed you in the desert. He is the Life, and the Light, and the Peace of the world.\""
+
+trMA.Antiphon12T.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon12T.incipit = "Rejoice, O gateway of the…"
+trMA.Antiphon12T.text = "Rejoice, O gateway of the King of glory! Only the Most High passed through you, for the salvation of our souls, and again left you sealed."
+
+trMA.Antiphon12Kathisma.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon12Kathisma.incipit = "When You, O God, stood…"
+trMA.Antiphon12Kathisma.text = "When You, O God, stood before Caiaphas, and You, the Judge, were delivered to Pilate, the heavenly hosts were shaken with fear. Then You were lifted on the Cross between two robbers, and You, the sinless One, were numbered with the lawless, in order to save humanity. O forbearing Lord, glory to You!"
+
+trMA.Antiphon13.title = "Antiphon 13."
+trMA.Antiphon131.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon131.incipit = "The crowd of Jews demanded…"
+trMA.Antiphon131.text = "The crowd of Jews demanded that Pilate have You crucified, O Lord. They found no crime in You. Nevertheless they released the convict, Barabbas, and they condemned You, the righteous One. And so they incurred the guilt for murder. But You, Lord, give them their due reward, for they meditated vain things against You."
+
+trMA.Antiphon132.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon132.incipit = "Christ is the power of…"
+trMA.Antiphon132.text = "Christ is the power of God and the wisdom of God; before Him all things tremble and fear, and every tongue praises Him. And the priests slapped Him and gave Him gall. He accepted to suffer it all, wishing to save us from our lawlessness by His blood, in His love for humanity."
+
+trMA.Antiphon13T.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon13T.incipit = "O Theotokos, through a word…"
+trMA.Antiphon13T.text = "O Theotokos, through a word you ineffably gave birth to the Word, your Creator. Implore Him to save our souls."
+
+trMA.Antiphon14.title = "Antiphon 14."
+trMA.Antiphon141.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon141.incipit = "O Lord, though the Robber…"
+trMA.Antiphon141.text = "O Lord, though the Robber had defiled his hands with blood, yet You took him as a fellow traveler. We pray You to number us with him, for You are good and You love humanity."
+
+trMA.Antiphon142.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon142.incipit = "On the cross, the Robber…"
+trMA.Antiphon142.text = "On the cross, the Robber let out a small voice, but he mustered great faith. In an instant he was saved. And he was first to open the gates of Paradise and to go in. O Lord, who accepted his repentance, glory to You!"
+
+trMA.Antiphon14T.mode = miscellanea_en_US_dedes.misc.Mode8
+trMA.Antiphon14T.incipit = "Rejoice, O Maiden! Through an…"
+trMA.Antiphon14T.text = "Rejoice, O Maiden! Through an Angel you received the joy of the world! Rejoice, for you gave birth to your Creator and Lord! Rejoice, for you were counted worthy to become the Mother of Christ our God!"
+
+trMA.Antiphon15.title = "Antiphon 15."
+trMA.Antiphon151.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon151.rubric = "The congregations kneels as the icon of the Crucifixion is processed. The priest intones the following troparion, then the Choirs sing it antiphonally, verse by verse."
+trMA.Antiphon151.incipit = "Today, He who suspended the…"
+trMA.Antiphon151.text = "Today, He who suspended the earth in the waters is suspended on a cross. (3) The King of the Angels wears a crown of thorns. He who wraps the sky in clouds is wrapped in a fake purple robe. He who freed Adam in the Jordan accepts to be slapped. The Bridegroom of the Church is fixed with nails to the cross. The Son of the Virgin is pierced with a spear. We worship Your Passion, O Christ. (3) Show us also Your glorious Resurrection."
+trMA.Antiphon1511.incipit = "Today, He who suspended the…"
+trMA.Antiphon1511.text = "Today, He who suspended the earth in the waters is suspended on a cross."
+trMA.Antiphon1512.incipit = "The King of the Angels…"
+trMA.Antiphon1512.text = "The King of the Angels wears a crown of thorns."
+trMA.Antiphon1513.incipit = "He who wraps the sky…"
+trMA.Antiphon1513.text = "He who wraps the sky in clouds is wrapped in a fake purple robe."
+trMA.Antiphon1514.incipit = "He who freed Adam in…"
+trMA.Antiphon1514.text = "He who freed Adam in the Jordan accepts to be slapped."
+trMA.Antiphon1515.incipit = "The Bridegroom of the Church…"
+trMA.Antiphon1515.text = "The Bridegroom of the Church is fixed with nails to the cross."
+trMA.Antiphon1516.incipit = "The Son of the Virgin…"
+trMA.Antiphon1516.text = "The Son of the Virgin is pierced with a spear."
+trMA.Antiphon1517.incipit = "We worship Your Passion, O…"
+trMA.Antiphon1517.text = "We worship Your Passion, O Christ."
+trMA.Antiphon1518.incipit = "Show us also Your glorious…"
+trMA.Antiphon1518.text = "Show us also Your glorious Resurrection."
+
+trMA.Antiphon152.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon152.incipit = "We do not celebrate Passover…"
+trMA.Antiphon152.text = "We do not celebrate Passover like Jews do. For our Passover is Christ; He was sacrificed for us. So, let us purify ourselves of all defilement and sincerely pray to Him, \"Arise, O Lord! Save us, in Your love for humanity.\""
+
+trMA.Antiphon153.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon153.incipit = "Lord, Your Cross is life…"
+trMA.Antiphon153.text = "Lord, Your Cross is life and resurrection for us Your people; and trusting in it we extol You, our God, who was crucified. Have mercy on us."
+
+trMA.Antiphon15T.mode = miscellanea_en_US_dedes.misc.Mode6
+trMA.Antiphon15T.incipit = "Seeing You hanging on the…"
+trMA.Antiphon15T.text = "Seeing You hanging on the Cross, O Christ, Your Mother cried aloud, \"What is this strange mystery that I see, my Son? How is it that You die, with Your body nailed to a cross, O Giver of life?\""
+
+trMA.Antiphon15Kathisma.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Antiphon15Kathisma.incipit = "You ransomed us from the…"
+trMA.Antiphon15Kathisma.text = "You ransomed us from the curse of the Law by Your precious Blood. You were nailed to the Cross, and You were pierced with a spear, and You gushed forth immortality for humanity. Our Savior, glory to You!"
+
+trMA.Beatitudes01.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Beatitudes01.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.melody
+trMA.Beatitudes01.incipit = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.incipit
+trMA.Beatitudes01.text = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.text
+
+trMA.Beatitudes02.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Beatitudes02.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
+trMA.Beatitudes02.incipit = "The transgressors of the Law…"
+trMA.Beatitudes02.text = "The transgressors of the Law from a disciple bought Him who made the Law. * As though a breaker of the Law they stood Him before Pilate's judgment seat. * They shouted to crucify the One who gave them manna in the wilderness of old. * But we rather imitate the righteous Robber, crying aloud in faith and say, \"Remember us as well in Your kingdom, O Savior.\""
+
+trMA.Beatitudes03.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Beatitudes03.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
+trMA.Beatitudes03.incipit = "That swarm of murderers of…"
+trMA.Beatitudes03.text = "That swarm of murderers of God, that gathering of Jews who defied the Law, * in a frenzy cried aloud and demanded Pilate to crucify * Christ who was innocent. And instead they asked that Barabbas be released. * But we rather cry aloud the words of the grateful Robber to the Lord and say, \"Remember us as well in Your kingdom, O Savior.\""
+
+trMA.Beatitudes04.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Beatitudes04.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
+trMA.Beatitudes04.incipit = "O Christ, Your life-bearing side…"
+trMA.Beatitudes04.text = "O Christ, Your life-bearing side is a spring that like a river out of Eden flows, * and it waters Your Church, as an rational Paradise; * and from there it separates into the four Gospels as if as many heads. * It irrigates the world and it fills creation with joy, and it teaches the Gentiles * faithfully to adore and worship Your kingdom."
+
+trMA.Beatitudes05.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Beatitudes05.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
+trMA.Beatitudes05.incipit = "You were crucified for me…"
+trMA.Beatitudes05.text = "You were crucified for me to become the source of forgiveness for me. * You were pierced in the side so that streams of life would flow out to me. * With nails You were fastened, so that having seen the depth of Your Passion I confirm * the height of Your power, O Christ, and I cry to You, the Giver of Life, * \"Glory to Your Cross and Your Passion, O Savior!\""
+
+trMA.Beatitudes06.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Beatitudes06.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
+trMA.Beatitudes06.incipit = "When You were crucified, O…"
+trMA.Beatitudes06.text = "When You were crucified, O Christ, all creation trembled on seeing it. * The foundations of the earth were quaking in fear of Your might, O Lord. * The sun and the stars above hid their light; the mountains were shuddering. * The rocks split; the Temple Veil was torn in two. And we with the Robber who believed * cry out to You and say, \"Remember us, O Savior.\""
+
+trMA.Beatitudes07.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Beatitudes07.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
+trMA.Beatitudes07.incipit = "You have set aside the…"
+trMA.Beatitudes07.text = "You have set aside the bond which stood against us, shredding it by Your Cross. * When You were numbered with the dead, You disarmed and bound the tyrant ruling there, * delivering everyone from the bonds of death by Your resurrection; * through which we were illumined. And we cry out to You, O Lord who love humanity, * \"Remember us as well in Your kingdom, O Savior.\""
+
+trMA.Beatitudes08.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Beatitudes08.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
+trMA.Beatitudes08.incipit = "You were lifted on the…"
+trMA.Beatitudes08.text = "You were lifted on the Cross and destroyed the power of death on us, * and You set aside the bond which stood against us and, as God, cancelled it. * Grant that we may also have the Robber's repentance, O only Friend of man. * We faithfully worship You, O Christ our God, and we cry aloud to You, * \"Remember us as well in Your kingdom, O Savior.\""
+
+trMA.BeatitudesTr.verse = prayers_en_US_dedes.pr.GloryToTheFather.text
+trMA.BeatitudesTr.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.BeatitudesTr.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
+trMA.BeatitudesTr.incipit = "All believers, let us pray…"
+trMA.BeatitudesTr.text = "All believers, let us pray that we be of one mind and worthily * sing praises glorifying God, Father, Son, and Spirit, the Trinity, * united divinity, which exists forever in three hypostases, * remaining unconfused, simple, indivisible, unapproachable, * by whom we are delivered from the fire of perdition."
+
+trMA.BeatitudesT.verse = prayers_en_US_dedes.pr.BothNowAndEver.text
+trMA.BeatitudesT.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.BeatitudesT.melody = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
+trMA.BeatitudesT.incipit = "O Christ our God, we…"
+trMA.BeatitudesT.text = "O Christ our God, we present, as an intercessor to pray for us, * Your Virgin Mother who conceived without seed and physically gave birth to You, * and after the childbirth remained incorrupt, O most merciful Lord. * She prays that You always grant forgiveness of offenses to those who cry aloud, * \"Remember us as well in Your kingdom, O Savior.\""
+
 
 trMA.C1.acrostic.title = "Three-ode Canon."
 trMA.C1.acrostic.notice1 = ""
@@ -567,7 +542,6 @@ trMA.Exaposteilarion1.melody = he.a.m3_en_US_dedes.heAU.TonListinAfthimeron.melo
 trMA.Exaposteilarion1.incipit = he.a.m3_en_US_dedes.heAU.TonListinAfthimeron.incipit
 trMA.Exaposteilarion1.text = he.a.m3_en_US_dedes.heAU.TonListinAfthimeron.text
 
-trHW.Lauds01.text = properties_en_US_dedes.media.key
 
 trMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode3
 trMA.Lauds1.melody = miscellanea_en_US_dedes.misc.Idiomelon
@@ -624,9 +598,9 @@ trMA.AposBoth.melody = miscellanea_en_US_dedes.misc.Idiomelon
 trMA.AposBoth.incipit = "And so the pen was…"
 trMA.AposBoth.text = "And so the pen was dipped and the verdict was signed by unjust judges. And Jesus was convicted and sentenced to the cross. Creation suffers as it sees the Lord on the Cross. O Lord, who suffer for me in the nature of Your body, glory to You!"
 
-trHW.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
-trHW.Apolytikion1.incipit = trHW.Antiphon15Kathisma.incipit
-trHW.Apolytikion1.text = trHW.Antiphon15Kathisma.text
+trMA.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
+trMA.Apolytikion1.incipit = trMA.Antiphon15Kathisma.incipit
+trMA.Apolytikion1.text = trMA.Antiphon15Kathisma.text
 
 trHR.title = "THE SERVICE OF THE HOURS ON GREAT AND HOLY FRIDAY"
 trHR.poet = poets_en_US_dedes.po.KyrillouAlexandreias
@@ -643,8 +617,8 @@ trH1.Theotokion.text = ho.ho04_en_US_dedes.hoH1.Theotokion.text
 
 trH1.Idiomelon1.mode = miscellanea_en_US_dedes.misc.Mode8
 trH1.Idiomelon1.melody = ""
-trH1.Idiomelon1.incipit = trHW.Antiphon122.incipit
-trH1.Idiomelon1.text = trHW.Antiphon122.text
+trH1.Idiomelon1.incipit = trMA.Antiphon122.incipit
+trH1.Idiomelon1.text = trMA.Antiphon122.text
 
 trH1.Idiomelon2.mode = miscellanea_en_US_dedes.misc.Mode8
 trH1.Idiomelon2.melody = ""
@@ -653,8 +627,8 @@ trH1.Idiomelon2.text = "You were led as a sheep to slaughter, O Christ the King,
 
 trH1.Idiomelon3.mode = miscellanea_en_US_dedes.misc.Mode8
 trH1.Idiomelon3.melody = ""
-trH1.Idiomelon3.incipit = trHW.Antiphon071.incipit
-trH1.Idiomelon3.text = trHW.Antiphon071.text
+trH1.Idiomelon3.incipit = trMA.Antiphon071.incipit
+trH1.Idiomelon3.text = trMA.Antiphon071.text
 
 trH1.Kontakion.mode = miscellanea_en_US_dedes.misc.Mode8
 trH1.Kontakion.incipit = trMA.Kontakion1.incipit
@@ -701,13 +675,13 @@ trH6.Theotokion.text = ho.ho06_en_US_dedes.hoH6.Theotokion.text
 
 trH6.Idiomelon1.mode = miscellanea_en_US_dedes.misc.Mode8
 trH6.Idiomelon1.melody = miscellanea_en_US_dedes.misc.Idiomelon
-trH6.Idiomelon1.incipit = trHW.Antiphon121.incipit
-trH6.Idiomelon1.text = trHW.Antiphon121.text
+trH6.Idiomelon1.incipit = trMA.Antiphon121.incipit
+trH6.Idiomelon1.text = trMA.Antiphon121.text
 
 trH6.Idiomelon2.mode = miscellanea_en_US_dedes.misc.Mode8
 trH6.Idiomelon2.melody = miscellanea_en_US_dedes.misc.Idiomelon
-trH6.Idiomelon2.incipit = trHW.Antiphon123.incipit
-trH6.Idiomelon2.text = trHW.Antiphon123.text
+trH6.Idiomelon2.incipit = trMA.Antiphon123.incipit
+trH6.Idiomelon2.text = trMA.Antiphon123.text
 
 trH6.Idiomelon3.mode = miscellanea_en_US_dedes.misc.Mode5
 trH6.Idiomelon3.melody = miscellanea_en_US_dedes.misc.Idiomelon
