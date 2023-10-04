@@ -578,8 +578,8 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meMegalynarion.text = ""
-meMegalynarion2.text = ""
+meLI.Megalynarion.text = ""
+meLI.Megalynarion2.text = ""
 
 alt1.meDA.date = "December 17" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = "Memory of our Father among the Saints Dionysios the New, Archbishop of Aegina, the Wonder-worker, from the Island of Zakynthos" //full title of day
@@ -1029,4 +1029,4 @@ alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 
 alt1.meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
-alt1.meMegalynarion.text = ""
+alt1.meLI.Megalynarion.text = ""

@@ -369,7 +369,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meMegalynarion.text = ""
+meLI.Megalynarion.text = ""
 
 alt1.meDA.date = "October 20" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = "Memory of our Devout and God-bearing Father Gerasimos, the new Ascetic, the Wonder-worker, who lived as an ascetic in Kephallenia" //full title of day
@@ -1466,8 +1466,8 @@ alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 
 alt1.meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
-alt1.meMegalynarion.text = "Since you are the great boast of all of Greece * and the sacred offspring sprouting from the Peloponnese * and Kefallinia's unplunderable treasure, * grant shelter to your servants, O godly Gerasimos."
-alt1.meMegalynarion2.text = "Brilliant son of Trikala, O rejoice. * Rejoice, Cephalonians' unassailable source of help. * Rejoice, pride and glory of priests and all monastics, * the boast of the believers, O thrice-blest Gerasimos."
+alt1.meLI.Megalynarion.text = "Since you are the great boast of all of Greece * and the sacred offspring sprouting from the Peloponnese * and Kefallinia's unplunderable treasure, * grant shelter to your servants, O godly Gerasimos."
+alt1.meLI.Megalynarion2.text = "Brilliant son of Trikala, O rejoice. * Rejoice, Cephalonians' unassailable source of help. * Rejoice, pride and glory of priests and all monastics, * the boast of the believers, O thrice-blest Gerasimos."
 
 alt1.meCoupletv1.text = "Grant, O Gerasimos, unto your namesake"
 alt1.meCoupletv2.text = "divine grace for herein extolling your virtues."
@@ -1475,7 +1475,7 @@ alt1.meCoupletv2.text = "divine grace for herein extolling your virtues."
 alt1.meCoupletv3.text = "Remember, O Gerasimos, O equal of angels,"
 alt1.meCoupletv4.text = "the angelonymous monk who translated your Service."
 
-alt1.meMegalynarion3.text = ""
+alt1.meLI.Megalynarion3.text = ""
 
 alt2.meDA.date = "October 20" // date
 alt2.meDA.commemoration.full = "" //full title of day
@@ -1483,4 +1483,4 @@ alt2.meDA.commemoration.first_short = "Memory of St. Matrona"
 alt2.meDA.commemoration.first_title = ""
 alt2.meDA.commemoration.first_name = ""
 
-alt2.meMegalynarion.text = ""
+alt2.meLI.Megalynarion.text = ""
