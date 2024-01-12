@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = me.m10.d20_en_US_dedes
 
 meDA.date = "October 20"
-meDA.commemoration.full = "Memory of the Holy Great Martyr Artemius, Devout Matrona of Chios, and our Devout and God-bearing Father Gerasimos of Kefallinia." //full title of day
-meDA.commemoration.first = "Memory of the Holy Great Martyr Artemius"
-meDA.commemoration.first_short = "Memory of the Holy Great Martyr Artemius"
+meDA.commemoration.full = "Memory of the Holy Great-martyr Artemius, Devout Matrona of Chios, and our Devout and God-bearing Father Gerasimos of Kefallinia." //full title of day
+meDA.commemoration.first = "Memory of the Holy Great-martyr Artemius"
+meDA.commemoration.first_short = "Memory of the Holy Great-martyr Artemius"
 meDA.commemoration.first_title = "For St. Artemius."
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = "For St. Gerasimos."
 meDA.commemoration.second_name = ""
-meDA.insert1 = "and the holy Great Martyr Artemius," //for use in petitions and dismissal
+meDA.insert1 = "and the holy Great-martyr Artemius," //for use in petitions and dismissal
 meDA.insert2 = "whose memory we are observing," //for use in petitions and dismissal
 meDA.note = ""
-meLE.commemoration1 = "The Holy Great Martyr Artemius. The Venerable Matrona of Chios."
+meLE.commemoration1 = "The Holy Great-martyr Artemius. The Venerable Matrona of Chios."
 meLE.commemoration2 = "Our Venerable God-bearing Father Gerasimos of Kephallenia."
 meHO.number = ""
 meHO.rank = ""
@@ -400,7 +400,7 @@ alt1.meSV.Stichera1.text = "When from youth you followed after Christ * wounded 
 alt1.meSV.Stichera2.mode = miscellanea_en_US_dedes.misc.Mode2
 alt1.meSV.Stichera2.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 alt1.meSV.Stichera2.incipit = "Father, as you bore…"
-alt1.meSV.Stichera2.text = "Father, as you bore the Savior's cross * with an ardent heart and rejoicing, you went a distance from * those to whom you were related and you followed the Lord. * Thus, O holy Gerasimos,  * you traveled through many * places, and you eagerly collected for yourself * like a bee the very best honey * of the holy virtues from all things * and you emulated the unbodied hosts. "
+alt1.meSV.Stichera2.text = "Father, as you bore the Savior's cross * with an ardent heart and rejoicing, you went a distance from * those to whom you were related and you followed the Lord. * Thus, O holy Gerasimos, * you traveled through many * places, and you eagerly collected for yourself * like a bee the very best honey * of the holy virtues from all things * and you emulated the unbodied hosts. "
 
 alt1.meSV.Stichera3.mode = miscellanea_en_US_dedes.misc.Mode2
 alt1.meSV.Stichera3.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
@@ -437,7 +437,7 @@ alt1.meSV.Aposticha2.text = "Blessed Gerasimos, * your most distinguished body, 
 alt1.meSV.Aposticha3.mode = miscellanea_en_US_dedes.misc.Mode2
 alt1.meSV.Aposticha3.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
 alt1.meSV.Aposticha3.incipit = "Kefallinia runs…"
-alt1.meSV.Aposticha3.text = "Kefallinia runs * unto your sacred relic * for  refuge with great reverence. * She has you as her guardian, and dignity, Gerasimos."
+alt1.meSV.Aposticha3.text = "Kefallinia runs * unto your sacred relic * for refuge with great reverence. * She has you as her guardian, and dignity, Gerasimos."
 
 alt1.meSV.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode2
 alt1.meSV.AposGlory.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
@@ -453,7 +453,7 @@ alt1.meVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode1
 alt1.meVE.Stichera01.greekmelody = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.greekname
 alt1.meVE.Stichera01.melody = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.name
 alt1.meVE.Stichera01.incipit = "What a paradoxical miracle…"
-alt1.meVE.Stichera01.text = "What a paradoxical miracle! * For in body, in truth, the divine Gerasimos, * the glorious ornament of Cephalonia, * completed while still on earth the life of angels, incited by love for Christ. * An eminent vessel of the gifts of grace of the Spirit did he become. *  Therefore let us all rejoicing * celebrate his memory * and consider with pleasure * the ascetic struggles of his life."
+alt1.meVE.Stichera01.text = "What a paradoxical miracle! * For in body, in truth, the divine Gerasimos, * the glorious ornament of Cephalonia, * completed while still on earth the life of angels, incited by love for Christ. * An eminent vessel of the gifts of grace of the Spirit did he become. * Therefore let us all rejoicing * celebrate his memory * and consider with pleasure * the ascetic struggles of his life."
 
 alt1.meVE.Stichera02.mode = miscellanea_en_US_dedes.misc.Mode1
 alt1.meVE.Stichera02.melody = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.name
@@ -566,7 +566,7 @@ alt1.meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode5
 alt1.meVE.Aposticha1.greekmelody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.greekname
 alt1.meVE.Aposticha1.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
 alt1.meVE.Aposticha1.incipit = "Rejoice, O priceless treasure of…"
-alt1.meVE.Aposticha1.text = "Rejoice, O priceless treasure of all * the holy virtues; the abode of the Paraclete; * sweet meadow of dispassion;  the treasure of divine love; * and the peaceful dwelling of humility; * O holy Gerasimos, the exemplar of anchorites, * of godly giving the exponent inspired by God; * organ of ascetic endeavor for excellence; * lantern that radiates to all the purity of your ways; * of incorruption the jewel, immortal model of self-control. * We pray, importune Christ * that great mercy be imparted by Him unto our souls."
+alt1.meVE.Aposticha1.text = "Rejoice, O priceless treasure of all * the holy virtues; the abode of the Paraclete; * sweet meadow of dispassion; the treasure of divine love; * and the peaceful dwelling of humility; * O holy Gerasimos, the exemplar of anchorites, * of godly giving the exponent inspired by God; * organ of ascetic endeavor for excellence; * lantern that radiates to all the purity of your ways; * of incorruption the jewel, immortal model of self-control. * We pray, importune Christ * that great mercy be imparted by Him unto our souls."
 
 alt1.meVE.Aposticha2.mode = miscellanea_en_US_dedes.misc.Mode5
 alt1.meVE.Aposticha2.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
@@ -645,7 +645,7 @@ alt1.meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode4
 alt1.meMA.Kathisma31.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 alt1.meMA.Kathisma31.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
 alt1.meMA.Kathisma31.incipit = "Animated by divine love…"
-alt1.meMA.Kathisma31.text = "Animated by divine * love, many places you traversed * and you gathered for yourself * the holy virtues as if wealth. * And thus when you went to Zion, O holy father, * you prudently performed * a fast that truly endured * the length of forty days, * just as the Lord of old. * And after death you appeared to the woman * when you extracted her from the well. * For Christ has given  you grace in abundance * to work miracles, O Gerasimos."
+alt1.meMA.Kathisma31.text = "Animated by divine * love, many places you traversed * and you gathered for yourself * the holy virtues as if wealth. * And thus when you went to Zion, O holy father, * you prudently performed * a fast that truly endured * the length of forty days, * just as the Lord of old. * And after death you appeared to the woman * when you extracted her from the well. * For Christ has given you grace in abundance * to work miracles, O Gerasimos."
 
 alt1.meMA.Kathisma32.mode = miscellanea_en_US_dedes.misc.Mode8
 alt1.meMA.Kathisma32.greekmelody = he.a.m8_en_US_dedes.heAU.TinSofianKaiLogon.greekname
@@ -776,7 +776,7 @@ alt1.meMA.Ode1C3T.ode = miscellanea_en_US_dedes.misc.Ode1
 alt1.meMA.Ode1C3T.mode = miscellanea_en_US_dedes.misc.Mode4
 alt1.meMA.Ode1C3T.melody = he.h.m4_en_US_dedes.heHE.AnoixoToStomaMou.name
 alt1.meMA.Ode1C3T.incipit = "…"
-alt1.meMA.Ode1C3T.text = "O Lady, since you gave birth to God in flesh  you are henceforth viewed * as a royal palace of the creation's Lord and King * and a fiery throne of the almighty Master. * And therefore make me as well a dwelling place of grace."
+alt1.meMA.Ode1C3T.text = "O Lady, since you gave birth to God in flesh you are henceforth viewed * as a royal palace of the creation's Lord and King * and a fiery throne of the almighty Master. * And therefore make me as well a dwelling place of grace."
 
 alt1.meMA.Ode3C1H.ode = miscellanea_en_US_dedes.misc.Ode3
 alt1.meMA.Ode3C1H.mode = miscellanea_en_US_dedes.misc.Mode8
@@ -870,7 +870,7 @@ alt1.meMA.Ode3Kathisma2.mode = miscellanea_en_US_dedes.misc.Mode5
 alt1.meMA.Ode3Kathisma2.greekmelody = he.a.m5_en_US_dedes.heAU.TonSynanarchonLogon.greekname
 alt1.meMA.Ode3Kathisma2.melody = he.a.m5_en_US_dedes.heAU.TonSynanarchonLogon.name
 alt1.meMA.Ode3Kathisma2.incipit = "You strove zealously after the…"
-alt1.meMA.Ode3Kathisma2.text = "You strove zealously after the great accomplishments * of the ven'rable fathers and their angelic life * and were equal to them, O father Gerasimos, * in glory. For you were by God manifestly  glorified * through your miraculous healings, * O God-bearing wonder-worker, * the ornament of Cephalonia."
+alt1.meMA.Ode3Kathisma2.text = "You strove zealously after the great accomplishments * of the ven'rable fathers and their angelic life * and were equal to them, O father Gerasimos, * in glory. For you were by God manifestly glorified * through your miraculous healings, * O God-bearing wonder-worker, * the ornament of Cephalonia."
 
 alt1.meMA.Ode3KathismaT.mode = miscellanea_en_US_dedes.misc.Mode5
 alt1.meMA.Ode3KathismaT.melody = he.a.m5_en_US_dedes.heAU.TonSynanarchonLogon.name
@@ -1008,7 +1008,7 @@ alt1.meMA.Ode5C23.ode = miscellanea_en_US_dedes.misc.Ode5
 alt1.meMA.Ode5C23.mode = miscellanea_en_US_dedes.misc.Mode8
 alt1.meMA.Ode5C23.melody = he.h.m8_en_US_dedes.heHE.InaTiMeAposo.name
 alt1.meMA.Ode5C23.incipit = "…"
-alt1.meMA.Ode5C23.text = "You appeared as a holy * and a very pure preist, O blessed Gerasimos, * in most holy  Zion, * and you faithfully, blamelessly served as such; * and you brought before Christ * your godly life, O sacred father, * as a perfect oblation and sacrifice."
+alt1.meMA.Ode5C23.text = "You appeared as a holy * and a very pure preist, O blessed Gerasimos, * in most holy Zion, * and you faithfully, blamelessly served as such; * and you brought before Christ * your godly life, O sacred father, * as a perfect oblation and sacrifice."
 
 alt1.meMA.Ode5C2T.ode = miscellanea_en_US_dedes.misc.Ode5
 alt1.meMA.Ode5C2T.mode = miscellanea_en_US_dedes.misc.Mode8
@@ -1021,7 +1021,7 @@ alt1.meMA.Ode5C31.mode = miscellanea_en_US_dedes.misc.Mode4
 alt1.meMA.Ode5C31.greekmelody = he.h.m4_en_US_dedes.heHE.ExestiTaSympanta.greekname
 alt1.meMA.Ode5C31.melody = he.h.m4_en_US_dedes.heHE.ExestiTaSympanta.name
 alt1.meMA.Ode5C31.incipit = "…"
-alt1.meMA.Ode5C31.text = "Instead of corruptible and earthly riches, you received *  the heavenly riches from the Master * who glorified you, O saint Gerasimos. * And thus both alive and after death, * you, O blessed one, were shown * to have worked many miracles."
+alt1.meMA.Ode5C31.text = "Instead of corruptible and earthly riches, you received * the heavenly riches from the Master * who glorified you, O saint Gerasimos. * And thus both alive and after death, * you, O blessed one, were shown * to have worked many miracles."
 
 alt1.meMA.Ode5C32.ode = miscellanea_en_US_dedes.misc.Ode5
 alt1.meMA.Ode5C32.mode = miscellanea_en_US_dedes.misc.Mode4
@@ -1167,14 +1167,14 @@ alt1.meMA.Ode7C14.ode = miscellanea_en_US_dedes.misc.Ode7
 alt1.meMA.Ode7C14.mode = miscellanea_en_US_dedes.misc.Mode8
 alt1.meMA.Ode7C14.melody = he.h.m8_en_US_dedes.heHE.OiEkTisIoudaias.name
 alt1.meMA.Ode7C14.incipit = "…"
-alt1.meMA.Ode7C14.text = "In the bush that was burning * while remaining unburnt did Moses of old perceive, *  O Virgin, the exceeding * mystery of your childbirth. * For the God of all from your womb * came forth as light and consumed * our sins and our transgressions."
+alt1.meMA.Ode7C14.text = "In the bush that was burning * while remaining unburnt did Moses of old perceive, * O Virgin, the exceeding * mystery of your childbirth. * For the God of all from your womb * came forth as light and consumed * our sins and our transgressions."
 
 alt1.meMA.Ode7C21.ode = miscellanea_en_US_dedes.misc.Ode7
 alt1.meMA.Ode7C21.mode = miscellanea_en_US_dedes.misc.Mode8
 alt1.meMA.Ode7C21.greekmelody = he.h.m8_en_US_dedes.heHE.TheouSynkatavasin.greekname
 alt1.meMA.Ode7C21.melody = he.h.m8_en_US_dedes.heHE.TheouSynkatavasin.name
 alt1.meMA.Ode7C21.incipit = "Your mighty ascetic feats…"
-alt1.meMA.Ode7C21.text = "Your mighty ascetic feats, * O holy father, did you  nobly perform, * and you humiliated * the serpent through your astringent self-control. * And you made pumpkins the whole of your meager fare, * and thus received many gifts from God, O ven'rable one."
+alt1.meMA.Ode7C21.text = "Your mighty ascetic feats, * O holy father, did you nobly perform, * and you humiliated * the serpent through your astringent self-control. * And you made pumpkins the whole of your meager fare, * and thus received many gifts from God, O ven'rable one."
 
 alt1.meMA.Ode7C22.ode = miscellanea_en_US_dedes.misc.Ode7
 alt1.meMA.Ode7C22.mode = miscellanea_en_US_dedes.misc.Mode8
