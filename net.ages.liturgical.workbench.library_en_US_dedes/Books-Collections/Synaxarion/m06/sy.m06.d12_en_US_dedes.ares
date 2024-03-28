@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = sy.m06.d12_en_US_dedes
 
 syMA.commemoration01.text = "On June 12 we commemorate our devout Father Onouphrios of Egypt."
+syMA.commemoration01as02.text = "On this day we also commemorate our devout Father Onouphrios of Egypt."
 syMA.commemoration01.couplet1.title = titles_en_US_dedes.ti.Verses
 syMA.commemoration01.couplet1.verse1 = ""
 syMA.commemoration01.couplet1.verse2 = ""
@@ -33,11 +34,18 @@ syMA.commemoration04.couplet4.title = ""
 syMA.commemoration04.couplet4.verse1 = ""
 syMA.commemoration04.couplet4.verse2 = ""
 
-syMA.commemoration05.text = ""
+syMA.commemoration05.text = "On this day we also commemorate our father among the saints Gerasimos, Bishop of Abydos, erudite professor at Holy Cross School of Theology in Brookline, MA, and Teacher of America."
 syMA.commemoration05.couplet1.title = titles_en_US_dedes.ti.Verses
 syMA.commemoration05.couplet1.verse1 = ""
 syMA.commemoration05.couplet1.verse2 = ""
 syMA.commemoration05.narration.p01 = ""
+
+alt1.syMA.commemoration01.text = "On June 12 we commemorate our father among the saints Gerasimos, Bishop of Abydos, erudite professor at Holy Cross School of Theology in Brookline, MA, and Teacher of America."
+alt1.syMA.commemoration01.couplet1.title = titles_en_US_dedes.ti.Verses
+alt1.syMA.commemoration01.couplet1.verse1 = ""
+alt1.syMA.commemoration01.couplet1.verse2 = ""
+alt1.syMA.commemoration01.narration.p01 = ""
+alt1.syMA.lastline = "By his holy intercessions, Christ God, have mercy on us and save us. Amen."
 
 syMA.lastline = "By their holy intercessions, Christ God, have mercy on us. Amen."
 
