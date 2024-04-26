@@ -538,8 +538,8 @@ peMA.Lauds4.text = oc.m4.d1_en_US_dedes.ocMA.Lauds4.text
 
 peMA.Lauds7.mode = miscellanea_en_US_dedes.misc.Mode3
 peMA.Lauds7.melody = miscellanea_en_US_dedes.misc.Idiomelon
-peMA.Lauds7.incipit = peVE.LityGlory.incipit
-peMA.Lauds7.text = peVE.LityGlory.text
+peMA.Lauds7.incipit = pe.d099_en_US_dedes.peVE.LityGlory.incipit
+peMA.Lauds7.text = pe.d099_en_US_dedes.peVE.LityGlory.text
 
 peMA.Lauds8.mode = miscellanea_en_US_dedes.misc.Mode6
 peMA.Lauds8.melody = miscellanea_en_US_dedes.misc.Idiomelon
@@ -551,10 +551,10 @@ peMA.LaudsGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
 peMA.LaudsGlory.incipit = "The Well of life’s source…"
 peMA.LaudsGlory.text = "The Well of life’s source, Jesus our Savior, came to the well of Jacob the Patriarch, and He asked a Samaritan woman for a drink of water. When she objected that a Jew would have no dealings with her, the wise Creator diverts her attention with His sweet words, and gets her to ask instead for the eternal water. When she had received it, she proclaimed it to all, saying, “Come and see the Knower of things hidden; He is God, and He has come in the flesh to save humanity.”"
 
-peLI.Kontakion1.mode = peMA.Kontakion1.mode
-peLI.Kontakion1.melody = peMA.Kontakion1.melody
-peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
-peLI.Kontakion1.text = peMA.Kontakion1.text
+peLI.Kontakion1.mode = pe.d099_en_US_dedes.peMA.Kontakion1.mode
+peLI.Kontakion1.melody = pe.d099_en_US_dedes.peMA.Kontakion1.melody
+peLI.Kontakion1.incipit = pe.d099_en_US_dedes.peMA.Kontakion1.incipit
+peLI.Kontakion1.text = pe.d099_en_US_dedes.peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = miscellanea_en_US_dedes.misc.Mode1
 peLI.TheotokosHymnVerse.text = pe.d071_en_US_dedes.peMA.Ode9C1MKa.text

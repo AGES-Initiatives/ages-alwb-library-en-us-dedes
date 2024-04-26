@@ -323,11 +323,11 @@ meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = "With sacred hymns let us…"
 meMA.LaudsGlory.text = "With sacred hymns let us extol that great glory of priests, Athanasius, the invincible hero. By the power of the Spirit, he cut down the ranks of the heresies, and he raised the trophies of Orthodoxy throughout the world. He correctly expounded on the mystery of the Trinity, speaking of three because of the attributes of each Person, and then speaking of one because of the unconfused identity of essence. He theologized like the cherubim, and he intercedes for our souls."
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m05.d02_en_US_dedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m05.d02_en_US_dedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m05.d02_en_US_dedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m05.d02_en_US_dedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m05.d02_en_US_dedes.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 

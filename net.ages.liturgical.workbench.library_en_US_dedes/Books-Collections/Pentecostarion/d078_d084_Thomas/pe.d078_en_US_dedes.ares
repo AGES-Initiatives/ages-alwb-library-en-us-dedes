@@ -456,14 +456,14 @@ peMA.LaudsGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
 peMA.LaudsGlory.incipit = "Eight days after Your Resurrection…"
 peMA.LaudsGlory.text = "Eight days after Your Resurrection, O King Jesus, only-begotten Logos of the Father, You came and stood among Your Disciples, the doors being shut, and You gave them Your peace. Then, to the disbelieving Disciple, You showed the marks of the nails, and You said to him, “Come, touch my hands, take a look at my feet, place your hand in my uncontaminated side.” Then he believed it and cried out to You, “My Lord and my God, glory to You!”"
 
-peLI.Kontakion1.mode = peMA.Kontakion1.mode
-peLI.Kontakion1.melody = peMA.Kontakion1.melody
-peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
-peLI.Kontakion1.text = peMA.Kontakion1.text
+peLI.Kontakion1.mode = pe.d078_en_US_dedes.peMA.Kontakion1.mode
+peLI.Kontakion1.melody = pe.d078_en_US_dedes.peMA.Kontakion1.melody
+peLI.Kontakion1.incipit = pe.d078_en_US_dedes.peMA.Kontakion1.incipit
+peLI.Kontakion1.text = pe.d078_en_US_dedes.peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = miscellanea_en_US_dedes.misc.Mode1
-peLI.TheotokosHymn.incipit = peMA.Ode9C1H.incipit
-peLI.TheotokosHymn.text = peMA.Ode9C1H.text
+peLI.TheotokosHymn.incipit = pe.d078_en_US_dedes.peMA.Ode9C1H.incipit
+peLI.TheotokosHymn.text = pe.d078_en_US_dedes.peMA.Ode9C1H.text
 
 peLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 

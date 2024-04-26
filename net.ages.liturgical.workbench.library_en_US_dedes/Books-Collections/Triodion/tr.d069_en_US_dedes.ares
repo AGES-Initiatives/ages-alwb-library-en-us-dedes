@@ -61,8 +61,8 @@ trLI.CommunionHymn.incipit = "…"
 trLI.CommunionHymn.text = "Receive me, today, O Son of God, as a partaker of Your mystical Supper. I will not reveal Your mystery to Your enemies, nor will I give You a kiss, as did Judas. But like the Robber I confess to You. Remember me, O Lord, when You come in Your kingdom."
 
 trLI.AfterCommunion.mode = ""
-trLI.AfterCommunion.incipit = trLI.CommunionHymn.incipit
-trLI.AfterCommunion.text = trLI.CommunionHymn.text
+trLI.AfterCommunion.incipit = tr.d069_en_US_dedes.trLI.CommunionHymn.incipit
+trLI.AfterCommunion.text = tr.d069_en_US_dedes.trLI.CommunionHymn.text
 
 // Foot Washing
 
@@ -592,8 +592,8 @@ trMA.AposBoth.incipit = "And so the pen was…"
 trMA.AposBoth.text = "And so the pen was dipped and the verdict was signed by unjust judges. And Jesus was convicted and sentenced to the cross. Creation suffers as it sees the Lord on the Cross. O Lord, who suffer for me in the nature of Your body, glory to You!"
 
 trMA.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
-trMA.Apolytikion1.incipit = trMA.Antiphon15Kathisma.incipit
-trMA.Apolytikion1.text = trMA.Antiphon15Kathisma.text
+trMA.Apolytikion1.incipit = tr.d069_en_US_dedes.trMA.Antiphon15Kathisma.incipit
+trMA.Apolytikion1.text = tr.d069_en_US_dedes.trMA.Antiphon15Kathisma.text
 
 trHR.title = "THE SERVICE OF THE HOURS ON GREAT AND HOLY FRIDAY"
 trHR.poet = poets_en_US_dedes.po.KyrillouAlexandreias
@@ -610,8 +610,8 @@ trH1.Theotokion.text = ho.ho04_en_US_dedes.hoH1.Theotokion.text
 
 trH1.Idiomelon1.mode = miscellanea_en_US_dedes.misc.Mode8
 trH1.Idiomelon1.melody = ""
-trH1.Idiomelon1.incipit = trMA.Antiphon122.incipit
-trH1.Idiomelon1.text = trMA.Antiphon122.text
+trH1.Idiomelon1.incipit = tr.d069_en_US_dedes.trMA.Antiphon122.incipit
+trH1.Idiomelon1.text = tr.d069_en_US_dedes.trMA.Antiphon122.text
 
 trH1.Idiomelon2.mode = miscellanea_en_US_dedes.misc.Mode8
 trH1.Idiomelon2.melody = ""
@@ -620,12 +620,12 @@ trH1.Idiomelon2.text = "You were led as a sheep to slaughter, O Christ the King,
 
 trH1.Idiomelon3.mode = miscellanea_en_US_dedes.misc.Mode8
 trH1.Idiomelon3.melody = ""
-trH1.Idiomelon3.incipit = trMA.Antiphon071.incipit
-trH1.Idiomelon3.text = trMA.Antiphon071.text
+trH1.Idiomelon3.incipit = tr.d069_en_US_dedes.trMA.Antiphon071.incipit
+trH1.Idiomelon3.text = tr.d069_en_US_dedes.trMA.Antiphon071.text
 
 trH1.Kontakion.mode = miscellanea_en_US_dedes.misc.Mode8
-trH1.Kontakion.incipit = trMA.Kontakion1.incipit
-trH1.Kontakion.text = trMA.Kontakion1.text
+trH1.Kontakion.incipit = tr.d069_en_US_dedes.trMA.Kontakion1.incipit
+trH1.Kontakion.text = tr.d069_en_US_dedes.trMA.Kontakion1.text
 
 trH3.title = ho.ho05_en_US_dedes.hoH3.title
 
@@ -653,8 +653,8 @@ trH3.Idiomelon3.incipit = "As You were led to…"
 trH3.Idiomelon3.text = "As You were led to the cross, O Lord, You said something like this, “For which deed do you wish to crucify Me, O Jews? Is it for bracing your paralytics, or for raising your dead as if from sleep? I cured the woman with the flow of blood, I had mercy on the Canaanite woman. For which of My deeds do you wish to murder Me, O Jews? But you will look on Me, the Christ, whom you now pierce, O transgressors of the Law.”"
 
 trH3.Kontakion.mode = miscellanea_en_US_dedes.misc.Mode8
-trH3.Kontakion.incipit = trMA.Kontakion1.incipit
-trH3.Kontakion.text = trMA.Kontakion1.text
+trH3.Kontakion.incipit = tr.d069_en_US_dedes.trMA.Kontakion1.incipit
+trH3.Kontakion.text = tr.d069_en_US_dedes.trMA.Kontakion1.text
 
 trH6.title = ho.ho06_en_US_dedes.hoH6.title
 
@@ -668,13 +668,13 @@ trH6.Theotokion.text = ho.ho06_en_US_dedes.hoH6.Theotokion.text
 
 trH6.Idiomelon1.mode = miscellanea_en_US_dedes.misc.Mode8
 trH6.Idiomelon1.melody = miscellanea_en_US_dedes.misc.Idiomelon
-trH6.Idiomelon1.incipit = trMA.Antiphon121.incipit
-trH6.Idiomelon1.text = trMA.Antiphon121.text
+trH6.Idiomelon1.incipit = tr.d069_en_US_dedes.trMA.Antiphon121.incipit
+trH6.Idiomelon1.text = tr.d069_en_US_dedes.trMA.Antiphon121.text
 
 trH6.Idiomelon2.mode = miscellanea_en_US_dedes.misc.Mode8
 trH6.Idiomelon2.melody = miscellanea_en_US_dedes.misc.Idiomelon
-trH6.Idiomelon2.incipit = trMA.Antiphon123.incipit
-trH6.Idiomelon2.text = trMA.Antiphon123.text
+trH6.Idiomelon2.incipit = tr.d069_en_US_dedes.trMA.Antiphon123.incipit
+trH6.Idiomelon2.text = tr.d069_en_US_dedes.trMA.Antiphon123.text
 
 trH6.Idiomelon3.mode = miscellanea_en_US_dedes.misc.Mode5
 trH6.Idiomelon3.melody = miscellanea_en_US_dedes.misc.Idiomelon
@@ -682,8 +682,8 @@ trH6.Idiomelon3.incipit = "Come, O Christ-bearing people, let…"
 trH6.Idiomelon3.text = "Come, O Christ-bearing people, let us contemplate how Judas the Betrayer and the unlawful priests conspired against our Savior. Today, they declared the immortal Logos as deserving death. They delivered Him to Pilate and had Him crucified on The Place of the Skull. And yet, as the Savior was suffering these things, He cried aloud and said, “Father, forgive them this sin, so that the Gentiles may come to know my resurrection from the dead.”"
 
 trH6.Kontakion.mode = miscellanea_en_US_dedes.misc.Mode8
-trH6.Kontakion.incipit = trMA.Kontakion1.incipit
-trH6.Kontakion.text = trMA.Kontakion1.text
+trH6.Kontakion.incipit = tr.d069_en_US_dedes.trMA.Kontakion1.incipit
+trH6.Kontakion.text = tr.d069_en_US_dedes.trMA.Kontakion1.text
 
 trH9.title = ho.ho09_en_US_dedes.hoH9.title
 
@@ -711,6 +711,6 @@ trH9.Idiomelon3.melody = miscellanea_en_US_dedes.misc.Idiomelon
 trH9.Idiomelon3.text = "" //use Antiphon151
 
 trH9.Kontakion.mode = miscellanea_en_US_dedes.misc.Mode8
-trH9.Kontakion.incipit = trMA.Kontakion1.incipit
-trH9.Kontakion.text = trMA.Kontakion1.text
+trH9.Kontakion.incipit = tr.d069_en_US_dedes.trMA.Kontakion1.incipit
+trH9.Kontakion.text = tr.d069_en_US_dedes.trMA.Kontakion1.text
 

@@ -150,8 +150,8 @@ meMA.PostGospelBoth.text = ho.ho03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_dedes.misc.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meMA.Aposticha4.incipit
-meMA.PostGospelIdiomelon.text = meMA.Aposticha4.text
+meMA.PostGospelIdiomelon.incipit = me.m11.d02_en_US_dedes.meMA.Aposticha4.incipit
+meMA.PostGospelIdiomelon.text = me.m11.d02_en_US_dedes.meMA.Aposticha4.text
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -490,11 +490,11 @@ meMA.AposStavrotheotokion.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.
 meMA.AposStavrotheotokion.incipit = me.m02.d27_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meMA.AposStavrotheotokion.text = me.m02.d27_en_US_dedes.meVE.SticStavrotheotokion.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m11.d02_en_US_dedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m11.d02_en_US_dedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m11.d02_en_US_dedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m11.d02_en_US_dedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m11.d02_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 
