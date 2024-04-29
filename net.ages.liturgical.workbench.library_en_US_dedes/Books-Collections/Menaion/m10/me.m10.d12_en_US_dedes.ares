@@ -379,8 +379,8 @@ meMA.ExapTheotokion.text = ""
 
 meMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode4
 meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = meVE.SticGlory.incipit
-meMA.AposGlory.text = meVE.SticGlory.text
+meMA.AposGlory.incipit = me.m10.d12_en_US_dedes.meVE.SticGlory.incipit
+meMA.AposGlory.text = me.m10.d12_en_US_dedes.meVE.SticGlory.text
 
 meMA.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
 meMA.AposTheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
@@ -394,11 +394,11 @@ meMA.AposStavrotheotokion.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 meMA.AposStavrotheotokion.incipit = "…"
 meMA.AposStavrotheotokion.text = ""
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m10.d12_en_US_dedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m10.d12_en_US_dedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m10.d12_en_US_dedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m10.d12_en_US_dedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m10.d12_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 

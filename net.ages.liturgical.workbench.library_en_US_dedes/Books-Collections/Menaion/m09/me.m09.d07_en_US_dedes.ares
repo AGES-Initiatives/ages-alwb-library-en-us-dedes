@@ -603,11 +603,11 @@ meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "She who was destined to…"
 meMA.AposGlory.text = "She who was destined to become the Queen of all, the dwelling place of God, and the divine shrine of the eternal essence, has come forth today from the womb of Anna, who is delighted. Voracious Hades has been trampled through her; and Eve and her whole race are given entrance to life, safe and secure. Let us worthily sing to her, “Blessed are you among women, and blessed is the fruit of your womb!”"
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m09.d07_en_US_dedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m09.d07_en_US_dedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m09.d07_en_US_dedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m09.d07_en_US_dedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m09.d07_en_US_dedes.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
@@ -663,8 +663,8 @@ alt1.meSV.SticGlory.text = ""
 
 alt1.meSV.SticBoth.mode = miscellanea_en_US_dedes.misc.Mode2
 alt1.meSV.SticBoth.melody = 
-alt1.meSV.SticBoth.incipit = meMA.AposGlory.incipit
-alt1.meSV.SticBoth.text = meMA.AposGlory.text
+alt1.meSV.SticBoth.incipit = me.m09.d07_en_US_dedes.meMA.AposGlory.incipit
+alt1.meSV.SticBoth.text = me.m09.d07_en_US_dedes.meMA.AposGlory.text
 
 alt1.meSV.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
 alt1.meSV.Aposticha1.greekmelody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.greekname
@@ -762,8 +762,8 @@ alt1.meVE.LityGlory.text = ""
 
 alt1.meVE.LityBoth.mode = miscellanea_en_US_dedes.misc.Mode4
 alt1.meVE.LityBoth.melody = 
-alt1.meVE.LityBoth.incipit = meVE.AposGlory.incipit
-alt1.meVE.LityBoth.text = meVE.AposGlory.text
+alt1.meVE.LityBoth.incipit = me.m09.d07_en_US_dedes.meVE.AposGlory.incipit
+alt1.meVE.LityBoth.text = me.m09.d07_en_US_dedes.meVE.AposGlory.text
 
 alt1.meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode5
 alt1.meVE.Aposticha1.greekmelody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.greekname
@@ -800,8 +800,8 @@ alt1.meVE.Apolytikion1.text = ""
 alt1.meVE.Apolytikion2.mode = miscellanea_en_US_dedes.misc.Mode4
 alt1.meVE.Apolytikion2.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 alt1.meVE.Apolytikion2.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
-alt1.meVE.Apolytikion2.incipit = meVE.Apolytikion1.incipit
-alt1.meVE.Apolytikion2.text = meVE.Apolytikion1.text
+alt1.meVE.Apolytikion2.incipit = me.m09.d07_en_US_dedes.meVE.Apolytikion1.incipit
+alt1.meVE.Apolytikion2.text = me.m09.d07_en_US_dedes.meVE.Apolytikion1.text
 
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode1
 alt1.meMA.Kathisma11.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname

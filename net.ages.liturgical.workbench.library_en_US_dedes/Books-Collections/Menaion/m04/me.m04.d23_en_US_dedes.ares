@@ -36,8 +36,8 @@ meSV.Stichera3.text = "You offer cures in abundance to those who turn to you * f
 
 meSV.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode1
 meSV.SticGlory.melody = ""
-meSV.SticGlory.incipit = meVE.Lity3.incipit
-meSV.SticGlory.text = meVE.Lity3.text
+meSV.SticGlory.incipit = me.m04.d23_en_US_dedes.meVE.Lity3.incipit
+meSV.SticGlory.text = me.m04.d23_en_US_dedes.meVE.Lity3.text
 
 meSV.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
@@ -57,8 +57,8 @@ meSV.Aposticha3.text = "Martyr of Christ, I pray, * from all the grievous troubl
 meSV.AposGlory.poet = poets_en_US_dedes.po.Anatoliou
 meSV.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode4
 meSV.AposGlory.melody = ""
-meSV.AposGlory.incipit = meVE.Lity5.incipit
-meSV.AposGlory.text = meVE.Lity5.text
+meSV.AposGlory.incipit = me.m04.d23_en_US_dedes.meVE.Lity5.incipit
+meSV.AposGlory.text = me.m04.d23_en_US_dedes.meVE.Lity5.text
 
 meVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
@@ -762,11 +762,11 @@ meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = "Spring is here: come, let…"
 meMA.LaudsGlory.text = "Spring is here: come, let us be merry. And Christ’s resurrection has shone brightly: come, let us be joyous. The memory of the prize-winning Martyr has come upon us, gladdening the faithful. Therefore, come all who are fond of feasts, let us celebrate it mystically. For as a good soldier, he stood up manfully against the tyrants and put them utterly to shame, and thus emulated the Passion of Christ the Savior. He had no mercy on the clay vessel of his own body, but rather taking it naked he reforged and exchanged it by means of tortures. Unto him let us cry aloud: O victorious Martyr, earnestly entreat for the salvation of our souls."
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m04.d23_en_US_dedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m04.d23_en_US_dedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m04.d23_en_US_dedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m04.d23_en_US_dedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m04.d23_en_US_dedes.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 

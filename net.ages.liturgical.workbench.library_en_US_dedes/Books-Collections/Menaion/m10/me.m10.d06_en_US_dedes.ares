@@ -385,8 +385,8 @@ meMA.Lauds3.text = "You abandoned fishing in the sea, and instead by faith you t
 
 meMA.LaudsGlory.mode = miscellanea_en_US_dedes.misc.Mode6
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = meVE.AposGlory.incipit
-meMA.LaudsGlory.text = meVE.AposGlory.text
+meMA.LaudsGlory.incipit = me.m10.d06_en_US_dedes.meVE.AposGlory.incipit
+meMA.LaudsGlory.text = me.m10.d06_en_US_dedes.meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
 meMA.LaudsTheotokion.melody = he.o_en_US_dedes.heOT.TheotokeSyEi.name
@@ -395,11 +395,11 @@ meMA.LaudsTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiApostolou.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m10.d06_en_US_dedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m10.d06_en_US_dedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m10.d06_en_US_dedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m10.d06_en_US_dedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m10.d06_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 

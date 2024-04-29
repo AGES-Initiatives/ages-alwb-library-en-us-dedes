@@ -152,8 +152,8 @@ meMA.PostGospelBoth.text = ho.ho03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_dedes.misc.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.Aposticha1.incipit
-meMA.PostGospelIdiomelon.text = meVE.Aposticha1.text
+meMA.PostGospelIdiomelon.incipit = me.m08.d29_en_US_dedes.meVE.Aposticha1.incipit
+meMA.PostGospelIdiomelon.text = me.m08.d29_en_US_dedes.meVE.Aposticha1.text
 
 meMA.C1.poet = poets_en_US_dedes.po.IoannouMonachou
 meMA.C1.title = titles_en_US_dedes.ti.Canon1SaintM
@@ -621,8 +621,8 @@ meMA.Lauds3.text = "What an appalling atrocity! * The very Angel on earth * and 
 
 meMA.LaudsGlory.mode = miscellanea_en_US_dedes.misc.Mode6
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = meVE.Stichera04.incipit
-meMA.LaudsGlory.text = meVE.Stichera04.text
+meMA.LaudsGlory.incipit = me.m08.d29_en_US_dedes.meVE.Stichera04.incipit
+meMA.LaudsGlory.text = me.m08.d29_en_US_dedes.meVE.Stichera04.text
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
 meMA.LaudsTheotokion.melody = he.o_en_US_dedes.heOT.TheotokeSyEi.name
@@ -651,10 +651,10 @@ meMA.AdditionalIdiomelonBoth.melody = ""
 meMA.AdditionalIdiomelonBoth.incipit = oc.m4.d2_en_US_dedes.ocMA.AposTheotokion.incipit
 meMA.AdditionalIdiomelonBoth.text = oc.m4.d2_en_US_dedes.ocMA.AposTheotokion.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m08.d29_en_US_dedes.meMA.Kontakion1.mode
+meLI.Kontakion1.melody = me.m08.d29_en_US_dedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m08.d29_en_US_dedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m08.d29_en_US_dedes.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 

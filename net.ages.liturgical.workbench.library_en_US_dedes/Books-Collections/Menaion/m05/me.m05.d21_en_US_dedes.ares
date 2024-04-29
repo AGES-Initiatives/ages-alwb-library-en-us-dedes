@@ -173,8 +173,8 @@ meMA.PostGospelBoth.text = ho.ho03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_dedes.misc.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.Lity3.incipit
-meMA.PostGospelIdiomelon.text = meVE.Lity3.text
+meMA.PostGospelIdiomelon.incipit = me.m05.d21_en_US_dedes.meVE.Lity3.incipit
+meMA.PostGospelIdiomelon.text = me.m05.d21_en_US_dedes.meVE.Lity3.text
 
 meMA.C1.title = titles_en_US_dedes.ti.CanonSaints
 meMA.C1.verse = prayers_en_US_dedes.pr.verse_SaintsM.text
@@ -445,11 +445,11 @@ meMA.LaudsGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
 meMA.LaudsGlory.incipit = "The King of kings and…"
 meMA.LaudsGlory.text = "The King of kings and God, who adorns the worthy with abundant gifts, caught you in His net, through the sign of the Cross, like He did to Paul the glorious, O Constantine. He said to you, “In this sign conquer your enemies.” Thus having sought Him, as did your godly-minded mother, and having found Him for whom you longed, you utterly defeated them. In company with your mother, earnestly pray for Orthodox rulers, and the Christ-loving armed forces, and all of us who loyally observe your memory, entreating our only benevolent Lord, to deliver us from all wrath."
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m05.d21_en_US_dedes.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m05.d21_en_US_dedes.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m05.d21_en_US_dedes.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m05.d21_en_US_dedes.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m05.d21_en_US_dedes.meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
