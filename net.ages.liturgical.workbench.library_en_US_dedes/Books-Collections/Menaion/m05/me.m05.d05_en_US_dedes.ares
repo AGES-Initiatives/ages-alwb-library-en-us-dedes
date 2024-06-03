@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m05.d05_en_US_dedes
 
-meDA.date = "May 5" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "May 5"
 meDA.commemoration.full = "Memory of the Holy and Glorious Great-martyr Irene" //full title of day
 meDA.commemoration.first = "Memory of the Holy and Glorious Great-martyr Irene"
 meDA.commemoration.first_short = "Memory of the Holy and Glorious Great-martyr Irene"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "and the holy and glorious Great-martyr Irene," //for use in petitions and dismissal
 meDA.insert2 = "whose memory we observe," //for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "May 5"
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

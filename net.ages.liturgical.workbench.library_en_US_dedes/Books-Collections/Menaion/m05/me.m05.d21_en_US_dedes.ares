@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m05.d21_en_US_dedes
 
-meDA.date = "May 21" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "May 21"
 meDA.commemoration.full = "Memory of the Holy and Glorious Great God-Crowned Emperors Constantine and Helen, the Equals to the Apostles." // full title of day
 meDA.commemoration.first = "Memory of Sts. Constantine and Helen"
 meDA.commemoration.first_short = "Memory of Sts. Constantine and Helen"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "the holy, glorious, great, God-crowned Sovereigns Constantine and Helen, the Equals to the Apostles," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we are celebrating;" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "May 21"
 meLE.commemoration1 = "The Holy and Great Rulers Constantine and Helen, the Equal to the Apostles."
 meLE.commemoration2 = ""
 meHO.number = ""

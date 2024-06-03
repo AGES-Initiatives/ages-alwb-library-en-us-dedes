@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m12.d14_en_US_dedes
 
-meDA.date = "December 14" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "December 14"
 meDA.commemoration.full = "Memory of the Holy Martyrs Thyrsos, Leucius, Kallinikos, Philemon, Apollonios, Arrianos, and those with them" // full title of day
 meDA.commemoration.first = "Memory of the Holy Martyrs Thyrsos, Leucius, Kallinikos, Philemon, Apollonios, Arrianos, and those with them"
 meDA.commemoration.first_short = "Memory of the Holy Martyrs Thyrsos, Leucius, Kallinikos, Philemon, Apollonios, Arrianos, and those with them"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "December 14"
 meLE.commemoration1 = "The Holy Martyrs Thyrsos, Leukios, Kallinikos, Philemon, Apollonios, Arrianos."
 meLE.commemoration2 = ""
 meHO.number = ""

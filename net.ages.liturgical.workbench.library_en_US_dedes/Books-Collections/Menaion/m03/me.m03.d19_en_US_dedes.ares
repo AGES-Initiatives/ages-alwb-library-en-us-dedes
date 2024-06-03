@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m03.d19_en_US_dedes
 
-meDA.date = "March 19" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "March 19"
 meDA.commemoration.full = "Memory of the Holy Martyrs Chysanthos and Dareia" //full title of day
 meDA.commemoration.first = "Memory of the Holy Martyrs Chysanthos and Dareia"
 meDA.commemoration.first_short = "Memory of the Holy Martyrs Chysanthos and Dareia"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "March 19"
 meLE.commemoration1 = "Memory of the Holy Martyrs Chysanthos and Dareia."
 meLE.commemoration2 = ""
 meHO.number = ""

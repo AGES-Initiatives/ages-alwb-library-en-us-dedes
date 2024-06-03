@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m01.d18_en_US_dedes
 
-meDA.date = "January 18" // date, e.g. Î¤á¿Œ Î™ÏšÍ´ Î¤ÎŸÎ¥ Î‘Î¥Î¤ÎŸÎ¥ ÎœÎ – Î�ÎŸÎ£ or July 16
+meDA.date = "January 18"
 meDA.commemoration.full = "Memory of our Fathers among the saints, Athanasius and Cyril, Patriarchs of Alexandria" // full title of day
 meDA.commemoration.first = "Memory of Saints Athanasius and Cyril, Patriarchs of Alexandria"
 meDA.commemoration.first_short = "Memory of Saints Athanasius and Cyril, Patriarchs of Alexandria"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "and our Fathers among the saints, Athanasius and Cyril, Patriarchs of Alexandria," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "January 18"
 meLE.commemoration1 = "Our Fathers among the saints, Athanasios and Kyrillos, Archbishops of Alexandria."
 meLE.commemoration2 = ""
 meHO.number = "18."

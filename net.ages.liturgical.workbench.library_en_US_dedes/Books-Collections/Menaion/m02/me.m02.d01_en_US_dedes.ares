@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m02.d01_en_US_dedes
 
-meDA.date = "February 1" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "February 1"
 meDA.commemoration.full = "The Forefeast of the Meeting of our Lord, God and Savior Jesus Christ; and Memory of the Holy Martyr Tryphon." // full title of day
 meDA.commemoration.first = "The Forefeast of the Meeting of our Lord"
 meDA.commemoration.first_short = "Forefeast of the Meeting"
@@ -13,6 +13,7 @@ meDA.commemoration.second_name = "St. Tryphon"
 meDA.insert1 = "the holy and glorious martyr Tryphon," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we observe;" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = ""
 meLE.commemoration1 = "The Holy Martyr Tryphon."
 meLE.commemoration2 = ""
 meHO.number = ""

@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m06.d19_en_US_dedes
 
-meDA.date = "June 19" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "June 19"
 meDA.commemoration.full = "Memory of the Holy Apostle Jude" // full title of day
 meDA.commemoration.first = "Memory of the Holy Apostle Jude"
 meDA.commemoration.first_short = "Memory of the Holy Apostle Jude"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "and the holy Apostle Jude," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we are observing," // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "June 19"
 meLE.commemoration1 = "The Holy Apostle Judas (Jude), a Relative of the Lord."
 meLE.commemoration2 = ""
 meHO.number = ""

@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m02.d10_en_US_dedes
 
-meDA.date = "February 10" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "February 10"
 meDA.commemoration.full = "Memory of the Holy Hieromartyr Haralambos the Wonder-worker" // full title of day
 meDA.commemoration.first = "Memory of the Holy Hieromartyr Haralambos"
 meDA.commemoration.first_short = "Memory of the Holy Hieromartyr Haralambos"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "the holy and glorious hieromartyr Haralambos the Wonder-worker," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "February 10"
 meLE.commemoration1 = "The Holy Hieromartyr Charalambos."
 meLE.commemoration2 = ""
 meHO.number = ""

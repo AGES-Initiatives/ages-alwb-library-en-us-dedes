@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m01.d22_en_US_dedes
 
-meDA.date = "January 22" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "January 22"
 meDA.commemoration.full = "Memory of the Holy Apostle Timothy, and the Holy Devout Martyr Anastasios the Persian" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "the holy and glorious Apostle Timothy, and the holy devout martyr Anastasios the Persian," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we observe;" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "January 22"
 meLE.commemoration1 = "The Holy Apostle Timothy. The Venerable Martyr Anastasios the Persian."
 meLE.commemoration2 = ""
 meHO.number = "22."

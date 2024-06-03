@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m12.d20_en_US_dedes
 
-meDA.date = "December 20" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "December 20"
 meDA.commemoration.full = "Memory of the Holy Hieromartyr Ignatius the God-bearer; and Forefeast of the Birth of our Savior" // full title of day
 meDA.commemoration.first = "Forefeast of the Birth of our Savior"
 meDA.commemoration.first_short = "Forefeast of the Birth of our Savior"
@@ -12,6 +12,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "and the holy and glorious hieromartyr Ignatius the God-bearer," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we are observing;" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = ""
 meLE.commemoration1 = "The Holy Hieromartyr Ignatius the God-bearer."
 meLE.commemoration2 = ""
 meHO.number = ""

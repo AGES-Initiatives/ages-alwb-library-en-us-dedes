@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m01.d13_en_US_dedes
 
-meDA.date = "January 13" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "January 13"
 meDA.commemoration.full = "Memory of the Holy Martyrs Hermylos and Stratonikos; and Memory of the Holy Ascetic Fathers who were Killed in Sinai and Raitho." // full title of day
 meDA.commemoration.second = "Memory of the Holy Ascetic Fathers who were Killed in Sinai and Raitho" // full title of day
 meDA.commemoration.first = "Memory of the Holy Martyrs Hermylos and Stratonikos"
@@ -13,6 +13,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = "13."

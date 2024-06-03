@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m03.d21_en_US_dedes
 
-meDA.date = "March 21" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "March 21"
 meDA.commemoration.full = "Memory of our Devout Father James the Bishop and Confessor" // full title of day
 meDA.commemoration.first = "Memory of our St. James the Bishop and Confessor"
 meDA.commemoration.first_short = "Memory of our St. James the Bishop and Confessor"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "March 21"
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

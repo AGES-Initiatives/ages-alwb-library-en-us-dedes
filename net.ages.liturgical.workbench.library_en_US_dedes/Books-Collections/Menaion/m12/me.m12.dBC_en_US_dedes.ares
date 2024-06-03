@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m12.dBC_en_US_dedes
 
-meDA.date = "December 18-24" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "December 18-24"
 meDA.commemoration.full = "Sunday Before Christmas" // full title of day
 meDA.commemoration.first = "Sunday Before Christmas"
 meDA.commemoration.first_short = "Sunday Before Christmas"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "all those who from the beginning of time were well-pleasing to God, from Adam to Joseph the Betrothed of the Most Holy Theotokos," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we observe;" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "December 18-24"
 meLE.commemoration1 = "Sunday Before the Nativity of Christ."
 meLE.commemoration2 = ""
 meHO.number = ""

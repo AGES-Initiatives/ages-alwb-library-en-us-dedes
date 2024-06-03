@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m12.d02_en_US_dedes
 
-meDA.date = "December 2" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "December 2"
 meDA.commemoration.full = "Memory of the Holy Prophet Habakkuk" // full title of day
 meDA.commemoration.first = "Memory of the Holy Prophet Habakkuk"
 meDA.commemoration.first_short = "Memory of the Holy Prophet Habakkuk"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "December 2"
 meLE.commemoration1 = "The Holy Prophet Habakkuk."
 meLE.commemoration2 = ""
 meHO.number = ""

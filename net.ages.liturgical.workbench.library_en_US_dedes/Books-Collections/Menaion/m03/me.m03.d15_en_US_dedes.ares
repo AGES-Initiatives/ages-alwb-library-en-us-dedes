@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m03.d15_en_US_dedes
 
-meDA.date = "March 15" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "March 15"
 meDA.commemoration.full = "Memory of the Holy Martyrs Agapius and those with him" //full title of day
 meDA.commemoration.first = "Memory of the Holy Martyrs Agapius and those with him"
 meDA.commemoration.first_short = "Memory of the Holy Martyrs Agapius and those with him"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "March 15"
 meLE.commemoration1 = "Memory of the Holy Martyrs Agapius and those with him."
 meLE.commemoration2 = ""
 meHO.number = ""

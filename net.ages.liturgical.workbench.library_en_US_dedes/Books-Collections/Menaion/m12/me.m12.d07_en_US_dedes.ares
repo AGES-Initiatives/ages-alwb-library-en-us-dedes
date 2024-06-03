@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m12.d07_en_US_dedes
 
-meDA.date = "December 7" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "December 7"
 meDA.commemoration.full = "Memory of our Devout Father Ambrose, Bishop of Milan" // full title of day
 meDA.commemoration.first = "Memory of St. Ambrose, Bishop of Milan"
 meDA.commemoration.first_short = "Memory of St. Ambrose, Bishop of Milan"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "December 7"
 meLE.commemoration1 = "Our Father among the Saints Ambrose, Bishop of Milan"
 meLE.commemoration2 = ""
 meHO.number = ""

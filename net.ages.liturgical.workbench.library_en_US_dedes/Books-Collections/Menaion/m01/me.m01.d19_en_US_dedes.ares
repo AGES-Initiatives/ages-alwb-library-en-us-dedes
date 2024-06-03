@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m01.d19_en_US_dedes
 
-meDA.date = "January 19" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "January 19"
 meDA.commemoration.full = "Memory of our Devout Father Makarios the Egyptian" // full title of day
 meDA.commemoration.first = "Memory of St. Makarios the Egyptian"
 meDA.commemoration.first_short = "Memory of St. Makarios the Egyptian"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "and our devout and God-bearing father Makarios the Egyptian," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we observe;" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "January 19"
 meLE.commemoration1 = "Our Venerable Father Makarios the Egyptian."
 meLE.commemoration2 = ""
 meHO.number = "19."

@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m04.d30_en_US_dedes
 
-meDA.date = "April 30" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "April 30"
 meDA.commemoration.full = "Memory of the Holy Apostle Iakovos (James), the Brother of John the Theologian" // full title of day
 meDA.commemoration.first = "Memory of the Holy Apostle Iakovos (James), the Brother of John the Theologian"
 meDA.commemoration.first_short = "Memory of the Holy Apostle Iakovos (James), the Brother of John the Theologian"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "the holy, glorious, and praiseworthy Apostle Iakovos (James), the Brother of John the Theologian," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "April 30"
 meLE.commemoration1 = "The Holy Apostle Iakovos (James), the Brother of John the Theologian."
 meLE.commemoration2 = ""
 meHO.number = ""

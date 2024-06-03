@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m06.d29_en_US_dedes
 
-meDA.date = "June 29" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "June 29"
 meDA.commemoration.full = "Memory of the Holy, Glorious, All-Lauded Preeminent Apostles Peter and Paul." // full title of day
 meDA.commemoration.first = "Memory of the Preeminent Apostles Peter and Paul"
 meDA.commemoration.first_short = "Memory of the Preeminent Apostles Peter and Paul"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = "Apostle Paul"
 meDA.insert1 = "the holy, glorious, and all-laudable, paramount Apostles Peter and Paul," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "June 29"
 meLE.commemoration1 = "The Holy, Glorious, and Renowned Apostles Peter and Paul."
 meLE.commemoration2 = ""
 meHO.number = ""

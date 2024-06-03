@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m01.d16_en_US_dedes
 
-meDA.date = "January 16" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "January 16"
 meDA.commemoration.full = "The Veneration of the Precious Chains of the Holy and All-lauded Apostle Peter" // full title of day
 meDA.commemoration.first = "Veneration of the Precious Chains of the Apostle Peter"
 meDA.commemoration.first_short = "Veneration of the Precious Chains of the Apostle Peter"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "the holy and glorious all-lauded Apostle Peter," // for use in petitions and dismissal
 meDA.insert2 = "the veneration of whose precious Chains we celebrate," // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "January 16"
 meLE.commemoration1 = "The Veneration of the Precious Chains of the Holy Apostle Peter."
 meLE.commemoration2 = ""
 meHO.number = "16."

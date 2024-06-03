@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m01.d07_en_US_dedes
 
-meDA.date = "January 7" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "January 7"
 meDA.commemoration.full = "Synaxis in Honor of the Glorious Prophet, Forerunner and Baptist John" // full title of day
 meDA.commemoration.first = "Synaxis in honor of the holy Forerunner"
 meDA.commemoration.first_short = "Synaxis in honor of the holy Forerunner"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "in whose honor we have congregated today;" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "January 7"
 meLE.commemoration1 = "The Synaxis of the Honorable and Glorious Prophet and Forerunner John the Baptist."
 meLE.commemoration2 = ""
 meHO.number = "7."

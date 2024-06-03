@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m03.d29_en_US_dedes
 
-meDA.date = "March 29" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "March 29"
 meDA.commemoration.full = "Memory of the Holy Martyrs Mark, Bishop of Arethusa, Cyril the Deacon, and Others Martyred in the Reign of Julian the Apostate. The Holy Martyrs Jonas and Barachesius and Those With Them" //full title of day
 meDA.commemoration.first = "Memory of the Holy Martyrs Mark, Bishop of Arethusa, Cyril the Deacon"
 meDA.commemoration.first_short = "Memory of the Holy Martyrs Mark, Bishop of Arethusa, Cyril the Deacon"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "March 29"
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m03.d02_en_US_dedes
 
-meDA.date = "March 2" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "March 2"
 meDA.commemoration.full = "Memory of the Holy Martyr Hesychius the Senator" //full title of day
 meDA.commemoration.first = "Memory of the Holy Martyr Hesychius"
 meDA.commemoration.first_short = "Memory of the Holy Martyr Hesychius"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "March 2"
 meLE.commemoration1 = "Memory of the Holy Martyr Hesychius the Senator"
 meLE.commemoration2 = ""
 meHO.number = ""

@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m04.d26_en_US_dedes
 
-meDA.date = "April 26" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "April 26"
 meDA.commemoration.full = "Memory of the holy Hieromartyr Basileus, Bishop of Amasea" //full title of day
 meDA.commemoration.first = "Memory of the holy Hieromartyr Basileus, Bishop of Amasea"
 meDA.commemoration.first_short = "Memory of Basileus"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "April 26"
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

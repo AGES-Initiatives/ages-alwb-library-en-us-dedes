@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m12.dFF_en_US_dedes
 
-meDA.date = "December 11-17" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "December 11-17"
 meDA.commemoration.full = "Sunday of the Holy Forefathers" // full title of day
 meDA.commemoration.first = "Sunday of the Holy Forefathers"
 meDA.commemoration.first_short = "Sunday of the Holy Forefathers"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "and the holy Forefathers," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we observe;" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "December 11-17"
 meLE.commemoration1 = "Sunday of the Holy Forefathers."
 meLE.commemoration2 = ""
 meHO.number = ""

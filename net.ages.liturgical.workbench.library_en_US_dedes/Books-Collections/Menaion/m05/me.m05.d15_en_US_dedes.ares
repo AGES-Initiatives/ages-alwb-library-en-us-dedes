@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m05.d15_en_US_dedes
 
-meDA.date = "May 15" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "May 15"
 meDA.commemoration.full = "Memory of our Devout Father Pachomius the Great; and Devout St. Achillios, Archbishop of Larissa." // full title of day
 meDA.commemoration.first = "Memory of our Devout Father Pachomius the Great"
 meDA.commemoration.first_short = "Memory of our Devout Father Pachomius the Great"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "our devout and God-bearing father Pachomius the Great," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "May 15"
 meLE.commemoration1 = "Our Venerable Fathers Pachomius the Great and Achillios Bishop of Larissa."
 meLE.commemoration2 = ""
 meHO.number = ""

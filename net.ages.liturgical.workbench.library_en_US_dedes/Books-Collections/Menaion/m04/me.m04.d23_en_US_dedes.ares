@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m04.d23_en_US_dedes
 
-meDA.date = "April 23" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "April 23"
 meDA.commemoration.full = "Memory of the Holy and Glorious Great-martyr George the Trophy-bearer" // full title of day
 meDA.commemoration.first = "Memory of the Holy Great-martyr George"
 meDA.commemoration.first_short = "Memory of the Holy Great-martyr George"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "the holy and glorious Great-martyr George the Trophy-bearer," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we celebrate," // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "April 23"
 meLE.commemoration1 = "The Holy and Great-martyr George the Victorious."
 meLE.commemoration2 = ""
 meHO.number = ""

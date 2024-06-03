@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m02.d07_en_US_dedes
 
-meDA.date = "February 7" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "February 7"
 meDA.commemoration.full = "Memory of our Devout Father Parthenios, Bishop of Lampsacus, and our Devout and God-bearing Father Luke of Stirion in Hellas" //full title of day
 meDA.commemoration.first = "Memory of St. Parthenios, Bishop of Lampsacus"
 meDA.commemoration.first_short = "Memory of St. Parthenios, Bishop of Lampsacus"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "February 7"
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

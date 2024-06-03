@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m12.d29_en_US_dedes
 
-meDA.date = "December 29" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "December 29"
 meDA.commemoration.full = "Memory of the 14,000 Holy Innocents, who were Slaughtered by Herod; and our Devout Father Markellos, Abbot of the Monastery of the Unsleeping." // full title of day
 meDA.commemoration.first = "Memory of the 14,000 Holy Innocents"
 meDA.commemoration.first_short = "Memory of the 14,000 Holy Innocents"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "December 29"
 meLE.commemoration1 = "The Holy Fourteen Thousand Children of Bethlehem."
 meLE.commemoration2 = ""
 meHO.number = ""

@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m03.d04_en_US_dedes
 
-meDA.date = "March 4" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "March 4"
 meDA.commemoration.full = "Memory of our Devout Father Gerasimos of Jordan" //full title of day
 meDA.commemoration.first = "Memory of St. Gerasimos of Jordan"
 meDA.commemoration.first_short = "Memory of St. Gerasimos of Jordan"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "March 4"
 meLE.commemoration1 = "Memory of our Devout Father Gerasimos of Jordan."
 meLE.commemoration2 = ""
 meHO.number = ""

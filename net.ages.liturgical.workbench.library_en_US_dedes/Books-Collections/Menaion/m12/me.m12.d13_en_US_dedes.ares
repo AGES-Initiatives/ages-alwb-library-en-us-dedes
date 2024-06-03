@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m12.d13_en_US_dedes
 
-meDA.date = "December 13" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "December 13"
 meDA.commemoration.full = "Memory of the Holy Martyrs Efstratios, Afxentios, Eugene, Mardarios, and Orestis, and the Holy Martyr Lukia the Virgin" // full title of day
 meDA.commemoration.first = "Memory of the Holy Martyrs Efstratios, Afxentios, Eugene, Mardarios, and Orestis, and St. Lukia"
 meDA.commemoration.first_short = "Memory of the Holy Martyrs Efstratios, Afxentios, Eugene, Mardarios, and Orestis, and St. Lukia"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "the holy Martyrs Efstratios, Afxentios, Eugene, Mardarios, and Orestis," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we are observing;" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "December 13"
 meLE.commemoration1 = "The Holy Martyrs Efstratios and his Companions."
 meLE.commemoration2 = ""
 meHO.number = ""

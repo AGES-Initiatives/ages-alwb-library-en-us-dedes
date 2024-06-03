@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m04.d27_en_US_dedes
 
-meDA.date = "April 27" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "April 27"
 meDA.commemoration.full = "Memory of the holy Hieromartyr Symeon, the Kinsman of the Lord" //full title of day
 meDA.commemoration.first = "Memory of the St. Symeon, the Kinsman of the Lord"
 meDA.commemoration.first_short = "Memory of the St. Symeon, the Kinsman of the Lord"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" //for use in petitions and dismissal
 meDA.insert2 = "" //for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "April 27"
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

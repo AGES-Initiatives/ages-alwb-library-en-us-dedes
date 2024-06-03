@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m01.d03_en_US_dedes
 
-meDA.date = "January 3" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "January 3"
 meDA.commemoration.full = "Forefeast of Epiphany; and Memory of the Holy Prophet Malachi, and the Holy Martyr Gordios." // full title of day
 meDA.commemoration.first = "Forefeast of Epiphany"
 meDA.commemoration.first_short = "Forefeast of Epiphany"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "January 3"
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = "3."

@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m01.d04_en_US_dedes
 
-meDA.date = "January 4" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "January 4"
 meDA.commemoration.full = "Forefeast of Epiphany, and Synaxis in honor of the Holy Seventy Apostles, and Memory of our Devout Father Theoktistos." // full title of day
 meDA.commemoration.first = "Forefeast of Epiphany"
 meDA.commemoration.first_short = "Forefeast of Epiphany"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "January 4"
 meLE.commemoration1 = "Synaxis of the Holy Seventy Apostles."
 meLE.commemoration2 = ""
 meHO.number = "4."

@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m02.d11_en_US_dedes
 
-meDA.date = "February 11" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "February 11"
 meDA.commemoration.full = "Memory of the Holy Hieromartyr Blaise" // full title of day
 meDA.commemoration.first = "Memory of the Holy Hieromartyr Blaise"
 meDA.commemoration.first_short = "Memory of the Holy Hieromartyr Blaise"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "the holy and glorious Hieromartyr Blaise," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we are observing;" // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "February 11"
 meLE.commemoration1 = "The Holy Hieromartyr Vlasios."
 meLE.commemoration2 = ""
 meHO.number = ""

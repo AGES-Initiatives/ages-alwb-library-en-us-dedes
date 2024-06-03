@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m05.d10_en_US_dedes
 
-meDA.date = "May 10" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "May 10"
 meDA.commemoration.full = "Memory of the Holy Apostle Simon the Zealot" // full title of day
 meDA.commemoration.first = "Memory of the Holy Apostle Simon the Zealot"
 meDA.commemoration.first_short = "Memory of the Holy Apostle Simon the Zealot"
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "and the holy Apostle Simon the Zealot," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "May 10"
 meLE.commemoration1 = "The Holy Apostle Simon the Zealot."
 meLE.commemoration2 = ""
 meHO.number = ""

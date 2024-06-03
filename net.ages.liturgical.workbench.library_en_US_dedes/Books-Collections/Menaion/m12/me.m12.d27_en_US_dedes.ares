@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m12.d27_en_US_dedes
 
-meDA.date = "December 27" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "December 27"
 meDA.commemoration.full = "Memory of the Holy Protomartyr and Archdeacon Stephen, and of our Devout Father and Confessor Theodore the Inscribed, brother of Theophanes the Hymnographer." // full title of day
 meDA.commemoration.first = "Memory of the Holy Protomartyr Stephen."
 meDA.commemoration.first_short = "Memory of the Holy Protomartyr Stephen."
@@ -11,6 +11,7 @@ meDA.commemoration.second_name = ""
 meDA.insert1 = "and the holy Protomartyr and Archdeacon Stephen," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we celebrate," // for use in petitions and dismissal
 meDA.note = ""
+meDA.pdfheaderdate = "December 27"
 meLE.commemoration1 = "The Holy Protomartyr Stephen the Archdeacon."
 meLE.commemoration2 = ""
 meHO.number = ""
