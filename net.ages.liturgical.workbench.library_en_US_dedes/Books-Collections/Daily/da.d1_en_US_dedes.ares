@@ -1,9 +1,11 @@
 A_Resource_Whose_Name = da.d1_en_US_dedes
 
 daDay.text = "Sunday."
+daForDay.text = "for Sunday,"
 daOnDay.text = "on Sunday,"
 daCommemoration.text = ""
 
+daVE.OnTheDayBefore.text = "on Saturday,"
 daVE.OnTheEveningBefore.text = template.titles_en_US_dedes.d.onSaturdayEvening
 
 daLI.EpistleProkeimenon.title = "Sunday - Resurrectional" //Prokeimena for Sundays are in Octoechos according to mode

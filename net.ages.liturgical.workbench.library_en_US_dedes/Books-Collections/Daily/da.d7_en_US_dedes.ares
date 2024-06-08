@@ -1,10 +1,12 @@
 A_Resource_Whose_Name = da.d7_en_US_dedes
 
 daDay.text = "Saturday."
+daForDay.text = "for Saturday,"
 daOnDay.text = "on Saturday,"
 daCommemoration.text = "The Deceased."
 
 daVE.OnTheAfternoonBefore.text = template.titles_en_US_dedes.d.onFridayAfternoon
+daVE.OnTheDayBefore.text = "on Friday,"
 daVE.OnTheEveningBefore.text = template.titles_en_US_dedes.d.onFridayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode2
