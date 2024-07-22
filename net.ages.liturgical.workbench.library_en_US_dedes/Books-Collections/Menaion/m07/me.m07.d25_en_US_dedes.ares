@@ -124,6 +124,8 @@ meMA.Kathisma21.melody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.name
 meMA.Kathisma21.incipit = "You kept the Law’s commands…"
 meMA.Kathisma21.text = "You kept the Law’s commands in a God-pleasing manner, * and so you rose above all of Israel’s mothers, * for carrying in your womb the ever-virgin Theotokos. * Elect in holiness, the Lord’s ancestress Anna, * being conveyed from earth to the divine bridal chamber, * you clearly surpass the Just."
 
+meR01 = "The published Menaion does not include a Matins Gospel."
+
 meMA.C1.title = titles_en_US_dedes.ti.CanonSaintW
 meMA.C1.verse = prayers_en_US_dedes.pr.verse_SaintW.text
 
@@ -385,6 +387,7 @@ meLI.Kontakion1.text = me.m07.d25_en_US_dedes.meMA.Kontakion1.text
 meLI.Megalynarion.text = ""
 
 //Supplemental
+meR001 = "The published Menaion does not provide for a Matins Gospel. We have included this section as optional, for a more festal celebration."
 
 alt1.meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode8
 alt1.meMA.Kathisma31.greekmelody = he.a.m8_en_US_dedes.heAU.ToProstachthen.greekname
