@@ -4,15 +4,17 @@ euWED.title = "THE SACRAMENT OF MATRIMONY"
 euWED.translator1 = ""
 euWED.translator2 = "Hymns by Seraphim Dedes."
 
-euWED.Key0200.text = "" //for media for verses
+euWED.Key0200.text = prayers_en_US_dedes.pr.GloryToYouOurGod.text
 
 euWED.Key0217.text = "Lord our God, crown them glory and honor."
 
-euWED.Key0305.mode = miscellanea_en_US_dedes.misc.Mode1
-euWED.Key0305.incipit = "…"
-euWED.Key0305.text = //for media
+euWED.Key0220.title = "THE READINGS"
+euWED.MM.Prokeimenon.text = properties_en_US_dedes.media.key
+euWED.MM.Alleluia.text = properties_en_US_dedes.media.key
 
-euWED.Key0306.title = ""
+euWED.MM.CommunionHymn.text = properties_en_US_dedes.media.key
+
+euWED.Key0306.title = "Troparia"
 euWED.Key0306.mode = miscellanea_en_US_dedes.misc.Mode5
 euWED.Key0306.incipit = he.h.m5_en_US_dedes.heHE.IsaiaChoreve.incipit
 euWED.Key0306.text = he.h.m5_en_US_dedes.heHE.IsaiaChoreve.text
