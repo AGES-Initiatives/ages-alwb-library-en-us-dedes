@@ -652,9 +652,10 @@ ocMA.AposTheotokion.incipit = "You became a dwelling place…"
 ocMA.AposTheotokion.text = "You became a dwelling place that was for God most befitting; * in your body You held God, * and also gave birth to God, holy Virgin Maid. * He was seen by mankind, * as our Lord and Savior, * in one person and two essences. * Earnestly pray to Him, * your firstborn and only beloved Son, * who after being born kept you * spotless and preserved your virginity. * Ask Him to grant rest to the souls of those who fell asleep in faith, * that they may dwell in the light and pure * splendor and in blessedness."
 
 ocMA.ApolTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
-ocMA.ApolTheotokion.melody = ""
-ocMA.ApolTheotokion.incipit = oc.m6.d4_en_US_dedes.ocMA.ApolTheotokion.incipit
-ocMA.ApolTheotokion.text = oc.m6.d4_en_US_dedes.ocMA.ApolTheotokion.text
+ocMA.ApolTheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.greekname
+ocMA.ApolTheotokion.melody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.name
+ocMA.ApolTheotokion.incipit = oc.m6.d3_en_US_dedes.ocMA.Kathisma13.incipit
+ocMA.ApolTheotokion.text = oc.m6.d3_en_US_dedes.ocMA.Kathisma13.text
 
 ocLI.Beatitudes1.mode = miscellanea_en_US_dedes.misc.Mode6
 ocLI.Beatitudes1.melody = he.h.m6_en_US_dedes.heHE.IToChaireDiAngelou.name

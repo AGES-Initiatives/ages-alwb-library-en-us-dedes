@@ -592,9 +592,10 @@ ocMA.AposTheotokion.incipit = "As man, I have been…"
 ocMA.AposTheotokion.text = "As man, I have been nailed to a cross, * and truly I am put to death. * As a mortal, I am laid within a tomb, * but as God, I will in glory * rise again on the third day, * O holy Mother, ever-virgin and pure."
 
 ocMA.ApolTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
-ocMA.ApolTheotokion.melody = ""
-ocMA.ApolTheotokion.incipit = oc.m6.d4_en_US_dedes.ocMA.ApolTheotokion.incipit
-ocMA.ApolTheotokion.text = oc.m6.d4_en_US_dedes.ocMA.ApolTheotokion.text
+ocMA.ApolTheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.greekname
+ocMA.ApolTheotokion.melody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.name
+ocMA.ApolTheotokion.incipit = oc.m6.d3_en_US_dedes.ocMA.Kathisma13.incipit
+ocMA.ApolTheotokion.text = oc.m6.d3_en_US_dedes.ocMA.Kathisma13.text
 
 ocLI.Beatitudes1.mode = miscellanea_en_US_dedes.misc.Mode6
 ocLI.Beatitudes1.melody = he.h.m6_en_US_dedes.heHE.IToChaireDiAngelou.name

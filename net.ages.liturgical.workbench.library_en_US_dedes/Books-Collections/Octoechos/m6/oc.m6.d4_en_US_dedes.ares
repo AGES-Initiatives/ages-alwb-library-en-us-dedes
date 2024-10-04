@@ -79,9 +79,9 @@ ocMA.Kathisma12.text = "Lord, the life of all, the Jews condemned You to death; 
 
 ocMA.Kathisma13.mode = miscellanea_en_US_dedes.misc.Mode6
 ocMA.Kathisma13.greekmelody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.greekname
-ocMA.Kathisma13.melody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.notmetered
-ocMA.Kathisma13.incipit = "The ever-virgin Maiden who gave…"
-ocMA.Kathisma13.text = "The ever-virgin Maiden who gave birth to You, O Christ, saw you lifted on the Cross for us, and her soul was pierced with the spear of sorrow; and she wept, and as a mother she lamented. At her supplications, have mercy on us, O Lord of mercy."
+ocMA.Kathisma13.melody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.name
+ocMA.Kathisma13.incipit = "…"
+ocMA.Kathisma13.text = ""
 
 ocMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode6
 ocMA.Kathisma21.melody = ""
@@ -95,15 +95,15 @@ ocMA.Kathisma22.text = "O Lord, Your Cross was sanctified. Truly cures are effec
 
 ocMA.Kathisma23.mode = miscellanea_en_US_dedes.misc.Mode6
 ocMA.Kathisma23.greekmelody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.greekname
-ocMA.Kathisma23.melody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.notmetered
-ocMA.Kathisma23.incipit = "When the Virgin, who had…"
-ocMA.Kathisma23.text = "When the Virgin, who had given birth to God in the flesh, saw Him hanging on the Cross, she lamented and cried, “I am astounded by Your ineffable long-suffering, O my Son. How could these unlawful men nail You, the just Judge and only Master, to the Cross, as if You were a convict?”"
+ocMA.Kathisma23.melody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.name
+ocMA.Kathisma23.incipit = "…"
+ocMA.Kathisma23.text = ""
 
 ocMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode6
 ocMA.Kathisma31.greekmelody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.greekname
-ocMA.Kathisma31.melody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.notmetered
-ocMA.Kathisma31.incipit = "In Eden, the tree brought…"
-ocMA.Kathisma31.text = "In Eden, the tree brought corruption to our ancestor. But now on Calvary, the tree of the Cross has blossomed life. For the wickedness of the enemy has been trampled; and because of Christ’s crucifixion, Adam has obtained mercy, and he has found Paradise. Therefore he cries aloud, “O tree, you are blessed!”"
+ocMA.Kathisma31.melody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.name
+ocMA.Kathisma31.incipit = "…"
+ocMA.Kathisma31.text = ""
 
 ocMA.Kathisma32.mode = miscellanea_en_US_dedes.misc.Mode6
 ocMA.Kathisma32.melody = ""
@@ -605,9 +605,10 @@ ocMA.AposTheotokion.incipit = "The all-pure Theotokos, O Lord…"
 ocMA.AposTheotokion.text = "The all-pure Theotokos, O Lord, * was watching You be crucified. * As a mother * she was grieving and she cried, saying, “O my sweetest Child, * how is it that You suffer * this painful Passion, O my Son and my God?”"
 
 ocMA.ApolTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
-ocMA.ApolTheotokion.melody = ""
-ocMA.ApolTheotokion.incipit = "The Son and Logos of…"
-ocMA.ApolTheotokion.text = "The Son and Logos of God was begotten of the Father without a Mother before the ages. In the latter times you bore Him, incarnate from your pure blood, without a man, O Mother of God. Entreat Him to grant us forgiveness of sins before the end."
+ocMA.ApolTheotokion.melody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.name
+ocMA.ApolTheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.ElpisTouKosmouAgathi.greekname
+ocMA.ApolTheotokion.incipit = oc.m6.d3_en_US_dedes.ocMA.Kathisma13.incipit
+ocMA.ApolTheotokion.text = oc.m6.d3_en_US_dedes.ocMA.Kathisma13.text
 
 ocLI.Beatitudes1.mode = miscellanea_en_US_dedes.misc.Mode6
 ocLI.Beatitudes1.melody = he.h.m6_en_US_dedes.heHE.IToChaireDiAngelou.name
