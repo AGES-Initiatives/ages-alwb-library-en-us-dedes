@@ -1,15 +1,15 @@
 A_Resource_Whose_Name = me.m02.d08_en_US_dedes
 
 meDA.date = "February 8"
-meDA.commemoration.full = "Memory of the Holy Great-martyr Theodore the General; and the Holy Prophet Zacharias." // full title of day
-meDA.commemoration.first = "Memory of the Holy Great-martyr Theodore the General"
-meDA.commemoration.first_short = "Memory of the Holy Great-martyr Theodore the General"
+meDA.commemoration.full = "Memory of the Holy Great Martyr Theodore the General; and the Holy Prophet Zacharias." // full title of day
+meDA.commemoration.first = "Memory of the Holy Great Martyr Theodore the General"
+meDA.commemoration.first_short = "Memory of the Holy Great Martyr Theodore the General"
 meDA.commemoration.first_title = titles_en_US_dedes.ti.Martyr
 meDA.commemoration.first_name = "St. Theodore the General"
 meDA.commemoration.second_title = titles_en_US_dedes.ti.Prophet
 meDA.commemoration.second_name = ""
-meDA.insert1 = "" // for use in petitions and dismissal
-meDA.insert2 = "" // for use in petitions and dismissal
+meDA.insert1 = "of the holy and glorious Great Martyr Theodore the General," // for use in petitions and dismissal
+meDA.insert2 = "whose memory we are observing," // for use in petitions and dismissal
 meDA.note = ""
 meDA.pdfcoverdate = "February 8,"
 meDA.pdfheaderdate = "February 8"
