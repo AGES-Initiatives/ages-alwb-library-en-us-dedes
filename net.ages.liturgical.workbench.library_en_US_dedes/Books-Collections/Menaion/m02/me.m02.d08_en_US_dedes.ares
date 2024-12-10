@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m02.d08_en_US_dedes
 
 meDA.date = "February 8"
-meDA.commemoration.full = "Memory of the Holy Great Martyr Theodore the General; and the Holy Prophet Zacharias." // full title of day
+meDA.commemoration.full = "Memory of the Holy Great Martyr Theodore the General; and the Holy Prophet Zechariah." // full title of day
 meDA.commemoration.first = "Memory of the Holy Great Martyr Theodore the General"
 meDA.commemoration.first_short = "Memory of the Holy Great Martyr Theodore the General"
 meDA.commemoration.first_title = titles_en_US_dedes.ti.Martyr
@@ -26,17 +26,17 @@ meDA.dismissal = dismissals_en_US_dedes.dis00.meeting
 meVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode5
 meVE.Stichera01.greekmelody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.greekname
 meVE.Stichera01.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
-meVE.Stichera01.incipit = "Rejoice, O holy soldier of…"
+meVE.Stichera01.incipit = "Rejoice, O holy soldier…"
 meVE.Stichera01.text = "Rejoice, O holy soldier of Christ! * You roundly routed the front line of the enemy, * the true faith being your armor, supporting those who believe. * With the many tortures that you underwent, * you purchased the heavenly kingdom of God, O St. Theodore. * As you rejoice there, having truly been deified * by participation, and glowing with gifts of grace, * pray for us and remember us * who honor your glorious * commemoration and reverence the reliquary that holds your bones, * which now is a source of * health and vigor and great mercy to those who ask with faith."
 
 meVE.Stichera02.mode = miscellanea_en_US_dedes.misc.Mode5
 meVE.Stichera02.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
-meVE.Stichera02.incipit = "Rejoice! O sacred head, we…"
+meVE.Stichera02.incipit = "Rejoice! O sacred head…"
 meVE.Stichera02.text = "Rejoice! O sacred head, we salute * the holy firstfruits of victorious Martyrs Saints. * The foe was by you defeated. The Church by you is adorned. * You were aptly named for gifts that come from God. * With miracles, you give light to the earth like a shining lamp. * You, like a pillar that is great, were unshaken by * countless painful tortures the you were submitted to. * You killed the dragon with your great * endurance as with a sword, * and you excelled as a soldier, for you remained undefeatable. * To Christ pray in earnest, * and entreat Him that great mercy be granted to our souls."
 
 meVE.Stichera03.mode = miscellanea_en_US_dedes.misc.Mode5
 meVE.Stichera03.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
-meVE.Stichera03.incipit = "Armed with the holy life-bearing…"
+meVE.Stichera03.incipit = "Armed with the holy…"
 meVE.Stichera03.text = "Armed with the holy life-bearing Cross, * you smashed the idols of the pagans and scattered them. * And therefore you were subjected to whipping, stretched on the rack. * You were mutilated, beaten to a pulp. * They torched you, all-blessed one. They impaled you with sharpened stakes. * They crucified you, and you bravely endured it all. * And they blinded you, when by force they plucked out your eyes. * Therefore we call you blessed now, * for you have competed well * and were awarded the medals and crowns from heaven, O Theodore. * To Christ pray in earnest, * and entreat Him that great mercy be granted to our souls."
 
 meVE.Stichera04.mode = miscellanea_en_US_dedes.misc.Mode8
@@ -109,8 +109,8 @@ meVE.Apolytikion2ger.text = ""
 meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode4
 meMA.Kathisma11.greekmelody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.notmetered
-meMA.Kathisma11.incipit = "Christ’s triumphant athlete who is…"
-meMA.Kathisma11.text = "Christ’s triumphant athlete who is called great, and who is beloved by God and by Angels, yes, marvelous and glorious Theodore, today in the Holy Spirit brings gladness to all the holy churches under the sun; and he prompts everyone to celebrate his memory with joy."
+meMA.Kathisma11.incipit = "…"
+meMA.Kathisma11.text = ""
 
 meMA.Kathisma12.mode = miscellanea_en_US_dedes.misc.Mode4
 meMA.Kathisma12.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
@@ -121,8 +121,8 @@ meMA.Kathisma12.text = me.m02.d02_en_US_dedes.meMA.Ode3Kathisma1.text
 meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode1
 meMA.Kathisma21.greekmelody = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.greekname
 meMA.Kathisma21.melody = he.a.m1_en_US_dedes.heAU.TouLithouSfragisthentos.name
-meMA.Kathisma21.incipit = "…"
-meMA.Kathisma21.text = ""
+meMA.Kathisma21.incipit = me.m02.d01_en_US_dedes.meMA.Ode3Kathisma2.incipit
+meMA.Kathisma21.text = me.m02.d01_en_US_dedes.meMA.Ode3Kathisma2.text
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -695,10 +695,10 @@ meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode3
-meMA.Exaposteilarion2.greekmelody = me.m02.d02_en_US_dedes.meMA.Exaposteilarion1.greekmelody
-meMA.Exaposteilarion2.melody = me.m02.d02_en_US_dedes.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion2.incipit = me.m02.d02_en_US_dedes.meMA.Exaposteilarion1.incipit
-meMA.Exaposteilarion2.text = me.m02.d02_en_US_dedes.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.greekname
+meMA.Exaposteilarion2.melody = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.melody
+meMA.Exaposteilarion2.incipit = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.incipit
+meMA.Exaposteilarion2.text = he.a.m3_en_US_dedes.heAU.EnPnevmatiToIero.text
 
 meMA.Lauds1.mode = miscellanea_en_US_dedes.misc.Mode4
 meMA.Lauds1.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
@@ -724,23 +724,23 @@ meMA.LaudsGlory.text = "You piously wore the armor of athletic valor and rationa
 meMA.LaudsBoth.poet = poets_en_US_dedes.po.Germanou
 meMA.LaudsBoth.mode = miscellanea_en_US_dedes.misc.Mode2
 meMA.LaudsBoth.melody = ""
-meMA.LaudsBoth.incipit = me.m02.d02_en_US_dedes.meVE.Lity6.incipit
-meMA.LaudsBoth.text = me.m02.d02_en_US_dedes.meVE.Lity6.text
+meMA.LaudsBoth.incipit = me.m02.d01_en_US_dedes.meMA.AposGlory.incipit
+meMA.LaudsBoth.text = me.m02.d01_en_US_dedes.meMA.AposGlory.text
 
 meMA.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
 meMA.Aposticha1.greekmelody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
-meMA.Aposticha1.incipit = "He who as Lord of…"
+meMA.Aposticha1.incipit = "He who as Lord of all…"
 meMA.Aposticha1.text = "He who as Lord of all * and as the world’s Creator * contains all things in His hand, * is brought into the Temple in hands of Elder Symeon."
 
 meMA.Aposticha2.mode = miscellanea_en_US_dedes.misc.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
-meMA.Aposticha2.incipit = "Symeon, leap for joy, *…"
+meMA.Aposticha2.incipit = "Symeon, leap for joy…"
 meMA.Aposticha2.text = "Symeon, leap for joy, * and Anna, be exultant! * Behold, the world’s Redeemer * has finally appeared and is brought in as an newborn babe."
 
 meMA.Aposticha3.mode = miscellanea_en_US_dedes.misc.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
-meMA.Aposticha3.incipit = "God-bearer Symeon, * in your…"
+meMA.Aposticha3.incipit = "God-bearer Symeon…"
 meMA.Aposticha3.text = "God-bearer Symeon, * in your embraces holding * the One who holds together * all things, you see salvation, * releasing you from death’s decay."
 
 meMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
