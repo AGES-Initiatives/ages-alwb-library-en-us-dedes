@@ -63,8 +63,8 @@ meVE.SticGlory.text = "Come and let us celebrate the universal feast of the Dorm
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.Aposticha1.greekmelody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
-meVE.Aposticha1.incipit = me.m08.d15_en_US_dedes.meSV.Aposticha1.incipit
-meVE.Aposticha1.text = me.m08.d15_en_US_dedes.meSV.Aposticha1.text
+meVE.Aposticha1.incipit = "…"
+meVE.Aposticha1.text = ""
 
 meVE.Aposticha2.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.Aposticha2.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
@@ -651,8 +651,8 @@ alt1.meSV.AposGlory.text = "Glory to You, O King * of all and loving Giver * of 
 
 alt1.meSV.AposBoth.mode = miscellanea_en_US_dedes.misc.Mode2
 alt1.meSV.AposBoth.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
-alt1.meSV.AposBoth.incipit = "Lift up your holy hands…"
-alt1.meSV.AposBoth.text = "Lift up your holy hands * unto your Son, good Lady, * entreating that the Maker * have mercy on your servants. For He is good and loves our souls."
+alt1.meSV.AposBoth.incipit = me.m08.d14_en_US_dedes.meMA.AposGlory.incipit
+alt1.meSV.AposBoth.text = me.m08.d14_en_US_dedes.meMA.AposGlory.text
 
 alt1.meVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode4
 alt1.meVE.Stichera01.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
